@@ -1,31 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-05-31T12:54:00-04:00"
-lastmod: "2018-06-05T11:46:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528054146043/Opera5.jpg.jpg
-primary_image_credit: Opera 5 Artistic Director Jessica Derventzis (top) and Music
-  Director Evan Mitchell.
-publishDate: "2018-06-04T22:52:00-04:00"
-related_articles:
-- articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md
-- articles/in-review-the-barber-of-seville-at-roh.md
-related_companies:
-- scene/companies/opera-5.md
-related_people:
-- scene/people/stephanie-tritchew.md
-- scene/people/johnathon-kirby.md
-- scene/people/jeremy-ludwig.md
-- scene/people/kevin-myers.md
-- scene/people/rachel-krehm.md
-- scene/people/evan-mitchell.md
-short_description: 'Derventzis loves that Beaumarchais&#039; Figaro plays - the 18th
-  century source material of Rossini&#039;s Barber - tell stories of rich people being
-  outwitted by society&#039;s underdogs: &quot;a woman and a servant.&quot;'
-slug: opera-5-new-faces-new-show
-title: 'Opera 5: new faces, new show'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-05-31T12:54:00-04:00"
+lastmod = "2018-06-05T11:46:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528054146043/Opera5.jpg.jpg"
+primary_image_credit = "Opera 5 Artistic Director Jessica Derventzis (top) and Music Director Evan Mitchell."
+publishDate = "2018-06-04T22:52:00-04:00"
+related_articles = ["articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md","articles/in-review-the-barber-of-seville-at-roh.md"]
+related_companies = ["scene/companies/opera-5.md"]
+related_people = ["scene/people/stephanie-tritchew.md","scene/people/johnathon-kirby.md","scene/people/jeremy-ludwig.md","scene/people/kevin-myers.md","scene/people/rachel-krehm.md","scene/people/evan-mitchell.md"]
+short_description = "Derventzis loves that Beaumarchais&#039; Figaro plays - the 18th century source material of Rossini&#039;s Barber - tell stories of rich people being outwitted by society&#039;s underdogs: &quot;a woman and a servant.&quot;"
+slug = "opera-5-new-faces-new-show"
+title = "Opera 5: new faces, new show"
++++
 
 Along with their upcoming production of Rossini's [*Il barbiere di Siviglia*, **June 13-17**](http://opera5.ca/barber/) at Toronto's Factory Theatre, Opera 5 is rolling out the exciting news of their new leadership.
 
@@ -47,9 +34,7 @@ Derventzis loves that Beaumarchais' *Figaro* plays - the 18th century source mat
 
 "Rosina is very intelligent and very wise to her surroundings," Derventzis adds. "The fact that she's able to get out of there on her and create this freedom for herself, says a lot about how wrong men are about women."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528213592056/Barbiere-poster-web.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528213592056/Barbiere-poster-web.jpg.jpg)
 </figure>
 
 Opera 5's [*Il barbiere di Siviglia*](http://opera5.ca/barber/) runs for three performances, **June 13, 15, and 17** at Factory Theatre, 125 Bathurst St. For details and tickets, [click here.](http://opera5.ca/barber/)

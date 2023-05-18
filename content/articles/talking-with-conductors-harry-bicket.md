@@ -1,37 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-07-15T13:42:00-04:00"
-lastmod: "2017-07-19T11:04:00-04:00"
-preamble: |-
-  At the podium for David Alden's production of [*Alcina*](https://www.santafeopera.org/operas-and-ticketing/alcina) at [The Santa Fe Opera](/scene/companies/the-santa-fe-opera/) (**July 29-August 23**) is in-demand conductor of Baroque opera, Harry Bicket. Bicket leads an exciting cast that features [Elza van den Heever](/talking-with-singers-elza-van-den-heever/) in the title role, [Anna Christy](/scene/people/anna-christy/) as Morgana, and [Daniela Mack](/talking-with-singers-daniela-mack/) as Bradamante.
-
-  Bicket's Santa Fe debut came in 2004 with *Agrippina*, and he became Chief Conductor of The Santa Fe Opera in 2013. We spoke with him about the "extraordinarily profound music" that Handel writes for Alcina, and the storytelling among the composer's "relatively simple" scores.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500140624557/2017-07-15---Bicket-Acosta.jpg.jpg
-primary_image_credit: Photo by Dario Acosta.
-publishDate: "2017-07-19T11:04:00-04:00"
-related_articles:
-- articles/spotlight-on-christopher-allen.md
-- articles/gordon-gerrard-music-doesnt-really-work-without-breath.md
-- articles/young-singers-in-santa-fe-stephen-martin.md
-- articles/talking-with-conductors-oliver-zeffman.md
-- articles/talking-with-conductors-alexander-joel.md
-- articles/talking-with-conductors-george-jackson.md
-related_companies:
-- scene/companies/the-santa-fe-opera.md
-related_people:
-- scene/people/anna-christy.md
-- scene/people/elza-van-den-heever.md
-- scene/people/daniela-mack.md
-- scene/people/harry-bicket.md
-short_description: '&quot;The notes of a Handel opera are relatively simple, compared
-  to a Strauss or Wagner opera, but I concentrate a lot on the rhetorical gesture
-  of every phrase and in creating a soundworld that precisely matches the emotional
-  temperature of the drama.&quot;'
-slug: talking-with-conductors-harry-bicket
-title: 'Talking with conductors: Harry Bicket'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-07-15T13:42:00-04:00"
+lastmod = "2017-07-19T11:04:00-04:00"
+preamble = "At the podium for David Alden's production of [*Alcina*](https://www.santafeopera.org/operas-and-ticketing/alcina) at [The Santa Fe Opera](/scene/companies/the-santa-fe-opera/) (**July 29-August 23**) is in-demand conductor of Baroque opera, Harry Bicket. Bicket leads an exciting cast that features [Elza van den Heever](/talking-with-singers-elza-van-den-heever/) in the title role, [Anna Christy](/scene/people/anna-christy/) as Morgana, and [Daniela Mack](/talking-with-singers-daniela-mack/) as Bradamante.\n\nBicket's Santa Fe debut came in 2004 with *Agrippina*, and he became Chief Conductor of The Santa Fe Opera in 2013. We spoke with him about the \"extraordinarily profound music\" that Handel writes for Alcina, and the storytelling among the composer's \"relatively simple\" scores."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500140624557/2017-07-15---Bicket-Acosta.jpg.jpg"
+primary_image_credit = "Photo by Dario Acosta."
+publishDate = "2017-07-19T11:04:00-04:00"
+related_articles = ["articles/spotlight-on-christopher-allen.md","articles/gordon-gerrard-music-doesnt-really-work-without-breath.md","articles/young-singers-in-santa-fe-stephen-martin.md","articles/talking-with-conductors-oliver-zeffman.md","articles/talking-with-conductors-alexander-joel.md","articles/talking-with-conductors-george-jackson.md"]
+related_companies = ["scene/companies/the-santa-fe-opera.md"]
+related_people = ["scene/people/anna-christy.md","scene/people/elza-van-den-heever.md","scene/people/daniela-mack.md","scene/people/harry-bicket.md"]
+short_description = "&quot;The notes of a Handel opera are relatively simple, compared to a Strauss or Wagner opera, but I concentrate a lot on the rhetorical gesture of every phrase and in creating a soundworld that precisely matches the emotional temperature of the drama.&quot;"
+slug = "talking-with-conductors-harry-bicket"
+title = "Talking with conductors: Harry Bicket"
++++
 
 ## How did you find yourself a "specialist" of sorts in Baroque music?
  

@@ -1,24 +1,17 @@
----
-author:
-- authors/andrew-schneider.md
-categories: Review
-date: "2018-04-25T15:45:00-04:00"
-lastmod: "2018-04-25T17:28:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524685175131/sqhgo---west-side-story---photographer-lynn-lane-30-3000x2000.jpg.jpg
-primary_image_credit: 'Andrea Carroll (Maria) and Norman Reinhardt (Tony) in West
-  Side Story, Houston Grand Opera, 2018. Photo: Lynn Lane.'
-publishDate: "2018-04-25T17:28:00-04:00"
-related_articles:
-- articles/a-definitive-hit-west-side-story-in-atlanta.md
-related_companies:
-- scene/companies/houston-grand-opera.md
-short_description: HGO hit the nail on the head in making West Side Story come across
-  as a highly successful play with songs, with Jerome Robbins&#039;s choreography
-  being by far the lead attraction of the evening in terms of its sheer power of unspoken
-  expression.
-slug: beloved-bernstein-hgos-west-side-story
-title: 'Beloved Bernstein: HGO&#039;s West Side Story'
----
++++
+author = ["authors/andrew-schneider.md"]
+categories = "Review"
+date = "2018-04-25T15:45:00-04:00"
+lastmod = "2018-04-25T17:28:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524685175131/sqhgo---west-side-story---photographer-lynn-lane-30-3000x2000.jpg.jpg"
+primary_image_credit = "Andrea Carroll (Maria) and Norman Reinhardt (Tony) in West Side Story, Houston Grand Opera, 2018. Photo: Lynn Lane."
+publishDate = "2018-04-25T17:28:00-04:00"
+related_articles = ["articles/a-definitive-hit-west-side-story-in-atlanta.md"]
+related_companies = ["scene/companies/houston-grand-opera.md"]
+short_description = "HGO hit the nail on the head in making West Side Story come across as a highly successful play with songs, with Jerome Robbins&#039;s choreography being by far the lead attraction of the evening in terms of its sheer power of unspoken expression."
+slug = "beloved-bernstein-hgos-west-side-story"
+title = "Beloved Bernstein: HGO&#039;s West Side Story"
++++
 
 The production of *West Side Story* that [Houston Grand Opera](/scene/companies/houston-grand-opera/) mounted this past Friday in the centennial year of its composer, the magisterially versatile Leonard Bernstein, proved itself to have been long overdue. I have always been a fan of his music, which brilliantly integrates elements of the culture of the United States into a cohesive whole; though this Broadway musical, the first one I have seen in a long time, rather underwhelmed me in certain aspects in comparison to the hype with which it has been promoted.
 
@@ -29,13 +22,13 @@ Especially jarring to me, however, was the extremely dated nature of Arthur Laur
 Certainly with as many highly involved scene changes as this show demonstrated, an episodic feel was unavoidable; I stress that this is something that operatic audiences are not inclined to expect so much of, given their expectations for elaborate morceaux d'ensemble, as do people who see musicals
 regularly.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524689232198/hgo---west-side-story---photographer-lynn-lane-21-3000x2000.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524689232198/hgo---west-side-story---photographer-lynn-lane-21-3000x2000.jpg.jpg)
 <figcaption>Ensemble members in *West Side Story*, Houston Grand Opera, 2018. Photo: Lynn Lane.</figcaption>
 </figure>
 
 All of that aside, Bernstein's marriage of highly adept music to Stephen Sondheim's cynical lyrics was very much on display, with supreme vocalism being prevalent throughout the evening, as one would only expect. Though Bernstein's expertly crafted hit tunes, ensembles, and ballads were sung with a great deal of earnestness and genuine feeling, especially with the often snide and contrapuntal accompaniments being unsettled just below the surface in the way only a master composer can successfully pull off, the songs always felt like they were somehow interrupting dramatic momentum, and they generally always felt quite short in duration. 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524689360657/hgo---west-side-story---photographer-lynn-lane-45-3000x2000.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524689360657/hgo---west-side-story---photographer-lynn-lane-45-3000x2000.jpg.jpg)
 <figcaption>Andrea Carroll (Maria) and Norman Reinhardt in *West Side Story*, Houston Grand Opera, 2018. Photo: Lynn Lane.</figcaption>
 </figure>
 
@@ -43,7 +36,7 @@ Nevertheless, this definitely accentuated the notion that the songs, for the mos
 
 As Tony, tenor Norman Reinhardt was a very convincing example of this trait; this role gave him a great opportunity to display both his superb high register and his declamatory lower register. Overall, he got the very idealistic nature of his character just right, definitely a character that has no place around such pandillas, one who is searching for some greater meaning in this world that will simply not allow for him to find it. "Something was coming," indeed. When it was time for him to sing "Maria", he definitely sounded to my ear like a liberated soul free to express itself, though not in an entirely uninhibited manner: there was a certain sense of awe about Tony's realization of his finding love that kept his soliloquy somewhat in check. His frantic rant towards the end wherein he was searching for a final confrontation with Chino (a very human Dominic Pecikonis) truly was a cri du coeur in the most intimate sense, one which the absence of a musical accompaniment really let him express to the fullest extent.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524689429329/hgo---west-side-story---photographer-lynn-lane-56-3000x2000.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524689429329/hgo---west-side-story---photographer-lynn-lane-56-3000x2000.jpg.jpg)
 <figcaption>Amanda Castro (Consuela), Alissa LaVergne (Estella), Gabrielle McClinton (Anita), Tempestt Perrin (Francisca), and Tasha Heggem (Teresita) in *West Side Story*, Houston Grand Opera, 2018. Photo: Lynn Lane.</figcaption>
 </figure>
 
@@ -53,7 +46,7 @@ Indeed she radiated an air of "feeling pretty", but I sensed that this role is l
 
 Yet so are many of the roles in this show, which give the impression of being caricatures that are struggling for a real purpose. In particular, the unmotivated adults who seem to know no practicable way of dealing with the senseless warfare in the streets are easily singled out. The hapless and brutish Officer Krupke (Thomas Glass), less than skilled at probing interrogation, was a particularly distasteful portrait; indeed one almost felt Glass's sense of frustration in not being allowed to make these particular cops look in any way charitable.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524689446191/hgo---west-side-story---photographer-lynn-lane-127-3000x2000.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524689446191/hgo---west-side-story---photographer-lynn-lane-127-3000x2000.jpg.jpg)
 <figcaption>Gabrielle McClinton (Anita) and Andrea Carroll (Maria) in *West Side Story*, Houston Grand Opera, 2018. Photo: Lynn Lane.</figcaption>
 </figure>
 
@@ -61,7 +54,7 @@ The most genuine of these characters would probably have to have been Zoie Reams
 
 Generally the cast members making up the gangs were skilled at portraying aimless youths with no clear purpose in life and only knowing the motivations of sex and survival. Brian Vu's take on Riff was particularly apt in portraying somebody with at least some sense of his own dignity without whom the world would not be the same. When he and then Bernardo (a dynamic DJ Petrosino) went down at the end of Act I, their absence cast a tangible pall over the rest of the performance: I genuinely missed them.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524689459269/hgo---west-side-story---photographer-lynn-lane-64-3000x2000.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524689459269/hgo---west-side-story---photographer-lynn-lane-64-3000x2000.jpg.jpg)
 <figcaption>Connor McRory (Action), Christopher Tipps (Baby John), Rachel Mengden (Clarice), Kelsey Kincaid-Gibbs (Anybodys), Ben Delony (Snow Boy), Melissa Hunter McCann (Graziella), Brian Vu (Riff), Tucker Breder (Big Deal), Megan Morgan (Velma), PJ Palmer (A-Rab), Rob Fleebe (Gee-tar), and Randy Castillo (Diesel) in *West Side Story*, Houston Grand Opera, 2018. Photo: Lynn Lane.</figcaption>
 </figure>
 

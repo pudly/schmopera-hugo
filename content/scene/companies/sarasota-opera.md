@@ -1,27 +1,22 @@
----
-date: "2015-06-24T18:38:00-06:00"
-lastmod: "2015-06-24T18:38:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435192647930/Zj4gsTf09iAZ_7gJNSaT-kZAtiM5YWmIx18CkJKUOWLPiIU5URtp_FZl6WuW06wBqqw%3Dw300
-publishDate: "2015-06-24T18:38:00-06:00"
-related_people:
-- scene/people/christopher-james-ray.md
-- scene/people/amal-elshrafi.md
-- scene/people/adelaide-boedecker.md
-- scene/people/blythe-gaissert.md
-- scene/people/kara-shay-thomson.md
-slug: sarasota-opera
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/sarasotaopera?fref=ts
-- _template: company_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/sarasotaopera
-title: Sarasota Opera
-type_of_company: Opera Company
-website: http://www.sarasotaopera.org/index.aspx
----
++++
+date = "2015-06-24T18:38:00-06:00"
+lastmod = "2015-06-24T18:38:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435192647930/Zj4gsTf09iAZ_7gJNSaT-kZAtiM5YWmIx18CkJKUOWLPiIU5URtp_FZl6WuW06wBqqw%3Dw300"
+publishDate = "2015-06-24T18:38:00-06:00"
+related_people = ["scene/people/christopher-james-ray.md","scene/people/amal-elshrafi.md","scene/people/adelaide-boedecker.md","scene/people/blythe-gaissert.md","scene/people/kara-shay-thomson.md"]
+slug = "sarasota-opera"
+title = "Sarasota Opera"
+type_of_company = "Opera Company"
+website = "http://www.sarasotaopera.org/index.aspx"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/sarasotaopera?fref=ts"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/sarasotaopera"
++++
 
 In 1960 the group, then called Asolo Opera Guild was formed to present the touring Turnau Opera in chamber-sized productions in the historic 320 seat Asolo Theater on the grounds of Sarasota's Ringling Museum of Art. In 1973 the company began mounting its own productions. Recognizing the need for a theater more conducive to opera, the company purchased the former A.B. Edwards Theater in downtown Sarasota in 1979. Renovations began in 1982 and the theater, now on the National Register of Historic Places, opened in 1984 as the Sarasota Opera House, the company it housed now being called Sarasota Opera.
 

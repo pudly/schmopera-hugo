@@ -1,25 +1,22 @@
----
-date: "2015-08-19T19:49:00+02:00"
-discipline: Soprano
-lastmod: "2015-08-19T19:49:00+02:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1440006435818/BethHeadshotSquare.jpg.jpg
-publishDate: "2015-08-19T19:49:00+02:00"
-related_companies:
-- scene/companies/halifax-summer-opera-festival.md
-- scene/companies/loose-tea-music-theatre.md
-- scene/companies/indie-opera-to.md
-slug: beth-hagerman
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/BethHagermanSoprano
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/BethHagerman
-title: Beth Hagerman
-website: http://www.bethhagerman.com/home.html
----
++++
+date = "2015-08-19T19:49:00+02:00"
+discipline = "Soprano"
+lastmod = "2015-08-19T19:49:00+02:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1440006435818/BethHeadshotSquare.jpg.jpg"
+publishDate = "2015-08-19T19:49:00+02:00"
+related_companies = ["scene/companies/halifax-summer-opera-festival.md","scene/companies/loose-tea-music-theatre.md","scene/companies/indie-opera-to.md"]
+slug = "beth-hagerman"
+title = "Beth Hagerman"
+website = "http://www.bethhagerman.com/home.html"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/BethHagermanSoprano"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/BethHagerman"
++++
 
 New Brunswick native Beth Hagerman is a Toronto-based soprano and one of the 2014-2015 Rebanks Family Fellows at the Glenn Gould School (GGS). In November, she was featured in the Canadian Opera Company's Noon Hour Concert series in a program of chamber music, including Bolcom’s *Let Evening Come* and Chausson’s *Chanson Perpétuelle*. Miss Hagerman recorded a short recital with John O’Conor in CBC’s Studio One in Vancouver in December to be broadcasted later this year. Also, the celebrated new series, Pocket Concerts presented Miss Hagerman in December in a program entitled, *Songs From My Cupboard*, featuring works by Toronto composer and pianist, Peter Tiefenbach.  In October, she performed a recital, Fun with Song, as part of the Colours of Music Festival with Patricia O’Callaghan, Peter Tiefenbach, and Robert Kortgaard. This performance led to a review in The Barrie Examiner which described audiences as “delighted” and Beth’s voice as “enormous” and a “great beauty”.
 

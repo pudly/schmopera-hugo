@@ -1,25 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-03-09T18:08:00+01:00"
-lastmod: "2017-03-10T11:53:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489085514742/2017-03-10---Clock.jpg.jpg
-publishDate: "2017-03-10T11:47:00+01:00"
-related_articles:
-- articles/she-said-they-said-crossed-wires-in-buenos-aires.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-related_people:
-- scene/people/jonas-kaufmann.md
-short_description: With the few exceptions of singers who are stepping back into a
-  production they&#039;ve already rehearsed, with the same cast and conductor, it
-  seems as though companies are willing to offer their audiences a lesser production
-  in favour of having a famous name onstage. And maybe it&#039;s a profitable trade-off.
-  It just feels...not right.
-slug: star-opera-singers-timeefficient-or-just-late-to-rehearsal
-title: 'Star opera singers: time-efficient, or just late to rehearsal?'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-03-09T18:08:00+01:00"
+lastmod = "2017-03-10T11:53:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489085514742/2017-03-10---Clock.jpg.jpg"
+publishDate = "2017-03-10T11:47:00+01:00"
+related_articles = ["articles/she-said-they-said-crossed-wires-in-buenos-aires.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/jonas-kaufmann.md"]
+short_description = "With the few exceptions of singers who are stepping back into a production they&#039;ve already rehearsed, with the same cast and conductor, it seems as though companies are willing to offer their audiences a lesser production in favour of having a famous name onstage. And maybe it&#039;s a profitable trade-off. It just feels...not right."
+slug = "star-opera-singers-timeefficient-or-just-late-to-rehearsal"
+title = "Star opera singers: time-efficient, or just late to rehearsal?"
++++
 
 Though it's decidedly not great timing to pull out of a new production at [the Metropolitan Opera](/scene/companies/the-metropolitan-opera/) mere weeks after it's announced, star tenor [Jonas Kaufmann](/scene/people/jonas-kaufmann/) is one of the fortunate few among opera singers who can afford to do so.
 

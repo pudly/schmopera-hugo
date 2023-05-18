@@ -1,23 +1,22 @@
----
-date: "2017-04-20T17:56:00-04:00"
-lastmod: "2017-04-20T21:26:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492725309294/Logo---NYOA.jpg.jpg
-publishDate: "2017-04-20T17:56:00-04:00"
-related_people:
-- scene/people/samarie-alicea.md
-slug: new-york-opera-alliance
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/NYOperaAlliance/
-- _template: company_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/NYOperaAlliance
-title: New York Opera Alliance
-type_of_company: Opera collective
-website: http://nyoperaalliance.org/NYOA/index2.aspx
----
++++
+date = "2017-04-20T17:56:00-04:00"
+lastmod = "2017-04-20T21:26:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492725309294/Logo---NYOA.jpg.jpg"
+publishDate = "2017-04-20T17:56:00-04:00"
+related_people = ["scene/people/samarie-alicea.md"]
+slug = "new-york-opera-alliance"
+title = "New York Opera Alliance"
+type_of_company = "Opera collective"
+website = "http://nyoperaalliance.org/NYOA/index2.aspx"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/NYOperaAlliance/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/NYOperaAlliance"
++++
 
 #### Who We Are
 

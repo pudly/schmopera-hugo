@@ -1,27 +1,29 @@
----
-date: "2016-10-29T18:08:00+01:00"
-discipline: Tenor
-lastmod: "2016-10-29T18:08:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477760658780/Gwilym%20Bowen.jpg.jpg
-publishDate: "2016-10-29T18:08:00+01:00"
-slug: gwilym-bowen
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/gwilymbowen
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/gwilymbowen/
-- platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/channel/UC575Mt2B4thkte0sTrrpysA
-- _template: people_single
-  platform: Soundcloud
-  template: social-media
-  url: https://soundcloud.com/gwilym_bowen
-title: Gwilym Bowen
-website: http://www.gwilymbowen.com/
----
++++
+date = "2016-10-29T18:08:00+01:00"
+discipline = "Tenor"
+lastmod = "2016-10-29T18:08:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477760658780/Gwilym%20Bowen.jpg.jpg"
+publishDate = "2016-10-29T18:08:00+01:00"
+slug = "gwilym-bowen"
+title = "Gwilym Bowen"
+website = "http://www.gwilymbowen.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/gwilymbowen"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/gwilymbowen/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UC575Mt2B4thkte0sTrrpysA"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "https://soundcloud.com/gwilym_bowen"
++++
 
 Born in Hereford, Gwilym Bowen was a choral scholar at Trinity College, Cambridge, where he graduated with double-First class honours in Music, subsequently studying at the Royal Academy of Music.
 

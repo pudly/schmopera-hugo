@@ -1,40 +1,29 @@
----
-author:
-- authors/neil-weisensel.md
-categories: Review
-date: "2022-04-14T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1649863965/media/2022/04/sqMO_galaconcert_Photo2_qj6ypt.jpg
-primary_image_credit: 'Mezzo-soprano Catherine Daniel in Manitoba Opera''s Gala Concert,
-  2022. Photo: C. Corneau.'
-related_articles: []
-related_companies:
-- scene/companies/manitoba-opera.md
-related_people:
-- scene/people/lizzy-hoyt.md
-- scene/people/david-pomeroy.md
-- scene/people/james-westman.md
-- scene/people/lara-ciekiewicz.md
-- scene/people/catherine-daniel.md
-short_description: The crowd rose to their feet after this aria, applauding and cheering
-  an downright incredible performance. And her singing in the final quartet, from
-  Verdi's Rigoletto, reminded me of Denyce Graves.
-slug: daniel-shines-in-manitoba-operas-gala-concert
-title: Daniel shines in Manitoba Opera's Gala Concert
-youtube_url: ""
----
++++
+author = ["authors/neil-weisensel.md"]
+categories = "Review"
+date = 2022-04-14T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649863965/media/2022/04/sqMO_galaconcert_Photo2_qj6ypt.jpg"
+primary_image_credit = "Mezzo-soprano Catherine Daniel in Manitoba Opera's Gala Concert, 2022. Photo: C. Corneau."
+related_articles = []
+related_companies = ["scene/companies/manitoba-opera.md"]
+related_people = ["scene/people/lizzy-hoyt.md", "scene/people/david-pomeroy.md", "scene/people/james-westman.md", "scene/people/lara-ciekiewicz.md", "scene/people/catherine-daniel.md"]
+short_description = "The crowd rose to their feet after this aria, applauding and cheering an downright incredible performance. And her singing in the final quartet, from Verdi's Rigoletto, reminded me of Denyce Graves."
+slug = "daniel-shines-in-manitoba-operas-gala-concert"
+title = "Daniel shines in Manitoba Opera's Gala Concert"
+youtube_url = ""
+
++++
 This month's Gala Concert at Winnipeg's Centennial Concert Hall, presented by [Manitoba Opera](/scene/companies/manitoba-opera/), was a veritable cornucopia of operatic hits, featuring top Canadian talent supported by the Winnipeg Symphony Orchestra under the steady baton of Maestro Tyrone Paterson.
 
 It’s been a long, frustrating 28 months since Manitoba opera last staged a large-scale work on the mainstage, Carlisle Floyd's _Susannah_ in November of 2019. None of  us knew that our world was on the cusp of tumultuous change. The program presented last night was in fact a replacement of Rossini’s _La Cenerentola_, which will now appear this fall. As a replacement concert, however, I am happy to report that it was pretty darn entertaining!
 
 The evening started off with heartfelt appeal from MO Chorus member George Nytepchuk in support of the people of Ukraine who are suffering through this insane war, and the singing of the Ukrainian and Canadian national anthem.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1649864080/media/2022/04/MO_gala_Photo1_uqkwok.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1649864080/media/2022/04/MO_gala_Photo1_uqkwok.jpg){{% /md %}}
 
 <figcaption>(l-r) David Pomeroy, Lara Ciekiewicz, Catherine Daniel, Lizzy Hoyt, James Westman, and Tyrone Pateron conducting the Winnipeg Symphony Orchestra in Manitoba Opera's Gala Concert, 2022. Photo: C. Corneau.</figcaption>  
 </figure>
@@ -45,9 +34,7 @@ Tenor [David Pomeroy](/scene/people/david-pomeroy/) shone in his two excerpts: t
 
 Baritone [James Westman](/scene/people/james-westman/) came out with élan and flair with the Toreador song from Bizet's _Carmen_. Almost as famous as an opera aria can be, Westman brought his signature warm and ringing clarity to the role. In a situation such as this, where the orchestra is onstage (and not in the pit) I could have wished for more diction. But I also want to be generous and say that many of these performers have not been on stage for some time. Full disclosure: Westman sang the role of Louis Riel in my opera _Li Keur, Riel's Heart of the North_ (libretto by Suzanne Steele) and so I'm trying my best to stay objective! For me, his most persuasive singing of the evening was in Germont's aria "Di Provenza il mar" from Verdi's _La Traviata_, where he sang with great feeling, tenderness, power and passion.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1649864142/media/2022/04/MO_galaconcert_Photo3_feduz7.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1649864142/media/2022/04/MO_galaconcert_Photo3_feduz7.jpg){{% /md %}}
 
 <figcaption>David Pomeroy and Catherine Daniel in Manitoba Opera's Gala Concert, 2022. Photo: C. Corneau.</figcaption>  
 </figure>
@@ -56,9 +43,7 @@ Soprano [Lara Ciekiewicz](/scene/people/lara-ciekiewicz/), as an extremely short
 
 The real discovery of the night for me was mezzo-soprano [Catherine Daniel](/scene/people/catherine-daniel/). Her plummy, rich, powerful mezzo was just what the doctor ordered in Donizetti's "O mio Fernando" from his opera _La favorita_. Powerful, penetrating low notes and superb high notes? Come on! Magnetic stage presence, super-sparkly dress? Check. The crowd rose to their feet after this aria, applauding and cheering a downright incredible performance. And her singing in the final quartet, from Verdi's _Rigoletto_, reminded me of Denyce Graves. As a closer, this piece really brought the house down, and reminded us all of how much we have missed hearing voices of this tremendously high calibre, singing together in some of the best repertoire the opera genre has to offer.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1649864162/media/2022/04/MO_galaconcert_Photo4_pbznzp.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1649864162/media/2022/04/MO_galaconcert_Photo4_pbznzp.jpg){{% /md %}}
 
 <figcaption>Lizzy Hoyt in Manitoba Opera's Gala Concert, 2022. Photo: C. Corneau.</figcaption>  
 </figure>

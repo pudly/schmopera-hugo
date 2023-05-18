@@ -1,21 +1,19 @@
----
-date: "2017-07-03T14:31:00-06:00"
-discipline: Choreographer, director
-lastmod: "2017-07-03T14:31:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499113681891/2017-07-03---Matjash-Mrozewski.jpg.jpg
-primary_image_credit: Aleksandar Antonijevic
-publishDate: "2017-07-03T14:31:00-06:00"
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-slug: matjash-mrozewski
-social_media:
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/matjashmrozewski/
-title: Matjash Mrozewski
-website: https://www.matjash.com/
----
++++
+date = "2017-07-03T14:31:00-06:00"
+discipline = "Choreographer, director"
+lastmod = "2017-07-03T14:31:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499113681891/2017-07-03---Matjash-Mrozewski.jpg.jpg"
+primary_image_credit = "Aleksandar Antonijevic"
+publishDate = "2017-07-03T14:31:00-06:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+slug = "matjash-mrozewski"
+title = "Matjash Mrozewski"
+website = "https://www.matjash.com/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/matjashmrozewski/"
++++
 
 Matjash Mrozewski is a Toronto-based choreographer and director with an international career.
 

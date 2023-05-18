@@ -1,16 +1,14 @@
----
-_template: people_single
-date: "2015-06-05T15:51:00-04:00"
-discipline: Conductor
-lastmod: "2015-06-05T15:51:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433533864603/d3d1a7_0151de64ce1c4039941da3f2a4cb6888.jpg_srb_p_600_702_75_22_0.50_1.20_0.00_jpg_srb
-publishDate: "2015-06-05T15:51:00-04:00"
-related_companies:
-- scene/companies/the-dallas-opera.md
-slug: jessica-gethin
-title: Jessica Gethin
-website: http://www.jessicagethin.com/
----
++++
+date = "2015-06-05T15:51:00-04:00"
+discipline = "Conductor"
+lastmod = "2015-06-05T15:51:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433533864603/d3d1a7_0151de64ce1c4039941da3f2a4cb6888.jpg_srb_p_600_702_75_22_0.50_1.20_0.00_jpg_srb"
+publishDate = "2015-06-05T15:51:00-04:00"
+related_companies = ["scene/companies/the-dallas-opera.md"]
+slug = "jessica-gethin"
+title = "Jessica Gethin"
+website = "http://www.jessicagethin.com/"
++++
 
 Australian born conductor Jessica Gethin has won praise from audiences and critics alike for her dynamic energy, outstanding musicianship and abounding presence on the podium.
  

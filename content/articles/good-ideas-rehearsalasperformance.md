@@ -1,22 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-12-29T15:44:00-05:00"
-lastmod: "2016-01-08T14:13:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451944574407/2016-01-04---Open-Door.jpg.jpg
-publishDate: "2016-01-09T09:00:00-05:00"
-related_articles:
-- articles/4-tips-for-when-there-are-too-many-notes.md
-- articles/rehearsing-a-messiah-that-moves.md
-short_description: 'For those involved in the creation of opera, we know that there&#039;s
-  a less-glamourous method of reaching that finished product; so, we&#039;re able
-  to experience the joy of watching a singer achieve something we watched her struggle
-  to do, or admire how things like set, costume, and lighting design can turn a regular
-  old opera scene into utter magic. '
-slug: good-ideas-rehearsalasperformance
-title: 'Good ideas: rehearsal-as-performance'
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-12-29T15:44:00-05:00"
+lastmod = "2016-01-08T14:13:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451944574407/2016-01-04---Open-Door.jpg.jpg"
+publishDate = "2016-01-09T09:00:00-05:00"
+related_articles = ["articles/4-tips-for-when-there-are-too-many-notes.md","articles/rehearsing-a-messiah-that-moves.md"]
+short_description = "For those involved in the creation of opera, we know that there&#039;s a less-glamourous method of reaching that finished product; so, we&#039;re able to experience the joy of watching a singer achieve something we watched her struggle to do, or admire how things like set, costume, and lighting design can turn a regular old opera scene into utter magic. "
+slug = "good-ideas-rehearsalasperformance"
+title = "Good ideas: rehearsal-as-performance"
++++
 
 We know you love to go to the opera. So, wouldn't you also love to be a fly on the wall for the rehearsals?
 

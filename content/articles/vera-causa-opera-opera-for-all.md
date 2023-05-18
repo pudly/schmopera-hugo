@@ -1,30 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-02-06T20:45:00+00:00"
-lastmod: "2017-02-07T23:56:00+00:00"
-preamble: |
-  With its mission to "give opera an exciting face lift," [Vera Causa Opera](/scene/companies/vera-causa-opera/) is a company based in Ontario's Waterloo region that dedicated to doing away with the old, in favour of what makes opera accessible and free from intimidation. VCO performs new works and adapts old ones, and they keep their ticket prices low ($10 for regular admission, $5 for [VCO members](http://www.vcopera.ca/membership), and free for students). They even post videos of their [past productions online](http://www.vcopera.ca/past-shows).
-
-  VCO's next production is Mozart's *Don Giovanni* on **Mard 23, 7pm** at the Kitchener Public Library, and **March 24, 7pm** at the Cambridge Centre for the Arts. We spoke with Dylan Langan, composer, conductor, and Artistic Director of Vera Causa Opera, about how his company offers "opera for all."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486417554467/2017-02-07---VCO.jpg.jpg
-primary_image_credit: Image courtesy of Vera Causa Opera.
-publishDate: "2017-02-07T14:38:00+00:00"
-related_articles:
-- articles/michelle-telford.md
-- articles/kristine-dandavino-on-oshawa-opera.md
-related_companies:
-- scene/companies/vera-causa-opera.md
-short_description: '&quot;Accessible opera is opera which allows the viewer to have
-  a direct connection with the work, and allows for performers that would otherwise
-  not be able to partake in the production to be a significant part of it. The fact
-  of the matter is there are things which hinder a direct connection to traditional
-  opera. For us, we tailor our operas to suit the average person and in some ways
-  take off the rose-coloured glasses.&quot;'
-slug: vera-causa-opera-opera-for-all
-title: 'Vera Causa Opera: &quot;Opera for all.&quot;'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-02-06T20:45:00+00:00"
+lastmod = "2017-02-07T23:56:00+00:00"
+preamble = "With its mission to \"give opera an exciting face lift,\" [Vera Causa Opera](/scene/companies/vera-causa-opera/) is a company based in Ontario's Waterloo region that dedicated to doing away with the old, in favour of what makes opera accessible and free from intimidation. VCO performs new works and adapts old ones, and they keep their ticket prices low ($10 for regular admission, $5 for [VCO members](http://www.vcopera.ca/membership), and free for students). They even post videos of their [past productions online](http://www.vcopera.ca/past-shows).\n\nVCO's next production is Mozart's *Don Giovanni* on **Mard 23, 7pm** at the Kitchener Public Library, and **March 24, 7pm** at the Cambridge Centre for the Arts. We spoke with Dylan Langan, composer, conductor, and Artistic Director of Vera Causa Opera, about how his company offers \"opera for all.\"\n"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486417554467/2017-02-07---VCO.jpg.jpg"
+primary_image_credit = "Image courtesy of Vera Causa Opera."
+publishDate = "2017-02-07T14:38:00+00:00"
+related_articles = ["articles/michelle-telford.md","articles/kristine-dandavino-on-oshawa-opera.md"]
+related_companies = ["scene/companies/vera-causa-opera.md"]
+short_description = "&quot;Accessible opera is opera which allows the viewer to have a direct connection with the work, and allows for performers that would otherwise not be able to partake in the production to be a significant part of it. The fact of the matter is there are things which hinder a direct connection to traditional opera. For us, we tailor our operas to suit the average person and in some ways take off the rose-coloured glasses.&quot;"
+slug = "vera-causa-opera-opera-for-all"
+title = "Vera Causa Opera: &quot;Opera for all.&quot;"
++++
 
 ## Can you tell us a bit about Vera Causa's mission and history?
 
@@ -36,9 +24,7 @@ I first got the idea for VCO when I wrote my first opera, [*Rise of the Roaches*
 
 The first formal Vera Causa Opera show was [*The Death of Maria*](https://www.youtube.com/watch?v=sraWYTW3Lvc&feature=youtu.be) in November of 2015. Following the positive experience of *Rise of the Roaches*, I decided that it was time to formalize this project into an organization. Thus VCO was created, an organization which is dedicated to giving opportunities to deserving young professionals of all sorts, providing them with a positive, collaborative, and professional environment in which to hone their skills. We wholeheartedly believe in making opera more enjoyable, affordable, and accessible to everyone. That means $10 tickets (free for students), putting on new opera, and adapting old operas for a new kind of audience.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418205550/2017-02-07---VCO---River-singing-loud.jpg.jpg)<figcaption>Photo courtesy of Vera Causa Opera.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418205550/2017-02-07---VCO---River-singing-loud.jpg.jpg)<figcaption>Photo courtesy of Vera Causa Opera.</figcaption>
 </figure>
 
 ## What does it mean for opera to be "accessible"? How does Vera Causa advocate this?
@@ -64,9 +50,7 @@ As for accessibility in regards to performers, the reduction in the amount of mu
 Vera Causa Opera fits quite nicely! We are also part of the Cambridge scene, so for us it's a real pleasure to be able to perform and service each city. As for how we fit, we love what other arts organizations are doing in these regions, and they are enjoying what we do too. For me, that's a healthy scene, and one that we love being a part of!
 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418134628/2017-02-07---Vera-Causa.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486418134628/2017-02-07---Vera-Causa.jpg.jpg)
 <figcaption>Dylan Langan, Artistic Director of Vera Causa Opera.</figcaption>
 </figure>
 

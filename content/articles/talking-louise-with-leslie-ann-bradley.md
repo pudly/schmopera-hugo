@@ -1,35 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-04-10T21:16:00-04:00"
-lastmod: "2015-04-10T21:16:00-04:00"
-preamble: "<p>\n\t<em>Canadian soprano </em><a href=\"http://www.leslieannbradley.com/\"
-  target=\"_blank\" data-mce-href=\"http://www.leslieannbradley.com/\">Leslie Ann
-  Bradley</a><em> is currently in Toronto to sing the title role in Charpentier's
-  Louise, for </em><a href=\"http://www.operainconcert.com/Louise.html\" target=\"_blank\"
-  data-mce-href=\"http://www.operainconcert.com/Louise.html\">VOICEBOX: Opera in Concert'</a><em>s
-  upcoming performance on March 29th. Leslie Ann had some great things to say about
-  the opera, singing the role of Louise, and what kind of story it tells about women
-  at the turn of the 20th century. Photo: </em><a href=\"http://www.lisamariemazzucco.com/\"
-  target=\"_blank\" data-mce-href=\"http://www.lisamariemazzucco.com/\">Lisa-Marie
-  Mazzucco</a><em>.</em>\n</p>"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714873377/LeslieAnnBradley.jpg.jpg
-publishDate: "2015-03-26T11:15:00-04:00"
-related_articles:
-- articles/talking-with-singers-othalie-graham.md
-related_companies:
-- scene/companies/voicebox-opera-in-concert.md
-related_people:
-- scene/people/leslie-ann-bradley.md
-short_description: 'Canadian soprano Leslie Ann Bradley is currently in Toronto  to
-  sing the title role in Charpentier&#039;s Louise, for VOICEBOX: Opera in Concert&#039;s
-  upcoming performance on March 29th. Leslie Ann had some great things to say about
-  the opera, singing the role of Louise, and what kind of story it tells about women
-  at the turn of the 20th century. Photo: Lisa-Marie Mazzucco.'
-slug: talking-louise-with-leslie-ann-bradley
-title: Talking Louise with Leslie Ann Bradley
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-04-10T21:16:00-04:00"
+lastmod = "2015-04-10T21:16:00-04:00"
+preamble = "<p>\n\t<em>Canadian soprano </em><a href=\"http://www.leslieannbradley.com/\" target=\"_blank\" data-mce-href=\"http://www.leslieannbradley.com/\">Leslie Ann Bradley</a><em> is currently in Toronto to sing the title role in Charpentier's Louise, for </em><a href=\"http://www.operainconcert.com/Louise.html\" target=\"_blank\" data-mce-href=\"http://www.operainconcert.com/Louise.html\">VOICEBOX: Opera in Concert'</a><em>s upcoming performance on March 29th. Leslie Ann had some great things to say about the opera, singing the role of Louise, and what kind of story it tells about women at the turn of the 20th century. Photo: </em><a href=\"http://www.lisamariemazzucco.com/\" target=\"_blank\" data-mce-href=\"http://www.lisamariemazzucco.com/\">Lisa-Marie Mazzucco</a><em>.</em>\n</p>"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428714873377/LeslieAnnBradley.jpg.jpg"
+publishDate = "2015-03-26T11:15:00-04:00"
+related_articles = ["articles/talking-with-singers-othalie-graham.md"]
+related_companies = ["scene/companies/voicebox-opera-in-concert.md"]
+related_people = ["scene/people/leslie-ann-bradley.md"]
+short_description = "Canadian soprano Leslie Ann Bradley is currently in Toronto  to sing the title role in Charpentier&#039;s Louise, for VOICEBOX: Opera in Concert&#039;s upcoming performance on March 29th. Leslie Ann had some great things to say about the opera, singing the role of Louise, and what kind of story it tells about women at the turn of the 20th century. Photo: Lisa-Marie Mazzucco."
+slug = "talking-louise-with-leslie-ann-bradley"
+title = "Talking Louise with Leslie Ann Bradley"
++++
 
 <h2>1. Who is Louise?</h2>
 <p>

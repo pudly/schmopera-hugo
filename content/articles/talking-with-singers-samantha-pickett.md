@@ -1,25 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-05-22T21:52:00-04:00"
-lastmod: "2018-05-22T22:08:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040256619/sqSamanthaPickett-DSC_3902.jpg.jpg
-primary_image_credit: 'Samantha Pickett, 2017. Photo: Gaetz Photography.'
-publishDate: "2018-05-22T21:52:00-04:00"
-related_articles:
-- articles/spotlight-on-samantha-pickett.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-related_people:
-- scene/people/samantha-pickett.md
-short_description: There&#039;s no manual for anyone&#039;s five-year plan, and Pickett
-  is on no quest for any sort of Right Answer™. &quot;That would make for a really
-  uninteresting artistic journey, if we were all following the same path.&quot;
-slug: talking-with-singers-samantha-pickett
-title: 'Talking with singers: Samantha Pickett'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-05-22T21:52:00-04:00"
+lastmod = "2018-05-22T22:08:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040256619/sqSamanthaPickett-DSC_3902.jpg.jpg"
+primary_image_credit = "Samantha Pickett, 2017. Photo: Gaetz Photography."
+publishDate = "2018-05-22T21:52:00-04:00"
+related_articles = ["articles/spotlight-on-samantha-pickett.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/samantha-pickett.md"]
+short_description = "There&#039;s no manual for anyone&#039;s five-year plan, and Pickett is on no quest for any sort of Right Answer™. &quot;That would make for a really uninteresting artistic journey, if we were all following the same path.&quot;"
+slug = "talking-with-singers-samantha-pickett"
+title = "Talking with singers: Samantha Pickett"
++++
 
 If you're looking for them, it's easy to spot the young artists of the Canadian Opera Company throughout the season. The singers of the Ensemble Studio - Canada's top-tier training program - share the stage with world-class headlining artists, singing supporting roles and often staying on-the-ready to step in as understudies. 
 
@@ -27,9 +20,7 @@ Yet once a season, the Ensemble Studio becomes the main event. This year, **May 
 
 For soprano Samantha Pickett, who sings Fiordiligi in *Così* and appears as a Witch in *Dido*, this event will mark the end of her two seasons with the COC. She sees it as a happy send-off, a nod to the company that has fostered her artistic development.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040173264/2017-09-26-FCS-Ensemble-050.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040173264/2017-09-26-FCS-Ensemble-050.jpg.jpg)
 <figcaption>Samantha Pickett performs in the Richard Bradshaw Amphitheatre, 2017, photo: Chris Hutcheson.</figcaption>
 </figure>
 
@@ -49,9 +40,7 @@ Through observation, Pickett has learned the habits of successful singers. In pr
 
 Equally valuable to artists on the cusp of a professional career is seeing the industry's great artists as simple humans. "It's nice to see singers as people, not as characters," she says, offering a favourite example: "Christine Goerke is just a huge Mensch."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040192537/KLP170510-_DSC6062.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527040192537/KLP170510-_DSC6062.jpg.jpg)
 <figcaption>Samantha Pickett performs in the Richard Bradshaw Amphitheatre, 2017, photo: Kevin Lloyd.</figcaption>
 </figure>
 

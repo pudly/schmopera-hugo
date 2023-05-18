@@ -1,29 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-05-31T20:34:00-04:00"
-lastmod: "2018-06-03T16:48:00-04:00"
-preamble: |-
-  Stage director [Jennifer Williams](/scene/people/jennifer-williams/) just added a world premiere to her growing résumé, in *Backwards From Winter* at the Center for Contemporary Opera. Williams is an industrious young director, assisting the likes of Francesca Zambello, Paul Curran, and David Alden, and producing her own work at Miami Music Festival, Pittsburgh Opera, and with DC Public Opera, of which she is the founding Artistic Director.
-
-  Williams gave us a brilliant chat about the director's role in opera, potentially problematic themes of centuries-old works, and how she incorporates technology into her productions.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527814374802/sqJenniferWilliamsHipHighlineNYC_TopFiveRUSH-FULL_6.jpg.jpg
-primary_image_credit: 'Photo: Lucas Godlewski.'
-publishDate: "2018-06-02T17:20:00-04:00"
-related_articles:
-- articles/opera-directors-an-unfair-disadvantage.md
-- articles/talking-with-directors-operas-marvel.md
-related_people:
-- scene/people/jennifer-williams.md
-short_description: '&quot;My philosophy as a director is this: that opera at its best
-  is a place where the possible can encounter the impossible, challenging our notions
-  of what our reality could be like. Imagination and empathy are what shift perspectives
-  and start conversations about what our world could be like. It&#039;s a mistake
-  to underestimate its value.&quot;'
-slug: talking-with-directors-jennifer-williams
-title: 'Talking with directors: Jennifer Williams'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-05-31T20:34:00-04:00"
+lastmod = "2018-06-03T16:48:00-04:00"
+preamble = "Stage director [Jennifer Williams](/scene/people/jennifer-williams/) just added a world premiere to her growing résumé, in *Backwards From Winter* at the Center for Contemporary Opera. Williams is an industrious young director, assisting the likes of Francesca Zambello, Paul Curran, and David Alden, and producing her own work at Miami Music Festival, Pittsburgh Opera, and with DC Public Opera, of which she is the founding Artistic Director.\n\nWilliams gave us a brilliant chat about the director's role in opera, potentially problematic themes of centuries-old works, and how she incorporates technology into her productions."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527814374802/sqJenniferWilliamsHipHighlineNYC_TopFiveRUSH-FULL_6.jpg.jpg"
+primary_image_credit = "Photo: Lucas Godlewski."
+publishDate = "2018-06-02T17:20:00-04:00"
+related_articles = ["articles/opera-directors-an-unfair-disadvantage.md","articles/talking-with-directors-operas-marvel.md"]
+related_people = ["scene/people/jennifer-williams.md"]
+short_description = "&quot;My philosophy as a director is this: that opera at its best is a place where the possible can encounter the impossible, challenging our notions of what our reality could be like. Imagination and empathy are what shift perspectives and start conversations about what our world could be like. It&#039;s a mistake to underestimate its value.&quot;"
+slug = "talking-with-directors-jennifer-williams"
+title = "Talking with directors: Jennifer Williams"
++++
 
 ## What do you think is the role of the director in opera?
 
@@ -37,9 +26,7 @@ My overarching goal as a director is to make opera more accessible without dumbi
 
 I love to incorporate new technology and play with audience expectations - at the moment my focus is on video projection. I feel that we interact with screens so much in modern society, and so I try to explore the middle ground between staring at a screen by yourself on one hand, and on the other sitting in a theater surrounded by others, watching a live production…I think there's much to explore in the intersection between these two poles, and I use video projections not as a means to provide cheap scenery, or to upstage or distract from singers, but rather to elucidate their inner thoughts, and augment the storytelling with another visual element that creates a different set of expectations.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527814476260/the_turn_of_the_screw_0250.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527814476260/the_turn_of_the_screw_0250.jpg.jpg)
 <figcaption>*The Turn of the Screw*, DC Public Opera, 2017. Photo: Andrew Propp.</figcaption>
 </figure>
 
@@ -49,9 +36,7 @@ A world premiere is uncharted territory. While you don't have the advantage of l
 
 We just opened the world premiere of *Backwards from Winter*, a monodrama for soprano, electric cello and computer by Douglas Knehans and Juanita Rockwell, produced by Center for Contemporary Opera in New York. I have also directed new productions of Mohammed Fairouz's *Sumeida's Song*, Ricky Ian Gordon and Royce Vavrek's *27*, Jake Heggie and Gene Scheer's *Three Decembers*, as well as workshops of works in progress. I'm very active in the contemporary opera scene and love the collaboration and boundary-pushing that happens there. Having face-to-face conversations with composers and librettists is great – when I am preparing a Mozart opera, for instance, I'll sit down with my copy of his collected letters – but with a new work, we can just have coffee, and collaborate directly throughout the design process and in rehearsals. Very often, a work may go into its premiere without a real workshop, or conversations around a new production will prompt revisions – so as a director I also fulfill a dramaturgical role in bringing the story to life for the first time. It is thrilling to be on the cutting edge of the art form in that way.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527814424068/BackwardsfromWinter_CenterforContemporaryOpera_LucasGodlewski_1.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527814424068/BackwardsfromWinter_CenterforContemporaryOpera_LucasGodlewski_1.jpg.jpg)
 <figcaption>*Backwards From Winter*, 2018, Center for Contemporary Opera. Photo: Lucas Godlewski.</figcaption>
 </figure>
 
@@ -65,9 +50,7 @@ To give an example from the feminist angle: when I first came to opera, I was tu
 
 My process as a director begins with a close reading of the score. I came to directing via composition and am a polyglot, so I revel in the details while keeping my eye on the big picture. As a storyteller, I am a student of history; in my productions, I put historical moments and the forces at work within them in dialogue with our present. Whether productions are set in an historical period or updated it to our present moment, that storytelling choice should not be a means of diverting attention away from these social conflicts – rather, it should shine a light on them and start a meaningful conversation.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527814415602/SumeidasSong_PittsburghOpera_DavidBachman.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527814415602/SumeidasSong_PittsburghOpera_DavidBachman.jpg.jpg)
 <figcaption>*Sumeida's Song*, 2015, Pittsburgh Opera. Photo: David Bachman.</figcaption>
 </figure>
 

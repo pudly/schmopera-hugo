@@ -1,36 +1,31 @@
----
-date: "2018-03-06T08:46:00-05:00"
-discipline: Tenor
-lastmod: "2018-03-06T08:47:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520343870085/Benjamin-Bernheim-Richard-Boll-807x1030.jpg.jpg
-primary_image_credit: Richard Boll.
-publishDate: "2018-03-06T08:46:00-05:00"
-related_companies:
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/royal-opera-house.md
-- scene/companies/opernhaus-zurich.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/semperoper-dresden.md
-slug: benjamin-bernheim
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/benjaminbernheimtenor/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/ben_bernheim
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/benbernheim/
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/results?sp=CAI%253D&q=benjamin+bernheim
-title: Benjamin Bernheim
-website: http://benjaminbernheim.com/
----
++++
+date = "2018-03-06T08:46:00-05:00"
+discipline = "Tenor"
+lastmod = "2018-03-06T08:47:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520343870085/Benjamin-Bernheim-Richard-Boll-807x1030.jpg.jpg"
+primary_image_credit = "Richard Boll."
+publishDate = "2018-03-06T08:46:00-05:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/royal-opera-house.md","scene/companies/opernhaus-zurich.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/wiener-staatsoper.md","scene/companies/semperoper-dresden.md"]
+slug = "benjamin-bernheim"
+title = "Benjamin Bernheim"
+website = "http://benjaminbernheim.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/benjaminbernheimtenor/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/ben_bernheim"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/benbernheim/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/results?sp=CAI%253D&q=benjamin+bernheim"
++++
 
 French tenor Benjamin Bernheim has quickly emerged as an artist to watch, and has been heralded as “a revelation” with a distinctive voice that is “flawless and pure, ranging from delicate pianissimo to heroic fortissimo as required” (Opera News). Following his success as a member of the ensemble and as a resident artist at the Opernhaus Zürich, Mr. Bernheim is now featured in impressive debuts at renowned venues throughout Europe.
 

@@ -1,21 +1,15 @@
----
-author:
-- authors/patrick-egersborg.md
-categories: Op-ed
-date: "2017-12-28T11:46:00-05:00"
-lastmod: "2017-12-28T21:20:00-05:00"
-preamble: This is a cross-post [originally published](https://patrickegersborg.wixsite.com/giveupyourdream/single-post/2017/10/29/The-start-of-giving-up-your-dream)
-  on Patrick Egersborg's blog, [Give Up Your Dream](https://patrickegersborg.wixsite.com/giveupyourdream).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514479546448/2017-12-28---giveupyourdreampic.jpg.jpg
-publishDate: "2017-12-28T12:44:00-05:00"
-short_description: This time it is different. Now I&#039;m truly allowing myself to
-  give it up. It is without bitterness or resentment. I am discovering all the of
-  possibilities I still have to be a creative and an artist, and I&#039;ve identified
-  the feeling in my gut that I mistook for fear to be my intuition telling me, &quot;you
-  can let this go now.&quot;
-slug: the-beginning-of-the-end-of-my-dream
-title: The beginning of the end of my dream
----
++++
+author = ["authors/patrick-egersborg.md"]
+categories = "Op-ed"
+date = "2017-12-28T11:46:00-05:00"
+lastmod = "2017-12-28T21:20:00-05:00"
+preamble = "This is a cross-post [originally published](https://patrickegersborg.wixsite.com/giveupyourdream/single-post/2017/10/29/The-start-of-giving-up-your-dream) on Patrick Egersborg's blog, [Give Up Your Dream](https://patrickegersborg.wixsite.com/giveupyourdream)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514479546448/2017-12-28---giveupyourdreampic.jpg.jpg"
+publishDate = "2017-12-28T12:44:00-05:00"
+short_description = "This time it is different. Now I&#039;m truly allowing myself to give it up. It is without bitterness or resentment. I am discovering all the of possibilities I still have to be a creative and an artist, and I&#039;ve identified the feeling in my gut that I mistook for fear to be my intuition telling me, &quot;you can let this go now.&quot;"
+slug = "the-beginning-of-the-end-of-my-dream"
+title = "The beginning of the end of my dream"
++++
 
 I've got a confession to make. I am giving up my dream. This might sound like a tragic and self-pitying start to a post, but bear with me.
 

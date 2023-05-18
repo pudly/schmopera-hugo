@@ -1,24 +1,23 @@
----
-date: "2015-04-07T02:39:00+01:00"
-discipline: Soprano
-lastmod: "2017-03-15T12:33:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428370654707/ANGELA_MEADE_6799.jpg.jpg
-primary_image_credit: Dario Acosta
-publishDate: "2015-04-07T02:39:00+01:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-slug: angela-meade
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/SopranoAngelaMeade
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/SoprAngela
-title: Angela Meade
-website: http://angelameade.com/
----
++++
+date = "2015-04-07T02:39:00+01:00"
+discipline = "Soprano"
+lastmod = "2017-03-15T12:33:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428370654707/ANGELA_MEADE_6799.jpg.jpg"
+primary_image_credit = "Dario Acosta"
+publishDate = "2015-04-07T02:39:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+slug = "angela-meade"
+title = "Angela Meade"
+website = "http://angelameade.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/SopranoAngelaMeade"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/SoprAngela"
++++
 
 Hailed as “the most talked about soprano of her generation” (Opera News), American soprano Angela Meade is the winner of both the Metropolitan Opera’s 2012 Beverly Sills Artist Award and the 2011 Richard Tucker Award. In 2008 she joined an elite group of history’s singers when, as Elvira in Verdi’s *Ernani*, she made her professional operatic debut on the Met stage. Since then she has fast become recognized as one of today’s outstanding vocalists, excelling in the most demanding heroines of the 19th-century bel canto repertoire as well as in the operas of Verdi and Mozart. As the New Yorker put it, “Meade is astounding. … She has exceptional dynamic control, able to move from floating pianissimos to sudden dramatic swells. The coloratura effects – rapid runs, trills, delicate turns, and so on – are handled with uncommon ease. She is a very musical singer, naturally and intelligently riding the phrase.”
 

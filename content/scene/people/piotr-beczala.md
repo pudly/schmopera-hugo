@@ -1,38 +1,27 @@
----
-date: "2018-02-28T22:52:00-05:00"
-discipline: Tenor
-lastmod: "2018-02-28T22:52:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519875935315/1359571100.jpg.jpg
-primary_image_credit: Anja Frers/DG
-publishDate: "2018-02-28T22:52:00-05:00"
-related_companies:
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/salzburg-festival.md
-- scene/companies/opernhaus-zurich.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/gran-teatre-del-liceu.md
-- scene/companies/la-monnaie.md
-- scene/companies/wiener-staatsoper.md
-slug: piotr-beczala
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/PiotrBeczala
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/piotrbeczala/
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/results?search_query=piotr+beczala
-title: Piotr Beczała
-website: http://piotrbeczala.com/
----
++++
+date = "2018-02-28T22:52:00-05:00"
+discipline = "Tenor"
+lastmod = "2018-02-28T22:52:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519875935315/1359571100.jpg.jpg"
+primary_image_credit = "Anja Frers/DG"
+publishDate = "2018-02-28T22:52:00-05:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/teatro-alla-scala.md","scene/companies/salzburg-festival.md","scene/companies/opernhaus-zurich.md","scene/companies/san-francisco-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/la-monnaie.md","scene/companies/wiener-staatsoper.md"]
+slug = "piotr-beczala"
+title = "Piotr Beczała"
+website = "http://piotrbeczala.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/PiotrBeczala"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/piotrbeczala/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/results?search_query=piotr+beczala"
++++
 
 Piotr Beczała is one of the most sought-after tenors of our time and a constant guest in the world’s leading opera houses. The Polish-born artist is acclaimed by audiences and critics alike not only for the beauty of his voice, but also for his ardent commitment to each character he portrays.
 

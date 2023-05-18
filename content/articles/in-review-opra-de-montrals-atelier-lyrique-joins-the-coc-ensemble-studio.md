@@ -1,36 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2014-02-22T17:14:00-05:00"
-lastmod: "2015-04-27T21:35:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430184767993/Ensemble-Studio%2BODM-Photo-by-Karen-Reeves-720x479.jpg.jpg
-primary_image_credit: Artists of l'Opéra de Montréal's Atelier lyrique & the COC Ensemble
-  Studio. Photo by Karen Reeves.
-publishDate: "2014-02-22T17:14:00-05:00"
-related_articles:
-- articles/coc1516-the-new-ensemble-studio.md
-- articles/canadian-yaps-missed-opportunities.md
-- articles/meeting-for-lunch-the-coc-ensemble-studio-in-recital.md
-related_companies:
-- scene/companies/canadian-opera-company-ensemble-studio.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/latelier-lyrique-de-lopra-de-montral.md
-- scene/companies/lopra-de-montral.md
-related_people:
-- scene/people/claire-de-sevigne.md
-- scene/people/andrew-haji.md
-- scene/people/aviva-fortunata.md
-- scene/people/cairan-ryan.md
-short_description: Each year the COC Ensemble and the Atelier lyrique de L&#039;Opéra
-  de Montréal send several of their respective artists on a week-long exchange. The
-  artists travel to Toronto or to Montréal to work with teachers, coaches and dramaturges
-  at the opposite company, and give local concerts highlighting the visiting singers
-  and pianists.
-slug: in-review-opra-de-montrals-atelier-lyrique-joins-the-coc-ensemble-studio
-title: 'In review: Opéra de Montréal&#039;s Atelier Lyrique joins the COC Ensemble
-  Studio'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2014-02-22T17:14:00-05:00"
+lastmod = "2015-04-27T21:35:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430184767993/Ensemble-Studio%2BODM-Photo-by-Karen-Reeves-720x479.jpg.jpg"
+primary_image_credit = "Artists of l'Opéra de Montréal's Atelier lyrique & the COC Ensemble Studio. Photo by Karen Reeves."
+publishDate = "2014-02-22T17:14:00-05:00"
+related_articles = ["articles/coc1516-the-new-ensemble-studio.md","articles/canadian-yaps-missed-opportunities.md","articles/meeting-for-lunch-the-coc-ensemble-studio-in-recital.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/lopra-de-montral.md"]
+related_people = ["scene/people/claire-de-sevigne.md","scene/people/andrew-haji.md","scene/people/aviva-fortunata.md","scene/people/cairan-ryan.md"]
+short_description = "Each year the COC Ensemble and the Atelier lyrique de L&#039;Opéra de Montréal send several of their respective artists on a week-long exchange. The artists travel to Toronto or to Montréal to work with teachers, coaches and dramaturges at the opposite company, and give local concerts highlighting the visiting singers and pianists."
+slug = "in-review-opra-de-montrals-atelier-lyrique-joins-the-coc-ensemble-studio"
+title = "In review: Opéra de Montréal&#039;s Atelier Lyrique joins the COC Ensemble Studio"
++++
 
 Each year the COC Ensemble and the Atelier lyrique de L'Opéra de Montréal send several of their respective artists on a week-long exchange. The artists travel to Toronto or to Montréal to work with teachers, coaches and dramaturges at the opposite company, and give local concerts highlighting the visiting singers and pianists. So like previous years, my curiosity was piqued as I arrived at the concert.
 

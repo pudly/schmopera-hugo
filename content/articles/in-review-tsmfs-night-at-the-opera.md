@@ -1,31 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2017-07-28T09:19:00-04:00"
-lastmod: "2017-07-28T13:34:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501262715249/TSMF%20Opera.jpg.jpg
-primary_image_credit: 'Clockwise from top left: Roger Honeywell, Julie Nesrallah,
-  Gary Relyea, and Danika Lorèn.'
-publishDate: "2017-07-28T13:00:00-04:00"
-related_articles:
-- articles/i-love-a-gala.md
-- articles/in-review-an-evening-with-the-ensemble-studio.md
-related_people:
-- scene/people/danika-lorn.md
-- scene/people/julie-nesrallah.md
-- scene/people/roger-honeywell.md
-short_description: There were some serious highlights of the evening; Lorèn earned
-  some well-deserved &quot;bravas&quot; after her stunning &quot;Caro nome&quot; from
-  Rigoletto, and Honeywell made an impactful entrance with his first aria, &quot;Ah,
-  la paterna mano&quot; from Verdi&#039;s Macbeth. Relyea made us lean in with his
-  &quot;Il lacerato spirito&quot; (Don Carlo), and Nesrallah broke the ice with her
-  lovely starter, &quot;Mon coeur s&#039;ouvre à ta voix&quot; (Samson et Dalila).
-  Plus, honourary singer of the evening Nikki Chooi broke hearts with the Méditation
-  from Massenet&#039;s Thaïs.
-slug: in-review-tsmfs-night-at-the-opera
-title: 'In review: TSMF&#039;s Night at the Opera'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2017-07-28T09:19:00-04:00"
+lastmod = "2017-07-28T13:34:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501262715249/TSMF%20Opera.jpg.jpg"
+primary_image_credit = "Clockwise from top left: Roger Honeywell, Julie Nesrallah, Gary Relyea, and Danika Lorèn."
+publishDate = "2017-07-28T13:00:00-04:00"
+related_articles = ["articles/i-love-a-gala.md","articles/in-review-an-evening-with-the-ensemble-studio.md"]
+related_people = ["scene/people/danika-lorn.md","scene/people/julie-nesrallah.md","scene/people/roger-honeywell.md"]
+short_description = "There were some serious highlights of the evening; Lorèn earned some well-deserved &quot;bravas&quot; after her stunning &quot;Caro nome&quot; from Rigoletto, and Honeywell made an impactful entrance with his first aria, &quot;Ah, la paterna mano&quot; from Verdi&#039;s Macbeth. Relyea made us lean in with his &quot;Il lacerato spirito&quot; (Don Carlo), and Nesrallah broke the ice with her lovely starter, &quot;Mon coeur s&#039;ouvre à ta voix&quot; (Samson et Dalila). Plus, honourary singer of the evening Nikki Chooi broke hearts with the Méditation from Massenet&#039;s Thaïs."
+slug = "in-review-tsmfs-night-at-the-opera"
+title = "In review: TSMF&#039;s Night at the Opera"
++++
 
 There are certainly the Puritans out there, who prefer their opera delivered in an uncut, strictly contextual manner; but for plenty of us the gala-type concert is a perfect offering of treats. Opera fans who admit to a bit of indecision - and maybe moments of short attention spans - love a night of hit after hit, sung by a small group of singers that get to show off some stylistic variety.
 

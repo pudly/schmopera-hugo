@@ -1,35 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-09-25T14:31:00+01:00"
-lastmod: "2016-09-28T17:38:00+01:00"
-preamble: Canadian-Tunisian mezzo-soprano [Rihab Chaieb](/scene/people/rihab-chaieb/)
-  is a member of the Metropolitan Opera's Lindemann Young Artist Programme, and this
-  season, she makes her official debut under maestro James Levine, as Zulma in Rossini's
-  [*L'italiana in Algeri*](http://www.metopera.org/Season/2016-17-Season/italiana-in-algeri-rossini-tickets/).
-  The show opens October 4th, and she spoke with us about how she can't wait "to let
-  my voice fly in this spectacular, historic hall."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474888683837/2016-09-25---Rihab-Chaieb---Acosta.jpg.jpg
-primary_image_credit: 'Rihab Chaieb, mezzo-soprano. Photo by Dario Acosta. Hair &
-  Makeup: Affan Graber Malik.'
-publishDate: "2016-09-28T09:09:00+01:00"
-related_articles:
-- articles/mireille-asselins-phone-call-from-the-met.md
-- articles/talking-with-singers-rene-barbera.md
-- articles/talking-with-singers-elizabeth-deshong.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-related_people:
-- scene/people/rihab-chaieb.md
-short_description: We carry a flag, the Metropolitan Opera flag, but also the opera
-  flag in a general sense. We are ambassadors of this art form and everyone really
-  knows this, and they are so helpful and supporting of our jobs and of the fact that
-  we are here to learn from them. They always get so happy and excited when I tell
-  them I&#039;m one of the Lindemann singers!
-slug: one-mezzos-met-debut-i-just-cant-wait
-title: 'One mezzo&#039;s Met debut: &quot;I just can&#039;t wait.&quot;'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-09-25T14:31:00+01:00"
+lastmod = "2016-09-28T17:38:00+01:00"
+preamble = "Canadian-Tunisian mezzo-soprano [Rihab Chaieb](/scene/people/rihab-chaieb/) is a member of the Metropolitan Opera's Lindemann Young Artist Programme, and this season, she makes her official debut under maestro James Levine, as Zulma in Rossini's [*L'italiana in Algeri*](http://www.metopera.org/Season/2016-17-Season/italiana-in-algeri-rossini-tickets/). The show opens October 4th, and she spoke with us about how she can't wait \"to let my voice fly in this spectacular, historic hall.\""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474888683837/2016-09-25---Rihab-Chaieb---Acosta.jpg.jpg"
+primary_image_credit = "Rihab Chaieb, mezzo-soprano. Photo by Dario Acosta. Hair & Makeup: Affan Graber Malik."
+publishDate = "2016-09-28T09:09:00+01:00"
+related_articles = ["articles/mireille-asselins-phone-call-from-the-met.md","articles/talking-with-singers-rene-barbera.md","articles/talking-with-singers-elizabeth-deshong.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/rihab-chaieb.md"]
+short_description = "We carry a flag, the Metropolitan Opera flag, but also the opera flag in a general sense. We are ambassadors of this art form and everyone really knows this, and they are so helpful and supporting of our jobs and of the fact that we are here to learn from them. They always get so happy and excited when I tell them I&#039;m one of the Lindemann singers!"
+slug = "one-mezzos-met-debut-i-just-cant-wait"
+title = "One mezzo&#039;s Met debut: &quot;I just can&#039;t wait.&quot;"
++++
 
 ## What do you look forward to most for your first opening night at the Met? 
 

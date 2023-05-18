@@ -1,38 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-06-25T18:06:00-06:00"
-lastmod: "2016-06-29T07:57:00-06:00"
-preamble: American baritone [Geoffrey Penar](/scene/people/geoffrey-penar/) first
-  caught our attention in the world premiere of Darren Russo's [*Storybook*](/in-review-modern-family-opera/),
-  presented by [Opera 5](/scene/people/opera-5/) in early 2015. Recently, he returned
-  to Opera 5 to sing Frank in their spring production of [*Die Fledermaus*](/die-fledermaus-die-fleder-fabulous/).
-  A graduate of McGill University, Penar already has a long history on the stage,
-  both in opera and music theatre. He has a wonderfully calm attitude about his career,
-  and his pursuit of a professional life onstage comes from a real love of the process
-  as well as the spotlight. He chats with us about truly understanding texts in any
-  language, and the importance of eye contact.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466899615160/2016-06-25---Geoffrey-Penar.jpg.jpg
-primary_image_credit: Photo by Brent Calis.
-publishDate: "2016-06-29T07:48:00-06:00"
-related_articles:
-- articles/spotlight-on-stephanie-tritchew.md
-- articles/spotlight-on-musa-ngqungwana.md
-- articles/and-i-know-things-now.md
-related_companies:
-- scene/companies/opera-5.md
-- scene/companies/opera-mcgill.md
-related_people:
-- scene/people/geoffrey-penar.md
-short_description: '&quot;I think when it feels bad for me, I&#039;m not thinking
-  about the action of the scene, I&#039;m just worried about the next phrase. I remember
-  a coaching with Patrick Hansen (head of Opera McGill). He told me, &quot;Geoff,
-  just act it! Stop thinking so much. Just make sense of the words and act it.&quot;
-  And it fixed so many of the technical problems I was having instantly.&quot;'
-slug: spotlight-on-geoffrey-penar
-title: 'Spotlight on: Geoffrey Penar'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-06-25T18:06:00-06:00"
+lastmod = "2016-06-29T07:57:00-06:00"
+preamble = "American baritone [Geoffrey Penar](/scene/people/geoffrey-penar/) first caught our attention in the world premiere of Darren Russo's [*Storybook*](/in-review-modern-family-opera/), presented by [Opera 5](/scene/people/opera-5/) in early 2015. Recently, he returned to Opera 5 to sing Frank in their spring production of [*Die Fledermaus*](/die-fledermaus-die-fleder-fabulous/). A graduate of McGill University, Penar already has a long history on the stage, both in opera and music theatre. He has a wonderfully calm attitude about his career, and his pursuit of a professional life onstage comes from a real love of the process as well as the spotlight. He chats with us about truly understanding texts in any language, and the importance of eye contact."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466899615160/2016-06-25---Geoffrey-Penar.jpg.jpg"
+primary_image_credit = "Photo by Brent Calis."
+publishDate = "2016-06-29T07:48:00-06:00"
+related_articles = ["articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-musa-ngqungwana.md","articles/and-i-know-things-now.md"]
+related_companies = ["scene/companies/opera-5.md","scene/companies/opera-mcgill.md"]
+related_people = ["scene/people/geoffrey-penar.md"]
+short_description = "&quot;I think when it feels bad for me, I&#039;m not thinking about the action of the scene, I&#039;m just worried about the next phrase. I remember a coaching with Patrick Hansen (head of Opera McGill). He told me, &quot;Geoff, just act it! Stop thinking so much. Just make sense of the words and act it.&quot; And it fixed so many of the technical problems I was having instantly.&quot;"
+slug = "spotlight-on-geoffrey-penar"
+title = "Spotlight on: Geoffrey Penar"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

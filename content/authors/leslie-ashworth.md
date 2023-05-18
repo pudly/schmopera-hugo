@@ -1,28 +1,28 @@
----
-email: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558892471/media/2019/05/LeslieAshworth-pc-AliceHongPhotography.jpg
-short_bio: Canadian violinist, pianist, violist and composer Leslie Ashworth has performed
-  in Italy, Quebec, Aspen, Carnegie Hall, Koerner Hall, and the Vancouver Convention
-  Centre. Leslie received the Lieutenant Governor’s Community Volunteer Award for
-  founding the Suite Melody Care program. Leslie plays on a 1696 Albani violin on
-  loan to her by a generous benefactor and has released her third CD/DVD.
-slug: leslie-ashworth
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/violinistleslieashworth/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/Leslie_Ashworth
-- platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/ashworthproductions
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/leslie_ashworth/
-title: Leslie Ashworth
-website: https://www.leslieashworth.ca/
----
++++
+email = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558892471/media/2019/05/LeslieAshworth-pc-AliceHongPhotography.jpg"
+short_bio = "Canadian violinist, pianist, violist and composer Leslie Ashworth has performed in Italy, Quebec, Aspen, Carnegie Hall, Koerner Hall, and the Vancouver Convention Centre. Leslie received the Lieutenant Governor’s Community Volunteer Award for founding the Suite Melody Care program. Leslie plays on a 1696 Albani violin on loan to her by a generous benefactor and has released her third CD/DVD."
+slug = "leslie-ashworth"
+title = "Leslie Ashworth"
+website = "https://www.leslieashworth.ca/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/violinistleslieashworth/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/Leslie_Ashworth"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/ashworthproductions"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/leslie_ashworth/"
+
++++
 Canadian violinist, pianist, violist and composer Leslie Ashworth has performed in Italy, Quebec, Aspen, Carnegie Hall, Koerner Hall, and the Vancouver Convention Centre. Leslie received the Lieutenant Governor’s Community Volunteer Award for founding the Suite Melody Care program. Leslie plays on a 1696 Albani violin on loan to her by a generous benefactor and has released her third CD/DVD. A recipient of the Tim and Frances Price Scholarship, Leslie is graduating with a Bachelor of Music Performance Degree from the Glenn Gould School studying with Barry Shiffman and Paul Kantor. In the fall, Leslie will be pursuing her Masters of Music at Rice University’s Shepherd School of Music in Houston, Texas as a full scholarship recipient. Leslie is passionate about reading and writing and is thrilled to be sharing this as a writer in the Emerging Arts Critic Programme 2018-19 with The National Ballet of Canada, Canadian Opera Company, and the Toronto Symphony Orchestra. To hear Leslie perform live, visit www.leslieashworth.ca.
 
 Photo: Alice Hong Photography.

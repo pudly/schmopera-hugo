@@ -1,26 +1,15 @@
----
-_template: people_single
-date: "2019-01-20T20:14:52+00:00"
-discipline: Soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548015117/media/2019/01/HeatherBuck.jpg
-primary_image_credit: Lisa-Marie Mazzucco
-related_companies:
-- scene/companies/wolf-trap-opera.md
-- scene/companies/arizona-opera.md
-- scene/companies/calgary-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/english-national-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/beth-morrison-projects.md
-- scene/companies/spoleto-festival-usa.md
-- scene/companies/loftopera.md
-- scene/companies/odyssey-opera.md
-slug: heather-buck
-social_media: []
-title: Heather Buck
-website: ""
----
++++
+date = "2019-01-20T20:14:52+00:00"
+discipline = "Soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548015117/media/2019/01/HeatherBuck.jpg"
+primary_image_credit = "Lisa-Marie Mazzucco"
+related_companies = ["scene/companies/wolf-trap-opera.md", "scene/companies/arizona-opera.md", "scene/companies/calgary-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/english-national-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/beth-morrison-projects.md", "scene/companies/spoleto-festival-usa.md", "scene/companies/loftopera.md", "scene/companies/odyssey-opera.md"]
+slug = "heather-buck"
+social_media = []
+title = "Heather Buck"
+website = ""
+
++++
 Praised by Opera News as “the kind of performer who makes it all look easy,” Heather Buck is best described by opera critic David Shengold as “a lithe and impactful actress with an uncommonly beautiful soprano for the high-lying and testing repertory she serves." In the 2019-20 season, she sings Leïla in _Les pêcheurs de perles_ with Opera in Williamsburg, Herodiade in Stradella’s _San Giovanni Battista_ with Opera Omaha, Louis Karchin’s _Four Songs on Poems by Seamus Heaney_ at the Bowling Green New Music Festival, and _Carmina Burana_ with Symphony of Northwest Arkansas and West Virginia Symphony.
 
 In the 2018-19 season, Ms. Buck sang Susanna in Laura Elise Schwendinger’s _Artemisia_ at the Time’s Arrow Festival of Trinity Church Wall Street, a reprise of the title role of Charles Wuorinen’s _Haroun and the Sea of Stories_ with Boston Modern Orchestra Project, and Four Songs on Poems by Seamus Heaney with Orchestra of the League of Composers. Her 2017-18 season included returns to New York City Opera to reprise the title role in Argento’s monodrama _Miss Havisham’s Wedding Night_, and Alma Beers in Wuorinen’s _Brokeback Mountain_, a role she first created with Teatro Real Madrid; to Odyssey Opera as Joan of Arc in Dello Joio’s _The Trial at Rouen_; and to Virginia Opera as Tytania in _A Midsummer’s Night Dream_. She sang as Merteuil in Luca Francesconi's _Quartett_ with West Edge Opera in the summer of 2018.

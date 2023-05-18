@@ -1,33 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-06-13T07:38:00-06:00"
-lastmod: "2016-06-15T08:16:00-06:00"
-preamble: |-
-  The [Tafelmusik](/scene/companies/tafelmusik-baroque-orchestra-chamber-choir/) Baroque Summer Institute is a renowned training program, offering specialised instruction in baroque performing practice for singers and instrumentalists. For over a week, the 2016 participants have been working with faculty members like [Ann Monoyios](http://www.tafelmusik.org/about/bios/ann-monoyios), [Peter Harvey](http://www.tafelmusik.org/about/bios/peter-harvey), Tafelmusik Baroque Choir director [Ivars Taurins](http://www.tafelmusik.org/about/choir/bios/ivars-taurins), and [Opera Atelier](/scene/companies/opera-atelier/) Co-Artistic Director [Marshall Pynkoski](http://operaatelier.com/about/creative-team/). We had the chance to hear from with baritone [Brian Mummert](/scene/people/brian-mummert/), soprano Marjolaine Horreaux, and mezzo-soprano Georgia Burashko, three singers from this summer's Baroque Summer Institute; they chat about their experience so far, and why they've sought the focused training offered by Tafelmusik.
-
-  Don't miss the free [TBSI Orchestra and Choirs](http://www.tafelmusik.org/concert-calendar/events/tafelmusik-baroque-summer-festival) concert, **June 15, 1pm** at Walter Hall; admission is free, and seating is available on a first-come, first-served basis. The TBSI Grand Finale concert, **June 18, 7:30pm** is at Grace Church-on-the-Hill; also free admission, with ticket reservation in advance, but admission is free! [Click here](http://www.tafelmusik.org/concert-calendar/events/tafelmusik-baroque-summer-festival) for full details.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465870382479/2016-06-14---TBSI-Singers.jpg.jpg
-primary_image_credit: 'From top left: TBSI participants Marjorie Horreaux, Georgia
-  Burashko, and Brian Mummert.'
-publishDate: "2016-06-13T20:51:00-06:00"
-related_articles:
-- articles/i-sang-along-at-tafelmusiks-messiah.md
-- articles/he-saidshe-said-alcina-at-opera-atelier.md
-- articles/new-programs-opera-at-tanglewood.md
-- articles/dont-miss-haus-musik.md
-related_companies:
-- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
-related_people:
-- scene/people/brian-mummert.md
-short_description: We had the chance to hear from with baritone Brian Mummert, soprano
-  Marjolaine Horreaux, and mezzo-soprano Georgia Burashko, three singers from this
-  summer&#039;s Baroque Summer Institute; they chat about their experience so far,
-  and why they&#039;ve sought the focused training offered by Tafelmusik.
-slug: all-about-the-tafelmusik-baroque-summer-institute
-title: All about the Tafelmusik Baroque Summer Institute
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-06-13T07:38:00-06:00"
+lastmod = "2016-06-15T08:16:00-06:00"
+preamble = "The [Tafelmusik](/scene/companies/tafelmusik-baroque-orchestra-chamber-choir/) Baroque Summer Institute is a renowned training program, offering specialised instruction in baroque performing practice for singers and instrumentalists. For over a week, the 2016 participants have been working with faculty members like [Ann Monoyios](http://www.tafelmusik.org/about/bios/ann-monoyios), [Peter Harvey](http://www.tafelmusik.org/about/bios/peter-harvey), Tafelmusik Baroque Choir director [Ivars Taurins](http://www.tafelmusik.org/about/choir/bios/ivars-taurins), and [Opera Atelier](/scene/companies/opera-atelier/) Co-Artistic Director [Marshall Pynkoski](http://operaatelier.com/about/creative-team/). We had the chance to hear from with baritone [Brian Mummert](/scene/people/brian-mummert/), soprano Marjolaine Horreaux, and mezzo-soprano Georgia Burashko, three singers from this summer's Baroque Summer Institute; they chat about their experience so far, and why they've sought the focused training offered by Tafelmusik.\n\nDon't miss the free [TBSI Orchestra and Choirs](http://www.tafelmusik.org/concert-calendar/events/tafelmusik-baroque-summer-festival) concert, **June 15, 1pm** at Walter Hall; admission is free, and seating is available on a first-come, first-served basis. The TBSI Grand Finale concert, **June 18, 7:30pm** is at Grace Church-on-the-Hill; also free admission, with ticket reservation in advance, but admission is free! [Click here](http://www.tafelmusik.org/concert-calendar/events/tafelmusik-baroque-summer-festival) for full details."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465870382479/2016-06-14---TBSI-Singers.jpg.jpg"
+primary_image_credit = "From top left: TBSI participants Marjorie Horreaux, Georgia Burashko, and Brian Mummert."
+publishDate = "2016-06-13T20:51:00-06:00"
+related_articles = ["articles/i-sang-along-at-tafelmusiks-messiah.md","articles/he-saidshe-said-alcina-at-opera-atelier.md","articles/new-programs-opera-at-tanglewood.md","articles/dont-miss-haus-musik.md"]
+related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md"]
+related_people = ["scene/people/brian-mummert.md"]
+short_description = "We had the chance to hear from with baritone Brian Mummert, soprano Marjolaine Horreaux, and mezzo-soprano Georgia Burashko, three singers from this summer&#039;s Baroque Summer Institute; they chat about their experience so far, and why they&#039;ve sought the focused training offered by Tafelmusik."
+slug = "all-about-the-tafelmusik-baroque-summer-institute"
+title = "All about the Tafelmusik Baroque Summer Institute"
++++
 
 ## What did you find attractive about attending the Tafelmusik Summer Baroque Institute?
 

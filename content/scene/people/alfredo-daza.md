@@ -1,29 +1,22 @@
----
-date: "2017-10-09T10:50:00-04:00"
-discipline: Baritone
-lastmod: "2017-10-09T10:50:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507560482520/Screen-shot-2013-09-25-at-1.08.53-PM.png.png
-publishDate: "2017-10-09T10:50:00-04:00"
-related_companies:
-- scene/companies/los-angeles-opera.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/glyndebourne.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/la-monnaie.md
-- scene/companies/washington-national-opera.md
-slug: alfredo-daza
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/Alfredo-Daza-285718874862321/
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/baritoneDaza
-title: Alfredo Daza
-website: https://www.alfredodaza.com/
----
++++
+date = "2017-10-09T10:50:00-04:00"
+discipline = "Baritone"
+lastmod = "2017-10-09T10:50:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507560482520/Screen-shot-2013-09-25-at-1.08.53-PM.png.png"
+publishDate = "2017-10-09T10:50:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/san-francisco-opera.md","scene/companies/glyndebourne.md","scene/companies/canadian-opera-company.md","scene/companies/la-monnaie.md","scene/companies/washington-national-opera.md"]
+slug = "alfredo-daza"
+title = "Alfredo Daza"
+website = "https://www.alfredodaza.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/Alfredo-Daza-285718874862321/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/baritoneDaza"
++++
 
 Alfredo Daza is well known for his interpretations of the Italian repertoire, which he expanded over the last few years with such Verdi roles as Francesco Moor in I masnadieri, Rodrigo in Don Carlos, Ford in Falstaff and Renato in Un ballo in maschera. His interpretation of Giorgio Germont in La Traviata, which he debuted in 2006, brought him to the Staatsoper Hamburg and New National Theatre Tokyo in 2015, where he sang the same role in a production directed by Phillip Boussard and conducted by Yves Abel. In the same year, Daza debuted as Valdeburgo/Leopoldo in Bellini’s La straniera, opposite Edita Gruberova. This year, he sang Scarpia in Puccini’s Tosca at the Theater St Gallen and debuted yet another Verdi role: Paolo Albiani in Simon Boccanegra at the Staatsoper Berlin, oppoiste Plácido Domingo.
 

@@ -1,26 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2014-07-12T10:55:00-04:00"
-lastmod: "2018-01-03T10:06:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514991954900/2018-01-03---Why.jpg.jpg
-publishDate: "2014-07-12T10:55:00-04:00"
-related_articles:
-- articles/opera-for-firsttimers-thinking-outside-the-box.md
-- articles/arizona-opera-on-tradition.md
-- articles/does-new-opera-raise-the-bar-for-performers.md
-- articles/concept-production-real-reason.md
-- articles/morbid-musings-art-death.md
-- articles/new-opera-honest-marketing.md
-- articles/the-real-reason-to-bring-teens-to-the-opera.md
-short_description: If I were the artistic director of my own opera company, I&#039;d
-  probably enjoy putting up whatever shows I please. There would be a lot of Britten
-  in my seasons. The question would be, would people want to go see the shows I like
-  best?
-slug: who-cares-what-bring-on-the-why
-title: Who cares what? Bring on the why
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2014-07-12T10:55:00-04:00"
+lastmod = "2018-01-03T10:06:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514991954900/2018-01-03---Why.jpg.jpg"
+publishDate = "2014-07-12T10:55:00-04:00"
+related_articles = ["articles/opera-for-firsttimers-thinking-outside-the-box.md","articles/arizona-opera-on-tradition.md","articles/does-new-opera-raise-the-bar-for-performers.md","articles/concept-production-real-reason.md","articles/morbid-musings-art-death.md","articles/new-opera-honest-marketing.md","articles/the-real-reason-to-bring-teens-to-the-opera.md"]
+short_description = "If I were the artistic director of my own opera company, I&#039;d probably enjoy putting up whatever shows I please. There would be a lot of Britten in my seasons. The question would be, would people want to go see the shows I like best?"
+slug = "who-cares-what-bring-on-the-why"
+title = "Who cares what? Bring on the why"
++++
 
 If I were the artistic director of my own opera company, I'd probably enjoy putting up whatever shows I please. There would be a lot of Britten in my seasons. The question would be, would people want to go see the shows I like best?
 

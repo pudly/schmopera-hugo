@@ -1,21 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2014-03-14T08:00:00-04:00"
-lastmod: "2015-04-26T00:15:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021293408/AmiraPav-1024x576.jpg.jpg
-publishDate: "2014-03-14T08:00:00-04:00"
-related_articles:
-- articles/simon-cowell-stop-it-an-update.md
-short_description: 'Well, it&#039;s happened. Child opera singer (and human oxymoron)
-  Amira Willighagen will release her first album, and it&#039;s going to be on Simon
-  Cowell&#039;s label, Syco Entertainment. It features the poor little thing singing
-  things like &quot;O mio babbino caro&quot; and dub-over duets with Luciano Pavarotti.
-  Wait, what? Yup. '
-slug: simon-cowell-stop-it
-title: Simon Cowell, stop it.
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2014-03-14T08:00:00-04:00"
+lastmod = "2015-04-26T00:15:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021293408/AmiraPav-1024x576.jpg.jpg"
+publishDate = "2014-03-14T08:00:00-04:00"
+related_articles = ["articles/simon-cowell-stop-it-an-update.md"]
+short_description = "Well, it&#039;s happened. Child opera singer (and human oxymoron) Amira Willighagen will release her first album, and it&#039;s going to be on Simon Cowell&#039;s label, Syco Entertainment. It features the poor little thing singing things like &quot;O mio babbino caro&quot; and dub-over duets with Luciano Pavarotti. Wait, what? Yup. "
+slug = "simon-cowell-stop-it"
+title = "Simon Cowell, stop it."
++++
 
 Note: an update to this story has been posted [here](http://schmopera.com/simon-cowell-stop-it-an-update/).
 

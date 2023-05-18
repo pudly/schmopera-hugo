@@ -1,24 +1,17 @@
----
-author:
-- authors/loren-lester.md
-categories: Review
-date: "2018-12-13T16:17:00-05:00"
-lastmod: "2018-12-13T16:17:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735662054/sqGLASSHANDEL1.jpg.jpg
-primary_image_credit: 'Anthony Roth Costanzo in Glass Handel. Photo: Dominic M. Mercier.'
-publishDate: "2018-12-13T16:17:00-05:00"
-related_articles:
-- articles/the-astonishing-product-glass-handel-at-o18.md
-related_people:
-- scene/people/anthony-roth-costanzo.md
-short_description: 'There was literally something for everyone who enjoys culture.
-  Though many elements tied together, in the end it had the same effect as a large,
-  complex mosaic - no surprise since it was the result of a collaboration between
-  many:  Mr. Costanzo conceived the project in conjunction with the artistic directors
-  of Visionaire and National Sawdust, which is known for its interdisciplinary productions.'
-slug: counterculture
-title: Counter/Culture
----
++++
+author = ["authors/loren-lester.md"]
+categories = "Review"
+date = "2018-12-13T16:17:00-05:00"
+lastmod = "2018-12-13T16:17:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735662054/sqGLASSHANDEL1.jpg.jpg"
+primary_image_credit = "Anthony Roth Costanzo in Glass Handel. Photo: Dominic M. Mercier."
+publishDate = "2018-12-13T16:17:00-05:00"
+related_articles = ["articles/the-astonishing-product-glass-handel-at-o18.md"]
+related_people = ["scene/people/anthony-roth-costanzo.md"]
+short_description = "There was literally something for everyone who enjoys culture. Though many elements tied together, in the end it had the same effect as a large, complex mosaic - no surprise since it was the result of a collaboration between many:  Mr. Costanzo conceived the project in conjunction with the artistic directors of Visionaire and National Sawdust, which is known for its interdisciplinary productions."
+slug = "counterculture"
+title = "Counter/Culture"
++++
 
 In the performance piece *Glass Handel*, renowned countertenor Anthony Roth Costanzo sang in the middle of a three-ring "circus" of art, dance and music. While his voice was the center of attention, there were a lot of other things to experience, depending on where you were sitting.  But that wasn't a problem, because of the ingenious "people movers" concept, where everyone in the audience was literally picked up in his or her chair and transported, via cart, to other locations during the approximately one-hour program.  
 
@@ -26,9 +19,7 @@ While the artists all commanded our attention, especially the riveting Mr. Costa
 
 Neatly divided into thirds, the playing space (in this case, the sanctuary of the Cathedral of St. John the Divine,) consisted of a film screen, a concert stage with orchestra, and a dance platform.  Behind the concert stage was a plain white screen and behind that stood artist George Condo, who created an entire painting made of black watercolor. The canvas was lit from behind so we only saw the silhouette of the artist until the curtain call.  Also, Mr. Condo remarkably painted in reverse so that his work would not appear backwards to us from the front of the "canvas."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735731059/GLASSHANDEL4.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735731059/GLASSHANDEL4.jpg.jpg)
 <figcaption>Anthony Roth Costanzo in *Glass Handel*, costumed by Raf Simons for Calvin Klein. Photo: Dominic M. Mercier.</figcaption>
 </figure>
 
@@ -41,9 +32,7 @@ my cruel fate,<br>
 and let me sigh for<br>
 liberty.<br>
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735739761/GLASSHANDEL8.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735739761/GLASSHANDEL8.jpg.jpg)
 <figcaption>Anthony Roth Costanzo in *Glass Handel*. Photo: Dominic M. Mercier.</figcaption>
 </figure>
         	
@@ -51,9 +40,7 @@ Mr. Costanzo's final outfit – a simple black and white dress with paintings fr
 
 The Glass arias were much less impressive (because of the composition not the performance.)  One may wonder why they were chosen other than the fact that Mr. Glass is one of the few living composers who has written for the unique vocal instrument Mr. Costanzo possesses. The final Glass aria, "The Encounter", was the most effective.  There were no lyrics, only Mr. Costanzo's lush, legato notes. It was a deliberate moment of abstraction as the evening came to an end – the final film being shown was the least linear of all, and the somewhat abstract painting created by Mr. Condo's "shadow" was finished.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735745996/GLASSHANDEL11.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1544735745996/GLASSHANDEL11.jpg.jpg)
 <figcaption>Patricia Delgado and Anthony Roth Costanzo in *Glass Handel*. Photo: Dominic M. Mercier.</figcaption>
 </figure>
 

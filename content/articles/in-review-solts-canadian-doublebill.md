@@ -1,23 +1,16 @@
----
-author:
-- authors/jenna.md
-- authors/greg.md
-categories: Review
-date: "2017-07-31T12:02:00-04:00"
-lastmod: "2017-08-01T12:28:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600877917/2017-08-01---SOLT-square.jpg.jpg
-primary_image_credit: 'A scene from Night Blooming Cereus, SOLT, 2017. Photo: Emily
-  Ding.'
-publishDate: "2017-08-01T11:31:00-04:00"
-related_articles:
-- articles/falstaff-he-saidshe-said.md
-- articles/ariodante-or-the-hebridean-handel.md
-short_description: Night Blooming Cereus and A Northern Lights Dream have little in
-  common except the fact that they&#039;re Canadian operas, set in the worlds of small-town
-  Shakespeare, Ontario.
-slug: in-review-solts-canadian-doublebill
-title: 'In review: SOLT&#039;s Canadian double-bill'
----
++++
+author = ["authors/jenna.md","authors/greg.md"]
+categories = "Review"
+date = "2017-07-31T12:02:00-04:00"
+lastmod = "2017-08-01T12:28:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600877917/2017-08-01---SOLT-square.jpg.jpg"
+primary_image_credit = "A scene from Night Blooming Cereus, SOLT, 2017. Photo: Emily Ding."
+publishDate = "2017-08-01T11:31:00-04:00"
+related_articles = ["articles/falstaff-he-saidshe-said.md","articles/ariodante-or-the-hebridean-handel.md"]
+short_description = "Night Blooming Cereus and A Northern Lights Dream have little in common except the fact that they&#039;re Canadian operas, set in the worlds of small-town Shakespeare, Ontario."
+slug = "in-review-solts-canadian-doublebill"
+title = "In review: SOLT&#039;s Canadian double-bill"
++++
 
 **Jenna**: On this year's line-up for [Summer Opera Lyric Theatre](http://www.solt.ca/) is a double-bill of Canadian operas, featuring John Beckwith's *Night Blooming Cereus* and Michael Rose's newly commissioned *A Northern Lights Dream*. The two one-acts, sung by two casts until **August 5**, are refreshing, alongside a season of standards that also includes Bizet's *Carmen* (until **August 6**) and Mozart's *The Marriage of Figaro* (until **August 4**).
 
@@ -29,9 +22,7 @@ title: 'In review: SOLT&#039;s Canadian double-bill'
 
 **Greg**: The score is sparse, utilizing dissonance and resolution to drive the harmonies forward. The vocal lines, some of which were a devil of a diction and patter lesson, were a bit on the static side for me. I felt a longing for a bit more of a melodic development. Music Director Suzy Smith played the score incredibly well, providing wonderful, yet unobtrusive, support to the singers who were performing some very tricky rhythmic and vocal lines. Jenny Cohen, as Mrs. Conrad Brown (one of many "Browns" we learn) sang a beautiful, plaintive role. I could have used a bit more diction to help drive the melancholy of the lonliness Mrs. Brown felt, but her physicality was on point. Grace Quinsey sang the role Alice. She sang with a respectful presence and a bright, flexible tone. I was also particularly taken with Logan Hickey's Ben. One of the more theatrical voices on stage, his characterization of the stuttering shop boy was true and palpable. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600947431/2017-08-01---image007.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600947431/2017-08-01---image007.jpg.jpg)
 <figcaption>Grace Quinsey (left) and Jenny Cohen in *Night Blooming Cereus*, SOLT, 2017. Photo by Emily Ding.</figcaption>
 </figure>
 
@@ -41,9 +32,7 @@ title: 'In review: SOLT&#039;s Canadian double-bill'
 
 **Jenna**: Michael Rose's *A Northern Lights Dream* was a refreshing second-half change, light-hearted from the start and with a musical aesthetic that had hints of Jason Robert Brown and Stephen Sondheim. The opera makes countless nods towards Shakespeare's *A Midsummer Night's Dream*, the largest of which is the generous scattering of puns throughout the Rose's libretto. Clever one-liners popped out at us continuously, giving personality to the characters and a thoughtful quality to the audience's experience. Shakespeare fans have plenty to do in spotting the connections between *A Northern Lights Dream* and the Bard's tale of magic and confused mortal lovers: donkey costumes, fairy-like figures, people named Helen/Demetrius/Tania, and the mischievous Robin, a hockey-playing source of comedy who stirs up drama, and makes cheeky nods to Canadianism and Shakespeare's Puck. (Get it? because it's a hockey puck?)
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600968834/2017-08-01---Northern-Nights-Dream-4828-Reduced.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600968834/2017-08-01---Northern-Nights-Dream-4828-Reduced.jpg.jpg)
 <figcaption>Avery LaFrentz (Robin) and James Smith (Nick) in *A Northern Lights Dream*, SOLT, 2017. Photo by Emily Ding.</figcaption>
 </figure>
 
@@ -53,9 +42,7 @@ title: 'In review: SOLT&#039;s Canadian double-bill'
 
 **Greg**: What really got me was the subject matter. *A Northern Lights Dream* is a coming-out story, but told from the other side of the closet door. We see the effect of a man struggling with his sexuality has on the entire community around him - even though we never meet the man himself. It's a refreshing take of non-queer perspectives told through a queer lens. It's also a nice treat for Shakespeare buffs like myself who love seeing how this could possibly be the next act in *A Midsummer Night's Dream*. The use of Puck and the "shop assistants" as a chorus was a brilliant move and provided Rose with a *de facto* girl group to back everyone up that kind of reminded me of the girls on Skid Row in *Little Shop of Horrors*. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600979003/2017-08-01---Northern-Nights-Dream-4735-Reduced.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501600979003/2017-08-01---Northern-Nights-Dream-4735-Reduced.jpg.jpg)
 <figcaption>James Smith (Nick) and Logan Hickey (Taylor) in *A Northern Lights Dream*, SOLT, 2017. Photo by Emily Ding.</figcaption>
 </figure>
 

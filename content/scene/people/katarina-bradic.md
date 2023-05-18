@@ -1,22 +1,18 @@
----
-date: "2016-08-20T14:18:00+01:00"
-discipline: Mezzo/contralto
-lastmod: "2016-08-20T14:19:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471699077808/2016-08-20---Katarina-Bradic.jpg.jpg
-publishDate: "2016-08-20T14:19:00+01:00"
-related_companies:
-- scene/companies/glyndebourne.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/staatsoper-berlin.md
-slug: katarina-bradic
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/kbradicmezzo
-title: Katarina Bradić
-website: http://katarinabradic.com/en/home.html
----
++++
+date = "2016-08-20T14:18:00+01:00"
+discipline = "Mezzo/contralto"
+lastmod = "2016-08-20T14:19:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471699077808/2016-08-20---Katarina-Bradic.jpg.jpg"
+publishDate = "2016-08-20T14:19:00+01:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/deutsche-oper-berlin.md","scene/companies/staatsoper-berlin.md"]
+slug = "katarina-bradic"
+title = "Katarina Bradić"
+website = "http://katarinabradic.com/en/home.html"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/kbradicmezzo"
++++
 
 Serbian mezzo-soprano Katarina Bradić first came to international attention in the 2009/2010 season as a member of the ensemble of the Vlaamse Opera, where her roles included Olga in Olga in *Jevgenij Onegin*, Suzuki in *Madama Butterfly* and Medea in Cavalli’s *Giasone*.
  

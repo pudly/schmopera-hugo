@@ -1,30 +1,21 @@
----
-discipline: Tenor
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1632749996/media/2021/09/JoshuaBlue_ArielleDoneson_hy0rt3.jpg
-primary_image_credit: Arielle Doneson
-related_companies:
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/the-juilliard-school.md
-- scene/companies/new-york-festival-of-song.md
-- scene/companies/virginia-opera.md
-- scene/companies/oberlin-college-and-conservatory.md
-- scene/companies/wolf-trap-opera.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/opera-philadelphia.md
-- scene/companies/opera-theatre-of-st-louis.md
-slug: joshua-blue
-social_media:
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/joshuabluetenor/
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/joshuabluetenor
-title: Joshua Blue
-website: http://www.joshuabluetenor.com/
----
++++
+discipline = "Tenor"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1632749996/media/2021/09/JoshuaBlue_ArielleDoneson_hy0rt3.jpg"
+primary_image_credit = "Arielle Doneson"
+related_companies = ["scene/companies/the-santa-fe-opera.md", "scene/companies/the-juilliard-school.md", "scene/companies/new-york-festival-of-song.md", "scene/companies/virginia-opera.md", "scene/companies/oberlin-college-and-conservatory.md", "scene/companies/wolf-trap-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/opera-theatre-of-st-louis.md"]
+slug = "joshua-blue"
+title = "Joshua Blue"
+website = "http://www.joshuabluetenor.com/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/joshuabluetenor/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/joshuabluetenor"
+
++++
 During the 2021-22 season, British-American tenor Joshua Blue makes multiple role and house debuts including the Metropolitan Opera as Peter in Gershwin’s _Porgy and Bess_ in a revival with the Grammy Award-winning cast of Denyce Graves, Angel Blue, and Eric Owens; Los Angeles Opera singing the Evangelist in Bach’s _St. Matthew Passion_ conducted by James Conlon with members of the Hamburg Ballet choreographed by John Neumeier; Opera Philadelphia as the Duke of Mantua in the Lindy Hume production of _Rigoletto_ led by music director Corrado Rovaris; Virginia Opera as Loge in the Jonathan Dove reduction of _Das Rheingold_ directed by Mary Birnbaum and conducted by Adam Turner; Berkshire Opera Festival as Don Ottavio in _Don Giovanni_ led by Brian Garman; and the tenor soloist in Beethoven’s Symphony #9 at the Lensic Performing Arts Center in Santa Fe, New Mexico. He also makes returns to Opera Theatre of Saint Louis as Tamino in _The Magic Flute_ and Carnegie Hall for Handel’s _Messiah_ with Oratorio Society of New York under the baton of Kent Tritle. 
 
 Last season, Mr. Blue sang Rinuccio in _Gianni Schicchi_ with Opera Theatre of Saint Louis directed by Seán Curran and accompanied by members of the St. Louis Symphony Orchestra under the baton of Leonard Slatkin; recorded Jeanine Tesori’s _Blue_ with the Washington National Opera and conductor Roderick Cox; performed a reduction of Handel’s _Messiah_ with the Oratorio Society of New York; took part in a joint virtual event concert by Opera Philadelphia and National Jewish American History Museum in honor of the late Justice Ruth Bader Ginsburg; sang the premiere of Paul Moravec’s "Caltagirone” from _A Nation of Others_ and a quartet reduction of "Much to be Done” from the 2019 work _STONEWALL_, both works have librettos by Mark Campbell, with the New York Festival of Song; and performed a Holiday Concert of arias and duets with soprano Ashley Marie Robillard for Classical Movement in Old Town Alexandria, Virginia. He was scheduled to make a return to Washington National Opera to sing the role of Jaquino in _Fidelio_ conducted by Robert Spano and directed by Francesca Zambello; perform Beethoven’s Symphony #9 at the Oberlin Conservatory of Music; and sing Orff’s _Carmina Burana_ with the Jacksonville Symphony conducted by Courtney Lewis and Eugene Symphony led by Francesco Lecce-Chong before the pandemic forced their cancellation.

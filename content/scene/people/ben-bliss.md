@@ -1,29 +1,19 @@
----
-date: "2017-09-15T21:43:00-04:00"
-discipline: Tenor
-lastmod: "2017-09-15T21:43:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505525958413/Ben_Bliss_pc_Dario_Acosta_a_300dpi.jpg.jpg
-primary_image_credit: Dario Acosta
-publishDate: "2017-09-15T21:43:00-04:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/opera-philadelphia.md
-- scene/companies/the-atlanta-opera.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/gran-teatre-del-liceu.md
-- scene/companies/oper-frankfurt.md
-- scene/companies/seattle-opera.md
-- scene/companies/glyndebourne.md
-- scene/companies/los-angeles-opera.md
-slug: ben-bliss
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/BenBlissTenor/
-title: Ben Bliss
-website: https://www.benblisstenor.com/
----
++++
+date = "2017-09-15T21:43:00-04:00"
+discipline = "Tenor"
+lastmod = "2017-09-15T21:43:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505525958413/Ben_Bliss_pc_Dario_Acosta_a_300dpi.jpg.jpg"
+primary_image_credit = "Dario Acosta"
+publishDate = "2017-09-15T21:43:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opera-philadelphia.md","scene/companies/the-atlanta-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/oper-frankfurt.md","scene/companies/seattle-opera.md","scene/companies/glyndebourne.md","scene/companies/los-angeles-opera.md"]
+slug = "ben-bliss"
+title = "Ben Bliss"
+website = "https://www.benblisstenor.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/BenBlissTenor/"
++++
 
 American tenor Ben Bliss is a 2016 recipient of the Martin E. Segal award at Lincoln Center, awarded by the Metropolitan Opera. He was also the recipient of the Mozart and Plácido Domingo awards at the 2015 Francisco Viñas International Competition in Barcelona, receiving 2nd place overall, first prize in the 2014 Gerda Lissner and Licia Albanese-Puccini Foundation competitions, as well as a Sara Tucker and Sullivan Foundation grant. Mr. Bliss is also the 2013 Operalia Don Plácido Domingo Sr. Zarzuela prizewinner. In the 2017-2018 season, Mr. Bliss will sing the role of Ferrando in *Cosi fan tutte* at the Metropolitan Opera, Seattle Opera, and Oper Frankfurt. He will also make his house debut at Opera Philadelphia as Tamino in *The Magic Flute*, and sing the role of Cassio in *Otello* with the Atlanta Symphony Orchestra. In addition, he will return to Santa Fe Opera to make his role debut as Robert Wilson in *Dr. Atomic* in a production directed by Peter Sellars. Concert appearances will include singing the Messiah with the New York Philharmonic in December.  
 

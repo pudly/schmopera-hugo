@@ -1,18 +1,17 @@
----
-date: "2017-09-06T21:23:00-04:00"
-discipline: Pianist
-lastmod: "2017-09-06T21:23:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504747348219/PhNKBHlk_400x400.jpg.jpg
-publishDate: "2017-09-06T21:23:00-04:00"
-slug: lana-bode
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/lana_bode/
-title: Lana Bode
-website: https://www.lanabode.com/
----
++++
+date = "2017-09-06T21:23:00-04:00"
+discipline = "Pianist"
+lastmod = "2017-09-06T21:23:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504747348219/PhNKBHlk_400x400.jpg.jpg"
+publishDate = "2017-09-06T21:23:00-04:00"
+slug = "lana-bode"
+title = "Lana Bode"
+website = "https://www.lanabode.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/lana_bode/"
++++
 
 American-born and naturalised British pianist Lana Bode specialises in contemporary music and cross-arts performance. During her school years, she studied with prominent American contemporary pianist Lisa Emenheiser. She then trained at Indiana University Jacobs School of Music under the guidance of Edward Auer. At the age of 20, she graduated with a BMus (High Distinction) and was named an Indiana University Founders Scholar. She subsequently moved to the UK, where she completed a Master of Music with Distinction at the Guildhall School of Music & Drama in 2014, studying piano accompaniment with Andrew West and contemporary piano with Rolf Hind. Her final recital earned the coveted Concert Recital Diploma.
 

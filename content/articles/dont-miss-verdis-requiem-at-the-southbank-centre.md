@@ -1,25 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-05-13T21:32:00+01:00"
-lastmod: "2016-05-14T11:16:00+01:00"
-preamble: |-
-  On **May 23** at the Royal Festival Hall, the English Philharmonia & Chorus present [Verdi's *Requiem*](http://www.southbankcentre.co.uk/whatson/verdi-requiem-95713), with soloists Naomi Harvey, Maria Gulik, John Hudson, and David Soar. Graham Wili, Music Director of both the English Philharmonia Orchestra and Chorus, will conduct; we had the opportunity to ask him about putting together a piece like Verdi's *Requiem*, with a chorus of 250+, a full orchestra, a four tireless soloists.
-
-  [Click here](http://www.southbankcentre.co.uk/whatson/verdi-requiem-95713) to find out more about the performance, and book your tickets to hear "Verdi's best opera".
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463218016357/KXQ1pExzkqV-sstBQG0lVAdoaPa8DNiLtcQJ9aQO7y0q2sLrC3qkSyZotX5GZ25VDeiSmimqYAs-OHg_LXQGvYxJBtU%3Dw680-h680-c
-primary_image_credit: 'Royal Festival Hall accross Thames. Copyright: Morley von Sternberg.'
-publishDate: "2016-05-14T11:00:00+01:00"
-short_description: On May 23 at the Royal Festival Hall, the English Philharmonia
-  &amp; Chorus present Verdi&#039;s Requiem, with soloists Naomi Harvey, Maria Gulik,
-  John Hudson, and David Soar. Graham Wili, Music Director of both the English Philharmonia
-  Orchestra and Chorus, will conduct; we had the opportunity to ask him about putting
-  together a piece like Verdi&#039;s Requiem, with a chorus of 250+, a full orchestra,
-  a four tireless soloists.
-slug: dont-miss-verdis-requiem-at-the-southbank-centre
-title: 'Don&#039;t miss: Verdi&#039;s Requiem at the Southbank Centre'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-05-13T21:32:00+01:00"
+lastmod = "2016-05-14T11:16:00+01:00"
+preamble = "On **May 23** at the Royal Festival Hall, the English Philharmonia & Chorus present [Verdi's *Requiem*](http://www.southbankcentre.co.uk/whatson/verdi-requiem-95713), with soloists Naomi Harvey, Maria Gulik, John Hudson, and David Soar. Graham Wili, Music Director of both the English Philharmonia Orchestra and Chorus, will conduct; we had the opportunity to ask him about putting together a piece like Verdi's *Requiem*, with a chorus of 250+, a full orchestra, a four tireless soloists.\n\n[Click here](http://www.southbankcentre.co.uk/whatson/verdi-requiem-95713) to find out more about the performance, and book your tickets to hear \"Verdi's best opera\"."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463218016357/KXQ1pExzkqV-sstBQG0lVAdoaPa8DNiLtcQJ9aQO7y0q2sLrC3qkSyZotX5GZ25VDeiSmimqYAs-OHg_LXQGvYxJBtU%3Dw680-h680-c"
+primary_image_credit = "Royal Festival Hall accross Thames. Copyright: Morley von Sternberg."
+publishDate = "2016-05-14T11:00:00+01:00"
+short_description = "On May 23 at the Royal Festival Hall, the English Philharmonia &amp; Chorus present Verdi&#039;s Requiem, with soloists Naomi Harvey, Maria Gulik, John Hudson, and David Soar. Graham Wili, Music Director of both the English Philharmonia Orchestra and Chorus, will conduct; we had the opportunity to ask him about putting together a piece like Verdi&#039;s Requiem, with a chorus of 250+, a full orchestra, a four tireless soloists."
+slug = "dont-miss-verdis-requiem-at-the-southbank-centre"
+title = "Don&#039;t miss: Verdi&#039;s Requiem at the Southbank Centre"
++++
 
 ## How do you prioritize rehearsal time with a piece of this scale?
 

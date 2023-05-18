@@ -1,32 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-03-12T14:28:00+00:00"
-lastmod: "2017-03-21T14:31:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489331744272/2017-03-12---Zachary-Nelson.jpg.jpg
-primary_image_credit: 'Photo: Dario Acosta.'
-publishDate: "2017-03-21T14:12:00+00:00"
-related_articles:
-- articles/talking-with-singers-luca-pisaroni.md
-- articles/talking-with-singers-craig-irvin.md
-- articles/talking-with-singers-ailyn-perez.md
-- articles/young-singers-in-santa-fe-stephen-martin.md
-- articles/don-pasquale-a-colorful-season-starter-at-minnesota-opera.md
-- articles/talking-with-singers-clarence-frazer.md
-related_companies:
-- scene/companies/the-santa-fe-opera.md
-related_people:
-- scene/people/zachary-nelson.md
-short_description: '&quot;When I was in Chicago doing Das Rheingold, it was the first
-  Wagner I&#039;d ever done,&quot; Nelson recalls. &quot;I was sitting onstage on
-  opening night, and Eric Owens is just wailing away [as Wotan]. I&#039;m standing
-  there on the stage with him, and I just started welling up.&quot; It was a moment
-  in his career that will stick with him, and which offered a clear picture of the
-  rewards that remain in store for the young baritone.'
-slug: talking-with-singers-zachary-nelson
-title: 'Talking with singers: Zachary Nelson'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-03-12T14:28:00+00:00"
+lastmod = "2017-03-21T14:31:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489331744272/2017-03-12---Zachary-Nelson.jpg.jpg"
+primary_image_credit = "Photo: Dario Acosta."
+publishDate = "2017-03-21T14:12:00+00:00"
+related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-craig-irvin.md","articles/talking-with-singers-ailyn-perez.md","articles/young-singers-in-santa-fe-stephen-martin.md","articles/don-pasquale-a-colorful-season-starter-at-minnesota-opera.md","articles/talking-with-singers-clarence-frazer.md"]
+related_companies = ["scene/companies/the-santa-fe-opera.md"]
+related_people = ["scene/people/zachary-nelson.md"]
+short_description = "&quot;When I was in Chicago doing Das Rheingold, it was the first Wagner I&#039;d ever done,&quot; Nelson recalls. &quot;I was sitting onstage on opening night, and Eric Owens is just wailing away [as Wotan]. I&#039;m standing there on the stage with him, and I just started welling up.&quot; It was a moment in his career that will stick with him, and which offered a clear picture of the rewards that remain in store for the young baritone."
+slug = "talking-with-singers-zachary-nelson"
+title = "Talking with singers: Zachary Nelson"
++++
 
 "When I was in college, the only thing I had in my head was, I have to make it to the absolute top as fast as possible." Ambition was never something that American baritone [Zachary Nelson](/scene/people/zachary-nelson/) lacked, and he remembers the [Opera Apprentice Program at Santa Fe Opera](https://www.santafeopera.org/about-us/apprentice-opportunities/singers/about-the-program) as one of his earliest professional goals. "I'm a freshman in college, I barely know how to read music, my skills are deplorable at this point," he recalls, adding that his first application for Santa Fe resulted in a "resounding" rejection. 
 
@@ -36,9 +22,7 @@ Now, he laughs at his reaction to his missed opportunity in Santa Fe. "I was lik
 
 "You get the idea that these are massive companies and they're A houses," says Nelson of his notable company debuts. "I get the feeling I want to walk in with a suit and tie every day and be very buttoned-up." Despite any expectations, Nelson found that like smaller companies, big houses are full of people who have the same creative goal. "You get to the house and you start working with the people, and it's just another production," he explains. "It's just a bunch of people that just want to put on the best show possible."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854582496/2017-03-18---Nelson-Escamillo%2BSZ%2B1.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854582496/2017-03-18---Nelson-Escamillo%2BSZ%2B1.jpg.jpg)
 <figcaption>Zachary Nelson as Escamillo in *Carmen*, Salzburg Landestheater. Photo by Anna-Maria Löffelberger.</figcaption>
 </figure>
 
@@ -52,9 +36,7 @@ Of course, few people can resist playing a villain, and Donizetti's Enrico comes
 
 "It's like a guilty pleasure. 'Oh my gosh, I kind of get where he's coming from.'"
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854593394/2017-03-18---Nelson-Figaro%2BDD%2B5.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854593394/2017-03-18---Nelson-Figaro%2BDD%2B5.jpg.jpg)
 <figcaption>Zachary Nelson as Figaro in *Le nozze di Figaro*, Dresden Semperoper. Photo: Matthias Creutziger.</figcaption>
 </figure>
 
@@ -66,9 +48,7 @@ Maintaining a routine - both inside and outside of the rehearsal room - can be o
 
 As important as rest and routine are, Nelson doesn't subscribe to a hermit-like life between rehearsals "If I'm itching for a burger and beer, and I don't have a show the next day, I'm going to go get that burger and beer," he admits. "I don't want to be constantly in my own head, thinking about the state of my vocal cords."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854606026/2017-03-18---Nelson-Malatesta%2B3.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854606026/2017-03-18---Nelson-Malatesta%2B3.jpg.jpg)
 <figcaption>Zachary Nelson as Dr. Malatesta, with Andrew Shore as Don Pasquale in *Don Pasquale*, Sante Fe Opera. Photo: Ken Howard.</figcaption>
 </figure>
 
@@ -80,9 +60,7 @@ Nelson has also found the benefits that come from several years of work in vario
 
 "When I was in Chicago doing *Das Rheingold*, it was the first Wagner I'd ever done," Nelson recalls. "I was sitting onstage on opening night, and [Eric Owens](/scene/people/eric-owens/) is just wailing away [as Wotan]. I'm standing there on the stage with him, and I just started welling up." It was a moment in his career that will stick with him, and which offered a clear picture of the rewards that remain in store for the young baritone.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854661352/2017-03-18---Nelson-LOC%2BDonner%2B1.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489854661352/2017-03-18---Nelson-LOC%2BDonner%2B1.jpg.jpg)
 <figcaption>Zachary Nelson as Donner with Laura Wilde as Freia in *Das Rheingold*, Lyric Opera of Chicago. Photo: Todd Rosenberg.</figcaption>
 </figure>
 

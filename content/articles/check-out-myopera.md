@@ -1,44 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-09-28T09:56:00-04:00"
-lastmod: "2015-09-28T12:04:00-04:00"
-preamble: MYOpera is the brand new face of Toronto-based indie opera company Metro
-  Youth Opera. Their commitment to providing professional experience to emerging artists
-  remains the same, but MYOpera has a new name, and a new season. At the aptly chosen
-  [Opera Bob's Public House](http://www.operabobspublichouse.com/), Artistic Director
-  Kate Applin announced MYOpera's upcoming production of Britten's *The Rape of Lucretia*
-  in spring, 2016. Get to know the company, and how they fit in with Toronto's [Indie
-  Opera T.O.](/scene/companies/indie-opera-to/) collective.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443446756299/MYopera%20Logo%20Green%20and%20Teal.jpg.jpg
-publishDate: "2015-09-28T12:04:00-04:00"
-related_articles:
-- articles/check-out-opera-5.md
-- articles/check-out-loose-tea-music-theatre.md
-- articles/check-out-opera-after-hours.md
-- articles/check-out-liederwolfe.md
-- articles/check-out-fawn-chamber-creative.md
-- articles/check-out-urbanvessel.md
-- articles/check-out-the-friends-of-gravity.md
-- articles/dont-miss-in-conversation-with-myopera.md
-- articles/new-roles-janaka-welihinda-of-myopera.md
-related_companies:
-- scene/companies/myopera.md
-related_people:
-- scene/people/kate-applin.md
-- scene/people/lyndsay-promane.md
-- scene/people/peter-bass.md
-- scene/people/kelsey-vicary.md
-- scene/people/stephanie-tritchew.md
-short_description: 'MYOpera is the brand new face of Toronto-based indie opera company
-  Metro Youth Opera. Their commitment to providing professional experience to emerging
-  artists remains the same, but MYOpera has a new name, and a new season. At the aptly
-  chosen Opera Bob&#039;s Public House, Artistic Director Kate Applin announced MYOpera&#039;s
-  upcoming production of Britten&#039;s The Rape of Lucretia in spring, 2016. '
-slug: check-out-myopera
-title: 'Check out: MYOpera'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-09-28T09:56:00-04:00"
+lastmod = "2015-09-28T12:04:00-04:00"
+preamble = "MYOpera is the brand new face of Toronto-based indie opera company Metro Youth Opera. Their commitment to providing professional experience to emerging artists remains the same, but MYOpera has a new name, and a new season. At the aptly chosen [Opera Bob's Public House](http://www.operabobspublichouse.com/), Artistic Director Kate Applin announced MYOpera's upcoming production of Britten's *The Rape of Lucretia* in spring, 2016. Get to know the company, and how they fit in with Toronto's [Indie Opera T.O.](/scene/companies/indie-opera-to/) collective."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443446756299/MYopera%20Logo%20Green%20and%20Teal.jpg.jpg"
+publishDate = "2015-09-28T12:04:00-04:00"
+related_articles = ["articles/check-out-opera-5.md","articles/check-out-loose-tea-music-theatre.md","articles/check-out-opera-after-hours.md","articles/check-out-liederwolfe.md","articles/check-out-fawn-chamber-creative.md","articles/check-out-urbanvessel.md","articles/check-out-the-friends-of-gravity.md","articles/dont-miss-in-conversation-with-myopera.md","articles/new-roles-janaka-welihinda-of-myopera.md"]
+related_companies = ["scene/companies/myopera.md"]
+related_people = ["scene/people/kate-applin.md","scene/people/lyndsay-promane.md","scene/people/peter-bass.md","scene/people/kelsey-vicary.md","scene/people/stephanie-tritchew.md"]
+short_description = "MYOpera is the brand new face of Toronto-based indie opera company Metro Youth Opera. Their commitment to providing professional experience to emerging artists remains the same, but MYOpera has a new name, and a new season. At the aptly chosen Opera Bob&#039;s Public House, Artistic Director Kate Applin announced MYOpera&#039;s upcoming production of Britten&#039;s The Rape of Lucretia in spring, 2016. "
+slug = "check-out-myopera"
+title = "Check out: MYOpera"
++++
 
 ### 1. What is the mission behind MYOpera?
 
@@ -54,9 +28,7 @@ MYOpera holds a unique space in the [indie opera](/scene/companies/indie-opera-t
 
 Seeing a MYOpera show is a unique chance to see incredibly talented emerging artists before they embark on a professional career. But this isn't a school production or a pay-to-sing program - it's a performer's (or stage director's, or music director's) first paid, professional experience. Part of the excitement of seeing a MYOpera show is knowing that the artists you see on our stage have incredible careers ahead of them. Seeing MYOpera alumni join the ranks of young artist programs across the country is a testament to the professional atmosphere we offer our singers, directors, and music directors.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443447803490/KateApplin.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443447803490/KateApplin.jpg.jpg)
 <figcaption>Kate Applin, MYO Artistic Director.</figcaption>
 </figure>
 

@@ -1,74 +1,22 @@
----
-date: "2015-03-30T22:11:00-04:00"
-lastmod: "2015-07-07T20:52:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436316640541/14e6a52fe3d575d47921.jpeg.jpeg
-publishDate: "2015-03-30T22:11:00-04:00"
-related_people:
-- scene/people/adrian-kramer.md
-- scene/people/ambur-braid.md
-- scene/people/aviva-fortunata.md
-- scene/people/betty-waynne-allison.md
-- scene/people/cameron-mcphail.md
-- scene/people/charles-sy.md
-- scene/people/charlotte-burrage.md
-- scene/people/christopher-enns.md
-- scene/people/christopher-mokrzewski.md
-- scene/people/claire-de-sevigne.md
-- scene/people/clarence-frazer.md
-- scene/people/gordon-bintner.md
-- scene/people/ileana-montalbetti.md
-- scene/people/isabel-bayrakdarian.md
-- scene/people/joni-henson.md
-- scene/people/karine-boucher.md
-- scene/people/laura-albino.md
-- scene/people/lauren-segal.md
-- scene/people/liz-upchurch.md
-- scene/people/owen-mccausland.md
-- scene/people/jeanphilippe-fortierlazure.md
-- scene/people/rihab-chaieb.md
-- scene/people/simone-osborne.md
-- scene/people/sasha-djihanian.md
-- scene/people/wendy-nielsen.md
-- scene/people/wallis-giunta.md
-- scene/people/miriam-khalil.md
-- scene/people/mireille-asselin.md
-- scene/people/teiya-kasahara.md
-- scene/people/peter-barrett.md
-- scene/people/philippe-sly.md
-- scene/people/aaron-sheppard.md
-- scene/people/jacqueline-woodley.md
-- scene/people/neil-craighead.md
-- scene/people/iain-macneil.md
-- scene/people/michle-bogdanowicz.md
-- scene/people/eliza-johnson.md
-- scene/people/zoe-band.md
-- scene/people/dimitri-katotakis.md
-- scene/people/kelsey-vicary.md
-- scene/people/hyejin-kwon.md
-- scene/people/lauren-eberwein.md
-- scene/people/emily-dangelo.md
-- scene/people/zachary-read.md
-- scene/people/michael-barrett.md
-- scene/people/samuel-chan.md
-- scene/people/megan-quick.md
-- scene/people/stephane-mayer.md
-- scene/people/andrew-tees.md
-- scene/people/elizabeth-mcdonald.md
-- scene/people/luc-robert.md
-- scene/people/simona-genga.md
-slug: canadian-opera-company-ensemble-studio
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/canadianoperacompany
-- _template: company_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/CanadianOpera
-title: Canadian Opera Company Ensemble Studio
-type_of_company: Young Artist Program
-website: http://www.coc.ca/AboutTheCOC/CompanyMembers/EnsembleStudio.aspx
----
++++
+date = "2015-03-30T22:11:00-04:00"
+lastmod = "2015-07-07T20:52:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436316640541/14e6a52fe3d575d47921.jpeg.jpeg"
+publishDate = "2015-03-30T22:11:00-04:00"
+related_people = ["scene/people/adrian-kramer.md","scene/people/ambur-braid.md","scene/people/aviva-fortunata.md","scene/people/betty-waynne-allison.md","scene/people/cameron-mcphail.md","scene/people/charles-sy.md","scene/people/charlotte-burrage.md","scene/people/christopher-enns.md","scene/people/christopher-mokrzewski.md","scene/people/claire-de-sevigne.md","scene/people/clarence-frazer.md","scene/people/gordon-bintner.md","scene/people/ileana-montalbetti.md","scene/people/isabel-bayrakdarian.md","scene/people/joni-henson.md","scene/people/karine-boucher.md","scene/people/laura-albino.md","scene/people/lauren-segal.md","scene/people/liz-upchurch.md","scene/people/owen-mccausland.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/rihab-chaieb.md","scene/people/simone-osborne.md","scene/people/sasha-djihanian.md","scene/people/wendy-nielsen.md","scene/people/wallis-giunta.md","scene/people/miriam-khalil.md","scene/people/mireille-asselin.md","scene/people/teiya-kasahara.md","scene/people/peter-barrett.md","scene/people/philippe-sly.md","scene/people/aaron-sheppard.md","scene/people/jacqueline-woodley.md","scene/people/neil-craighead.md","scene/people/iain-macneil.md","scene/people/michle-bogdanowicz.md","scene/people/eliza-johnson.md","scene/people/zoe-band.md","scene/people/dimitri-katotakis.md","scene/people/kelsey-vicary.md","scene/people/hyejin-kwon.md","scene/people/lauren-eberwein.md","scene/people/emily-dangelo.md","scene/people/zachary-read.md","scene/people/michael-barrett.md","scene/people/samuel-chan.md","scene/people/megan-quick.md","scene/people/stephane-mayer.md","scene/people/andrew-tees.md","scene/people/elizabeth-mcdonald.md","scene/people/luc-robert.md","scene/people/simona-genga.md"]
+slug = "canadian-opera-company-ensemble-studio"
+title = "Canadian Opera Company Ensemble Studio"
+type_of_company = "Young Artist Program"
+website = "http://www.coc.ca/AboutTheCOC/CompanyMembers/EnsembleStudio.aspx"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/canadianoperacompany"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/CanadianOpera"
++++
 
 <p>
 	The COC Ensemble Studio — founded in 1980 with a generous continuing grant from Imperial Oil Limited and with assistance from the Government of Canada — is Canada's premier training program for young opera professionals.

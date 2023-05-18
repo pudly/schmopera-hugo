@@ -1,33 +1,17 @@
----
-author:
-- authors/christopher-enns.md
-categories: Editorial
-date: "2015-10-08T08:49:00-04:00"
-lastmod: "2015-10-08T09:47:00-04:00"
-preamble: This is a guest post by Chris Enns, tenor and creator of the artist personal
-  finance blog, [Rags To Reasonable](/chris-enns-rags-to-reasonable/). He's a fellow
-  artist/writer, and I encourage readers to [read his stuff](http://www.ragstoreasonable.com/)
-  for some sound advice (financial or otherwise).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444308522113/Dreaming-of-an-Artistic-Middle-Class-Just-pic.jpg.jpg
-publishDate: "2015-10-08T09:04:00-04:00"
-related_articles:
-- articles/the-business-of-passion.md
-- articles/rags-to-reasonables-personal-finance-holy-grail.md
-- articles/the-number-one-financial-thing-i-wish-everyone-would-know.md
-- articles/managing-the-unexpected.md
-- articles/tools-the-big-book-of-variable-income.md
-- articles/stop-letting-audition-season-destroy-your-bank-account.md
-- articles/rags-to-reasonable-new-look-new-resources.md
-related_people:
-- scene/people/christopher-enns.md
-short_description: The starving artist. A cliché so played out it wouldn’t even deserve
-  mentioning if it didn’t reflect the reality of so many.  It’s generally agreed upon
-  that since artists have the luxury of living their dreams, they’re signing up for
-  a life of financial struggle. They knew life would be like this, and they chose
-  it anyway.
-slug: we-dont-have-to-starve-dreaming-of-an-artistic-middle-class
-title: 'We don&#039;t have to starve: dreaming of an artistic middle class'
----
++++
+author = ["authors/christopher-enns.md"]
+categories = "Editorial"
+date = "2015-10-08T08:49:00-04:00"
+lastmod = "2015-10-08T09:47:00-04:00"
+preamble = "This is a guest post by Chris Enns, tenor and creator of the artist personal finance blog, [Rags To Reasonable](/chris-enns-rags-to-reasonable/). He's a fellow artist/writer, and I encourage readers to [read his stuff](http://www.ragstoreasonable.com/) for some sound advice (financial or otherwise)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444308522113/Dreaming-of-an-Artistic-Middle-Class-Just-pic.jpg.jpg"
+publishDate = "2015-10-08T09:04:00-04:00"
+related_articles = ["articles/the-business-of-passion.md","articles/rags-to-reasonables-personal-finance-holy-grail.md","articles/the-number-one-financial-thing-i-wish-everyone-would-know.md","articles/managing-the-unexpected.md","articles/tools-the-big-book-of-variable-income.md","articles/stop-letting-audition-season-destroy-your-bank-account.md","articles/rags-to-reasonable-new-look-new-resources.md"]
+related_people = ["scene/people/christopher-enns.md"]
+short_description = "The starving artist. A cliché so played out it wouldn’t even deserve mentioning if it didn’t reflect the reality of so many.  It’s generally agreed upon that since artists have the luxury of living their dreams, they’re signing up for a life of financial struggle. They knew life would be like this, and they chose it anyway."
+slug = "we-dont-have-to-starve-dreaming-of-an-artistic-middle-class"
+title = "We don&#039;t have to starve: dreaming of an artistic middle class"
++++
 
 Now that North America is fully entrenched in election cycles, there’s a lot of talk about the ‘middle class’. 
 

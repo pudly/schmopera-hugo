@@ -1,20 +1,15 @@
----
-author:
-- authors/oliver-munar.md
-categories: Review
-date: "2018-11-10T12:31:00-05:00"
-lastmod: "2018-11-10T12:57:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541871051128/sqCPORequiem.jpg.jpg
-primary_image_credit: 'Clockwise from left: Jill Grove, Katie Van Kooten (Photo: Sussie
-  Ahlburg), Jung Soo Yun, and Petri Lindroos.'
-publishDate: "2018-11-10T12:31:00-05:00"
-short_description: performance. Each instance of the &quot;Dies Irae&quot; theme,
-  in which the chorus competes with a bombastic orchestra, was performed with gusto
-  and confidence. The choir also excelled in its polyphony, with the challenging &quot;Sanctus&quot;
-  and &quot;Libera me&quot; fugue performed well on this night.
-slug: quartet-breathes-the-divine-into-verdi-requiem
-title: Quartet breathes the divine into Verdi Requiem
----
++++
+author = ["authors/oliver-munar.md"]
+categories = "Review"
+date = "2018-11-10T12:31:00-05:00"
+lastmod = "2018-11-10T12:57:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541871051128/sqCPORequiem.jpg.jpg"
+primary_image_credit = "Clockwise from left: Jill Grove, Katie Van Kooten (Photo: Sussie Ahlburg), Jung Soo Yun, and Petri Lindroos."
+publishDate = "2018-11-10T12:31:00-05:00"
+short_description = "performance. Each instance of the &quot;Dies Irae&quot; theme, in which the chorus competes with a bombastic orchestra, was performed with gusto and confidence. The choir also excelled in its polyphony, with the challenging &quot;Sanctus&quot; and &quot;Libera me&quot; fugue performed well on this night."
+slug = "quartet-breathes-the-divine-into-verdi-requiem"
+title = "Quartet breathes the divine into Verdi Requiem"
++++
 
 This weekend, much of the world will observe the 100th anniversary of the armistice that ended World War I. In Canada, November 11th marks Remembrance Day; with it falling on a Sunday, this year, most symphonies and orchestras have programmed a Requiem or a fitting work to pay tribute to the brave women and men who paid the ultimate sacrifice both in times of war and peace. The Calgary Philharmonic Orchestra has turned to an international cast of singers to anchor its weekend production of Verdi's *Requiem*.
 

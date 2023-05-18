@@ -1,22 +1,17 @@
----
-date: "2015-07-04T21:35:00-06:00"
-discipline: Pianist, coach
-lastmod: "2015-07-04T21:35:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436067146865/McMahon-678x500.jpg.jpg
-publishDate: "2015-07-04T21:35:00-06:00"
-related_companies:
-- scene/companies/opera-mcgill.md
-- scene/companies/opera-nuova.md
-- scene/companies/cosi-centre-for-opera-studies-in-italy.md
-- scene/companies/latelier-lyrique-de-lopra-de-montral.md
-slug: michael-mcmahon
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/michael.mcmahon.79069
-title: Michael McMahon
----
++++
+date = "2015-07-04T21:35:00-06:00"
+discipline = "Pianist, coach"
+lastmod = "2015-07-04T21:35:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436067146865/McMahon-678x500.jpg.jpg"
+publishDate = "2015-07-04T21:35:00-06:00"
+related_companies = ["scene/companies/opera-mcgill.md","scene/companies/opera-nuova.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
+slug = "michael-mcmahon"
+title = "Michael McMahon"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/michael.mcmahon.79069"
++++
 
 Pianist and vocal coach Michael McMahon studied at McGill University with Charles Reiner. With the aid of the Canada Council for the Arts, he completed his studies in Vienna at the Franz Schubert Institute and the Hochschule für Musik und darstellende Kunst, and in Salzburg at the International Summer Academy held at the Mozarteum. During this time, he studied with such legendary artists as Erik Werba, Hans Hotter, Elly Ameling, Jörg Demus and Kim Borg. 
 

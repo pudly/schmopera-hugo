@@ -1,28 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2019-05-08T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: '[_Pomegranate_](http://buddiesinbadtimes.com/show/pomegranate/) runs at
-  Buddies in Bad Times Theatre June 5-9.'
-preamble: |-
-  Next month, Toronto's Buddies in Bad Times Theatre sees the world premiere of [_Pomegranate_](http://buddiesinbadtimes.com/show/pomegranate/), the lesbian chamber opera by Kye Marshall and Amanda Hale. The story of time-travel and love is directed by Michael Mori, and runs June 5-9.
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2019-05-08T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = "[_Pomegranate_](http://buddiesinbadtimes.com/show/pomegranate/) runs at Buddies in Bad Times Theatre June 5-9."
+preamble = "Next month, Toronto's Buddies in Bad Times Theatre sees the world premiere of [_Pomegranate_](http://buddiesinbadtimes.com/show/pomegranate/), the lesbian chamber opera by Kye Marshall and Amanda Hale. The story of time-travel and love is directed by Michael Mori, and runs June 5-9.\n\nWe spoke with Hale and Marshall about their work, and the story they hope to tell with _Pomegranate_."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557424860/media/2019/05/sqPOM.jpg"
+primary_image_credit = "Camille Rogers and Rebecca Gray as Suzie and Cass in Pomegranate."
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "\"It shows how lovers can be so deeply bonded that they remain loyal to each other across huge time spans and are once again drawn together, even without recognizing why, just acting on instinct.\""
+slug = "a-lesbian-chamber-opera-to-span-centuries-pomegranate"
+title = "A lesbian chamber opera to span centuries: Pomegranate"
+youtube_url = ""
 
-  We spoke with Hale and Marshall about their work, and the story they hope to tell with _Pomegranate_.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557424860/media/2019/05/sqPOM.jpg
-primary_image_credit: Camille Rogers and Rebecca Gray as Suzie and Cass in Pomegranate.
-related_articles: []
-related_companies: []
-related_people: []
-short_description: '"It shows how lovers can be so deeply bonded that they remain
-  loyal to each other across huge time spans and are once again drawn together, even
-  without recognizing why, just acting on instinct."'
-slug: a-lesbian-chamber-opera-to-span-centuries-pomegranate
-title: 'A lesbian chamber opera to span centuries: Pomegranate'
-youtube_url: ""
----
++++
 ## What inspired this story of time-travel and love?
 
 **Amanda:** I've always been drawn to the Classical era of the Mediterranean – especially Greco-Roman culture and its accompanying mythologies. In the early 2000s I visited the ruins of Pompeii and was intrigued with the frescoes in the Villa of Mysteries – a building on the edge of the town of Pompeii, housing a wine press, and a Hall with walls covered in fresco fragments.
@@ -39,9 +33,7 @@ Kye Marshall and I are members of Yorkville's Heliconian Club, an interestingly 
 
 Our audience loved the presentation, so, with the inspiration of the Muses and audience applause, we took a leap into the opera world and began expanding the plot of Act I, and created a second and somewhat parallel act situated in a downtown lesbian bar in 1980s Toronto. The inspiration for Act II came from our mutual experience of 1980s Toronto – a time of political turbulence and revolutionary change for the lesbian and gay communities; and a time in which, unlike today, there were many lesbian bars with a clandestine atmosphere similar to the Villa of Mysteries – places where we could take refuge and feel free to be our true selves.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1557425024/media/2019/05/Amanda%20by%20Pyx%20-%20Copy.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557425024/media/2019/05/Amanda%20by%20Pyx%20-%20Copy.jpg){{% /md %}}
 
 <figcaption>Amanda Hale, librettist, Pomegranate.</figcaption>
 
@@ -53,9 +45,7 @@ Our audience loved the presentation, so, with the inspiration of the Muses and a
 
 In the score I have created for _Pomegranate_ I use an eclectic mix of classical, jazz/pop, Latin, avant-garde and balladic genres. With a limited budget I decided to go with harp and electric piano as the mainstay instruments, but have added three cellos for their 4-octave range, lush sound and many sound colors which I know about from my cello practise.  Flute and oboe were included for their unique color palettes. As a contemporary composer I like to create music that is memorably melodic, accessible and enjoyable, but also includes colourful and interesting modern compositional techniques.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1557425011/media/2019/05/KYE%20pic%20cello-promo.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557425011/media/2019/05/KYE%20pic%20cello-promo.jpg){{% /md %}}
 
 <figcaption>Kye Marshall, composer, Pomegranate.</figcaption>
 
@@ -71,9 +61,7 @@ The story demonstrates the old saying, _plus ça change, plus la même chose_. I
 
 The arts allow us to demonstrate the limitations of language. Even where human connection is profound, we often fall short of communicating thoughts and feelings that then remain buried in our inner lives. The traditions of opera make it a perfect vehicle for expressing these passionate emotions.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1557424937/media/2019/05/PomegranatePOSTER.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557424937/media/2019/05/PomegranatePOSTER.jpg){{% /md %}}
 
 </figure>
 

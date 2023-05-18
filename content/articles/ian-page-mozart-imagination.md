@@ -1,32 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-04-07T15:29:00+01:00"
-lastmod: "2016-04-08T15:31:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460039298378/2016-04-08---Ian-Page-c-Sheila-Rock.jpg.jpg
-primary_image_credit: Photo by Sheila Rock.
-publishDate: "2016-04-08T15:10:00+01:00"
-related_articles:
-- articles/cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer.md
-- articles/alexander-neef-listening-to-music.md
-- articles/from-don-juan-to-unclejohn.md
-- articles/talking-with-singers-alessandro-fisher.md
-- articles/a-warm-introduction-the-mozartists-at-wigmore-hall.md
-- articles/littleknown-gems-ariane-et-bachus.md
-- articles/a-very-happy-20th-birthday-for-classical-opera.md
-related_companies:
-- scene/companies/classical-opera.md
-related_people:
-- scene/people/ian-page.md
-short_description: '&quot;I love the way things have changed in the last generation
-  or two. There are people who behave stupidly and tyrannically, there will always
-  be. But it&#039;s more and more of a minority now, and I think it&#039;s so clear
-  that when people feel enabled and bring themselves to their work, it&#039;s bound
-  to be better. It&#039;s so obvious.&quot;'
-slug: ian-page-mozart-imagination
-title: 'Ian Page: Mozart &amp; imagination'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-04-07T15:29:00+01:00"
+lastmod = "2016-04-08T15:31:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460039298378/2016-04-08---Ian-Page-c-Sheila-Rock.jpg.jpg"
+primary_image_credit = "Photo by Sheila Rock."
+publishDate = "2016-04-08T15:10:00+01:00"
+related_articles = ["articles/cecilia-bartoli-atonal-music-creates-a-barrier-between-composer-and-singer.md","articles/alexander-neef-listening-to-music.md","articles/from-don-juan-to-unclejohn.md","articles/talking-with-singers-alessandro-fisher.md","articles/a-warm-introduction-the-mozartists-at-wigmore-hall.md","articles/littleknown-gems-ariane-et-bachus.md","articles/a-very-happy-20th-birthday-for-classical-opera.md"]
+related_companies = ["scene/companies/classical-opera.md"]
+related_people = ["scene/people/ian-page.md"]
+short_description = "&quot;I love the way things have changed in the last generation or two. There are people who behave stupidly and tyrannically, there will always be. But it&#039;s more and more of a minority now, and I think it&#039;s so clear that when people feel enabled and bring themselves to their work, it&#039;s bound to be better. It&#039;s so obvious.&quot;"
+slug = "ian-page-mozart-imagination"
+title = "Ian Page: Mozart &amp; imagination"
++++
 
 It's a real treat to talk with an artist as in love with his work as [Ian Page](/scene/people/ian-page/), founder, conductor, and artistic director of London's [Classical Opera](/scene/companies/classical-opera/). Since 1997, the company of singers and period-instrument orchestra has focused on presenting opera and orchestral works by Mozart and his contemporaries. Though the music is old, Page himself is averse to the concept of putting up what can be called, with negative connotations, "museum pieces". "The reason I love period instruments is that to me, they sound more modern," he says of the company's musical aesthetic, which has deep roots in storytelling and conveying drama.
 
@@ -44,9 +30,7 @@ Page acknowledges that, "easily and lazily", people can distill Mozart's staged 
 
 Pieces that inspired Mozart are as important to Page as works he criticised, when it comes to contextualizing the composer's aesthetic. "The things that [Mozart] does criticise are so interesting. Like, he had the temerity to criticise [Shakespeare's] *Hamlet*," he laughs. "I love *Hamlet* to bits, but he's sort of right. He said that the ghost spoke too often, and actually it would be much more menacing and frightening if he were to say fewer words." As anyone who's sung a Mozart opera knows, criticism of this scale is indicative of the composer's innate sense of dramatic timing and storytelling. "He was so practical; he was always thinking about how to create an effect."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460124586045/2016-04-08---Full-orchestra-and-Ian-Page-c-Benjamin-Ealovega.jpg.jpg)<figcaption>Ian Page conducting the Classical Opera orchestra. Photo by Benjamin Ealovega.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460124586045/2016-04-08---Full-orchestra-and-Ian-Page-c-Benjamin-Ealovega.jpg.jpg)<figcaption>Ian Page conducting the Classical Opera orchestra. Photo by Benjamin Ealovega.</figcaption>
 </figure>
 
 ## Fostering great rehearsals

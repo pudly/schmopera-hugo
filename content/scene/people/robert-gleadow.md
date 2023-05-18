@@ -1,20 +1,14 @@
----
-_template: people_single
-date: "2015-04-18T19:04:00-04:00"
-discipline: Bass-baritone
-lastmod: "2015-04-18T19:04:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429398006620/RG_Credit_Keith_Penner_610_300_c1_center_top_0_-230_1.jpg.jpg
-primary_image_credit: Photo by Keith Penner
-publishDate: "2015-04-18T19:04:00-04:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/royal-opera-house.md
-- scene/companies/royal-conservatory-of-music.md
-slug: robert-gleadow
-title: Robert Gleadow
----
++++
+date = "2015-04-18T19:04:00-04:00"
+discipline = "Bass-baritone"
+lastmod = "2015-04-18T19:04:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429398006620/RG_Credit_Keith_Penner_610_300_c1_center_top_0_-230_1.jpg.jpg"
+primary_image_credit = "Photo by Keith Penner"
+publishDate = "2015-04-18T19:04:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/deutsche-oper-berlin.md","scene/companies/houston-grand-opera.md","scene/companies/royal-opera-house.md","scene/companies/royal-conservatory-of-music.md"]
+slug = "robert-gleadow"
+title = "Robert Gleadow"
++++
 
 Canadian bass-baritone Robert Gleadow continues to make his mark on operatic and concert stages around the world since his graduation from the Jette Parker Young Artists program of the Royal Opera Covent Garden and the Canadian Opera Company Ensemble Studio. Mr. Gleadow’s performances at Houston Grand Opera as Talbot in Donizetti’s *Maria Stuarda* alongside Joyce DiDonato and under the baton of Patrick Summers were characterized as “never lacking conviction or genuine concern” and it was noted that “his plangent bass rang out with a sonic boom.”
 

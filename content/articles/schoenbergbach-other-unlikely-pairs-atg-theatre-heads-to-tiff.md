@@ -1,29 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-03-01T13:40:00+00:00"
-lastmod: "2017-03-13T16:46:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378414013/2017-03-01---AMB-choeur-denfants.jpg.jpg
-primary_image_credit: A still from "The Chronicles of Anna Magdalena Bach". Image
-  courtesy of TIFF.
-publishDate: "2017-03-01T14:27:00+00:00"
-related_articles:
-- articles/diegetic-music-in-opera-3-ways-to-use-it.md
-- articles/gibson-girls-and-the-great-opera-theyd-make.md
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-related_people:
-- scene/people/joel-ivany.md
-short_description: '&quot;This past week, we were able to have an open, pop-up rehearsal
-  in the atrium of TIFF Bell Lightbox. To see a new and engaged audience stop by and
-  listen to both pianist Topher Mokrzewski and soprano Adanya Dunn rehearse is what
-  makes this collaboration so special. It&#039;s been really great to work with a
-  partner that is open to creating intersectional performances like this, who wants
-  to activate their building into a site for film, art, and music.&quot;'
-slug: schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff
-title: 'Schoenberg/Bach &amp; other unlikely pairs: AtG Theatre heads to TIFF'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-03-01T13:40:00+00:00"
+lastmod = "2017-03-13T16:46:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378414013/2017-03-01---AMB-choeur-denfants.jpg.jpg"
+primary_image_credit = "A still from \"The Chronicles of Anna Magdalena Bach\". Image courtesy of TIFF."
+publishDate = "2017-03-01T14:27:00+00:00"
+related_articles = ["articles/diegetic-music-in-opera-3-ways-to-use-it.md","articles/gibson-girls-and-the-great-opera-theyd-make.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/joel-ivany.md"]
+short_description = "&quot;This past week, we were able to have an open, pop-up rehearsal in the atrium of TIFF Bell Lightbox. To see a new and engaged audience stop by and listen to both pianist Topher Mokrzewski and soprano Adanya Dunn rehearse is what makes this collaboration so special. It&#039;s been really great to work with a partner that is open to creating intersectional performances like this, who wants to activate their building into a site for film, art, and music.&quot;"
+slug = "schoenbergbach-other-unlikely-pairs-atg-theatre-heads-to-tiff"
+title = "Schoenberg/Bach &amp; other unlikely pairs: AtG Theatre heads to TIFF"
++++
 
 The Toronto International Film Festival (TIFF) is best known for its star-studded galas and premieres that take over the city every September; yet it actually does some amazing programming all year round. They present both classic works and those that may be relatively unknown to those who are not serious cinephiles.
 
@@ -35,9 +24,7 @@ The showing on March 12 will be accompanied by a [live performance](http://www.t
 
 I caught up via email with both James Quandt from TIFF and AtG's Artistic Director [Joel Ivany](/scene/people/joel-ivany/) to talk about the retrospective and the relationship between film and music - in particular when talking about Straub-Huillet. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488377957774/2017-03-01---AMB-Bach-debout-devant-le-clavecin.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488377957774/2017-03-01---AMB-Bach-debout-devant-le-clavecin.jpg.jpg)
 <figcaption>A still from *The Chronicles of Anna Magdalena Bach*. Photo courtesy of TIFF.</figcaption>
 </figure>
 
@@ -65,9 +52,7 @@ This is exactly how AtG came to be: we started the company with the aim to find 
 
 **Quandt**: One of the great passions in my life is classical music, and both Bach and Schoenberg are among my favourite composer. I have countless CDs of the cantatas, Brandenburgs, Passions, orchestral suites, concerti, and the solo keyboard music, on piano and harpsichord. (Mahan Esfahani's recent disc of the Goldbergs is staggering!) For Schoenberg, I love the string quartets, the violin concerto, *Pierrot Lunaire*, and the orchestral pieces. And, of course, the two operas that Straub-Huillet made films of.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378129400/2017-03-01---Introduction...-.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378129400/2017-03-01---Introduction...-.jpg.jpg)
 <figcaption>A still from *Introduction to Arnold Schoenberg's "Accompaniment to a Cinematographic Scene". Photo courtesy of TIFF.</figcaption>
 </figure>
 
@@ -91,9 +76,7 @@ Straub-Huillet didnâ€™t make their art, in their minds, for any kind of elite â€
 
 **Quandt**: Straub-Huillet's films are fiercely political and the issues they raise are ever more current, given the dark times we are living through. I hope the films help to illuminate the history that has led us to this perilous moment. Machorka-Muff, for example, tells us a great deal about the persistence of fascism in Europe.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378251386/2017-03-01---mose-and-aaron-03.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378251386/2017-03-01---mose-and-aaron-03.jpg.jpg)
 <figcaption>A still from *Moses and Aaron*. Photo courtesy of TIFF.</figcaption>
 </figure>
 
@@ -135,9 +118,7 @@ This past week, we were able to have an open, pop-up rehearsal in the atrium of 
 
 **Quandt**: None of my pleasures are guilty.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378273823/2017-03-01---AMB-Bach-de-dos-dirigeant-.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488378273823/2017-03-01---AMB-Bach-de-dos-dirigeant-.jpg.jpg)
 <figcaption>A still from *The Chronicles of Anna Magdalena Bach*. Photo courtesy of TIFF.</figcaption>
 </figure>
 

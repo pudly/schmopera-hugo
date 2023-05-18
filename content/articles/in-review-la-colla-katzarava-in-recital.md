@@ -1,27 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2017-01-10T13:38:00+00:00"
-lastmod: "2017-01-11T12:38:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484055574623/2017-01-10---La-Colla-Katzarava.jpg.jpg
-primary_image_credit: Stefano La Colla, tenor, and Maria Katzarava, soprano.
-publishDate: "2017-01-11T12:25:00+00:00"
-related_articles:
-- articles/ian-rosenblatt-its-all-about-the-voice.md
-- articles/in-review-alek-shrader-at-wigmore-hall.md
-- articles/in-review-jamie-barton-at-wigmore-hall.md
-related_people:
-- scene/people/maria-katzarava.md
-- scene/people/stefano-la-colla.md
-short_description: At the same time, Wigmore Hall is not conducive to an evening of
-  opera scenes. The two singers seemed to fall into a groove, carved from their respective
-  past performances of Butterfly or Turandot. They seemed to want to fill the recital
-  stage with stuff, making up for the lack of sets and costumes and space, when instead
-  they could have done less, and simply let their voices do the work.
-slug: in-review-la-colla-katzarava-in-recital
-title: 'In review: La Colla &amp; Katzarava in recital'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2017-01-10T13:38:00+00:00"
+lastmod = "2017-01-11T12:38:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484055574623/2017-01-10---La-Colla-Katzarava.jpg.jpg"
+primary_image_credit = "Stefano La Colla, tenor, and Maria Katzarava, soprano."
+publishDate = "2017-01-11T12:25:00+00:00"
+related_articles = ["articles/ian-rosenblatt-its-all-about-the-voice.md","articles/in-review-alek-shrader-at-wigmore-hall.md","articles/in-review-jamie-barton-at-wigmore-hall.md"]
+related_people = ["scene/people/maria-katzarava.md","scene/people/stefano-la-colla.md"]
+short_description = "At the same time, Wigmore Hall is not conducive to an evening of opera scenes. The two singers seemed to fall into a groove, carved from their respective past performances of Butterfly or Turandot. They seemed to want to fill the recital stage with stuff, making up for the lack of sets and costumes and space, when instead they could have done less, and simply let their voices do the work."
+slug = "in-review-la-colla-katzarava-in-recital"
+title = "In review: La Colla &amp; Katzarava in recital"
++++
 
 Many times, we've heard a common sentiment from opera singers about giving recitals: they're utterly terrifying. It's easy to understand why; recitals are intimate, and intimate can be scary. Everything about a singer - from the beauty of their sound, to their choices of repertoire - is subject to close scrutiny.
 

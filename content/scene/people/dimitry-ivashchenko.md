@@ -1,31 +1,23 @@
----
-date: "2016-10-16T12:48:00+01:00"
-discipline: Bass
-lastmod: "2016-10-16T12:50:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476617900630/2016-10-16---Dimitry-Ivashchenko.jpg.jpg
-primary_image_credit: Wolfgang Silveri
-publishDate: "2016-10-16T12:50:00+01:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/scottish-opera.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/semperoper-dresden.md
-- scene/companies/oper-frankfurt.md
-slug: dimitry-ivashchenko
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/dimitry.ivashchenko
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/DIvashchenko
-title: Dimitry Ivashchenko
-website: http://dimitry-ivashchenko.de/
----
++++
+date = "2016-10-16T12:48:00+01:00"
+discipline = "Bass"
+lastmod = "2016-10-16T12:50:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476617900630/2016-10-16---Dimitry-Ivashchenko.jpg.jpg"
+primary_image_credit = "Wolfgang Silveri"
+publishDate = "2016-10-16T12:50:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/teatro-alla-scala.md","scene/companies/scottish-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/semperoper-dresden.md","scene/companies/oper-frankfurt.md"]
+slug = "dimitry-ivashchenko"
+title = "Dimitry Ivashchenko"
+website = "http://dimitry-ivashchenko.de/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/dimitry.ivashchenko"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/DIvashchenko"
++++
 
 He was highly acclaimed by public and press alike when presenting his first Philippe of *Don Carlos* in the original French version in Darmstadt as well as for his appearance as Kaspar in *Der Freischütz* at the Baden-Baden Festival under Thomas Hengelbrock. Despite his young age, the Russian bass won also great acclaim for his impressive portrayal of Gurnemanz in *PArsifal* and for Méphistophélès in Gounod's *Faust*.
 

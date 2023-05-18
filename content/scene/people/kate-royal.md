@@ -1,19 +1,14 @@
----
-_template: people_single
-date: "2016-08-19T10:18:00+01:00"
-discipline: Soprano
-lastmod: "2016-08-19T10:18:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471598234390/2016-08-19---Kate-Royal.jpg.jpg
-primary_image_credit: Esther Haase/EMI Classics
-publishDate: "2016-08-19T10:18:00+01:00"
-related_companies:
-- scene/companies/glyndebourne.md
-- scene/companies/english-national-opera.md
-- scene/companies/royal-opera-house.md
-- scene/companies/the-metropolitan-opera.md
-slug: kate-royal
-title: Kate Royal
----
++++
+date = "2016-08-19T10:18:00+01:00"
+discipline = "Soprano"
+lastmod = "2016-08-19T10:18:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471598234390/2016-08-19---Kate-Royal.jpg.jpg"
+primary_image_credit = "Esther Haase/EMI Classics"
+publishDate = "2016-08-19T10:18:00+01:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md"]
+slug = "kate-royal"
+title = "Kate Royal"
++++
 
 Born in London, Kate Royal studied at the Guildhall School of Music and Drama and the National Opera Studio. Awards include the 2004 Kathleen Ferrier Award, the 2004 John Christie Award, and the 2007 Royal Philharmonic Society Young Artist Award.
 

@@ -1,32 +1,18 @@
----
-author:
-- authors/michael-zarathuscook.md
-categories: Review
-date: "2018-11-24T11:54:00-05:00"
-lastmod: "2018-11-24T12:25:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078379541/sqBOUND510.jpg.jpg
-primary_image_credit: 'Miriam Khalil in BOUND v. 2, Against the Grain Theatre, 2018.
-  Photo: Darryl Block Photography.'
-publishDate: "2018-11-24T11:54:00-05:00"
-related_articles:
-- articles/atgbound-a-shocking-immediate-connection.md
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-related_people:
-- scene/people/miriam-khalil.md
-- scene/people/andrew-haji.md
-- scene/people/david-trudgen.md
-- scene/people/christopher-mokrzewski.md
-- scene/people/joel-ivany.md
-- scene/people/justin-welsh.md
-short_description: Kevin Lau&#039;s reconstruction of a variety of extracts from Handel&#039;s
-  vast catalog of compositions struck a tottering balance between showcasing one of
-  the most celebrated composers of the classical repertoire in its original form —
-  and enticing a modern audience with the experimental synth-tracks, glitches and
-  contortions available to the digital soundscape.
-slug: unraveling-bound-v2-second-time-is-also-a-charm
-title: 'Unraveling BOUND v.2: Second time is (also) a charm'
----
++++
+author = ["authors/michael-zarathuscook.md"]
+categories = "Review"
+date = "2018-11-24T11:54:00-05:00"
+lastmod = "2018-11-24T12:25:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543078379541/sqBOUND510.jpg.jpg"
+primary_image_credit = "Miriam Khalil in BOUND v. 2, Against the Grain Theatre, 2018. Photo: Darryl Block Photography."
+publishDate = "2018-11-24T11:54:00-05:00"
+related_articles = ["articles/atgbound-a-shocking-immediate-connection.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+related_people = ["scene/people/miriam-khalil.md","scene/people/andrew-haji.md","scene/people/david-trudgen.md","scene/people/christopher-mokrzewski.md","scene/people/joel-ivany.md","scene/people/justin-welsh.md"]
+short_description = "Kevin Lau&#039;s reconstruction of a variety of extracts from Handel&#039;s vast catalog of compositions struck a tottering balance between showcasing one of the most celebrated composers of the classical repertoire in its original form — and enticing a modern audience with the experimental synth-tracks, glitches and contortions available to the digital soundscape."
+slug = "unraveling-bound-v2-second-time-is-also-a-charm"
+title = "Unraveling BOUND v.2: Second time is (also) a charm"
++++
 
 "I think opera is sexy now" — was the tail-end of the response I got from a friend who I had invited to see *BOUND v.2* (on Nov. 20th) but her schedule wouldn't let. What she really meant: I'm just realizing now that opera can be new and exciting, challenging, at the very edge of the envelope of artistic exploration on stage, unpredictable, cathartic even, politically informed and in certain instances, politically active — though I think prefer her choice of words. 
 

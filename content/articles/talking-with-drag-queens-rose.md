@@ -1,26 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2022-05-02T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: For tour dates, merch, and more, head to Rosé's website at [omgheyrose.com](https://omgheyrose.com/).
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1651345081/media/2022/04/sqRose_1_1_drlzmg.jpg
-primary_image_credit: Photo courtesy of Voss Events.
-related_articles:
-- articles/talking-with-singers-jamie-barton.md
-- articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md
-related_companies: []
-related_people: []
-short_description: “When you think of the voice as having, like, the sound of an emotion
-  instead of just sounding pretty, that's a really exciting thing to do. It makes
-  it more like a mime performance than just lip syncing.”
-slug: talking-with-drag-queens-rose
-title: 'Talking with drag queens: Rosé'
-youtube_url: ""
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = 2022-05-02T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = "For tour dates, merch, and more, head to Rosé's website at [omgheyrose.com](https://omgheyrose.com/)."
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1651345081/media/2022/04/sqRose_1_1_drlzmg.jpg"
+primary_image_credit = "Photo courtesy of Voss Events."
+related_articles = ["articles/talking-with-singers-jamie-barton.md", "articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md"]
+related_companies = []
+related_people = []
+short_description = "“When you think of the voice as having, like, the sound of an emotion instead of just sounding pretty, that's a really exciting thing to do. It makes it more like a mime performance than just lip syncing.”"
+slug = "talking-with-drag-queens-rose"
+title = "Talking with drag queens: Rosé"
+youtube_url = ""
+
++++
 Call it an excuse to binge _Drag Race_ if you must, but there's undoubtedly common ground in the worlds of drag and opera. [Jamie Barton](https://www.schmopera.com/talking-with-singers-jamie-barton/) knows it. [Blythely Oratonio](https://blo.org/blythely/) knows it. Even [Canada's indie opera scene](https://operacanada.ca/drag-and-opera/) knows it. And the cool thing is that these two artforms — both very into gender-bending, exaggerated drama and mixing the visual with the musical — are influencing each other and making each other better.
 
 Living smack in the middle of that Venn diagram where opera intersects with the art of drag is [Rosé](https://omgheyrose.com/), the Scottish-born queen best known for being a finalist in season thirteen of _RuPaul’s Drag Race_. She has appeared on _The Voice_ and _America's Got Talent_, and she's one-third of the drag queen girl group [Stephanie's Child](https://www.instagram.com/stephanieschild/?hl=en), alongside [Lagoona Bloo](https://www.lagoonabloo.com/) and [Jan Sport](https://twitter.com/janjanjan) — meaning Rosé doesn't just lip sync, but she real-life sings.
@@ -29,9 +25,7 @@ For anyone with even a whiff of a theatre-kid background, watching Rosé kill it
 
 "I've always been someone who is really into the study and preparation of a performance," Rosé says in a phone call from Copenhagen, between rehearsals for the [_RuPaul’s Drag Race Werq the World_](https://omgheyrose.com/#tour) tour. "I really liked to have everything so set and exhaust all of the control that I actually have over my body and my capabilities so that when the moment comes to actually perform it, I can truly let go and trust."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1651345238/media/2022/04/Rose_pinkcar_1_nnsrld.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345238/media/2022/04/Rose_pinkcar_1_nnsrld.jpg){{% /md %}}
 
 <figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
@@ -42,9 +36,7 @@ Though she's not the only one who takes a technical approach to her art, Rosé i
 
 In her sixth year of doing drag, Rosé comes from a "dense education" in the performing arts. She attended Wichita State University — the same place that gave us Alan Held and Joyce DiDonato — with the intent to become an operatic tenor. (If you want to hear some of that great tenor sound, check out ["The Devil in the Details"](https://www.youtube.com/watch?v=vtFjN6x7aTc).)
 
-<figure data-type="video">
-
-<iframe width="919" height="517" src="https://www.youtube.com/embed/vtFjN6x7aTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+<figure data-type="video">{{% md %}}<iframe width="919" height="517" src="https://www.youtube.com/embed/vtFjN6x7aTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}</figure>
 
 "I think what always attracted me to opera was first of all the drama, how dramatic everything is," says Rosé. "It's so exciting to be in the room with voices that can carry that way."
 
@@ -56,9 +48,7 @@ What does spark her joy, though, is paying homage to opera with that great perfo
 
 "I also low-key love to lip sync to arias," Rosé says before I hound her with follow-up questions. "I like to do it, you know, in a comedic way. So of course my favorite is 'Non più mesta' by Cecilia Bartoli, because it is iconically hysterical, and of course everyone knows how wildly expressive Cecilia is." (She's right, we all do.)
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1651345264/media/2022/04/Rose_bw_2_3_eaitkp.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345264/media/2022/04/Rose_bw_2_3_eaitkp.jpg){{% /md %}}
 
 <figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
@@ -67,9 +57,7 @@ I've always thought that the lip sync was a fascinating mode of expression. It's
 
 "Something that is a commonality between singing and lip syncing is \[that\] you must know the music. You have to know the music as though it's coming from you," Rosé says. With her training as a singer, she goes the extra step of showing the exaggerated physicality of a singer's breath, sound placement, and even their high-note vowel choice. "I sort of like, place my tongue down and start raising my soft palate like I'm singing," she laughs.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1651345365/media/2022/04/Rose_red_1_62_tmjgu2.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345365/media/2022/04/Rose_red_1_62_tmjgu2.jpg){{% /md %}}
 
 <figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
@@ -84,9 +72,7 @@ Rosé is clued into one of the big truths about great singers, which is that the
 
 One of the big overlaps between drag and opera comes in the creation of characters. Opera singers draw their characters from scores and text, and bolster their choices with input from historical figures ([Mary, Queen of Scots](https://youtu.be/Ij8E-Z6DMR4), anyone?), pop-culture influences, and a lot of careful thought.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1651345567/media/2022/04/Rose_Mary_1_47_ysly8a.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345567/media/2022/04/Rose_Mary_1_47_ysly8a.jpg){{% /md %}}
 
 <figcaption>Rosé as Mary, Queen of Scots. Photo courtesy of Voss Events.</figcaption>  
 </figure>
@@ -99,9 +85,7 @@ So I find it beautiful and surprising that, despite her technical approach to he
 
 Rather than being a product of traditional character analysis, Rosé was organic, "kind of like unleashing an explosion of all of the things that I had suppressed: a lot of femininity, a lot of profanity, a lot of stuff that makes me feel more myself."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651345280/media/2022/04/Rose_suit_DSC01163-6_dfjvxy.jpg){{% /md %}}
 
 <figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>
@@ -114,9 +98,7 @@ In Rosé, "the joke was that she was really rough around the edges," she says wi
 
 Drag marked an unfamiliar foray into imperfection for Rosé, but she took it as a challenge to bring her look up to the level of her onstage skills. "For me, when I started drag, the main challenge and still what I work on the most," she says, "is my aesthetic and my appearance, because it's obviously such a huge part of the art form."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1651498345/media/2022/05/Rose_tartan_2_30_xq7hzl.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1651498345/media/2022/05/Rose_tartan_2_30_xq7hzl.jpg){{% /md %}}
 
 <figcaption>Photo courtesy of Voss Events.</figcaption>  
 </figure>

@@ -1,30 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-04-11T09:50:00+01:00"
-lastmod: "2016-04-11T11:25:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460366000491/2016-04-11---rsz_ml_rosenblatt_0013.jpg.jpg
-publishDate: "2016-04-11T11:05:00+01:00"
-related_articles:
-- articles/in-review-juan-diego-florezs-rosenblatt-recital.md
-- articles/in-review-sondra-radvanovsky-at-koerner-hall.md
-- articles/in-review-paul-appleby-at-wigmore-hall.md
-- articles/in-review-javier-camarena-at-wigmore-hall.md
-- articles/in-review-alek-shrader-at-wigmore-hall.md
-- articles/in-review-la-colla-katzarava-in-recital.md
-- articles/dont-miss-radvanovsky-in-recital-at-cadogan-hall.md
-related_people:
-- scene/people/javier-camarena.md
-short_description: Out of his recital series have come several close relationships
-  with the singers. &quot;I spend a lot of time with all the artists. A number of
-  them have become friends.&quot; Often the singers stay at with him while they&#039;re
-  in town for a recital, or they&#039;ll use his piano to rehearse. &quot;There&#039;s
-  nothing like having the second act of Bohème being sung to you in the kitchen while
-  you&#039;re cooking.&quot;
-slug: ian-rosenblatt-its-all-about-the-voice
-title: 'Ian Rosenblatt: &quot;It&#039;s all about the voice.&quot;'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-04-11T09:50:00+01:00"
+lastmod = "2016-04-11T11:25:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460366000491/2016-04-11---rsz_ml_rosenblatt_0013.jpg.jpg"
+publishDate = "2016-04-11T11:05:00+01:00"
+related_articles = ["articles/in-review-juan-diego-florezs-rosenblatt-recital.md","articles/in-review-sondra-radvanovsky-at-koerner-hall.md","articles/in-review-paul-appleby-at-wigmore-hall.md","articles/in-review-javier-camarena-at-wigmore-hall.md","articles/in-review-alek-shrader-at-wigmore-hall.md","articles/in-review-la-colla-katzarava-in-recital.md","articles/dont-miss-radvanovsky-in-recital-at-cadogan-hall.md"]
+related_people = ["scene/people/javier-camarena.md"]
+short_description = "Out of his recital series have come several close relationships with the singers. &quot;I spend a lot of time with all the artists. A number of them have become friends.&quot; Often the singers stay at with him while they&#039;re in town for a recital, or they&#039;ll use his piano to rehearse. &quot;There&#039;s nothing like having the second act of Bohème being sung to you in the kitchen while you&#039;re cooking.&quot;"
+slug = "ian-rosenblatt-its-all-about-the-voice"
+title = "Ian Rosenblatt: &quot;It&#039;s all about the voice.&quot;"
++++
 
 "I come from a family that loved singers," says [Ian Rosenblatt](http://rosenblatt-law.co.uk/people/ian-rosenblatt/), founder of the [Rosenblatt Recitals](http://www.rosenblattrecitals.com/) series. "My father used to put on a record of *Traviata* every morning. He used to go to work very early in the morning, so 5:00 in the morning, the same record went on, which was [*La traviata*](http://www.amazon.co.uk/Verdi-La-Traviata-Giuseppe/dp/B00000I92Y) with Bergonzi, Sutherland, and Merrill." That's not a bad way to get exposed to top-notch singing at an early age, and Rosenblatt's love of voices has continued throughout his adult life.
 
@@ -58,9 +44,7 @@ Out of his recital series have come several close relationships with the singers
 
 Admittedly, his recital series isn't entirely altruistic. "I wouldn't want anybody to think I'm that insane," laughs Rosenblatt. "I'm quite insane, but I'm not that insane." He runs a [London-based law firm](http://rosenblatt-law.co.uk/), and he's able to extend invitations to the recital series to clients. "It's amazing how many people, who are connected to the law firm, just love coming." In many cases, he is able to introduce them to something entirely new. "We had a couple hundred people as guests at the Albert Hall, for example. There was a significant majority who had never been to the Albert Hall, who'd never been to a classical concert, who certainly had never been to hear a classical singer, and who were completely and utterly blown away."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460366571011/2016-04-11---Javier-Camarena-c-Jonathan-Rose.jpg.jpg)<figcaption>Tenor Javier Camarena at his Rosenblatt Recital, 2014.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460366571011/2016-04-11---Javier-Camarena-c-Jonathan-Rose.jpg.jpg)<figcaption>Tenor Javier Camarena at his Rosenblatt Recital, 2014.</figcaption>
 </figure>
 
 ## What's to come

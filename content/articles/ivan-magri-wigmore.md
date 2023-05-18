@@ -1,24 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2017-04-04T13:37:00+01:00"
-lastmod: "2017-04-04T14:27:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491311912082/2017-04-04---Ivan-Magri.jpg.jpg
-publishDate: "2017-04-04T14:26:00+01:00"
-related_articles:
-- articles/in-review-sondra-radvanovskys-stunning-london-recital-debut.md
-- articles/in-review-alek-shrader-at-wigmore-hall.md
-- articles/in-review-jamie-barton-at-wigmore-hall.md
-related_people:
-- scene/people/ivan-magri.md
-short_description: You could argue that the recital, packed with songs and arias by
-  Bellini, Donizetti, Verdi, Puccini, and Tosti (with some Massenet for variety),
-  was a one-flavour kind of deal. Yet like the familiar flavours of steak frites,
-  chocolate truffles, and great red wine, what sort of party-pooper could complain?
-slug: ivan-magri-wigmore
-title: 'In review: Ivan Magrì at Wigmore Hall'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2017-04-04T13:37:00+01:00"
+lastmod = "2017-04-04T14:27:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491311912082/2017-04-04---Ivan-Magri.jpg.jpg"
+publishDate = "2017-04-04T14:26:00+01:00"
+related_articles = ["articles/in-review-sondra-radvanovskys-stunning-london-recital-debut.md","articles/in-review-alek-shrader-at-wigmore-hall.md","articles/in-review-jamie-barton-at-wigmore-hall.md"]
+related_people = ["scene/people/ivan-magri.md"]
+short_description = "You could argue that the recital, packed with songs and arias by Bellini, Donizetti, Verdi, Puccini, and Tosti (with some Massenet for variety), was a one-flavour kind of deal. Yet like the familiar flavours of steak frites, chocolate truffles, and great red wine, what sort of party-pooper could complain?"
+slug = "ivan-magri-wigmore"
+title = "In review: Ivan Magrì at Wigmore Hall"
++++
 
 It's not hard to understand why so many singers point to recital work as some of the most nerve-wracking moments in their professional lives - far moreso than performing for thousands in an opera house. Sicilian tenor Ivan Magrì, in his [Rosenblatt Recital](/ian-rosenblatt-its-all-about-the-voice/) with pianist Iain Burnside, proved himself a true product of the operatic stage; his biography is littered with enviable tenor roles like the Duke of Mantua, Rodolfo, and Alfredo, and his training is firmly rooted in the Italian school.
 

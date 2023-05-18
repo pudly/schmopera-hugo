@@ -1,35 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-04-27T21:19:00+01:00"
-lastmod: "2016-04-29T16:05:00+01:00"
-preamble: |-
-  [Minnesota Opera](/scene/companies/minnesota-opera/) presents the world premiere of [*The Shining*](http://www.mnopera.org/season/2015-2016/the-shining/), a new opera by composer Paul Moravec and librettist Mark Campbell, based on the novel by Stephen King. American baritone [Brian Mulligan](/scene/people/brian-mulligan/) is set to sing the role of Jack Torrance, the notorious, demon-filled family man who takes a job at the secluded Overlook Hotel.
-
-  Mulligan talks about discovering Jack Torrance, about singing world premieres, and how he's excited about telling the story of *The Shining* on the live stage.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461790854061/2016-04-28---Mulligan-Torrance---MNOpera.jpg.jpg
-primary_image_credit: 'Brian Mulligan as Jack Torrance. Photo: Minnesota Opera.'
-publishDate: "2016-04-29T15:49:00+01:00"
-related_articles:
-- articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md
-- articles/emotional-extremes-bringing-your-work-home.md
-- articles/fannibals-in-new-york-one-world-symphony-premieres-hannibal.md
-- articles/new-operas-craig-bohmlers-riders-of-the-purple-sage.md
-- articles/new-opera-honest-marketing.md
-- articles/a-bold-debut-album-brian-mulligan-sings-dominick-argento.md
-related_companies:
-- scene/companies/minnesota-opera.md
-related_people:
-- scene/people/brian-mulligan.md
-short_description: '&quot;What makes Jack Torrance different from other villains is
-  that he’s fun. He has a ball terrorizing his helpless little family... and he is
-  absolutely remorseless! His wife and son are merely failed extensions of himself,
-  and there&#039;s a joy in him once he decides to destroy them. He&#039;s empowered
-  and in control, with a purpose. It&#039;s a lot of fun to be that sadistic.&quot;'
-slug: brian-mulligan-singing-jack-torrance
-title: 'Brian Mulligan: singing Jack Torrance'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-04-27T21:19:00+01:00"
+lastmod = "2016-04-29T16:05:00+01:00"
+preamble = "[Minnesota Opera](/scene/companies/minnesota-opera/) presents the world premiere of [*The Shining*](http://www.mnopera.org/season/2015-2016/the-shining/), a new opera by composer Paul Moravec and librettist Mark Campbell, based on the novel by Stephen King. American baritone [Brian Mulligan](/scene/people/brian-mulligan/) is set to sing the role of Jack Torrance, the notorious, demon-filled family man who takes a job at the secluded Overlook Hotel.\n\nMulligan talks about discovering Jack Torrance, about singing world premieres, and how he's excited about telling the story of *The Shining* on the live stage."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461790854061/2016-04-28---Mulligan-Torrance---MNOpera.jpg.jpg"
+primary_image_credit = "Brian Mulligan as Jack Torrance. Photo: Minnesota Opera."
+publishDate = "2016-04-29T15:49:00+01:00"
+related_articles = ["articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md","articles/emotional-extremes-bringing-your-work-home.md","articles/fannibals-in-new-york-one-world-symphony-premieres-hannibal.md","articles/new-operas-craig-bohmlers-riders-of-the-purple-sage.md","articles/new-opera-honest-marketing.md","articles/a-bold-debut-album-brian-mulligan-sings-dominick-argento.md"]
+related_companies = ["scene/companies/minnesota-opera.md"]
+related_people = ["scene/people/brian-mulligan.md"]
+short_description = "&quot;What makes Jack Torrance different from other villains is that he’s fun. He has a ball terrorizing his helpless little family... and he is absolutely remorseless! His wife and son are merely failed extensions of himself, and there&#039;s a joy in him once he decides to destroy them. He&#039;s empowered and in control, with a purpose. It&#039;s a lot of fun to be that sadistic.&quot;"
+slug = "brian-mulligan-singing-jack-torrance"
+title = "Brian Mulligan: singing Jack Torrance"
++++
 
 ## You’ve played villains before in your career	- how does Jack Torrance compare to roles like Enrico or Sweeney Todd?
 

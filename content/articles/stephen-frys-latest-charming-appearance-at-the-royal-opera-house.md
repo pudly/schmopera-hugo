@@ -1,20 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2013-12-20T09:29:00-05:00"
-lastmod: "2015-04-28T23:35:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548019288/media/2019/01/StephenFryROH.png
-publishDate: "2013-12-20T09:29:00-05:00"
-related_companies:
-- scene/companies/royal-opera-house.md
-short_description: 'I think this event was a groundbreaking step forward in making
-  opera accessible to a new generation. Moderated by our favourite Stephen Fry, the
-  Intelligence² debate was whether Richard Wagner or Giuseppe Verdi reigned as an
-  operatic master. '
-slug: stephen-frys-latest-charming-appearance-at-the-royal-opera-house
-title: Stephen Fry&#039;s latest charming appearance at the Royal Opera House
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2013-12-20T09:29:00-05:00"
+lastmod = "2015-04-28T23:35:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548019288/media/2019/01/StephenFryROH.png"
+publishDate = "2013-12-20T09:29:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md"]
+short_description = "I think this event was a groundbreaking step forward in making opera accessible to a new generation. Moderated by our favourite Stephen Fry, the Intelligence² debate was whether Richard Wagner or Giuseppe Verdi reigned as an operatic master. "
+slug = "stephen-frys-latest-charming-appearance-at-the-royal-opera-house"
+title = "Stephen Fry&#039;s latest charming appearance at the Royal Opera House"
+
++++
 I think this event was a groundbreaking step forward in making opera accessible to a new generation. Moderated by our favourite Stephen Fry, the [Intelligence²](http://www.intelligencesquared.com/) debate was whether Richard Wagner or Giuseppe Verdi reigned as an operatic master. With columnist/blogger [Norman Lebrecht](http://www.normanlebrecht.com/) backing Verdi and novelist [Philip Hensher](http://en.wikipedia.org/wiki/Philip_Hensher) vouching for Wagner, the debate was part of a celebration of the 200th birthday of both composers. It also features some great performances by young operatic talent, most notably Dušica Biljelić's performance of Desdemona's aria from Verdi's _Otello_ (begins at 35:00).
 
 > Verdi comes off as a man of the people, while Wagner gets everyone thinking.

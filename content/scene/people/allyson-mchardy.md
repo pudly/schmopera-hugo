@@ -1,25 +1,19 @@
----
-date: "2015-04-06T20:02:00+01:00"
-discipline: Mezzo-soprano
-lastmod: "2017-03-15T12:01:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428346793472/AllysonMcHardyBoHuang.jpg.jpg
-primary_image_credit: Bo Huang
-publishDate: "2015-04-06T20:02:00+01:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/opera-atelier.md
-- scene/companies/calgary-opera.md
-- scene/companies/pacific-opera-victoria.md
-- scene/companies/lopra-de-montral.md
-slug: allyson-mchardy
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/AllysonMcHardy
-title: Allyson McHardy
-website: http://www.allysonmchardy.com/
----
++++
+date = "2015-04-06T20:02:00+01:00"
+discipline = "Mezzo-soprano"
+lastmod = "2017-03-15T12:01:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428346793472/AllysonMcHardyBoHuang.jpg.jpg"
+primary_image_credit = "Bo Huang"
+publishDate = "2015-04-06T20:02:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/opera-atelier.md","scene/companies/calgary-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/lopra-de-montral.md"]
+slug = "allyson-mchardy"
+title = "Allyson McHardy"
+website = "http://www.allysonmchardy.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/AllysonMcHardy"
++++
 
 *The singing was magnificent tonight. Sister Prejean (McHardy) had an immense amount of singing throughout the night, and her expressive and demonstrative voice never showed signs of wear. She acted marvellously as well – not an easy task when portraying an Elvis-loving nun with a sharp, dry wit.” (Bachtrack)*
 

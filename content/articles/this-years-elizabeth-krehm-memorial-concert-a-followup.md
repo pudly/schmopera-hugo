@@ -1,25 +1,17 @@
----
-author:
-- authors/greg.md
-categories: Op-ed
-date: "2016-11-23T12:06:00+00:00"
-lastmod: "2016-11-23T14:42:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479903026073/Lbpur_9otC4yFAWIJPbd7BxPZpbgCXxKtyL9PoWfIxorhVxMw6j1_tn_u5-ZtfQe1NVZYPWHhBWDVnv1wxKE6dk8XYs%3Dw680-h680-c
-publishDate: "2016-11-23T14:42:00+00:00"
-related_articles:
-- articles/the-4th-annual-elizabeth-krehm-memorial-concert-for-st-michaels-hospital.md
-related_companies:
-- scene/companies/opera-5.md
-- scene/companies/indie-opera-to.md
-related_people:
-- scene/people/rachel-krehm.md
-short_description: At last count, the evening raised over $20,000 for the ICU at St.
-  Michael&#039;s Hospital, showing once again that music can heal almost any hurt.
-  On the whole, since the inaugural concert, the Krehms have raised over $60,000 in
-  support of the place that provided Elizabeth with the top-level care and support.
-slug: this-years-elizabeth-krehm-memorial-concert-a-followup
-title: 'This year&#039;s Elizabeth Krehm Memorial Concert: a follow-up'
----
++++
+author = ["authors/greg.md"]
+categories = "Op-ed"
+date = "2016-11-23T12:06:00+00:00"
+lastmod = "2016-11-23T14:42:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479903026073/Lbpur_9otC4yFAWIJPbd7BxPZpbgCXxKtyL9PoWfIxorhVxMw6j1_tn_u5-ZtfQe1NVZYPWHhBWDVnv1wxKE6dk8XYs%3Dw680-h680-c"
+publishDate = "2016-11-23T14:42:00+00:00"
+related_articles = ["articles/the-4th-annual-elizabeth-krehm-memorial-concert-for-st-michaels-hospital.md"]
+related_companies = ["scene/companies/opera-5.md","scene/companies/indie-opera-to.md"]
+related_people = ["scene/people/rachel-krehm.md"]
+short_description = "At last count, the evening raised over $20,000 for the ICU at St. Michael&#039;s Hospital, showing once again that music can heal almost any hurt. On the whole, since the inaugural concert, the Krehms have raised over $60,000 in support of the place that provided Elizabeth with the top-level care and support."
+slug = "this-years-elizabeth-krehm-memorial-concert-a-followup"
+title = "This year&#039;s Elizabeth Krehm Memorial Concert: a follow-up"
++++
 
 On Monday, November 14th, at Toronto's Metropolitan United Church a large group gathered to [celebrate the life of Elizabeth Krehm and to raise money for the St. Michael's ICU](/the-4th-annual-elizabeth-krehm-memorial-concert-for-st-michaels-hospital/). The event is organized by the Krehm Family and [Rachel Krehm](/scene/people/rachel-krehm/) (Elizabeth's sister) and General Director of [Opera 5](/scene/companies/opera-5/).
 

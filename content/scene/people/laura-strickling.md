@@ -1,21 +1,21 @@
----
-discipline: Soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1608595915/media/2020/12/p_3_jsneop.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/berkshire-opera-festival.md
-slug: laura-strickling
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/LauraStricklingSoprano
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/LauraStrickling
-title: Laura Strickling
-website: https://www.laurastrickling.com/
----
++++
+discipline = "Soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1608595915/media/2020/12/p_3_jsneop.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/berkshire-opera-festival.md"]
+slug = "laura-strickling"
+title = "Laura Strickling"
+website = "https://www.laurastrickling.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/LauraStricklingSoprano"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/LauraStrickling"
+
++++
 Laura Strickling has been recognized by The New York Times for her, “flexible voice, crystalline diction, and warm presence.” Celebrated for her work performing and promoting art song, with an emphasis on new additions to the canon, she curated The New Music Shelf Anthology for Soprano and has collaborated with numerous composers including Tom Cipullo, Juliana Hall, Libby Larsen, James Matheson, John Musto, and Glen Roven. She is on the roster of the Brooklyn Art Song Society, and has appeared with Cincinnati Song Initiative, Mexicoliederfest, Calliope’s Call, Liederfest in Suzhou (China), the Afghanistan National Institute of Music, Lyric Fest, Joy in Singing, Trinity Concerts at One, the American Liszt Society, Baltimore Lieder Weekend, the Half Moon Music Festival, Concerts on the Slope, National Sawdust, Art Song at the Old Stone House, the Brooklyn New Music Collective, SongFusion, was a featured performer at the 2016 New Music Gathering, and presented a radio broadcast recital of American songs on “Live from WFMT” in Chicago with pianist Daniel Schlosberg. Laura and pianist Liza Stepanova were Artists in Residence at the Yellow Barn Music Festival, where they presented a program of Granados and modern songs in Spanish, including the world-premiere of _Ciudades del Porvenir_ by Reinaldo Moya. She has presented guest artist recitals and lectures at the University of Georgia, Mercer University, College of William and Mary, Mercer University, University of Notre Dame, New World School of the Arts, Notre Dame University of Maryland, Pittsburg State University, McDaniel College, St. Mary’s College, and University of Richmond. She is on the New Music Advisory Board of the Brooklyn Art Song Society, and the Advisory Board of Cincinnati Song Initiative.
 
 Equally acclaimed for her work on the concert stage, she has appeared at Carnegie Hall, Avery Fisher Hall at Lincoln Center, the Kennedy Center, National Sawdust, Trinity Church on Wall Street, Washington National Cathedral, and the Opera America Center. Her, “powerful and expressive voice across a large range, her variety of timbre and character,” (Classical Scene), make her a welcome guest soloist for a range of oratorio and concert works, from Handel to Britten. These include _Messiah_ with the Indianapolis Symphony and the Richmond Symphony, _Gloria_ (Poulenc) with the Asheville Symphony, _Exsultate jubilate_ (Mozart) with the Cathedral Choral Society, Mass in c minor (Mozart) with the Richmond Symphony, Cathedral Choral Society, and Berkshire Choral International, _Stabat Mater_ (Dvorak) and _Elijah_ (Mendelssohn) with Berkshire Choral International, _Ein Deutsches Requiem_ (Brahms) with the Bel Canto Chorus of Milwaukee and Chorosynthesis, Luonnotar (Sibelius) and _Les Illuminations_ (Britten) with the Tanglewood Music Center Orchestra, Knoxville: Summer of 1915 (Barber) and _Les Illuminations_ (Britten) with Mexicoliederfest,  Ninth Symphony (Beethoven) and _Carmina Burana_ (Orff) with Choralis, as well as Requiem (Mozart), _Credo Mass_ (Mozart), _Dixit Dominus_ (Handel), Gloria (Vivaldi), Lord Nelson Mass (Haydn), and Mass in C (Beethoven). Her performance of Mozart’s Mass in C minor and _Exsultate jubilate_ with the Cathedral Choral Society was broadcast by WETA, and her performance of Poulenc’s _Gloria_ with the Asheville Symphony was broadcast by Blue Ridge Public Radio.

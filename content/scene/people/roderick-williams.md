@@ -1,23 +1,17 @@
----
-date: "2018-01-14T19:02:00-05:00"
-discipline: Baritone
-lastmod: "2018-01-14T19:02:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515974325742/Roderick-Williams-Groves-Artists.jpg.jpg
-publishDate: "2018-01-14T19:02:00-05:00"
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/the-dallas-opera.md
-- scene/companies/opera-north.md
-- scene/companies/garsington-opera.md
-- scene/companies/english-national-opera.md
-slug: roderick-williams
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/Sviceridor
-title: Roderick Williams OBE
----
++++
+date = "2018-01-14T19:02:00-05:00"
+discipline = "Baritone"
+lastmod = "2018-01-14T19:02:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515974325742/Roderick-Williams-Groves-Artists.jpg.jpg"
+publishDate = "2018-01-14T19:02:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-dallas-opera.md","scene/companies/opera-north.md","scene/companies/garsington-opera.md","scene/companies/english-national-opera.md"]
+slug = "roderick-williams"
+title = "Roderick Williams OBE"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/Sviceridor"
++++
 
 Roderick Williams encompasses a wide repertoire, from baroque to contemporary music, in the opera house, on the concert platform and in recital. He won the Singer of the Year Award in the 2016 Royal Philharmonic Society Awards and was awarded the OBE for services to music in June 2017.
 

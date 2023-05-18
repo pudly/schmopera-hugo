@@ -1,42 +1,21 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-01-20T09:27:00+00:00"
-lastmod: "2017-01-20T12:46:00+00:00"
-preamble: |-
-  Compared to the cutthroat worlds of Broadway or Hollywood, opera may seem a noble art; since it's "all about the voice", opera demands that producers cast a broader variety of looks onstage. And yet, with the advent of opera-in-HD, and as more and more young artists vie for professional experience, experienced singers can find themselves excluded.
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-01-20T09:27:00+00:00"
+lastmod = "2017-01-20T12:46:00+00:00"
+preamble = "Compared to the cutthroat worlds of Broadway or Hollywood, opera may seem a noble art; since it's \"all about the voice\", opera demands that producers cast a broader variety of looks onstage. And yet, with the advent of opera-in-HD, and as more and more young artists vie for professional experience, experienced singers can find themselves excluded.\n\nThe idea of ageism in the opera industry was raised by Canadian mezzo-soprano [Kimberly Barber](/scene/people/kimberly-barber/), whose career includes everything from Mozart to world premieres, and who also teaches voice at Wilfrid Laurier University in Waterloo. She talks with us about her perceptions of a \"youth-obsessed\" opera world, and why companies should be paying attention to singers who have longevity."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904559739/2017-01-17---Ageism---Cosi-fan-tutte---Dahl-and-Allen-Michael-Cooper.jpg.jpg"
+primary_image_credit = "Tracy Dahl (Despina) and Sir Thomas Allen (Don Alfonso) in the COC's production of Così fan tutte, 2014, photo: Michael Cooper."
+publishDate = "2017-01-20T10:38:00+00:00"
+related_articles = ["articles/talking-with-singers-gregory-kunde.md","articles/coaches-voice-teachers-and-the-grey-area-in-between.md","articles/talking-with-singers-sondra-radvanovsky.md","articles/graceful-exits-double-standards.md"]
+related_companies = ["scene/companies/calgary-opera.md","scene/companies/tapestry-opera.md","scene/companies/pacific-opera-victoria.md"]
+related_people = ["scene/people/kimberly-barber.md"]
+short_description = "&quot;In later career, there is much less forgiveness for a less than standard performance, whether it is loss in vocal function, beauty, tone quality or whatever, there is much less margin for error. As a young singer, you are perceived as fresh and new, so companies are willing to give you more chances. It is much more challenging to maintain a career as you age than it is to begin. Companies will often hear younger singers in audition again and again, while they often dismiss older artists.&quot;"
+slug = "whos-afraid-of-the-aging-singer"
+title = "Who&#039;s afraid of the aging singer?"
++++
 
-  The idea of ageism in the opera industry was raised by Canadian mezzo-soprano [Kimberly Barber](/scene/people/kimberly-barber/), whose career includes everything from Mozart to world premieres, and who also teaches voice at Wilfrid Laurier University in Waterloo. She talks with us about her perceptions of a "youth-obsessed" opera world, and why companies should be paying attention to singers who have longevity.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904559739/2017-01-17---Ageism---Cosi-fan-tutte---Dahl-and-Allen-Michael-Cooper.jpg.jpg
-primary_image_credit: 'Tracy Dahl (Despina) and Sir Thomas Allen (Don Alfonso) in
-  the COC''s production of Così fan tutte, 2014, photo: Michael Cooper.'
-publishDate: "2017-01-20T10:38:00+00:00"
-related_articles:
-- articles/talking-with-singers-gregory-kunde.md
-- articles/coaches-voice-teachers-and-the-grey-area-in-between.md
-- articles/talking-with-singers-sondra-radvanovsky.md
-- articles/graceful-exits-double-standards.md
-related_companies:
-- scene/companies/calgary-opera.md
-- scene/companies/tapestry-opera.md
-- scene/companies/pacific-opera-victoria.md
-related_people:
-- scene/people/kimberly-barber.md
-short_description: '&quot;In later career, there is much less forgiveness for a less
-  than standard performance, whether it is loss in vocal function, beauty, tone quality
-  or whatever, there is much less margin for error. As a young singer, you are perceived
-  as fresh and new, so companies are willing to give you more chances. It is much
-  more challenging to maintain a career as you age than it is to begin. Companies
-  will often hear younger singers in audition again and again, while they often dismiss
-  older artists.&quot;'
-slug: whos-afraid-of-the-aging-singer
-title: Who&#039;s afraid of the aging singer?
----
-
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484905015840/2017-01-19---Barber-4.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484905015840/2017-01-19---Barber-4.jpg.jpg)
 <figcaption>Kimberly Barber, mezzo-soprano. Photo by Helen Tansey, Sundari Photography.</figcaption>
 </figure>
 
@@ -55,9 +34,7 @@ Producers and agents make several assumptions about older singers.
 - They will be inflexible artistically. Nothing could be further from the truth, especially if the artist feels they are validated and supported in their risk-taking by peers, director and conductor.
 - If they have diminished vocal prowess (loss of range, flexibility, a less "youthful" sound) that they are not viable. The youth culture is so widespread that even artists in their early 40’s are often thrust into older "character" parts well before their time, unless they are absolute A-listers.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904841800/2017-01-18---DeadManWalkingcar.jpg.jpg)<figcaption>Kimberly Barber as Sister Helen in *Dead Man Walking*, Calgary Opera, 2006. Photo by Trudie Lee.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904841800/2017-01-18---DeadManWalkingcar.jpg.jpg)<figcaption>Kimberly Barber as Sister Helen in *Dead Man Walking*, Calgary Opera, 2006. Photo by Trudie Lee.</figcaption>
 </figure>
 
 ## What sort of recognition or respect should older singers expect?
@@ -74,9 +51,7 @@ Singers adapt in multiple ways by expanding their idea of what a career in the a
 
 But to be honest, many singers feel a tremendous loss when they are no longer able to practice their profession. When I was fest in Germany, there were so many singers in the opera house who had been leads in their younger days who transitioned successfully and happily well into old age singing secondary leads and then comprimario or character parts. They were valued members of the ensemble and enjoyed tremendous respect amongst their colleagues. Often their performances stood out for the degree of pathos or superb comedic timing.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904685563/2017-01-18---Barber-Dahl-MacNaughton.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904685563/2017-01-18---Barber-Dahl-MacNaughton.jpg.jpg)
 <figcaption>Kimberly Barber (Regina), with Doug MacNaughton (Ben Hubbard) Gregory Dahl (Oscar Hubbard), *Regina*, Pacific Opera Victoria, April 2008. Photo by Pink Monkey Studios.</figcaption>
 </figure>
 
@@ -90,9 +65,7 @@ As in the acting profession, there can be really juicy parts for older singers s
 
 Even casting 'against type' can make a powerful statement—one example of recent note was Tracy Dahl's turn as Despina in the COC's *Così fan tutte* a few years ago, where her wit, charismatic stage persona and still vibrant, beautiful voice were a standout in a role that is often cast with a young soubrette. She brought an intelligence and depth to the role that a younger artist simply could not have achieved.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904706974/2017-01-18---Barber-2.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484904706974/2017-01-18---Barber-2.jpg.jpg)
 <figcaption>Kimberly Barber, mezzo-soprano. Photo by Helen Tansey, Sundari Photography.</figcaption>
 </figure>
 

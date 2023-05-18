@@ -1,32 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-09-15T13:04:00-04:00"
-lastmod: "2017-09-24T23:32:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505495063509/2017-09-15---Haji%2C-Andrew-Haji---Credit-Veronika-Roux.jpg.jpg
-primary_image_credit: 'Photo: Veronika Roux.'
-publishDate: "2017-09-24T23:32:00-04:00"
-related_articles:
-- articles/talking-with-singers-rene-barbera.md
-- articles/aria-guides-una-furtiva-lagrima.md
-- articles/talking-with-singers-matthew-polenzani.md
-- articles/james-robinson-elixir.md
-- articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md
-- articles/lighter-fare-vancouver-operas-the-elixir-of-love.md
-- articles/anticipation-cmim-aria-semifinals-part-i.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-related_people:
-- scene/people/andrew-haji.md
-short_description: After high school, Haji went not into music, but into computer
-  science. After just two years - and a realization that he was miserable - he &quot;quickly
-  abandoned ship&quot;. He took a year off, during which he met with his high school
-  music teacher, discussing the beginnings of his plan to pursue music.
-slug: talking-with-singers-andrew-haji
-title: 'Talking with singers: Andrew Haji'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-09-15T13:04:00-04:00"
+lastmod = "2017-09-24T23:32:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505495063509/2017-09-15---Haji%2C-Andrew-Haji---Credit-Veronika-Roux.jpg.jpg"
+primary_image_credit = "Photo: Veronika Roux."
+publishDate = "2017-09-24T23:32:00-04:00"
+related_articles = ["articles/talking-with-singers-rene-barbera.md","articles/aria-guides-una-furtiva-lagrima.md","articles/talking-with-singers-matthew-polenzani.md","articles/james-robinson-elixir.md","articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md","articles/lighter-fare-vancouver-operas-the-elixir-of-love.md","articles/anticipation-cmim-aria-semifinals-part-i.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/andrew-haji.md"]
+short_description = "After high school, Haji went not into music, but into computer science. After just two years - and a realization that he was miserable - he &quot;quickly abandoned ship&quot;. He took a year off, during which he met with his high school music teacher, discussing the beginnings of his plan to pursue music."
+slug = "talking-with-singers-andrew-haji"
+title = "Talking with singers: Andrew Haji"
++++
 
 "You know coming in to an aria like that that the audience has some sort of expectation," says tenor [Andrew Haji](/scene/people/andrew-haji/), of the well-known ["Una furtiva lagrima"](/aria-guides-una-furtiva-lagrima/) that Nemorino sings near the finale of Donizetti's *The Elixir of Love*. "When you really get into a role, when you dig into a character, you have to make it your own. Create that aria as you're singing it.
 
@@ -46,9 +32,7 @@ Robinson's production moves the action out of the 18th-century setting in Romani
 
 "It's clear that Nemorino really, really loves this girl, and he'll stop at nothing to let her know that."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505495037203/2017-09-15---Haji-Flute-16-17-03b-MC-D-3687.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505495037203/2017-09-15---Haji-Flute-16-17-03b-MC-D-3687.jpg.jpg)
 <figcaption>Andrew Haji as Tamino in the Canadian Opera Company's production of *The Magic Flute*, 2017. Photo: Michael Cooper.</figcaption>
 </figure>
 

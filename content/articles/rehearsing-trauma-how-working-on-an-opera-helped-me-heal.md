@@ -1,23 +1,18 @@
----
-author:
-- authors/rebecca-woodmass.md
-categories: ""
-date: "2016-09-29T08:21:00Z"
-lastmod: "2016-09-30T13:32:00+01:00"
-preamble: This is a crosspost via [rwoodmass.com](https://rwoodmass.com/rehearsing-trauma/).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475177972186/2016-09-29---Patricia.jpg.jpg
-publishDate: "2016-09-30T13:00:00+01:00"
-related_articles:
-- articles/heavy-scenes-the-fast-lane-to-a-great-rehearsal-room.md
-- articles/lifelike-theatre-at-luminato-the-story-of-charlotte-salomon.md
-- articles/using-your-voice-again-a-plan-of-action.md
-related_people:
-- scene/people/rebecca-woodmass.md
-short_description: It is not enough to re-experience our own pain on stage; we must
-  externalize it so the audience can join us through empathy.
-slug: rehearsing-trauma-how-working-on-an-opera-helped-me-heal
-title: 'Rehearsing trauma: How working on an opera helped me heal'
----
++++
+author = ["authors/rebecca-woodmass.md"]
+categories = ""
+date = 2016-09-29T08:21:00Z
+lastmod = "2016-09-30T13:32:00+01:00"
+preamble = "This is a crosspost via [rwoodmass.com](https://rwoodmass.com/rehearsing-trauma/)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475177972186/2016-09-29---Patricia.jpg.jpg"
+publishDate = "2016-09-30T13:00:00+01:00"
+related_articles = ["articles/heavy-scenes-the-fast-lane-to-a-great-rehearsal-room.md", "articles/lifelike-theatre-at-luminato-the-story-of-charlotte-salomon.md", "articles/using-your-voice-again-a-plan-of-action.md"]
+related_people = ["scene/people/rebecca-woodmass.md"]
+short_description = "It is not enough to re-experience our own pain on stage; we must externalize it so the audience can join us through empathy."
+slug = "rehearsing-trauma-how-working-on-an-opera-helped-me-heal"
+title = "Rehearsing trauma: How working on an opera helped me heal"
+
++++
 Everyone was telling me it would be hard. I was saying this to myself. I was about to spend 8 hours a day, 5 days a week, as a 16 year old girl who was abducted, tortured, and raped for 2 1/2 years without trial by a military government in Argentina. Patricia Isasa was going to attend the premiere of this new opera about her struggle, and I was going to meet her.
 
 They didn't prepare me for these sorts of experiences in music school. The kinds of contracts that hold me in the rehearsal room because I signed my name at the bottom of a paper, when the material I am responsible for is turning my heart inside and out and my stomach over and over again. How do I embody a character fully, fall in love with the character, learn its idiosyncrasies, when that character must undergo torture daily on stage, sometimes multiple times, with increasing detail, depth, and dramatic timing? How do I rehearse trauma?

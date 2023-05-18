@@ -1,22 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-02-06T10:18:00-05:00"
-lastmod: "2016-02-06T11:03:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454772969644/2016-02-06---newchoir.jpg.jpg
-publishDate: "2016-02-06T10:56:00-05:00"
-related_articles:
-- articles/the-ago-now-with-more-music.md
-- articles/a-great-show-at-the-ago.md
-short_description: They offered up hits by CCR, The Guess Who (who share their Winnipeg
-  hometown with newchoir pianist Donovan LeNabat), Elvis, and Pink Floyd. The choir
-  is full of enthusiastic amateurs, the kind of ensemble that makes for excellent
-  people watching; I always love looking at the individuals that make up a choir,
-  and how you can see all the different reasons that they&#039;re there.
-slug: ago-friday-nights-nostalgia-and-newchoir
-title: 'AGO Friday Nights: nostalgia and newchoir'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-02-06T10:18:00-05:00"
+lastmod = "2016-02-06T11:03:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454772969644/2016-02-06---newchoir.jpg.jpg"
+publishDate = "2016-02-06T10:56:00-05:00"
+related_articles = ["articles/the-ago-now-with-more-music.md","articles/a-great-show-at-the-ago.md"]
+short_description = "They offered up hits by CCR, The Guess Who (who share their Winnipeg hometown with newchoir pianist Donovan LeNabat), Elvis, and Pink Floyd. The choir is full of enthusiastic amateurs, the kind of ensemble that makes for excellent people watching; I always love looking at the individuals that make up a choir, and how you can see all the different reasons that they&#039;re there."
+slug = "ago-friday-nights-nostalgia-and-newchoir"
+title = "AGO Friday Nights: nostalgia and newchoir"
++++
 
 At the Art Gallery of Ontario, February is all about the 1960s and '70s. Luckily, Schmopera has a soft spot for The Beatles (who doesn't?), Creedence Clearwater Revival, The Guess Who, Crosby, Stills, Nash & Young, that whole gang of awesome music-makers.
 

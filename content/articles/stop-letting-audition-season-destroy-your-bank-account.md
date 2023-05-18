@@ -1,27 +1,17 @@
----
-author:
-- authors/christopher-enns.md
-categories: Editorial
-date: "2015-11-20T20:10:00-05:00"
-lastmod: "2015-11-20T21:45:00-05:00"
-preamble: This is a post by guest contributor [Chris Enns](/scene/people/christopher-enns/).
-  For more, check out his personal finance blog for artists, [Rags to Reasonable](http://www.ragstoreasonable.com/).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448069668558/2015-11-21---SaveMoney.jpg.jpg
-publishDate: "2015-11-21T12:45:00-05:00"
-related_articles:
-- articles/we-dont-have-to-starve-dreaming-of-an-artistic-middle-class.md
-- articles/what-i-learned-about-money-from-enrico-caruso.md
-related_people:
-- scene/people/christopher-enns.md
-short_description: Auditioning is so freaking expensive. This is a fact. And it feels
-  like it’s getting worse. After application fees, travel, accommodation, food, accompanist
-  fees, and the 3 beers you need after they decided to only hear one aria even though
-  you were banking on them to ask for the Bellini...you’re probably not sitting on
-  a whole lot of leftover cash. But you have to do it, right? How are you supposed
-  to get work if you don’t show up?
-slug: stop-letting-audition-season-destroy-your-bank-account
-title: Stop letting audition season destroy your bank account
----
++++
+author = ["authors/christopher-enns.md"]
+categories = "Editorial"
+date = "2015-11-20T20:10:00-05:00"
+lastmod = "2015-11-20T21:45:00-05:00"
+preamble = "This is a post by guest contributor [Chris Enns](/scene/people/christopher-enns/). For more, check out his personal finance blog for artists, [Rags to Reasonable](http://www.ragstoreasonable.com/)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448069668558/2015-11-21---SaveMoney.jpg.jpg"
+publishDate = "2015-11-21T12:45:00-05:00"
+related_articles = ["articles/we-dont-have-to-starve-dreaming-of-an-artistic-middle-class.md","articles/what-i-learned-about-money-from-enrico-caruso.md"]
+related_people = ["scene/people/christopher-enns.md"]
+short_description = "Auditioning is so freaking expensive. This is a fact. And it feels like it’s getting worse. After application fees, travel, accommodation, food, accompanist fees, and the 3 beers you need after they decided to only hear one aria even though you were banking on them to ask for the Bellini...you’re probably not sitting on a whole lot of leftover cash. But you have to do it, right? How are you supposed to get work if you don’t show up?"
+slug = "stop-letting-audition-season-destroy-your-bank-account"
+title = "Stop letting audition season destroy your bank account"
++++
 
 
 Auditioning is so freaking expensive. 

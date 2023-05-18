@@ -1,29 +1,22 @@
----
-author:
-- authors/laura-attridge.md
-categories: How-To
-date: "2022-07-12T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: For more in this series, see the related links below. To read Laura Attridge's
-  _Tuning In_ newsletter, [start here](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072).
-preamble: This essay is from a series titled "The Things They Didn't Teach You At
-  Conservatoire" by director, writer, and Schmopera contributor Laura Attridge. They
-  are originally [published through her newsletter](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072),  crossposted
-  and edited here with her permission.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1657654576/media/2022/07/Essay_lookingafteryourself_p9flbi.jpg
-primary_image_credit: ""
-related_articles:
-- articles/essay-tuning-in-to-developing-your-craft.md
-- articles/essay-tuning-in-to-getting-ahead.md
-- articles/essay-tuning-in-to-what-makes-you-unique.md
-related_companies: []
-related_people: []
-short_description: From "The Things They Didn't Teach You At Conservatoire"
-slug: essay-tuning-in-to-looking-after-yourself
-title: 'Essay: Tuning In to Looking After Yourself'
-youtube_url: ""
----
++++
+author = ["authors/laura-attridge.md"]
+categories = "How-To"
+date = 2022-07-12T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = "For more in this series, see the related links below. To read Laura Attridge's _Tuning In_ newsletter, [start here](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072)."
+preamble = "This essay is from a series titled \"The Things They Didn't Teach You At Conservatoire\" by director, writer, and Schmopera contributor Laura Attridge. They are originally [published through her newsletter](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072),  crossposted and edited here with her permission."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657654576/media/2022/07/Essay_lookingafteryourself_p9flbi.jpg"
+primary_image_credit = ""
+related_articles = ["articles/essay-tuning-in-to-developing-your-craft.md", "articles/essay-tuning-in-to-getting-ahead.md", "articles/essay-tuning-in-to-what-makes-you-unique.md"]
+related_companies = []
+related_people = []
+short_description = "From \"The Things They Didn't Teach You At Conservatoire\""
+slug = "essay-tuning-in-to-looking-after-yourself"
+title = "Essay: Tuning In to Looking After Yourself"
+youtube_url = ""
+
++++
 > "The voice of doubt, shame, and guilt blaring in our heads is not our voice. It is a voice we have been given by a society steeped in shame." - [Sonya Renee Taylor](https://en.wikipedia.org/wiki/Sonya_Renee_Taylor)
 
 ## 10+ areas to explore to improve your wellbeing

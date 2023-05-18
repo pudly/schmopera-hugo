@@ -1,33 +1,23 @@
----
-author:
-- authors/eva-cahen.md
-categories: Interview
-date: "2018-11-29T19:55:00-05:00"
-lastmod: "2018-11-30T14:54:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546222659/media/2018/12/sqTRUCE.jpg
-primary_image_credit: 'San Diego Opera presents All is Calm: The Christmas Truce of
-  1914, a co-production with Bodhi Tree Concerts and SACRA/PROFANA, December 7, 8,
-  and 9m, 2018. Part of the Detour Series. Illustration by Scott McKowen.'
-publishDate: "2018-11-29T20:53:00-05:00"
-related_articles:
-- articles/talking-with-composers-david-t-little.md
-related_companies:
-- scene/companies/san-diego-opera.md
-short_description: '&quot;In Turandot, that we did last year, or in All is Calm, the
-  expressive potency of the human voice is the commonality. The spoken word is expressive
-  too because it uses the human voice. It has music, it has rhythm, it has form, and
-  it has pitch – all the things that some music does, but just that it is spoken.
-  That is the dramatic glue to this piece.&quot;'
-slug: san-diego-opera-takes-a-detour-with-all-is-calm
-title: San Diego Opera takes a detour with All is Calm
----
++++
+author = ["authors/eva-cahen.md"]
+categories = "Interview"
+date = "2018-11-29T19:55:00-05:00"
+lastmod = "2018-11-30T14:54:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546222659/media/2018/12/sqTRUCE.jpg"
+primary_image_credit = "San Diego Opera presents All is Calm: The Christmas Truce of 1914, a co-production with Bodhi Tree Concerts and SACRA/PROFANA, December 7, 8, and 9m, 2018. Part of the Detour Series. Illustration by Scott McKowen."
+publishDate = "2018-11-29T20:53:00-05:00"
+related_articles = ["articles/talking-with-composers-david-t-little.md"]
+related_companies = ["scene/companies/san-diego-opera.md"]
+short_description = "&quot;In Turandot, that we did last year, or in All is Calm, the expressive potency of the human voice is the commonality. The spoken word is expressive too because it uses the human voice. It has music, it has rhythm, it has form, and it has pitch – all the things that some music does, but just that it is spoken. That is the dramatic glue to this piece.&quot;"
+slug = "san-diego-opera-takes-a-detour-with-all-is-calm"
+title = "San Diego Opera takes a detour with All is Calm"
+
++++
 San Diego Opera, Bodhi Tree Concerts and SACRA/PROFANA are presenting [*All is Calm: The Christmas Truce of 1914*](https://www.sdopera.org/season/2018-2019-season/all-is-calm), a choral opera, on December 7, 8, and 9, 2018 at the Balboa Theater in San Diego. All is Calm is an acapella opera told through first-hand accounts of a moment during World War I when soldiers from France, the U.K., and Germany took a break from fighting in the trenches around the Christmas holiday and shared food, exchanged gifts, buried their dead, and sang Christmas carols. *All is Calm* was created by Theater Latté Da’s artistic director, Peter Rothstein, with musical arrangements by Erick Lichte and Timothy C. Takach. Juan Carlos Acosta, the Artistic Director of SACRA/PROFANA, a professional Chamber Choir, will be conducting. Walter DuMelle co-founded Bodhi Tree Concerts, which presents music events exclusively with local artists and donates the profits to charitable causes is also singing in the opera. *All is Calm* is being presented as part of San Diego Opera's Detour series, comprised of productions and works outside of traditional grand opera.
  
 I sat down with David Bennett, General Director of San Diego Opera, Juan Carlos Acosta, conductor of *All is Calm* and Artistic Director of SACRA/PROFANA, and Walter DuMelle, Co-Founder of Bodhi Tree Concerts, and singer in the opera, for a discussion of *All is Calm* and how it compares to traditional opera.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543539516362/TruceCollage.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543539516362/TruceCollage.jpg.jpg)
 <figcaption>(clockwise from top left) Walter DuMelle, Co-Founder of Bodhi Tree Concerts, David Bennett, General Director of San Diego Opera, and Juan Carlos Acosta, conductor of *All is Calm*.</figcaption>
 </figure>
  
@@ -91,9 +81,7 @@ The vocal arrangements are intentionally simple through most of *All is Calm*. C
  
 **David Bennett**: That is exactly what I'm trying to convey, the expressive potency of the voice. If you think of opera carrying something that perhaps other forms don't, it is because the voice is inside us. As we express with our voice, we express a part of our human condition and that is really the centerpiece of what this is about in every note that is sung and every word that is spoken. The entire art of this piece is expressed through the human voice.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543539643894/TRUCEfull.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543539643894/TRUCEfull.jpg.jpg)
 <figcaption>San Diego Opera presents *All is Calm: The Christmas Truce of 1914*, a co-production with Bodhi Tree Concerts and SACRA/PROFANA, December 7, 8, and 9m, 2018. Part of the Detour Series. Illustration by Scott McKowen.</figcaption>
 </figure>
 

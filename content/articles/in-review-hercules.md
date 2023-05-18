@@ -1,33 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2014-04-18T16:56:00-04:00"
-lastmod: "2015-04-27T21:19:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839149729/Alice-Hercules1-1024x643.jpg.jpg
-primary_image_credit: All photos by Michael Cooper
-publishDate: "2014-04-18T16:56:00-04:00"
-related_articles: []
-related_companies:
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/alice-coote.md
-- scene/people/lucy-crowe.md
-- scene/people/eric-owens.md
-short_description: I went and saw Hercules at the Canadian Opera Company on Tuesday,
-  and it was the jackpot of incredible talent onstage. It&#039;s directed by the one-of-a-kind
-  Peter Sellars, conducted by the brilliant Harry Bicket, and Eric Owens and Alice
-  Coote star as the soldier and soldier&#039;s wife. Beautiful. And it really was
-  a stunning spectacle, one with an uncomfortably true message.
-slug: in-review-hercules
-title: 'In review: Hercules'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2014-04-18T16:56:00-04:00"
+lastmod = "2015-04-27T21:19:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839149729/Alice-Hercules1-1024x643.jpg.jpg"
+primary_image_credit = "All photos by Michael Cooper"
+publishDate = "2014-04-18T16:56:00-04:00"
+related_articles = []
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/alice-coote.md","scene/people/lucy-crowe.md","scene/people/eric-owens.md"]
+short_description = "I went and saw Hercules at the Canadian Opera Company on Tuesday, and it was the jackpot of incredible talent onstage. It&#039;s directed by the one-of-a-kind Peter Sellars, conducted by the brilliant Harry Bicket, and Eric Owens and Alice Coote star as the soldier and soldier&#039;s wife. Beautiful. And it really was a stunning spectacle, one with an uncomfortably true message."
+slug = "in-review-hercules"
+title = "In review: Hercules"
++++
 
 I went and saw [_Hercules_](http://www.coc.ca/PerformancesAndTickets/1314Season/Hercules.aspx) at the Canadian Opera Company on Tuesday, and it was the jackpot of incredible talent onstage. It's directed by the one-of-a-kind [Peter Sellars](http://en.wikipedia.org/wiki/Peter_Sellars), conducted by the brilliant [Harry Bicket](http://www.askonasholt.co.uk/artists/conductors/harry-bicket), and [Eric Owens](http://imgartists.com/artist/eric_owens) and [Alice Coote](http://imgartists.com/artist/alice_coote) star as the soldier and soldier's wife. Beautiful. And it really was a stunning spectacle, one with an uncomfortably true message. [I saw Sellars speak about this production](/peter-sellars-all-my-subtexts-were-understatements/), and what it tells us about the effect of war, absence and PTSD have on a solider and his family. Based on Sophocles' play _Women of Trachis_, Handel's _Hercules_ really is about the hero's family. It's clear that both Sophocles and Handel knew that as well; Hercules himself sings little in comparison with his wife Dejanira, his son Hyllus and his prisoner, Iöle.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839218736/0437-Dejanira-Iole-Credit-Michael-Cooper-1024x681.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839218736/0437-Dejanira-Iole-Credit-Michael-Cooper-1024x681.jpg.jpg)
 </figcaption>Alice Coote and Luce Crowe. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -35,9 +24,7 @@ I'll admit right away that I had seen the dress rehearsal of _Hercules_, and so
 
 The cast was spectacular, with the unbelievable Alice Coote in the foreground. As Hercules' wife, Dejanira, she was stunning, heartbreaking, and with thirteen arias to sing, her vocal stamina was almost _herculean_ (had to). From her first "O, Hercules" to her final and extraordinary mad scene, Alice was the stuff of this opera. The whole theatre could empathize with Dejanira's story. We saw her miss her husband and finally see him at last, and we saw her realize he was not the same man. She was a beautiful actor who took us through a complicated dramatic arc, and I couldn't take my eyes off of her. She sang with weeping legato or determined coloratura, and she didn't shy away from making an ugly sound if the scene warranted it. Her mad scene was truly mad, and her final shrieking phrases terrified me. _She was so good_.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839272084/0585-Hyllus-Iole-Credit-Michael-Cooper-681x1024.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839272084/0585-Hyllus-Iole-Credit-Michael-Cooper-681x1024.jpg.jpg)
 <figcaption>Richard Croft and Lucy Crowe. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -47,9 +34,7 @@ Grammy Award-winning bass-baritone Eric Owens made his COC debut in the title r
 
 As Hyllus, Hercules' son, [Richard Croft](http://imgartists.com/artist/richard_croft) was a total pro. His aria at the top of the second act, "From celestial seats descending" was simple and drew me towards him. He also had some brilliant moments of coloratura, which was like a machine-gun, healthily sung, and completely a Richard Croft-ism. Hyllus is a tricky, somewhat thankless role, but Richard sang it wisely and created an endearing character. In this production, Hyllus walks with the help of crutches; I didn't think it was a necessary detail, and it made him seem more pathetic than he needed to be, but Richard's great singing took most of my attention, and Sellars' take on the role of Hyllus didn't bug me.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839324631/0802-Hercules-Credit-Michael-Cooper-719x1024.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839324631/0802-Hercules-Credit-Michael-Cooper-719x1024.jpg.jpg)
 <figcaption>Eric Owens in Peter Sellars' Hercules. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -57,9 +42,7 @@ American counter-tenor [David Daniels](http://www.danielssings.com/) sang the ro
 
 The music for the whole evening was stunning. Harry Bicket expertly led the COC orchestra like it was a chamber ensemble, finding hidden solo lines for us to hear and giving room for each singer to do what they do best. The COC Chorus really sounded fantastic. In _Hercules_, the chorus is used in the Greek-chorus style, commenting on the action by the leads, and telling the audience about the characters' true feelings. Sellars used gestures as a form of choreography with the chorus, associating a motion with a specific word, or even a syllable ("tyrant" had two separate gestures, eg.). I wasn't fully convinced by the execution, but the gestures definitely made me listen differently to the music. I could literally see the counterpoint in the chorus music, especially the "Jealousy" chorus right before intermission. It was really effective.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839391127/0941-Scene-from-Hercules-Credit-Michael-Cooper-1024x595.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839391127/0941-Scene-from-Hercules-Credit-Michael-Cooper-1024x595.jpg.jpg)
 <figcaption>Photo by Michael Cooper.</figcaption>
 </figure>
 

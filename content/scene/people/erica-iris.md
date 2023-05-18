@@ -1,22 +1,17 @@
----
-date: "2016-11-15T15:05:00+00:00"
-discipline: Mezzo-soprano
-lastmod: "2016-11-15T15:12:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479222351069/2016-11-15---Erica-Iris.jpg.jpg
-publishDate: "2016-11-15T15:05:00+00:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/tapestry-opera.md
-- scene/companies/loose-tea-music-theatre.md
-- scene/companies/vancouver-opera.md
-slug: erica-iris
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/mezzoericairis
-title: Erica Iris
----
++++
+date = "2016-11-15T15:05:00+00:00"
+discipline = "Mezzo-soprano"
+lastmod = "2016-11-15T15:12:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479222351069/2016-11-15---Erica-Iris.jpg.jpg"
+publishDate = "2016-11-15T15:05:00+00:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/tapestry-opera.md","scene/companies/loose-tea-music-theatre.md","scene/companies/vancouver-opera.md"]
+slug = "erica-iris"
+title = "Erica Iris"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/mezzoericairis"
++++
 
 Praised for her stage presence of warmth and character, Mezzo-soprano Erica Iris has captivated audiences with her sensitivity and vocal timbres, critically acclaimed in her 
 performances of opera, concert oratorio, and contemporary repertoire.

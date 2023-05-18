@@ -1,20 +1,14 @@
----
-_template: people_single
-date: "2016-05-14T13:16:00+01:00"
-discipline: Mezzo-soprano
-lastmod: "2016-05-14T13:16:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463228018883/2016-05-14---Erin-Lawson.jpg.jpg
-publishDate: "2016-05-14T13:16:00+01:00"
-related_companies:
-- scene/companies/calgary-opera-emerging-artist-development-program.md
-- scene/companies/calgary-opera.md
-- scene/companies/opera-5.md
-- scene/companies/pacific-opera-victoria.md
-- scene/companies/edmonton-opera.md
-slug: erin-lawson
-title: Erin Lawson
-website: http://www.erinlawson.ca/
----
++++
+date = "2016-05-14T13:16:00+01:00"
+discipline = "Mezzo-soprano"
+lastmod = "2016-05-14T13:16:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463228018883/2016-05-14---Erin-Lawson.jpg.jpg"
+publishDate = "2016-05-14T13:16:00+01:00"
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/calgary-opera.md","scene/companies/opera-5.md","scene/companies/pacific-opera-victoria.md","scene/companies/edmonton-opera.md"]
+slug = "erin-lawson"
+title = "Erin Lawson"
+website = "http://www.erinlawson.ca/"
++++
 
 Praised for her beautiful lyric mezzo-soprano voice (*Opera Canada*), and coloratura to die for (*Hamilton Spectator*) Erin Lawson has been attracting attention on opera and concert stages across Canada. A past member of both Calgary Opera’s Emerging Artist Program, and Pacific Opera Victoria’s Resident Artist Program, her engaging stage presence has captivated audiences in repertoire ranging from Handel and Rossini, to newly created works.
  

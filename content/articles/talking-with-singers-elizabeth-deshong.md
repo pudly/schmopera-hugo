@@ -1,37 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2014-10-20T09:00:00-04:00"
-lastmod: "2015-04-14T13:52:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429033804460/da1.jpg.jpg
-primary_image_credit: Photo by Dario Acosta
-publishDate: "2014-10-20T09:00:00-04:00"
-related_articles:
-- articles/in-review-madama-butterfly.md
-- articles/talking-with-singers-nicole-cabell.md
-- articles/spotlight-on-amanda-majeski.md
-- articles/spotlight-on-rolando-sanz.md
-- articles/talking-with-singers-anna-devin.md
-- articles/talking-with-singers-jamie-barton.md
-- articles/in-review-maometto-ii.md
-- articles/magic-high-standards-midsummer-at-glyndebourne.md
-- articles/one-mezzos-met-debut-i-just-cant-wait.md
-- articles/rusalka-opera-at-its-most-operatic.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/san-francisco-opera.md
-related_people:
-- scene/people/elizabeth-deshong.md
-short_description: American mezzo-soprano Elizabeth DeShong is currently in Toronto,
-  singing a whopping twelve performances of Suzuki in the COC&#039;s Madama Butterfly.
-  I asked her about singing, about listening onstage, and roles she&#039;d love to
-  sing.
-slug: talking-with-singers-elizabeth-deshong
-title: 'Talking with singers: Elizabeth DeShong'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2014-10-20T09:00:00-04:00"
+lastmod = "2015-04-14T13:52:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429033804460/da1.jpg.jpg"
+primary_image_credit = "Photo by Dario Acosta"
+publishDate = "2014-10-20T09:00:00-04:00"
+related_articles = ["articles/in-review-madama-butterfly.md","articles/talking-with-singers-nicole-cabell.md","articles/spotlight-on-amanda-majeski.md","articles/spotlight-on-rolando-sanz.md","articles/talking-with-singers-anna-devin.md","articles/talking-with-singers-jamie-barton.md","articles/in-review-maometto-ii.md","articles/magic-high-standards-midsummer-at-glyndebourne.md","articles/one-mezzos-met-debut-i-just-cant-wait.md","articles/rusalka-opera-at-its-most-operatic.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md"]
+related_people = ["scene/people/elizabeth-deshong.md"]
+short_description = "American mezzo-soprano Elizabeth DeShong is currently in Toronto, singing a whopping twelve performances of Suzuki in the COC&#039;s Madama Butterfly. I asked her about singing, about listening onstage, and roles she&#039;d love to sing."
+slug = "talking-with-singers-elizabeth-deshong"
+title = "Talking with singers: Elizabeth DeShong"
++++
 
 ### Why do you sing?
 

@@ -1,23 +1,21 @@
----
-date: "2015-06-05T15:48:00-04:00"
-discipline: Conductor
-lastmod: "2015-06-05T15:48:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433533441826/Jennifer-Condon-x500-442BE824.jpg.jpg
-publishDate: "2015-06-05T15:48:00-04:00"
-related_companies:
-- scene/companies/the-dallas-opera.md
-- scene/companies/opera-australia.md
-slug: jennifer-condon
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/jennifer.condon.7
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/sapphotheopera
-title: Jennifer Condon
----
++++
+date = "2015-06-05T15:48:00-04:00"
+discipline = "Conductor"
+lastmod = "2015-06-05T15:48:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433533441826/Jennifer-Condon-x500-442BE824.jpg.jpg"
+publishDate = "2015-06-05T15:48:00-04:00"
+related_companies = ["scene/companies/the-dallas-opera.md","scene/companies/opera-australia.md"]
+slug = "jennifer-condon"
+title = "Jennifer Condon"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/jennifer.condon.7"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/sapphotheopera"
++++
 
 From attending her first Opera Australia performance at the age of six, Australian Jennifer Condon was determined to live in the world of opera. By the age 11 she had set her sights on becoming an opera conductor.
 Fast forward to the present, Jennifer Condon works as Souffleuse (prompt) at the Hamburg State Opera, under renowned Conductor Simone Young, a position she has held for three years. By the age of 27 she now has a repertoire of over 40 operas in her command. To date her greatest project and abiding passion is to present a world premiere recording and production of Australian composer Peggy Glanville-Hick’s Sappho, composed in 1963 in her centennial year, 2012.

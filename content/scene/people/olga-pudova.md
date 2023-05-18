@@ -1,20 +1,13 @@
----
-_template: people_single
-date: "2017-09-15T21:53:00-04:00"
-discipline: Soprano
-lastmod: "2017-09-15T21:53:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505526629763/DSC_4536%5B1%5D.jpg.jpg
-publishDate: "2017-09-15T21:53:00-04:00"
-related_companies:
-- scene/companies/opera-philadelphia.md
-- scene/companies/the-dallas-opera.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/opra-national-de-paris.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/opernhaus-zurich.md
-slug: olga-pudova
-title: Olga Pudova
----
++++
+date = "2017-09-15T21:53:00-04:00"
+discipline = "Soprano"
+lastmod = "2017-09-15T21:53:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505526629763/DSC_4536%5B1%5D.jpg.jpg"
+publishDate = "2017-09-15T21:53:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/the-dallas-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/opernhaus-zurich.md"]
+slug = "olga-pudova"
+title = "Olga Pudova"
++++
 
 The young Russian soprano, Olga Pudova, is fast becoming one of the most exciting coloratura sopranos of our age.
 

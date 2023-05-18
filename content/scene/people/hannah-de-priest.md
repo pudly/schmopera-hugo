@@ -1,21 +1,21 @@
----
-date: "2017-06-01T21:35:00-04:00"
-discipline: Soprano
-lastmod: "2017-06-01T21:35:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496367165877/2017-06-01---HannahDePriest.jpg.jpg
-publishDate: "2017-06-01T21:35:00-04:00"
-slug: hannah-de-priest
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/nannerdepriest
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/nannerdepriest/
-title: Hannah De Priest
-website: http://www.hannahdepriest.com/
----
++++
+date = "2017-06-01T21:35:00-04:00"
+discipline = "Soprano"
+lastmod = "2017-06-01T21:35:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496367165877/2017-06-01---HannahDePriest.jpg.jpg"
+publishDate = "2017-06-01T21:35:00-04:00"
+slug = "hannah-de-priest"
+title = "Hannah De Priest"
+website = "http://www.hannahdepriest.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/nannerdepriest"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/nannerdepriest/"
++++
 
 Praised for her "agile, always easy" voice, (L'Opera) "irresistible" Hannah De Priest is an emerging lyric soprano with a voice well-suited to the demands of early music. A baroque specialist, she appeared this past season as Belinda in Purcell's *Dido and Aeneas*, Ïole in Handel's *Hercules*, and Oberto in Handel's *Alcina*. This summer she will make her Boston debut as a Young Artist in the Boston Early Music Festival's production of André Campra's *Le Carnaval de Venise*, performing as a member of the ensemble cast and covering the lead role of Isabelle.
 

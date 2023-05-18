@@ -1,24 +1,22 @@
----
-date: "2015-04-07T15:55:00-04:00"
-discipline: Soprano
-lastmod: "2015-04-07T15:55:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436388534/CREE-HEADSHOT.jpg.jpg
-publishDate: "2015-04-07T15:55:00-04:00"
-related_companies:
-- scene/companies/manhattan-school-of-music.md
-- scene/companies/beth-morrison-projects.md
-slug: cree-carrico
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/creealysecarrico
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/CreeCarrico
-title: Cree Carrico
-website: http://www.creecarrico.com/
----
++++
+date = "2015-04-07T15:55:00-04:00"
+discipline = "Soprano"
+lastmod = "2015-04-07T15:55:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436388534/CREE-HEADSHOT.jpg.jpg"
+publishDate = "2015-04-07T15:55:00-04:00"
+related_companies = ["scene/companies/manhattan-school-of-music.md","scene/companies/beth-morrison-projects.md"]
+slug = "cree-carrico"
+title = "Cree Carrico"
+website = "http://www.creecarrico.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/creealysecarrico"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/CreeCarrico"
++++
 
 <p>
 	<span class="xr_tj Normal_text">Soprano Cree Carrico is a singing actress who is quickly gaining<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">recognition for her unique and edgy performances of opera,<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">musical theater, art song and cabaret. </span><span class="xr_tl Normal_text">Since her New York debut as Marie Antoinette in Corigliano's <em>The </em></span><span class="xr_tj Normal_text"><em>Ghosts of Versailles</em>, directed by Jay Lesenger for the Manhattan<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">School of Music, Cree has dived fearlessly into the difficult works<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">of the twentieth and twenty-first centuries. Of her performance in<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">Weill's <em>Aufstieg und Fall der Stadt Mahagonny</em>, also at MSM, the<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">New York Times lauded her for her "wounded smoothness" as the </span><span class="xr_tj Normal_text">anti-heroine Jenny Smith while <em>Opera News</em> praised her<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">"gleaming" tone. In the spring of 2013, she gave the New York<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">premiere of Jake Heggie's monodrama <em>At the Statue of Venus</em> with<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">Opera Avanti. This summer, she returns to Chautauqua Opera as </span><span class="xr_tj Normal_text">a Studio Artist and will perform Niece 1 in the company's<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">production of <em>Peter Grimes</em>. </span><span class="xr_tj Normal_text">In addition to her contemporary repertoire, Cree has sung<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">Frasquita, Vitellia, Despina, Lisette in <em>La</em> <em>Rondine,</em> and the Second </span><span class="xr_tj Normal_text">Lady in <em>The Magic Flute</em>. She will appear in the Fall 2013 Verdi<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">Square Festival, singing Gilda in selections from <em>Rigoletto</em>. </span><span class="xr_tl Normal_text">Unfazed by the intimacy of solo performance, in February of 2013 </span><span class="xr_tj Normal_text">Cree curated and performed Ophelia, a unique program of art <img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"><span class="xr_tl Normal_text">songs, arias and monologues at the National Opera Center, </span><span class="xr_tj Normal_text">exploring the story and psychology of Shakespeare's tragic<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">heroine. In the fall of 2012, she produced and performed<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">Poulenc's <em>The Human Voice</em>, in English, at New York's Don't </span><span class="xr_tl Normal_text">Tell Mama. She will return to there this fall to produce, direct </span><span class="xr_tl Normal_text">and perform another one-woman show.</span><span class="xr_tl Normal_text">A member of Actor's Equity, Cree earned her union card as </span><span class="xr_tj Normal_text">an ensemble member in the New York Philharmonic's<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">performance of Rodgers and Hammerstein's <em>Carousel</em>,<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">sharing the stage with Nathan Gunn, Kelli O'Hara and<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">Stephanie Blythe. Previous musical theater roles include both </span><span class="xr_tj Normal_text">Fraulein Kost and Fraulein Schneider in <em>Cabaret</em>, Celeste<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">I/Harriett in <em>Sunday in the Park with George</em> and the<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">ensembles of <em>Ragtime</em> and <em>Jesus Christ Superstar</em>. During<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">her final semester at Oberlin, Cree played Comrade<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">Charlotte in <em>Flora, the Red Menace</em>, working closely with the </span><span class="xr_tl Normal_text">legendary John Kander on a new version of the musical. </span><span class="xr_tj Normal_text">Cree received a Bachelor's of Music from the Oberlin<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tj Normal_text">Conservatory and a Master's of Music from Manhattan<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">School of Music. She was a finalist in the Ades Competition, </span><span class="xr_tj Normal_text">the Lotte Lenya Competition and the Houston Grand Opera<img alt="" src="http://www.creecarrico.com/index_htm_files/0.gif"> </span><span class="xr_tl Normal_text">Studio.</span></span>

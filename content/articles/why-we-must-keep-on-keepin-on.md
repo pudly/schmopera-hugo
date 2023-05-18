@@ -1,24 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-11-09T09:26:00+00:00"
-lastmod: "2016-11-09T11:16:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478686217420/2016-11-09---Trees.jpg.jpg
-primary_image_credit: I used this photo simply because it calms me much more than
-  the face of Donald J. Trump.
-publishDate: "2016-11-09T10:44:00+00:00"
-related_articles:
-- articles/things-more-important-than-opera.md
-- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
-- articles/art-is-not-action.md
-short_description: What I&#039;m really angry about is the fact that today, the stuff
-  I love seems laughably irrelevant. Today, who cares about opera? Who cares about
-  the struggles of young artists? Who cares about how the audition system can be humbling,
-  or about protesters outside of Los Angeles Opera?
-slug: why-we-must-keep-on-keepin-on
-title: Why we must keep on keepin&#039; on
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-11-09T09:26:00+00:00"
+lastmod = "2016-11-09T11:16:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478686217420/2016-11-09---Trees.jpg.jpg"
+primary_image_credit = "I used this photo simply because it calms me much more than the face of Donald J. Trump."
+publishDate = "2016-11-09T10:44:00+00:00"
+related_articles = ["articles/things-more-important-than-opera.md","articles/audition-season-or-the-annual-festival-of-shattered-dreams.md","articles/art-is-not-action.md"]
+short_description = "What I&#039;m really angry about is the fact that today, the stuff I love seems laughably irrelevant. Today, who cares about opera? Who cares about the struggles of young artists? Who cares about how the audition system can be humbling, or about protesters outside of Los Angeles Opera?"
+slug = "why-we-must-keep-on-keepin-on"
+title = "Why we must keep on keepin&#039; on"
++++
 
 Hi, readers. Jenna here.
 

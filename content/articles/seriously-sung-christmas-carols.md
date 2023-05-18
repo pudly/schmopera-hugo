@@ -1,30 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2015-12-22T19:43:00-05:00"
-lastmod: "2017-12-17T11:11:00-05:00"
-preamble: Merry Christmas, readers! This week marks the obligatory Christmas-type
-  post, where our attention goes to snow, pretty lights, overindulgence, and Christmas
-  songs. Love them or hate them, you can always count on opera singers to melt the
-  heart strings with their opera-sized carolling. Happy holidays to all of you, and
-  enjoy the schmaltz.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482438410746/2016-12-22---Xmas.jpg.jpg
-publishDate: "2015-12-24T10:30:00-05:00"
-related_articles:
-- articles/christmas-of-course.md
-- articles/the-ghost-of-christmas-carols-past.md
-related_people:
-- scene/people/plcido-domingo.md
-- scene/people/renee-fleming.md
-short_description: Merry Christmas, readers! This week marks the obligatory Christmas-type
-  post, where our attention goes to snow, pretty lights, overindulgence, and Christmas
-  songs. Love them or hate them, you can always count on opera singers to melt the
-  heart strings with their opera-sized carolling. Happy holidays to all of you, and
-  enjoy the schmaltz.
-slug: seriously-sung-christmas-carols
-title: Seriously sung Christmas carols
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2015-12-22T19:43:00-05:00"
+lastmod = "2017-12-17T11:11:00-05:00"
+preamble = "Merry Christmas, readers! This week marks the obligatory Christmas-type post, where our attention goes to snow, pretty lights, overindulgence, and Christmas songs. Love them or hate them, you can always count on opera singers to melt the heart strings with their opera-sized carolling. Happy holidays to all of you, and enjoy the schmaltz."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482438410746/2016-12-22---Xmas.jpg.jpg"
+publishDate = "2015-12-24T10:30:00-05:00"
+related_articles = ["articles/christmas-of-course.md","articles/the-ghost-of-christmas-carols-past.md"]
+related_people = ["scene/people/plcido-domingo.md","scene/people/renee-fleming.md"]
+short_description = "Merry Christmas, readers! This week marks the obligatory Christmas-type post, where our attention goes to snow, pretty lights, overindulgence, and Christmas songs. Love them or hate them, you can always count on opera singers to melt the heart strings with their opera-sized carolling. Happy holidays to all of you, and enjoy the schmaltz."
+slug = "seriously-sung-christmas-carols"
+title = "Seriously sung Christmas carols"
++++
 
 Christmas is a great time for mashing unlikely singers together onto one stage so they can all sing some carols together. Like in 2000, when Plácido Domingo did a holiday concert with Vanessa Williams, Tony Bennett, and Charlotte Church. Here's Plácido and Tony giving us a good old "The First Noël":
 

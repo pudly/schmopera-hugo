@@ -1,23 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-05-06T12:22:00-04:00"
-lastmod: "2015-05-07T11:01:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430945963770/TheThinker.jpg.jpg
-publishDate: "2015-05-07T10:50:00-04:00"
-related_articles:
-- articles/power-plays-and-crossing-lines-.md
-related_people:
-- scene/people/alice-coote.md
-- scene/people/gerald-finley.md
-short_description: Don Giovanni may have a drug problem, or he may be secretly gay,
-  or he may be grossly insecure, but you can *play* seduction. And that&#039;s enough,
-  you know? Simplicity doesn&#039;t mean you put in less work, it just means you let
-  the audience get interested on their own.
-slug: overthinking-it-and-other-traps
-title: Overthinking it and other traps
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-05-06T12:22:00-04:00"
+lastmod = "2015-05-07T11:01:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430945963770/TheThinker.jpg.jpg"
+publishDate = "2015-05-07T10:50:00-04:00"
+related_articles = ["articles/power-plays-and-crossing-lines-.md"]
+related_people = ["scene/people/alice-coote.md","scene/people/gerald-finley.md"]
+short_description = "Don Giovanni may have a drug problem, or he may be secretly gay, or he may be grossly insecure, but you can *play* seduction. And that&#039;s enough, you know? Simplicity doesn&#039;t mean you put in less work, it just means you let the audience get interested on their own."
+slug = "overthinking-it-and-other-traps"
+title = "Overthinking it and other traps"
++++
 
 Singers love to "figure out" the characters they play. Digging deep into a role becomes a sort of short-term obsession; they'll talk about their current (or favourite) opera character for ever and ever. They'll tell you all about what people *think* Don Giovanni or Violetta or Cavaradossi are all about, and then they'll tell you what they're *really like*. They've got the inside scoop, you see; they pore over every letter and every note of their role, trying to make it their own while living up to every legend who ever sang it before them.
 

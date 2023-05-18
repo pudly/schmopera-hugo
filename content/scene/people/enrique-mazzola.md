@@ -1,32 +1,29 @@
----
-discipline: Conductor
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1570227119/media/2019/10/Mazzola_2_Credit_Jean-Baptiste_Millot_vmrh1j.jpg
-primary_image_credit: Jean-Baptiste Millot
-related_companies:
-- scene/companies/opernhaus-zurich.md
-- scene/companies/glyndebourne.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/salzburg-festival.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/lyric-opera-of-chicago.md
-slug: enrique-mazzola
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/enriquemazzolafanpage/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/EnriqueMazzola
-- platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/EnriqueMazzola/videos
-- _template: people_single
-  platform: Soundcloud
-  template: social-media
-  url: https://soundcloud.com/user-458961776
-title: Enrique Mazzola
-website: https://enriquemazzola.com/
----
++++
+discipline = "Conductor"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1570227119/media/2019/10/Mazzola_2_Credit_Jean-Baptiste_Millot_vmrh1j.jpg"
+primary_image_credit = "Jean-Baptiste Millot"
+related_companies = ["scene/companies/opernhaus-zurich.md", "scene/companies/glyndebourne.md", "scene/companies/wiener-staatsoper.md", "scene/companies/salzburg-festival.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/lyric-opera-of-chicago.md"]
+slug = "enrique-mazzola"
+title = "Enrique Mazzola"
+website = "https://enriquemazzola.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/enriquemazzolafanpage/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/EnriqueMazzola"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/EnriqueMazzola/videos"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "https://soundcloud.com/user-458961776"
+
++++
 Renowned as an expert interpreter and champion of bel canto opera and a specialist in French repertoire and early Verdi, Italian conductor Enrique Mazzola is in demand worldwide as both an operatic and symphonic conductor. He is Principal Guest Conductor at Deutsche Oper Berlin from the 2018-19 season and served as Artistic & Music Director of the Orchestre National d’Île de France from 2012-13 to 2018-19. In October 2018 he was made a Chevalier de l'ordre des Arts et des Lettres reflecting his significant contribution to musical life in France.
 
 Plans for the 2019-20 season include return visits to the Lyric Opera of Chicago (_Luisa Miller_), Opernhaus Zurich (_Don Pasquale_, new production), Wiener Symphoniker for concerts at the Musikverein and Bregenzer Festspiele, Deutsche Oper Berlin (_Le Prophete_ and _Dinorah_), Orchestre Symphonique de Quebec, Glyndebourne Festival Opera (_L'elisir d’amore_), Taiwan Philharmonic and NFM Wroclaw, and his debut with Staatsphilharmonie Nurnberg. Plans thereafter include returns to London Philharmonic in London and on tour.

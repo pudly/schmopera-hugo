@@ -1,24 +1,17 @@
----
-date: "2015-04-08T10:43:00-04:00"
-discipline: Conductor
-lastmod: "2015-04-08T10:43:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428504116084/LeslieDala.jpg.jpg
-publishDate: "2015-04-08T10:43:00-04:00"
-related_companies:
-- scene/companies/vancouver-opera.md
-- scene/companies/edmonton-opera.md
-- scene/companies/tapestry-opera.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/soundstreams.md
-- scene/companies/university-of-toronto-opera.md
-slug: leslie-dala
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/lesdala
-title: Leslie Dala
----
++++
+date = "2015-04-08T10:43:00-04:00"
+discipline = "Conductor"
+lastmod = "2015-04-08T10:43:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428504116084/LeslieDala.jpg.jpg"
+publishDate = "2015-04-08T10:43:00-04:00"
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md","scene/companies/tapestry-opera.md","scene/companies/canadian-opera-company.md","scene/companies/soundstreams.md","scene/companies/university-of-toronto-opera.md"]
+slug = "leslie-dala"
+title = "Leslie Dala"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/lesdala"
++++
 
 <p>
 	Dynamic young conductor Leslie Dala opens Vancouver Opera's 2012/13 season with performances of Puccini's beloved <em>La Bohème</em>. Recently appointed as Music Director of <strong>Vancouver Bach Choir</strong>, in his first season with this established ensemble Maestro Dala conducted performances of Handel's <em>Messiah</em>, Rachmaninoff <em>Vespers</em>, and Berlioz' <em>Damnation of Faust,</em> starring John Relyea. Equally at home with symphonic music, opera and contemporary music, Leslie is steadily in demand across the country. In 2009, Leslie was chosen as Principal Conductor of the<strong>Vancouver Academy of Music</strong>, and for eight seasons held the position of Music Director and Conductor of the <strong>Prince George Symphony</strong>, the longest-serving Music Director in the history of the organization. During his tenure, the orchestra presented several premieres of newly-commissioned works and gave many performances of important 20th Century works.<br>

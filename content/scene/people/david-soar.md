@@ -1,21 +1,14 @@
----
-_template: people_single
-date: "2016-05-24T06:21:00-04:00"
-discipline: Bass
-lastmod: "2016-05-24T06:21:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546830628/media/2019/01/DavidSoar.jpg
-publishDate: "2016-05-24T06:21:00-04:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/royal-opera-house.md
-- scene/companies/garsington-opera.md
-- scene/companies/english-national-opera.md
-- scene/companies/welsh-national-opera.md
-- scene/companies/glyndebourne.md
-- scene/companies/salzburg-festival.md
-slug: david-soar
-title: David Soar
----
++++
+date = "2016-05-24T06:21:00-04:00"
+discipline = "Bass"
+lastmod = "2016-05-24T06:21:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546830628/media/2019/01/DavidSoar.jpg"
+publishDate = "2016-05-24T06:21:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/garsington-opera.md", "scene/companies/english-national-opera.md", "scene/companies/welsh-national-opera.md", "scene/companies/glyndebourne.md", "scene/companies/salzburg-festival.md"]
+slug = "david-soar"
+title = "David Soar"
+
++++
 David Soar was born in Nottinghamshire and studied at the Royal Academy of Music and subsequently at the National Opera Studio. 
 
 Highlights in his 2016/17 season include Animal Tamer & Athlete _Lulu_ (English National Opera), Mr Flint in a new production of _Billy Budd_ (Madrid's Teatro Réal) and Cadmus & Somnus in a new production of _Semele_ (Garsington Opera). Concert engagements include _The Dream of Gerontius_ (Seattle Symphony Orchestra/Edward Gardner), Mendelssohn's _Elijah_ (Royal Flemish Philharmonic/Philippe Herreweghe) and Berlioz' _La damnation de Faust_ (Hallé Orchestra/Sir Mark Elder). 

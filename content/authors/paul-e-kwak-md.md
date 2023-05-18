@@ -1,17 +1,14 @@
----
-date: "2017-07-05T13:44:00-06:00"
-email: paul.kwak@nyumc.org
-lastmod: "2017-07-05T15:31:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499289778664/2017-07-05---Paul-Kwak.jpg.jpg
-publishDate: "2017-07-05T13:44:00-06:00"
-short_bio: |-
-  Paul E. Kwak is a laryngologist and laryngeal surgeon at the NYU Voice Center, and Assistant Professor in the NYU Department of Otolaryngology - Head and Neck Surgery, specializing in care of the professional voice and phonomicrosurgical resection of benign vocal fold lesions. He treats patients with vocal cord cancer, vocal cord paralysis, and laryngeal papilloma, and is experienced in surgical techniques for laryngeal microsurgery and use of the KTP laser. Dr. Kwak completed his clinical fellowship in laryngeal surgery with Dr. Steven Zeitels at the Massachusetts General Hospital, and his residency in otolaryngology-head and neck surgery at Baylor College of Medicine and MD Anderson Cancer Center.
-
-  He is also a graduate of The Juilliard School, where he earned a master&#039;s degree in Collaborative Piano with Margo Garrett, studying vocal accompanying and opera coaching.
-slug: paul-e-kwak-md
-title: Paul E. Kwak, MD
-website: http://nyulangone.org/locations/voice-center
----
++++
+date = "2017-07-05T13:44:00-06:00"
+email = "paul.kwak@nyumc.org"
+lastmod = "2017-07-05T15:31:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499289778664/2017-07-05---Paul-Kwak.jpg.jpg"
+publishDate = "2017-07-05T13:44:00-06:00"
+short_bio = "Paul E. Kwak is a laryngologist and laryngeal surgeon at the NYU Voice Center, and Assistant Professor in the NYU Department of Otolaryngology - Head and Neck Surgery, specializing in care of the professional voice and phonomicrosurgical resection of benign vocal fold lesions. He treats patients with vocal cord cancer, vocal cord paralysis, and laryngeal papilloma, and is experienced in surgical techniques for laryngeal microsurgery and use of the KTP laser. Dr. Kwak completed his clinical fellowship in laryngeal surgery with Dr. Steven Zeitels at the Massachusetts General Hospital, and his residency in otolaryngology-head and neck surgery at Baylor College of Medicine and MD Anderson Cancer Center.\n\nHe is also a graduate of The Juilliard School, where he earned a master&#039;s degree in Collaborative Piano with Margo Garrett, studying vocal accompanying and opera coaching."
+slug = "paul-e-kwak-md"
+title = "Paul E. Kwak, MD"
+website = "http://nyulangone.org/locations/voice-center"
++++
 
 Paul E. Kwak is a laryngologist and laryngeal surgeon at the NYU Voice Center, and Assistant Professor in the NYU Department of Otolaryngology - Head and Neck Surgery, specializing in care of the professional voice and phonomicrosurgical resection of benign vocal fold lesions. He treats patients with vocal cord cancer, vocal cord paralysis, and laryngeal papilloma, and is experienced in surgical techniques for laryngeal microsurgery and use of the KTP laser. Dr. Kwak completed his clinical fellowship in laryngeal surgery with Dr. Steven Zeitels at the Massachusetts General Hospital, and his residency in otolaryngology-head and neck surgery at Baylor College of Medicine and MD Anderson Cancer Center.
 

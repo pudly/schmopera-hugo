@@ -1,28 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2017-01-19T15:18:00+00:00"
-lastmod: "2017-01-26T11:38:00+00:00"
-preamble: |-
-  The best thing about opera is that it takes any human emotion, and blows it up to huge proportions. There's really no such thing as "mildly happy" or "somewhat down" in opera; even an explosive emotion like anger is amplified. With so many anger-inducing headlines on our news feeds lately, some catharsis seemed appropriate. There's always the infamous Queen of the Night's shrieking aria from *The Magic Flute*, but we've got 4 more operatic moments of beautiful rage:
-
-  Photo: [sarit](https://www.flickr.com/photos/sarit_arora/8543078505/in/photolist-e1VvAZ-rcpxsL-HGoJBW-3FH2V1-caUKvS-9EZV1q-bnc22E-eTLW1H-at9ZKG-b6vzPz-qGYMXK-nyqqy3-8v2JVL-9iEZ6G-77jiyu-9xyXUj-oo2MqY-fzYLyi-6pZm8w-nJBLdS-iWikb-5H99tJ-9FZGEi-9G3UJu-ejqELc-2qEHZg-b24Mw6-qAHHUy-5UxZp-aXeVKx-fhqZPH-aAuWMQ-aN4dFn-dWYUhF-anR77A-bVqDgz-6eX7PR-8eefQo-65HE2u-6f65na-aN4dik-aN4du2-DY1c6F-qS9C3q-a9nfN3-2Kxqvy-7XvZBY-NHS7t-4LpnkK-5AiyJo) via [Flickr.](https://creativecommons.org/licenses/by-nc-sa/2.0/)
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485354246879/2017-01-25---Angry.jpg.jpg
-publishDate: "2017-01-26T11:05:00+00:00"
-related_articles:
-- articles/the-opera-workout.md
-- articles/4-tips-for-when-there-are-too-many-notes.md
-- articles/4-opera-scenes-that-should-have-happened.md
-- articles/4-arias-their-common-misconceptions.md
-short_description: The best thing about opera is that it takes any human emotion,
-  and blows it up to huge proportions. There&#039;s really no such thing as &quot;mildly
-  happy&quot; or &quot;somewhat down&quot; in opera; even an explosive emotion like
-  anger is amplified. With so many anger-inducing headlines on our news feeds lately,
-  some catharsis seemed appropriate.
-slug: 4-awesome-rage-arias-that-arent-the-queen-of-the-night
-title: 4 awesome rage arias that aren&#039;t the Queen of the Night
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2017-01-19T15:18:00+00:00"
+lastmod = "2017-01-26T11:38:00+00:00"
+preamble = "The best thing about opera is that it takes any human emotion, and blows it up to huge proportions. There's really no such thing as \"mildly happy\" or \"somewhat down\" in opera; even an explosive emotion like anger is amplified. With so many anger-inducing headlines on our news feeds lately, some catharsis seemed appropriate. There's always the infamous Queen of the Night's shrieking aria from *The Magic Flute*, but we've got 4 more operatic moments of beautiful rage:\n\nPhoto: [sarit](https://www.flickr.com/photos/sarit_arora/8543078505/in/photolist-e1VvAZ-rcpxsL-HGoJBW-3FH2V1-caUKvS-9EZV1q-bnc22E-eTLW1H-at9ZKG-b6vzPz-qGYMXK-nyqqy3-8v2JVL-9iEZ6G-77jiyu-9xyXUj-oo2MqY-fzYLyi-6pZm8w-nJBLdS-iWikb-5H99tJ-9FZGEi-9G3UJu-ejqELc-2qEHZg-b24Mw6-qAHHUy-5UxZp-aXeVKx-fhqZPH-aAuWMQ-aN4dFn-dWYUhF-anR77A-bVqDgz-6eX7PR-8eefQo-65HE2u-6f65na-aN4dik-aN4du2-DY1c6F-qS9C3q-a9nfN3-2Kxqvy-7XvZBY-NHS7t-4LpnkK-5AiyJo) via [Flickr.](https://creativecommons.org/licenses/by-nc-sa/2.0/)"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485354246879/2017-01-25---Angry.jpg.jpg"
+publishDate = "2017-01-26T11:05:00+00:00"
+related_articles = ["articles/the-opera-workout.md","articles/4-tips-for-when-there-are-too-many-notes.md","articles/4-opera-scenes-that-should-have-happened.md","articles/4-arias-their-common-misconceptions.md"]
+short_description = "The best thing about opera is that it takes any human emotion, and blows it up to huge proportions. There&#039;s really no such thing as &quot;mildly happy&quot; or &quot;somewhat down&quot; in opera; even an explosive emotion like anger is amplified. With so many anger-inducing headlines on our news feeds lately, some catharsis seemed appropriate."
+slug = "4-awesome-rage-arias-that-arent-the-queen-of-the-night"
+title = "4 awesome rage arias that aren&#039;t the Queen of the Night"
++++
 
 ## Seething Semele
 

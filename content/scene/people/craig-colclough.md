@@ -1,21 +1,18 @@
----
-date: "2016-06-10T13:45:00+01:00"
-discipline: Bass-baritone
-lastmod: "2016-06-10T13:45:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562480377/2016-06-10---Craig-Colclough.jpg.jpg
-publishDate: "2016-06-10T13:45:00+01:00"
-related_companies:
-- scene/companies/english-national-opera.md
-- scene/companies/los-angeles-opera.md
-slug: craig-colclough
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/Craig-Colclough-551046165049612/?fref=ts
-title: Craig Colclough
-website: http://www.craigcolclough.com/
----
++++
+date = "2016-06-10T13:45:00+01:00"
+discipline = "Bass-baritone"
+lastmod = "2016-06-10T13:45:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465562480377/2016-06-10---Craig-Colclough.jpg.jpg"
+publishDate = "2016-06-10T13:45:00+01:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/los-angeles-opera.md"]
+slug = "craig-colclough"
+title = "Craig Colclough"
+website = "http://www.craigcolclough.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/Craig-Colclough-551046165049612/?fref=ts"
++++
 
 Craig Colclough began his career at the Los Angeles Opera. After two seasons appearing with the company in various roles, Mr. Colclough joined Florida Grand Opera’s Young Artist Studio, and in 2012, became a Filene Young Artist at the Wolf Trap Opera Company.
 

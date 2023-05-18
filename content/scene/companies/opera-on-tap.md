@@ -1,31 +1,30 @@
----
-date: "2016-10-17T10:12:00+01:00"
-lastmod: "2016-10-17T10:12:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476695523590/7b44IFNo.jpg.jpg
-publishDate: "2016-10-17T10:12:00+01:00"
-related_people:
-- scene/people/samantha-attaguile.md
-- scene/people/kacey-cardin.md
-- scene/people/chelsea-feltman.md
-slug: opera-on-tap
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/operaontap.nyc
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/OperaonTapNYC
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/operaontap/
-- _template: company_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/operaontap
-title: Opera On Tap
-type_of_company: Opera Company
-website: http://www.operaontap.org/
----
++++
+date = "2016-10-17T10:12:00+01:00"
+lastmod = "2016-10-17T10:12:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476695523590/7b44IFNo.jpg.jpg"
+publishDate = "2016-10-17T10:12:00+01:00"
+related_people = ["scene/people/samantha-attaguile.md","scene/people/kacey-cardin.md","scene/people/chelsea-feltman.md"]
+slug = "opera-on-tap"
+title = "Opera On Tap"
+type_of_company = "Opera Company"
+website = "http://www.operaontap.org/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/operaontap.nyc"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/OperaonTapNYC"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/operaontap/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/operaontap"
++++
 
 ### History
 

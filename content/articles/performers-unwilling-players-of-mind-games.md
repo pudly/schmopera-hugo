@@ -1,27 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2016-05-04T09:17:00+01:00"
-lastmod: "2016-05-04T10:53:00+01:00"
-preamble: 'Performing in public is about imaginary stats: there are sayings that go
-  something like how it''s 10% preparation, 89% inspiration, and the final 1% a combination
-  of panic and validation seeking. Whatever the proportions, the above factors are
-  all in the artistic mix, balancing in a way that''s at best symbiotic, and at worst
-  a mental food chain. In the spirit of airing out neuroses, we''ve identified four
-  of the meanest games to which a performer''s mind can subject him. Feel free to
-  add yours in the comments below!'
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462354270510/2016-05-04---Brain.jpg.jpg
-primary_image_credit: 'Photo: wikimedia.commons.org.'
-publishDate: "2016-05-04T10:51:00+01:00"
-short_description: 'Performing in public is about imaginary stats: there are sayings
-  that go something like how it&#039;s 10% preparation, 89% inspiration, and the final
-  1% a combination of panic and validation seeking. Whatever the proportions, the
-  above factors are all in the artistic mix, balancing in a way that&#039;s at best
-  symbiotic, and at worst a mental food chain.'
-slug: performers-unwilling-players-of-mind-games
-title: 'Performers: unwilling players of mind games'
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2016-05-04T09:17:00+01:00"
+lastmod = "2016-05-04T10:53:00+01:00"
+preamble = "Performing in public is about imaginary stats: there are sayings that go something like how it's 10% preparation, 89% inspiration, and the final 1% a combination of panic and validation seeking. Whatever the proportions, the above factors are all in the artistic mix, balancing in a way that's at best symbiotic, and at worst a mental food chain. In the spirit of airing out neuroses, we've identified four of the meanest games to which a performer's mind can subject him. Feel free to add yours in the comments below!"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462354270510/2016-05-04---Brain.jpg.jpg"
+primary_image_credit = "Photo: wikimedia.commons.org."
+publishDate = "2016-05-04T10:51:00+01:00"
+short_description = "Performing in public is about imaginary stats: there are sayings that go something like how it&#039;s 10% preparation, 89% inspiration, and the final 1% a combination of panic and validation seeking. Whatever the proportions, the above factors are all in the artistic mix, balancing in a way that&#039;s at best symbiotic, and at worst a mental food chain."
+slug = "performers-unwilling-players-of-mind-games"
+title = "Performers: unwilling players of mind games"
++++
 
 ## Peaking too soon
 

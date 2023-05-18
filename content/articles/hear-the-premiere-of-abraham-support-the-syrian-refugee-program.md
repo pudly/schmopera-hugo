@@ -1,22 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2015-10-26T22:28:00-04:00"
-lastmod: "2015-10-27T15:29:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445913308110/AbrahamsOratorio_Poster_v1.4.jpg.jpg
-publishDate: "2015-10-27T14:25:00-04:00"
-related_articles:
-- articles/music-matters-at-mini-mozarts-summer-music-camp.md
-related_people:
-- scene/people/richard-margison.md
-short_description: Tomorrow night, head to the Metropolitan United Church to hear
-  the première of Abraham, a new oratorio by Dora award-winning composer David Warrack
-  (Torontosaurus, Oh Susanna, Interpretations of a Life). Tickets start at $36, and
-  funds raised will go towards the Church&#039;s Syrian Refugee Program.
-slug: hear-the-premiere-of-abraham-support-the-syrian-refugee-program
-title: Hear the premiere of Abraham, support the Syrian Refugee Program
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2015-10-26T22:28:00-04:00"
+lastmod = "2015-10-27T15:29:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445913308110/AbrahamsOratorio_Poster_v1.4.jpg.jpg"
+publishDate = "2015-10-27T14:25:00-04:00"
+related_articles = ["articles/music-matters-at-mini-mozarts-summer-music-camp.md"]
+related_people = ["scene/people/richard-margison.md"]
+short_description = "Tomorrow night, head to the Metropolitan United Church to hear the première of Abraham, a new oratorio by Dora award-winning composer David Warrack (Torontosaurus, Oh Susanna, Interpretations of a Life). Tickets start at $36, and funds raised will go towards the Church&#039;s Syrian Refugee Program."
+slug = "hear-the-premiere-of-abraham-support-the-syrian-refugee-program"
+title = "Hear the premiere of Abraham, support the Syrian Refugee Program"
++++
 
 Tomorrow night, head to the Metropolitan United Church to hear the première of *Abraham*, a new oratorio by Dora award-winning composer [David Warrack](http://www.canadiantheatre.com/dict.pl?term=Warrack%2C%20David) (*Torontosaurus*, *Oh Susanna, Interpretations of a Life*). Tickets start at $36, and funds raised will go towards the Church's Syrian Refugee Program.
 

@@ -1,26 +1,18 @@
----
-date: "2017-09-18T15:53:00-04:00"
-discipline: Soprano
-lastmod: "2017-09-18T15:53:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505764297702/Headshot-2017.jpg.jpg
-publishDate: "2017-09-18T15:53:00-04:00"
-related_companies:
-- scene/companies/opera-philadelphia.md
-- scene/companies/arizona-opera.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/the-dallas-opera.md
-- scene/companies/san-diego-opera.md
-slug: sarah-tucker
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/sarahtuckersop
-title: Sarah Tucker
-website: http://sarahtucker.net/
----
++++
+date = "2017-09-18T15:53:00-04:00"
+discipline = "Soprano"
+lastmod = "2017-09-18T15:53:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505764297702/Headshot-2017.jpg.jpg"
+publishDate = "2017-09-18T15:53:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/arizona-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/the-dallas-opera.md","scene/companies/san-diego-opera.md"]
+slug = "sarah-tucker"
+title = "Sarah Tucker"
+website = "http://sarahtucker.net/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/sarahtuckersop"
++++
 
 Praised by Opera Today for “pure, clear tones” and lauded by the Arizona Republic for “purity and vivacious charm,” young soprano Sarah Tucker is demanding attention for her captivating vocal timbre and engaging stage presence.
  

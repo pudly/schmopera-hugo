@@ -1,22 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2017-05-08T11:42:00-04:00"
-lastmod: "2017-05-10T16:46:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494361062624/2017-05-09---Choice.jpg.jpg
-publishDate: "2017-05-10T07:34:00-04:00"
-related_articles:
-- articles/risky-opinions-there-are-2-types-of-singers.md
-- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
-short_description: Oftentimes, the singers who spend most - or all - of their time
-  singing the tragic operas by Puccini, Verdi, maybe a bit of Donizetti and Gounod,
-  tend to have acting skills that are less well-honed. That&#039;s in comparison to
-  singers who perform a lot of new opera, Baroque opera, and subtler stuff by the
-  likes of Britten, Janáček, Shostakovich, and even Wagner and Strauss.
-slug: would-you-rather-prove-me-wrong
-title: A game of &quot;would you rather&quot; or, please prove me wrong
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2017-05-08T11:42:00-04:00"
+lastmod = "2017-05-10T16:46:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494361062624/2017-05-09---Choice.jpg.jpg"
+publishDate = "2017-05-10T07:34:00-04:00"
+related_articles = ["articles/risky-opinions-there-are-2-types-of-singers.md","articles/taking-a-bow-curtain-calls-for-your-voice-type.md"]
+short_description = "Oftentimes, the singers who spend most - or all - of their time singing the tragic operas by Puccini, Verdi, maybe a bit of Donizetti and Gounod, tend to have acting skills that are less well-honed. That&#039;s in comparison to singers who perform a lot of new opera, Baroque opera, and subtler stuff by the likes of Britten, Janáček, Shostakovich, and even Wagner and Strauss."
+slug = "would-you-rather-prove-me-wrong"
+title = "A game of &quot;would you rather&quot; or, please prove me wrong"
++++
 
 Readers, I'm going to pose to you several questions, and I'm going to try and do so carefully.
 

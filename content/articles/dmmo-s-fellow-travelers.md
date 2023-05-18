@@ -1,39 +1,27 @@
----
-author:
-- authors/meghan-klinkenborg.md
-categories: Review
-date: "2021-07-26T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1626825145/media/2021/07/sqDMMO-Travelers-JosephLattanziChristianSanders_oosbsf.jpg
-primary_image_credit: 'Joseph Lattanzi (Hawkins Fuller) and Christian Sanders (Timothy
-  Laughlin) in Des Moines Metro Opera''s production of Fellow Traveles, 2021. Photo:
-  Duane Tinkey.'
-related_articles:
-- articles/fellow-travelers-is-luminous-in-chicago.md
-- articles/fellow-travelers-a-cathartic-necessary-affair.md
-related_companies:
-- scene/companies/des-moines-metro-opera.md
-related_people:
-- scene/people/christian-sanders.md
-- scene/people/joseph-lattanzi.md
-short_description: The heart wrenching scenes we did get were truly compelling, but
-  I found myself getting impatient in the less exciting sections. The brief flashes
-  of forbidden passion just weren’t enough to keep the momentum going, and I just
-  wanted them to skip to the juicy parts!
-slug: dmmos-fellow-travelers-no-happy-ending-but-perseverance
-title: 'DMMO''s Fellow Travelers: no happy ending, but perseverance'
-youtube_url: ""
----
++++
+author = ["authors/meghan-klinkenborg.md"]
+categories = "Review"
+date = 2021-07-26T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1626825145/media/2021/07/sqDMMO-Travelers-JosephLattanziChristianSanders_oosbsf.jpg"
+primary_image_credit = "Joseph Lattanzi (Hawkins Fuller) and Christian Sanders (Timothy Laughlin) in Des Moines Metro Opera's production of Fellow Traveles, 2021. Photo: Duane Tinkey."
+related_articles = ["articles/fellow-travelers-is-luminous-in-chicago.md", "articles/fellow-travelers-a-cathartic-necessary-affair.md"]
+related_companies = ["scene/companies/des-moines-metro-opera.md"]
+related_people = ["scene/people/christian-sanders.md", "scene/people/joseph-lattanzi.md"]
+short_description = "The heart wrenching scenes we did get were truly compelling, but I found myself getting impatient in the less exciting sections. The brief flashes of forbidden passion just weren’t enough to keep the momentum going, and I just wanted them to skip to the juicy parts!"
+slug = "dmmos-fellow-travelers-no-happy-ending-but-perseverance"
+title = "DMMO's Fellow Travelers: no happy ending, but perseverance"
+youtube_url = ""
+
++++
 There are a few recently composed American operas that seem to be making the rounds throughout regional opera companies, and [_Fellow Travelers_](https://desmoinesmetroopera.org/productions/fellowtravelers/), written by Gregory Spears and Greg Pierce, has clearly captured the attention of the opera world since its premiere in 2016. [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) brought this touching tale of forbidden love and hidden identities to the stage for an exclusive one night performance, a contemporary operatic work surrounded by the vintage beauty of the historical Hoyt Sherman Place.
 
 Carolyn Watson led the orchestra in a deft and nuanced performance of Gregory Spears' score. The orchestration encompassed a wide variety of emotions, often ranging from intimate to cinematic and sometimes managed to capture both feelings simultaneously. Spears also slips in subtle references to other operatic styles with hints of baroque dances or bel canto ornamentation. While the score calls for a small chamber orchestra, it was often difficult to hear certain singers over the ensemble. This is a common acoustic problem in Hoyt Sherman Place's performance space due to the lack of a true orchestra pit which resulted in the instruments being level with the audience. This issue was particularly prevalent with the lower voices in the cast but only when the orchestration was at its fullest. During the post show talk back with the opera's creative team, it became clear that the score for _Fellow Travelers_ is deceptively tricky. The music gives the impression of simplicity, but both the singers and orchestra navigated the changing time signatures and vulnerable melodies with precision and heart. Watson admitted in the panel discussions that this was her first time conducting this opera, and I wholeheartedly hope that she will get further opportunities to explore this work and bring her musical insights to Spears' composition.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1626825237/media/2021/07/DMMO-Travelers-JosephLattanziChristianSanders_vrlhhc.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626825237/media/2021/07/DMMO-Travelers-JosephLattanziChristianSanders_vrlhhc.jpg){{% /md %}}
 
 <figcaption>Joseph Lattanzi (Hawkins Fuller) and Christian Sanders (Timothy Laughlin) in Des Moines Metro Opera's production of Fellow Traveles, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -45,9 +33,7 @@ The heart wrenching scenes we did get were truly compelling, but I found myself 
 
 The characters themselves were fascinating in their contradictions and complexities. Each individual felt like a real, fully fleshed out person. Hawk and Tim were both uniquely likable and frustrating, but for some reason, I just wasn't rooting for them as a couple. Since I didn't buy into their romance, the betrayal at the end of the opera came across as annoying rather than heartbreaking. I know many operas convince us that people are in love with way less, but without the balls to the walls emotional punch of romanticism, the relationship between the two men, although dangerous and forbidden, fell flat for me. Perhaps I was expecting an over the top love affair in the wrong opera.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1626825313/media/2021/07/DMMO-Travelers-ChristianSandersGraceKahlAmandaSheriff_fdj3vd.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626825313/media/2021/07/DMMO-Travelers-ChristianSandersGraceKahlAmandaSheriff_fdj3vd.jpg){{% /md %}}
 
 <figcaption>(l-r) Christian Sanders (Timothy Laughlin), Grace Kahl (Mary Johnson) and Amanda Sheriff (Miss Lightfoot) in Des Moines Metro Opera's production of Fellow Traveles, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -69,9 +55,7 @@ Nathaniel Hill portrayed the most infamous person of the opera, Senator Joseph M
 
 While _Fellow Travelers_ seemed to be a world dominated by men, there were a few female characters that were crucial to the story. Amanda Sheriff reveled in the role of Miss Lightfoot, the nosy office gossip who doesn't hesitate to rat out her boss when she suspects he is a homosexual. Sheriff managed to make this antagonistic admin both threatening and amusing. Even at the Christmas party when she’s cutting loose with coworkers, she made time for lurking around corners and eavesdropping with drink in hand. Sheriff embraced the pettiness and suspicion in Miss Lightfoot, a stark but effective contrast to her more sympathetic coworker, Mary Johnson.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1626825454/media/2021/07/DMMO-Travelers-ClaireLopatkaJosephLattanzi_ii2qjb.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626825454/media/2021/07/DMMO-Travelers-ClaireLopatkaJosephLattanzi_ii2qjb.jpg){{% /md %}}
 
 <figcaption>Claire Lopatka (Lucy) and Joseph Lattanzi (Hawkins Fuller) in Des Moines Metro Opera's production of Fellow Traveles, 2021. Photo: Duane Tinkey.</figcaption>
 
@@ -85,9 +69,7 @@ The charismatic Hawkins Fuller was performed by baritone [Joseph Lattanzi](/scen
 
 On the opposite end of the emotional spectrum was Hawk's "Irish tiger cub" Timothy Laughlin. Tenor [Christian Sanders](/scene/people/christian-sanders/) sang the role of Timothy with an innocent vulnerability and vocal clarity. Sanders’ voice cut through the orchestra despite the venue’s acoustic issues, connecting to the audience on a visceral level. Timothy, like Hawkins, is a man of contradictions. He is experiencing romantic love for the first time in his life, and despite his religious upbringing, he embraces the relationship with naïve enthusiasm. Timothy is a bit of a timid little lamb at the beginning of the opera, and his vocal lines often reflect that. Sanders’ voice captured this sense of vulnerability with deceptive ease, and the fresh-faced tenor gave the most compelling dramatic performance of the evening, a feat that is all the more impressive considering this was his first time singing the role. Timothy's aria in the church after his first night in Hawk’s arms was a tender expression of first love's rush, and Sanders perfectly captured the beauty and tragedy of this moment. Both Sanders and Lattanzi managed to create believable portrayals of these contradictory characters, and their ability to perform quick changes onstage was impressive to say the least. Their chemistry together onstage was dynamic, and I hope that both men will continue to perform these roles in future productions, growing and developing the characters even further as they do.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1626825434/media/2021/07/DMMO-Travelers-cast_qpbwuq.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1626825434/media/2021/07/DMMO-Travelers-cast_qpbwuq.jpg){{% /md %}}
 
 <figcaption>The cast of Des Moines Metro Opera's production of Fellow Traveles, 2021. Photo: Duane Tinkey.</figcaption>
 

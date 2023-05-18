@@ -1,28 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-05-25T13:58:00-04:00"
-lastmod: "2015-06-03T17:03:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432606582797/BerlinSquare.jpg.jpg
-publishDate: "2015-05-26T08:11:00-04:00"
-related_articles:
-- articles/opera-on-steroids-budapest.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/wiener-staatsoper.md
-short_description: Opera in New York has been pretty perilous the past few years,
-  between NYCO&#039;s demise and potential rebirth, and the Metropolitan Opera&#039;s
-  frustrating back-and-forth with several of its unions last summer. &quot;The smartest
-  city in the world seems to think that opera is an old-fashioned, expensive toy —
-  or worse, high camp, something so ridiculous you can’t help adding it to your list
-  of guilty pleasures.&quot;
-slug: can-nycs-opera-scene-take-good-advice
-title: Can NYC&#039;s opera scene take good advice?
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-05-25T13:58:00-04:00"
+lastmod = "2015-06-03T17:03:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432606582797/BerlinSquare.jpg.jpg"
+publishDate = "2015-05-26T08:11:00-04:00"
+related_articles = ["articles/opera-on-steroids-budapest.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md"]
+short_description = "Opera in New York has been pretty perilous the past few years, between NYCO&#039;s demise and potential rebirth, and the Metropolitan Opera&#039;s frustrating back-and-forth with several of its unions last summer. &quot;The smartest city in the world seems to think that opera is an old-fashioned, expensive toy — or worse, high camp, something so ridiculous you can’t help adding it to your list of guilty pleasures.&quot;"
+slug = "can-nycs-opera-scene-take-good-advice"
+title = "Can NYC&#039;s opera scene take good advice?"
++++
 
 I like this *Observer* article, entitled, ["Who Can Fix Opera in New York? The Germans!"](http://observer.com/2015/05/who-can-fix-opera-in-new-york-the-germans/) 
 

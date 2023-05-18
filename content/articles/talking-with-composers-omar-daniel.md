@@ -1,33 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-06-14T09:04:00-06:00"
-lastmod: "2017-06-15T22:24:00-06:00"
-preamble: |+
-  Award-winning Canadian composer [Omar Daniel](/scene/people/omar-daniel/)'s work is full of collaboration, blending the acoustic with the electronic, and commissioning texts from writers like Anne Michaels and Yann Martel. Daniel's works for singers are extensive, including small-scale works for voice and piano, to vocal chamber ensembles, to his opera [*The Shadow*](https://tapestryopera.com/the-shadow-2009/), which premiered in 2009 at with [Tapestry Opera](/scene/companies/tapestry-opera/). He is an Associate Professor of composition at Western University, and he was a pupil of John Beckwith's at the University of Toronto.
-
-  In a concise interview that piques curiosity, Daniel talks about the composers who inspire him, and the problem-solving element of his craft.
-
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497581380037/2017-06-12---Omar-Daniel.jpg.jpg
-publishDate: "2017-06-15T21:29:00-06:00"
-related_articles:
-- articles/talking-with-composers-aaron-gervais.md
-- articles/talking-with-composers-ivan-barbotin.md
-- articles/talking-with-composers-alexina-louie.md
-- articles/talking-with-composers-juliana-hall.md
-- articles/talking-with-composers-david-t-little.md
-related_companies:
-- scene/companies/tapestry-opera.md
-related_people:
-- scene/people/omar-daniel.md
-short_description: '&quot;Writing music is like building a house. Some decisions are
-  based on inspiration (what material is the floor? Oak, maple? What colour is the
-  stain going to be?). Others are based on using simple tools to build: a hammer and
-  nails. When I am uninspired, there is always hammer-and-nail work to do.&quot;'
-slug: talking-with-composers-omar-daniel
-title: 'Talking with composers: Omar Daniel'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-06-14T09:04:00-06:00"
+lastmod = "2017-06-15T22:24:00-06:00"
+preamble = "Award-winning Canadian composer [Omar Daniel](/scene/people/omar-daniel/)'s work is full of collaboration, blending the acoustic with the electronic, and commissioning texts from writers like Anne Michaels and Yann Martel. Daniel's works for singers are extensive, including small-scale works for voice and piano, to vocal chamber ensembles, to his opera [*The Shadow*](https://tapestryopera.com/the-shadow-2009/), which premiered in 2009 at with [Tapestry Opera](/scene/companies/tapestry-opera/). He is an Associate Professor of composition at Western University, and he was a pupil of John Beckwith's at the University of Toronto.\n\nIn a concise interview that piques curiosity, Daniel talks about the composers who inspire him, and the problem-solving element of his craft.\n\n"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497581380037/2017-06-12---Omar-Daniel.jpg.jpg"
+publishDate = "2017-06-15T21:29:00-06:00"
+related_articles = ["articles/talking-with-composers-aaron-gervais.md","articles/talking-with-composers-ivan-barbotin.md","articles/talking-with-composers-alexina-louie.md","articles/talking-with-composers-juliana-hall.md","articles/talking-with-composers-david-t-little.md"]
+related_companies = ["scene/companies/tapestry-opera.md"]
+related_people = ["scene/people/omar-daniel.md"]
+short_description = "&quot;Writing music is like building a house. Some decisions are based on inspiration (what material is the floor? Oak, maple? What colour is the stain going to be?). Others are based on using simple tools to build: a hammer and nails. When I am uninspired, there is always hammer-and-nail work to do.&quot;"
+slug = "talking-with-composers-omar-daniel"
+title = "Talking with composers: Omar Daniel"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

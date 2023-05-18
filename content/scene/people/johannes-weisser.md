@@ -1,23 +1,18 @@
----
-date: "2016-10-17T12:50:00+01:00"
-discipline: Baritone
-lastmod: "2016-10-17T12:50:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476704635610/2016-10-17---Weisser.jpg.jpg
-primary_image_credit: Yann Bougaran
-publishDate: "2016-10-17T12:50:00+01:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/salzburg-festival.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/la-monnaie.md
-slug: johannes-weisser
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/weisserjohannes
-title: Johannes Weisser
----
++++
+date = "2016-10-17T12:50:00+01:00"
+discipline = "Baritone"
+lastmod = "2016-10-17T12:50:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476704635610/2016-10-17---Weisser.jpg.jpg"
+primary_image_credit = "Yann Bougaran"
+publishDate = "2016-10-17T12:50:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/salzburg-festival.md","scene/companies/staatsoper-berlin.md","scene/companies/la-monnaie.md"]
+slug = "johannes-weisser"
+title = "Johannes Weisser"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/weisserjohannes"
++++
 
 Johannes Weisser was born in 1980 in Norway. He studied at the Music Conservatory in Copenhagen and at the Royal Danish Academy of Opera in Copenhagen with Susanna Eken.
  

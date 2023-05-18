@@ -1,26 +1,16 @@
----
-author:
-- authors/christopher-enns.md
-categories: Op-ed
-date: "2015-10-21T19:38:00-04:00"
-lastmod: "2015-10-22T20:57:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445470890572/OakTree.jpg.jpg
-publishDate: "2015-10-23T08:00:00-04:00"
-related_articles:
-- articles/rags-to-reasonables-personal-finance-holy-grail.md
-- articles/how-much-money-makes-an-artist.md
-- articles/we-dont-have-to-starve-dreaming-of-an-artistic-middle-class.md
-- articles/dear-me-advice-to-my-freshman-self.md
-related_people:
-- scene/people/christopher-enns.md
-short_description: 'I love personal finance. I love the budgets, the savings, the
-  maddening complexity of an obscure tax rule. Maybe I’m still in a &#039;honeymoon&#039;
-  phase because that love is still pretty new to me. It was only a few years ago when
-  money was a huge stress for me: I avoided thinking about it, I avoided talking about
-  it, I just plain didn’t pay it any mind at all.'
-slug: the-number-one-financial-thing-i-wish-everyone-would-know
-title: The number one financial thing I wish everyone would know
----
++++
+author = ["authors/christopher-enns.md"]
+categories = "Op-ed"
+date = "2015-10-21T19:38:00-04:00"
+lastmod = "2015-10-22T20:57:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445470890572/OakTree.jpg.jpg"
+publishDate = "2015-10-23T08:00:00-04:00"
+related_articles = ["articles/rags-to-reasonables-personal-finance-holy-grail.md","articles/how-much-money-makes-an-artist.md","articles/we-dont-have-to-starve-dreaming-of-an-artistic-middle-class.md","articles/dear-me-advice-to-my-freshman-self.md"]
+related_people = ["scene/people/christopher-enns.md"]
+short_description = "I love personal finance. I love the budgets, the savings, the maddening complexity of an obscure tax rule. Maybe I’m still in a &#039;honeymoon&#039; phase because that love is still pretty new to me. It was only a few years ago when money was a huge stress for me: I avoided thinking about it, I avoided talking about it, I just plain didn’t pay it any mind at all."
+slug = "the-number-one-financial-thing-i-wish-everyone-would-know"
+title = "The number one financial thing I wish everyone would know"
++++
 
 I love personal finance. 
 

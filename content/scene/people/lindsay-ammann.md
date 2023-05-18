@@ -1,28 +1,22 @@
----
-date: "2019-03-11T00:06:52+00:00"
-discipline: Mezzo-soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552262509/media/2019/03/LindsayAmmann.jpg
-primary_image_credit: Rod Evans
-related_companies:
-- scene/companies/the-dallas-opera.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/wolf-trap-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-slug: lindsay-ammann
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/LindsayAmmann
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/lindsayammann/
-title: Lindsay Ammann
-website: https://www.lindsayammann.com/
----
++++
+date = "2019-03-11T00:06:52+00:00"
+discipline = "Mezzo-soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552262509/media/2019/03/LindsayAmmann.jpg"
+primary_image_credit = "Rod Evans"
+related_companies = ["scene/companies/the-dallas-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/wolf-trap-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md"]
+slug = "lindsay-ammann"
+title = "Lindsay Ammann"
+website = "https://www.lindsayammann.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/LindsayAmmann"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/lindsayammann/"
+
++++
 With a voice "capable of sinister low chest tones and robust high notes" (Pittsburgh Post-Gazette) and a stage presence that has been called "a force" (Opera News), dramatic mezzo-soprano Lindsay Ammann is rapidly rising as a radiant star in the opera world. Possessing an instrument well-suited for the most dramatic of roles, Ms. Ammann is proving to be a future staple in the works of Verdi and Wagner.  
   
 Lindsay Ammann’s 2018-2019 season includes a return to the Metropolitan Opera as Abbess in _Suor Angelica_ and Ciesca in _Gianni Schicchi_ while also covering Principessa in _Suor Angelica_ conducted by Bertrand de Billy. She returns to the Washington National Opera as Olga in _Eugene Onegin_ and the Opera Theatre of Saint Louis as Maddalena in _Rigoletto_. She also makes her debut with the Madison Opera as Ježibaba in _Rusalka_ conducted by John DeMain.  

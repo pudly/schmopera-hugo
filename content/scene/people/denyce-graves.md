@@ -1,42 +1,25 @@
----
-discipline: Mezzo-soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1631800330/media/2021/09/Denyce_Graves-Montgomery_pc_Devon_Cass_d_300dpi_woiooq.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/minnesota-opera.md
-- scene/companies/florida-grand-opera.md
-- scene/companies/wolf-trap-opera.md
-- scene/companies/palm-beach-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/lyric-opera-of-kansas-city.md
-- scene/companies/cincinnati-opera.md
-- scene/companies/royal-opera-house.md
-- scene/companies/opera-philadelphia.md
-- scene/companies/opra-national-de-paris.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/the-dallas-opera.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/the-atlanta-opera.md
-slug: denyce-graves
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/denycegravesmontgomery
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/denycegraves
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/gravesmontgomery/
-title: Denyce Graves
-website: ""
----
++++
+discipline = "Mezzo-soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631800330/media/2021/09/Denyce_Graves-Montgomery_pc_Devon_Cass_d_300dpi_woiooq.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/florida-grand-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/palm-beach-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/cincinnati-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/opera-philadelphia.md", "scene/companies/opra-national-de-paris.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/wiener-staatsoper.md", "scene/companies/san-francisco-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/los-angeles-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/the-atlanta-opera.md"]
+slug = "denyce-graves"
+title = "Denyce Graves"
+website = ""
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/denycegravesmontgomery"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/denycegraves"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/gravesmontgomery/"
+
++++
 Recognized worldwide as one of today's most exciting vocal stars, Denyce Graves continues to gather unparalleled popular and critical acclaim in performances on four continents. _USA Today_ identifies her as "an operatic superstar of the 21st century," and the _Atlanta Journal-Constitution_ exclaims, "If the human voice has the power to move you, you will be touched by Denyce Graves."
 
 Her career has taken her to the world's great opera houses and concert halls. The combination of her expressive, rich vocalism, elegant stage presence, and exciting theatrical abilities allows her to pursue a wide breadth of operatic portrayals and to delight audiences in concert and recital appearances. Denyce Graves has become particularly well-known to operatic audiences for her portrayals of the title roles in _Carmen_ and _Samson et Dalila_. These signature roles have brought Ms. Graves to the Metropolitan Opera, Vienna Staatsoper, Royal Opera House, Covent Garden, San Francisco Opera, Opéra National de Paris, Lyric Opera of Chicago, Washington National Opera, Bayerische Staatsoper, Arena di Verona, Deutsche Oper Berlin, Opernhaus Zürich, Teatro Real in Madrid, Houston Grand Opera, The Dallas Opera, Teatro Colón in Buenos Aires, Los Angeles Opera, and the Festival Maggio Musicale in Florence.

@@ -1,30 +1,22 @@
----
-author:
-- authors/blanche-isral.md
-categories: Op-ed
-date: "2018-04-15T21:52:00-04:00"
-lastmod: "2018-04-18T10:28:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523844008776/sqCast.jpg.jpg
-primary_image_credit: Alexandre Thériault (top left) and his castmates, before the
-  fatal car crash one year ago.
-publishDate: "2018-04-16T11:11:00-04:00"
-related_articles:
-- articles/when-opera-companies-protect-abusers.md
-short_description: 'It&#039;s the question that crosses any touring performer&#039;s
-  mind when the stage manager misses a stop sign or forgets to check their blind spot.
-  You grip the armrests and wonder, &quot;what if we crashed?&quot; A year ago today,
-  the members of one Canadian production found out. '
-slug: theatre-company-responsible-for-canadian-singers-death-goes-bankrupt
-title: Theatre company responsible for Canadian singer&#039;s death goes bankrupt
----
++++
+author = ["authors/blanche-isral.md"]
+categories = "Op-ed"
+date = "2018-04-15T21:52:00-04:00"
+lastmod = "2018-04-18T10:28:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523844008776/sqCast.jpg.jpg"
+primary_image_credit = "Alexandre Thériault (top left) and his castmates, before the fatal car crash one year ago."
+publishDate = "2018-04-16T11:11:00-04:00"
+related_articles = ["articles/when-opera-companies-protect-abusers.md"]
+short_description = "It&#039;s the question that crosses any touring performer&#039;s mind when the stage manager misses a stop sign or forgets to check their blind spot. You grip the armrests and wonder, &quot;what if we crashed?&quot; A year ago today, the members of one Canadian production found out. "
+slug = "theatre-company-responsible-for-canadian-singers-death-goes-bankrupt"
+title = "Theatre company responsible for Canadian singer&#039;s death goes bankrupt"
++++
 
 >"It's nice to have some closure." - Robbie Fenton, cast member who survived the crash.
 
 Just shy of the anniversary of a fatal road accident caused by poor, non-union working conditions, TBOS & Co has filed for bankruptcy. After changing its name last year in an attempt to conceal its identity following [damning press](http://plus.lapresse.ca/screens/659f4577-2122-4a38-966b-d2b4e92127ba%7C4F98wzQRuh5_.html) - the company operated under more than a dozen aliases, including Tohu-Bohu Productions and TBOS Live, according to one source - as of last week the Montréal-based commercial musical theatre company and its non-union affiliate TBOS & Co have taken down social media and web pages, fired all staff, and quietly ceased to exist.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523894652040/Screen%20Shot%202018-04-15%20at%2018.24.32.png)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523894652040/Screen%20Shot%202018-04-15%20at%2018.24.32.png)
 <figcaption>The cast of *A Forever Frozen Story* in transit, with Alexandre Thériault seated in the centre. Photo: Holly McCourt.</figcaption>
 </figure>
 
@@ -34,9 +26,7 @@ It's the question that crosses any touring performer's mind when the stage manag
 
 After 18 days of the third leg of a cross-Canada tour and operating on just 6 hours of sleep, the cast and crew of *A Forever Frozen Story* set off for a 350km drive from Lloydminster to Athabasca, Alberta. Exhausted, all seven members of the cast are fast asleep in the van while an overworked, underslept stage manager is behind the wheel. Three hours into the drive, the stage manager dozes off. She wakes up to a cast member screaming her name and tries to swerve out of danger, but the van strikes the production’s set truck ahead and rolls over twice before crumpling into a ditch. The van is totalled. 28-year-old performing artist Alexandre Thériault is pinned under the van, consumed with pain but still conscious. He is airlifted to the University of Alberta Hospital in Edmonton, ostensibly for a leg injury, but he dies of cardiac arrest before reaching the hospital.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523894666990/FentonPics.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523894666990/FentonPics.jpg.jpg)
 <figcaption>Images of the accident. Photo: Robbie Fenton.</figcaption>
 </figure>
 

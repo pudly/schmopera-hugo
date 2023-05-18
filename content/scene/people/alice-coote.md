@@ -1,26 +1,19 @@
----
-date: "2015-04-06T19:56:00+01:00"
-discipline: Mezzo-soprano
-lastmod: "2017-03-15T11:39:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551895434/media/2019/03/AliceCooteJiyangChen.jpg
-primary_image_credit: Jiyang Chen
-publishDate: "2015-04-06T19:56:00+01:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/glyndebourne.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/royal-opera-house.md
-- scene/companies/english-national-opera.md
-- scene/companies/welsh-national-opera.md
-- scene/companies/scottish-opera.md
-slug: alice-coote
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/AliceCoote
-title: Alice Coote
----
++++
+date = "2015-04-06T19:56:00+01:00"
+discipline = "Mezzo-soprano"
+lastmod = "2017-03-15T11:39:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551895434/media/2019/03/AliceCooteJiyangChen.jpg"
+primary_image_credit = "Jiyang Chen"
+publishDate = "2015-04-06T19:56:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/glyndebourne.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/english-national-opera.md", "scene/companies/welsh-national-opera.md", "scene/companies/scottish-opera.md"]
+slug = "alice-coote"
+title = "Alice Coote"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/AliceCoote"
+
++++
 World renowned Mezzo-soprano Alice Coote is regarded as one of the great artists of our day.
 
 Equally famed on the great operatic stages as in concert and recital she has been named the ‘superlative British Mezzo’ (San Francisco Chronicle). Her performances have been described as ‘breathtaking in \[its\] sheer conviction and subtlety of perception’ (The Times) and her voice as ‘beautiful, to be sure, but, more importantly, it thrills you to the marrow.’ (The Daily Telegraph).

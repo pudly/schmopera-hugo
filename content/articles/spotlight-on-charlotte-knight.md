@@ -1,58 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-06-17T15:35:00-04:00"
-lastmod: "2015-06-19T08:42:00-04:00"
-preamble: "Coloratura soprano [Charlotte Knight](/scene/people/charlotte-knight/)
-  last made me laugh as Cecily Cardew in [*Earnest, the Importance of Being*](/in-review-earnest-the-importance-of-being/)
-  at Toronto Operetta Theatre this season. Her fierce technique is easy to hear, and
-  like all great comediennes, Charlotte is also a smart and versatile performer; she
-  just finished singing Rona Lisa Peretti in [*25th Annual Putnam County Spelling
-  Bee*](/in-review-25th-annual-putnam-county-spelling-bee/) with No Strings Theatre.
-  Next season, you can hear her in November with the Gallery Players of Niagara, singing
-  Villa-Lobos' stunning *Bachianas Brasilieras No. 5* for soprano and eight cellos.
-  and in May 2016 with [Toronto Masque Theatre](/scene/companies/toronto-masque-theatre/)'s
-  production of *The Fairy Queen*. \n\nObviously in love with performing, Charlotte
-  gave a beautiful interview about working hard, and not comparing yourself to others."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434569910012/Charlotte-Knight_Soprano_Headshot_2014-(1).jpg.jpg
-publishDate: "2015-06-19T08:35:00-04:00"
-related_articles:
-- articles/spotlight-on-emily-peragine.md
-- articles/spotlight-on-julia-dawson.md
-- articles/spotlight-on-michelle-siemens.md
-- articles/spotlight-on-peter-bass.md
-- articles/in-review-25th-annual-putnam-county-spelling-bee.md
-- articles/in-review-earnest-the-importance-of-being.md
-- articles/spotlight-on-christopher-james-ray.md
-- articles/spotlight-on-maikai-nash.md
-- articles/spotlight-on-kelsey-vicary.md
-- articles/spotlight-on-lida-szkwarek.md
-- articles/spotlight-on-danielle-macmillan.md
-- articles/spotlight-on-marjorie-maltais.md
-- articles/spotlight-on-kimberleyann-bartczak.md
-- articles/spotlight-on-laurelle-jade-froese.md
-- articles/spotlight-on-jeremy-hirsch.md
-- articles/spotlight-on-maeve-palmer.md
-- articles/spotlight-on-keith-lam.md
-- articles/spotlight-on-sara-schabas.md
-- articles/spotlight-on-lara-ciekiewicz.md
-related_companies:
-- scene/companies/toronto-operetta-theatre.md
-- scene/companies/no-strings-theatre.md
-- scene/companies/toronto-masque-theatre.md
-related_people:
-- scene/people/charlotte-knight.md
-short_description: Coloratura soprano Charlotte Knight last made me laugh as Cecily
-  Cardew in Earnest, the Importance of Being at Toronto Operetta Theatre this season.
-  Her fierce technique is easy to hear, and like all great comediennes, Charlotte
-  is also a smart and versatile performer. She just finished singing Rona Lisa Peretti
-  in 25th Annual Putnam County Spelling Bee with No Strings Theatre, and you can hear
-  her this November with the Gallery Players of Niagara, singing Villa-Lobos&#039;
-  stunning Bachianas Brasilieras No. 5 for soprano and eight cellos.
-slug: spotlight-on-charlotte-knight
-title: 'Spotlight on: Charlotte Knight'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-06-17T15:35:00-04:00"
+lastmod = "2015-06-19T08:42:00-04:00"
+preamble = "Coloratura soprano [Charlotte Knight](/scene/people/charlotte-knight/) last made me laugh as Cecily Cardew in [*Earnest, the Importance of Being*](/in-review-earnest-the-importance-of-being/) at Toronto Operetta Theatre this season. Her fierce technique is easy to hear, and like all great comediennes, Charlotte is also a smart and versatile performer; she just finished singing Rona Lisa Peretti in [*25th Annual Putnam County Spelling Bee*](/in-review-25th-annual-putnam-county-spelling-bee/) with No Strings Theatre. Next season, you can hear her in November with the Gallery Players of Niagara, singing Villa-Lobos' stunning *Bachianas Brasilieras No. 5* for soprano and eight cellos. and in May 2016 with [Toronto Masque Theatre](/scene/companies/toronto-masque-theatre/)'s production of *The Fairy Queen*. \n\nObviously in love with performing, Charlotte gave a beautiful interview about working hard, and not comparing yourself to others."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434569910012/Charlotte-Knight_Soprano_Headshot_2014-(1).jpg.jpg"
+publishDate = "2015-06-19T08:35:00-04:00"
+related_articles = ["articles/spotlight-on-emily-peragine.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-peter-bass.md","articles/in-review-25th-annual-putnam-county-spelling-bee.md","articles/in-review-earnest-the-importance-of-being.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-jeremy-hirsch.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-keith-lam.md","articles/spotlight-on-sara-schabas.md","articles/spotlight-on-lara-ciekiewicz.md"]
+related_companies = ["scene/companies/toronto-operetta-theatre.md","scene/companies/no-strings-theatre.md","scene/companies/toronto-masque-theatre.md"]
+related_people = ["scene/people/charlotte-knight.md"]
+short_description = "Coloratura soprano Charlotte Knight last made me laugh as Cecily Cardew in Earnest, the Importance of Being at Toronto Operetta Theatre this season. Her fierce technique is easy to hear, and like all great comediennes, Charlotte is also a smart and versatile performer. She just finished singing Rona Lisa Peretti in 25th Annual Putnam County Spelling Bee with No Strings Theatre, and you can hear her this November with the Gallery Players of Niagara, singing Villa-Lobos&#039; stunning Bachianas Brasilieras No. 5 for soprano and eight cellos."
+slug = "spotlight-on-charlotte-knight"
+title = "Spotlight on: Charlotte Knight"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 
@@ -80,9 +40,7 @@ And what should they do less of? Stop comparing yourself to others. Just stop. C
 
 Stay focused on your own journey and you will get to where you are meant to be. Oh, and enjoy the journey.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434589085697/CharlotteKnight.png)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434589085697/CharlotteKnight.png)
 <figcaption>Soprano Charlotte Knight. Photo by Tishan Baldeo/Miriam Baker, designer.</figcaption>
 </figure>
 

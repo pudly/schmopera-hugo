@@ -1,37 +1,28 @@
----
-date: "2017-09-25T12:51:00-04:00"
-discipline: Soprano
-lastmod: "2017-09-25T12:51:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546741084/media/2019/01/AndrianaChuchman.jpg
-primary_image_credit: Chia Messina
-publishDate: "2017-09-25T12:51:00-04:00"
-related_companies:
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/washington-national-opera.md
-- scene/companies/glyndebourne.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/san-diego-opera.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/the-atlanta-opera.md
-- scene/companies/glimmerglass-festival.md
-slug: andriana-chuchman
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/andrianachuchman
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/AndrianaChuch
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/moviebluffster?feature=watch
-title: Andriana Chuchman
-website: https://www.andrianachuchman.com/
----
++++
+date = "2017-09-25T12:51:00-04:00"
+discipline = "Soprano"
+lastmod = "2017-09-25T12:51:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546741084/media/2019/01/AndrianaChuchman.jpg"
+primary_image_credit = "Chia Messina"
+publishDate = "2017-09-25T12:51:00-04:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md", "scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/washington-national-opera.md", "scene/companies/glyndebourne.md", "scene/companies/houston-grand-opera.md", "scene/companies/san-diego-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/glimmerglass-festival.md"]
+slug = "andriana-chuchman"
+title = "Andriana Chuchman"
+website = "https://www.andrianachuchman.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/andrianachuchman"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/AndrianaChuch"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/moviebluffster?feature=watch"
+
++++
 This season, soprano Andriana Chuchman makes her debut at the Hamburg State Opera as Eurydice in _Orphée et Eurydice,_debuts with the San Francisco Opera as Mary in Jake Heggie's _It's a Wonderful Life,_ and returns the Canadian Opera Company as Musetta in _La bohème._
 
 ​

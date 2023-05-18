@@ -1,31 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2014-07-06T12:51:00-04:00"
-lastmod: "2015-04-23T15:03:00-04:00"
-preamble: The [Against the Grain Theatre](http://againstthegraintheatre.com/) crew
-  has arrived at the beautiful [Banff Centre](http://www.banffcentre.ca/programs/program.aspx?id=1457),
-  getting ready for the anticipated [_#UncleJohn_](https://www.facebook.com/events/1494928980723400/?ref=br_tf).
-  The crew includes lighting designer [Jason Hand](http://www.jasonhandlighting.com/),
-  who is no stranger to AtG. His lighting design was nominated for a Dora Award for
-  Figaro's Wedding. With _Pelléas et Mélisande_ freshly closed, _#UncleJohn_ will
-  be the second _al fresco_ performance in a row for Jason. I asked him about his
-  work; he spoke eloquently about joining forces with Joel Ivany, hiking in Banff,
-  and working with the sunset.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429815388810/Jason-Hand2-1024x750.jpg.jpg
-publishDate: "2014-07-06T12:51:00-04:00"
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/the-banff-centre.md
-short_description: Lighting designer Jason Hand is no stranger to AtG. His lighting
-  design was nominated for a Dora Award for Figaro&#039;s Wedding. With _Pelléas et
-  Mélisande_ freshly closed, #UncleJohn will be the second al fresco performance in
-  a row for Jason. I asked him about his work; he spoke eloquently about joining forces
-  with Joel Ivany, hiking in Banff, and working with the sunset.
-slug: lighting-unclejohn-jason-hand
-title: 'Lighting #UncleJohn: Jason Hand'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2014-07-06T12:51:00-04:00"
+lastmod = "2015-04-23T15:03:00-04:00"
+preamble = "The [Against the Grain Theatre](http://againstthegraintheatre.com/) crew has arrived at the beautiful [Banff Centre](http://www.banffcentre.ca/programs/program.aspx?id=1457), getting ready for the anticipated [_#UncleJohn_](https://www.facebook.com/events/1494928980723400/?ref=br_tf). The crew includes lighting designer [Jason Hand](http://www.jasonhandlighting.com/), who is no stranger to AtG. His lighting design was nominated for a Dora Award for Figaro's Wedding. With _Pelléas et Mélisande_ freshly closed, _#UncleJohn_ will be the second _al fresco_ performance in a row for Jason. I asked him about his work; he spoke eloquently about joining forces with Joel Ivany, hiking in Banff, and working with the sunset."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429815388810/Jason-Hand2-1024x750.jpg.jpg"
+publishDate = "2014-07-06T12:51:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
+short_description = "Lighting designer Jason Hand is no stranger to AtG. His lighting design was nominated for a Dora Award for Figaro&#039;s Wedding. With _Pelléas et Mélisande_ freshly closed, #UncleJohn will be the second al fresco performance in a row for Jason. I asked him about his work; he spoke eloquently about joining forces with Joel Ivany, hiking in Banff, and working with the sunset."
+slug = "lighting-unclejohn-jason-hand"
+title = "Lighting #UncleJohn: Jason Hand"
++++
 
 ### What's your favourite part about your work as a lighting designer?
 

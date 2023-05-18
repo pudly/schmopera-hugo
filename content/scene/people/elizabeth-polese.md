@@ -1,27 +1,23 @@
----
-date: "2017-06-24T14:16:00-06:00"
-discipline: Soprano
-lastmod: "2017-06-24T14:16:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498335287867/f7937e_d388daa8d9634f249bfcc3ab99523767.png.png
-primary_image_credit: Richard Van
-publishDate: "2017-06-24T14:16:00-06:00"
-related_companies:
-- scene/companies/opera-5.md
-- scene/companies/brott-opera.md
-- scene/companies/highlands-opera-studio.md
-- scene/companies/opera-nuova.md
-slug: elizabeth-polese
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/bethsingsongs
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/bethsingsongs/
-title: Elizabeth Polese
-website: https://www.elizabethpolese.ca/
----
++++
+date = "2017-06-24T14:16:00-06:00"
+discipline = "Soprano"
+lastmod = "2017-06-24T14:16:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498335287867/f7937e_d388daa8d9634f249bfcc3ab99523767.png.png"
+primary_image_credit = "Richard Van"
+publishDate = "2017-06-24T14:16:00-06:00"
+related_companies = ["scene/companies/opera-5.md","scene/companies/brott-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/opera-nuova.md"]
+slug = "elizabeth-polese"
+title = "Elizabeth Polese"
+website = "https://www.elizabethpolese.ca/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/bethsingsongs"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/bethsingsongs/"
++++
 
 Praised as a "fresh and polished soprano", Elizabeth Polese is an up and coming artist in Canada's classical music scene. Recent performances have included Rosina in *The Barber of Seville* at Indian River Festival and Stratford Summer Music, Barbarina in *Le Nozze di Figaro* with Brott Opera, Fauré's *Requiem* and several recital appearances. This season, Elizabeth will complete a fellowship with the Rebanks Family Fellowship and International Performance Residency program with the Glenn Gould School at the Royal Conservatory of Music in Toronto. Visit the Schedule page to learn more about what's next.
  

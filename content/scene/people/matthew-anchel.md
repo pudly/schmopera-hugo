@@ -1,33 +1,29 @@
----
-discipline: Bass
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1631551637/media/2021/09/MatthewAnchel_vjsha4.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/los-angeles-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/spoleto-festival-usa.md
-- scene/companies/merola-opera-program.md
-- scene/companies/glyndebourne.md
-- scene/companies/on-site-opera.md
-- scene/companies/the-metropolitan-opera.md
-slug: matthew-anchel
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/MatthewAnchelBass/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/MatthewAnchel
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/matthewanchel/
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/results?search_query=matthew+anchel
-title: Matthew Anchel
-website: https://www.matthewanchel.com/
----
++++
+discipline = "Bass"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631551637/media/2021/09/MatthewAnchel_vjsha4.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/los-angeles-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/spoleto-festival-usa.md", "scene/companies/merola-opera-program.md", "scene/companies/glyndebourne.md", "scene/companies/on-site-opera.md", "scene/companies/the-metropolitan-opera.md"]
+slug = "matthew-anchel"
+title = "Matthew Anchel"
+website = "https://www.matthewanchel.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/MatthewAnchelBass/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/MatthewAnchel"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/matthewanchel/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/results?search_query=matthew+anchel"
+
++++
 Bass Matthew Anchel, called "a voice to watch" by the Wall Street Journal, has performed with many of the world’s leading companies and orchestras. During both the 2018-19 and 2019-2020 seasons, Mr. Anchel has joined the ensemble of Oper Stuttgart for a number of roles, including Bartolo in _Il barbiere di Siviglia_, Benoit in _La Boheme_, Crespel/Luther in _Les Contes d’Hoffmann_, The Cook in _Love of Three Oranges_, and Antonio in Le no_zze di Figaro_. He spent the summer of 2019 at the Glyndebourne Festival, covering Sarastro in _Die Zauberflöte_. In recent seasons, Mr. Anchel has returned to the Metropolitan Opera, covering in new productions of _The Exterminating Ange_l and _Cendrillon_. He also joined Santa Fe Opera to cover Tsar Dodon in their production of _The Golden Cockerel_, made his company debut with St. Petersburg Opera as Sarastro, returned to Spoleto Festival USA as Lamberto in _Pia de' Tolomei_, and performed the Bass Solo in Mahler’s 8th Symphony at Carnegie Hall. In the fall of 2020, Mr. Anchel joined Stadttheater Giessen as Banquo in _Macbeth_ and was slated to join Tiroler Landestheater Innsbruck in 2021 as Sarastro in _Die Zauberflöte_ (COVID19). In the 2021-2022 season, Mr. Anchel will perform as the bass soloist in Mozart Requiem with Stiftsmusik Stuttgart, make his On Site Opera debut as Claggart in _What Lies Beneath_ and returns to the Metropolitan Opera by making his debut singing Master of Ceremonies in _Cinderella_, Jailer in _Tosca_ and covering Schwarz in _Die Meistersinger von Nürnberg_ and Un moine in _Don Carlos_.
 
 Previous seasons have included Mr. Anchel’s debut with Anchorage Opera as Sparafucile in _Rigoletto_, his Carnegie Hall/Stern Auditorium debut as a soloist in Haydn's _Mass in Time of Wa_r with the New England Symphonic Ensemble, Dvorak's _Stabat Mater_ with the St. George's Choral Society, and his return to the Metropolitan Opera, covering the role of Trojan Man in _Idomeneo_, 2nd Armored Man in _Die Zauberflöte_, and Waiter #3 in _Der Rosenkavalier_. During the 2015-16 season, Mr. Anchel performed the role of #8 in Conrad Susa's Transformations with the Merola Opera Program, was a soloist in Beethoven’s Mass in C with Spoleto Festival USA, and completed engagements with Annapolis Chorale, Savannah Voice Festival, Canterbury Chorale and American Lyric Theater. In the 2014-15 season, Mr. Anchel returned to the Metropolitan Opera for their productions of _Lady Macbeth of Mtsensk_, _Die Zauberflöte_, and _Die Meistersinger von Nurnburg_, and made debuts with Opera San Antonio as First Soldier in _Salome_, with LOFTOpera as Don Alfonso in _Lucrezia Borgia_, and with the Annapolis Chorale as a soloist in Bach's _St. John Passion_.

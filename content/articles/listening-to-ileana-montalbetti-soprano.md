@@ -1,33 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2013-12-28T13:38:00-05:00"
-lastmod: "2015-04-28T23:34:00-04:00"
-preamble: Canadian soprano [Ileana Montalbetti](http://www.ileanamontalbetti.com/) is
-  on the rise. A graduate of the Canadian Opera Company's Ensemble Studio [Program](http://www.coc.ca/aboutthecoc/companymembers/EnsembleStudio.aspx),
-  she bravely dives into challenging roles like Elettra, Leonore and Antonia. Ileana
-  shone most recently in Canada as Ellen Orford in the COC's production of _Peter
-  Grimes._ "When we start to consider Ileana Montalbetti’s saintly Ellen Orford, we
-  are in the realm of greatness. The heartbreaking emotional openness of her voice
-  and the wealth of feeling she gives every moment mark her as the beating heart of
-  this production." ([The Star](http://www.thestar.com/entertainment/stage/2013/10/06/opera_review_peter_grimes.html))
-   The busy soprano kindly took time to answer a few of my questions about her very
-  neat life as a young and quickly rising opera singer.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430278461274/2012-02-23-COC-Ileana_Montalbetti-3181LOWRES.jpg.jpg
-publishDate: "2013-12-28T13:38:00-05:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-related_people:
-- scene/people/ileana-montalbetti.md
-short_description: Canadian soprano Ileana Montalbetti is on the rise. A graduate
-  of the Canadian Opera Company&#039;s Ensemble Studio Program, she bravely dives
-  into challenging roles like Elettra, Leonore and Antonia. Ileana shone most recently
-  in Canada as Ellen Orford in the COC&#039;s production of Peter Grimes.
-slug: listening-to-ileana-montalbetti-soprano
-title: 'Listening to: Ileana Montalbetti, soprano'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2013-12-28T13:38:00-05:00"
+lastmod = "2015-04-28T23:34:00-04:00"
+preamble = "Canadian soprano [Ileana Montalbetti](http://www.ileanamontalbetti.com/) is on the rise. A graduate of the Canadian Opera Company's Ensemble Studio [Program](http://www.coc.ca/aboutthecoc/companymembers/EnsembleStudio.aspx), she bravely dives into challenging roles like Elettra, Leonore and Antonia. Ileana shone most recently in Canada as Ellen Orford in the COC's production of _Peter Grimes._ \"When we start to consider Ileana Montalbetti’s saintly Ellen Orford, we are in the realm of greatness. The heartbreaking emotional openness of her voice and the wealth of feeling she gives every moment mark her as the beating heart of this production.\" ([The Star](http://www.thestar.com/entertainment/stage/2013/10/06/opera_review_peter_grimes.html))  The busy soprano kindly took time to answer a few of my questions about her very neat life as a young and quickly rising opera singer."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430278461274/2012-02-23-COC-Ileana_Montalbetti-3181LOWRES.jpg.jpg"
+publishDate = "2013-12-28T13:38:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/ileana-montalbetti.md"]
+short_description = "Canadian soprano Ileana Montalbetti is on the rise. A graduate of the Canadian Opera Company&#039;s Ensemble Studio Program, she bravely dives into challenging roles like Elettra, Leonore and Antonia. Ileana shone most recently in Canada as Ellen Orford in the COC&#039;s production of Peter Grimes."
+slug = "listening-to-ileana-montalbetti-soprano"
+title = "Listening to: Ileana Montalbetti, soprano"
++++
 
 ## Why do you sing?
 

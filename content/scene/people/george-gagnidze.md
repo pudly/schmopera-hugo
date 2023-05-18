@@ -1,33 +1,26 @@
----
-date: "2016-12-03T12:17:00+00:00"
-discipline: Baritone
-lastmod: "2016-12-03T13:02:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480767312698/2016-12-3---George_Gagnidze_Maik_Reishaus.jpg.jpg
-publishDate: "2016-12-03T12:20:00+00:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/opra-national-de-paris.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/gran-teatre-del-liceu.md
-- scene/companies/wiener-staatsoper.md
-slug: george-gagnidze
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/gagnidzebaritone
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/GeorgeGagnidze
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/channel/UCs5O4UGty60su_wKBAPU9nw
-title: George Gagnidze
-website: https://georgegagnidze.com/en/home.html
----
++++
+date = "2016-12-03T12:17:00+00:00"
+discipline = "Baritone"
+lastmod = "2016-12-03T13:02:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480767312698/2016-12-3---George_Gagnidze_Maik_Reishaus.jpg.jpg"
+publishDate = "2016-12-03T12:20:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/wiener-staatsoper.md"]
+slug = "george-gagnidze"
+title = "George Gagnidze"
+website = "https://georgegagnidze.com/en/home.html"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/gagnidzebaritone"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/GeorgeGagnidze"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UCs5O4UGty60su_wKBAPU9nw"
++++
 
 "The Georgian baritone George Gagnidze was an exceptionally menacing Scarpia, singing with robust, earthy power and seductive lyricism when the villain turns on the charm". With these words the *New York Times* hailed George Gagnidze in a 2008 performance of *Tosca* at Avery Fisher Hall at Lincoln Center. One year later he made his sensational debut at the Metropolitan Opera in New York as *Rigoletto*, and since then he has ranked among the leading singers of his genre.
 

@@ -1,19 +1,17 @@
----
-discipline: Mezzo-soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1611882164/media/2021/01/R._Nelson_Headshot_fqkkth.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/cincinnati-opera.md
-- scene/companies/glimmerglass-festival.md
-slug: reilly-nelson
-social_media:
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/sliceofrei/
-title: Reilly Nelson
-website: https://www.reillynelson.com/
----
++++
+discipline = "Mezzo-soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1611882164/media/2021/01/R._Nelson_Headshot_fqkkth.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/cincinnati-opera.md", "scene/companies/glimmerglass-festival.md"]
+slug = "reilly-nelson"
+title = "Reilly Nelson"
+website = "https://www.reillynelson.com/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/sliceofrei/"
+
++++
 Canadian mezzo-soprano Reilly Nelson brings her “distinctly warm and burnished” sound to stages of all sizes in North America and Europe. In the 2020/21 season, Ms. Nelson was a Young Artist with the Glimmerglass Opera Festival, a virtual iteration of the distinguished program that featured working sessions with Isabel Leonard, Francesca Zambello, Eric Owens, and Renée Fleming. In 2021, Ms. Nelson will sing Caterina in Mascagni’s _L’amico Fritz_ at the Tiroler Festspiele Erl, and Mercédès in Cincinnati Opera’s production of _Carmen_, before joining Barbara Hannigan’s Equilibrium Young Artists Programme at the Lunenberg Academy of Music Performance in Nova Scotia.
 
 In her 2019/20 season, Ms. Nelson sang Suzuki in Soo Opera Theater’s production of _Madama Butterfly_, Stephano in Cincinnati Opera’s _Roméo et Juliette_, and gave a workshop performance of William Menefield and Sheila Williams’ new opera, _Fierce_, with Cincinnati Opera’s Opera Fusion New Works.

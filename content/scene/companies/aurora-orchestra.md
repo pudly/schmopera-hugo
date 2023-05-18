@@ -1,26 +1,26 @@
----
-date: "2016-05-30T17:25:00+01:00"
-lastmod: "2016-05-30T17:25:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464625347862/Logo---AO.jpg.jpg
-publishDate: "2016-05-30T17:25:00+01:00"
-related_people:
-- scene/people/marcus-farnsworth.md
-slug: aurora-orchestra
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/auroraorchestra
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/auroraorchestra
-- _template: company_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/AuroraOrchestra
-title: Aurora Orchestra
-type_of_company: Orchestra
-website: http://www.auroraorchestra.com/
----
++++
+date = "2016-05-30T17:25:00+01:00"
+lastmod = "2016-05-30T17:25:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464625347862/Logo---AO.jpg.jpg"
+publishDate = "2016-05-30T17:25:00+01:00"
+related_people = ["scene/people/marcus-farnsworth.md"]
+slug = "aurora-orchestra"
+title = "Aurora Orchestra"
+type_of_company = "Orchestra"
+website = "http://www.auroraorchestra.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/auroraorchestra"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/auroraorchestra"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/AuroraOrchestra"
++++
 
 Aurora Orchestra aspires to be the world’s most creative orchestra, combining the highest quality of performance with an exceptional breadth of artistic horizons and a trailblazing approach to concert presentation. It seeks to reach new audiences through a uniquely outward-looking and collaborative approach to orchestral music-making, built on an unparalleled range of creative partnerships and a consciously omnivorous approach to repertoire.  Since its launch in 2005, it has worked with a roster of artists ranging from Ian Bostridge, Brett Dean, Anthony Marwood and Sarah Connolly to Edmund de Waal, Wayne McGregor and Michael Clark.
 

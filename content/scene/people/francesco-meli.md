@@ -1,21 +1,13 @@
----
-_template: people_single
-date: "2018-02-07T16:56:00-05:00"
-discipline: Tenor
-lastmod: "2018-02-07T16:56:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518040343696/meli-e1453220998660.jpg.jpg
-publishDate: "2018-02-07T16:56:00-05:00"
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/washington-national-opera.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/opernhaus-zurich.md
-- scene/companies/salzburg-festival.md
-- scene/companies/wiener-staatsoper.md
-slug: francesco-meli
-title: Francesco Meli
----
++++
+date = "2018-02-07T16:56:00-05:00"
+discipline = "Tenor"
+lastmod = "2018-02-07T16:56:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518040343696/meli-e1453220998660.jpg.jpg"
+publishDate = "2018-02-07T16:56:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/washington-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/salzburg-festival.md","scene/companies/wiener-staatsoper.md"]
+slug = "francesco-meli"
+title = "Francesco Meli"
++++
 
 Born in Genova in 1980, he starts his singing studies at the age of seventeen with soprano Norma Palacios at his hometown’s School of music.
 

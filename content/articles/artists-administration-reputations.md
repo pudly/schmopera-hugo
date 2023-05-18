@@ -1,27 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-05-16T13:38:00-04:00"
-lastmod: "2017-09-13T21:25:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505351983918/2017-09-14---Administration.jpg.jpg
-publishDate: "2015-05-19T08:41:00-04:00"
-related_articles:
-- articles/tshirts-and-tender-artists.md
-- articles/why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company.md
-- articles/tosca-the-nyco-renaissance.md
-- articles/musicians-sexual-harassment-blurred-lines.md
-- articles/new-roles-janaka-welihinda-of-myopera.md
-- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
-short_description: 'Artists are such neat people because they&#039;re a creative bunch,
-  not an organized bunch. Good, employable artists know that they can&#039;t be flighty,
-  or bad at returning emails, or constantly late; yet it&#039;s not hard for me to
-  imagine the artist that, left to his or her own devices, would probably keep odd
-  and inconsistent hours, a messy workspace, and they&#039;d occasionally get wrapped
-  up in their work enough to forget to buy groceries. '
-slug: artists-administration-reputations
-title: Artists, administration &amp; reputations
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-05-16T13:38:00-04:00"
+lastmod = "2017-09-13T21:25:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505351983918/2017-09-14---Administration.jpg.jpg"
+publishDate = "2015-05-19T08:41:00-04:00"
+related_articles = ["articles/tshirts-and-tender-artists.md","articles/why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company.md","articles/tosca-the-nyco-renaissance.md","articles/musicians-sexual-harassment-blurred-lines.md","articles/new-roles-janaka-welihinda-of-myopera.md","articles/audition-season-or-the-annual-festival-of-shattered-dreams.md"]
+short_description = "Artists are such neat people because they&#039;re a creative bunch, not an organized bunch. Good, employable artists know that they can&#039;t be flighty, or bad at returning emails, or constantly late; yet it&#039;s not hard for me to imagine the artist that, left to his or her own devices, would probably keep odd and inconsistent hours, a messy workspace, and they&#039;d occasionally get wrapped up in their work enough to forget to buy groceries. "
+slug = "artists-administration-reputations"
+title = "Artists, administration &amp; reputations"
++++
 
 Everybody loves an artist in one way or another; they're such an alluring group of people because they're a creative bunch. Creative, absolutely; yet they're not often thought of primarily as an organized bunch, and there's some truth to that stereotype. Good, employable artists know that they can't be flighty, or bad at returning emails, or constantly late; yet it's not hard to imagine the artist that, left to his or her own devices, would probably keep odd and inconsistent hours, a messy workspace, and they'd occasionally get wrapped up in their work enough to forget to buy groceries. 
 

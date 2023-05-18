@@ -1,25 +1,15 @@
----
-author:
-- authors/rich-coburn.md
-categories: Op-ed
-date: "2016-05-06T17:12:00+01:00"
-lastmod: "2016-05-07T12:21:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462550875883/2016-06-07---Score.jpg.jpg
-publishDate: "2016-05-07T12:21:00+01:00"
-related_articles:
-- articles/new-opera-more-singer-input-needed.md
-- articles/bach-was-all-about-that-bass.md
-- articles/tales-from-the-score-violetta.md
-- articles/kevin-puts-i-know-who-i-am-as-a-composer.md
-- articles/quintus-4-has-no-choice-but-to-have-a-unique-sound.md
-short_description: What if, like the composer, you could look at the score as an output
-  instead of an input? That is, instead of taking the score and making it sound, you
-  take sound and make it into a score. And what if you could get a glimpse into the
-  composer&#039;s relationship with the score, even as someone who has no inclination
-  to compose?
-slug: the-score-how-to-see-what-a-composer-sees
-title: 'The score: how to see what a composer sees'
----
++++
+author = ["authors/rich-coburn.md"]
+categories = "Op-ed"
+date = "2016-05-06T17:12:00+01:00"
+lastmod = "2016-05-07T12:21:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462550875883/2016-06-07---Score.jpg.jpg"
+publishDate = "2016-05-07T12:21:00+01:00"
+related_articles = ["articles/new-opera-more-singer-input-needed.md","articles/bach-was-all-about-that-bass.md","articles/tales-from-the-score-violetta.md","articles/kevin-puts-i-know-who-i-am-as-a-composer.md","articles/quintus-4-has-no-choice-but-to-have-a-unique-sound.md"]
+short_description = "What if, like the composer, you could look at the score as an output instead of an input? That is, instead of taking the score and making it sound, you take sound and make it into a score. And what if you could get a glimpse into the composer&#039;s relationship with the score, even as someone who has no inclination to compose?"
+slug = "the-score-how-to-see-what-a-composer-sees"
+title = "The score: how to see what a composer sees"
++++
 
 Most classical musicians spend their time in a very one-sided relationship with the score. The score says something, you do your best to figure out what it means, and you to do it. End of process. This works reasonably well for some very detailed scores like Poulenc and Britten opera (Britten folk songs are a completely different story). But other music, generally with less precise or detailed scores, often demands a degree of interpretation; while the music is great, the page is sometimes really boring. I’m looking at you, Schubert.
 

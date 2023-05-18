@@ -1,19 +1,18 @@
----
-date: "2016-10-30T11:57:00+00:00"
-discipline: Pianist
-lastmod: "2016-10-30T11:57:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477828524472/2016-10-29---Julius-Drake---Marco_Borggreve.jpg.jpg
-primary_image_credit: Marco Borggreve
-publishDate: "2016-10-30T11:57:00+00:00"
-slug: julius-drake
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/juliusdrake
-title: Julius Drake
-website: http://juliusdrake.com/
----
++++
+date = "2016-10-30T11:57:00+00:00"
+discipline = "Pianist"
+lastmod = "2016-10-30T11:57:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477828524472/2016-10-29---Julius-Drake---Marco_Borggreve.jpg.jpg"
+primary_image_credit = "Marco Borggreve"
+publishDate = "2016-10-30T11:57:00+00:00"
+slug = "julius-drake"
+title = "Julius Drake"
+website = "http://juliusdrake.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/juliusdrake"
++++
 
 The pianist Julius Drake lives in London and enjoys an international reputation as one of the finest instrumentalists in his field, collaborating with many of the world’s leading artists, both in recital and on disc.
 

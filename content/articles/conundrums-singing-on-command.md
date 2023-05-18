@@ -1,22 +1,15 @@
----
-author:
-- authors/sara-schabas.md
-categories: Op-ed
-date: "2017-03-13T13:59:00+00:00"
-lastmod: "2017-03-14T13:18:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489414157549/2017-03-13---Birds.jpg.jpg
-publishDate: "2017-03-14T13:13:00+00:00"
-related_articles:
-- articles/on-the-ego.md
-- articles/the-business-of-passion.md
-short_description: I&#039;ve heard countless responses to this request, from the benign,
-  &quot;I&#039;m not warmed up,&quot; to the passive-aggressive, &quot;Will you perform
-  your job for me afterwards, then?&quot; to the downright aggressive, &quot;I&#039;m
-  not a performing monkey,&quot; and have admittedly offered a few of my own responses
-  when I haven’t been in the mood to sing.
-slug: conundrums-singing-on-command
-title: 'Conundrums: singing on command'
----
++++
+author = ["authors/sara-schabas.md"]
+categories = "Op-ed"
+date = "2017-03-13T13:59:00+00:00"
+lastmod = "2017-03-14T13:18:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489414157549/2017-03-13---Birds.jpg.jpg"
+publishDate = "2017-03-14T13:13:00+00:00"
+related_articles = ["articles/on-the-ego.md","articles/the-business-of-passion.md"]
+short_description = "I&#039;ve heard countless responses to this request, from the benign, &quot;I&#039;m not warmed up,&quot; to the passive-aggressive, &quot;Will you perform your job for me afterwards, then?&quot; to the downright aggressive, &quot;I&#039;m not a performing monkey,&quot; and have admittedly offered a few of my own responses when I haven’t been in the mood to sing."
+slug = "conundrums-singing-on-command"
+title = "Conundrums: singing on command"
++++
 
 There are few words more unnerving to an opera singer than, "You're an opera singer?? Will you sing something??"
 

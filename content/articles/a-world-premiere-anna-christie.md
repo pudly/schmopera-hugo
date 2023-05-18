@@ -1,23 +1,16 @@
----
-author:
-- authors/loren-lester.md
-categories: Review
-date: "2018-10-13T14:04:00-04:00"
-lastmod: "2018-10-14T22:08:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539453362938/sq20181003-DSC04731.jpg.jpg
-primary_image_credit: 'Anna Christie (Melanie Long) in Anna Christie, Encompass New
-  Opera Theatre, 2018. Photo: Steven Pisano.'
-publishDate: "2018-10-13T15:53:00-04:00"
-related_articles:
-- articles/veggies-in-the-morning-and-melodies-throughout-the-day.md
-short_description: Director Nancy Rhodes describes it as &quot;crossover&quot; but
-  it might be more appropriate to call it &quot;criss-cross over&quot;; the music
-  never stops and the singers mostly sing, but sometimes halt to utter a comment,
-  exclamation, or quick exchange of dialogue. The combination always feels just right,
-  as the emotions and/or whimsy of the characters rise and fall.
-slug: a-world-premiere-anna-christie
-title: 'A world premiere: Anna Christie'
----
++++
+author = ["authors/loren-lester.md"]
+categories = "Review"
+date = "2018-10-13T14:04:00-04:00"
+lastmod = "2018-10-14T22:08:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539453362938/sq20181003-DSC04731.jpg.jpg"
+primary_image_credit = "Anna Christie (Melanie Long) in Anna Christie, Encompass New Opera Theatre, 2018. Photo: Steven Pisano."
+publishDate = "2018-10-13T15:53:00-04:00"
+related_articles = ["articles/veggies-in-the-morning-and-melodies-throughout-the-day.md"]
+short_description = "Director Nancy Rhodes describes it as &quot;crossover&quot; but it might be more appropriate to call it &quot;criss-cross over&quot;; the music never stops and the singers mostly sing, but sometimes halt to utter a comment, exclamation, or quick exchange of dialogue. The combination always feels just right, as the emotions and/or whimsy of the characters rise and fall."
+slug = "a-world-premiere-anna-christie"
+title = "A world premiere: Anna Christie"
++++
 
 *Anna Christie*, presented by the Encompass New Opera Theatre does not, in fact, add anything to the world of what we know as opera. The world premiere of *Anna Christie* (an adaptation of Eugene O'Neill's famous play by the same name) is something special, though - a genre-defying combo of drama and music that doesn't fit into any established category (i.e., "a play with music"). Director Nancy Rhodes describes it as "crossover" but it might be more appropriate to call it "criss-cross over"; the music never stops and the singers mostly sing, but sometimes halt to utter a comment, exclamation, or quick exchange of dialogue. The combination always feels just right, as the emotions and/or whimsy of the characters rise and fall.
 
@@ -25,7 +18,7 @@ Making the evening more unusual is the fact that this *Anna Christie* is the cre
 
 Mr. Thomas, who has composed everything from "Concerto for Clarinet and Orchestra" to album cuts for great voices like Julie Andrews, shows here that he knows and loves the theatre. He has written a handful of other pieces for the stage, including a musical about Mata Hari (with lyrics by Martin Charnin). *Anna Christie* is his third collaboration with Mr. Masteroff, including another adaptation of an O'Neill play (*Desire Under the Elms*).
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539453653211/20181003-DSC04290.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539453653211/20181003-DSC04290.jpg.jpg)
 <figcaption>Marthy Owen (Joy Hermalyn) and Chris Christopherson (Frank Basille); background is Larry the Bartender (Mike Piazza) in *Anna Christie*, Encompass New Opera Theatre, 2018. Photo: Steven Pisano.</figcaption>
 </figure>
 
@@ -35,7 +28,7 @@ There are only a few brief duets and arias – the majority of the piece can onl
 
 The movie version of *Anna Christie* is perhaps even more famous than the play. Starring Greta Garbo in her first post-silent film ("Garbo Talks!" screamed the posters), it contains one of film's most memorable lines: "Give me a whiskey. Ginger ale on the side. And don't be stingy, baby."  The play, film and this operatic version, all have the same plot. Set in 1919 at a New York City waterfront, it's the story of Anna (played here by soprano Melanie Long) who is described as "all in" – she's broke, homeless, exhausted and barely on the other side of  a life-threatening illness. With no one in her life and nowhere to go, she decides to visit Chris Christopherson (bass Frank Basile), the father she’s never met. She's hoping he'll let her stay so that she can "sit down and not move" for a while. He lives in an area teaming with sailors, however, and shipwrecked Mat Burke (baritone Jonathan Estabrooks) proves to be an inevitable source of passion and trouble that will give Anna no rest.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539453661027/20181003-DSC06881.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539453661027/20181003-DSC06881.jpg.jpg)
 <figcaption>Chris Christopherson (Frank Basile), Anna Christie (Melanie Long) and Mat Burke (Jonathan Estabrooks) in *Anna Christie*, Encompass New Opera Theatre, 2018. Photo: Steven Pisano.</figcaption>
 </figure>
 
@@ -51,7 +44,7 @@ Mr. Thomas has given the title character the best musical moments. In the first 
 
 As Mat, Jonathan Estabrooks has vocal power, but is not quite there with some of the notes that tiptoe into the tenor range. Overall he's a bit overboard (pun intended), and has made the physical choice to be what one can only describe as "herky-jerky." Ultimately, though, he manages to be sympathetic, capturing the essence of the character, who is described as a man who is "just a kid."
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539453668454/20181003-DSC05277.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539453668454/20181003-DSC05277.jpg.jpg)
 <figcaption>Mat Burke (Jonathan Estabrooks) and Anna Christie (Melanie Long) in *Anna Christie*, Encompass New Opera Theatre, 2018. Photo: Steven Pisano.</figcaption>
 </figure>
 

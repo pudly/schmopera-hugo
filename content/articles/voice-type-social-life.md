@@ -1,22 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-11-26T11:12:00-05:00"
-lastmod: "2017-11-26T18:11:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511712139519/2017-11-25---Types.jpg.jpg
-publishDate: "2017-11-26T17:59:00-05:00"
-related_articles:
-- articles/singers-its-time-to-expand-your-dating-pool.md
-- articles/the-opera-posse-phenomenon.md
-short_description: 'It&#039;s something to ponder: have the great composers of history
-  inadvertently laid out a predetermined social life for generations of operatic artists?
-  Have they added to the stereotype of rival divas by keeping them isolated to their
-  own operas? Have they given credulity to the inevitable cross-disciplinary romances
-  between soprano and baritone, between répétiteur and tenor?'
-slug: voice-type-social-life
-title: How your voice type determines your on-the-job social life
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-11-26T11:12:00-05:00"
+lastmod = "2017-11-26T18:11:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511712139519/2017-11-25---Types.jpg.jpg"
+publishDate = "2017-11-26T17:59:00-05:00"
+related_articles = ["articles/singers-its-time-to-expand-your-dating-pool.md","articles/the-opera-posse-phenomenon.md"]
+short_description = "It&#039;s something to ponder: have the great composers of history inadvertently laid out a predetermined social life for generations of operatic artists? Have they added to the stereotype of rival divas by keeping them isolated to their own operas? Have they given credulity to the inevitable cross-disciplinary romances between soprano and baritone, between répétiteur and tenor?"
+slug = "voice-type-social-life"
+title = "How your voice type determines your on-the-job social life"
++++
 
 The opera world is one where socializing is done in fits and starts. For a few weeks at a time, a group of artists is thrown together into a hectic routine of rehearsal and post-rehearsal festivities. The tightly-knit network is full of people separated by just one or two degrees; if two artists don't already know each other, they surely have at least a handful of friends in common (and Facebook makes it even weirder). Each bit of contract work – be it a fully staged production, a concert gig, a workshop of sorts – comes with a temporary social circle.
 

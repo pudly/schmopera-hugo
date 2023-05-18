@@ -1,30 +1,18 @@
----
-author:
-- authors/paul-e-kwak-md.md
-categories: Op-Ed
-date: "2017-07-05T13:36:00-06:00"
-lastmod: "2017-07-05T21:17:00-06:00"
-preamble: 'This is a guest contribution by [Paul E. Kwak, MD](http://nyulangone.org/doctors/1184937914/paul-e-kwak),
-  laryngologist and laryngeal surgeon at the NYU Voice Center, and Assistant Professor
-  in the NYU Department of Otolaryngology - Head and Neck Surgery. '
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499289496191/2017-07-05---Adele.jpg.jpg
-primary_image_credit: 'Photo: Kevork Djansezian/Getty Images'
-publishDate: "2017-07-05T21:12:00-06:00"
-related_articles:
-- articles/10-pop-singers-with-pipes.md
-- articles/hot-topics-singers-who-scoop.md
-- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
-- articles/talking-with-voice-docs-dr-paul-e-kwak.md
-- articles/using-your-voice-again-a-plan-of-action.md
-- articles/greg-jennas-roundup2017.md
-short_description: We can do better. We can espouse and proclaim the value of vocal
-  health, technique, and efficiency, while recognizing with great respect and awe
-  the beauty in non-traditional voices, and overcoming the professional and territorial
-  myopia that threatens to rob us of our innate desire to hear the gift of a great
-  voice raised in song.
-slug: stop-shaming-adele
-title: Stop shaming Adele
----
++++
+author = ["authors/paul-e-kwak-md.md"]
+categories = "Op-Ed"
+date = "2017-07-05T13:36:00-06:00"
+lastmod = "2017-07-05T21:17:00-06:00"
+preamble = "This is a guest contribution by [Paul E. Kwak, MD](http://nyulangone.org/doctors/1184937914/paul-e-kwak), laryngologist and laryngeal surgeon at the NYU Voice Center, and Assistant Professor in the NYU Department of Otolaryngology - Head and Neck Surgery. "
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499289496191/2017-07-05---Adele.jpg.jpg"
+primary_image_credit = "Photo: Kevork Djansezian/Getty Images"
+publishDate = "2017-07-05T21:12:00-06:00"
+related_articles = ["articles/10-pop-singers-with-pipes.md", "articles/hot-topics-singers-who-scoop.md", "articles/audition-season-or-the-annual-festival-of-shattered-dreams.md", "articles/talking-with-voice-docs-dr-paul-e-kwak.md", "articles/using-your-voice-again-a-plan-of-action.md", "articles/greg-jennas-roundup2017.md"]
+short_description = "We can do better. We can espouse and proclaim the value of vocal health, technique, and efficiency, while recognizing with great respect and awe the beauty in non-traditional voices, and overcoming the professional and territorial myopia that threatens to rob us of our innate desire to hear the gift of a great voice raised in song."
+slug = "stop-shaming-adele"
+title = "Stop shaming Adele"
+
++++
 Long after she is gone, Adele's greatest legacy will unquestionably be her music.
 
 Even if she were indeed to stop touring imminently, as she has hinted she might, she will have given us a unique music of yearning, loss, grief, hope, and love; our ears may never again hear a voice that so achingly embodies heartbreak. This is a substantial legacy, for which we should be grateful. In recent days, however, some of us have watched the reactions to her performance cancellations, and hope unexpectedly that her second-most important legacy will be the way that she, her music, and her voice, have stimulated us to think more carefully about singing, vocal health, and injury.

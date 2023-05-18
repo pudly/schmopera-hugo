@@ -1,30 +1,31 @@
----
-address: P.O. Box 180120, Chicago, IL 60618
-email: info@cot.org
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1605575770/media/2020/11/Logo-COT_sjhqap.jpg
-primary_image_credit: ""
-related_people:
-- scene/people/will-liverman.md
-- scene/people/lidiya-yankovskaya.md
-slug: chicago-opera-theater
-social_media:
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/chicagooperatheater/
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/ChicagoOperaTheater/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/chicagoopera
-- _template: company_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/CHICAGOOPERATHEATER
-title: Chicago Opera Theater
-type_of_company: Opera Company
-website: https://chicagooperatheater.org/
----
++++
+address = "P.O. Box 180120, Chicago, IL 60618"
+email = "info@cot.org"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1605575770/media/2020/11/Logo-COT_sjhqap.jpg"
+primary_image_credit = ""
+related_people = ["scene/people/will-liverman.md", "scene/people/lidiya-yankovskaya.md"]
+slug = "chicago-opera-theater"
+title = "Chicago Opera Theater"
+type_of_company = "Opera Company"
+website = "https://chicagooperatheater.org/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/chicagooperatheater/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/ChicagoOperaTheater/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/chicagoopera"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/CHICAGOOPERATHEATER"
+
++++
 Chicago Opera Theater is a company laser-focused on living its values: 
 
 • expanding the tradition of opera as a living art form

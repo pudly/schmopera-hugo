@@ -1,27 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2014-01-17T13:23:00-05:00"
-lastmod: "2015-04-15T17:19:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429132631521/finalists-and-winners-with-rufus-wainwright-credit-michael-cooper.jpg.jpg
-primary_image_credit: 'Finalists of the 2013 Ensemble Studio Competition. Photo: Michael
-  Cooper'
-publishDate: "2014-01-17T13:23:00-05:00"
-related_companies:
-- scene/companies/canadian-opera-company-ensemble-studio.md
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/jeanphilippe-fortierlazure.md
-short_description: Yesterday in the Richard Bradshaw Amphitheatre, the Canadian Opera
-  Company&#039;s Ensemble Studio kicked off the new season of the Free Concert Series.
-  This year there are three new singers and one new pianist in the Ensemble. I&#039;ll
-  admit the concert wasn&#039;t my first encounter with the COC young artists; I&#039;ve
-  had the opportunity to see them at work in recent weeks, but I was no less excited
-  to hear them all sing their &quot;introductory&quot; arias.
-slug: newbies-welcome-to-the-coc-ensemble-studio
-title: 'Newbies: Welcome to the COC Ensemble Studio!'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2014-01-17T13:23:00-05:00"
+lastmod = "2015-04-15T17:19:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429132631521/finalists-and-winners-with-rufus-wainwright-credit-michael-cooper.jpg.jpg"
+primary_image_credit = "Finalists of the 2013 Ensemble Studio Competition. Photo: Michael Cooper"
+publishDate = "2014-01-17T13:23:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/jeanphilippe-fortierlazure.md"]
+short_description = "Yesterday in the Richard Bradshaw Amphitheatre, the Canadian Opera Company&#039;s Ensemble Studio kicked off the new season of the Free Concert Series. This year there are three new singers and one new pianist in the Ensemble. I&#039;ll admit the concert wasn&#039;t my first encounter with the COC young artists; I&#039;ve had the opportunity to see them at work in recent weeks, but I was no less excited to hear them all sing their &quot;introductory&quot; arias."
+slug = "newbies-welcome-to-the-coc-ensemble-studio"
+title = "Newbies: Welcome to the COC Ensemble Studio!"
++++
 
 The Canadian Opera Company has announced the names of three young singers and one pianist who will join the Ensemble Studio in the 2014/15 season. Soprano Karine Boucher, tenor Jean-Philippe Fortier-Lazure and bass-baritone Iain MacNeil were selected out of nine finalists who competed in the third annual Ensemble Studio Competition in November 2013\. Karine, Jean-Philippe and Iain were the top three prize winners at the competition, the feature event of _[Centre Stage](http://http://www.coc.ca/SupportTheCOC/SpecialEvents/CentreStage.aspx)_, the COC's first Ensemble Studio Competition Gala. In addition to these talented new young artists, the Ensemble Studio welcomes pianist Jennifer Szeto.
 The Ensemble Studio is Canada's most illustrious program for young singers and pianists, offering experience through performance and understudying of mainstage roles, language and acting studies, and coaching with the best people in the industry. Members of the Ensemble Studio are involved in the COC's annual Glencore Ensemble Studio School Tour, which brings opera to young people across Ontario. At the COC's [Free Concert Series in the Richard Bradshaw Amphitheatre](http://www.coc.ca/performancesandtickets/freeconcertseries.aspx) (an incredibly diverse series not to be missed) you can hear these young singers and pianists in recital.

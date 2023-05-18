@@ -1,15 +1,14 @@
----
-_template: people_single
-date: "2015-09-23T04:15:00+01:00"
-discipline: Baritone
-lastmod: "2016-08-26T13:03:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472212990331/2016-08-27---Christopher-Purves---HS---Chis-Gloag.jpg.jpg
-primary_image_credit: Chris Gloag.
-publishDate: "2015-09-23T04:15:00+01:00"
-slug: christopher-purves
-title: Christopher Purves
-website: http://christopherpurves.com/
----
++++
+date = "2015-09-23T04:15:00+01:00"
+discipline = "Baritone"
+lastmod = "2016-08-26T13:03:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472212990331/2016-08-27---Christopher-Purves---HS---Chis-Gloag.jpg.jpg"
+primary_image_credit = "Chris Gloag."
+publishDate = "2015-09-23T04:15:00+01:00"
+slug = "christopher-purves"
+title = "Christopher Purves"
+website = "http://christopherpurves.com/"
++++
 
 Christopher Purves has received much praise for his acclaimed interpretations of a diverse and eclectic range of roles and repertoire. A choral scholar at King’s College, Cambridge, Purves went on to become a member of experimental rock group Harvey and the Wallbangers. He has since developed a highly successful career on both the operatic and concert stages, in great demand with leading opera houses and orchestras around the world.
 

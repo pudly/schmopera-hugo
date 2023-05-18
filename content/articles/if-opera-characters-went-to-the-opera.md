@@ -1,30 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2015-01-13T15:11:00-05:00"
-lastmod: "2015-04-11T23:25:00-04:00"
-preamble: "<p>\n\tIt's time for some beautifully nerdy, utterly hypothetical, and
-  completely meta musings. Sure, the next few paragraphs won't really contain any
-  practically useful information, but it's hard to stop me once I've gotten on the
-  character-deconstruction-train that is dramaturgy. It's my favourite pastime, and
-  now I'm sharing it with you. I present to you all the following hypothetical: if
-  opera characters went to the opera, what would they see?\n</p>"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428809092420/wether_and_lotta_by_llicameta-d31hmif.jpg.jpg
-publishDate: "2015-01-13T15:11:00-05:00"
-related_articles:
-- articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md
-- articles/5-times-handel-got-weird.md
-short_description: 'It’s time for some beautifully nerdy, utterly hypothetical, and
-  completely meta musings. Sure, the next few paragraphs won’t really contain any
-  practically useful information, but it’s hard to stop me once I’ve gotten on the
-  character-deconstruction-train that is dramaturgy. It’s my favourite pastime, and
-  now I’m sharing it with you. I present to you all the following hypothetical: if
-  opera characters went to the opera, what would they see? Photo: Werther after a
-  really bad night at the opera.'
-slug: if-opera-characters-went-to-the-opera
-title: If opera characters went to the opera
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2015-01-13T15:11:00-05:00"
+lastmod = "2015-04-11T23:25:00-04:00"
+preamble = "<p>\n\tIt's time for some beautifully nerdy, utterly hypothetical, and completely meta musings. Sure, the next few paragraphs won't really contain any practically useful information, but it's hard to stop me once I've gotten on the character-deconstruction-train that is dramaturgy. It's my favourite pastime, and now I'm sharing it with you. I present to you all the following hypothetical: if opera characters went to the opera, what would they see?\n</p>"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428809092420/wether_and_lotta_by_llicameta-d31hmif.jpg.jpg"
+publishDate = "2015-01-13T15:11:00-05:00"
+related_articles = ["articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md","articles/5-times-handel-got-weird.md"]
+short_description = "It’s time for some beautifully nerdy, utterly hypothetical, and completely meta musings. Sure, the next few paragraphs won’t really contain any practically useful information, but it’s hard to stop me once I’ve gotten on the character-deconstruction-train that is dramaturgy. It’s my favourite pastime, and now I’m sharing it with you. I present to you all the following hypothetical: if opera characters went to the opera, what would they see? Photo: Werther after a really bad night at the opera."
+slug = "if-opera-characters-went-to-the-opera"
+title = "If opera characters went to the opera"
++++
 
 <h3>1. Manon<br>
 </h3>

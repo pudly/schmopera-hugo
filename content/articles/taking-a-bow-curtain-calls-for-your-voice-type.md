@@ -1,32 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2016-06-01T21:02:00+01:00"
-lastmod: "2017-02-09T10:44:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464816055454/2016-06-02---Clash-Curtain-Call.jpg.jpg
-publishDate: "2016-06-01T22:31:00+01:00"
-related_articles:
-- articles/fachmecom-a-new-fun-game.md
-- articles/fachisms-stereotypes-for-a-reason.md
-- articles/hidden-secrets-of-the-soubrette.md
-- articles/5-ways-to-make-watching-an-opera-at-home-even-more-fun.md
-- articles/hypothetical-operas-the-2016-presidential-election.md
-- articles/trousers-on-tv-4-animated-pants-roles.md
-- articles/the-coughing-phenomenon.md
-- articles/ways-to-procrastinate-the-plotgenerated-opera.md
-- articles/unpopular-opinions-when-bravo-kills-the-mood.md
-- articles/grigolo-rogue-teacher.md
-- articles/would-you-rather-prove-me-wrong.md
-short_description: 'Bosom first, she glides across the stage like Morticia from The
-  Addams Family. At centre stage, one hand presses in between her breasts, the other
-  gracefully clutching at her skirts in preparation. One foot invisibly steps upstage
-  under metres of fabric, and the leading lady descends into a curtsy so deep it could
-  convince you that she&#039;s actually only a bust, perched upon a hydraulic office
-  chair hidden beneath her tulle. '
-slug: taking-a-bow-curtain-calls-for-your-voice-type
-title: 'Taking a bow: curtain calls for your voice type'
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2016-06-01T21:02:00+01:00"
+lastmod = "2017-02-09T10:44:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464816055454/2016-06-02---Clash-Curtain-Call.jpg.jpg"
+publishDate = "2016-06-01T22:31:00+01:00"
+related_articles = ["articles/fachmecom-a-new-fun-game.md", "articles/fachisms-stereotypes-for-a-reason.md", "articles/hidden-secrets-of-the-soubrette.md", "articles/5-ways-to-make-watching-an-opera-at-home-even-more-fun.md", "articles/hypothetical-operas-the-2016-presidential-election.md", "articles/trousers-on-tv-4-animated-pants-roles.md", "articles/the-coughing-phenomenon.md", "articles/ways-to-procrastinate-the-plotgenerated-opera.md", "articles/unpopular-opinions-when-bravo-kills-the-mood.md", "articles/grigolo-rogue-teacher.md", "articles/would-you-rather-prove-me-wrong.md"]
+short_description = "Bosom first, she glides across the stage like Morticia from The Addams Family. At centre stage, one hand presses in between her breasts, the other gracefully clutching at her skirts in preparation. One foot invisibly steps upstage under metres of fabric, and the leading lady descends into a curtsy so deep it could convince you that she&#039;s actually only a bust, perched upon a hydraulic office chair hidden beneath her tulle. "
+slug = "taking-a-bow-curtain-calls-for-your-voice-type"
+title = "Taking a bow: curtain calls for your voice type"
+
++++
 There was a funny little [anecdotal post](https://www.reddit.com/r/opera/comments/4ln1zc/that_thing_basses_do_before_the_curtain/) on [r/opera](https://www.reddit.com/r/opera/) the other day, about the habits of basses during curtain calls.
 
 "I have noticed this in many performances, when the singers go out for bowing in a group, the bass tends to be last to leave and holds the curtain and/or claps others on the back as they're leaving. Is this some secret bass tradition or just coincidence? Because it happens a LOT."

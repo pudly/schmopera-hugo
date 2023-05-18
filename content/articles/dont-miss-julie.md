@@ -1,30 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2015-11-12T14:11:00-05:00"
-lastmod: "2015-11-16T15:44:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546052070/media/2018/12/JulieSquare-LuciaCervoniClarenceFrazerCyllaVonTiedemann.jpg
-primary_image_credit: 'Lucia Cervoni (Julie) and Clarence Frazer (Jean). Photo: Cylla
-  Von Tiedemann'
-publishDate: "2015-11-16T14:29:00-05:00"
-related_articles:
-- articles/in-review-julie.md
-related_companies:
-- scene/companies/soundstreams.md
-related_people:
-- scene/people/lucia-cervoni.md
-- scene/people/clarence-frazer.md
-- scene/people/sharleen-joynt.md
-- scene/people/leslie-dala.md
-short_description: Tomorrow night is the North American premiere of Julie, Philippe
-  Boesmans&#039; 2005 opera, presented by Soundstreams. The piece is based on the
-  Strindberg 1888 play, Miss Julie, which has one of those fantastic premiere stories
-  of scandal followed by success. I mean, in the 19th century, a story about a woman
-  who tried to &quot;train&quot; her fiancé with a whip is pretty darn honest.
-slug: dont-miss-julie
-title: 'Don&#039;t miss: Julie'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2015-11-12T14:11:00-05:00"
+lastmod = "2015-11-16T15:44:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546052070/media/2018/12/JulieSquare-LuciaCervoniClarenceFrazerCyllaVonTiedemann.jpg"
+primary_image_credit = "Lucia Cervoni (Julie) and Clarence Frazer (Jean). Photo: Cylla Von Tiedemann"
+publishDate = "2015-11-16T14:29:00-05:00"
+related_articles = ["articles/in-review-julie.md"]
+related_companies = ["scene/companies/soundstreams.md"]
+related_people = ["scene/people/lucia-cervoni.md", "scene/people/clarence-frazer.md", "scene/people/sharleen-joynt.md", "scene/people/leslie-dala.md"]
+short_description = "Tomorrow night is the North American premiere of Julie, Philippe Boesmans&#039; 2005 opera, presented by Soundstreams. The piece is based on the Strindberg 1888 play, Miss Julie, which has one of those fantastic premiere stories of scandal followed by success. I mean, in the 19th century, a story about a woman who tried to &quot;train&quot; her fiancé with a whip is pretty darn honest."
+slug = "dont-miss-julie"
+title = "Don&#039;t miss: Julie"
+
++++
 Tomorrow night is the North American premiere of *Julie*, Philippe Boesmans' 2005 opera, presented by [Soundstreams](/scene/companies/soundstreams/) and [Canadian Stage](https://www.canadianstage.com/Online/). The piece is based on the Strindberg 1888 play, *Miss Julie*, which has one of those fantastic premiere stories of scandal followed by success. In the 19th century, a story about a woman who tried to "train" her fiancé with a whip is pretty darn honest. "I begged them to keep that scene in [the opera]!" jokes mezzo-soprano [Lucia Cervoni](/scene/people/lucia-cervoni/), who sings the title role in *Julie*, starting November 17th.
 
 Matthew Jocelyn directs this production of *Julie*, a one-act chamber opera that tells a slightly condensed version of Strindberg's story, with a libretto by Luc Bondy and Marie-Louise Bischofberger. The opera begins shortly after Julie's fiancé has left her, and she soon sets her eyes on Jean, her father's valet. Despite his being engaged to Christine, Julie's cook, Julie tries to seduce Jean, and they plan to run away together and open up a hotel. Plans, as they often do in theatre, fall through. "[Julie]'s a very emotional woman," says Cervoni, "and her emotions change very quickly. You can hear that in the music, too."

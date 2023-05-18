@@ -1,26 +1,17 @@
----
-date: "2017-09-13T10:13:00-04:00"
-discipline: Conductor
-lastmod: "2017-09-13T10:13:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505311668587/Julia_Jones_5.jpg.jpg
-publishDate: "2017-09-13T10:13:00-04:00"
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/welsh-national-opera.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/seattle-opera.md
-- scene/companies/oper-frankfurt.md
-- scene/companies/washington-national-opera.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/salzburg-festival.md
-slug: julia-jones
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: ""
-title: Julia Jones
----
++++
+date = "2017-09-13T10:13:00-04:00"
+discipline = "Conductor"
+lastmod = "2017-09-13T10:13:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505311668587/Julia_Jones_5.jpg.jpg"
+publishDate = "2017-09-13T10:13:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/welsh-national-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/seattle-opera.md","scene/companies/oper-frankfurt.md","scene/companies/washington-national-opera.md","scene/companies/canadian-opera-company.md","scene/companies/salzburg-festival.md"]
+slug = "julia-jones"
+title = "Julia Jones"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = ""
++++
 
 "Julia Jones's attention to the emotional detail of Verdi's score achieved a searing intensity."  -*The Guardian* 
 

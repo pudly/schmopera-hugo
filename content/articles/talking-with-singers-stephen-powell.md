@@ -1,34 +1,22 @@
----
-author:
-- authors/eva-cahen.md
-categories: Interview
-date: "2019-01-30T00:48:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: San Diego Opera's production of _Rigoletto_ runs February 2-10. For details,
-  [click here](https://www.sdopera.org/season/2018-2019-season/rigoletto).
-preamble: American baritone Stephen Powell is singing the title role in _Rigoletto_
-  at the San Diego Opera on February 2, 5, 8, and 10. The production is directed by
-  Michael Cavanagh and the conductor is Steven White. Alisa Jordheim is Gilda and
-  Scott Quinn is the Duke of Mantua.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548813295/media/2019/01/sqSDORigolettoPowell.jpg
-primary_image_credit: San Diego Opera presents Verdi's masterpiece, Rigoletto, February
-  2-10, 2019, starring Stephen Powell (pictured) in the title role. Photo by Cory
-  Weaver for The Portland Opera.
-related_articles:
-- articles/talking-with-singers-matthew-polenzani.md
-- articles/talking-with-singers-morris-robinson.md
-related_companies:
-- scene/companies/san-diego-opera.md
-related_people:
-- scene/people/stephen-powell.md
-short_description: I wanted to be Billy Joel when I was growing up because he was
-  a classically trained pianist too. He wrote his own music, sang his own stuff, arranged
-  his own music, his songs, and told a story.
-slug: talking-with-singers-stephen-powell
-title: 'Talking with singers: Stephen Powell'
-youtube_url: ""
----
++++
+author = ["authors/eva-cahen.md"]
+categories = "Interview"
+date = "2019-01-30T00:48:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = "San Diego Opera's production of _Rigoletto_ runs February 2-10. For details, [click here](https://www.sdopera.org/season/2018-2019-season/rigoletto)."
+preamble = "American baritone Stephen Powell is singing the title role in _Rigoletto_ at the San Diego Opera on February 2, 5, 8, and 10. The production is directed by Michael Cavanagh and the conductor is Steven White. Alisa Jordheim is Gilda and Scott Quinn is the Duke of Mantua."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548813295/media/2019/01/sqSDORigolettoPowell.jpg"
+primary_image_credit = "San Diego Opera presents Verdi's masterpiece, Rigoletto, February 2-10, 2019, starring Stephen Powell (pictured) in the title role. Photo by Cory Weaver for The Portland Opera."
+related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/talking-with-singers-morris-robinson.md"]
+related_companies = ["scene/companies/san-diego-opera.md"]
+related_people = ["scene/people/stephen-powell.md"]
+short_description = "I wanted to be Billy Joel when I was growing up because he was a classically trained pianist too. He wrote his own music, sang his own stuff, arranged his own music, his songs, and told a story."
+slug = "talking-with-singers-stephen-powell"
+title = "Talking with singers: Stephen Powell"
+youtube_url = ""
+
++++
 **Why do you sing?**
 
 The human voice is, without disrespect to other instruments, the most immediate and visceral. As human beings, we all have a voice and we all have the same bodies. Even people who are not musicians or have no musical knowledge can relate to that. You can witness it in how people follow music in everyday life, whether it's classical, rock, pop or jazz. The things we talk about most are the voices and the singers, or bands, like the Beatles. In opera it's really about the voice.
@@ -39,9 +27,7 @@ Voice is a challenge because of how difficult it is and how much time it takes t
 
 I wanted to be Billy Joel when I was growing up because he was a classically trained pianist too. He wrote his own music, sang his own stuff, arranged his own music, his songs, and told a story. The voice was more important than the music. From a young age, I was fascinated and drawn to the human voice. That's why I sing.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1548812993/media/2019/01/StephenPowell.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548812993/media/2019/01/StephenPowell.jpg){{% /md %}}
 
 <figcaption>Stephen Powell, baritone.</figcaption>
 
@@ -71,9 +57,7 @@ A Verdi baritone is a specific type of baritone that you grow into as you mature
 
 About a year ago, I jumped in to do the Count in _Marriage of Figaro_. I hadn't done Mozart in probably 10 years. It was interesting and very helpful vocally to realize that I could still do Mozart healthily and well, and that singing Verdi hadn't made my technique go off the rails. If you don't sing it correctly, you compensate with other parts of your body and it can damage your voice. I was happy to know that I could still do the Count, which was a lot of fun.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1548813427/media/2019/01/SDOTraviataPowellWinters.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548813427/media/2019/01/SDOTraviataPowellWinters.jpg){{% /md %}}
 
 <figcaption>Stephen Powell (Germont) and Corinne Winters (Violetta) in La traviata, San Diego Opera, 2017.</figcaption>
 
@@ -97,9 +81,7 @@ As an opera singer, to have approached it systematically and slowly as I did, sl
 
 With languages, Italian is of course the greatest, but I love singing in all of them. They each have their own unique way of conveying ideas and feelings and emotions. Russian is a great language for singing. It feels really good in the mouth. It rolls off the tongue. Like Italian, it has great vowels for singing and lends itself to that. But German has all the plosives like _ich_ and _ach_, that are less vowel-oriented and more consonant. It’s a challenge in and of itself and also lends itself to another kind of expression. French is a challenge because of the closed vowels, a lot of the _u_ and _i_ sounds don't lend themselves to an open throat and operatic singing. It's challenging to convey the language purely, but in a vocally healthy way, and to express the nature of French poetry and music in the styles that are required for each.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1548813570/media/2019/01/SDOButterflyStephenPowell.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548813570/media/2019/01/SDOButterflyStephenPowell.jpg){{% /md %}}
 
 <figcaption>Stephen Powell (foreground) as Sharpless in Madama Butterfly, San Diego Opera, 2003.</figcaption>
 

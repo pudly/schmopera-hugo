@@ -1,41 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2016-05-14T21:36:00+01:00"
-lastmod: "2016-05-15T10:12:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463258039676/2016-05-15---Banff.jpg.jpg
-publishDate: "2016-05-15T09:00:00+01:00"
-related_articles:
-- articles/banff-diaries-a-postlude.md
-- articles/canadians-abroad-the-quarterly-report.md
-- articles/banff-diaries-the-midway-report.md
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/the-banff-centre.md
-related_people:
-- scene/people/emma-char.md
-- scene/people/chelsea-rus.md
-- scene/people/joel-ivany.md
-- scene/people/christopher-mokrzewski.md
-- scene/people/owen-mccausland.md
-- scene/people/iain-macneil.md
-- scene/people/caitlin-wood.md
-- scene/people/ellen-mcateer.md
-- scene/people/adanya-dunn.md
-- scene/people/anna-theodosakis.md
-- scene/people/russell-braun.md
-- scene/people/adrianne-pieczonka.md
-short_description: Like we&#039;ve done in previous summers, we&#039;ll keep up our
-  coverage of the operatic goings on across the globe, and we&#039;ll also be able
-  to keep you in the loop with the artists of this year&#039;s Open Space programme.
-  We also hope to get to the faculty a bit better, which this year includes baritone
-  Russell Braun and soprano Adrianne Pieczonka, and the Canadian Opera Company&#039;s
-  General Director, Alexander Neef.
-slug: banffbound-2016
-title: Banff-bound, 2016
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2016-05-14T21:36:00+01:00"
+lastmod = "2016-05-15T10:12:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463258039676/2016-05-15---Banff.jpg.jpg"
+publishDate = "2016-05-15T09:00:00+01:00"
+related_articles = ["articles/banff-diaries-a-postlude.md","articles/canadians-abroad-the-quarterly-report.md","articles/banff-diaries-the-midway-report.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/the-banff-centre.md"]
+related_people = ["scene/people/emma-char.md","scene/people/chelsea-rus.md","scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md","scene/people/owen-mccausland.md","scene/people/iain-macneil.md","scene/people/caitlin-wood.md","scene/people/ellen-mcateer.md","scene/people/adanya-dunn.md","scene/people/anna-theodosakis.md","scene/people/russell-braun.md","scene/people/adrianne-pieczonka.md"]
+short_description = "Like we&#039;ve done in previous summers, we&#039;ll keep up our coverage of the operatic goings on across the globe, and we&#039;ll also be able to keep you in the loop with the artists of this year&#039;s Open Space programme. We also hope to get to the faculty a bit better, which this year includes baritone Russell Braun and soprano Adrianne Pieczonka, and the Canadian Opera Company&#039;s General Director, Alexander Neef."
+slug = "banffbound-2016"
+title = "Banff-bound, 2016"
++++
 
 It's that time of year again, readers. It's the season where Schmopera heads to the Canadian Rockies, to join [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) and the [Canadian Opera Company](/scene/companies/canadian-opera-company/) at the big, beautiful [Banff Centre](/scene/companies/the-banff-centre/) for its [Open Space: Opera in the 21st-Century Program](https://www.banffcentre.ca/announcing-2016-open-space-participants?utm_source=The+Banff+Centre&utm_campaign=55856bf7e4-Arts_Performing+Arts_Apr_2016_Newsletter&utm_medium=email&utm_term=0_ad4acfe1fe-55856bf7e4-).
 

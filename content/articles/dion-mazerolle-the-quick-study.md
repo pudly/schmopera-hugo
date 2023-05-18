@@ -1,36 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-02-03T13:19:00-05:00"
-lastmod: "2016-02-04T09:27:00-05:00"
-preamble: "Baritone [Dion Mazerolle](/scene/people/dion-mazerolle/) is getting ready
-  to sing the title role in Antonio Salieri's [*Falstaff*](http://www.operainconcert.com/Falstaff.html),
-  presented by [Voicebox: Opera in Concert](/scene/companies/voicebox-opera-in-concert/)
-  on **Sunday, February 7th at 2:30pm at the St. Lawrence Centre for the Arts**. Mazerolle's
-  Falstaff has been a lesson in quick study, having had less than a month to learn
-  the notoriously verbose role; it's a position in which many opera singers find themselves,
-  and it's no small feat to learn and find comfort in a leading role when the countdown
-  is on.\n\nDespite his busy month, Mazerolle found time to tell us about what it
-  takes to speed-learn an opera, and what audiences can expect from this lesser-known
-  telling of the tale of Sir John Falstaff by Salieri. \n\nFor full details and ticket
-  information, follow our box office links below."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454550624833/2016-02-03---Dion-Mazerolle.jpg.jpg
-primary_image_credit: 'Photo: Veronika Roux'
-publishDate: "2016-02-04T09:14:00-05:00"
-related_articles:
-- articles/in-review-isis-and-osiris.md
-related_companies:
-- scene/companies/voicebox-opera-in-concert.md
-related_people:
-- scene/people/dion-mazerolle.md
-short_description: Mazerolle&#039;s Falstaff has been a lesson in quick study, having
-  had less than a month to learn the notoriously verbose role; it&#039;s a position
-  in which many opera singers find themselves, and it&#039;s no small feat to learn
-  and find comfort in a leading role when the countdown is on.
-slug: dion-mazerolle-the-quick-study
-title: 'Dion Mazerolle: the quick study'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-02-03T13:19:00-05:00"
+lastmod = "2016-02-04T09:27:00-05:00"
+preamble = "Baritone [Dion Mazerolle](/scene/people/dion-mazerolle/) is getting ready to sing the title role in Antonio Salieri's [*Falstaff*](http://www.operainconcert.com/Falstaff.html), presented by [Voicebox: Opera in Concert](/scene/companies/voicebox-opera-in-concert/) on **Sunday, February 7th at 2:30pm at the St. Lawrence Centre for the Arts**. Mazerolle's Falstaff has been a lesson in quick study, having had less than a month to learn the notoriously verbose role; it's a position in which many opera singers find themselves, and it's no small feat to learn and find comfort in a leading role when the countdown is on.\n\nDespite his busy month, Mazerolle found time to tell us about what it takes to speed-learn an opera, and what audiences can expect from this lesser-known telling of the tale of Sir John Falstaff by Salieri. \n\nFor full details and ticket information, follow our box office links below."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454550624833/2016-02-03---Dion-Mazerolle.jpg.jpg"
+primary_image_credit = "Photo: Veronika Roux"
+publishDate = "2016-02-04T09:14:00-05:00"
+related_articles = ["articles/in-review-isis-and-osiris.md"]
+related_companies = ["scene/companies/voicebox-opera-in-concert.md"]
+related_people = ["scene/people/dion-mazerolle.md"]
+short_description = "Mazerolle&#039;s Falstaff has been a lesson in quick study, having had less than a month to learn the notoriously verbose role; it&#039;s a position in which many opera singers find themselves, and it&#039;s no small feat to learn and find comfort in a leading role when the countdown is on."
+slug = "dion-mazerolle-the-quick-study"
+title = "Dion Mazerolle: the quick study"
++++
 
 ## What did you take into consideration before taking this "quick study" gig?
 

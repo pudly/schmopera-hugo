@@ -1,21 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2016-10-26T12:09:00+01:00"
-lastmod: "2016-11-02T09:23:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478006820380/2016-11-01---Plot-Generator.jpg.jpg
-publishDate: "2016-11-02T09:23:00+00:00"
-related_articles:
-- articles/mildly-amusing-the-wiki-opera-game.md
-- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
-short_description: Readers, we&#039;ve discovered a new game. If you head over to
-  Plot Generator, you can fill in a form that creates your own short story (sort of
-  like Mad Libs). It&#039;s kind of fun on its own, but there&#039;s a nerdy twist
-  to it.
-slug: ways-to-procrastinate-the-plotgenerated-opera
-title: 'Ways to procrastinate: the plot-generated opera'
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2016-10-26T12:09:00+01:00"
+lastmod = "2016-11-02T09:23:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478006820380/2016-11-01---Plot-Generator.jpg.jpg"
+publishDate = "2016-11-02T09:23:00+00:00"
+related_articles = ["articles/mildly-amusing-the-wiki-opera-game.md","articles/taking-a-bow-curtain-calls-for-your-voice-type.md"]
+short_description = "Readers, we&#039;ve discovered a new game. If you head over to Plot Generator, you can fill in a form that creates your own short story (sort of like Mad Libs). It&#039;s kind of fun on its own, but there&#039;s a nerdy twist to it."
+slug = "ways-to-procrastinate-the-plotgenerated-opera"
+title = "Ways to procrastinate: the plot-generated opera"
++++
 
 Readers, we've discovered a new game.
 

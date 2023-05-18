@@ -1,26 +1,22 @@
----
-date: "2015-03-31T17:48:00-04:00"
-lastmod: "2015-10-31T14:29:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446316140532/Logo---NIO.jpg.jpg
-publishDate: "2015-03-31T17:48:00-04:00"
-related_people:
-- scene/people/sam-furness.md
-- scene/people/mark-le-brocq.md
-- scene/people/toby-spence.md
-- scene/people/paul-curievici.md
-slug: northern-ireland-opera
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/NorthernIrelandOpera?fref=ts
-- _template: company_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/niopera
-title: Northern Ireland Opera
-type_of_company: Opera Company
-website: http://www.niopera.com/
----
++++
+date = "2015-03-31T17:48:00-04:00"
+lastmod = "2015-10-31T14:29:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446316140532/Logo---NIO.jpg.jpg"
+publishDate = "2015-03-31T17:48:00-04:00"
+related_people = ["scene/people/sam-furness.md","scene/people/mark-le-brocq.md","scene/people/toby-spence.md","scene/people/paul-curievici.md"]
+slug = "northern-ireland-opera"
+title = "Northern Ireland Opera"
+type_of_company = "Opera Company"
+website = "http://www.niopera.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/NorthernIrelandOpera?fref=ts"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/niopera"
++++
 
 <p>
 	Northern Ireland Opera, based at Belfast's historic Grand Opera House, has a mission to provide the highest-quality opera to the widest possible audience. With a philosophy of excellence and risk-taking underpinned by an imaginative programming policy and first-rate casting, Northern Ireland Opera is committed to opera as a unique art form.

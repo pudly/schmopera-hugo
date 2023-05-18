@@ -1,20 +1,18 @@
----
-date: "2016-10-15T11:57:00+01:00"
-discipline: Soprano
-lastmod: "2016-10-15T11:57:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476528995038/2016-10-14---Christine-Buras.jpg.jpg
-publishDate: "2016-10-15T11:57:00+01:00"
-related_companies:
-- scene/companies/gestalt-arts.md
-slug: christine-buras
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/ChristineBuras
-title: Christine Buras
-website: http://www.christineburas.com/
----
++++
+date = "2016-10-15T11:57:00+01:00"
+discipline = "Soprano"
+lastmod = "2016-10-15T11:57:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476528995038/2016-10-14---Christine-Buras.jpg.jpg"
+publishDate = "2016-10-15T11:57:00+01:00"
+related_companies = ["scene/companies/gestalt-arts.md"]
+slug = "christine-buras"
+title = "Christine Buras"
+website = "http://www.christineburas.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/ChristineBuras"
++++
 
 American soprano Christine Buras is a versatile and experienced performer of a wide range of repertoire including early music, opera, art song, and new music.
 

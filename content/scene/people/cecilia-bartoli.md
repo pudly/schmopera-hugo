@@ -1,26 +1,19 @@
----
-date: "2015-05-25T21:33:00-04:00"
-discipline: Mezzo-soprano
-lastmod: "2015-05-25T21:33:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432603743944/Ceci.jpg.jpg
-primary_image_credit: Decca/Uli Weber
-publishDate: "2015-05-25T21:33:00-04:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/royal-opera-house.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/opernhaus-zurich.md
-slug: cecilia-bartoli
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/bartolicecilia
-title: Cecilia Bartoli
-website: http://ceciliabartolionline.com/
----
++++
+date = "2015-05-25T21:33:00-04:00"
+discipline = "Mezzo-soprano"
+lastmod = "2015-05-25T21:33:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432603743944/Ceci.jpg.jpg"
+primary_image_credit = "Decca/Uli Weber"
+publishDate = "2015-05-25T21:33:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/opernhaus-zurich.md"]
+slug = "cecilia-bartoli"
+title = "Cecilia Bartoli"
+website = "http://ceciliabartolionline.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/bartolicecilia"
++++
 
 For more than two decades, Cecilia Bartoli has indisputably been one of the leading artists in the field of classical music. Her new opera roles, concert programmes and recording projects – exclusively on Decca – are eagerly awaited all over the world. The enormous success of her solo releases such as *The Vivaldi Album, Italian Arias by Gluck, The Salieri Album, Opera proibita, Maria, Sacrificium* and *Mission* is reflected both in extraordinary sales which have firmly established her as today’s best-selling classical artist –  more than 10 million copies of audio and video releases occupying the international pop charts for well over 100 weeks and garnering numerous “gold” and “platinum” certifications – and in major awards: five Grammys® (USA), ten Echos and a Bambi (Germany), two Classical Brit Awards (UK), the Victoire de la Musique (France) as well as many other prestigious prizes.
 

@@ -1,33 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-09-15T12:59:00-04:00"
-lastmod: "2017-09-25T23:09:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494538889/2017-09-15---Square---osborne4.jpg.jpg
-primary_image_credit: 'Photo: Bo Huang.'
-publishDate: "2017-09-25T22:57:00-04:00"
-related_articles:
-- articles/spotlight-on-amanda-majeski.md
-- articles/talking-with-singers-jamie-barton.md
-- articles/talking-with-singers-brenda-rae.md
-- articles/james-robinson-elixir.md
-- articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-related_people:
-- scene/people/simone-osborne.md
-- scene/people/gordon-bintner.md
-- scene/people/andrew-haji.md
-short_description: '&quot;For the first couple of seasons that I came back I still
-  very much felt like I had to prove myself,&quot; says Osborne of returning to what
-  she considers her home company. She admits to feeling pressure to bring consistently
-  great performances to the COC, where the standard of artistry is high and the audiences
-  are in-the-know. &quot;It&#039;s probably the pressure I put on myself.&quot;'
-slug: simone-osborne
-title: 'Talking with singers: Simone Osborne'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-09-15T12:59:00-04:00"
+lastmod = "2017-09-25T23:09:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494538889/2017-09-15---Square---osborne4.jpg.jpg"
+primary_image_credit = "Photo: Bo Huang."
+publishDate = "2017-09-25T22:57:00-04:00"
+related_articles = ["articles/spotlight-on-amanda-majeski.md","articles/talking-with-singers-jamie-barton.md","articles/talking-with-singers-brenda-rae.md","articles/james-robinson-elixir.md","articles/he-saidshe-said-a-sweet-elixir-at-the-coc.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/simone-osborne.md","scene/people/gordon-bintner.md","scene/people/andrew-haji.md"]
+short_description = "&quot;For the first couple of seasons that I came back I still very much felt like I had to prove myself,&quot; says Osborne of returning to what she considers her home company. She admits to feeling pressure to bring consistently great performances to the COC, where the standard of artistry is high and the audiences are in-the-know. &quot;It&#039;s probably the pressure I put on myself.&quot;"
+slug = "simone-osborne"
+title = "Talking with singers: Simone Osborne"
++++
 
 "I had a conversation with Jim Robinson, our director," says soprano [Simone Osborne](/scene/people/simone-osborne/) about her early days in rehearsal for [*The Elixir of Love* at the Canadian Opera Company](http://coc.ca/PerformancesAndTickets/1718Season/ElixirofLove.aspx). "I said to him, 'full disclosure, I really don't love it when Adina is played as a mean girl.'"
 
@@ -45,9 +30,7 @@ Exaggerated though it may be, Adina's story in *Elixir of Love* is a familiar on
 
 "I have to say, I identify with that," Osborne admits. "Until I met my now husband, I didn't really let anybody in, or date anyone for a long time. It was really scary to me, the possibility of getting hurt and not being in control."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494736366/2017-09-15---Osborne-Ballo-13-14-04-MC-D-0034.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494736366/2017-09-15---Osborne-Ballo-13-14-04-MC-D-0034.jpg.jpg)
 <figcaption>Simone Osborne as Oscar in the Canadian Opera Company production of *A Masked Ball*, 2014. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -62,9 +45,7 @@ For Osborne, her singing career and her marriage to a fellow opera singer are tw
 
 With their first contract together, Osborne admits to having put some thought into the new rehearsal-room dynamics, but she found that any insecurity of how they would work together was soon overshadowed by her - and Bintner's - focus on the job. "We've been working so much longer than we've been together," she says, adding with a smile, "of course, when he hits a great note... holy cow."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494600274/2017-09-15---Osborne-Riel-16-17-05-MC-D-0796.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494600274/2017-09-15---Osborne-Riel-16-17-05-MC-D-0796.jpg.jpg)
 <figcaption>Simone Osborne as Marguerite Riel in the Canadian Opera Company's new production of *Louis Riel*, 2017. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -74,9 +55,7 @@ Osborne's husband isn't the only thing that's familiar about her return to the C
 
 "For the first couple of seasons that I came back I still very much felt like I had to prove myself," says Osborne of returning to what she considers her home company. She admits to feeling pressure to bring consistently great performances to the COC, where the standard of artistry is high and the audiences are in-the-know. "It's probably the pressure I put on myself."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494608476/2017-09-15---Osborne-Carmen-15-16-03-MC-D-4225.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505494608476/2017-09-15---Osborne-Carmen-15-16-03-MC-D-4225.jpg.jpg)
 <figcaption>Simone Osborne as Micaëla and Russell Thomas as Don José in the Canadian Opera Company production of *Carmen*, 2015. Photo: Michael Cooper.</figcaption>
 </figure>
 

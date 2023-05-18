@@ -1,22 +1,16 @@
----
-author:
-- authors/esme-allencreighton.md
-categories: Op-ed
-date: "2017-01-11T13:12:00+00:00"
-lastmod: "2017-01-14T17:13:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484161781982/2017-01-11---Viola.jpg.jpg
-primary_image_credit: 'Photo: Evan Schaaf via Flickr.'
-publishDate: "2017-01-14T17:13:00+00:00"
-related_articles:
-- articles/how-did-we-do-second-movement-presents-rough-for-opera-16.md
-- articles/leaning-into-the-discomfort.md
-short_description: 'My viola: you were with me for a thousand mornings. How do you
-  greet an empty room? With Bach of course. Or as time went on, with improv, as your
-  magic worked in me and I felt freer and freer to sing anything from the heart, trusting
-  what would come from you.'
-slug: how-to-throw-a-funeral-for-a-viola
-title: How to throw a funeral for a viola
----
++++
+author = ["authors/esme-allencreighton.md"]
+categories = "Op-ed"
+date = "2017-01-11T13:12:00+00:00"
+lastmod = "2017-01-14T17:13:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484161781982/2017-01-11---Viola.jpg.jpg"
+primary_image_credit = "Photo: Evan Schaaf via Flickr."
+publishDate = "2017-01-14T17:13:00+00:00"
+related_articles = ["articles/how-did-we-do-second-movement-presents-rough-for-opera-16.md","articles/leaning-into-the-discomfort.md"]
+short_description = "My viola: you were with me for a thousand mornings. How do you greet an empty room? With Bach of course. Or as time went on, with improv, as your magic worked in me and I felt freer and freer to sing anything from the heart, trusting what would come from you."
+slug = "how-to-throw-a-funeral-for-a-viola"
+title = "How to throw a funeral for a viola"
++++
 
 To all those who've loved and lost a loaner...
 

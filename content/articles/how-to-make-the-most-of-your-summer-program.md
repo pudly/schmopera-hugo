@@ -1,37 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: How-to
-date: "2015-05-28T15:01:00-04:00"
-lastmod: "2017-05-18T10:20:00-04:00"
-preamble: It's summer program season, everyone. I'm so excited for you all! These
-  are good months, spent in intensive training programs with teachers and coaches
-  that are hard to pin down throughout the year. Lightbulb moments will be had, and
-  new arias will be learned. Summer programs are great at bringing together the people
-  and places that will help you to succeed; it's up to you to ensure that **you**
-  get what you need. Here are some tips for doing just that.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495117198377/2017-05-18---Summer.jpg.jpg
-publishDate: "2015-05-29T08:21:00-04:00"
-related_articles:
-- articles/opera-in-summer.md
-- articles/soundstreams-announces-the-cast-of-julie.md
-- articles/paid-summer-programs-is-it-time-for-a-revolution.md
-- articles/singing-in-germany-bel-canto-summer-voice-program.md
-- articles/new-programs-opera-at-tanglewood.md
-- articles/4-things-you-shouldnt-expect-from-summer-programs.md
-- articles/dont-miss-it-songfests-fastapproaching-2018-deadlines.md
-related_companies:
-- scene/companies/halifax-summer-opera-festival.md
-- scene/companies/cosi-centre-for-opera-studies-in-italy.md
-- scene/companies/the-banff-centre.md
-- scene/companies/opera-nuova.md
-short_description: It&#039;s summer program season, everyone. I&#039;m so excited
-  for you all! These are good months, spent in intensive training programs with teachers
-  and coaches that are hard to pin down throughout the year. Lightbulb moments will
-  be had, and new arias will be learned.
-slug: how-to-make-the-most-of-your-summer-program
-title: How to make the most of your summer program
----
++++
+author = ["authors/jenna.md"]
+categories = "How-to"
+date = "2015-05-28T15:01:00-04:00"
+lastmod = "2017-05-18T10:20:00-04:00"
+preamble = "It's summer program season, everyone. I'm so excited for you all! These are good months, spent in intensive training programs with teachers and coaches that are hard to pin down throughout the year. Lightbulb moments will be had, and new arias will be learned. Summer programs are great at bringing together the people and places that will help you to succeed; it's up to you to ensure that **you** get what you need. Here are some tips for doing just that."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495117198377/2017-05-18---Summer.jpg.jpg"
+publishDate = "2015-05-29T08:21:00-04:00"
+related_articles = ["articles/opera-in-summer.md","articles/soundstreams-announces-the-cast-of-julie.md","articles/paid-summer-programs-is-it-time-for-a-revolution.md","articles/singing-in-germany-bel-canto-summer-voice-program.md","articles/new-programs-opera-at-tanglewood.md","articles/4-things-you-shouldnt-expect-from-summer-programs.md","articles/dont-miss-it-songfests-fastapproaching-2018-deadlines.md"]
+related_companies = ["scene/companies/halifax-summer-opera-festival.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/the-banff-centre.md","scene/companies/opera-nuova.md"]
+short_description = "It&#039;s summer program season, everyone. I&#039;m so excited for you all! These are good months, spent in intensive training programs with teachers and coaches that are hard to pin down throughout the year. Lightbulb moments will be had, and new arias will be learned."
+slug = "how-to-make-the-most-of-your-summer-program"
+title = "How to make the most of your summer program"
++++
 
 ### Come with a plan
 

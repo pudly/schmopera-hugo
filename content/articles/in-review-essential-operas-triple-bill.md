@@ -1,22 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2014-04-08T08:00:00-04:00"
-lastmod: "2015-04-27T18:23:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429843272594/TripleBill-829x1024.jpg.jpg
-publishDate: "2014-04-08T08:00:00-04:00"
-related_articles:
-- articles/dont-miss-shes-the-one.md
-related_companies:
-- scene/companies/essential-opera.md
-short_description: 'This past weekend, Essential Opera achieved a true feat in the
-  Canadian opera scene: they presented a triple bill of Canadian works, all brand
-  new. It was really exciting to see an event like this in Toronto; to hear Canadian
-  opera, you most likely need to attend something involving Tapestry New Opera Works. '
-slug: in-review-essential-operas-triple-bill
-title: 'In Review: Essential Opera&#039;s Triple Bill'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2014-04-08T08:00:00-04:00"
+lastmod = "2015-04-27T18:23:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429843272594/TripleBill-829x1024.jpg.jpg"
+publishDate = "2014-04-08T08:00:00-04:00"
+related_articles = ["articles/dont-miss-shes-the-one.md"]
+related_companies = ["scene/companies/essential-opera.md"]
+short_description = "This past weekend, Essential Opera achieved a true feat in the Canadian opera scene: they presented a triple bill of Canadian works, all brand new. It was really exciting to see an event like this in Toronto; to hear Canadian opera, you most likely need to attend something involving Tapestry New Opera Works. "
+slug = "in-review-essential-operas-triple-bill"
+title = "In Review: Essential Opera&#039;s Triple Bill"
++++
 
 This past weekend, [Essential Opera](http://essentialopera.com/) achieved a true feat in the Canadian opera scene: they presented a triple bill of Canadian works, all brand new. It was really exciting to see an event like this in Toronto; to hear Canadian opera, you most likely need to attend something involving [Tapestry New Opera Works](https://tapestryopera.com/). But Essential Opera has put themselves on the map in its new contributions to Canada's operatic repertoire, and I give them a bravo for that.
 The triple bill featured premieres of _Etiquette_, (music by [Monica Pearce](http://www.monicapearce.com/) and libretto by [John Terauds](https://www.google.ca/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCoQFjAA&url=http%3A%2F%2Fwww.musicaltoronto.org%2Fauthor%2Fjohn-terauds%2F&ei=jGNDU6e5BYOY2QXunoHwCw&usg=AFQjCNFNnmjtwDRk-Q6R7jobPzZZlPJucA&bvm=bv.64367178,d.b2I)) _Regina_ (music by [Elisha Denburg](http://elishadenburg.com/) and libretto by [Maya Rabinovitch](https://twitter.com/MyRabs)) and _Heather: Cindy + Mindy = BFFs 4EVR_ (music by [Chris Thornborrow](http://www.christhornborrow.com/Chris_Thornborrow/Home.html) and libretto by [Julie Tepperman](http://www.playwrightscanada.com/index.php/authors/s-u/julie-tepperman.html)). I was able to stay for the first two pieces, and for info about _Heather_, you can watch [this interview](https://www.youtube.com/watch?v=t-DKabC6yhY), or check out composer [Chris Thornborrow's website](http://www.christhornborrow.com/Chris_Thornborrow/Home.html).

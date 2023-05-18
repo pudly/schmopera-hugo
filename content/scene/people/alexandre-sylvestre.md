@@ -1,20 +1,15 @@
----
-_template: people_single
-date: "2019-02-18T19:18:56+00:00"
-discipline: Bass-baritone
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550517470/media/2019/02/AlexandreSylvestreCarolineLaberge.jpg
-primary_image_credit: Caroline Laberge
-related_companies:
-- scene/companies/l-opéra-de-montréal.md
-- scene/companies/saskatoon-opera.md
-- scene/companies/calgary-opera.md
-- scene/companies/pacific-opera-victoria.md
-- scene/companies/edmonton-opera.md
-slug: alexandre-sylvestre
-social_media: []
-title: Alexandre Sylvestre
-website: https://www.alexandresylvestre.net/
----
++++
+date = "2019-02-18T19:18:56+00:00"
+discipline = "Bass-baritone"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550517470/media/2019/02/AlexandreSylvestreCarolineLaberge.jpg"
+primary_image_credit = "Caroline Laberge"
+related_companies = ["scene/companies/l-opéra-de-montréal.md", "scene/companies/saskatoon-opera.md", "scene/companies/calgary-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/edmonton-opera.md"]
+slug = "alexandre-sylvestre"
+social_media = []
+title = "Alexandre Sylvestre"
+website = "https://www.alexandresylvestre.net/"
+
++++
 A native of Québec, **Alexandre Sylvestre** studied at the Conservatoire de musique de Montréal where he was awarded the “Premier Prix avec Grande Distinction.” This season he looks forward to the role of Capulet in _Roméo et Juliette_ for Calgary Opera, as well as Baron Douphol in _La traviata_ for Pacific Opera Victoria and Morales in _Carmen_ for Opéra de Montréal. In Thunder Bay, he will be heard in Handel’s _Messiah_. During the 2017/2018 season, Alexandre performed the roles of John Connally in _JFK_ and Capulet in _Roméo et Juliette_, both for his home company in Montreal. He also debuted with the Seattle Symphony as l’Arbe and Fauteuil in _L’enfant et les sortilèges_ and has been recently heard in _Silent Night_ for Michigan Opera Theatre, as Colline in _La bohème_ and the premiere of _Les Feluettes_ for Opéra de Montréal, Bartolo in _Il barbiere di Siviglia_ for Saskatoon Opera, Timur in _Turandot_ for Calgary Opera and Mozart’s _Requiem_ for Orchestre symphonique de Québec. Of special interest is Opera Lafayette’s _Leonore_ project, performances of Beethoven’s original version of _Fidelio_ and the version by Gaveaux on the same subject, in Washington and New York.
 
 In past seasons, Alexandre has been heard in Opéra de Québec’s _L’enfant et les sortilèges_, as Bartolo in Edmonton Opera’s _Il barbiere di Siviglia_, Brahms’s _Requiem_ with Symphony Nova Scotia, Beethoven’s _Symphony No. 9_ with Orchestre symphonique de Sherbrooke, Mozart’s _Requiem_ for Orchestre symphonique de Lac St. Jean, Kevin Puts’s _Silent Night_ for Opéra de Montréal, Brander in _La damnation de Faust_ for Orchestre symphonique de Montréal, _Haly_ in _L’italiana in Algeri_ for Calgary Opera, and Colline in _La bohème_ for Manitoba Opera.

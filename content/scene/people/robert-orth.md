@@ -1,27 +1,14 @@
----
-_template: people_single
-date: "2017-09-14T21:49:00-04:00"
-discipline: Baritone
-lastmod: "2017-09-14T21:49:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505440004902/2017-09-13---Orth_Robert.jpg.jpg
-publishDate: "2017-09-14T21:49:00-04:00"
-related_companies:
-- scene/companies/houston-grand-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/on-site-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/san-diego-opera.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/seattle-opera.md
-- scene/companies/opera-philadelphia.md
-- scene/companies/washington-national-opera.md
-- scene/companies/vancouver-opera.md
-slug: robert-orth
-title: Robert Orth
-website: http://www.robertorth.com/
----
++++
+date = "2017-09-14T21:49:00-04:00"
+discipline = "Baritone"
+lastmod = "2017-09-14T21:49:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505440004902/2017-09-13---Orth_Robert.jpg.jpg"
+publishDate = "2017-09-14T21:49:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/san-francisco-opera.md","scene/companies/on-site-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-diego-opera.md","scene/companies/canadian-opera-company.md","scene/companies/los-angeles-opera.md","scene/companies/seattle-opera.md","scene/companies/opera-philadelphia.md","scene/companies/washington-national-opera.md","scene/companies/vancouver-opera.md"]
+slug = "robert-orth"
+title = "Robert Orth"
+website = "http://www.robertorth.com/"
++++
 
 Robert Orth is a leading baritone with major opera companies including those in New York City, San Francisco, Chicago, Toronto, Vancouver,  Washington, D.C., Houston, Seattle, Los Angeles, Philadelphia, Miami, Portland, Indianapolis, Cincinnati, and Denver. He was named “Artist of the Year” by both New York City Opera and Seattle Opera. New York City Opera also gave him the “Christopher Keene Award” for new and unusual repertoire. He has appeared as soloist with the symphony orchestras of Chicago, Cleveland, Milwaukee, Seattle, Denver, Dallas, Phoenix, Indianapolis, and Washington, D.C., in repertoire ranging from Brahms’ REQUIEM to Broadway pops to his most repeated symphonic piece, CARMINA BURANA.
 

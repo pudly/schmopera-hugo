@@ -1,33 +1,18 @@
----
-author:
-- authors/caitlin-wood.md
-categories: Op-ed
-date: "2015-07-06T00:50:00-06:00"
-lastmod: "2015-07-10T00:16:00-06:00"
-preamble: This is a post by guest contributor Caitlin Wood. Cait is here at The Banff
-  Centre with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/),
-  singing Despina in *A Little Too Cozy*. I asked her how she was liking Banff, and
-  she outdid herself with her response.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436237094615/BanffBlueRodeo.jpg.jpg
-publishDate: "2015-07-10T08:16:00-06:00"
-related_articles:
-- articles/banff-diaries-day-0.md
-- articles/atg-in-banff-2015.md
-- articles/more-atg-in-banff-2015.md
-- articles/against-the-grain-theatre-banffbound-in-2016.md
-- articles/spotlight-on-caitlin-wood.md
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/the-banff-centre.md
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/caitlin-wood.md
-short_description: As the half way point of my time at The Banff Centre is coming
-  up quickly, it seems like a great time to reflect on what it has been like staying
-  in Banff and working on A Little Too Cozy.
-slug: despina-in-banff
-title: Despina in Banff
----
++++
+author = ["authors/caitlin-wood.md"]
+categories = "Op-ed"
+date = "2015-07-06T00:50:00-06:00"
+lastmod = "2015-07-10T00:16:00-06:00"
+preamble = "This is a post by guest contributor Caitlin Wood. Cait is here at The Banff Centre with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/), singing Despina in *A Little Too Cozy*. I asked her how she was liking Banff, and she outdid herself with her response."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436237094615/BanffBlueRodeo.jpg.jpg"
+publishDate = "2015-07-10T08:16:00-06:00"
+related_articles = ["articles/banff-diaries-day-0.md","articles/atg-in-banff-2015.md","articles/more-atg-in-banff-2015.md","articles/against-the-grain-theatre-banffbound-in-2016.md","articles/spotlight-on-caitlin-wood.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/caitlin-wood.md"]
+short_description = "As the half way point of my time at The Banff Centre is coming up quickly, it seems like a great time to reflect on what it has been like staying in Banff and working on A Little Too Cozy."
+slug = "despina-in-banff"
+title = "Despina in Banff"
++++
 
 As the half way point of my time at [The Banff Centre](/scene/companies/the-banff-centre/) is coming up quickly, it seems like  a great time to reflect on what it has been like staying in Banff and working on *A Little Too Cozy*.
 
@@ -39,9 +24,7 @@ Luckily, I had some killer coaches and mentors helping me to make every word cry
 
 Another question that came up was who was this new updated Despina character? In the original she is the conniving maid, always ready to get in a disguise to trick the girls (my personal favourite interpretation is to add a Sean Connery accent when she is the doctor). In this version she is quite different. I was lucky that Joel had flushed out a very colourful character in his libretto. To quote some of her aria: "I like chocolate fudge, I like creme brulée. Sometimes I just want them all.". You will have to come to the show to see what that is all about and who this updated Despina truly is!
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436236657204/CaitRehearsal.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436236657204/CaitRehearsal.jpg.jpg)
 <figcaption>Caitlin Wood (Despina), Cairan Ryan (Don Alfonso), Aaron Sheppard (Fernando) and Brent Calis (Elmo) in rehearsal for A Little Too Cozy.</figcaption>
 </figure>
 
@@ -59,9 +42,7 @@ Rehearsals, coachings, and practicing are next, and it is incredibly inspiring t
 
 After the rehearsals we gather for dinner and talk about our days (at least half of the party will be eating the Cobb salad). For the evening you can find me either playing a game of soccer in the gym, or on the top floor balcony watching the sun set and rehearsing lines or ensembles with my *Cozy* counterparts. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436236980766/BanffCrew.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436236980766/BanffCrew.jpg.jpg)
 <figcaption>The Open Space opera folks, perhaps cashing in their Mistake Tallies.</figcaption>
 </figure>
 

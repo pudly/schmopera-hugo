@@ -1,27 +1,28 @@
----
-date: "2017-02-23T13:41:00+00:00"
-discipline: Mezzo-soprano
-lastmod: "2017-02-23T13:42:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546829753/media/2019/01/PollyLeech.jpg
-primary_image_credit: Eric Oliveria
-publishDate: "2017-02-23T13:41:00+00:00"
-related_companies:
-- scene/companies/opera-holland-park.md
-slug: polly-leech
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/pollyleechmezzo
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/MissPollyWally
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/misspollywally/
-title: Polly Leech
-website: http://www.pollyleech.com/
----
++++
+date = "2017-02-23T13:41:00+00:00"
+discipline = "Mezzo-soprano"
+lastmod = "2017-02-23T13:42:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546829753/media/2019/01/PollyLeech.jpg"
+primary_image_credit = "Eric Oliveria"
+publishDate = "2017-02-23T13:41:00+00:00"
+related_companies = ["scene/companies/opera-holland-park.md"]
+slug = "polly-leech"
+title = "Polly Leech"
+website = "http://www.pollyleech.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/pollyleechmezzo"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/MissPollyWally"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/misspollywally/"
+
++++
 Polly is a twenty-four year old mezzo-soprano from Wiltshire. She recently graduated from the Royal College of Music, having gained a postgraduate Masters in Vocal Performance (Distinction) under vocal professor Amanda Roocroft and vocal coach Christopher Glynn. She was the Theo Max van der Beugel Scholar and was also supported by the Josephine Baker Trust.  
  
 In 2013, she graduated from Durham University with a BSc Hons in Molecular Biology and Biochemistry.  Throughout her time at Durham, Polly studied under Samling Scholar and vocal teacher Miranda Wright.  She also took part in multiple productions with the Durham Opera Ensemble, playing many lead roles including Hänsel *Hänsel und Gretel*, Dorabella *Cosi fan Tutte*, and Countess Almaviva *Le Nozze di Figaro*.  In 2012, Polly participated in the St. Endellion Easter Festival as an Easter Scholar. 

@@ -1,46 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-06-10T21:32:00-04:00"
-lastmod: "2015-06-15T15:19:00-04:00"
-preamble: This interview is part of our ongoing series of features on young working
-  artists in the opera industry. If you think you'd be a great candidate for an interview,
-  or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433986313277/EmilySquare.jpg.jpg
-publishDate: "2015-06-15T15:19:00-04:00"
-related_articles:
-- articles/spotlight-on-peter-bass.md
-- articles/spotlight-on-michelle-siemens.md
-- articles/spotlight-on-julia-dawson.md
-- articles/spotlight-on-charlotte-knight.md
-- articles/spotlight-on-christopher-james-ray.md
-- articles/spotlight-on-maikai-nash.md
-- articles/spotlight-on-kelsey-vicary.md
-- articles/spotlight-on-lida-szkwarek.md
-- articles/spotlight-on-danielle-macmillan.md
-- articles/spotlight-on-marjorie-maltais.md
-- articles/spotlight-on-william-ford.md
-- articles/spotlight-on-kimberleyann-bartczak.md
-- articles/spotlight-on-laurelle-jade-froese.md
-- articles/spotlight-on-jeremy-hirsch.md
-- articles/spotlight-on-maeve-palmer.md
-- articles/spotlight-on-keith-lam.md
-- articles/spotlight-on-sara-schabas.md
-- articles/in-defense-of-the-day-job-.md
-related_companies:
-- scene/companies/oberlin-college-and-conservatory.md
-related_people:
-- scene/people/emily-peragine.md
-short_description: I met Montana-born soprano Emily Peragine during her undergraduate
-  degree at Oberlin College Conservatory, and she struck me immediately as a rare
-  breed. Emily is a real lover of singing, and a refreshingly thoughtful artist. You
-  can see more of what I mean by reading her beautiful blog. For a while now, I&#039;ve
-  been looking forward to the chance to introduce Emily to my readers, and she doesn&#039;t
-  disappoint with this interview.
-slug: spotlight-on-emily-peragine
-title: 'Spotlight on: Emily Peragine'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-06-10T21:32:00-04:00"
+lastmod = "2015-06-15T15:19:00-04:00"
+preamble = "This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433986313277/EmilySquare.jpg.jpg"
+publishDate = "2015-06-15T15:19:00-04:00"
+related_articles = ["articles/spotlight-on-peter-bass.md","articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-jeremy-hirsch.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-keith-lam.md","articles/spotlight-on-sara-schabas.md","articles/in-defense-of-the-day-job-.md"]
+related_companies = ["scene/companies/oberlin-college-and-conservatory.md"]
+related_people = ["scene/people/emily-peragine.md"]
+short_description = "I met Montana-born soprano Emily Peragine during her undergraduate degree at Oberlin College Conservatory, and she struck me immediately as a rare breed. Emily is a real lover of singing, and a refreshingly thoughtful artist. You can see more of what I mean by reading her beautiful blog. For a while now, I&#039;ve been looking forward to the chance to introduce Emily to my readers, and she doesn&#039;t disappoint with this interview."
+slug = "spotlight-on-emily-peragine"
+title = "Spotlight on: Emily Peragine"
++++
 
 I met Montana-born soprano [Emily Peragine](/scene/people/emily-peragine/) during her undergraduate degree at [Oberlin College Conservatory](/scene/companies/oberlin-college-and-conservatory/), and she struck me immediately as a rare breed. Emily is a real lover of singing, and a refreshingly thoughtful artist. You can see more of what I mean by reading her beautiful [blog](https://montanasoprano.wordpress.com/). For a while now, I've been looking forward to the chance to introduce Emily to my readers, and she doesn't disappoint with this interview. She chats about *Der Rosenkavalier* and exposing career myths.
 

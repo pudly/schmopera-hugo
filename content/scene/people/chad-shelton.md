@@ -1,23 +1,14 @@
----
-_template: people_single
-date: "2018-05-01T22:22:00-04:00"
-discipline: Tenor
-lastmod: "2018-05-01T22:22:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525227386051/Chad_Shelton_headshot_credit_Jenna%2BBarrett.jpg.jpg
-primary_image_credit: Jenna Barrett
-publishDate: "2018-05-01T22:22:00-04:00"
-related_companies:
-- scene/companies/houston-grand-opera.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/florida-grand-opera.md
-- scene/companies/arizona-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/boston-lyric-opera.md
-- scene/companies/utah-opera.md
-slug: chad-shelton
-title: Chad Shelton
----
++++
+date = "2018-05-01T22:22:00-04:00"
+discipline = "Tenor"
+lastmod = "2018-05-01T22:22:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525227386051/Chad_Shelton_headshot_credit_Jenna%2BBarrett.jpg.jpg"
+primary_image_credit = "Jenna Barrett"
+publishDate = "2018-05-01T22:22:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/florida-grand-opera.md","scene/companies/arizona-opera.md","scene/companies/san-francisco-opera.md","scene/companies/boston-lyric-opera.md","scene/companies/utah-opera.md"]
+slug = "chad-shelton"
+title = "Chad Shelton"
++++
 
 Opera News praises tenor Chad Shelton for one of his trademark roles, claiming that his “Don José was the dramatic heart of this production; this was a performance that grew in complexity as he struggled to reconcile the forces of loyalty, lust and fate. Shelton owned the final scene, as his character descended into despair fueled by psychotic obsession. His bright tone amplified the intensity of the last gripping moments.”  In the 2017-18 season, he returns to Houston Grand Opera for two exciting role debuts: Pollione in *Norma* and Aegisth in *Elektra* before returning to the Metropolitan Opera roster for the latter title. He also returns to Austin Opera as Don Jose in *Carmen* and the Phoenix Symphony for Beethoven’s Symphony No. 9.  Last season, he made returns to the Grand Théâtre de Genève for his first performances of Sir Edgar Aubry in *Der Vampyr* and Houston Grand Opera to reprise Chairman Mao in Adams’ *Nixon in China* and sang Don Jose in *Carmen* on tour in Japan as a guest artist of the Seiji Ozawa Music Academy Opera Project.  He also returned to the roster of the Metropolitan Opera for its production of *Cyrano de Bergerac*.    
 

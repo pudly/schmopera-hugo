@@ -1,27 +1,15 @@
----
-_template: people_single
-date: "2019-01-28T23:01:27+00:00"
-discipline: Bass-baritone
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548716324/media/2019/01/Travis%20Color.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/spoleto-festival-usa.md
-- scene/companies/washington-national-opera.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/the-atlanta-opera.md
-- scene/companies/the-dallas-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/minnesota-opera.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/the-santa-fe-opera.md
-slug: dale-travis
-social_media: []
-title: Dale Travis
-website: ""
----
++++
+date = "2019-01-28T23:01:27+00:00"
+discipline = "Bass-baritone"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548716324/media/2019/01/Travis%20Color.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/spoleto-festival-usa.md", "scene/companies/washington-national-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/minnesota-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/the-santa-fe-opera.md"]
+slug = "dale-travis"
+social_media = []
+title = "Dale Travis"
+website = ""
+
++++
   
 Dale Travis has become one of the most sought after bass-baritones in America today. With a repertoire encompassing 50 roles over 25 years in a wide variety of styles from Mozart, Donizetti and Rossini to Strauss, Puccini and Wagner, Mr. Travis has been a frequent guest artist at the most prestigious opera companies in the world, including the Metropolitan Opera, the Lyric Opera of Chicago, the San Francisco Opera, Houston Grand Opera, Washington Opera, Los Angeles, Santa Fe Opera Festival, Opera Colorado, Spoleto Festival USA, the Saito Kinen Music Festival, Teatro Regio in Torino, Teatro Carlo Felice in Genoa, the Berlin Komische Oper, and the New Israeli Opera in Tel Aviv.
 

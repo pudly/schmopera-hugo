@@ -1,23 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-03-14T22:36:00-04:00"
-lastmod: "2018-03-15T21:47:00-04:00"
-preamble: |-
-  Kathy Domoney recently celebrated her 10th anniversary as director of Domoney Artists Management, moving from a busy career as a soprano to her role as an agent and artist manager. Domoney's clients take the stages across Canada and internationally, and she represents an important step in the professional lives of young, emerging opera singers.
-
-  We spoke with Domoney about the reponsibility of an artist manager, the changes she has seen over 30 years in the opera industry, and what she looks for in a client.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521164858014/sq---kathy-domoney-pic1.jpg.jpg
-publishDate: "2018-03-15T21:35:00-04:00"
-short_description: '&quot;Singers think I can wave a magic wand and fill their calendar
-  with engagements - if only that were the case! I make it very clear to potential
-  clients that my job is to open doors through auditions, and the singer&#039;s job
-  is to present themselves at auditions with confidence, wonderful singing and a strong
-  emotional connection to their arias.&quot;'
-slug: talking-with-agents-kathy-domoney
-title: 'Talking with agents: Kathy Domoney'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-03-14T22:36:00-04:00"
+lastmod = "2018-03-15T21:47:00-04:00"
+preamble = "Kathy Domoney recently celebrated her 10th anniversary as director of Domoney Artists Management, moving from a busy career as a soprano to her role as an agent and artist manager. Domoney's clients take the stages across Canada and internationally, and she represents an important step in the professional lives of young, emerging opera singers.\n\nWe spoke with Domoney about the reponsibility of an artist manager, the changes she has seen over 30 years in the opera industry, and what she looks for in a client."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521164858014/sq---kathy-domoney-pic1.jpg.jpg"
+publishDate = "2018-03-15T21:35:00-04:00"
+short_description = "&quot;Singers think I can wave a magic wand and fill their calendar with engagements - if only that were the case! I make it very clear to potential clients that my job is to open doors through auditions, and the singer&#039;s job is to present themselves at auditions with confidence, wonderful singing and a strong emotional connection to their arias.&quot;"
+slug = "talking-with-agents-kathy-domoney"
+title = "Talking with agents: Kathy Domoney"
++++
 
 ### What do you think are some misconceptions about what an agent does, and what they have the power to do?
 
@@ -28,9 +20,7 @@ As for what an agent does: my job description covers a wide range of responsibil
 
 I wear many hats, including career counsellor, travel agent, fashion advisor, vocal coach, social media assistant, editor, proofreader, publicist and concert promoter. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081312814/DomoneySoulis.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081312814/DomoneySoulis.jpg.jpg)
 <figcaption>Kathy Domoney (left) with mezzo-soprano Maria Soulis.</figcaption>
 </figure>
 
@@ -54,9 +44,7 @@ There are several factors I look for when considering a new client:
 <li>Musicianship: Due to rising costs, there is less time than ever to rehearse. Singers who can learn their music quickly and accurately are prized, as are singers who can step into a role at the last minute with confidence. 
 </ul>
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081331737/DomoneyMontreal.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081331737/DomoneyMontreal.jpg.jpg)
 <figcaption>Domoney with colleagues in Montréal.</figcaption>
 </figure>
 
@@ -86,9 +74,7 @@ With major opera companies having a terrific group of promising young singers on
 
 Another big change is the rise of independent "indie opera" companies, producing innovative and updated versions of classics, as well as new works. These are great opportunities for emerging singers to learn the craft and gain performance experience. These productions bring together audiences eager to explore  opera and singers to share their talents "up close". 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081351133/DomoneyNAC.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521081351133/DomoneyNAC.jpg.jpg)
 <figcaption>Domoney at the National Arts Centre in Ottawa.</figcaption>
 </figure>
 

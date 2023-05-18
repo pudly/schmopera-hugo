@@ -1,53 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-07-20T17:05:00-04:00"
-lastmod: "2015-07-30T08:14:00-04:00"
-preamble: I don't think I've met many young singers who work as hard as mezzo-soprano
-  [Laurelle Jade Froese](/scene/people/laurelle-jade-froese/). The Winnipeg native
-  is a graduate of the University of Toronto, where I heard her as the hilariously
-  uppity Florence Pike in [Joel Ivany](/scene/people/joel-ivany/)'s production of
-  *Albert Herring*. Laurelle has sung at [Saskatoon Opera](/scene/companies/saskatoon-opera/),
-  [Highlands Opera Studio](/scene/companies/highlands-opera-studio/), and she just
-  finished a season with [Vancouver Opera](/scene/companies/vancouver-opera/) as a
-  Yulanda M. Faris Young Artist. She's currently looking forward to starting her own
-  voice studio in Winnipeg. Laurelle chats about Strauss, spirituality, and "getting
-  it right."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437426418690/LAURELLE9071Square.jpg.jpg
-primary_image_credit: Brittany Alyse Photography
-publishDate: "2015-07-30T08:14:00-04:00"
-related_articles:
-- articles/spotlight-on-michelle-siemens.md
-- articles/spotlight-on-marjorie-maltais.md
-- articles/spotlight-on-charlotte-knight.md
-- articles/spotlight-on-danielle-macmillan.md
-- articles/spotlight-on-christopher-james-ray.md
-- articles/spotlight-on-maikai-nash.md
-- articles/spotlight-on-emily-peragine.md
-- articles/spotlight-on-kelsey-vicary.md
-- articles/spotlight-on-julia-dawson.md
-- articles/spotlight-on-peter-bass.md
-- articles/spotlight-on-maeve-palmer.md
-- articles/spotlight-on-cairan-ryan.md
-- articles/spotlight-on-sara-schabas.md
-related_companies:
-- scene/companies/university-of-toronto-opera.md
-- scene/companies/highlands-opera-studio.md
-- scene/companies/opera-nuova.md
-- scene/companies/vancouver-opera.md
-- scene/companies/saskatoon-opera.md
-related_people:
-- scene/people/laurelle-jade-froese.md
-short_description: I don&#039;t think I&#039;ve met many young singers who work as
-  hard as mezzo-soprano Laurelle Jade Froese. The Winnipeg native is a graduate of
-  the University of Toronto, where I heard her as the hilariously uppity Florence
-  Pike in Joel Ivany&#039;s production of Albert Herring. Laurelle has sung at Saskatoon
-  Opera, Highlands Opera Studio, and she just finished a season with Vancouver Opera
-  as a Yulanda M. Faris Young Artist.
-slug: spotlight-on-laurelle-jade-froese
-title: 'Spotlight on: Laurelle Jade Froese'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-07-20T17:05:00-04:00"
+lastmod = "2015-07-30T08:14:00-04:00"
+preamble = "I don't think I've met many young singers who work as hard as mezzo-soprano [Laurelle Jade Froese](/scene/people/laurelle-jade-froese/). The Winnipeg native is a graduate of the University of Toronto, where I heard her as the hilariously uppity Florence Pike in [Joel Ivany](/scene/people/joel-ivany/)'s production of *Albert Herring*. Laurelle has sung at [Saskatoon Opera](/scene/companies/saskatoon-opera/), [Highlands Opera Studio](/scene/companies/highlands-opera-studio/), and she just finished a season with [Vancouver Opera](/scene/companies/vancouver-opera/) as a Yulanda M. Faris Young Artist. She's currently looking forward to starting her own voice studio in Winnipeg. Laurelle chats about Strauss, spirituality, and \"getting it right.\""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437426418690/LAURELLE9071Square.jpg.jpg"
+primary_image_credit = "Brittany Alyse Photography"
+publishDate = "2015-07-30T08:14:00-04:00"
+related_articles = ["articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-cairan-ryan.md","articles/spotlight-on-sara-schabas.md"]
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/opera-nuova.md","scene/companies/vancouver-opera.md","scene/companies/saskatoon-opera.md"]
+related_people = ["scene/people/laurelle-jade-froese.md"]
+short_description = "I don&#039;t think I&#039;ve met many young singers who work as hard as mezzo-soprano Laurelle Jade Froese. The Winnipeg native is a graduate of the University of Toronto, where I heard her as the hilariously uppity Florence Pike in Joel Ivany&#039;s production of Albert Herring. Laurelle has sung at Saskatoon Opera, Highlands Opera Studio, and she just finished a season with Vancouver Opera as a Yulanda M. Faris Young Artist."
+slug = "spotlight-on-laurelle-jade-froese"
+title = "Spotlight on: Laurelle Jade Froese"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

@@ -1,20 +1,18 @@
----
-date: "2015-06-05T16:09:00-04:00"
-discipline: Conductor
-lastmod: "2015-06-05T16:09:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433534874578/Anna.jpg.jpg
-publishDate: "2015-06-05T16:09:00-04:00"
-related_companies:
-- scene/companies/the-dallas-opera.md
-slug: anna-skryleva
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/SkrylevaA
-title: Anna Skryleva
-website: http://www.annaskryleva.com/
----
++++
+date = "2015-06-05T16:09:00-04:00"
+discipline = "Conductor"
+lastmod = "2015-06-05T16:09:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433534874578/Anna.jpg.jpg"
+publishDate = "2015-06-05T16:09:00-04:00"
+related_companies = ["scene/companies/the-dallas-opera.md"]
+slug = "anna-skryleva"
+title = "Anna Skryleva"
+website = "http://www.annaskryleva.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/SkrylevaA"
++++
 
 Anna SKRYLEVA - russian conductor, has lived and worked in Germany for the past 15 years. Currently engaged as principal resident conductor at The State Theatre Darmstadt.
  

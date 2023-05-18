@@ -1,16 +1,14 @@
----
-_template: people_single
-date: "2015-04-06T14:41:00-04:00"
-discipline: Composer
-lastmod: "2015-04-06T14:41:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428345556165/AbigailRichardson.png.png
-publishDate: "2015-04-06T14:41:00-04:00"
-related_companies:
-- scene/companies/toronto-symphony-orchestra.md
-slug: abigail-richardson-schulte
-title: Abigail Richardson Schulte
-website: http://abigailrichardson.com/
----
++++
+date = "2015-04-06T14:41:00-04:00"
+discipline = "Composer"
+lastmod = "2015-04-06T14:41:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428345556165/AbigailRichardson.png.png"
+publishDate = "2015-04-06T14:41:00-04:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
+slug = "abigail-richardson-schulte"
+title = "Abigail Richardson Schulte"
+website = "http://abigailrichardson.com/"
++++
 
 <p>
 	Composer Abigail Richardson-Schulte was born in Oxford, England, and moved to Canada as a child. Ironically, she was diagnosed incurably deaf at 5. Upon moving to Calgary, however, her hearing was fully intact within months. Her music has been commissioned and performed by major orchestras, presenters, music festivals and broadcasters including the Festival Présences of Paris.

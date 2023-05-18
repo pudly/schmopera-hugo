@@ -1,28 +1,15 @@
----
-_template: people_single
-date: "2017-10-07T13:48:00-04:00"
-discipline: Bass
-lastmod: "2017-10-07T13:48:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507398162975/portrait-2.jpg.jpg
-primary_image_credit: Sheila Rock
-publishDate: "2017-10-07T13:48:00-04:00"
-related_companies:
-- scene/companies/english-national-opera.md
-- scene/companies/glyndebourne.md
-- scene/companies/royal-opera-house.md
-- scene/companies/scottish-opera.md
-- scene/companies/welsh-national-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/opera-north.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/deutsche-oper-berlin.md
-slug: alastair-miles
-title: Alastair Miles
-website: http://www.alastairmiles.com/
----
++++
+date = "2017-10-07T13:48:00-04:00"
+discipline = "Bass"
+lastmod = "2017-10-07T13:48:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507398162975/portrait-2.jpg.jpg"
+primary_image_credit = "Sheila Rock"
+publishDate = "2017-10-07T13:48:00-04:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/scottish-opera.md","scene/companies/welsh-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opera-north.md","scene/companies/the-metropolitan-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/deutsche-oper-berlin.md"]
+slug = "alastair-miles"
+title = "Alastair Miles"
+website = "http://www.alastairmiles.com/"
++++
 
 British bass, Alastair Miles is one of the UK’s most renowned singers returning regularly to the operatic stages and concert platforms of Europe, the USA and the Far East. His international career was launched in 1986 when he won the Decca Kathleen Ferrier Prize at the Wigmore Hall London. He is recognised for his stylistically wide repertoire, equally at home with music of the Baroque period as he is with the romanticism of Verdi and Wagner.
 

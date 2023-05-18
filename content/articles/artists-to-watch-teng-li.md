@@ -1,34 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-11-07T15:46:00+00:00"
-lastmod: "2016-11-08T13:10:00+00:00"
-preamble: |-
-  Toronto-based violist [Teng Li](/scene/people/teng-li/) is one of those exhaustively creative musicians. She is the Principal Violist for the [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/), the Artistic Director of the [Morningside Music Bridge](http://mmb.international/) training program, and an active chamber musician whose latest album, *1939*, comes with "...a sparkling freshness you usually hear in your dreams." (David Patrick Stearns, *Philadelphia Inquirer*)
-
-  On **November 9 and 11** at Roy Thomson Hall, Li performs Willam Walton's *Viola Concerto* as part of the TSO's ongoing [Decades Project: 1920-1929](https://www.tso.ca/concert/best-%E2%80%9920s). Later this month, Li and her newly-formed Rosamunde Quartet (with violinists Noah Bendix Balgley and Shanshan Yao, and cellist Nathan Vickery) play at the University of Toronto for their [Walter Hall Series](https://music.utoronto.ca/concerts-events.php?eid=999), **November 28 at 7:30pm**.
-
-  We spoke with Li about the facets of her work as a violist, from training young musicians to performing with world-class orchestras and chamber ensembles.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478533799126/2016-11-08---Teng-Li-Bo-Huang-Square.jpg.jpg
-primary_image_credit: Photo by Bo Huang.
-publishDate: "2016-11-08T13:04:00+00:00"
-related_articles:
-- articles/instruments-can-sing-too.md
-- articles/oundjian-conducts-a-favourite-vaughan-williams-at-the-tso.md
-- articles/milan-milisavljevic.md
-related_companies:
-- scene/companies/toronto-symphony-orchestra.md
-related_people:
-- scene/people/teng-li.md
-short_description: '&quot;As a soloist, I have more license to share my independent
-  voice and vision for the piece.  As principal violist in the orchestra, I get to
-  support the vision of the conductor by leading my section to perform as one voice.  I
-  feel lucky to have the opportunity to wear different hats in my career, as a soloist,
-  chamber musician and as an orchestral musician.&quot;'
-slug: artists-to-watch-teng-li
-title: 'Artists to watch: Teng Li'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-11-07T15:46:00+00:00"
+lastmod = "2016-11-08T13:10:00+00:00"
+preamble = "Toronto-based violist [Teng Li](/scene/people/teng-li/) is one of those exhaustively creative musicians. She is the Principal Violist for the [Toronto Symphony Orchestra](/scene/companies/toronto-symphony-orchestra/), the Artistic Director of the [Morningside Music Bridge](http://mmb.international/) training program, and an active chamber musician whose latest album, *1939*, comes with \"...a sparkling freshness you usually hear in your dreams.\" (David Patrick Stearns, *Philadelphia Inquirer*)\n\nOn **November 9 and 11** at Roy Thomson Hall, Li performs Willam Walton's *Viola Concerto* as part of the TSO's ongoing [Decades Project: 1920-1929](https://www.tso.ca/concert/best-%E2%80%9920s). Later this month, Li and her newly-formed Rosamunde Quartet (with violinists Noah Bendix Balgley and Shanshan Yao, and cellist Nathan Vickery) play at the University of Toronto for their [Walter Hall Series](https://music.utoronto.ca/concerts-events.php?eid=999), **November 28 at 7:30pm**.\n\nWe spoke with Li about the facets of her work as a violist, from training young musicians to performing with world-class orchestras and chamber ensembles."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478533799126/2016-11-08---Teng-Li-Bo-Huang-Square.jpg.jpg"
+primary_image_credit = "Photo by Bo Huang."
+publishDate = "2016-11-08T13:04:00+00:00"
+related_articles = ["articles/instruments-can-sing-too.md","articles/oundjian-conducts-a-favourite-vaughan-williams-at-the-tso.md","articles/milan-milisavljevic.md"]
+related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
+related_people = ["scene/people/teng-li.md"]
+short_description = "&quot;As a soloist, I have more license to share my independent voice and vision for the piece.  As principal violist in the orchestra, I get to support the vision of the conductor by leading my section to perform as one voice.  I feel lucky to have the opportunity to wear different hats in my career, as a soloist, chamber musician and as an orchestral musician.&quot;"
+slug = "artists-to-watch-teng-li"
+title = "Artists to watch: Teng Li"
++++
 
 ## What do you find is special about the Walton *Viola Concerto*? What do you hope to say with the piece?
 
@@ -36,7 +21,7 @@ The Walton Concerto has become one of the most standard repertoires in viola lit
 
 One of the many things I love about this work is the fact that it was premiered by Paul Hindemith (1895 - 1963) and that the work played a role in bringing together the duo in friendship.  Hindemith, one of the most influential German composers and educators of the 20th century, is someone I admire very much - actually I recently recorded his Viola Sonata on my Azica Records' disc, *1939*.  Knowing the friendship that blossomed from the collaboration is significant to me somehow.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478533662389/2016-11-08---1939-booklet.jpg.jpg)<figcaption>Album photography by Bo Huang.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478533662389/2016-11-08---1939-booklet.jpg.jpg)<figcaption>Album photography by Bo Huang.</figcaption>
 </figure>
 
 ## Can you tell us about Morningside Music Bridge, and its mission?
@@ -53,7 +38,7 @@ I also remember commuting between Philadelphia and Toronto for lessons, classes,
 
 I think it's really like anything else, working hard and finding opportunity.  I have been lucky throughout my career to have the opportunities I've had.  Additionally, the TSO is very proud of their players and offer principal players solo opportunities.  
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478533812862/2016-11-08---Teng-Li-Bo-Huang.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478533812862/2016-11-08---Teng-Li-Bo-Huang.jpg.jpg)
 <figcaption>Photo by Bo Huang.</figcaption>
 </figure>
 

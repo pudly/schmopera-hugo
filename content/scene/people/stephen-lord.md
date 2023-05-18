@@ -1,15 +1,13 @@
----
-_template: people_single
-date: "2015-04-23T00:00:00-04:00"
-discipline: Conductor
-lastmod: "2015-04-23T00:00:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429761621710/Lord.jpg.jpg
-publishDate: "2015-04-23T00:00:00-04:00"
-related_companies:
-- scene/companies/opera-mcgill.md
-slug: stephen-lord
-title: Stephen Lord
----
++++
+date = "2015-04-23T00:00:00-04:00"
+discipline = "Conductor"
+lastmod = "2015-04-23T00:00:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429761621710/Lord.jpg.jpg"
+publishDate = "2015-04-23T00:00:00-04:00"
+related_companies = ["scene/companies/opera-mcgill.md"]
+slug = "stephen-lord"
+title = "Stephen Lord"
++++
 
 Stephen Lord has been chosen by Opera News as one of the "25 Most Powerful Names in U.S. Opera" (one of four conductors), andis continually praised for conducting both traditional and contemporary operatic works. For his debut with San Francisco Opera, conducting Rigoletto, one critic observed, "He partnered his singers perfectly and gave everything its proper weight - he was master of the score's details and the orchestra played superbly for him." He is currently music director for Opera Theatre of Saint Louis, and formerly was music director of Boston Lyric Opera. Conductor Stephen Lord was recently named artistic director of opera studies at New England Conservatory, overseeing all aspects of the opera training program and conducting one main stage production a year.
 

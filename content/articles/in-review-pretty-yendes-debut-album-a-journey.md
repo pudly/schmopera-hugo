@@ -1,28 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2016-09-16T11:29:00+01:00"
-lastmod: "2016-09-17T12:56:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474021757979/2016-09-16---Yende-Album-cover.jpg.jpg
-publishDate: "2016-09-17T12:37:00+01:00"
-related_articles:
-- articles/bel-canto-indeed-dare-voce.md
-- articles/album-review-nights-not-spent-alone.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/opra-national-de-paris.md
-related_people:
-- scene/people/pretty-yende.md
-- scene/people/marco-armiliato.md
-short_description: It&#039;s easy to feel as though you&#039;re standing beside Yende
-  in the studio, watching her bright smile and thoughtful musicianship at work. Yende
-  has clear love for communicating with her audience, and with these recordings, she&#039;s
-  also letting listeners into something that&#039;s quite personal.
-slug: in-review-pretty-yendes-debut-album-a-journey
-title: 'In review: Pretty Yende&#039;s debut album, A Journey'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2016-09-16T11:29:00+01:00"
+lastmod = "2016-09-17T12:56:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474021757979/2016-09-16---Yende-Album-cover.jpg.jpg"
+publishDate = "2016-09-17T12:37:00+01:00"
+related_articles = ["articles/bel-canto-indeed-dare-voce.md","articles/album-review-nights-not-spent-alone.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md"]
+related_people = ["scene/people/pretty-yende.md","scene/people/marco-armiliato.md"]
+short_description = "It&#039;s easy to feel as though you&#039;re standing beside Yende in the studio, watching her bright smile and thoughtful musicianship at work. Yende has clear love for communicating with her audience, and with these recordings, she&#039;s also letting listeners into something that&#039;s quite personal."
+slug = "in-review-pretty-yendes-debut-album-a-journey"
+title = "In review: Pretty Yende&#039;s debut album, A Journey"
++++
 
 South African soprano [Pretty Yende](/scene/people/pretty-yende/) has released her debut album, [*A Journey*](https://www.amazon.co.uk/Journey-Pretty-Yende/dp/B01GTA279G?tag=smarturl-gb-21), on Sony Classical. With [Marco Armiliato](http://imgartists.com/artist/marco_armiliato) conducting the Orchestra Sinfonica Nazionale Della Rai, *A Journey* is both a compilation of beloved *bel canto* arias, and a memoir of sorts for Yende's career to date.
 

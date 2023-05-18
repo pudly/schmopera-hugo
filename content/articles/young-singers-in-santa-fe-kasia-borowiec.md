@@ -1,33 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-07-13T13:13:00-04:00"
-lastmod: "2017-07-22T10:49:00-04:00"
-preamble: |+
-  New Jersey native [Kasia Borowiec](/scene/people/kasia-borowiec/) is a young artist at Palm Beach Opera, and she's spending her second summer as an Apprentice Singer at [The Santa Fe Opera](/scene/companies/the-santa-fe-opera/). In 2016, she sang in the workshop production of *The (R)evolution of Steve Jobs*, the opera by Mason Bates which sees its world premiere at SFO this month. For the 2017 Festival, Borowiec sings the title role in Paul Curran's production of [*The Golden Cockerel*](https://www.santafeopera.org/operas-and-ticketing/the-golden-cockerel).
-
-  Borowiec spoke with us about her respect and admiration for the work happening at Santa Fe Opera, and her summer highlight picks still to come.
-
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500399511574/2017-07-18---KasiaBoroweic.jpg.jpg
-publishDate: "2017-07-22T10:35:00-04:00"
-related_articles:
-- articles/santa-fe-santelli.md
-- articles/talking-with-singers-brenda-rae.md
-related_companies:
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/palm-beach-opera.md
-related_people:
-- scene/people/kasia-borowiec.md
-short_description: '&quot;I will also be singing on the concert that Justice Ruth
-  Bader Ginsburg is hosting at the end of August, and I couldn&#039;t be more excited
-  to meet her and be a part of such a special program. We also already had the Santa
-  Fe Opera Olympics back in June, but that&#039;s a great highlight of the season
-  as well. Imagine staff from across the Opera getting together to relive their fifth
-  grade field day dreams! It&#039;s truly a blast.&quot;'
-slug: young-singers-in-santa-fe-kasia-borowiec
-title: 'Young singers in Santa Fe: Kasia Borowiec'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-07-13T13:13:00-04:00"
+lastmod = "2017-07-22T10:49:00-04:00"
+preamble = "New Jersey native [Kasia Borowiec](/scene/people/kasia-borowiec/) is a young artist at Palm Beach Opera, and she's spending her second summer as an Apprentice Singer at [The Santa Fe Opera](/scene/companies/the-santa-fe-opera/). In 2016, she sang in the workshop production of *The (R)evolution of Steve Jobs*, the opera by Mason Bates which sees its world premiere at SFO this month. For the 2017 Festival, Borowiec sings the title role in Paul Curran's production of [*The Golden Cockerel*](https://www.santafeopera.org/operas-and-ticketing/the-golden-cockerel).\n\nBorowiec spoke with us about her respect and admiration for the work happening at Santa Fe Opera, and her summer highlight picks still to come.\n\n"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500399511574/2017-07-18---KasiaBoroweic.jpg.jpg"
+publishDate = "2017-07-22T10:35:00-04:00"
+related_articles = ["articles/santa-fe-santelli.md","articles/talking-with-singers-brenda-rae.md"]
+related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/palm-beach-opera.md"]
+related_people = ["scene/people/kasia-borowiec.md"]
+short_description = "&quot;I will also be singing on the concert that Justice Ruth Bader Ginsburg is hosting at the end of August, and I couldn&#039;t be more excited to meet her and be a part of such a special program. We also already had the Santa Fe Opera Olympics back in June, but that&#039;s a great highlight of the season as well. Imagine staff from across the Opera getting together to relive their fifth grade field day dreams! It&#039;s truly a blast.&quot;"
+slug = "young-singers-in-santa-fe-kasia-borowiec"
+title = "Young singers in Santa Fe: Kasia Borowiec"
++++
 
 ## Can you describe a day in the life of an apprentice singer at Santa Fe Opera?
 

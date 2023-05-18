@@ -1,21 +1,15 @@
----
-_template: people_single
-date: "2019-03-19T17:24:04+00:00"
-discipline: Soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553016227/media/2019/03/SoYoungPark.jpg
-primary_image_credit: Lanly Le
-related_companies:
-- scene/companies/glimmerglass-festival.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/the-metropolitan-opera.md
-slug: so-young-park
-social_media: []
-title: So Young Park
-website: http://www.sopranosoyoung.com/
----
++++
+date = "2019-03-19T17:24:04+00:00"
+discipline = "Soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553016227/media/2019/03/SoYoungPark.jpg"
+primary_image_credit = "Lanly Le"
+related_companies = ["scene/companies/glimmerglass-festival.md", "scene/companies/houston-grand-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/los-angeles-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-metropolitan-opera.md"]
+slug = "so-young-park"
+social_media = []
+title = "So Young Park"
+website = "http://www.sopranosoyoung.com/"
+
++++
 A native of South Korea, So Young Park thrills audiences with her “stunning” (LA Times) and “dead-accurate” (New York Times) voice. Recently she made her Metropolitan Opera debut as the Queen of the Night in _The Magic Flute_ and New York Philharmonic with performing the Queen’s iconic aria. For the upcoming engagements, Ms. Park will make her company debut as Setsuko in _An American Dream_ with Lyric Opera of Chicago, return to LA Opera to perform the Queen in _Magic Flute_, and Houston Grand Opera for the same role. 
 
 Her unique and flexible voice allows her to tackle many of opera’s most challenging soprano roles.  Opera News described her signature role of the Queen of the Night as "darker and more colorful than that of the leggieros who usually take the role: the voice’s weight was a reminder that the Queen has urgent matters to impart before she lets loose with her fireworks. Park’s coloratura was dazzling in runs and arpeggio." She has performed the Queen with lots of leading opera houses in the US includes the Metropolitan Opera, Los Angeles Opera, Houston Grand Opera, the Glimmerglass Festival, Michigan Opera Theatre and more. 

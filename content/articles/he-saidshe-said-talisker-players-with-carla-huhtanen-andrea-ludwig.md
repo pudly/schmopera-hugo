@@ -1,30 +1,18 @@
----
-author:
-- authors/jenna.md
-- authors/greg.md
-categories: Review
-date: "2015-05-13T21:16:00-04:00"
-lastmod: "2015-05-13T21:42:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431566171358/CarlaAndrea.jpg.jpg
-primary_image_credit: 'l-r: Carla Huhtanen (carlahuhtanen.com) and Andrea Ludwig (Bo
-  Huang)'
-publishDate: "2015-05-14T08:30:00-04:00"
-related_articles:
-- articles/in-review-the-talisker-players-bestiary.md
-- articles/in-review-the-talisker-players-spirit-dreaming.md
-related_companies:
-- scene/companies/talisker-players.md
-related_people:
-- scene/people/carla-huhtanen.md
-- scene/people/andrea-ludwig.md
-short_description: 'Tuesday night, Greg &amp; I went to hear the Talisker Players
-  at Trinity-St. Paul&#039;s on Bloor. The Players&#039; chamber series is always
-  a guarantee for great performances and interesting programming, and this concert
-  was no exception. Entitled Heroes, Gods &amp; Mortals, the programme included two
-  of my favourite singers to watch: Carla Huhtanen and Andrea Ludwig.'
-slug: he-saidshe-said-talisker-players-with-carla-huhtanen-andrea-ludwig
-title: 'He said/she said: Talisker Players, with Carla Huhtanen &amp; Andrea Ludwig'
----
++++
+author = ["authors/jenna.md","authors/greg.md"]
+categories = "Review"
+date = "2015-05-13T21:16:00-04:00"
+lastmod = "2015-05-13T21:42:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431566171358/CarlaAndrea.jpg.jpg"
+primary_image_credit = "l-r: Carla Huhtanen (carlahuhtanen.com) and Andrea Ludwig (Bo Huang)"
+publishDate = "2015-05-14T08:30:00-04:00"
+related_articles = ["articles/in-review-the-talisker-players-bestiary.md","articles/in-review-the-talisker-players-spirit-dreaming.md"]
+related_companies = ["scene/companies/talisker-players.md"]
+related_people = ["scene/people/carla-huhtanen.md","scene/people/andrea-ludwig.md"]
+short_description = "Tuesday night, Greg &amp; I went to hear the Talisker Players at Trinity-St. Paul&#039;s on Bloor. The Players&#039; chamber series is always a guarantee for great performances and interesting programming, and this concert was no exception. Entitled Heroes, Gods &amp; Mortals, the programme included two of my favourite singers to watch: Carla Huhtanen and Andrea Ludwig."
+slug = "he-saidshe-said-talisker-players-with-carla-huhtanen-andrea-ludwig"
+title = "He said/she said: Talisker Players, with Carla Huhtanen &amp; Andrea Ludwig"
++++
 
 
 **Jenna**: Tuesday night, Greg & I went to hear the [Talisker Players](http://www.taliskerplayers.ca/) at Trinity-St. Paul's on Bloor. The Players' chamber series is always a guarantee for great performances and interesting programming, and this concert was no exception. Entitled *Heroes, Gods & Mortals*, the programme included two of my favourite singers to watch: [Carla Huhtanen](http://www.carlahuhtanen.com/) and [Andrea Ludwig](http://andrealudwig.ca/).

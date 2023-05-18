@@ -1,23 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2015-10-25T21:55:00-04:00"
-lastmod: "2015-11-07T09:22:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446760685134/2015-11-05---Radio.jpg.jpg
-publishDate: "2015-11-07T09:22:00-05:00"
-related_companies:
-- scene/companies/toronto-symphony-orchestra.md
-related_people:
-- scene/people/simone-osborne.md
-short_description: This weekend, turn your radio-like devices to Classical 96.3 FM
-  for the latest episode of Sunday Night with the TSO. Recently I joined hosts Kathleen
-  Kajioka and Jeff Melanson (President and CEO of the Toronto Symphony Orchestra)
-  and fellow guest Michael Vincent (editor, Musical Toronto) for a somewhat meta-conversation
-  about the value of music criticism.
-slug: on-the-air-sunday-night-with-the-tso
-title: 'On the air: Sunday Night with the TSO'
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2015-10-25T21:55:00-04:00"
+lastmod = "2015-11-07T09:22:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446760685134/2015-11-05---Radio.jpg.jpg"
+publishDate = "2015-11-07T09:22:00-05:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
+related_people = ["scene/people/simone-osborne.md"]
+short_description = "This weekend, turn your radio-like devices to Classical 96.3 FM for the latest episode of Sunday Night with the TSO. Recently I joined hosts Kathleen Kajioka and Jeff Melanson (President and CEO of the Toronto Symphony Orchestra) and fellow guest Michael Vincent (editor, Musical Toronto) for a somewhat meta-conversation about the value of music criticism."
+slug = "on-the-air-sunday-night-with-the-tso"
+title = "On the air: Sunday Night with the TSO"
++++
 
 This weekend, turn your radio-like devices to [Classical 96.3 FM](http://www.classical963fm.com/) for the latest episode of [*Sunday Night with the TSO*](http://www.classical963fm.com/shows/sunday-night-with-the-tso/). 
 

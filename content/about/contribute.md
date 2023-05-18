@@ -1,5 +1,5 @@
 ---
-title: Contribute to Schmopera
+title: "Contribute to Schmopera"
 ---
 
 ## We need you.

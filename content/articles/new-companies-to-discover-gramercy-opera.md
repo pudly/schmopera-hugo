@@ -1,28 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-04-24T12:13:00-04:00"
-lastmod: "2017-04-27T14:41:00-04:00"
-preamble: |-
-  "We're new and we're here and we're ready to entertain." New York-based [Gramercy Opera](/scene/companies/gramercy-opera/) is kicking off its inaugural season in style, starting with their upcoming gala, "Belle Nuit" on **May 11**. The next month, they present Purcell's *The Fairy Queen*, re-imagined by Shakespeare specialist and stage director Brittany Goodwin, **June 10-16** at the Upper East Side's Mount Vernon Museum and Garden.
-
-  We spoke with co-founders Allison McAuley and Magda Gartner about Gramercy Opera's layered mission, and what's on the line-up for "Belle Nuit".
-
-  For details and tickets about their gala and *The Fairy Queen*, [click here.](http://www.gramercyopera.com/upcoming.html)
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493076982299/2017-04-24---Square---Poster_FairyQueen.jpg.jpg
-publishDate: "2017-04-27T14:41:00-04:00"
-related_companies:
-- scene/companies/gramercy-opera.md
-short_description: '&quot;There are so many amazingly talented artists in New York
-  City, our goal is to embrace them, creating beautiful art and entertaining performances.
-  We are extremely inspired by what LoftOpera is doing in Brooklyn. We hope to follow
-  in their footsteps on a smaller scale in Manhattan: producing exciting performances
-  at affordable prices and encouraging younger people to make opera part of their
-  lives.&quot;'
-slug: new-companies-to-discover-gramercy-opera
-title: 'New companies to discover: Gramercy Opera'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-04-24T12:13:00-04:00"
+lastmod = "2017-04-27T14:41:00-04:00"
+preamble = "\"We're new and we're here and we're ready to entertain.\" New York-based [Gramercy Opera](/scene/companies/gramercy-opera/) is kicking off its inaugural season in style, starting with their upcoming gala, \"Belle Nuit\" on **May 11**. The next month, they present Purcell's *The Fairy Queen*, re-imagined by Shakespeare specialist and stage director Brittany Goodwin, **June 10-16** at the Upper East Side's Mount Vernon Museum and Garden.\n\nWe spoke with co-founders Allison McAuley and Magda Gartner about Gramercy Opera's layered mission, and what's on the line-up for \"Belle Nuit\".\n\nFor details and tickets about their gala and *The Fairy Queen*, [click here.](http://www.gramercyopera.com/upcoming.html)"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493076982299/2017-04-24---Square---Poster_FairyQueen.jpg.jpg"
+publishDate = "2017-04-27T14:41:00-04:00"
+related_companies = ["scene/companies/gramercy-opera.md"]
+short_description = "&quot;There are so many amazingly talented artists in New York City, our goal is to embrace them, creating beautiful art and entertaining performances. We are extremely inspired by what LoftOpera is doing in Brooklyn. We hope to follow in their footsteps on a smaller scale in Manhattan: producing exciting performances at affordable prices and encouraging younger people to make opera part of their lives.&quot;"
+slug = "new-companies-to-discover-gramercy-opera"
+title = "New companies to discover: Gramercy Opera"
++++
 
 ## How does Gramercy Opera fit into the rich opera scene in New York?
 
@@ -36,9 +24,7 @@ We want to directly connect the performers with the audience. People who have ne
 
 Opera did not begin as an art form only for the elite. The themes of early opera are often quite risqué featuring love, lust and death. The appeal cut across all social groups. We love the storytelling aspect and want to ensure it is not lost.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077035941/2017-04-24---Gramercy-Opera.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077035941/2017-04-24---Gramercy-Opera.jpg.jpg)
 <figcaption>Magda Gartner (left) and Allison McAuley, co-founders, Gramercy Opera.</figcaption>
 </figure>
 
@@ -56,9 +42,7 @@ On May 11th, we are producing our first gala at the exclusive Players Club on Gr
 
 The Gala will feature an ensemble of talented, new artists offering selections from *La Traviata*, *Carmen*, *La Bohème*, *Die Fledermaus*, *Rigoletto* and of course, the Barcarolle "Belle Nuit" from Offenbach's *The Tales of Hoffmann*.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077050912/2017-04-24---Poster_NoCrops.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077050912/2017-04-24---Poster_NoCrops.jpg.jpg)
 <figcaption></figcaption>
 </figure>
 
@@ -66,9 +50,7 @@ The Gala will feature an ensemble of talented, new artists offering selections f
 
 We have a variety of projects in the works right now including an Opera-Yoga event with Lululemon in NYC as well the NYC premier of an American children's opera by Frank Schiro entitled *Twice Upon a Birthday*, followed by a school tour. There are no limits to where our imaginations will take us!
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077062680/2017-04-24---Poster_FairyQueen.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493077062680/2017-04-24---Poster_FairyQueen.jpg.jpg)
 <figcaption></figcaption>
 </figure>
 

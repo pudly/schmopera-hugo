@@ -1,25 +1,22 @@
----
-date: "2019-01-21T21:43:33+00:00"
-discipline: Baritone
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548106245/media/2019/01/ThomasGlass.jpg
-primary_image_credit: Simon Pauly.
-related_companies:
-- scene/companies/merola-opera-program.md
-- scene/companies/minnesota-opera.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/wolf-trap-opera.md
-slug: thomas-glass
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/ThomasGlassBaritone/
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/channel/UC2vttQYxCsUcl_ho5FHhLcg
-title: Thomas Glass
-website: https://www.thomasglassbaritone.com/
----
++++
+date = "2019-01-21T21:43:33+00:00"
+discipline = "Baritone"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548106245/media/2019/01/ThomasGlass.jpg"
+primary_image_credit = "Simon Pauly."
+related_companies = ["scene/companies/merola-opera-program.md", "scene/companies/minnesota-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/wolf-trap-opera.md"]
+slug = "thomas-glass"
+title = "Thomas Glass"
+website = "https://www.thomasglassbaritone.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/ThomasGlassBaritone/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UC2vttQYxCsUcl_ho5FHhLcg"
+
++++
 Baritone Thomas Glass is a 2018-2019 Studio Artist at Houston Grand Opera, where this season he makes his role debut as Marcello in _La bohème_, Alvaro in _Florencia en el Amazonas_ and covers the title role in _Don Giovanni_. 
 
 In the 2017-2018 season with Houston Grand Opera, Mr. Glass made his role debut as Figaro in Rossini's _Il barbiere di Siviglia_, performed Baron Duphol in _La Traviata_, Fiorello in _Il barbiere di Siviglia_ and Officer Krupke in Bernstein’s _West Side Story_. Further assignments in the season included the cover of Achilla in Handel’s _Giulio Cesare in Egitto_. 

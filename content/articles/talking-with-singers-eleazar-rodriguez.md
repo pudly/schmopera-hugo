@@ -1,32 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-10-05T07:42:00-04:00"
-lastmod: "2017-08-30T13:07:00-04:00"
-preamble: |-
-  Mexican tenor [Eleazar Rodríguez](/scene/people/eleazar-rodriguez/) makes his operatic bread and butter out of roles like Nemorino (*L'elisir d'amore*), Tamino (*Die Zauberflöte*), and Count Almaviva (*Il barbiere di Siviglia*). He has been a member of the ensemble at the Badisches Staatstheater in Karlsruhe, where he has been a member of the ensemble since the 2011/12 season, and this fall he returns to [English National Opera](/scene/companies/english-national-opera/) to sing his signature Almaviva in Johnathan Miller's production of [*The Barber of Seville*].
-
-  Rodríguez took the time out of his busy schedule onstage to talk with us about the life of a Fest singer, performing some of his dream roles, and what he learned early on from the Three Tenors.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475667728156/2016-10-05---Eleazar-Rodriguez.jpg.jpg
-primary_image_credit: Photo by Felix Grünschloß.
-publishDate: "2016-10-06T05:01:00-04:00"
-related_articles:
-- articles/talking-with-singers-rene-barbera.md
-- articles/talking-with-singers-bryan-register.md
-- articles/talking-with-singers-luca-pisaroni.md
-- articles/laughing-out-loud-the-barber-of-seville-at-eno.md
-related_people:
-- scene/people/eleazar-rodriguez.md
-short_description: '&quot;It honestly began like a hobby. I started by imitation,
-  like many singers do. In Mexico it is still a custom, at least in my hometown, that
-  the eldest son, takes the profession of the father. In my case I was thinking of
-  going into law, since my dad is a great lawyer, but that never happened. I&#039;ve
-  been working a lot on this career and little by little I&#039;ve been going up the
-  ladder.&quot;'
-slug: talking-with-singers-eleazar-rodriguez
-title: 'Talking with singers: Eleazar Rodríguez'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-10-05T07:42:00-04:00"
+lastmod = "2017-08-30T13:07:00-04:00"
+preamble = "Mexican tenor [Eleazar Rodríguez](/scene/people/eleazar-rodriguez/) makes his operatic bread and butter out of roles like Nemorino (*L'elisir d'amore*), Tamino (*Die Zauberflöte*), and Count Almaviva (*Il barbiere di Siviglia*). He has been a member of the ensemble at the Badisches Staatstheater in Karlsruhe, where he has been a member of the ensemble since the 2011/12 season, and this fall he returns to [English National Opera](/scene/companies/english-national-opera/) to sing his signature Almaviva in Johnathan Miller's production of [*The Barber of Seville*].\n\nRodríguez took the time out of his busy schedule onstage to talk with us about the life of a Fest singer, performing some of his dream roles, and what he learned early on from the Three Tenors."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475667728156/2016-10-05---Eleazar-Rodriguez.jpg.jpg"
+primary_image_credit = "Photo by Felix Grünschloß."
+publishDate = "2016-10-06T05:01:00-04:00"
+related_articles = ["articles/talking-with-singers-rene-barbera.md","articles/talking-with-singers-bryan-register.md","articles/talking-with-singers-luca-pisaroni.md","articles/laughing-out-loud-the-barber-of-seville-at-eno.md"]
+related_people = ["scene/people/eleazar-rodriguez.md"]
+short_description = "&quot;It honestly began like a hobby. I started by imitation, like many singers do. In Mexico it is still a custom, at least in my hometown, that the eldest son, takes the profession of the father. In my case I was thinking of going into law, since my dad is a great lawyer, but that never happened. I&#039;ve been working a lot on this career and little by little I&#039;ve been going up the ladder.&quot;"
+slug = "talking-with-singers-eleazar-rodriguez"
+title = "Talking with singers: Eleazar Rodríguez"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

@@ -1,22 +1,17 @@
----
-author:
-- authors/greg.md
-categories: Editorial
-date: "2014-08-25T13:16:00-04:00"
-lastmod: "2015-04-16T17:21:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548018494/media/2019/01/ValerianRuminski.jpg
-publishDate: "2014-08-25T13:16:00-04:00"
-related_articles:
-- articles/dont-miss-boys-of-paradise.md
-related_companies:
-- scene/companies/opera-lyra-ottawa.md
-short_description: |-
-  So as it turns out, Tamar Iveri isn&#039;t the only one with controversial opinions on alternative lifestyles.
-  Only about 2 months ago the Georgian soprano was released from contracts in Australia due to an ultra-homophobic and hate-mongering post on her Facebook.
-slug: valerian-ruminski-or-those-who-forget-the-past-are-doomed-to-repeat-it
-title: Valerian Ruminski, or &quot;Those who forget the past are doomed to repeat
-  it&quot;
----
++++
+author = ["authors/greg.md"]
+categories = "Editorial"
+date = "2014-08-25T13:16:00-04:00"
+lastmod = "2015-04-16T17:21:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548018494/media/2019/01/ValerianRuminski.jpg"
+publishDate = "2014-08-25T13:16:00-04:00"
+related_articles = ["articles/dont-miss-boys-of-paradise.md"]
+related_companies = ["scene/companies/opera-lyra-ottawa.md"]
+short_description = "So as it turns out, Tamar Iveri isn&#039;t the only one with controversial opinions on alternative lifestyles.\nOnly about 2 months ago the Georgian soprano was released from contracts in Australia due to an ultra-homophobic and hate-mongering post on her Facebook."
+slug = "valerian-ruminski-or-those-who-forget-the-past-are-doomed-to-repeat-it"
+title = "Valerian Ruminski, or &quot;Those who forget the past are doomed to repeat it&quot;"
+
++++
 So as it turns out, [Tamar Iveri](/desdemona-down/) isn't the only one with controversial opinions on alternative lifestyles.
 Only about 2 months ago the Georgian soprano was released from contracts in Australia due to an ultra-homophobic and hate-mongering post on her Facebook. There's been a fair bit of media around it and her reactions and you can catch up on the drama [here](/desdemona-down/).
 

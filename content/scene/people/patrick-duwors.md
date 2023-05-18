@@ -1,21 +1,18 @@
----
-date: "2015-04-17T22:19:00-04:00"
-discipline: Set & Costume Designer
-lastmod: "2015-04-17T22:19:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429323534129/5c7c26_10fe5f979f8b42f3983dc776ad5641b8.jpg_srz_p_365_470_75_22_0.50_1.20_0.00_jpg_srz
-publishDate: "2015-04-17T22:19:00-04:00"
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/royal-opera-house.md
-slug: patrick-duwors
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/patrickduwors
-title: Patrick DuWors
-website: http://www.patrickduwors.com/
----
++++
+date = "2015-04-17T22:19:00-04:00"
+discipline = "Set & Costume Designer"
+lastmod = "2015-04-17T22:19:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429323534129/5c7c26_10fe5f979f8b42f3983dc776ad5641b8.jpg_srz_p_365_470_75_22_0.50_1.20_0.00_jpg_srz"
+publishDate = "2015-04-17T22:19:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/royal-opera-house.md"]
+slug = "patrick-duwors"
+title = "Patrick DuWors"
+website = "http://www.patrickduwors.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/patrickduwors"
++++
 
 Patrick is an award-winning performance designer working in the areas of set, costume, and lighting.  Patrick joined the faculty of the School of Creative and Performing Arts at the University of Calgary in July 2013.  Patrick is a member of the Associated Designers of Canada.
  

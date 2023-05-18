@@ -1,24 +1,16 @@
----
-_template: people_single
-date: "2015-11-28T18:57:00-05:00"
-discipline: Soprano
-lastmod: "2015-11-28T19:02:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448755125649/2015-11-29---Nicole-Cabell-2.jpg.jpg
-primary_image_credit: Erika Dufour
-publishDate: "2015-11-28T19:02:00-05:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/royal-opera-house.md
-- scene/companies/opra-national-de-paris.md
-- scene/companies/lopra-de-montral.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/eastman-opera-theatre.md
-slug: nicole-cabell
-title: Nicole Cabell
-website: http://nicole-cabell.com/
----
++++
+date = "2015-11-28T18:57:00-05:00"
+discipline = "Soprano"
+lastmod = "2015-11-28T19:02:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448755125649/2015-11-29---Nicole-Cabell-2.jpg.jpg"
+primary_image_credit = "Erika Dufour"
+publishDate = "2015-11-28T19:02:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/royal-opera-house.md", "scene/companies/opra-national-de-paris.md", "scene/companies/lopra-de-montral.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/eastman-opera-theatre.md"]
+slug = "nicole-cabell"
+title = "Nicole Cabell"
+website = "http://nicole-cabell.com/"
+
++++
 Universally acclaimed for her velvety timbre and finely nuanced interpretations, American soprano Nicole Cabell continues to demonstrate her incredible versatility in repertoire ranging from Baroque to contemporary on the world’s greatest opera and concert stages as well as on disc. 
 
 Last season saw Nicole Cabell sing her first staged Bess in James Robinson’s acclaimed production of _Porgy and Bess_ for English National Opera, conducted by John Wilson. At home in the US, she returned to Cincinatti as Juliette (_Roméo et Juliette_), and joined Pittsburgh Opera as Mimì. This season she sings Donna Elvira (_Don Giovanni_) at Michigan Opera Theatre under Christopher Allen; and next season, she makes her debut at Theater an der Wien in Matthew Wild’s new production of _Porgy and Bess_.

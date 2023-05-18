@@ -1,27 +1,17 @@
----
-author:
-- authors/greg.md
-categories: Review
-date: "2016-11-02T17:24:00+00:00"
-lastmod: "2016-11-04T13:56:00+00:00"
-preamble: 'Photo: [Don Harder](https://www.flickr.com/photos/dharder9475/16950293641/in/photolist-rPQFL6-7hrdDq-612CJ2-oAh6hQ-6R8WgZ-7MVjnQ-8FBfPD-85sUWH-cWeS17-a2nukm-9yLQ6v-6PcqgJ-7aUEKt-7hnhcM-7hnhhx-7hnhjR-6R8Wqi-7fC9SH-FcfHv-7hnhn4-7hnhfp-daE1Bv-4MAVrG-4FoKAD-5xNMbF-6MsHkV-au9jVw-3Yj1q8-7wQMNQ-me2r-6Rd1wS-6Rd3wj-dCDVqw-5K5RKJ-7hnh8c-a8BCFU-7fG4c9-oMa6Aq-9xWmwP-6yMYU2-8uXLG7-CBbsU-cr833u-6R8WkB-bzETLV-9nqA3s-9GbYRA-8BET4d-6B7V7S-qACFxt)
-  via [Flickr](https://creativecommons.org/licenses/by-nc/2.0/legalcode)'
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478254724915/2016-11-04---Moon.jpg.jpg
-publishDate: "2016-11-04T13:56:00+00:00"
-related_articles:
-- articles/he-saidshe-said-mozarts-requiem-at-tso.md
-- articles/in-review-jamie-barton-leaves-you-wanting-more.md
-- articles/thrilling-nights-szymanowski-orff-with-the-tso.md
-- articles/oundjian-conducts-a-favourite-vaughan-williams-at-the-tso.md
-related_companies:
-- scene/companies/toronto-symphony-orchestra.md
-short_description: They played from Pee-Wee, Batman, Batman Returns (the Catwoman
-  theme was excellent), Dark Shadows, Big Fish, Alice in Wonderland, The Nightmare
-  Before Christmas, and of course, Edward Scissorhands. The TSO under the baton of
-  Ted Sperling were in top form.
-slug: the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton
-title: The TSO does Danny Elfman&#039;s music from the films of Tim Burton
----
++++
+author = ["authors/greg.md"]
+categories = "Review"
+date = "2016-11-02T17:24:00+00:00"
+lastmod = "2016-11-04T13:56:00+00:00"
+preamble = "Photo: [Don Harder](https://www.flickr.com/photos/dharder9475/16950293641/in/photolist-rPQFL6-7hrdDq-612CJ2-oAh6hQ-6R8WgZ-7MVjnQ-8FBfPD-85sUWH-cWeS17-a2nukm-9yLQ6v-6PcqgJ-7aUEKt-7hnhcM-7hnhhx-7hnhjR-6R8Wqi-7fC9SH-FcfHv-7hnhn4-7hnhfp-daE1Bv-4MAVrG-4FoKAD-5xNMbF-6MsHkV-au9jVw-3Yj1q8-7wQMNQ-me2r-6Rd1wS-6Rd3wj-dCDVqw-5K5RKJ-7hnh8c-a8BCFU-7fG4c9-oMa6Aq-9xWmwP-6yMYU2-8uXLG7-CBbsU-cr833u-6R8WkB-bzETLV-9nqA3s-9GbYRA-8BET4d-6B7V7S-qACFxt) via [Flickr](https://creativecommons.org/licenses/by-nc/2.0/legalcode)"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478254724915/2016-11-04---Moon.jpg.jpg"
+publishDate = "2016-11-04T13:56:00+00:00"
+related_articles = ["articles/he-saidshe-said-mozarts-requiem-at-tso.md","articles/in-review-jamie-barton-leaves-you-wanting-more.md","articles/thrilling-nights-szymanowski-orff-with-the-tso.md","articles/oundjian-conducts-a-favourite-vaughan-williams-at-the-tso.md"]
+related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
+short_description = "They played from Pee-Wee, Batman, Batman Returns (the Catwoman theme was excellent), Dark Shadows, Big Fish, Alice in Wonderland, The Nightmare Before Christmas, and of course, Edward Scissorhands. The TSO under the baton of Ted Sperling were in top form."
+slug = "the-tso-does-danny-elfmans-music-from-the-films-of-tim-burton"
+title = "The TSO does Danny Elfman&#039;s music from the films of Tim Burton"
++++
 
 Hello Schmop-Tops, 
 

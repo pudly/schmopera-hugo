@@ -1,21 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2014-08-26T14:43:00-04:00"
-lastmod: "2015-04-16T17:18:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429219041778/w-champagne-flute-bubbles-118894.jpg.jpg
-publishDate: "2014-08-26T14:43:00-04:00"
-related_articles:
-- articles/the-opera-party-monologue.md
-short_description: On that old topic of opera&#039;s social relevance, I came across
-  an article by Robert Thicknesse of The Guardian, entitled &quot;How I fell out of
-  love with opera&quot;. The long-time arts critic argues that the social snobbery
-  that clouds opera will never be shed, since those social snobs are the ones funding
-  it all to begin with. &quot;
-slug: does-opera-depend-on-its-snobs
-title: Does opera depend on its snobs?
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2014-08-26T14:43:00-04:00"
+lastmod = "2015-04-16T17:18:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429219041778/w-champagne-flute-bubbles-118894.jpg.jpg"
+publishDate = "2014-08-26T14:43:00-04:00"
+related_articles = ["articles/the-opera-party-monologue.md"]
+short_description = "On that old topic of opera&#039;s social relevance, I came across an article by Robert Thicknesse of The Guardian, entitled &quot;How I fell out of love with opera&quot;. The long-time arts critic argues that the social snobbery that clouds opera will never be shed, since those social snobs are the ones funding it all to begin with. &quot;"
+slug = "does-opera-depend-on-its-snobs"
+title = "Does opera depend on its snobs?"
++++
 
 On that old topic of opera's social relevance, I came across an article by Robert Thicknesse of _The Guardian_, entitled ["How I fell out of love with opera"](http://www.theguardian.com/music/2010/may/27/falling-out-of-love-opera). The long-time arts critic argues that the social snobbery that clouds opera will never be shed, since those social snobs are the ones funding it all to begin with. "In order to survive, opera has to prostitute itself to the rich and to people who don't like it, to betray its own essence again and again, to the point where it doesn't even realise it's doing so. The influential part of its audience wants it dead, repetitive, predictable, pretty, safely insulated in some foreign language."
 

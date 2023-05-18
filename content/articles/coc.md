@@ -1,42 +1,29 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2021-09-28T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1632920335/media/2021/09/sqCOC_MC1Orch4_n31f5q.jpg
-primary_image_credit: 'COC Music Director Johannes Debus and the COC Orchestra performing
-  in the COC''s In Concert: Russell Braun and Tamara Wilson with the COC Orchestra,
-  2021. Photo: COC.'
-related_articles:
-- articles/neef.md
-- articles/the-pandemic-has-made-me-opera-conservative.md
-- articles/tamara-wilson-gives-a-flawless-aida-at-wno.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/russell-braun.md
-- scene/people/tamara-wilson.md
-short_description: Wilson may be my new favourite interpreter of Wagner. Her Isolde
-  did things to me, made me stop and zone in. Wilson always impresses me in her attention
-  to detail; it's very clear that in the practice room, she has given attention to
-  each note she sings.
-slug: wilson-shines-in-the-cocs-digital-fall-opener
-title: Wilson shines in the COC's digital fall opener
-youtube_url: ""
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = 2021-09-28T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1632920335/media/2021/09/sqCOC_MC1Orch4_n31f5q.jpg"
+primary_image_credit = "COC Music Director Johannes Debus and the COC Orchestra performing in the COC's In Concert: Russell Braun and Tamara Wilson with the COC Orchestra, 2021. Photo: COC."
+related_articles = ["articles/neef.md", "articles/the-pandemic-has-made-me-opera-conservative.md", "articles/tamara-wilson-gives-a-flawless-aida-at-wno.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/russell-braun.md", "scene/people/tamara-wilson.md"]
+short_description = "Wilson may be my new favourite interpreter of Wagner. Her Isolde did things to me, made me stop and zone in. Wilson always impresses me in her attention to detail; it's very clear that in the practice room, she has given attention to each note she sings."
+slug = "wilson-shines-in-the-cocs-digital-fall-opener"
+title = "Wilson shines in the COC's digital fall opener"
+youtube_url = ""
+
++++
 The [Canadian Opera Company](/scene/companies/canadian-opera-company/) has officially launched its 2021-22 season, which is set to be a mix of digital and in-person offerings. The [fall kicked off in style](https://www.coc.ca/productions/22877), with a concert of arias and orchestral highlights from opera’s big-guns: Verdi, Wagner, Puccini, and friends. The headlining artists: beloved Canadian baritone [Russell Braun](/scene/people/russell-braun/), and star American soprano [Tamara Wilson](/scene/people/tamara-wilson/), backed by COC Music Director Johannes Debus and the COC Orchestra.
 
 If you can stand the bittersweet, sweeping camera shots of the oh-so-empty Four Seasons Centre for the Performing Arts, this first proper digital item from the COC is something to be proud of. The COC Orchestra sounds wonderful, and it's a treat to see the familiar body language of maestro Debus, masked as he is. The sound is excellent, and the concert has a visual balance of large-scale and intimate - bravo to director Taylor Long for that.
 
 I could have done without the script given to General Director Perryn Leech, whom we're all still getting to know. I get the idea behind it: greet the viewers, set up the concert, and offer conflict-free commentary between numbers. It certainly felt a bit hokey at times, but I sense that the COC has a better grasp on their core audience (and perhaps their age) than I do.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1632920832/media/2021/09/COC_MC1_Orch2_dwsqe8.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632920832/media/2021/09/COC_MC1_Orch2_dwsqe8.jpg){{% /md %}}
 
 <figcaption>COC Music Director Johannes Debus and the COC Orchestra performing in the COC's In Concert: Russell Braun and Tamara Wilson with the COC Orchestra, 2021. Photo: COC.</figcaption>
 
@@ -52,9 +39,7 @@ But really, from where I was sitting, the night belonged to Wilson. Arias from _
 
 I figured that would be my highlight, but then Wilson gave us Leonora's first act aria from _Il trovatore_, nestled right next to Isolde's Liebestod from _Tristan und Isolde_. I've always been impressed with her Italian singing; I heard her in the COC's recent productions of _Turandot_ and _Otello_, and was a solid fan.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1632920863/media/2021/09/COC_MC1_TamaraStill3_hhhkwv.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1632920863/media/2021/09/COC_MC1_TamaraStill3_hhhkwv.jpg){{% /md %}}
 
 <figcaption>Tamara Wilson (left) performing in the COC's In Concert: Russell Braun and Tamara Wilson with the COC Orchestra, 2021, photo: COC</figcaption>
 

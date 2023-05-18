@@ -1,32 +1,22 @@
----
-date: "2017-06-25T11:46:00-06:00"
-discipline: Countertenor
-lastmod: "2017-06-25T11:46:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498412790795/test.png.png
-publishDate: "2017-06-25T11:46:00-06:00"
-related_companies:
-- scene/companies/glyndebourne.md
-- scene/companies/scottish-opera.md
-- scene/companies/royal-opera-house.md
-- scene/companies/toronto-symphony-orchestra.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/welsh-national-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/opera-north.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/lopra-de-montral.md
-slug: daniel-taylor
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/theatreofearlymusic
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/tem_musique
-title: Daniel Taylor
-website: http://www.danieltaylor.ca/
----
++++
+date = "2017-06-25T11:46:00-06:00"
+discipline = "Countertenor"
+lastmod = "2017-06-25T11:46:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498412790795/test.png.png"
+publishDate = "2017-06-25T11:46:00-06:00"
+related_companies = ["scene/companies/glyndebourne.md","scene/companies/scottish-opera.md","scene/companies/royal-opera-house.md","scene/companies/toronto-symphony-orchestra.md","scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/opera-north.md","scene/companies/bayerische-staatsoper.md","scene/companies/lopra-de-montral.md"]
+slug = "daniel-taylor"
+title = "Daniel Taylor"
+website = "http://www.danieltaylor.ca/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/theatreofearlymusic"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/tem_musique"
++++
 
 A Sony Classical artist, Daniel Taylor is one of the most sought-after countertenors in the world. Daniel appears on 100 recordings which include Bach Cantatas/Monteverdi Choir/Gardiner (for Deutsche Grammophone Archiv and SDG); Renaissance duets with Bowman /Actor Ralph Fiennes/TEM (BIS); Handel’s *Rinaldo* with Bartoli /AAM/Hogwood (Decca); Cantatas “Before Bach” with Collegium Vocale /Herrewege (Harmonia Mundi); Sakamoto’s pop-opera “Life” with the Dalai Lama and Salman Rushdie (Sony); Bach Cantatas with Bach Collegium Japan (BIS); a Bach recital with the Theatre of Early Music and a recital of Shakespeare’s songs (Sony); Vivaldi *Gloria* with the Bethlehem Bach Choir/Funfgeld (Analekta); Vivaldi’s *Stabat Mater*(BIS); four recordings of Handel’s *Messiah*, these being with the Montreal Symphony/Nagano (Universal), Kammerchor Stuttgart/Bernius (Carus), with the American Bach Soloists/Thomas(Koch) and a CD/DVD with Tafelmusik (Bravo Television). Daniel has recorded the CD/DVD of the Bach B minor Mass with the Ensemble Orchestral Paris/Nelson (EMI Virgin) and also a CD with the Kammerchor Stuttgart/Bernius (Carus). Upcoming recordings include Bach Cantatas with the Magdalena Consort/Chandos, Bach *St. Matthew Passion* with the Kammerchor Stuttgart/Bernius (Carus) and Handel *Messiah* with the Handel & Haydn Society/Christophers (Coro).
 

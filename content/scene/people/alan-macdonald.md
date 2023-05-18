@@ -1,26 +1,22 @@
----
-date: "2017-06-24T14:30:00-06:00"
-discipline: Baritone
-lastmod: "2017-06-24T14:33:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498336199710/download%20(1).jpeg.jpeg
-publishDate: "2017-06-24T14:30:00-06:00"
-related_companies:
-- scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md
-- scene/companies/vancouver-opera.md
-- scene/companies/opera-5.md
-- scene/companies/the-banff-centre.md
-slug: alan-macdonald
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/alanjmacdonald
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/alanjmacdonald/
-title: Alan MacDonald
-website: http://www.alanmacdonaldbaritone.com/
----
++++
+date = "2017-06-24T14:30:00-06:00"
+discipline = "Baritone"
+lastmod = "2017-06-24T14:33:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498336199710/download%20(1).jpeg.jpeg"
+publishDate = "2017-06-24T14:30:00-06:00"
+related_companies = ["scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md","scene/companies/vancouver-opera.md","scene/companies/opera-5.md","scene/companies/the-banff-centre.md"]
+slug = "alan-macdonald"
+title = "Alan MacDonald"
+website = "http://www.alanmacdonaldbaritone.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/alanjmacdonald"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/alanjmacdonald/"
++++
 
 oronto-based baritone Alan Macdonald has been praised by Opera Canada for his “wonderful timbre, diction and sonority.” A recent graduate of Vancouver Opera's Yulanda M. Faris Young Artist Program, Alan will be joining Vancouver City Opera in the fall of 2016 for their production of *The Lost Operas of Mozart*.
 

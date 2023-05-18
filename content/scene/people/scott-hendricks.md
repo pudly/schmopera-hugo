@@ -1,34 +1,25 @@
----
-date: "2017-01-09T14:19:00+00:00"
-discipline: Baritone
-lastmod: "2017-01-09T15:28:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483971350662/2017-01-09---Scott-Hendricks.jpg.jpg
-publishDate: "2017-01-09T14:27:00+00:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/opra-national-de-paris.md
-- scene/companies/gran-teatre-del-liceu.md
-- scene/companies/la-monnaie.md
-- scene/companies/opernhaus-zurich.md
-- scene/companies/royal-opera-house.md
-- scene/companies/washington-national-opera.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/bayerische-staatsoper.md
-slug: scott-hendricks
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/scotthendricksbaritone/?fref=ts
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/SHendricksMusic
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/shendricksmusic/
-title: Scott Hendricks
----
++++
+date = "2017-01-09T14:19:00+00:00"
+discipline = "Baritone"
+lastmod = "2017-01-09T15:28:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483971350662/2017-01-09---Scott-Hendricks.jpg.jpg"
+publishDate = "2017-01-09T14:27:00+00:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/la-monnaie.md","scene/companies/opernhaus-zurich.md","scene/companies/royal-opera-house.md","scene/companies/washington-national-opera.md","scene/companies/houston-grand-opera.md","scene/companies/bayerische-staatsoper.md"]
+slug = "scott-hendricks"
+title = "Scott Hendricks"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/scotthendricksbaritone/?fref=ts"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/SHendricksMusic"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/shendricksmusic/"
++++
 
 Texan Scott Hendricks has emerged as one of today's most compelling and versatile baritones. From Monteverdi to Schreker, Mozart to Debussy and Puccini to modern-day composers, Hendricks has always maintained a diverse operatic diary and is now estblishing himself as an important artist in the operas of Verdi, Puccini, and Wagner.
 

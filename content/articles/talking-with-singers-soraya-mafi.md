@@ -1,33 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2019-03-19T18:15:44+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: _Mr Handel's Scholars_ takes place on 28 March at St George's, Hanover
-  Square as part of the [London Handel Festival](https://www.london-handel-festival.com/whats-on/2019-season-handels-divas/).
-  For details and ticket information, [click here](https://www.london-handel-festival.com/show/mr-handels-scholars/?event=6002).
-preamble: |-
-  This year's [London Handel Festival](https://www.london-handel-festival.com/whats-on/2019-season-handels-divas/) takes on the theme of "Handel's Divas", paying tribute to the muse-like women who performed - and made famous - Handel's music. On the event line-up is [_Mr Handel's Scholars_](https://www.london-handel-festival.com/show/mr-handels-scholars/?event=6002) (28 March), a concert named for the composer's star performers; it features four alumni of the Festival's Handel Singing Competition, including soprano [Soraya Mafi](/scene/people/soraya-mafi/).
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2019-03-19T18:15:44+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = "_Mr Handel's Scholars_ takes place on 28 March at St George's, Hanover Square as part of the [London Handel Festival](https://www.london-handel-festival.com/whats-on/2019-season-handels-divas/). For details and ticket information, [click here](https://www.london-handel-festival.com/show/mr-handels-scholars/?event=6002)."
+preamble = "This year's [London Handel Festival](https://www.london-handel-festival.com/whats-on/2019-season-handels-divas/) takes on the theme of \"Handel's Divas\", paying tribute to the muse-like women who performed - and made famous - Handel's music. On the event line-up is [_Mr Handel's Scholars_](https://www.london-handel-festival.com/show/mr-handels-scholars/?event=6002) (28 March), a concert named for the composer's star performers; it features four alumni of the Festival's Handel Singing Competition, including soprano [Soraya Mafi](/scene/people/soraya-mafi/).\n\nWe spoke with Mafi about singing Handel in London, working smarter (not harder), and the value of FaceTime."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553019576/media/2019/03/sqSorayaMafi.jpg"
+primary_image_credit = ""
+related_articles = ["articles/spotlight-on-jennifer-davis.md", "articles/spotlight-on-emily-edmonds.md"]
+related_companies = []
+related_people = ["scene/people/soraya-mafi.md"]
+short_description = "\"I often take for granted how lucky we are to have access to such wonderful music and music-makers in London. The rich history of classical music in London has enabled musicians to take advantage of world-class composers, conductors, teachers and venues.\""
+slug = "talking-with-singers-soraya-mafi"
+title = "Talking with singers: Soraya Mafi"
+youtube_url = ""
 
-  We spoke with Mafi about singing Handel in London, working smarter (not harder), and the value of FaceTime.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553019576/media/2019/03/sqSorayaMafi.jpg
-primary_image_credit: ""
-related_articles:
-- articles/spotlight-on-jennifer-davis.md
-- articles/spotlight-on-emily-edmonds.md
-related_companies: []
-related_people:
-- scene/people/soraya-mafi.md
-short_description: '"I often take for granted how lucky we are to have access to such
-  wonderful music and music-makers in London. The rich history of classical music
-  in London has enabled musicians to take advantage of world-class composers, conductors,
-  teachers and venues."'
-slug: talking-with-singers-soraya-mafi
-title: 'Talking with singers: Soraya Mafi'
-youtube_url: ""
----
++++
 ### Why do you sing professionally?
 
 I sing simply because I love telling stories and making music. I sing professionally as I've been granted opportunities to work on my craft and develop it into a career. I'll keep doing it as long as people will hire me! I love the whole process - from research to rehearsal, collaboration and performance. Additionally, I truly enjoy exploring the ability of my voice and the continuing development of my vocal technique.
@@ -46,9 +35,7 @@ My relationships with family and friends are hugely important to me. It's diffic
 
 In terms of staying healthy, I am mindful of drinking plenty of water and eating well. If I feel the slightest start of a cold coming on, it's the whole kitchen sink to the rescue, and plenty of sleep!
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1553019716/media/2019/03/SorayaMafi.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553019716/media/2019/03/SorayaMafi.jpg){{% /md %}}
 
 <figcaption></figcaption>
 

@@ -1,23 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-09-04T11:52:00+01:00"
-lastmod: "2016-09-05T09:24:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472995157352/24651802695_fff62b1b57_o.jpg.jpg
-publishDate: "2016-09-05T09:24:00+01:00"
-related_articles:
-- articles/giving-up-caring-too-little-and-other-taboos.md
-- articles/is-the-cost-of-a-music-degree-ethical.md
-- articles/paid-summer-programs-is-it-time-for-a-revolution.md
-short_description: Can&#039;t we place this ad - perhaps poorly worded as it was -
-  next to all the stories about how universities take too many arts students for the
-  number of job opportunities, about getting suckered into too many pay-to-sing summer
-  programs, and all the times that passionate artists finally stepped back from the
-  pressure of making their passion their livelihood?
-slug: wells-fargo-isnt-antiarts-everyone
-title: Wells Fargo isn&#039;t anti-arts, everyone
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-09-04T11:52:00+01:00"
+lastmod = "2016-09-05T09:24:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472995157352/24651802695_fff62b1b57_o.jpg.jpg"
+publishDate = "2016-09-05T09:24:00+01:00"
+related_articles = ["articles/giving-up-caring-too-little-and-other-taboos.md","articles/is-the-cost-of-a-music-degree-ethical.md","articles/paid-summer-programs-is-it-time-for-a-revolution.md"]
+short_description = "Can&#039;t we place this ad - perhaps poorly worded as it was - next to all the stories about how universities take too many arts students for the number of job opportunities, about getting suckered into too many pay-to-sing summer programs, and all the times that passionate artists finally stepped back from the pressure of making their passion their livelihood?"
+slug = "wells-fargo-isnt-antiarts-everyone"
+title = "Wells Fargo isn&#039;t anti-arts, everyone"
++++
 
 Wells Fargo bank angered some artists recently, with their ad for 2016's upcoming Teen Financial Education Day:
 

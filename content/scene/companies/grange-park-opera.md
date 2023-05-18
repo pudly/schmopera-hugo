@@ -1,33 +1,26 @@
----
-date: "2016-04-05T15:47:00+01:00"
-lastmod: "2016-04-05T15:47:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459867617746/Logo---Grange-Park-Opera.jpg.jpg
-publishDate: "2016-04-05T15:47:00+01:00"
-related_people:
-- scene/people/bryan-register.md
-- scene/people/flora-mcintosh.md
-- scene/people/james-laing.md
-- scene/people/richard-immergluck.md
-- scene/people/martha-jones.md
-- scene/people/clive-bayley.md
-- scene/people/paul-curievici.md
-- scene/people/susan-bullock.md
-slug: grange-park-opera
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/grangeparkoperafestival
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/grangeparkopera
-- _template: company_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/grangeparkopera
-title: Grange Park Opera
-type_of_company: Opera Company
-website: http://www.grangeparkopera.co.uk/
----
++++
+date = "2016-04-05T15:47:00+01:00"
+lastmod = "2016-04-05T15:47:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459867617746/Logo---Grange-Park-Opera.jpg.jpg"
+publishDate = "2016-04-05T15:47:00+01:00"
+related_people = ["scene/people/bryan-register.md","scene/people/flora-mcintosh.md","scene/people/james-laing.md","scene/people/richard-immergluck.md","scene/people/martha-jones.md","scene/people/clive-bayley.md","scene/people/paul-curievici.md","scene/people/susan-bullock.md"]
+slug = "grange-park-opera"
+title = "Grange Park Opera"
+type_of_company = "Opera Company"
+website = "http://www.grangeparkopera.co.uk/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/grangeparkoperafestival"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/grangeparkopera"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/grangeparkopera"
++++
 
 Founded in 1998 with the ambition to stage world-class productions that inspire, challenge and entertain, Grange Park Opera has quickly become a beloved part of the European operatic landscape.
 

@@ -1,27 +1,27 @@
----
-address: ""
-email: amplified.opera@gmail.com
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1577395387/media/2019/12/Logo-AmplifiedOpera_xcptuq.jpg
-primary_image_credit: ""
-related_people:
-- scene/people/aria-umezawa.md
-- scene/people/teiya-kasahara.md
-slug: amplified-opera
-social_media:
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/amplifiedopera/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/amplifiedopera
-- _template: company_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/AmplifiedOperaTO/
-title: Amplified Opera
-type_of_company: ""
-website: https://www.amplifiedopera.com/
----
++++
+address = ""
+email = "amplified.opera@gmail.com"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1577395387/media/2019/12/Logo-AmplifiedOpera_xcptuq.jpg"
+primary_image_credit = ""
+related_people = ["scene/people/aria-umezawa.md", "scene/people/teiya-kasahara.md"]
+slug = "amplified-opera"
+title = "Amplified Opera"
+type_of_company = ""
+website = "https://www.amplifiedopera.com/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/amplifiedopera/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/amplifiedopera"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/AmplifiedOperaTO/"
+
++++
 ## MANDATE
 
 AMPLIFIED OPERA will give equity-seeking artists a space to showcase their talents in order to enhance public discourse, and better reflect marginalized perspectives. 

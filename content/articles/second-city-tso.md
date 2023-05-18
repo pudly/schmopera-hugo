@@ -1,27 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2019-03-07T18:21:31+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551982857/media/2019/03/sqColinMochrieTheSecondCityStevenReinekeJagGundu.jpg
-primary_image_credit: 'Colin Mochrie, members of The Second City, and conductor Steven
-  Reineke with the Toronto Symphony Orchestra. Photo: Jag Gundu.'
-related_articles: []
-related_companies:
-- scene/companies/toronto-symphony-orchestra.md
-related_people: []
-short_description: Audience stereotypes, flute-sex toy jokes, the inflated power of
-  theatre ushers - it was all coming at me like a good roast. It was like that weird
-  experience where someone tells you about yourself, picking out details that seem
-  random or unexpected.
-slug: actual-fun-at-the-symphony-with-the-second-city
-title: Actual fun at the symphony with The Second City
-youtube_url: ""
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2019-03-07T18:21:31+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551982857/media/2019/03/sqColinMochrieTheSecondCityStevenReinekeJagGundu.jpg"
+primary_image_credit = "Colin Mochrie, members of The Second City, and conductor Steven Reineke with the Toronto Symphony Orchestra. Photo: Jag Gundu."
+related_articles = []
+related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
+related_people = []
+short_description = "Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers - it was all coming at me like a good roast. It was like that weird experience where someone tells you about yourself, picking out details that seem random or unexpected."
+slug = "actual-fun-at-the-symphony-with-the-second-city"
+title = "Actual fun at the symphony with The Second City"
+youtube_url = ""
+
++++
 It's easy to see why _The Second City Guide to the Orchestra_ is back by popular demand. I had no idea that there were so many actually funny things to say about the symphony orchestra - enough to fill two hours - but I suppose one should leave it to an improv comedy group to figure it out.
 
 The Toronto Symphony Orchestra, under Principal Pops Conductor Steven Reineke, shared the stage with members of _The Second City_ and host Colin Mochrie - Canada's most famous improviser, of _Whose Line Is It Anyway?_ fame - for a night of sketch comedy.
@@ -32,9 +27,7 @@ My hat goes off to writers Carly Heffernan and Scott Montgomery, and particularl
 
 Audience stereotypes, flute-sex toy jokes, the inflated power of theatre ushers - it was all coming at me like a good roast. It was like that weird experience where someone tells you about yourself, picking out details that seem random or unexpected. Mochrie and the ensemble made fun of how symphony audiences are old and wealthy - the opposite of the usual Second City crowd - and how we display varying degrees of trying to look smart.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1551985806/media/2019/03/ColinMochrieStevenReineke2JagGundu.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551985806/media/2019/03/ColinMochrieStevenReineke2JagGundu.jpg){{% /md %}}
 
 <figcaption>Colin Mochrie and Principal Pops Conductor Steven Reineke in the TSO's Second City Guide to the Orchestra, 2019. Photo: Jag Gundu.</figcaption>  
 </figure>

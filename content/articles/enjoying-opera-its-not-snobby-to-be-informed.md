@@ -1,20 +1,14 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-01-27T12:33:00+00:00"
-lastmod: "2017-01-27T14:40:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485526137668/2017-01-27---Library.jpg.jpg
-publishDate: "2017-01-27T14:34:00+00:00"
-short_description: Perhaps my knowledge of singing technique and what it takes to
-  create opera puts me among the &quot;elite&quot; (or maybe it&#039;s even a form
-  of &quot;opera privilege&quot;). It doesn&#039;t change the fact, though, that the
-  more you know, the more you hear. If you know the singers personally, their performances
-  are more meaningful. If you know the score well, you can hear the choices being
-  made by different artists.
-slug: enjoying-opera-its-not-snobby-to-be-informed
-title: 'Enjoying opera: it&#039;s not snobby to be informed'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-01-27T12:33:00+00:00"
+lastmod = "2017-01-27T14:40:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485526137668/2017-01-27---Library.jpg.jpg"
+publishDate = "2017-01-27T14:34:00+00:00"
+short_description = "Perhaps my knowledge of singing technique and what it takes to create opera puts me among the &quot;elite&quot; (or maybe it&#039;s even a form of &quot;opera privilege&quot;). It doesn&#039;t change the fact, though, that the more you know, the more you hear. If you know the singers personally, their performances are more meaningful. If you know the score well, you can hear the choices being made by different artists."
+slug = "enjoying-opera-its-not-snobby-to-be-informed"
+title = "Enjoying opera: it&#039;s not snobby to be informed"
++++
 
 The other night, I was at a performance of the Royal Opera's *La traviata*, and a strange thing dawned on me: there just may be a legitimate case for being "elitist" with opera.
 

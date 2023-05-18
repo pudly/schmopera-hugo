@@ -1,20 +1,13 @@
----
-_template: people_single
-date: "2017-10-09T11:24:00-04:00"
-discipline: Tenor
-lastmod: "2017-10-09T11:25:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507562437359/Lewis.A.Headshot.jpg.jpg
-publishDate: "2017-10-09T11:24:00-04:00"
-related_companies:
-- scene/companies/brooklyn-academy-of-music.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/merola-opera-program.md
-- scene/companies/opera-australia.md
-- scene/companies/royal-opera-house.md
-- scene/companies/washington-national-opera.md
-slug: alexander-lewis
-title: Alexander Lewis
----
++++
+date = "2017-10-09T11:24:00-04:00"
+discipline = "Tenor"
+lastmod = "2017-10-09T11:25:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507562437359/Lewis.A.Headshot.jpg.jpg"
+publishDate = "2017-10-09T11:24:00-04:00"
+related_companies = ["scene/companies/brooklyn-academy-of-music.md","scene/companies/the-metropolitan-opera.md","scene/companies/merola-opera-program.md","scene/companies/opera-australia.md","scene/companies/royal-opera-house.md","scene/companies/washington-national-opera.md"]
+slug = "alexander-lewis"
+title = "Alexander Lewis"
++++
 
 With worldwide operatic engagements and acclaimed performances in musical theatre, Australian tenor Alexander Lewis is forging a unique career as a “cross-over” artist. He performed the role of John Wormley in the world première of Matthew Aucoin’s opera *Crossing*, inspired by Walt Whitman's journals. Of his performance as the wounded young soldier, *The New York Times* hailed “The affecting young tenor Alexander Lewis brings cagey intensity to the role, singing by turns with flashes of defiance and pleading despair.” This season’s engagements include reprisals of Count Danilo in *The Merry Widow* with West Australian Opera and Opera Australia, John Wormley in a remounting of *Crossing* at Brooklyn Academy of Music in New York, and the title role of *The Nose* with Opera Australia and the Komische Oper Berlin.
 

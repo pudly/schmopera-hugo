@@ -1,29 +1,24 @@
----
-address: |-
-  SKYLARK OPERA THEATRE
-  Landmark Center, Suite #224
-  75 W. 5th Street
-  St. Paul, MN 55102
-date: "2019-04-02T02:31:28+00:00"
-email: skylarkoperatheatre@gmail.com
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1565568804/media/2019/08/Logo-SkylarkOpera_qm2mjv.jpg
-primary_image_credit: ""
-related_people:
-- scene/people/justin-anthony-spenner.md
-- scene/people/tess-altiveros.md
-slug: skylark-opera
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/SkylarkOpera
-- _template: company_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/skylarkopera
-title: Skylark Opera
-type_of_company: Opera Company
-website: http://www.skylarkopera.org/index.cfm
----
++++
+address = "SKYLARK OPERA THEATRE\nLandmark Center, Suite #224\n75 W. 5th Street\nSt. Paul, MN 55102"
+date = "2019-04-02T02:31:28+00:00"
+email = "skylarkoperatheatre@gmail.com"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565568804/media/2019/08/Logo-SkylarkOpera_qm2mjv.jpg"
+primary_image_credit = ""
+related_people = ["scene/people/justin-anthony-spenner.md", "scene/people/tess-altiveros.md"]
+slug = "skylark-opera"
+title = "Skylark Opera"
+type_of_company = "Opera Company"
+website = "http://www.skylarkopera.org/index.cfm"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/SkylarkOpera"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/skylarkopera"
+
++++
 Skylark Opera Theatre is:
 
 Dedicated to providing its audience with performances of the highest artistic quality, brought to the stage by the best in musical and technical talent both nationally and locally. The organization has been known for a wide-ranging repertoire of opera and musical theater, while emphasizing strongly balanced musical and theatrical values. The repertoire has included a unique mix of familiar favorites and new work, including many productions that are new to the Twin Cities’ stage.  

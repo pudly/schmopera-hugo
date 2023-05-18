@@ -1,38 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2020-01-28T05:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: Full details for Opera Atelier's 2020-21 season are [available via their
-  website](https://www.operaatelier.com/season-and-tickets/2020-2021).
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1580241602/media/2020/01/sqOA2021_mymip6.jpg
-primary_image_credit: 'Opera Atelier''s production of The Angel Speaks. Photo: Bruce
-  Zinger.'
-related_articles:
-- articles/feminism-confetti-ateliers-triplebill.md
-- articles/a-daring-desirous-doublebill-at-opera-atelier.md
-related_companies:
-- scene/companies/opera-atelier.md
-related_people:
-- scene/people/holly-flack.md
-- scene/people/allyson-mchardy.md
-- scene/people/douglas-williams.md
-- scene/people/meghan-lindsay.md
-- scene/people/christopher-enns.md
-- scene/people/mireille-asselin.md
-- scene/people/colin-ainsworth.md
-short_description: Frankly, we should all be so lucky to get real-time commentary
-  by Pynkoski. He's endlessly interested and interesting; he even had me craning my
-  neck to see what he was on about with this business about downbeats being up in
-  a choreographed fencing duel. For nearly 35 years, Opera Atelier has been putting
-  up shows that, take it or leave it, have an aesthetic that is 100% fleshed out.
-slug: expecting-magic-from-opera-ateliers-2020-21-season
-title: Expecting magic from Opera Atelier's 2020-21 season
-youtube_url: ""
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = 2020-01-28T05:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = "Full details for Opera Atelier's 2020-21 season are [available via their website](https://www.operaatelier.com/season-and-tickets/2020-2021)."
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1580241602/media/2020/01/sqOA2021_mymip6.jpg"
+primary_image_credit = "Opera Atelier's production of The Angel Speaks. Photo: Bruce Zinger."
+related_articles = ["articles/feminism-confetti-ateliers-triplebill.md", "articles/a-daring-desirous-doublebill-at-opera-atelier.md"]
+related_companies = ["scene/companies/opera-atelier.md"]
+related_people = ["scene/people/holly-flack.md", "scene/people/allyson-mchardy.md", "scene/people/douglas-williams.md", "scene/people/meghan-lindsay.md", "scene/people/christopher-enns.md", "scene/people/mireille-asselin.md", "scene/people/colin-ainsworth.md"]
+short_description = "Frankly, we should all be so lucky to get real-time commentary by Pynkoski. He's endlessly interested and interesting; he even had me craning my neck to see what he was on about with this business about downbeats being up in a choreographed fencing duel. For nearly 35 years, Opera Atelier has been putting up shows that, take it or leave it, have an aesthetic that is 100% fleshed out."
+slug = "expecting-magic-from-opera-ateliers-2020-21-season"
+title = "Expecting magic from Opera Atelier's 2020-21 season"
+youtube_url = ""
+
++++
 Opera Atelier has unveiled its [season line-up for 2020-21](https://www.operaatelier.com/season-and-tickets/2020-2021), with all the pomp and creative excitement we're used to from the 35-year-old company that specializes in opera from the 17th and 18th centuries (and sometimes, early 19th...shh).
 
 Co-Artistic Directors Marshall Pynkoski and Jeannette Lajeunesse Zingg announced the 35th anniversary season: **Mozart's _The Magic Flute_** (Oct. 22-Nov. 1, 2020) and a double-bill of **Purcell's _Dido and Aeneas_ and Edwin Huizinga's _The Angel Speaks_** (February 20-27, 2021) - the latter a commission by Opera Atelier that does indeed gather together the baroque and the contemporary. 
@@ -41,9 +25,7 @@ There's also a bonus item slated for July 2, 2020. Through special invitation by
 
 Not too many casting surprises this season; OA is making use of its ensemble of preferred singers. (If it ain't baroque, I guess.) For _The Magic Flute_, we'll hear [Colin Ainsworth](/scene/people/colin-ainsworth/) as Tamino, [Mireille Asselin](/scene/people/mireille-asselin/) as Pamina, Holly Flack as the Queen of the Night, and [Douglas Williams](/talking-with-singers-douglas-williams/) as Papageno. The run of shows will also include a relaxed performance, a first for Opera Atelier. _Dido and Aeneas_ will be [Meghan Lindsay](/scene/people/meghan-lindsay/) as Dido opposite [Christopher Enns](https://www.ragstoreasonable.com/) as Aeneas, plus [Allyson McHardy](/scene/people/allyson-mchardy/) as the Sorceress. _The Angel Speaks_ features dancer/choreographer Tyler Gledhill, Huizinga on violin, and singers Asselin, Ainsworth, and Jesse Blumberg.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1580241685/media/2020/01/OA2021-Dido_j9zawu.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580241685/media/2020/01/OA2021-Dido_j9zawu.jpg){{% /md %}}
 
 <figcaption>Opera Atelier's production of Dido & Aeneas. Photo by Bruce Zinger.</figcaption>
 
@@ -53,9 +35,7 @@ I realized that I'd never actually been to an Opera Atelier season reveal. They 
 
 Frankly, we should all be so lucky to get real-time commentary by Pynkoski. He's endlessly interested and interesting; he even had me craning my neck to see what he was on about with this business about downbeats being up in a choreographed fencing duel. For nearly 35 years, Opera Atelier has been putting up shows that, take it or leave it, have an aesthetic that is 100% fleshed out. In order to get the most out of their work, one has to dive in headfirst, few questions asked. And if you do have questions, best send them Pynkoski's way.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1580241661/media/2020/01/OA2021-Flute_wmu2af.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1580241661/media/2020/01/OA2021-Flute_wmu2af.jpg){{% /md %}}
 
 <figcaption>Opera Atelier's production of The Magic Flute. Photo by Bruce Zinger.</figcaption>
 

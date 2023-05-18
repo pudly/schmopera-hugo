@@ -1,22 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2018-01-19T16:38:00-05:00"
-lastmod: "2018-01-20T08:03:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516397579927/Conductors.jpg.jpg
-publishDate: "2018-01-20T08:03:00-05:00"
-related_articles:
-- articles/when-opera-companies-protect-abusers.md
-- articles/operas-sexual-assault-secret.md
-short_description: 'I pose a theory, though: things are changing. I&#039;m a woman
-  in the industry who has worked with a number of conductors; I&#039;m either extremely
-  lucky, wholly unattractive, or it&#039;s true that conductors in the 21st century
-  are, like men in all industries, getting on board with the idea of respecting their
-  colleagues (and keeping their sex lives outside of the rehearsal room). '
-slug: sex-is-one-of-the-perks-of-conducting
-title: '&quot;Sex is one of the perks of conducting.&quot;'
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2018-01-19T16:38:00-05:00"
+lastmod = "2018-01-20T08:03:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516397579927/Conductors.jpg.jpg"
+publishDate = "2018-01-20T08:03:00-05:00"
+related_articles = ["articles/when-opera-companies-protect-abusers.md","articles/operas-sexual-assault-secret.md"]
+short_description = "I pose a theory, though: things are changing. I&#039;m a woman in the industry who has worked with a number of conductors; I&#039;m either extremely lucky, wholly unattractive, or it&#039;s true that conductors in the 21st century are, like men in all industries, getting on board with the idea of respecting their colleagues (and keeping their sex lives outside of the rehearsal room). "
+slug = "sex-is-one-of-the-perks-of-conducting"
+title = "&quot;Sex is one of the perks of conducting.&quot;"
++++
 
 Norman Lebrecht's [new article for *The Spectator*](https://www.spectator.co.uk/2018/01/the-sex-lives-of-conductors/), "The sex lives of conductors", is a doozy.
 

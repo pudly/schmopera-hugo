@@ -1,20 +1,18 @@
----
-date: "2017-10-09T11:52:00-04:00"
-discipline: Tenor
-lastmod: "2017-10-09T11:52:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507564177850/aj_glueckert_215.jpg.jpg
-publishDate: "2017-10-09T11:52:00-04:00"
-related_companies:
-- scene/companies/oper-frankfurt.md
-slug: aj-glueckert
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/AJGlueckertTenor/
-title: AJ Glueckert
-website: https://www.ajglueckert.com/
----
++++
+date = "2017-10-09T11:52:00-04:00"
+discipline = "Tenor"
+lastmod = "2017-10-09T11:52:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507564177850/aj_glueckert_215.jpg.jpg"
+publishDate = "2017-10-09T11:52:00-04:00"
+related_companies = ["scene/companies/oper-frankfurt.md"]
+slug = "aj-glueckert"
+title = "AJ Glueckert"
+website = "https://www.ajglueckert.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/AJGlueckertTenor/"
++++
 
 Tenor AJ Glueckert has been praised by the New York Times for his “clarion, sensitive tenor.” In the 2017-2018 season, Mr. Glueckert will continue as a member of the ensemble at Opera Frankfurt in a variety of leading roles.
 

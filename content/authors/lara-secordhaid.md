@@ -1,18 +1,17 @@
----
-date: "2018-09-21T21:14:00-04:00"
-lastmod: "2018-09-21T21:14:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537578699675/Headshot_Lara%20Secord-Haid.jpeg.jpeg
-publishDate: "2018-09-21T21:14:00-04:00"
-short_bio: |
-  Lara Secord-Haid is a Soprano, writer and yoga &amp; meditation instructor. Lara has been a fierce lover of the operatic art form from a very young age. She is inspired by opera&#039;s unity of all the arts and its themes that distill mankind&#039;s experience with beauty and poignancy. A practitioner and teacher of the styles and practices of Ashtanga Yoga, Lara explores the intersection of meditation and self-study with performance art.
-slug: lara-secordhaid
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/lara.secordhaid
-title: Lara Secord-Haid
-website: https://www.larasecordhaid.com/
----
++++
+date = "2018-09-21T21:14:00-04:00"
+lastmod = "2018-09-21T21:14:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537578699675/Headshot_Lara%20Secord-Haid.jpeg.jpeg"
+publishDate = "2018-09-21T21:14:00-04:00"
+short_bio = "Lara Secord-Haid is a Soprano, writer and yoga &amp; meditation instructor. Lara has been a fierce lover of the operatic art form from a very young age. She is inspired by opera&#039;s unity of all the arts and its themes that distill mankind&#039;s experience with beauty and poignancy. A practitioner and teacher of the styles and practices of Ashtanga Yoga, Lara explores the intersection of meditation and self-study with performance art.\n"
+slug = "lara-secordhaid"
+title = "Lara Secord-Haid"
+website = "https://www.larasecordhaid.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/lara.secordhaid"
++++
 
 Praised by international publications, Soprano Lara Secord-Haid has been described as "possessing a rich and expressive overall quality" (*Attencion San Miguel*), "charismatic" (*Opera today*) and was praised for her "flinty acuity" (*New York Times*). She is enjoying a diverse and dynamic international career.
 

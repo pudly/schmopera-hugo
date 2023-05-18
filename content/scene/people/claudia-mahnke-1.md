@@ -1,20 +1,15 @@
----
-_template: people_single
-date: "2019-01-29T03:10:49+00:00"
-discipline: Mezzo-soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548731300/media/2019/01/ClaudiaMahnke.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/oper-frankfurt.md
-slug: claudia-mahnke
-social_media: []
-title: Claudia Mahnke
-website: ""
----
++++
+date = "2019-01-29T03:10:49+00:00"
+discipline = "Mezzo-soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548731300/media/2019/01/ClaudiaMahnke.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/bayerische-staatsoper.md", "scene/companies/los-angeles-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/san-francisco-opera.md", "scene/companies/oper-frankfurt.md"]
+slug = "claudia-mahnke"
+social_media = []
+title = "Claudia Mahnke"
+website = ""
+
++++
 Claudia Mahnke is one of today’s most important mezzo-sopranos, recognized internationally in the recent seasons for such performances as her Brangäne and Fricka at Bayreuth Festival, Judith in Bartok‘s _Bluebeard’s Castle_ at Staatsoper Hamburg, as well as her Didon in _Les Troyens_ and Selika in _L’Africaine_ at Oper Frankfurt.
 
 Ms. Mahnke begins the 2018/19 season as Magdalene in _Die Meistersinger von Nürnberg_ at the Bayerische Staatsoper. Following that she appears at Oper Frankfurt to perform in _Rusalka_, _Hänsel und Gretel_, _Wozzeck_ and _Walküre_. She will also be presented as Judith in a new production of Bartok’s _Bluebeard’s Castle_ at the Staatsoper Stuttgart, and she will sing Waltraute in _Götterdämmerung_ at the Staatsoper Hamburg, Kundry in _Parsifal_ at the Ravello Festival, and Walküre-Fricka with the London Philharmonic Orchestra. Further engagements this season will bring her to Munich to sing Mahler’s _Lied von der Erde_ and Symphony No.8 with the Münchner Philharmoniker, which she will also perform in Bregenz under the baton of Kirill Petrenko, while in Tokyo she will perform Waldtaube in Schönberg’s _Gurre-Lieder_, and in Bern Brahms‘ _Alto Rhapsody_.

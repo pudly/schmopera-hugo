@@ -1,36 +1,30 @@
----
-date: "2019-01-20T19:54:22+00:00"
-discipline: Tenor
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548013820/media/2019/01/MatthewDiBattista.jpg
-primary_image_credit: Jonathan Hartt
-related_companies:
-- scene/companies/palm-beach-opera.md
-- scene/companies/florida-grand-opera.md
-- scene/companies/odyssey-opera.md
-- scene/companies/glimmerglass-festival.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/opera-omaha.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/boston-lyric-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-slug: matthew-dibattista
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/pages/Matthew-DiBattista-Tenor/764698620343199
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/MattDibaTenor
-- platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/channel/UCXk9jQ206_9rLmgUOSqjlUQ
-- _template: people_single
-  platform: Linkedin
-  template: social-media
-  url: https://www.linkedin.com/in/matthew-dibattista-975b50b/
-title: Matthew DiBattista
-website: http://www.matthewdibattista.com/
----
++++
+date = "2019-01-20T19:54:22+00:00"
+discipline = "Tenor"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548013820/media/2019/01/MatthewDiBattista.jpg"
+primary_image_credit = "Jonathan Hartt"
+related_companies = ["scene/companies/palm-beach-opera.md", "scene/companies/florida-grand-opera.md", "scene/companies/odyssey-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/opera-omaha.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/boston-lyric-opera.md", "scene/companies/lyric-opera-of-chicago.md"]
+slug = "matthew-dibattista"
+title = "Matthew DiBattista"
+website = "http://www.matthewdibattista.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/pages/Matthew-DiBattista-Tenor/764698620343199"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/MattDibaTenor"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UCXk9jQ206_9rLmgUOSqjlUQ"
+[[social_media]]
+platform = "Linkedin"
+template = "social-media"
+url = "https://www.linkedin.com/in/matthew-dibattista-975b50b/"
+
++++
 Described as “brilliant” by _Opera News,_ tenor Matthew DiBattista is continually in demand on some of the world's most prestigious stages, having performed opera and concert works throughout the United States and Europe. He has sung with such conductors as Charles Dutoit, Sir Andrew Davis, James Conlon, Seiji Ozawa, Keith Lockhart, and Robert Shaw. Known for an exceptionally varied repertoire, Mr. DiBattista has performed over 60 different roles to date, spanning the entire operatic repertoire.
 
 Mr. DiBattista's engagements in the 2018-19 season include Triquet in _Eugene Onegin_ and the Witch in _Hansel und Gretel_ with Michigan Opera Theare, Amrou in _La Reine de Saba_ with Odyssey Opera, soloist in Britten's _War Requiem_ with the Wichita Symphony, and the Doctor in Poul Ruder's _The Handmaid's Tale_ with Boston Lyric Opera, based on the novel by Margaret Atwood. In the 2017-18 season, Mr. DiBattista made debuts with Michigan Opera Theatre as Matteo Borsa in Rigoletto, with the Santa Fe Opera as Goro in _Madama Butterfly_ and as Scaramuccio in _Ariadne auf Naxos_ in the summer of 2018. He was also tenor soloist in a Bernstein centennial concert with the Boston Pops Orchestra. 

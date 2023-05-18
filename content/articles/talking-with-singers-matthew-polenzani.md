@@ -1,41 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-03-24T15:44:00+00:00"
-lastmod: "2017-03-28T08:42:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490370440510/2017-03-24---Matthew-Polenzani---Fay-Fox.jpg.jpg
-primary_image_credit: Photo by Fay Fox.
-publishDate: "2017-03-27T10:45:00+01:00"
-related_articles:
-- articles/talking-with-singers-rene-barbera.md
-- articles/talking-with-singers-craig-irvin.md
-- articles/talking-with-singers-riccardo-massi.md
-- articles/spotlight-on-michael-scott.md
-- articles/santa-fe-santelli.md
-- articles/spotlight-on-eric-barry.md
-- articles/talking-with-singers-carl-tanner.md
-- articles/talking-with-singers-andrew-haji.md
-- articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md
-- articles/talking-with-singers-andrea-care.md
-- articles/talking-with-singers-john-holiday.md
-- articles/talking-with-singers-levente-molnr.md
-- articles/glamour-fury-idomeneo-in-chicago.md
-- articles/talking-with-singers-thomas-hampson.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-related_people:
-- scene/people/matthew-polenzani.md
-short_description: '&quot;If you&#039;re going through a divorce, or there&#039;s
-  been a death in the family, or your children are misbehaving, or whatever it is,
-  that stuff can be difficult on a voice.&quot; Polenzani has watched his own colleagues
-  go through tough times in their offstage lives, and the personal costs are certainly
-  audible in a singer&#039;s voice. &quot;On the other hand, I also know singers who
-  have been through divorce who are singing better afterwards, because the stress
-  of a failing marriage was difficult on their voices.&quot;'
-slug: talking-with-singers-matthew-polenzani
-title: 'Talking with singers: Matthew Polenzani'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-03-24T15:44:00+00:00"
+lastmod = "2017-03-28T08:42:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490370440510/2017-03-24---Matthew-Polenzani---Fay-Fox.jpg.jpg"
+primary_image_credit = "Photo by Fay Fox."
+publishDate = "2017-03-27T10:45:00+01:00"
+related_articles = ["articles/talking-with-singers-rene-barbera.md","articles/talking-with-singers-craig-irvin.md","articles/talking-with-singers-riccardo-massi.md","articles/spotlight-on-michael-scott.md","articles/santa-fe-santelli.md","articles/spotlight-on-eric-barry.md","articles/talking-with-singers-carl-tanner.md","articles/talking-with-singers-andrew-haji.md","articles/a-dreamy-indulgence-the-pearl-fishers-in-chicago.md","articles/talking-with-singers-andrea-care.md","articles/talking-with-singers-john-holiday.md","articles/talking-with-singers-levente-molnr.md","articles/glamour-fury-idomeneo-in-chicago.md","articles/talking-with-singers-thomas-hampson.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/matthew-polenzani.md"]
+short_description = "&quot;If you&#039;re going through a divorce, or there&#039;s been a death in the family, or your children are misbehaving, or whatever it is, that stuff can be difficult on a voice.&quot; Polenzani has watched his own colleagues go through tough times in their offstage lives, and the personal costs are certainly audible in a singer&#039;s voice. &quot;On the other hand, I also know singers who have been through divorce who are singing better afterwards, because the stress of a failing marriage was difficult on their voices.&quot;"
+slug = "talking-with-singers-matthew-polenzani"
+title = "Talking with singers: Matthew Polenzani"
++++
 
 Freshly off an acclaimed run as the title role in Mozart's *Idomeneo* at the Metropolitan Opera, star tenor [Matthew Polenzani](/scene/people/matthew-polenzani/) has little time to come down before diving into two more productions in New York. "I think there's a sequence where I have a show on a Friday, a show on a Saturday, then the Met Gala which is on Sunday. So that's going to be a little tiring," he says, clearly happy in his [busy schedule](http://matthewpolenzani.com/schedule/) at one of the world's top houses.
 
@@ -47,9 +24,7 @@ Though he has the calm, kind temperament that helps to keep nerves in check, the
 
 "The other thing that that [sensation] does, is when you're singing all the time in that same spot, your legato is improved, dramatically." Even after over two decades in the business, Polenzani still checks in with his teacher, with whom he has studied since 1998. "She talks to me all the time about keeping this sensation alive," he says, adding that she still comes to hear him in rehearsal, especially in large spaces like the Met.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490371159043/2017-03-24---Hoffmann-Polenzani.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490371159043/2017-03-24---Hoffmann-Polenzani.jpg.jpg)
 <figcaption>Matthew Polenzani in the title role of *Les contes d'Hoffmann*, San Francisco Opera, 2013. Photo by Cory Weaver.</figcaption>
 </figure>
 
@@ -69,9 +44,7 @@ For both Polenzani and his wife, the work he did in Seattle "sort of opened the 
 
 "We both absolutely say that it was the right thing for us," he says. "It reaffirmed our parenthood. It reaffirmed our identities as a mother and a father."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490370827397/2017-03-24---Matthew-Polenzani-as-Nadir-in-Bizets-The-Pearl-Fishers-Credit-Ken-HowardMetropolitan-Opera.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490370827397/2017-03-24---Matthew-Polenzani-as-Nadir-in-Bizets-The-Pearl-Fishers-Credit-Ken-HowardMetropolitan-Opera.jpg.jpg)
 <figcaption>Matthew Polenzani as Nadir in Bizet's *The Pearl Fishers*, Metropolitan Opera, 2016. Photo by Ken Howard.</figcaption>
 </figure>
 
@@ -85,9 +58,7 @@ It's an inspiring thing to note that the famed tenor, a fixture at the Metropoli
 
 The success of Polenzani's career, beginning at the dearly missed New York City Opera, and spanning 20+ years, speaks for itself. "I love to sing. I do it because it's something that I'm good at, and I pay my bills with it." Still, he insists that his life as a husband and father not only comes first, but it helps him in his work onstage. "It helps me identify with the characters that I play. It helps me become a more complete human being."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490370845318/2017-03-24---Polenzani-Di-Donato.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490370845318/2017-03-24---Polenzani-Di-Donato.jpg.jpg)
 <figcaption>Matthew Polenzani as Leicester, with Joyce DiDonato as Maria Stuarda in *Maria Stuarda*, Metropolitan Opera, 2013. Photo by Ken Howard.</figcaption>
 </figure>
 

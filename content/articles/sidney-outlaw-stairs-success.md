@@ -1,33 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-09-24T14:59:00+01:00"
-lastmod: "2016-09-27T13:09:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474725623578/2016-09-22---Sidney-Outlaw.jpg.jpg
-primary_image_credit: 'Photo: Hai Tran'
-publishDate: "2016-09-27T12:53:00+01:00"
-related_articles:
-- articles/talking-with-singers-luca-pisaroni.md
-- articles/spotlight-on-musa-ngqungwana.md
-- articles/talking-with-singers-othalie-graham.md
-- articles/talking-with-singers-jorell-williams.md
-- articles/talking-with-singers-craig-irvin.md
-- articles/spotlight-on-alexander-hajek.md
-- articles/two-emerging-singers-to-make-their-carnegie-hall-debut-in-2017.md
-- articles/spotlight-on-iain-macneil.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-related_people:
-- scene/people/sidney-outlaw.md
-short_description: '&quot;I try my best to lead by example,&quot; he says. Outlaw
-  sees his singing as an opportunity for putting something positive in the world,
-  &quot;to perform and sing and be a blessing in people&#039;s lives, so if they have
-  that kind of hate in their heart, when I&#039;m done with them, they don&#039;t
-  any more.&quot;'
-slug: sidney-outlaw-stairs-success
-title: 'Talking with singers: Sidney Outlaw'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-09-24T14:59:00+01:00"
+lastmod = "2016-09-27T13:09:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474725623578/2016-09-22---Sidney-Outlaw.jpg.jpg"
+primary_image_credit = "Photo: Hai Tran"
+publishDate = "2016-09-27T12:53:00+01:00"
+related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/spotlight-on-musa-ngqungwana.md","articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-jorell-williams.md","articles/talking-with-singers-craig-irvin.md","articles/spotlight-on-alexander-hajek.md","articles/two-emerging-singers-to-make-their-carnegie-hall-debut-in-2017.md","articles/spotlight-on-iain-macneil.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/sidney-outlaw.md"]
+short_description = "&quot;I try my best to lead by example,&quot; he says. Outlaw sees his singing as an opportunity for putting something positive in the world, &quot;to perform and sing and be a blessing in people&#039;s lives, so if they have that kind of hate in their heart, when I&#039;m done with them, they don&#039;t any more.&quot;"
+slug = "sidney-outlaw-stairs-success"
+title = "Talking with singers: Sidney Outlaw"
++++
 
 New York-based baritone [Sidney Outlaw](/scene/people/sidney-outlaw/) likens his career as a singer to a quote from actress [Jenifer Lewis](imdb.com/name/nm0507338/): "The elevator to success is broken, honey. Take the stairs."
 
@@ -49,9 +34,7 @@ Though the repertoire sits comfortably in his voice, his insists, "I practice te
 
 On top of his singing regime, Outlaw trains at Olympic weightlifting and CrossFit. "I have a great coach here in the city, and he's found a really great way to relate singing to the strength portion of our workout." He compares great singing to the fleeting moment of zero-gravity when lifting a weight above his head. "I kind of think of singing, in that way," he says. When things are going right, "it feels free, it feels weightless, effortless. And the reason that it feels effortless is because of the air flow."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474836852778/2016-09-25---Outlaw.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474836852778/2016-09-25---Outlaw.jpg.jpg)
 <figcaption>Sidney Outlaw, baritone and avid Olympic weightlifter. Photo: Anthony Lucic.</figcaption>
 </figure>
 
@@ -83,9 +66,7 @@ It's a topic that carries weight, but it doesn't take up a lot of head space for
 
 "There's so much hate in the world, and people look to us as artists to be there. They use music and art as a means of release and forgetting about that," he explains of what he calls his "charge" as a singer. "People look to musicians for that, people look to singers. It is the most high art form, what we do."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474836762023/2016-09-25---Outlaw-Jones.jpg.jpg)<figcaption>Outlaw with Warren Jones, Music for a Great Space.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474836762023/2016-09-25---Outlaw-Jones.jpg.jpg)<figcaption>Outlaw with Warren Jones, Music for a Great Space.</figcaption>
 </figure>
 
 "I'd love to see more blacks in the administrative positions in the opera world," adds Outlaw, who himself has considered working as an artist manager. "That's one thing I would love to do, is see more black people in the arts administration portion of what we do as artists. Teaching, being the heads of voice departments, things like that."

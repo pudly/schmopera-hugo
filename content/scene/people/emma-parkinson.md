@@ -1,24 +1,18 @@
----
-date: "2015-04-07T17:01:00-04:00"
-discipline: Mezzo-soprano
-lastmod: "2015-04-07T17:01:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428440401969/36299_451252161579643_492759032_n.jpg.jpg
-publishDate: "2015-04-07T17:01:00-04:00"
-related_companies:
-- scene/companies/opera-5.md
-- scene/companies/lopra-de-montral.md
-- scene/companies/latelier-lyrique-de-lopra-de-montral.md
-- scene/companies/opera-nuova.md
-- scene/companies/opera-mcgill.md
-slug: emma-parkinson
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/EmmaParkinsonMezzoSoprano
-title: Emma Parkinson
-website: http://emmaparkinson.com/
----
++++
+date = "2015-04-07T17:01:00-04:00"
+discipline = "Mezzo-soprano"
+lastmod = "2015-04-07T17:01:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428440401969/36299_451252161579643_492759032_n.jpg.jpg"
+publishDate = "2015-04-07T17:01:00-04:00"
+related_companies = ["scene/companies/opera-5.md","scene/companies/lopra-de-montral.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/opera-nuova.md","scene/companies/opera-mcgill.md"]
+slug = "emma-parkinson"
+title = "Emma Parkinson"
+website = "http://emmaparkinson.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/EmmaParkinsonMezzoSoprano"
++++
 
 <p>
 	Canadian mezzo-soprano Emma Parkinson has been hailed as,"an outstanding voice…hall-filling, supple, rich, dark-tinged, with a golden sheen backed by an excellent technique" (<em>La Scena Musicale</em>).

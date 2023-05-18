@@ -1,21 +1,18 @@
----
-date: "2015-04-07T09:07:00-04:00"
-discipline: Composer
-lastmod: "2015-06-16T09:14:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428411973110/ChrisThornborrowTwitter.jpeg.jpeg
-publishDate: "2015-04-07T09:07:00-04:00"
-related_companies:
-- scene/companies/tapestry-opera.md
-- scene/companies/the-bicycle-opera-project.md
-slug: chris-thornborrow
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/CThornborrow
-title: Chris Thornborrow
-website: http://www.christhornborrow.com/Chris_Thornborrow/Home.html
----
++++
+date = "2015-04-07T09:07:00-04:00"
+discipline = "Composer"
+lastmod = "2015-06-16T09:14:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428411973110/ChrisThornborrowTwitter.jpeg.jpeg"
+publishDate = "2015-04-07T09:07:00-04:00"
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/the-bicycle-opera-project.md"]
+slug = "chris-thornborrow"
+title = "Chris Thornborrow"
+website = "http://www.christhornborrow.com/Chris_Thornborrow/Home.html"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/CThornborrow"
++++
 
 Chris Thornborrow is a Toronto based composer of chamber music, opera, and film scores. His music has been described as, "complex and clear, with subtle playfulness," and he has received a number of awards for his work. In 2013, he was the recipient of the Karen Kieser Prize in Canadian Music for *Walking*, a piece based on the life and creativity of Canadian animator Ryan Larkin. In the same year he received two multiple Socan Awards for Young Audio-Visual Composers as well as the 2013 Toronto Emerging Composers Award Honourable Mention.
 

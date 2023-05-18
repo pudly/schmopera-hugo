@@ -1,26 +1,22 @@
----
-author:
-- authors/arturo-fernandez.md
-categories: Review
-date: "2019-05-22T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558537727/media/2019/05/P1570316.jpg
-primary_image_credit: Silla, Cambridge Chamber Ensemble, 2019. Photo courtesy of Cambridge
-  Chamber Ensemble.
-related_articles: []
-related_companies: []
-related_people: []
-short_description: If the themes are supposed to be timeless (and, indeed, as clear
-  and obviously sketched out as they are in the opera's text), then should it not
-  stand to reason that those themes would still ring true regardless of whether or
-  not it was set in Ancient Rome or in America in 2019?
-slug: clumsy-silla-victim-of-inept-direction
-title: Clumsy Silla victim of inept direction
-youtube_url: ""
----
++++
+author = ["authors/arturo-fernandez.md"]
+categories = "Review"
+date = "2019-05-22T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558537727/media/2019/05/P1570316.jpg"
+primary_image_credit = "Silla, Cambridge Chamber Ensemble, 2019. Photo courtesy of Cambridge Chamber Ensemble."
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "If the themes are supposed to be timeless (and, indeed, as clear and obviously sketched out as they are in the opera's text), then should it not stand to reason that those themes would still ring true regardless of whether or not it was set in Ancient Rome or in America in 2019?"
+slug = "clumsy-silla-victim-of-inept-direction"
+title = "Clumsy Silla victim of inept direction"
+youtube_url = ""
+
++++
 My frequent readers here at Schmopera will likely notice that I often make reference to how the stage and music directors will interpret a work, for better and worse. In my estimation, this is necessary in talking about opera: the role of the directors of any production cannot be understated, for without a solid grasp of either the musical side or the dramatic side of an opera, an entire production can fall apart before anything else gets accounted for. Thankfully, it is exceedingly rare that both aspects fail so spectacularly that the production as a whole suffers for it, but when this happens it invariably leads to failure.
 
 > The night was plagued with numerous synchronization issues between the four-person orchestra and the rest of the vocal ensemble.
@@ -49,9 +45,7 @@ If the themes are supposed to be timeless (and, indeed, as clear and obviously s
 
 This would have been more forgivable, had the production not made decisions on how to build this world that even the trashiest Bayreuth production of _Parsifal_ from the past decade would have avoided like the Plague. Perhaps the most obvious detail on this front was a subplot about Silla killing refugees from wars outside of Rome's borders. This is certainly a smart idea to comment on issues going on at the US border, but it runs into the singular problem that, for some incredibly perplexing reason, the only indication that anybody in the audience has that Silla is doing this is that the supertitle projections tell us he is.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1558538257/media/2019/05/P1570001.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558538257/media/2019/05/P1570001.jpg){{% /md %}}
 
 <figcaption>Silla, Cambridge Chamber Ensemble, 2019. Photo courtesy of Cambridge Chamber Ensemble.</figcaption>
 
@@ -73,9 +67,7 @@ For instance, there's an aria in which Flavia seemingly calls Silla out for prop
 
 Why is it that Silla carries himself with poise through most of the opera, but then acts like a bratty child in the middle of an aria that precludes a dream sequence? Why were several characters constantly making rather loudly spoken asides that were inevitably bulldozed over by the music and the stage movement from other singers?
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1558538271/media/2019/05/P1570032.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558538271/media/2019/05/P1570032.jpg){{% /md %}}
 
 <figcaption>Silla, Cambridge Chamber Ensemble, 2019. Photo courtesy of Cambridge Chamber Ensemble.</figcaption>
 
@@ -89,9 +81,7 @@ The staging was therefore an absolute mess, and the issues there combined with t
 
 It is really a shame, because this production wastes an outstanding young cast: they all at the very least made Handel's punishingly virtuosic writing seem easy, but they also made the best of a bad hand in how they portrayed their characters. Roselin Osser was actually quite believable as the authoritative Silla, letting her uptight mannerisms complement a rather full voice in forming the character, for instance. Theresa Egan also made for a thoroughly human Metella, as a woman who is both scorned by her husband and also wanting his forgiveness. Ann Fogler brought the right amount of bravado to Lepido, and managed to craft the single best character arc of the night in believably crafting a character who starts thinking that Silla's indecencies will pass to someone who swears revenge at all costs. Fran Daniel Laucerica's Mars only sang for one brief number, but he made the most of his brief appearance and was the one clearly having the most fun.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1558538285/media/2019/05/P1570323.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1558538285/media/2019/05/P1570323.jpg){{% /md %}}
 
 <figcaption>Silla, Cambridge Chamber Ensemble, 2019. Photo courtesy of Cambridge Chamber Ensemble.</figcaption>
 

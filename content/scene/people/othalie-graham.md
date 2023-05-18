@@ -1,24 +1,18 @@
----
-date: "2015-09-25T14:01:00-04:00"
-discipline: Soprano
-lastmod: "2015-09-25T14:01:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443203720966/Othalie-Graham-2-Photo-by-Devon-Cass.jpg.jpg
-publishDate: "2015-09-25T14:01:00-04:00"
-related_companies:
-- scene/companies/arizona-opera.md
-- scene/companies/lopra-de-montral.md
-- scene/companies/pacific-opera-victoria.md
-- scene/companies/vancouver-opera.md
-- scene/companies/nashville-opera.md
-slug: othalie-graham
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/@OthalieGraham
-title: Othalie Graham
-website: http://www.othaliegrahamsoprano.com/index.htm
----
++++
+date = "2015-09-25T14:01:00-04:00"
+discipline = "Soprano"
+lastmod = "2015-09-25T14:01:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443203720966/Othalie-Graham-2-Photo-by-Devon-Cass.jpg.jpg"
+publishDate = "2015-09-25T14:01:00-04:00"
+related_companies = ["scene/companies/arizona-opera.md","scene/companies/lopra-de-montral.md","scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-opera.md","scene/companies/nashville-opera.md"]
+slug = "othalie-graham"
+title = "Othalie Graham"
+website = "http://www.othaliegrahamsoprano.com/index.htm"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/@OthalieGraham"
++++
 
 Canadian-American soprano Othalie Graham continues to receive critical acclaim throughout North America. Widely known for her interpretation of the title role in *Turandot*, the Boston Globe noted that her “timbre and power were thrilling – steely ring from top to bottom – and her path from imperiousness to passion was convincing.” 
 

@@ -1,20 +1,17 @@
----
-discipline: Soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1556668136/media/2019/04/ElizabethSutphen.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/glyndebourne.md
-- scene/companies/oper-frankfurt.md
-- scene/companies/houston-grand-opera.md
-slug: elizabeth-sutphen
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/ElizabethSutphenSoprano/
-title: Elizabeth Sutphen
-website: http://www.elizabethsutphen.com/
----
++++
+discipline = "Soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556668136/media/2019/04/ElizabethSutphen.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/glyndebourne.md", "scene/companies/oper-frankfurt.md", "scene/companies/houston-grand-opera.md"]
+slug = "elizabeth-sutphen"
+title = "Elizabeth Sutphen"
+website = "http://www.elizabethsutphen.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/ElizabethSutphenSoprano/"
+
++++
 “Impressive coloratura soprano” (The New York Times) Elizabeth Sutphen has garnered praise for her sparkling voice and her ability to “soar deftly through stratospheric trills and arpeggios” (Financial Times). Praised as “Exquisite” by The Guardian, Ms. Sutphen recently made her debut at Glyndebourne Festival Opera 2018 as Sophie in _Der Rosenkavalier_. Ms. Sutphen looks forward to the 2018-19 season with her return to Oper Frankfurt as Zerbinetta in their production of Strauss’s _Ariadne auf Naxos_, and as Atalanta in Handel’s _Xerxes_, as well as her debut with the Houston Grand Opera as Faustina/Angela Tiepolo/Annetta/Louisa Grahl/Brigida Banti in their world premier of _The Phoenix_ written by Tarik O’Regan, with libretto by John Caird who will also direct. As an "astonishing mature member" (Frankfurter Neue Presse) of the Opera Studio at Oper Frankfurt, Ms. Sutphen's past two seasons at Oper Frankfurt have included the roles of Lisa in Bellini’s _La sonnambula_, Papagena in Mozart’s _Die Zauberflöte_, as well as roles in new productions of Xerxes as _Romilda_, Benjamin Britten’s _Paul Bunyan_ directed by Brigitte Fassbaender as Tiny Bunyan, and Honegger’s _Jeanne D'Arc Au Bucher_ as La Vierge. 2017 also saw Ms. Sutphen in her debut at Kentucky Opera singing the role of Zerbinetta in _Ariadne auf Naxos_. 
 
 A recent alumna of the Juilliard School, Ms. Sutphen has also made professional debuts on the concert stage. In 2017 she made her French debut with the Orchestre Nationale de Lille, performing an evening of Bernstein favorites. In 2018 she debuted in Austria with the Vienna Boys Choir as the soprano soloist in _Carmina Austriaca_ and performed Pergolesi’s _Stabat Mater_ with the Los Angeles Chamber Orchestra. Further concert performances have included Handel’s _Messiah_ in her debut with Milwaukee Symphony and her first performances of Orff’s _Carmina Burana_ with Allentown Symphony.

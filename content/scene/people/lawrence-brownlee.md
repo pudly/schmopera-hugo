@@ -1,32 +1,23 @@
----
-date: "2017-03-23T11:12:00+00:00"
-discipline: Tenor
-lastmod: "2017-03-23T11:22:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490267535417/2017-03-23---Lawrence_Brownlee_pc_Larrynx_Photography.jpg.jpg
-primary_image_credit: Larrynx Photography
-publishDate: "2017-03-23T11:12:00+00:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/seattle-opera.md
-- scene/companies/salzburg-festival.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/royal-opera-house.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/washington-national-opera.md
-slug: lawrence-brownlee
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/pages/Lawrence-Brownlee/380448701995063
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/Brownleetenor
-title: Lawrence Brownlee
-website: http://www.lawrencebrownlee.com/
----
++++
+date = "2017-03-23T11:12:00+00:00"
+discipline = "Tenor"
+lastmod = "2017-03-23T11:22:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490267535417/2017-03-23---Lawrence_Brownlee_pc_Larrynx_Photography.jpg.jpg"
+primary_image_credit = "Larrynx Photography"
+publishDate = "2017-03-23T11:12:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/seattle-opera.md","scene/companies/salzburg-festival.md","scene/companies/los-angeles-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/the-santa-fe-opera.md","scene/companies/washington-national-opera.md"]
+slug = "lawrence-brownlee"
+title = "Lawrence Brownlee"
+website = "http://www.lawrencebrownlee.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/pages/Lawrence-Brownlee/380448701995063"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/Brownleetenor"
++++
 
 The most in-demand American tenor in the world in the bel canto repertoire, Lawrence Brownlee continues  to  astonish  audiences  with  the  elegance  and  agility  of  his  instrument.  From  firmly American  roots,  Mr.  Brownlee  has  become  a  star  on  the  international  scene,  lauded  for  the seemingly effortless beauty of his voice. 
 

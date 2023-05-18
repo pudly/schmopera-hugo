@@ -1,22 +1,18 @@
----
-date: "2015-06-05T15:55:00-04:00"
-discipline: Conductor
-lastmod: "2015-06-05T15:55:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433534050168/photo-1.JPG.JPG
-publishDate: "2015-06-05T15:55:00-04:00"
-related_companies:
-- scene/companies/welsh-national-opera.md
-- scene/companies/glyndebourne.md
-- scene/companies/royal-opera-house.md
-slug: natalie-murray-beale
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/NMurrayBeale
-title: Natalie Murray Beale
-website: http://www.murraybeale.com/index.html
----
++++
+date = "2015-06-05T15:55:00-04:00"
+discipline = "Conductor"
+lastmod = "2015-06-05T15:55:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433534050168/photo-1.JPG.JPG"
+publishDate = "2015-06-05T15:55:00-04:00"
+related_companies = ["scene/companies/welsh-national-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md"]
+slug = "natalie-murray-beale"
+title = "Natalie Murray Beale"
+website = "http://www.murraybeale.com/index.html"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/NMurrayBeale"
++++
 
 Natalie Murray Beale has been critically acclaimed as “a young conductor on her way up”. Other reviews have described her conducting as “exceptional”, “charming and vigorous” and having “Mozartian grace”.
 

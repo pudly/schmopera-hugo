@@ -1,36 +1,20 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-11-16T19:45:00+00:00"
-lastmod: "2016-11-24T09:44:00+00:00"
-postamble: Manon Lescaut plays at the Royal Opera House until December 12. For details
-  and ticket information, [click here.](http://www.roh.org.uk/productions/manon-lescaut-by-jonathan-kent)
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479929155754/2016-11-23---Radvanovsky-Eccles.jpg.jpg
-primary_image_credit: Photo by Andrew Eccles.
-publishDate: "2016-11-24T09:23:00+00:00"
-related_articles:
-- articles/talking-with-singers-jamie-barton.md
-- articles/talking-with-singers-christine-goerke.md
-- articles/whos-afraid-of-the-aging-singer.md
-- articles/dont-miss-radvanovsky-in-recital-at-cadogan-hall.md
-- articles/talking-with-singers-ailyn-perez.md
-- articles/talking-with-singers-angela-meade.md
-- articles/spotlight-on-jennifer-davis.md
-- articles/reason-947-we-dont-envy-singers-singing-on-camera.md
-- articles/talking-with-singers-siobhan-stagg.md
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/the-metropolitan-opera.md
-related_people:
-- scene/people/sondra-radvanovsky.md
-short_description: '&quot;It took me twenty years to get here,&quot; says Radvanovsky
-  of the long game that is the opera singer&#039;s career. &quot;Twenty years of cracking
-  on high notes at the Metropolitan Opera, and saying, &#039;This didn&#039;t work
-  tonight, let&#039;s try it another way!&#039;&quot; And the work is still not over.'
-slug: talking-with-singers-sondra-radvanovsky
-title: 'Talking with singers: Sondra Radvanovsky'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-11-16T19:45:00+00:00"
+lastmod = "2016-11-24T09:44:00+00:00"
+postamble = "Manon Lescaut plays at the Royal Opera House until December 12. For details and ticket information, [click here.](http://www.roh.org.uk/productions/manon-lescaut-by-jonathan-kent)"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479929155754/2016-11-23---Radvanovsky-Eccles.jpg.jpg"
+primary_image_credit = "Photo by Andrew Eccles."
+publishDate = "2016-11-24T09:23:00+00:00"
+related_articles = ["articles/talking-with-singers-jamie-barton.md", "articles/talking-with-singers-christine-goerke.md", "articles/whos-afraid-of-the-aging-singer.md", "articles/dont-miss-radvanovsky-in-recital-at-cadogan-hall.md", "articles/talking-with-singers-ailyn-perez.md", "articles/talking-with-singers-angela-meade.md", "articles/spotlight-on-jennifer-davis.md", "articles/reason-947-we-dont-envy-singers-singing-on-camera.md", "articles/talking-with-singers-siobhan-stagg.md"]
+related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/sondra-radvanovsky.md"]
+short_description = "&quot;It took me twenty years to get here,&quot; says Radvanovsky of the long game that is the opera singer&#039;s career. &quot;Twenty years of cracking on high notes at the Metropolitan Opera, and saying, &#039;This didn&#039;t work tonight, let&#039;s try it another way!&#039;&quot; And the work is still not over."
+slug = "talking-with-singers-sondra-radvanovsky"
+title = "Talking with singers: Sondra Radvanovsky"
+
++++
 "If anybody could do it, everyone would be doing it," says star soprano [Sondra Radvanovsky](/scene/people/sondra-radvanovsky/) of the kind of singing that sets her apart as one of the top opera divas of today. Hers are definitive performances of Bellini's [Norma](/review-sondra-slays-in-bellini-masterwork/), Verdi's Leonora (_Il trovatore_), and Donizetti's Three Queens (_Maria Stuarda_, _Anna Bolena_, and Queen Elizabeth I in _Roberto Devereux_); until December 12, Radvanovsky is at the [Royal Opera House](/scene/companies/royal-opera-house/), singing the title role in Puccini's [_Manon Lescaut_](http://www.roh.org.uk/productions/manon-lescaut-by-jonathan-kent), conducted by Antonio Pappano and directed by Jonathan Kent.
 
 A role like Norma is no simple sing, yet Puccini's orchestration demands a certain kind of technical care and attention. "That Puccini orchestra is big," says Radvanovsky, noting that unlike much of the _bel canto_ repertoire, Puccini's orchestration often doubles the vocal line. "They're wailing away right with you. You have to find that breath support and that line." Anyone who has heard Radvanovsky sing live has no doubts of the sheer power in her sound. Still, she is acutely aware of the difference between effort and efficiency. "You have to learn, 'Ok, this is as much as I can give,' and that only comes from experience, and trying it onstage."
@@ -47,9 +31,7 @@ It's an extraordinary amount of trust, for a performer to distance herself from 
 
 "I lost my father very early in my life. I found him dead when I was 16," says Radvanovsky, candidly. "There are certain arias, like 'D'amor, sull'ali rosee' in _Trovatore_, where I even think about it, and I have to step back." That character's experience is "too much" for Radvanovsky to connect with on a personal level, and it's a moment where "I have to read the phonebook, and tell myself, 'don't go there.'"
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479928671538/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT%2C-ALEKSANDRS-ANTONENKO-AS-CHEVALIER-DES-GRIEUX-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479928671538/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT%2C-ALEKSANDRS-ANTONENKO-AS-CHEVALIER-DES-GRIEUX-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg)
 <figcaption>Sondra Radvanovsky as Manon Lescaut, ROH, 2016. Photo by Bill Cooper.</figcaption>
 </figure>
 
@@ -65,9 +47,7 @@ Her enthusiasm for acting is no secondary passion. For "a brief second," Radvano
 
 "I can't not have music in my life."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479393237854/2016-11-16---Radvanovsky---Eccles---2.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479393237854/2016-11-16---Radvanovsky---Eccles---2.jpg.jpg)
 <figcaption>Sondra Radvanovsky, soprano. Photo by Andrew Eccles.</figcaption>
 </figure>
 
@@ -97,9 +77,7 @@ She points to her phone, wrapped in those ubiquitous earbuds, sitting atop the p
 
 Her support system of teachers and coaches is another set of tools that Radvanovsky has honed along the way; the responsibilities and trust that she has in her mentors have come from active participation in the learning process. "You have to listen to yourself, and you have to 100% trust what \[your teachers\] are doing," she says. "And if you don't, then you need a different teacher."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479928627433/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479928627433/2016-11-23---SONDRA-RADVANOVSKY-AS-MANON-LESCAUT-ROH-PHOTO-BY-BILL-COOPER.jpg.jpg)
 <figcaption>Sondra Radvanovsky as Manon Lescaut, ROH, 2016. Photo by Bill Cooper.</figcaption>
 </figure>
 

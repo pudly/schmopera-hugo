@@ -1,25 +1,17 @@
----
-author:
-- authors/greg.md
-categories: Editorial
-date: "2015-04-11T20:32:00-04:00"
-lastmod: "2015-04-11T20:32:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798703393/JoyceNPR.jpg.jpg
-primary_image_credit: NPR
-publishDate: "2015-02-06T09:32:00-05:00"
-related_articles:
-- articles/trans-opera-singer-to-sing-national-anthem-at-oakland-as-game.md
-- articles/one-voice-orlando-after-pulse.md
-- articles/didonato-inspires-inmates-through-song.md
-related_people:
-- scene/people/joyce-didonato.md
-short_description: |-
-  On February 5th, 1981, Toronto police raided four bathhouses, rounded up its LGBTQ+ patrons, and arrested them in a mass arrest that hadn&#039;t been paralleled until the G20 Summit a few years ago.
-
-  So, everyone&#039;s favourite A-list mezzo, the incomparable Joyce DiDonato (#FullOnToner #PitchPerfectReference) shared a lovely gift with my people.
-slug: remember-me-but-ah-forget-my-fate
-title: '&quot;Remember me, but ah, forget my fate&quot;'
----
++++
+author = ["authors/greg.md"]
+categories = "Editorial"
+date = "2015-04-11T20:32:00-04:00"
+lastmod = "2015-04-11T20:32:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798703393/JoyceNPR.jpg.jpg"
+primary_image_credit = "NPR"
+publishDate = "2015-02-06T09:32:00-05:00"
+related_articles = ["articles/trans-opera-singer-to-sing-national-anthem-at-oakland-as-game.md","articles/one-voice-orlando-after-pulse.md","articles/didonato-inspires-inmates-through-song.md"]
+related_people = ["scene/people/joyce-didonato.md"]
+short_description = "On February 5th, 1981, Toronto police raided four bathhouses, rounded up its LGBTQ+ patrons, and arrested them in a mass arrest that hadn&#039;t been paralleled until the G20 Summit a few years ago.\n\nSo, everyone&#039;s favourite A-list mezzo, the incomparable Joyce DiDonato (#FullOnToner #PitchPerfectReference) shared a lovely gift with my people."
+slug = "remember-me-but-ah-forget-my-fate"
+title = "&quot;Remember me, but ah, forget my fate&quot;"
++++
 
 <p>
 	I've been in a weird place for the past couple days and today is no exception.

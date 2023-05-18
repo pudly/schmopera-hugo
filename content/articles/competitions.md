@@ -1,12 +1,11 @@
----
-author:
-- authors/jenna.md
-date: "2016-09-20T09:33:00+01:00"
-draft: true
-lastmod: "2016-09-20T09:33:00+01:00"
-slug: competitions
-title: Competitions
----
++++
+author = ["authors/jenna.md"]
+date = "2016-09-20T09:33:00+01:00"
+draft = true
+lastmod = "2016-09-20T09:33:00+01:00"
+slug = "competitions"
+title = "Competitions"
++++
 
 Pavel Kalesnikov, Russian pianist based in London
 

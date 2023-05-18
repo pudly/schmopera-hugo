@@ -1,25 +1,23 @@
----
-date: "2015-04-07T22:16:00-04:00"
-discipline: Soprano
-lastmod: "2015-04-07T22:16:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428459275430/JenniferTaverner.jpeg.jpeg
-primary_image_credit: Katie Cross
-publishDate: "2015-04-07T22:16:00-04:00"
-related_companies:
-- scene/companies/highlands-opera-studio.md
-- scene/companies/voicebox-opera-in-concert.md
-slug: jennifer-taverner
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/tavernersoprano?ref=br_tf
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/tavernersoprano
-title: Jennifer Taverner
-website: http://www.jennifertaverner.com
----
++++
+date = "2015-04-07T22:16:00-04:00"
+discipline = "Soprano"
+lastmod = "2015-04-07T22:16:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428459275430/JenniferTaverner.jpeg.jpeg"
+primary_image_credit = "Katie Cross"
+publishDate = "2015-04-07T22:16:00-04:00"
+related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/voicebox-opera-in-concert.md"]
+slug = "jennifer-taverner"
+title = "Jennifer Taverner"
+website = "http://www.jennifertaverner.com"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/tavernersoprano?ref=br_tf"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/tavernersoprano"
++++
 
 <p>
 	Lyric soprano, Jennifer Taverner is noted as possessing a voice of "rare natural beauty and freshness" recognized for her instinctive musicality, and excellent stage presence. Recent and upcoming engagements include <em>Messiah</em> with the Grand Philharmonic Choir, Rose in Kurt Weill's <em>Street Scene</em> with Voicebox: Opera in Concert, the contemporary opera <em>Airline Icarus</em> (Brian Current) with Soundstreams, a Gilbert &amp; Sullivan Evening for the Niagara Symphony, Bach's <em>Mass in B minor </em>with the Toronto Mendelssohn Choir, Fauré <em>Requiem</em> and <em>Messiah</em> with the Bach Elgar Choir, and an appearance with the Off Centre Salon. Her 2012-2013 season included the role of Fiordiligi in a touring production of Mozart's <em>Cosi fan tutte </em>with Jeunesses Musicales Canada, as well as performances with the Ontario Philharmonic Orchestra, the Bach Elgar Choir, the Toronto Classical Singers, and the Larkin Singers.

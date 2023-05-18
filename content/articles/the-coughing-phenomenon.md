@@ -1,21 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2016-08-31T13:04:00+01:00"
-lastmod: "2016-09-04T10:51:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472902715007/2016-09-03---Cough.jpg.jpg
-primary_image_credit: 'Photo: Pimthida via Flickr.'
-publishDate: "2016-09-04T10:51:00+01:00"
-related_articles:
-- articles/concert-etiquette-or-put-down-your-phone.md
-- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
-short_description: 'Does the initial cougher do so because they really were holding
-  it in for the last little bit? Or is it a release of tension, brought on by impressive
-  music and then a sudden, maybe uncomfortable, silence? '
-slug: the-coughing-phenomenon
-title: The coughing phenomenon
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2016-08-31T13:04:00+01:00"
+lastmod = "2016-09-04T10:51:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472902715007/2016-09-03---Cough.jpg.jpg"
+primary_image_credit = "Photo: Pimthida via Flickr."
+publishDate = "2016-09-04T10:51:00+01:00"
+related_articles = ["articles/concert-etiquette-or-put-down-your-phone.md","articles/taking-a-bow-curtain-calls-for-your-voice-type.md"]
+short_description = "Does the initial cougher do so because they really were holding it in for the last little bit? Or is it a release of tension, brought on by impressive music and then a sudden, maybe uncomfortable, silence? "
+slug = "the-coughing-phenomenon"
+title = "The coughing phenomenon"
++++
 
 Anyone who has been to a classical-ish concert of sorts: what's with that weird thing where there's silence between movements/songs, and someone coughs, and then like twenty other people decide they too have to cough, and then there's this weird period of time where what's happening is everyone's waiting for all potential coughers to get their coughing out and settle back down so the concert can continue?
 

@@ -1,41 +1,18 @@
----
-author:
-- authors/jenna.md
-- authors/greg.md
-categories: Op-ed
-date: "2014-12-31T14:32:00-05:00"
-lastmod: "2015-04-12T11:41:00-04:00"
-preamble: "<p>\n\t<em>The dwindling calendar days of the year, the family time, and
-  the potential hangovers tend to bring out our best days of nostalgia. In my case,
-  it's flipping through the collection of events I've had the fortune to attend over
-  2014, remembering the good, forgiving the bad, and noticing no ugly. In the spirit
-  of wrapping things up, I offer up a list of my most memorable moments of the year.
-  And since he's contributed to Schmopera with his own sets of expertise over the
-  year, I also asked guest writer </em><a href=\"http://schmopera.com/author/greg/\"
-  target=\"_blank\">Greg Finney</a><em> to list his 2014 highlights.</em>\n</p>"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428853014076/Renee-Fleming_LNCIMA20140202_0346_28.jpg.jpg
-publishDate: "2014-12-31T14:32:00-05:00"
-related_articles:
-- articles/bring-back-opera-on-latenight-tv.md
-- articles/roundup-2015.md
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/etienne-dupuis.md
-- scene/people/russell-braun.md
-- scene/people/joyce-didonato.md
-- scene/people/renee-fleming.md
-short_description: The dwindling calendar days of the year, the family time, and the
-  potential hangovers tend to bring out our best days of nostalgia. In my case, it’s
-  flipping through the collection of events I’ve had the fortune to attend over 2014,
-  remembering the good, forgiving the bad, and noticing no ugly. In the spirit of
-  wrapping things up, I offer up a list of my most memorable moments of the year.
-  And since he’s contributed to Schmopera with his own sets of expertise over the
-  year, I also asked guest writer Greg Finney to list his 2014 highlights.
-slug: roundup2014
-title: '#RoundUp2014'
----
++++
+author = ["authors/jenna.md","authors/greg.md"]
+categories = "Op-ed"
+date = "2014-12-31T14:32:00-05:00"
+lastmod = "2015-04-12T11:41:00-04:00"
+preamble = "<p>\n\t<em>The dwindling calendar days of the year, the family time, and the potential hangovers tend to bring out our best days of nostalgia. In my case, it's flipping through the collection of events I've had the fortune to attend over 2014, remembering the good, forgiving the bad, and noticing no ugly. In the spirit of wrapping things up, I offer up a list of my most memorable moments of the year. And since he's contributed to Schmopera with his own sets of expertise over the year, I also asked guest writer </em><a href=\"http://schmopera.com/author/greg/\" target=\"_blank\">Greg Finney</a><em> to list his 2014 highlights.</em>\n</p>"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428853014076/Renee-Fleming_LNCIMA20140202_0346_28.jpg.jpg"
+publishDate = "2014-12-31T14:32:00-05:00"
+related_articles = ["articles/bring-back-opera-on-latenight-tv.md","articles/roundup-2015.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/etienne-dupuis.md","scene/people/russell-braun.md","scene/people/joyce-didonato.md","scene/people/renee-fleming.md"]
+short_description = "The dwindling calendar days of the year, the family time, and the potential hangovers tend to bring out our best days of nostalgia. In my case, it’s flipping through the collection of events I’ve had the fortune to attend over 2014, remembering the good, forgiving the bad, and noticing no ugly. In the spirit of wrapping things up, I offer up a list of my most memorable moments of the year. And since he’s contributed to Schmopera with his own sets of expertise over the year, I also asked guest writer Greg Finney to list his 2014 highlights."
+slug = "roundup2014"
+title = "#RoundUp2014"
++++
 
 <h2>Jenna:<br>
 </h2>

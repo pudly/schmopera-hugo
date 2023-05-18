@@ -1,25 +1,18 @@
----
-date: "2017-02-17T23:09:00+00:00"
-discipline: Baritone
-lastmod: "2017-02-17T23:11:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487372937872/2017-02-17---molnar_levente.jpg.jpg
-publishDate: "2017-02-17T23:09:00+00:00"
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/opernhaus-zurich.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/wiener-staatsoper.md
-slug: levente-molnar
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/LeventeMolnarOperaSingerOfficial/
-title: Levente Molnár
-website: http://www.leventemolnar.com/en/
----
++++
+date = "2017-02-17T23:09:00+00:00"
+discipline = "Baritone"
+lastmod = "2017-02-17T23:11:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487372937872/2017-02-17---molnar_levente.jpg.jpg"
+publishDate = "2017-02-17T23:09:00+00:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/opernhaus-zurich.md","scene/companies/deutsche-oper-berlin.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md"]
+slug = "levente-molnar"
+title = "Levente Molnár"
+website = "http://www.leventemolnar.com/en/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/LeventeMolnarOperaSingerOfficial/"
++++
 
 Levente Molnár was born in Transylvania and studied voice at the University of Music in Oradea.
 

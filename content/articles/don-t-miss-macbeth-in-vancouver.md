@@ -1,31 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2019-06-18T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: Heroic Opera's production of [_Macbeth_](https://www.brownpapertickets.com/event/4207464)
-  runs at Orpheum Annex July 5-6, 7:30pm.
-preamble: |-
-  As their name suggests, Vancouver-based [Heroic Opera](/scene/companies/heroic-opera/) is all about the big and grand. Their production of Verdi's [_Macbeth_](https://www.brownpapertickets.com/event/4207464) (July 5-6) is a continuation of their company mandate to present the dramatic works of Verdi, Wagner, and Strauss. Even pared down in a cabaret-style venue, and Music Director Perri Lo in place of a full orchestra, it's a fairly rare treat to see these large, hard-to-produce operas, and to hear the singers fit for their roles.
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2019-06-18T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = "Heroic Opera's production of [_Macbeth_](https://www.brownpapertickets.com/event/4207464) runs at Orpheum Annex July 5-6, 7:30pm."
+preamble = "As their name suggests, Vancouver-based [Heroic Opera](/scene/companies/heroic-opera/) is all about the big and grand. Their production of Verdi's [_Macbeth_](https://www.brownpapertickets.com/event/4207464) (July 5-6) is a continuation of their company mandate to present the dramatic works of Verdi, Wagner, and Strauss. Even pared down in a cabaret-style venue, and Music Director Perri Lo in place of a full orchestra, it's a fairly rare treat to see these large, hard-to-produce operas, and to hear the singers fit for their roles.\n\nWe spoke with stage director Jeanine Fynn about her _Macbeth_ for Heroic Opera, and the unique need the company satisfies in Vancouver's opera scene."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1560892855/media/2019/06/sqMacbeth.jpg"
+primary_image_credit = "Andrew Greenwood as Macbeth, Melissa Ratcliff as Lady Macbeth in Heroic Opera's production of Macbeth. Photo: Kathryn Nickford."
+related_articles = ["articles/talking-with-singers-christine-goerke.md"]
+related_companies = ["scene/companies/heroic-opera.md"]
+related_people = []
+short_description = "\"Treachery, swordfights, murders, wild women in the woods telling the future…what isn't to love? And the way Verdi tells the tale musically, he really makes my job easy – I just have to listen to what the music is asking of us.\""
+slug = "dont-miss-macbeth-in-vancouver"
+title = "Don't miss: Macbeth in Vancouver"
+youtube_url = ""
 
-  We spoke with stage director Jeanine Fynn about her _Macbeth_ for Heroic Opera, and the unique need the company satisfies in Vancouver's opera scene.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1560892855/media/2019/06/sqMacbeth.jpg
-primary_image_credit: 'Andrew Greenwood as Macbeth, Melissa Ratcliff as Lady Macbeth
-  in Heroic Opera''s production of Macbeth. Photo: Kathryn Nickford.'
-related_articles:
-- articles/talking-with-singers-christine-goerke.md
-related_companies:
-- scene/companies/heroic-opera.md
-related_people: []
-short_description: '"Treachery, swordfights, murders, wild women in the woods telling
-  the future…what isn''t to love? And the way Verdi tells the tale musically, he really
-  makes my job easy – I just have to listen to what the music is asking of us."'
-slug: dont-miss-macbeth-in-vancouver
-title: 'Don''t miss: Macbeth in Vancouver'
-youtube_url: ""
----
++++
 ## What niche do you think is filled by Heroic Opera's mandate to perform opera specifically by Wagner, Verdi, and Strauss?
 
 These are works that are usually only done by large companies because they're so grand, which means very few singers get the opportunity to sing through these full shows – they're often only getting to perform arias and scenes. Heroic Opera recognizes that there are singers who want to sing this repertoire, and audiences that want to hear it. In Vancouver, that was a space that wasn't being filled.
@@ -40,9 +31,7 @@ I mean…I love me a salacious tale, and this is _Game of Thrones_-level drama. 
 
 The most challenging? Probably the technicality behind that damn ghost of Banquo appearing and disappearing. Although that may be because we just staged that scene, and it turns out real people can't physically do what my brain decided they could.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1560892902/media/2019/06/JeanineFynn-KatieCross.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1560892902/media/2019/06/JeanineFynn-KatieCross.jpg){{% /md %}}
 
 <figcaption>Jeanine Fynn, director of Heroic Opera's Macbeth. Photo: Katie Jameson.</figcaption>
 

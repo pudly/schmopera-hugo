@@ -1,23 +1,16 @@
----
-author:
-- authors/greg.md
-categories: Op-ed
-date: "2016-12-07T17:13:00+00:00"
-lastmod: "2016-12-08T13:07:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481193778584/2016-12-8---Snob.jpg.jpg
-publishDate: "2016-12-08T13:07:00+00:00"
-related_articles:
-- articles/elitism-irony-and-the-phantom-of-the-opera.md
-- articles/the-life-of-a-comprimario-or-oh-youre-that-guy.md
-related_companies:
-- scene/companies/english-national-opera.md
-short_description: 'But here&#039;s the kicker in my eyes: no one bats an eye when
-  someone says, &quot;Oh, she&#039;s a Susanna, not an Ariadne,&quot; but thinking
-  that this Susanna would also sound great as Lucy in The Secret Garden garners a
-  completely different response.'
-slug: oh-look-its-the-elitist-argument-again
-title: Oh look, it&#039;s the &quot;elitist&quot; argument again...
----
++++
+author = ["authors/greg.md"]
+categories = "Op-ed"
+date = "2016-12-07T17:13:00+00:00"
+lastmod = "2016-12-08T13:07:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481193778584/2016-12-8---Snob.jpg.jpg"
+publishDate = "2016-12-08T13:07:00+00:00"
+related_articles = ["articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/the-life-of-a-comprimario-or-oh-youre-that-guy.md"]
+related_companies = ["scene/companies/english-national-opera.md"]
+short_description = "But here&#039;s the kicker in my eyes: no one bats an eye when someone says, &quot;Oh, she&#039;s a Susanna, not an Ariadne,&quot; but thinking that this Susanna would also sound great as Lucy in The Secret Garden garners a completely different response."
+slug = "oh-look-its-the-elitist-argument-again"
+title = "Oh look, it&#039;s the &quot;elitist&quot; argument again..."
++++
 
 English National Opera has been following the suit of several American companies and introduced Broadway musicals into their seasons as a way to reach out to potential new audiences. The ire of the British opera world was raised almost immediately after its most recent announcement. Loud were the cries of ENO’s losing its integrity in an attempt to get “butts in the seats”. 
 
@@ -31,9 +24,7 @@ For it latest infusion of "new", ENO will present Rodgers and Hammerstein's [*Ca
 
 The crux of the issue seems to be the casting of classical crossover singer Katherine Jenkins as Julie Jordan. While she tours the world doing concerts, she has been plagued by a number of cancellations that seem to be too much of a coincidence; but without speaking to Ms. Jenkins, I can't and won't say for certain. That being said, Ms. Jenkins is a draw, if not just her fans, but for the people who will come to see if she fails. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481193961010/2016-12-8---Katherine_Jenkins.jpg.jpg)<figcaption>Katherine Jenkins.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481193961010/2016-12-8---Katherine_Jenkins.jpg.jpg)<figcaption>Katherine Jenkins.</figcaption>
 </figure>
 
 And this is what leads me back to a discussion we've had before. Are we elitist? Is this part of the problem opera has in branching out to new audiences?

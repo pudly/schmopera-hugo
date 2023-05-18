@@ -1,49 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-06-28T14:36:00-06:00"
-lastmod: "2015-06-29T13:00:00-06:00"
-preamble: I first met soprano [Kelsey Vicary](/scene/people/kelsey-vicary/) when we
-  were both studying at Western University, and I had the chance to work with her
-  most recently as Helena in [Opera on the Avalon](/scene/companies/opera-on-the-avalon/)'s
-  production of *A Midsummer Night's Dream*. You may have heard her as the Mother
-  in [Metro Youth Opera](/scene/companies/metro-youth-opera/)'s *Hänsel und Gretel*,
-  or as a past finalist in the Canadian Opera Company's Ensemble Studio Competition.
-  In her smart interview, Kelsey chats about the long-term process that is becoming
-  a singer, and how she strives for simplicity.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435523789422/KelseyVicary_headshotSquare.jpg.jpg
-publishDate: "2015-06-29T12:55:00-06:00"
-related_articles:
-- articles/spotlight-on-emily-peragine.md
-- articles/spotlight-on-peter-bass.md
-- articles/spotlight-on-michelle-siemens.md
-- articles/spotlight-on-julia-dawson.md
-- articles/spotlight-on-charlotte-knight.md
-- articles/spotlight-on-christopher-james-ray.md
-- articles/spotlight-on-maikai-nash.md
-- articles/spotlight-on-danielle-macmillan.md
-- articles/spotlight-on-marjorie-maltais.md
-- articles/spotlight-on-william-ford.md
-- articles/spotlight-on-kimberleyann-bartczak.md
-- articles/spotlight-on-laurelle-jade-froese.md
-- articles/spotlight-on-jeremy-hirsch.md
-- articles/spotlight-on-maeve-palmer.md
-- articles/spotlight-on-keith-lam.md
-related_companies:
-- scene/companies/opera-on-the-avalon.md
-- scene/companies/cosi-centre-for-opera-studies-in-italy.md
-- scene/companies/myopera.md
-related_people:
-- scene/people/kelsey-vicary.md
-short_description: 'I first met soprano Kelsey Vicary when we were both studying at
-  Western University, and I had the chance to work with her most recently as Helena
-  in Opera on the Avalon&#039;s production of A Midsummer Night&#039;s Dream. You
-  may have heard her as the Mother in Metro Youth Opera&#039;s Hänsel und Gretel,
-  or as a past finalist in the Canadian Opera Company&#039;s Ensemble Studio Competition. '
-slug: spotlight-on-kelsey-vicary
-title: 'Spotlight on: Kelsey Vicary'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-06-28T14:36:00-06:00"
+lastmod = "2015-06-29T13:00:00-06:00"
+preamble = "I first met soprano [Kelsey Vicary](/scene/people/kelsey-vicary/) when we were both studying at Western University, and I had the chance to work with her most recently as Helena in [Opera on the Avalon](/scene/companies/opera-on-the-avalon/)'s production of *A Midsummer Night's Dream*. You may have heard her as the Mother in [Metro Youth Opera](/scene/companies/metro-youth-opera/)'s *Hänsel und Gretel*, or as a past finalist in the Canadian Opera Company's Ensemble Studio Competition. In her smart interview, Kelsey chats about the long-term process that is becoming a singer, and how she strives for simplicity."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435523789422/KelseyVicary_headshotSquare.jpg.jpg"
+publishDate = "2015-06-29T12:55:00-06:00"
+related_articles = ["articles/spotlight-on-emily-peragine.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-jeremy-hirsch.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-keith-lam.md"]
+related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/myopera.md"]
+related_people = ["scene/people/kelsey-vicary.md"]
+short_description = "I first met soprano Kelsey Vicary when we were both studying at Western University, and I had the chance to work with her most recently as Helena in Opera on the Avalon&#039;s production of A Midsummer Night&#039;s Dream. You may have heard her as the Mother in Metro Youth Opera&#039;s Hänsel und Gretel, or as a past finalist in the Canadian Opera Company&#039;s Ensemble Studio Competition. "
+slug = "spotlight-on-kelsey-vicary"
+title = "Spotlight on: Kelsey Vicary"
++++
 
 ### Why do you sing, and why are you pursuing it professionally? 
 

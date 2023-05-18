@@ -1,33 +1,20 @@
----
-date: "2015-11-04T14:18:00-05:00"
-discipline: Mezzo-soprano
-lastmod: "2015-11-04T14:18:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1663076526/media/2022/09/EmilyDAngelo_Mark-Pillai_kxmue3.jpg
-primary_image_credit: Mark Pillai.
-publishDate: "2015-11-04T14:18:00-05:00"
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/opra-national-de-paris.md
-- scene/companies/opernhaus-zurich.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/cosi-centre-for-opera-studies-in-italy.md
-- scene/companies/halifax-summer-opera-festival.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-- scene/companies/songfest.md
-slug: emily-dangelo
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/emilymezzo
-title: Emily D'Angelo
-website: http://www.emilydangelo.com/
----
++++
+date = "2015-11-04T14:18:00-05:00"
+discipline = "Mezzo-soprano"
+lastmod = "2015-11-04T14:18:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1663076526/media/2022/09/EmilyDAngelo_Mark-Pillai_kxmue3.jpg"
+primary_image_credit = "Mark Pillai."
+publishDate = "2015-11-04T14:18:00-05:00"
+related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/opernhaus-zurich.md", "scene/companies/staatsoper-berlin.md", "scene/companies/teatro-alla-scala.md", "scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/cosi-centre-for-opera-studies-in-italy.md", "scene/companies/halifax-summer-opera-festival.md", "scene/companies/canadian-opera-company-ensemble-studio.md", "scene/companies/songfest.md"]
+slug = "emily-dangelo"
+title = "Emily D'Angelo"
+website = "http://www.emilydangelo.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/emilymezzo"
+
++++
 A 2020 Lincoln Center Emerging Artist, Emily D’Angelo is the first and only vocalist to have been presented with the Leonard Bernstein Award from the Schleswig Holstein Festival, and has been named one of WQXR NYC Public Radio’s "40 Under 40" singers to watch, and Canada's "Top 30 Under 30" Classical Musicians.  
 
 The 2021/22 season marks numerous exciting debuts for D’Angelo.  She begins the season with her role and house debut as Ottavia (_L'Incoronazione di Poppea_) at Zurich Opera, before making a house and role  debut as Angelina in Rossini’s _La Cenerentola_ at Semperoper Dresden. At the Metropolitan Opera New York, Emily D'Angelo stars as Prince Charming in _Cinderella_ before returning to Teatro alla Scala in Milano for yet another role debut, Donna Elvira in _Don Giovanni_, and closes the season with a house and role debut at Paris Opera as Siebel in Gounod's _Faust_.

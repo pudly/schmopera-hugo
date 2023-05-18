@@ -1,29 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2015-12-10T22:28:00Z"
-lastmod: "2017-03-25T12:23:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490444441747/2017-03-25---Scoop.jpg.jpg
-publishDate: "2015-12-12T14:00:00+00:00"
-related_articles:
-- articles/4-tips-for-when-there-are-too-many-notes.md
-- articles/quick-tips-the-rolled-r-test.md
-- articles/the-opera-olympics-its-time.md
-- articles/stop-shaming-adele.md
-related_people:
-- scene/people/renee-fleming.md
-- scene/people/wendy-nielsen.md
-- scene/people/mark-joelson-daboll.md
-short_description: Recently, one of our readers posed a question about that particular
-  vocal technique, commonly (and charmingly) known as &quot;scooping&quot;. When a
-  singer scoops up to a note, it means they start making sound on a pitch that&#039;s
-  below the one they mean to sing. Pop singers do a similar thing, but usually with
-  less vibrato. It&#039;s a stylistic choice, and it&#039;s often on a conscious decision
-  by the singer.
-slug: hot-topics-singers-who-scoop
-title: 'Hot topics: singers who scoop'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = 2015-12-10T22:28:00Z
+lastmod = "2017-03-25T12:23:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490444441747/2017-03-25---Scoop.jpg.jpg"
+publishDate = "2015-12-12T14:00:00+00:00"
+related_articles = ["articles/4-tips-for-when-there-are-too-many-notes.md", "articles/quick-tips-the-rolled-r-test.md", "articles/the-opera-olympics-its-time.md", "articles/stop-shaming-adele.md"]
+related_people = ["scene/people/renee-fleming.md", "scene/people/wendy-nielsen.md", "scene/people/mark-joelson-daboll.md"]
+short_description = "Recently, one of our readers posed a question about that particular vocal technique, commonly (and charmingly) known as &quot;scooping&quot;. When a singer scoops up to a note, it means they start making sound on a pitch that&#039;s below the one they mean to sing. Pop singers do a similar thing, but usually with less vibrato. It&#039;s a stylistic choice, and it&#039;s often on a conscious decision by the singer."
+slug = "hot-topics-singers-who-scoop"
+title = "Hot topics: singers who scoop"
+
++++
 Recently, one of our [readers](https://twitter.com/DundasKeele) posed a question about that particular vocal technique, commonly (and charmingly) known as "scooping". When a singer scoops up to a note, it means they start making sound on a pitch that's below the one they mean to sing. Pop singers do a similar thing, but usually with less vibrato. It's a stylistic choice, and it's often on a conscious decision by the singer.
 
 Singers like Renée Fleming (dubbed "La Scoopenda" by her [clever critics](http://parterre.com/)), are notorious for their use of sliding starts, and it often goes: the bigger the voice, the larger the range of said scoop. A classic example is this performance of Fleming singing Violetta's Act I aria from _La traviata_ (specifically, the third note she sings):

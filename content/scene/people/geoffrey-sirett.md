@@ -1,23 +1,14 @@
----
-_template: people_single
-date: "2015-04-07T17:23:00-04:00"
-discipline: Baritone
-lastmod: "2018-03-20T21:33:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521596029661/SIRETT-PHOTONEW1.jpg.jpg
-publishDate: "2015-04-07T17:23:00-04:00"
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/opera-5.md
-- scene/companies/voicebox-opera-in-concert.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/lopra-de-montral.md
-- scene/companies/soundstreams.md
-- scene/companies/talisker-players.md
-- scene/companies/coleman-lemieux-compagnie.md
-slug: geoffrey-sirett
-title: Geoffrey Sirett
-website: http://www.geoffreysirett.com/
----
++++
+date = "2015-04-07T17:23:00-04:00"
+discipline = "Baritone"
+lastmod = "2018-03-20T21:33:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521596029661/SIRETT-PHOTONEW1.jpg.jpg"
+publishDate = "2015-04-07T17:23:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/opera-5.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/canadian-opera-company.md","scene/companies/lopra-de-montral.md","scene/companies/soundstreams.md","scene/companies/talisker-players.md","scene/companies/coleman-lemieux-compagnie.md"]
+slug = "geoffrey-sirett"
+title = "Geoffrey Sirett"
+website = "http://www.geoffreysirett.com/"
++++
 
 Baritone Geoffrey Sirett has emerged as one of Canada’s finest young baritones, and is highly sought-after across the country for a wide range of operatic and concert repertoire.
 

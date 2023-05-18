@@ -1,26 +1,23 @@
----
-date: "2017-07-25T10:06:00-04:00"
-discipline: Bass-baritone
-lastmod: "2017-07-25T10:06:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500991376206/joel-allison-headshot-2_orig.jpg.jpg
-primary_image_credit: Nathan Ball
-publishDate: "2017-07-25T10:06:00-04:00"
-related_companies:
-- scene/companies/university-of-toronto-opera.md
-- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
-- scene/companies/talisker-players.md
-slug: joel-allison
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/JoelAllison92
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/joelallisonbb/
-title: Joel Allison
-website: http://www.joelallisonbassbaritone.com/
----
++++
+date = "2017-07-25T10:06:00-04:00"
+discipline = "Bass-baritone"
+lastmod = "2017-07-25T10:06:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500991376206/joel-allison-headshot-2_orig.jpg.jpg"
+primary_image_credit = "Nathan Ball"
+publishDate = "2017-07-25T10:06:00-04:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/talisker-players.md"]
+slug = "joel-allison"
+title = "Joel Allison"
+website = "http://www.joelallisonbassbaritone.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/JoelAllison92"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/joelallisonbb/"
++++
 
 The young Canadian Bass-Baritone Joel Allison has been praised for his “ beautiful, rich, ringing tone….exceptionally promising.” (*Musical Toronto*). He has performed throughout Canada with leading ensembles including the National Arts Centre Orchestra, Saskatoon Opera, National Academy Orchestra, Theatre of Early Music, Talisker Players and Tafelmusik Baroque Orchestra and Chamber Choir.
 

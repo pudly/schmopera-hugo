@@ -1,31 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-06-06T18:02:00-06:00"
-lastmod: "2017-06-08T22:28:00-06:00"
-preamble: |-
-  At 23, Kazakh soprano [Maria Mudryak](/scene/people/maria-mudryak/)'s singing career has already brought her to the world's great stages, to sing some of the most enviable roles in the operatic repertoire. Her training started early, with a move to Italy at the age of 10; she soon joined the children's chorus of the Teatro alla Scala, and was later accepted into the Conservatory Giuseppe Verdi in Milan at just 14. She made her professional debut as Susanna in *Le nozze di Figaro* in Genova, and has since filled her seasons with performances of Adina (*L'elisir d'amore*), Musetta (*La bohème*), Marie (*La fille du régiment*) and Violetta (*La traviata*).
-
-  We spoke with Mudryak about her exception career, and the careful attention she paid to her instrument throughout her early training.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496884536611/2017-06-07---Maria-Mudryak_Luciano-Romano.jpg.jpg
-primary_image_credit: 'Photo: Luciano Romano.'
-publishDate: "2017-06-08T22:28:00-06:00"
-related_articles:
-- articles/baby-opera-singers-getting-angry-for-the-right-reasons.md
-- articles/talking-with-singers-melody-moore.md
-related_companies:
-- scene/companies/teatro-alla-scala.md
-related_people:
-- scene/people/maria-mudryak.md
-short_description: '&quot;Since I was ten I have been regularly checked by a phoniatrist;
-  I was aware of the characteristics and features of my voice, and so, after graduating
-  from the Conservatory at 18, I convinced my teacher Carlo Gaifa to let me try Violetta&#039;s
-  aria; he did not agree at first but after hearing me he decided to teach me the
-  aria and at twenty-two I was able to sing the whole role of Violetta Valéry.&quot;'
-slug: talking-with-singers-maria-mudryak
-title: 'Talking with singers: Maria Mudryak'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-06-06T18:02:00-06:00"
+lastmod = "2017-06-08T22:28:00-06:00"
+preamble = "At 23, Kazakh soprano [Maria Mudryak](/scene/people/maria-mudryak/)'s singing career has already brought her to the world's great stages, to sing some of the most enviable roles in the operatic repertoire. Her training started early, with a move to Italy at the age of 10; she soon joined the children's chorus of the Teatro alla Scala, and was later accepted into the Conservatory Giuseppe Verdi in Milan at just 14. She made her professional debut as Susanna in *Le nozze di Figaro* in Genova, and has since filled her seasons with performances of Adina (*L'elisir d'amore*), Musetta (*La bohème*), Marie (*La fille du régiment*) and Violetta (*La traviata*).\n\nWe spoke with Mudryak about her exception career, and the careful attention she paid to her instrument throughout her early training."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496884536611/2017-06-07---Maria-Mudryak_Luciano-Romano.jpg.jpg"
+primary_image_credit = "Photo: Luciano Romano."
+publishDate = "2017-06-08T22:28:00-06:00"
+related_articles = ["articles/baby-opera-singers-getting-angry-for-the-right-reasons.md","articles/talking-with-singers-melody-moore.md"]
+related_companies = ["scene/companies/teatro-alla-scala.md"]
+related_people = ["scene/people/maria-mudryak.md"]
+short_description = "&quot;Since I was ten I have been regularly checked by a phoniatrist; I was aware of the characteristics and features of my voice, and so, after graduating from the Conservatory at 18, I convinced my teacher Carlo Gaifa to let me try Violetta&#039;s aria; he did not agree at first but after hearing me he decided to teach me the aria and at twenty-two I was able to sing the whole role of Violetta Valéry.&quot;"
+slug = "talking-with-singers-maria-mudryak"
+title = "Talking with singers: Maria Mudryak"
++++
 
 ## How did you plan and pace your operatic training as a teen?
 

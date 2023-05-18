@@ -1,30 +1,17 @@
----
-author:
-- authors/loren-lester.md
-categories: Review
-date: "2017-10-15T19:07:00-04:00"
-lastmod: "2017-10-15T22:55:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508110142322/2017-10-16---square---nab_3005pr.jpg.jpg
-publishDate: "2017-10-15T21:07:00-04:00"
-related_articles:
-- articles/la-opera-scores-in-first-half-of-bizet-doubleheader.md
-- articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md
-- articles/placido-baritones-ripple.md
-related_companies:
-- scene/companies/los-angeles-opera.md
-related_people:
-- scene/people/plcido-domingo.md
-- scene/people/morris-robinson.md
-- scene/people/liudmyla-monastyrska.md
-- scene/people/mario-chang.md
-short_description: 'Yes, there was a Verdi opera somewhere in those three and a half
-  hours - and we got to see brilliant flashes at times of what the show should and
-  could have been - but mostly we had to wade through a lot of concept and conceit
-  to get there. It wasn&#039;t until Act IV (the final act) that our wishes came true:
-  singing, acting and staging that actually touched the audience, and touched us deeply.'
-slug: nabucco-is-hard-to-find-in-the-latest-la-opera-production
-title: Nabucco is hard to find in the latest LA Opera production
----
++++
+author = ["authors/loren-lester.md"]
+categories = "Review"
+date = "2017-10-15T19:07:00-04:00"
+lastmod = "2017-10-15T22:55:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508110142322/2017-10-16---square---nab_3005pr.jpg.jpg"
+publishDate = "2017-10-15T21:07:00-04:00"
+related_articles = ["articles/la-opera-scores-in-first-half-of-bizet-doubleheader.md","articles/nashville-operas-carmen-she-dies-because-she-told-a-man-no.md","articles/placido-baritones-ripple.md"]
+related_companies = ["scene/companies/los-angeles-opera.md"]
+related_people = ["scene/people/plcido-domingo.md","scene/people/morris-robinson.md","scene/people/liudmyla-monastyrska.md","scene/people/mario-chang.md"]
+short_description = "Yes, there was a Verdi opera somewhere in those three and a half hours - and we got to see brilliant flashes at times of what the show should and could have been - but mostly we had to wade through a lot of concept and conceit to get there. It wasn&#039;t until Act IV (the final act) that our wishes came true: singing, acting and staging that actually touched the audience, and touched us deeply."
+slug = "nabucco-is-hard-to-find-in-the-latest-la-opera-production"
+title = "Nabucco is hard to find in the latest LA Opera production"
++++
 
 A friend texted me as she was leaving the LA Opera production of [*Nabucco*](https://www.laopera.org/season/1718-Season/Nabucco/) and asked if I could explain the curtain call. The curtain call took some deciphering but it was simply the capper to a production that shouldn't have been called *Nabucco*, but rather "An Evening with Director Thaddeus Strassberger." 
 
@@ -32,9 +19,7 @@ Yes, there was a Verdi opera somewhere in those three and a half hours - and we 
 
 The success of this final hour or so was due in large measure to the presence of [Plácido Domingo](/scene/people/placido-domingo/), in the title role. Considered by many - and rightly so - to be one of the greatest tenors who ever lived, he reinvented himself a few years ago as a baritone (ironically, he originally trained to be a baritone) and for the past five years, he has specialized in Verdi. He has stated that he was drawn to Nabucco because of "the mad scene" but it's the aftermath of that scene where Domingo demonstrates he is still a great singer and actor. At the age of 76, after six decades and almost 4,000 performances on the opera stage, he's at the age when most Shakespearean performers tackle King Lear. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508111511379/2017-10-16---nab_2538pr.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508111511379/2017-10-16---nab_2538pr.jpg.jpg)
 <figcaption>Plácido Domingon (Nabucco) and Liudmyla Monastyrska (Abigaille) in *Nabucco*, LA Opera, 2017. Photo: Ken Howard.</figcaption>
 </figure>
 
@@ -42,9 +27,7 @@ Story-wise *Nabucco* is the operatic equivalent. As Nabucco, Domingo alternates 
 
 Unfortunately, up until the jail scene, Strassberger continually and deliberately distracted us from Verdi's music and, more importantly, from Verdi's intent.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508111556727/2017-10-16---nab_0210pr.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508111556727/2017-10-16---nab_0210pr.jpg.jpg)
 <figcaption>(l-r): Mario Chang (Ismaele), Liudmyla Monastyrska (Abigaille) and Nancy Fabiola Herrera (Fenena) in *Nabucco*, LA Opera, 2017. Photo: Ken Howard.</figcaption>
 </figure>
 
@@ -54,9 +37,7 @@ Unfortunately, up until the jail scene, Strassberger continually and deliberatel
 
 After the lamplighter, 19th century aristocrats enter the stage dressed in elegance designed by the talented costume designer Mattie Ullrich. At least one couple is clearly royalty. They proceed to a three-tiered section of opera boxes that have been erected on the side of the stage. There are also carbineris who march in with their rifles ready and stand at attention. All this while the iconic overture is playing. "Don't listen," Strassberger seems to be saying - "I have a better idea." Strassberger's Brechtian concept is obvious: he's telling us "it's just an opera - don't get too involved." And for most of the evening we don't.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508111567631/2017-10-16---nab_2707pr.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508111567631/2017-10-16---nab_2707pr.jpg.jpg)
 <figcaption>Liudmyla Monastyrska (Abigaille) in *Nabucco*, LA Opera, 2017. Photo: Ken Howard.</figcaption>
 </figure>
 
@@ -64,9 +45,7 @@ The denizens of the fake opera boxes are there for the entire show, fanning them
 
 Designed by director Strassberger, the sets are painted backdrops with forced perspective - something you'd no doubt see if you were attending the show at La Scala in the 1800's (the show was first presented in 1842.) One of the flats is of a lions' den - a nod to one of the libretto's sources, The Book of Daniel. Strassberger feels the need to surround the flat with a thick picture frame in case we were worried that somehow the lions were dangerous. It's not enough for Strassberger to have the real curtains of the Dorothy Chandler Pavilion - he has also painted another set of curtains on this and every backdrop, lest we forget for a moment that we're in the theatre and heaven forbid we should be carried away by the performances.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508111578349/2017-10-16---nab_2928pr.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508111578349/2017-10-16---nab_2928pr.jpg.jpg)
 <figcaption>Liudmyla Monastyrska (Abigaille) in *Nabucco*, LA Opera, 2017. Photo: Ken Howard.</figcaption>
 </figure>
 
@@ -74,9 +53,7 @@ Strassberger is also fond of upstaging his singers and often draws us away from 
 
 The truly worst choice by Strassberger was to completely upstage the most famous number in the show, "Va, Pensiero." Verdi clearly meant this to be a vitally important moment. We're supposed to be concentrating our attention on the chorus of Hebrews and sympathizing with their lament; they've lost everything at this point. Strassberger decided we shouldn't be looking at the singers and instead he forces us to watch what's going on "backstage." We see people sewing costumes and basically taking a break; some are smoking, some in half-changed costumes. One large round set piece actually blocks a portion of the chorus as stage hands spend a long time placing lights inside the set piece and hoisting it into the air.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508111631733/2017-10-16---nab_1583pr.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508111631733/2017-10-16---nab_1583pr.jpg.jpg)
 <figcaption>(l-r): Mario Chang (Ismaele), Morris Robinson (Zaccaria), and Nancy Fabiola Herrera (Fenena) in *Nabucco*, LA Opera, 2017. Photo: Ken Howard.</figcaption>
 </figure>
 

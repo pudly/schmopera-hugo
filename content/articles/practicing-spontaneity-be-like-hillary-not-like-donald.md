@@ -1,20 +1,15 @@
----
-author:
-- authors/jed-sutherland.md
-categories: Op-ed
-date: "2016-09-13T09:47:00+01:00"
-lastmod: "2016-09-13T10:29:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473757706072/2016-09-13---Speech.jpg.jpg
-publishDate: "2016-09-13T10:00:00+01:00"
-related_articles:
-- articles/to-dance-for-grandma-or-the-spontaneity-question.md
-short_description: Isn&#039;t it possible, though, that you&#039;ve taken all the
-  fun out of it both for yourself and the audience? If you&#039;re running to a plan,
-  there is no room for whimsy or spontaneity, for some little piece of improvisation
-  that might turn a good performance into one which is delightful and memorable.
-slug: practicing-spontaneity-be-like-hillary-not-like-donald
-title: 'Practicing spontaneity: be like Hillary &amp; not like Donald'
----
++++
+author = ["authors/jed-sutherland.md"]
+categories = "Op-ed"
+date = "2016-09-13T09:47:00+01:00"
+lastmod = "2016-09-13T10:29:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473757706072/2016-09-13---Speech.jpg.jpg"
+publishDate = "2016-09-13T10:00:00+01:00"
+related_articles = ["articles/to-dance-for-grandma-or-the-spontaneity-question.md"]
+short_description = "Isn&#039;t it possible, though, that you&#039;ve taken all the fun out of it both for yourself and the audience? If you&#039;re running to a plan, there is no room for whimsy or spontaneity, for some little piece of improvisation that might turn a good performance into one which is delightful and memorable."
+slug = "practicing-spontaneity-be-like-hillary-not-like-donald"
+title = "Practicing spontaneity: be like Hillary &amp; not like Donald"
++++
 
 The run up to the American Election is interminable so I don't generally pay attention, but one item caught my eye a couple of days ago:  It turns out that Donald Trump, brilliant politician that he is, says he is doing very little preparation for his 3 debates with Hillary Clinton.  
 

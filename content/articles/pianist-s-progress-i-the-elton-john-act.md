@@ -1,32 +1,22 @@
----
-author:
-- authors/david-todd.md
-categories: How-To
-date: "2023-03-26T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: What is a repetiteur, and how exactly do they help in the opera-making process?
-  This article, the first of a series (originally published on David Todd's blog,
-  [_Opera with a Hot Toddy_](https://www.david-todd.co.uk/?page_id=770)) delving into
-  one of opera's lesser-known roles, will hopefully help to address the black hole
-  of information and support available to répétiteurs starting out in the world of
-  opera...
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1679528708/media/2023/03/Pianistseries_elton-john-446485_1920_v5pbpa.jpg
-primary_image_credit: ""
-related_articles:
-- articles/how-to-lead-your-pianist.md
-- articles/how-to-play-for-singers.md
-related_companies: []
-related_people: []
-short_description: You won't be bashing out the chords of "Bennie and The Jets" while
-  singing along to your heart's content. Your task will be to play some of the most
-  difficult ensemble moments in the entire opera repertoire, singing every part and
-  every ensemble.
-slug: the-elton-john-act
-title: The Elton John Act
-youtube_url: ""
----
++++
+author = ["authors/david-todd.md"]
+categories = "How-To"
+date = 2023-03-26T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = "What is a repetiteur, and how exactly do they help in the opera-making process? This article, the first of a series (originally published on David Todd's blog, [_Opera with a Hot Toddy_](https://www.david-todd.co.uk/?page_id=770)) delving into one of opera's lesser-known roles, will hopefully help to address the black hole of information and support available to répétiteurs starting out in the world of opera..."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679528708/media/2023/03/Pianistseries_elton-john-446485_1920_v5pbpa.jpg"
+primary_image_credit = ""
+related_articles = ["articles/how-to-lead-your-pianist.md", "articles/how-to-play-for-singers.md"]
+related_companies = []
+related_people = []
+short_description = "You won't be bashing out the chords of \"Bennie and The Jets\" while singing along to your heart's content. Your task will be to play some of the most difficult ensemble moments in the entire opera repertoire, singing every part and every ensemble."
+slug = "the-elton-john-act"
+title = "The Elton John Act"
+youtube_url = ""
+
++++
 'And now, the time is wearing thin,  
 The murderer is still within,   
 The cast could just not find a lead,   
@@ -60,9 +50,7 @@ Yes, the répétiteur plays the part of the orchestra during the rehearsals, whi
 
 Of course prior to staging rehearsals even beginning, they will have probably been "coaching" the singers regularly too. I often try and relate this to sport in order to explain it better. If singing teachers are the fitness coaches, keeping a player healthy and ready physically for their next game, répétiteurs are the tactical coaches, suggesting where and when it will be best to shoot at which point in the game, where the defence will be most vulnerable, and how to refine how the player is already kicking to produce an even more accurate shot.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1679528797/media/2023/03/PIanistseries_soccerfield_r9jhxm.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679528797/media/2023/03/PIanistseries_soccerfield_r9jhxm.jpg){{% /md %}}
 
 <figcaption>Répétiteurs are the tactical coaches, suggesting amongst other things, where and when it will be best to shoot at which point in the game.</figcaption>  
 </figure>
@@ -73,9 +61,7 @@ Singing teachers help the singers on a technical level to use their body in the 
 
 Often many beginner répétiteurs play as if they are still driving a sports car (even though sadly on a répétiteur's salary, this will be an imagined idea rather than as a result of lived experience), and they need to learn to react in a way that is more like an orchestra. In order to know what the orchestra is like, you have to bury yourself in the orchestral score and immerse yourself in listening to different orchestras to get a sense of the sounds and weight that different instrumental sections make. It is for these reasons that being a répétiteur is still seen as ideal training for those wanting to become conductors. If you can multi-task to this extent, have strong personal skills that motivate people effectively, and have learnt to understand orchestral sound by processing musical scores at this level, you are already halfway to being a good conductor.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1679528785/media/2023/03/Pianistseries_cruiseship_z7nhce.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679528785/media/2023/03/Pianistseries_cruiseship_z7nhce.jpg){{% /md %}}
 
 <figcaption>If the solo piano is a sports car, the orchestra is more like an ocean liner. They can both be top of the range vehicles but will need to be steered and handled differently.</figcaption></figure>
 

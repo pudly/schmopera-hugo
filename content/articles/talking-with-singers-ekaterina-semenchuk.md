@@ -1,34 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-11-23T11:37:00+00:00"
-lastmod: "2016-11-23T14:17:00+00:00"
-preamble: |-
-  Francesca Zambello's new production of [Verdi's *Aida*](http://sfopera.com/discover-opera/201617-season/aida/), with set designs by visual artist RETNA, is currently onstage at [San Francisco Opera](/scene/companies/san-francisco-opera/) until December 6; opposite [Brian Jagde](/talking-with-singers-brian-jagde/) as Radamès and [Leah Crocetto](/talking-with-singers-leah-crocetto/) as Aida, Russian soprano [Ekaterina Semenchuk](/scene/people/ekaterina-semenchuk/) reprises one of her signature roles as Amneris.
-
-  We spoke with Semenchuk about the rich, layered role of Amneries, and her passion for singing characters whose love "causes a storm of emotions."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479901587123/2016-11-23---Ekaterina-Semenchuk-as-Amneris-in-Aida-Act-IV-Photo-Cory-Weaver.jpg.jpg
-primary_image_credit: Ekaterina Semenchuk as Amneris in San Francisco Opera's production
-  of Aida. Photo by Cory Weaver.
-publishDate: "2016-11-23T14:17:00+00:00"
-related_articles:
-- articles/talking-with-singers-brian-jagde.md
-- articles/talking-with-singers-leah-crocetto.md
-- articles/tamara-wilson-gives-a-flawless-aida-at-wno.md
-related_companies:
-- scene/companies/san-francisco-opera.md
-related_people:
-- scene/people/ekaterina-semenchuk.md
-short_description: '&quot;Amneris is one of the most difficult roles in the mezzo-soprano
-  repertory. It requires intense concentration and incredible physical and moral commitment,
-  not only in the last act as many people believe. At the very beginning of the opera,
-  a careful, disturbing and somewhat ominous leitmotif of jealousy sounds. Amneris
-  appears with it, lives with it throughout the opera, and by the last act the motive
-  has become a storm.&quot;'
-slug: talking-with-singers-ekaterina-semenchuk
-title: 'Talking with singers: Ekaterina Semenchuk'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-11-23T11:37:00+00:00"
+lastmod = "2016-11-23T14:17:00+00:00"
+preamble = "Francesca Zambello's new production of [Verdi's *Aida*](http://sfopera.com/discover-opera/201617-season/aida/), with set designs by visual artist RETNA, is currently onstage at [San Francisco Opera](/scene/companies/san-francisco-opera/) until December 6; opposite [Brian Jagde](/talking-with-singers-brian-jagde/) as Radamès and [Leah Crocetto](/talking-with-singers-leah-crocetto/) as Aida, Russian soprano [Ekaterina Semenchuk](/scene/people/ekaterina-semenchuk/) reprises one of her signature roles as Amneris.\n\nWe spoke with Semenchuk about the rich, layered role of Amneries, and her passion for singing characters whose love \"causes a storm of emotions.\""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479901587123/2016-11-23---Ekaterina-Semenchuk-as-Amneris-in-Aida-Act-IV-Photo-Cory-Weaver.jpg.jpg"
+primary_image_credit = "Ekaterina Semenchuk as Amneris in San Francisco Opera's production of Aida. Photo by Cory Weaver."
+publishDate = "2016-11-23T14:17:00+00:00"
+related_articles = ["articles/talking-with-singers-brian-jagde.md","articles/talking-with-singers-leah-crocetto.md","articles/tamara-wilson-gives-a-flawless-aida-at-wno.md"]
+related_companies = ["scene/companies/san-francisco-opera.md"]
+related_people = ["scene/people/ekaterina-semenchuk.md"]
+short_description = "&quot;Amneris is one of the most difficult roles in the mezzo-soprano repertory. It requires intense concentration and incredible physical and moral commitment, not only in the last act as many people believe. At the very beginning of the opera, a careful, disturbing and somewhat ominous leitmotif of jealousy sounds. Amneris appears with it, lives with it throughout the opera, and by the last act the motive has become a storm.&quot;"
+slug = "talking-with-singers-ekaterina-semenchuk"
+title = "Talking with singers: Ekaterina Semenchuk"
++++
 
 ## What kind of a woman is Amneris? What do you think are some misconceptions about her character?
 
@@ -46,9 +31,7 @@ But, regarding the recording with Oralia Dominguez, I liked Amneris more than Ai
 
 Amneris is one of the most difficult roles in the mezzo-soprano repertory. It requires intense concentration and incredible physical and moral commitment, not only in the last act as many people believe. At the very beginning of the opera, a careful, disturbing and somewhat ominous leitmotif of jealousy sounds. Amneris appears with it, lives with it throughout the opera, and by the last act the motive has become a storm. But this storm is in her from the start, she simply keeps her emotions down in the beginning. On the whole Amneris must be reserved, because she is the Pharaoh's daughter and her nobility requires it. She carries out a dialogue with Aida, speaks tenderly talks to Radamès, but inside her all is boiling. It is difficult but very important to show this appearance of serenity while her turbulent feelings are boiling inside. In the opera, Verdi's leitmotifs reveal all of this.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479909349746/2016-11-23---Ekaterina-Semenchuk-as-Amneris-and-Leah-Crocetto-in-the-title-role-Aida-Photo-Cory-Weaver.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479909349746/2016-11-23---Ekaterina-Semenchuk-as-Amneris-and-Leah-Crocetto-in-the-title-role-Aida-Photo-Cory-Weaver.jpg.jpg)
 <figcaption>Ekaterina Semenchuk as Amneris and Leah Crocetto in the title role of *Aida*, San Francisco Opera, 2016. Photo by Cory Weaver.</figcaption>
 </figure>
 
@@ -68,9 +51,7 @@ In my city, St. Petersburg, I am a member of the friends of the Hermitage Museum
 
 Here in San Francisco you have many fantastic museums like the Museum of Modern Art and Asian Art Museum and, of course, all of the exhibitions and museums dedicated to marine history. Each time I visit, I find something new! I don't always have time for all that I want to see in other countries and cities, but I try. I like to walk very much. For example, here in San Francisco, I walk by the ocean for hours, just to walk and meditate.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479909388942/2016-11-23---Ekaterina-Semenchuk-as-Amneris-Act-II-Photo-Cory-Weaver.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479909388942/2016-11-23---Ekaterina-Semenchuk-as-Amneris-Act-II-Photo-Cory-Weaver.jpg.jpg)
 <figcaption>Ekaterina Semenchuk as Amneris, in Act II of *Aida*, San Francisco Opera, 2016. Photo by Cory Weaver.</figcaption>
 </figure>
 

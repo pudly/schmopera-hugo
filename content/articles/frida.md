@@ -1,33 +1,22 @@
----
-author:
-- authors/daniel-weisman.md
-categories: Review
-date: "2019-10-17T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571280090/media/2019/10/sqAtlantaOperaFrida5770_t1royx.jpg
-primary_image_credit: 'Catalina Cuervo in the title role of Frida, The Atlanta Opera,
-  2019. Photo: Rafterman Photography.'
-related_articles:
-- articles/a-definitive-hit-west-side-story-in-atlanta.md
-- articles/fgo-frida.md
-related_companies:
-- scene/companies/the-atlanta-opera.md
-related_people:
-- scene/people/eliza-bonet.md
-- scene/people/bryn-holdsworth.md
-- scene/people/andres-acosta.md
-- scene/people/catalina-cuervo.md
-short_description: Frida and Diego encounter many struggles, the communist revolution
-  turning against Diego, the pair travelling to New York, their struggle to carry
-  a pregnancy to full term, and their return to Mexico, which led to Diego’s many
-  affairs.
-slug: cuervos-sophisticated-lyric-frida-in-atlanta
-title: Cuervo's "sophisticated, lyric" Frida in Atlanta
-youtube_url: ""
----
++++
+author = ["authors/daniel-weisman.md"]
+categories = "Review"
+date = "2019-10-17T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571280090/media/2019/10/sqAtlantaOperaFrida5770_t1royx.jpg"
+primary_image_credit = "Catalina Cuervo in the title role of Frida, The Atlanta Opera, 2019. Photo: Rafterman Photography."
+related_articles = ["articles/a-definitive-hit-west-side-story-in-atlanta.md", "articles/fgo-frida.md"]
+related_companies = ["scene/companies/the-atlanta-opera.md"]
+related_people = ["scene/people/eliza-bonet.md", "scene/people/bryn-holdsworth.md", "scene/people/andres-acosta.md", "scene/people/catalina-cuervo.md"]
+short_description = "Frida and Diego encounter many struggles, the communist revolution turning against Diego, the pair travelling to New York, their struggle to carry a pregnancy to full term, and their return to Mexico, which led to Diego’s many affairs."
+slug = "cuervos-sophisticated-lyric-frida-in-atlanta"
+title = "Cuervo's \"sophisticated, lyric\" Frida in Atlanta"
+youtube_url = ""
+
++++
 A biographical opera focusing on the life of famed Mexican painter, Frida Kahlo, composer Robert Xavier Rodriguez' _Frida_ premiered in 1991 with a book by Hilary Blecher, and with monologues and lyrics by Migdalia Cruz. Long awaited, the musical telling of Frida Kahlo's heroic and tragic story has been featured as far as Guadelajara in 2007 for the 110th anniversary of Frida Kahlo's death.
 
 The work itself follows Frida through her life, starting with her tragic bus accident following the loss of her virginity to her childhood sweetheart, her involvement with the communist party, her recovery allowing her to turn to her love of painting, and her rendezvous with death that seemed to linger throughout her survival following the accident. 
@@ -40,9 +29,7 @@ The production presented at The Atlanta Opera has endured numerous outings, nota
 
 The stage is set with abstract visions of Kahlo's work, a gigantic heart, a withering tree sprouting from the arteries, and a large screen in the background; it effectively helps set the obscurities as the Kahlo-Rivera household, a New York City party, Rivera's studio, and more. The costuming, expertly done by Moníka Essen, with wigs by Sue Sittko Schaefer, perfectly captures the stylistically appropriate and effectively dressed the actors, and helps transform them into numerous different roles while sticking strictly with historically accurate and culturally relevant pieces.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1571280106/media/2019/10/AtlantaOperaFrida6680_ancalw.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571280106/media/2019/10/AtlantaOperaFrida6680_ancalw.jpg){{% /md %}}
 
 <figcaption>Frida, The Atlanta Opera, 2019. Photo: Rafterman Photography.</figcaption>  
 </figure>
@@ -75,9 +62,7 @@ Mezzo-soprano [Eliza Bonet](/scene/people/eliza-bonet/), who made her TAO debut 
 
 Nathan Munson - who we have seen triumph in Capitol City Opera's _Gianni Schicchi_ and _Buoso's Ghost_, and The Atlanta Opera's _Seven Deadly Sins_ - takes on the smaller roles as a mourner and as Mr. Ford, inviting his strong, sensitive lyric tenor to mingle, brightly cutting through the orchestration while inviting a rounded, pleasant sound. One hopes we might see him sing something slightly more substantial on The Atlanta Opera's stage, considering his talent and the small roles he's done recently.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1571280213/media/2019/10/AtlantaOperaFrida7454_bvgiau.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571280213/media/2019/10/AtlantaOperaFrida7454_bvgiau.jpg){{% /md %}}
 
 <figcaption>Frida, The Atlanta Opera, 2019. Photo: Rafterman Photography.</figcaption>  
 </figure>

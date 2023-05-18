@@ -1,31 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-04-19T20:13:00+01:00"
-lastmod: "2016-04-21T15:12:00+01:00"
-preamble: |-
-  Any performer worth their salt knows that the first order of business on any contract is to make friends with the stage managers. Without them and their endless attention to detail, the artist may miss his cue, or find herself out onstage without that vital prop, or miss his mark and sing that big aria tragically outside of his light. Stage managers are an organized bunch, a team who knows everything about you, and what you'll need next. They help directors, singers, conductors, schedulers, wardrobe and make-up departments; they're the glue that holds the show together, and they stay humbly obscured in their extensive black wardrobe, standing just out of the audience's sight.
-
-  So, writing about opera simply wouldn't be complete without talking to the stage managers about their work. Backstage heroes [Joanna Barrotta](https://twitter.com/JoJoBarBar) and [Mike Lewandowski](https://twitter.com/LewandowskiM) share their hilarious tales from the job, and clues to the very special world just behind the opera stage.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461145698459/2016-04-20---Post-it-notes.jpg.jpg
-publishDate: "2016-04-21T14:23:00+01:00"
-related_articles:
-- articles/michelle-telford.md
-- articles/5-important-roles-who-dont-get-an-aria.md
-- articles/3-ways-to-fight-boredom-at-the-opera.md
-- articles/a-faq-checklist-for-opera-newbies.md
-- articles/faces-in-the-crowd-operas-supernumeraries.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-short_description: Stage managers are an organized bunch, a team who knows everything
-  about you, and what you&#039;ll need next. They help directors, singers, schedulers,
-  wardrobe and make-up departments; they&#039;re the glue that holds the show together,
-  and they stay humbly obscured, dressed in black and standing just out of the audience&#039;s
-  sight.
-slug: tales-from-stage-management
-title: Tales from stage management
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-04-19T20:13:00+01:00"
+lastmod = "2016-04-21T15:12:00+01:00"
+preamble = "Any performer worth their salt knows that the first order of business on any contract is to make friends with the stage managers. Without them and their endless attention to detail, the artist may miss his cue, or find herself out onstage without that vital prop, or miss his mark and sing that big aria tragically outside of his light. Stage managers are an organized bunch, a team who knows everything about you, and what you'll need next. They help directors, singers, conductors, schedulers, wardrobe and make-up departments; they're the glue that holds the show together, and they stay humbly obscured in their extensive black wardrobe, standing just out of the audience's sight.\n\nSo, writing about opera simply wouldn't be complete without talking to the stage managers about their work. Backstage heroes [Joanna Barrotta](https://twitter.com/JoJoBarBar) and [Mike Lewandowski](https://twitter.com/LewandowskiM) share their hilarious tales from the job, and clues to the very special world just behind the opera stage."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461145698459/2016-04-20---Post-it-notes.jpg.jpg"
+publishDate = "2016-04-21T14:23:00+01:00"
+related_articles = ["articles/michelle-telford.md","articles/5-important-roles-who-dont-get-an-aria.md","articles/3-ways-to-fight-boredom-at-the-opera.md","articles/a-faq-checklist-for-opera-newbies.md","articles/faces-in-the-crowd-operas-supernumeraries.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+short_description = "Stage managers are an organized bunch, a team who knows everything about you, and what you&#039;ll need next. They help directors, singers, schedulers, wardrobe and make-up departments; they&#039;re the glue that holds the show together, and they stay humbly obscured, dressed in black and standing just out of the audience&#039;s sight."
+slug = "tales-from-stage-management"
+title = "Tales from stage management"
++++
 
 ## What’s your favourite part about stage managing for opera?
 **Mike**: I would have to say my favourite part about stage managing for opera is the scale. It doesn't get much bigger. This makes it for an interesting environment, and there is never a dull moment. It keeps things interesting and no day is ever the same. Despite the large scale, it is a fairly small world, and you do get to develop a lot of friendships with some amazing people, some who you may only see every few years. You do feel a sense of community. 
@@ -36,9 +22,7 @@ But truly, the best part is when you sit there and get to listen to [Christine G
 
 **Mike**: As stage managers we are also very lucky that we not only get to know the singers very well, and everyone else involved in the process. As most people know it takes a village, and as stage managers we are lucky to get to interact with all these people, from Production Assistants, Wardrobe, Wigs & Makeup, Props, Lighting, Designers, Scheduling Manager, Company Manager, Production Manager, Technical Director, Music Department, General Manager, crew and on and on. Stage managers truly know what everyone else is doing at all times. (And if they don't, they are sure to read the production notes and find out!)
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461144531908/Joanna-Headshot.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461144531908/Joanna-Headshot.jpg.jpg)
 <figcaption>Joanna Barrotta.</figcaption>
 </figure>
 
@@ -48,9 +32,7 @@ But truly, the best part is when you sit there and get to listen to [Christine G
 
 **Jo**: An enema pump in *Ariadne auf Naxos*.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461169353943/2016-04-20---Mikey-Sparkle.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461169353943/2016-04-20---Mikey-Sparkle.jpg.jpg)
 <figcaption>Mike Lewandowski. Photo by Cara Tierney.</figcaption>
 </figure>
 

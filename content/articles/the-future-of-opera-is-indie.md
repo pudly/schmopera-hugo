@@ -1,60 +1,18 @@
----
-author:
-- authors/blanche-isral.md
-categories: Editorial
-date: "2015-06-07T19:07:00-04:00"
-lastmod: "2015-12-04T15:47:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433718612620/IndieFeature.jpg.jpg
-primary_image_credit: Krisztina Szabó in Against the Grain Theatre's Death & Desire
-publishDate: "2015-06-09T08:45:00-04:00"
-related_articles:
-- articles/tim-vernon-artistic-director.md
-- articles/does-new-opera-raise-the-bar-for-performers.md
-- articles/are-the-good-old-days-of-opera-really-gone.md
-- articles/cosi-a-day-in-the-life.md
-- articles/back-to-school-opera-a-practical-glossary.md
-- articles/new-opera-more-singer-input-needed.md
-- articles/the-5-best-worst-states-for-finding-an-opera-house.md
-- articles/meet-the-friends-their-seven-deadly-sins.md
-- articles/in-review-the-seven-deadly-sins.md
-- articles/look-at-all-the-new-operas.md
-- articles/opera-lyra-and-the-five-stages-of-grief.md
-- articles/a-tale-of-two-audiences.md
-- articles/opera-for-voyeurs-opera-peep-show.md
-- articles/liederwolfe-stuns-in-operapeepshow.md
-- articles/great-ideas-devoted-disgruntled.md
-- articles/is-it-time-for-the-met-to-move.md
-- articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md
-- articles/updating-operas-why-stop-at-the-libretto.md
-- articles/canadians-abroad-the-quarterly-report.md
-- articles/a-diction-lesson-french-canadian-swearing.md
-- articles/dont-miss-the-2nd-annual-new-york-opera-fest.md
-- articles/in-review-the-italian-girl-in-algiers-at-myopera.md
-- articles/success-hype-the-first-season-of-opera-pubs-in-toronto.md
-- articles/fine-mess-composer-new-opera.md
-- articles/celebrating-10-years-of-opera-by-request.md
-- articles/the-value-of-creating-new-work-for-singers.md
-- articles/a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt.md
-- articles/4-reasons-to-get-excited-about-opera-in-2018.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/indie-opera-to.md
-- scene/companies/liederwolfe-opera-collective.md
-- scene/companies/the-industry.md
-- scene/companies/beth-morrison-projects.md
-- scene/companies/american-opera-projects.md
-related_people:
-- scene/people/francesca-perez.md
-- scene/people/lindsay-michael.md
-short_description: 'What we call ‘indie’ opera is not necessarily any more ‘independent’
-  than Big Opera – ‘grass-roots opera’ might be a better definition. Whatever you
-  call them, what these organizations do have is a license to artistic freedom and
-  experimentation that big-budget opera has had to renounce in order to maintain an
-  outdated model of funding: subscriptions, high-profile donors, and swanky corporate
-  sponsors. '
-slug: the-future-of-opera-is-indie
-title: The Future of Opera is Indie
----
++++
+author = ["authors/blanche-isral.md"]
+categories = "Editorial"
+date = "2015-06-07T19:07:00-04:00"
+lastmod = "2015-12-04T15:47:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433718612620/IndieFeature.jpg.jpg"
+primary_image_credit = "Krisztina Szabó in Against the Grain Theatre's Death & Desire"
+publishDate = "2015-06-09T08:45:00-04:00"
+related_articles = ["articles/tim-vernon-artistic-director.md","articles/does-new-opera-raise-the-bar-for-performers.md","articles/are-the-good-old-days-of-opera-really-gone.md","articles/cosi-a-day-in-the-life.md","articles/back-to-school-opera-a-practical-glossary.md","articles/new-opera-more-singer-input-needed.md","articles/the-5-best-worst-states-for-finding-an-opera-house.md","articles/meet-the-friends-their-seven-deadly-sins.md","articles/in-review-the-seven-deadly-sins.md","articles/look-at-all-the-new-operas.md","articles/opera-lyra-and-the-five-stages-of-grief.md","articles/a-tale-of-two-audiences.md","articles/opera-for-voyeurs-opera-peep-show.md","articles/liederwolfe-stuns-in-operapeepshow.md","articles/great-ideas-devoted-disgruntled.md","articles/is-it-time-for-the-met-to-move.md","articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md","articles/updating-operas-why-stop-at-the-libretto.md","articles/canadians-abroad-the-quarterly-report.md","articles/a-diction-lesson-french-canadian-swearing.md","articles/dont-miss-the-2nd-annual-new-york-opera-fest.md","articles/in-review-the-italian-girl-in-algiers-at-myopera.md","articles/success-hype-the-first-season-of-opera-pubs-in-toronto.md","articles/fine-mess-composer-new-opera.md","articles/celebrating-10-years-of-opera-by-request.md","articles/the-value-of-creating-new-work-for-singers.md","articles/a-dreamy-psychological-thriller-vanessa-at-oper-frankfurt.md","articles/4-reasons-to-get-excited-about-opera-in-2018.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/indie-opera-to.md","scene/companies/liederwolfe-opera-collective.md","scene/companies/the-industry.md","scene/companies/beth-morrison-projects.md","scene/companies/american-opera-projects.md"]
+related_people = ["scene/people/francesca-perez.md","scene/people/lindsay-michael.md"]
+short_description = "What we call ‘indie’ opera is not necessarily any more ‘independent’ than Big Opera – ‘grass-roots opera’ might be a better definition. Whatever you call them, what these organizations do have is a license to artistic freedom and experimentation that big-budget opera has had to renounce in order to maintain an outdated model of funding: subscriptions, high-profile donors, and swanky corporate sponsors. "
+slug = "the-future-of-opera-is-indie"
+title = "The Future of Opera is Indie"
++++
 
 > All art is independent; the mere act of labelling any art form as 'independent' is redundant. Independence is the only true state of art.” – Elliot Grove, Founder, Raindance Film Festival
 

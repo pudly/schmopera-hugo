@@ -1,44 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-02-17T20:30:00-05:00"
-lastmod: "2016-02-18T10:50:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455765323797/2016-02-18---Met.jpg.jpg
-publishDate: "2016-02-18T10:50:00-05:00"
-related_articles:
-- articles/opera-for-firsttimers-thinking-outside-the-box.md
-- articles/curiosity-and-the-met.md
-- articles/the-guy-who-sang-at-the-met-2928-times.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-related_people:
-- scene/people/pretty-yende.md
-- scene/people/renee-fleming.md
-- scene/people/mariusz-kwiecen.md
-- scene/people/rolando-villazon.md
-- scene/people/nadine-sierra.md
-- scene/people/patricia-racette.md
-- scene/people/plcido-domingo.md
-- scene/people/jay-hunter-morris.md
-- scene/people/eric-owens.md
-- scene/people/alice-coote.md
-- scene/people/diana-damrau.md
-- scene/people/johannes-debus.md
-- scene/people/adrianne-pieczonka.md
-- scene/people/tamara-mumford.md
-- scene/people/isabel-leonard.md
-- scene/people/gerald-finley.md
-- scene/people/susanna-malkki.md
-short_description: There are a few exciting surprises, though. First and foremost,
-  Kaija Saariaho&#039;s L&#039;amour de loin will hit the stage in December 2016,
-  marking the Met&#039;s first opera by a woman since 1903. Delightfully, maestra
-  Susanna Mälkki makes her Met debut on the podium for this new production by Robert
-  Lepage. The casting is interesting to me; Eric Owens is Jaufé Rudel, Susanna Phillips
-  is Clémence, and Tamara Mumford is Pélérin (The Pilgrim).
-slug: whats-on-at-the-met-201617
-title: 'What&#039;s on at the Met: 2016/17'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-02-17T20:30:00-05:00"
+lastmod = "2016-02-18T10:50:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455765323797/2016-02-18---Met.jpg.jpg"
+publishDate = "2016-02-18T10:50:00-05:00"
+related_articles = ["articles/opera-for-firsttimers-thinking-outside-the-box.md","articles/curiosity-and-the-met.md","articles/the-guy-who-sang-at-the-met-2928-times.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/pretty-yende.md","scene/people/renee-fleming.md","scene/people/mariusz-kwiecen.md","scene/people/rolando-villazon.md","scene/people/nadine-sierra.md","scene/people/patricia-racette.md","scene/people/plcido-domingo.md","scene/people/jay-hunter-morris.md","scene/people/eric-owens.md","scene/people/alice-coote.md","scene/people/diana-damrau.md","scene/people/johannes-debus.md","scene/people/adrianne-pieczonka.md","scene/people/tamara-mumford.md","scene/people/isabel-leonard.md","scene/people/gerald-finley.md","scene/people/susanna-malkki.md"]
+short_description = "There are a few exciting surprises, though. First and foremost, Kaija Saariaho&#039;s L&#039;amour de loin will hit the stage in December 2016, marking the Met&#039;s first opera by a woman since 1903. Delightfully, maestra Susanna Mälkki makes her Met debut on the podium for this new production by Robert Lepage. The casting is interesting to me; Eric Owens is Jaufé Rudel, Susanna Phillips is Clémence, and Tamara Mumford is Pélérin (The Pilgrim)."
+slug = "whats-on-at-the-met-201617"
+title = "What&#039;s on at the Met: 2016/17"
++++
 
 Well, [The Metropolitan Opera](/scene/people/metropolitan-opera/) has announced its [season line-up for 2016/17](http://www.metopera.org/Season/2016-17-Season/), and for the most part, the repertoire seems, to use an -ism from a [fellow blogger](https://operaramblings.wordpress.com/), quite the "steak dinner".
 

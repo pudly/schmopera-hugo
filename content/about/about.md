@@ -1,5 +1,6 @@
 ---
 title: About Schmopera
+
 ---
 ## THIS IS WHAT WE'RE ABOUT.
 

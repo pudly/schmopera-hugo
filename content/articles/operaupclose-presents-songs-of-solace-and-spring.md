@@ -1,35 +1,27 @@
----
-author:
-- authors/alessia-naccarato.md
-categories: Review
-date: "2021-04-16T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1618325228/media/2021/04/CBCpink_square_curp3r.png
-primary_image_credit: ""
-related_articles:
-- articles/angel-s-bone.md
-- articles/i-used-to-sing.md
-- articles/the-met-s-at-home-gala.md
-related_companies: []
-related_people: []
-short_description: How inspiring to think that even despite our limitations, creativity
-  has a hard time being quelled. If you are craving some relief from the monotony
-  of your day or are in need of a pause to enjoy some music, both concerts are currently
-  streaming and are available to watch until May 13th.
-slug: oepraupclose-presents-songs-of-solace-and-spring
-title: OperaUpClose Presents ‘Songs of Solace and Spring’
-youtube_url: ""
----
++++
+author = ["authors/alessia-naccarato.md"]
+categories = "Review"
+date = 2021-04-16T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1618325228/media/2021/04/CBCpink_square_curp3r.png"
+primary_image_credit = ""
+related_articles = ["articles/angel-s-bone.md", "articles/i-used-to-sing.md", "articles/the-met-s-at-home-gala.md"]
+related_companies = []
+related_people = []
+short_description = "How inspiring to think that even despite our limitations, creativity has a hard time being quelled. If you are craving some relief from the monotony of your day or are in need of a pause to enjoy some music, both concerts are currently streaming and are available to watch until May 13th."
+slug = "oepraupclose-presents-songs-of-solace-and-spring"
+title = "OperaUpClose Presents ‘Songs of Solace and Spring’"
+youtube_url = ""
+
++++
 This spring, OperaUpClose invites all to join them for a coffee break in two mini virtual concerts. The "At Home" concert series was first launched in May of 2020 as a way to brighten audiences’ spirits by bringing them informal concerts to be enjoyed from the comfort of the home, and to offer us all some well-deserved respite from our current moment.
 
 For the past 12 years, OperaUpClose have provided intimate re-workings of popular repertoire with updated and relevant English translations, as well as championed new repertoire and showcased up-and-coming British talent. Their aim has been to provide innovative performances to broad audiences across the country. Their newest project – the "Coffee Break Concerts" - are a harmonious transition to a virtual form of storytelling that feels like a real extension of that aim.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1618325344/media/2021/04/Fenton-Nanetta_Duet_2_yv31r6.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1618325344/media/2021/04/Fenton-Nanetta_Duet_2_yv31r6.jpg){{% /md %}}
 
 <figcaption>A scene from OperaUpClose's "Coffee Break Concerts". Image courtesy of OperaUpClose.</figcaption>
 
@@ -41,9 +33,7 @@ The two concerts featured in the third season of their At Home series are based 
 
 _Episode 9: Shakespeare Re-Shaped_ interweaves well known arias from Verdi’s _Falstaff_, and Gounod’s _Romeo and Juliet_ (both with timely new English translations), art-song by Schubert and Finzi, and Shakespearean text, blending the three into a whole which feels greater than the sum of its parts, offering multiple interpretations of Shakespeare’s best-known texts.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1618580816/media/2021/04/Gallop_a_Pace_ugkamj.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1618580816/media/2021/04/Gallop_a_Pace_ugkamj.jpg){{% /md %}}
 
 <figcaption>A scene from OperaUpClose's "Coffee Break Concerts". Image courtesy of OperaUpClose.</figcaption>
 
@@ -57,9 +47,7 @@ The highlight of the concert, however, was deaf actor Lara Steward’s performan
 
 Actor and writer Kat Rose Martin gave a recitation of "Could great men thunder…" from _Measure for Measure_ as well as a performance of an original text entitled "Ballad of the Voiceless". Both of these performances offered a uniquely feminine perspective and a much-needed contextualization of the forceful "Ford’s aria", performed earlier in the programme by Rodney Earl Clarke. The concert ended with a rousing round of Finzi’s "It was a lover and his lass" by all three singers to joyfully usher in the spring.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1618580836/media/2021/04/Verdi_-_Falstaff_2_jhreli.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1618580836/media/2021/04/Verdi_-_Falstaff_2_jhreli.jpg){{% /md %}}
 
 <figcaption>A scene from OperaUpClose's "Coffee Break Concerts". Image courtesy of OperaUpClose.</figcaption>
 

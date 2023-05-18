@@ -1,47 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-07-24T02:47:00+02:00"
-lastmod: "2015-08-23T10:35:00+02:00"
-preamble: For Toronto-based soprano [Maeve Palmer](/scene/people/maeve-palmer/), learning
-  music is "like a puzzle that you can never quite finish decoding." Currently a student
-  of Mary Morrison's, Maeve has a great handle on the concept of patience. She writes
-  articulately about enjoying the process of learning to sing, and the excitement
-  she gets out of singing well. You can hear her [this fall](http://www.maevepalmer.com/schedule.html)
-  with the Orpheus Choir, and in a new project with the Toronto Laptop Orchestra (!).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437698627009/MP193Square.jpg.jpg
-publishDate: "2015-08-23T10:35:00+02:00"
-related_articles:
-- articles/spotlight-on-laurelle-jade-froese.md
-- articles/spotlight-on-kimberleyann-bartczak.md
-- articles/spotlight-on-julia-dawson.md
-- articles/spotlight-on-marjorie-maltais.md
-- articles/spotlight-on-william-ford.md
-- articles/spotlight-on-maikai-nash.md
-- articles/spotlight-on-danielle-macmillan.md
-- articles/spotlight-on-christopher-james-ray.md
-- articles/spotlight-on-lida-szkwarek.md
-- articles/spotlight-on-peter-bass.md
-- articles/spotlight-on-kelsey-vicary.md
-- articles/spotlight-on-charlotte-knight.md
-- articles/spotlight-on-michelle-siemens.md
-- articles/spotlight-on-jeremy-hirsch.md
-- articles/spotlight-on-emily-peragine.md
-related_companies:
-- scene/companies/university-of-toronto-opera.md
-- scene/companies/tapestry-opera.md
-- scene/companies/cosi-centre-for-opera-studies-in-italy.md
-related_people:
-- scene/people/maeve-palmer.md
-short_description: For Toronto-based soprano Maeve Palmer, learning music is &quot;like
-  a puzzle that you can never quite finish decoding.&quot; Currently a student of
-  Mary Morrison&#039;s, Maeve has a great handle on the concept of patience. She writes
-  articulately about enjoying the process of learning to sing, and the excitement
-  she gets out of singing well.
-slug: spotlight-on-maeve-palmer
-title: 'Spotlight on: Maeve Palmer'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-07-24T02:47:00+02:00"
+lastmod = "2015-08-23T10:35:00+02:00"
+preamble = "For Toronto-based soprano [Maeve Palmer](/scene/people/maeve-palmer/), learning music is \"like a puzzle that you can never quite finish decoding.\" Currently a student of Mary Morrison's, Maeve has a great handle on the concept of patience. She writes articulately about enjoying the process of learning to sing, and the excitement she gets out of singing well. You can hear her [this fall](http://www.maevepalmer.com/schedule.html) with the Orpheus Choir, and in a new project with the Toronto Laptop Orchestra (!)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437698627009/MP193Square.jpg.jpg"
+publishDate = "2015-08-23T10:35:00+02:00"
+related_articles = ["articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-jeremy-hirsch.md","articles/spotlight-on-emily-peragine.md"]
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/tapestry-opera.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
+related_people = ["scene/people/maeve-palmer.md"]
+short_description = "For Toronto-based soprano Maeve Palmer, learning music is &quot;like a puzzle that you can never quite finish decoding.&quot; Currently a student of Mary Morrison&#039;s, Maeve has a great handle on the concept of patience. She writes articulately about enjoying the process of learning to sing, and the excitement she gets out of singing well."
+slug = "spotlight-on-maeve-palmer"
+title = "Spotlight on: Maeve Palmer"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

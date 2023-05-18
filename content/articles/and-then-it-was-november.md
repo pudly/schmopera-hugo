@@ -1,24 +1,16 @@
----
-author:
-- authors/greg.md
-categories: Op-ed
-date: "2016-10-31T20:04:00+00:00"
-lastmod: "2016-11-01T09:24:00+00:00"
-preamble: |-
-  Our Toronto-based contributor [Greg Finney](https://twitter.com/gregory_finney) was a fan of our recent anonymous submission, ["Audition season, or the annual Festival of Shattered Dreams."](/audition-season-or-the-annual-festival-of-shattered-dreams/) In what he calls "an extension" of the author's sentiments, Greg offers up some solutions to a sticky problem.
-
-  Feature image: [prawika jekara](https://www.flickr.com/photos/129120446@N03/15819537786/) via [Flickr.](https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode)
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477945114936/2016-10-31---Glass-Falf-Full.jpg.jpg
-primary_image_credit: Photo by prawika jekara, via Flickr. (License below)
-publishDate: "2016-11-01T09:14:00+00:00"
-short_description: You may be the title-holder of a thousand singing prizes. You still
-  didn&#039;t fit the bill. You may have been the toast of the town at the end of
-  last season - but you still didn&#039;t fit the bill. You may be the most delightful
-  person to work with - but you still didn&#039;t fit the bill. You may have received
-  nothing but glowing reviews - but you still didn&#039;t fit the bill.
-slug: and-then-it-was-november
-title: '...and then it was November'
----
++++
+author = ["authors/greg.md"]
+categories = "Op-ed"
+date = "2016-10-31T20:04:00+00:00"
+lastmod = "2016-11-01T09:24:00+00:00"
+preamble = "Our Toronto-based contributor [Greg Finney](https://twitter.com/gregory_finney) was a fan of our recent anonymous submission, [\"Audition season, or the annual Festival of Shattered Dreams.\"](/audition-season-or-the-annual-festival-of-shattered-dreams/) In what he calls \"an extension\" of the author's sentiments, Greg offers up some solutions to a sticky problem.\n\nFeature image: [prawika jekara](https://www.flickr.com/photos/129120446@N03/15819537786/) via [Flickr.](https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode)"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477945114936/2016-10-31---Glass-Falf-Full.jpg.jpg"
+primary_image_credit = "Photo by prawika jekara, via Flickr. (License below)"
+publishDate = "2016-11-01T09:14:00+00:00"
+short_description = "You may be the title-holder of a thousand singing prizes. You still didn&#039;t fit the bill. You may have been the toast of the town at the end of last season - but you still didn&#039;t fit the bill. You may be the most delightful person to work with - but you still didn&#039;t fit the bill. You may have received nothing but glowing reviews - but you still didn&#039;t fit the bill."
+slug = "and-then-it-was-november"
+title = "...and then it was November"
++++
 
 Hello, Schmop-Tops.
 

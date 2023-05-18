@@ -1,26 +1,18 @@
----
-date: "2015-07-01T21:33:00-06:00"
-email: mokrzewski@gmail.com
-lastmod: "2015-07-01T21:33:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435807864632/TophSquare.jpg.jpg
-publishDate: "2015-07-01T21:33:00-06:00"
-short_bio: Conductor, pianist and vocal coach Christopher “Topher” Mokrzewski (pronounced
-  mok-SHEV-ski) is a steadily rising figure in the worlds of Canadian opera, symphony
-  and chamber music. He is Resident Conductor of Calgary Opera and Founding Music
-  Director of Toronto’s acclaimed indie opera company, Against the Grain Theatre.
-  A graduate of the Canadian Opera Company Ensemble Studio, Mokrzewski has been described
-  by music critic John Terauds as “one of those bright, eager, whip-smart young artists
-  who could give even the most hardened cynic a jolt of optimism about the future
-  of classical music and opera” and was named one of CBC Music’s “Hot 30 Classical
-  Musicians under 30” in 2013.
-slug: christopher-mokrzewski
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/Tophski
-title: Christopher Mokrzewski
-website: http://www.christophermokrzewski.com/index.html
----
++++
+date = "2015-07-01T21:33:00-06:00"
+email = "mokrzewski@gmail.com"
+lastmod = "2015-07-01T21:33:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435807864632/TophSquare.jpg.jpg"
+publishDate = "2015-07-01T21:33:00-06:00"
+short_bio = "Conductor, pianist and vocal coach Christopher “Topher” Mokrzewski (pronounced mok-SHEV-ski) is a steadily rising figure in the worlds of Canadian opera, symphony and chamber music. He is Resident Conductor of Calgary Opera and Founding Music Director of Toronto’s acclaimed indie opera company, Against the Grain Theatre. A graduate of the Canadian Opera Company Ensemble Studio, Mokrzewski has been described by music critic John Terauds as “one of those bright, eager, whip-smart young artists who could give even the most hardened cynic a jolt of optimism about the future of classical music and opera” and was named one of CBC Music’s “Hot 30 Classical Musicians under 30” in 2013."
+slug = "christopher-mokrzewski"
+title = "Christopher Mokrzewski"
+website = "http://www.christophermokrzewski.com/index.html"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/Tophski"
++++
 
 Conductor, pianist and vocal coach Christopher “Topher” Mokrzewski (pronounced mok-SHEV-ski) is a steadily rising figure in the worlds of Canadian opera, symphony and chamber music. He is Resident Conductor of Calgary Opera and Founding Music Director of Toronto’s acclaimed indie opera company, Against the Grain Theatre. A graduate of the Canadian Opera Company Ensemble Studio, Mokrzewski has been described by music critic John Terauds as “one of those bright, eager, whip-smart young artists who could give even the most hardened cynic a jolt of optimism about the future of classical music and opera” and was named one of CBC Music’s “Hot 30 Classical Musicians under 30” in 2013.
 

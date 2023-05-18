@@ -1,27 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2014-05-12T17:47:00-04:00"
-lastmod: "2015-04-27T18:04:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429834655460/DonQuichotte-MC-1062-1024x704.jpg.jpg
-primary_image_credit: Ferruccio Furlanetto and Anita Rachvelishvili. Photo by Michael
-  Cooper.
-publishDate: "2014-05-12T17:47:00-04:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/anita-rachvelishvili.md
-- scene/people/ferruccio-furlanetto.md
-short_description: Massenet&#039;s Don Quichotte has opened at the Canadian Opera
-  Company, the final in the three spring shows of the 2013/14 season. I&#039;m glad
-  I saw it last, since there was something bittersweet about ending a season with
-  comedy and charm. I&#039;ll admit I have a strange personal tendency to get annoyed
-  by everyone&#039;s favourite bumbling knight; but perhaps I&#039;m coveting Don
-  Quixote&#039;s unwavering pursuit of goodness.
-slug: in-review-don-quichotte
-title: 'In review: Don Quichotte'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2014-05-12T17:47:00-04:00"
+lastmod = "2015-04-27T18:04:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429834655460/DonQuichotte-MC-1062-1024x704.jpg.jpg"
+primary_image_credit = "Ferruccio Furlanetto and Anita Rachvelishvili. Photo by Michael Cooper."
+publishDate = "2014-05-12T17:47:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/anita-rachvelishvili.md","scene/people/ferruccio-furlanetto.md"]
+short_description = "Massenet&#039;s Don Quichotte has opened at the Canadian Opera Company, the final in the three spring shows of the 2013/14 season. I&#039;m glad I saw it last, since there was something bittersweet about ending a season with comedy and charm. I&#039;ll admit I have a strange personal tendency to get annoyed by everyone&#039;s favourite bumbling knight; but perhaps I&#039;m coveting Don Quixote&#039;s unwavering pursuit of goodness."
+slug = "in-review-don-quichotte"
+title = "In review: Don Quichotte"
++++
 
 Massenet's [_Don Quichotte_](http://www.coc.ca/PerformancesAndTickets/1314Season/DonQuichotte.aspx) has opened at the Canadian Opera Company, the final in the three spring shows of the 2013/14 season. I'm glad I saw it last, since there was something bittersweet about ending a season with comedy and charm. I'll admit I have a strange personal tendency to get annoyed by everyone's favourite bumbling knight; but perhaps I'm coveting Don Quixote's unwavering pursuit of goodness. Philosophical thoughts quickly vanished when I saw the live horse and mule onstage.
 

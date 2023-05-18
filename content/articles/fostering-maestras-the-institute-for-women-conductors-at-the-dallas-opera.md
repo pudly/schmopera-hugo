@@ -1,51 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-04-10T23:25:00-04:00"
-lastmod: "2015-04-10T23:25:00-04:00"
-preamble: "<p>\n\t<a href=\"http://dallasopera.org/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/\">The
-  Dallas Opera</a> has announced an exciting new residential program: the <a href=\"http://dallasopera.org/learn/womens-conducting-institute/\"
-  target=\"_blank\" data-mce-href=\"http://dallasopera.org/learn/womens-conducting-institute/\">Institute
-  for Women Conductors</a>. Running November 28th to December 5th, 2015, the program
-  gives young women the chance to learn and gain conducting experience, with guidance
-  from TDO's Music Director <a href=\"http://dallasopera.org/about/staff/music-director/\"
-  target=\"_blank\" data-mce-href=\"http://dallasopera.org/about/staff/music-director/\">Emmanuel
-  Villaume</a>, and Principal Guest Conductor, <a href=\"http://dallasopera.org/about/staff/guest-conductor/\"
-  target=\"_blank\" data-mce-href=\"http://dallasopera.org/about/staff/guest-conductor/\">Nicole
-  Paiement</a> (pictured above). Six participants will be selected from the application
-  process, and all six will conduct in a final concert with The Dallas Opera Orchestra.
-  <a href=\"http://dallasopera.org/about/staff/general-director/\" target=\"_blank\"
-  data-mce-href=\"http://dallasopera.org/about/staff/general-director/\">Keith Cerny</a>,
-  General Director and CEO of The Dallas Opera, took the time to answer a few of my
-  questions about what I think is an exciting new precedent in training today's artists.\n</p>"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428722480411/Nicole-Paiement-by-Roger-Steen-1_Fotor.jpg.jpg
-primary_image_credit: 'Conductor Nicole Paiement. Photo: Roger Steen'
-publishDate: "2015-03-02T09:25:00-05:00"
-related_articles:
-- articles/in-review-hannigan-grazinyte-tyle-BBC-proms.md
-- articles/dont-miss-everybodys-got-a-story.md
-- articles/more-operatic-roles-for-women-a-pledge.md
-related_companies:
-- scene/companies/the-dallas-opera.md
-related_people:
-- scene/people/jennifer-condon.md
-- scene/people/jessica-gethin.md
-- scene/people/natalie-murray-beale.md
-- scene/people/stephanie-rhodes.md
-- scene/people/anna-skryleva.md
-- scene/people/lidiya-yankovskaya.md
-- scene/people/arianne-abela.md
-- scene/people/lucik-aprahamian.md
-short_description: 'The Dallas Opera has announced an exciting new residential program:
-  the Institute for Women Conductors. Running November 28th to December 5th, 2015,
-  the program gives young women the chance to learn and gain conducting experience,
-  with guidance from TDO’s Music Director Emmanuel Villaume, and Principal Guest Conductor,
-  Nicole Paiement (pictured above). Six participants will be selected from the application
-  process, and all six will conduct in a final concert with The Dallas Opera Orchestra.'
-slug: fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera
-title: 'Fostering Maestras: The Institute for Women Conductors at The Dallas Opera'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-04-10T23:25:00-04:00"
+lastmod = "2015-04-10T23:25:00-04:00"
+preamble = "<p>\n\t<a href=\"http://dallasopera.org/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/\">The Dallas Opera</a> has announced an exciting new residential program: the <a href=\"http://dallasopera.org/learn/womens-conducting-institute/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/learn/womens-conducting-institute/\">Institute for Women Conductors</a>. Running November 28th to December 5th, 2015, the program gives young women the chance to learn and gain conducting experience, with guidance from TDO's Music Director <a href=\"http://dallasopera.org/about/staff/music-director/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/about/staff/music-director/\">Emmanuel Villaume</a>, and Principal Guest Conductor, <a href=\"http://dallasopera.org/about/staff/guest-conductor/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/about/staff/guest-conductor/\">Nicole Paiement</a> (pictured above). Six participants will be selected from the application process, and all six will conduct in a final concert with The Dallas Opera Orchestra. <a href=\"http://dallasopera.org/about/staff/general-director/\" target=\"_blank\" data-mce-href=\"http://dallasopera.org/about/staff/general-director/\">Keith Cerny</a>, General Director and CEO of The Dallas Opera, took the time to answer a few of my questions about what I think is an exciting new precedent in training today's artists.\n</p>"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428722480411/Nicole-Paiement-by-Roger-Steen-1_Fotor.jpg.jpg"
+primary_image_credit = "Conductor Nicole Paiement. Photo: Roger Steen"
+publishDate = "2015-03-02T09:25:00-05:00"
+related_articles = ["articles/in-review-hannigan-grazinyte-tyle-BBC-proms.md","articles/dont-miss-everybodys-got-a-story.md","articles/more-operatic-roles-for-women-a-pledge.md"]
+related_companies = ["scene/companies/the-dallas-opera.md"]
+related_people = ["scene/people/jennifer-condon.md","scene/people/jessica-gethin.md","scene/people/natalie-murray-beale.md","scene/people/stephanie-rhodes.md","scene/people/anna-skryleva.md","scene/people/lidiya-yankovskaya.md","scene/people/arianne-abela.md","scene/people/lucik-aprahamian.md"]
+short_description = "The Dallas Opera has announced an exciting new residential program: the Institute for Women Conductors. Running November 28th to December 5th, 2015, the program gives young women the chance to learn and gain conducting experience, with guidance from TDO’s Music Director Emmanuel Villaume, and Principal Guest Conductor, Nicole Paiement (pictured above). Six participants will be selected from the application process, and all six will conduct in a final concert with The Dallas Opera Orchestra."
+slug = "fostering-maestras-the-institute-for-women-conductors-at-the-dallas-opera"
+title = "Fostering Maestras: The Institute for Women Conductors at The Dallas Opera"
++++
 
 <h2>1. Why is the Institute for Women Conductors an important program in today's classical music scene?</h2>
 <p>

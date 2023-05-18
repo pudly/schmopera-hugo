@@ -1,32 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2016-03-06T14:55:00+00:00"
-lastmod: "2016-03-07T11:19:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457276138343/Cloud-Light.jpg.jpg
-publishDate: "2016-03-07T11:19:00+00:00"
-related_articles:
-- articles/in-review-ash-roses.md
-- articles/aptly-named-the-living-spectacle.md
-related_companies:
-- scene/companies/canadian-art-song-project.md
-related_people:
-- scene/people/lawrence-wiliford.md
-- scene/people/michle-bogdanowicz.md
-- scene/people/jacqueline-woodley.md
-- scene/people/peter-mcgillivray.md
-- scene/people/steven-philcox.md
-short_description: The Canadian Art Song Project has released its second full-length
-  recording (the first being 2014&#039;s Ash Roses), which features the music of Polish-born
-  composer Norbert Palej (currently teaching at the University of Toronto), performed
-  by five important Canadian artists of today. Cloud Light, released this year by
-  Centrediscs, is an album of music &quot;that actively grapples with the modern understanding
-  of art song and demonstrates that it is still a genre capable of the most profound
-  musical expression and innovation.&quot;
-slug: album-review-cloud-light
-title: 'Album review: Cloud Light'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2016-03-06T14:55:00+00:00"
+lastmod = "2016-03-07T11:19:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457276138343/Cloud-Light.jpg.jpg"
+publishDate = "2016-03-07T11:19:00+00:00"
+related_articles = ["articles/in-review-ash-roses.md","articles/aptly-named-the-living-spectacle.md"]
+related_companies = ["scene/companies/canadian-art-song-project.md"]
+related_people = ["scene/people/lawrence-wiliford.md","scene/people/michle-bogdanowicz.md","scene/people/jacqueline-woodley.md","scene/people/peter-mcgillivray.md","scene/people/steven-philcox.md"]
+short_description = "The Canadian Art Song Project has released its second full-length recording (the first being 2014&#039;s Ash Roses), which features the music of Polish-born composer Norbert Palej (currently teaching at the University of Toronto), performed by five important Canadian artists of today. Cloud Light, released this year by Centrediscs, is an album of music &quot;that actively grapples with the modern understanding of art song and demonstrates that it is still a genre capable of the most profound musical expression and innovation.&quot;"
+slug = "album-review-cloud-light"
+title = "Album review: Cloud Light"
++++
 
 The [Canadian Art Song Project](/scene/companies/canadian-art-song-project/) has released its second full-length recording (the first being 2014's [*Ash Roses*](/in-review-ash-roses/)), which features the music of Polish-born composer [Norbert Palej](http://www.norbertpalej.com/) (currently teaching at the University of Toronto), performed by five important Canadian artists of today. [*Cloud Light*](https://www.musiccentre.ca/node/137420), released this year by Centrediscs, is an album of music "that actively grapples with the modern understanding of art song and demonstrates that it is still a genre capable of the most profound musical expression and innovation." 
 
@@ -36,7 +21,7 @@ The album features performances by Canadian Art Song Project co-founders and co-
 
 In his notes, Palej writes, "English: concise, clear, direct, simple, yet nimble – a language of open plains. Polish: a language of mystic, primeval noises, from snake-like hissing sounds, to those resembling the rush of wind and rain – a language of the deep woods. Latin: stark and forbidding, cold even, enigmatic because so distant – a terrifying voice from beyond the grave. Each language with its own soul, forged through tradition, salted with human suffering across eons. How can a language then not steer the composer’s musical imagination, hypnotize it with its sound, and abduct the unwary prisoner into foreign lands?"
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457288986837/2016-03-06---Peter-McGillivray.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457288986837/2016-03-06---Peter-McGillivray.jpg.jpg)
 <figcaption>Peter McGillivray, baritone.</figcaption>
 </figure>
 
@@ -44,7 +29,7 @@ The first tracks of *Cloud Light* are *Three Norwegian Songs*, performed by Pete
 
 Michèle Bogdanowicz commissioned Palej's *Four Lyrical Moments* in 2013, and the set was premiered as a gift to her father, who was displaced from Poland during WWII. "Such a personal occasion for the songs," Wiliford and Philcox write in their album notes, "in addition to a shared cultural history between composer and performer, make this work unique among the three cycles." 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457289028215/2016-03-06---Michele-Bogdanowicz.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457289028215/2016-03-06---Michele-Bogdanowicz.jpg.jpg)
 <figcaption>Michèle Bogdanowicz, mezzo-soprano.</figcaption>
 </figure>
 
@@ -52,7 +37,7 @@ Despite our almost non-existent grasp of the Polish language, it's clear that Pa
 
 The title set of the album is *Cloud Light: Fourteen Small Songs for Voice and Piano*, and the songs are shared by Lawrence Wiliford and Jacqueline Woodley. "Since the poems of Jan Zwicky selected for the work don’t create a linear narrative and are neither male nor female in perspective, we divided the songs in such a way that would suggest that different voice types could perform any song that suited them from the cycle." It's true that both Wiliford and Woodley's voices are easy to imagine singing any of the fourteen songs, largely because of Palej's broad style of sound and treatment of text. 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457289103328/2016-03-06---Jackie-Woodley.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457289103328/2016-03-06---Jackie-Woodley.jpg.jpg)
 <figcaption>Jacqueline Woodley, soprano.</figcaption>
 </figure>
 
@@ -64,7 +49,7 @@ The final track is Palej's powerful *The Demise of Argus Panoptes*, for piano an
 
 The scene is totally engrossing, partly because of its spun title. Many tellings of this story depict Argus as a villain, or at least a villain's aide; yet Palej takes Ovid's text and writes something mournful, almost like a funeral dirge for the giant who died at the tricky Mercury's hands. The ominous piano chords, separated by uncomfortable silences, treat Mercury like a dangerous hunter, and the quartet sings the Latin text in broken, unnatural beats. The scene comes to life with eerie effects like whispers on "oculos" ("eyes") and otherworldly cascade of voices on "lumina virga" ("magic wand" or "lightning rod"). It's a piece that we're itching to hear live; SATB quartet and piano may not seem like a novel combination, yet we've not heard anything quite like *The Demise of Argus Panoptes* before.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457346982991/WilifordPhilcox.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457346982991/WilifordPhilcox.jpg.jpg)
 <figcaption>l-r: Stephen Philcox and Lawrence Wiliford, co-founders and co-Artistic Directors of the Canadian Art Song Project.</figcaption></figure>
 
 *Cloud Light* is yet another result of the skilled performers and thoughtful attention to detail that are major parts of the Canadian Art Song Project's work. At about $14 CAD, the album is a great way to hear some of Canada's best artists, performing music with which you're likely not yet familiar. [Click here](https://www.musiccentre.ca/node/137420) for full details, samples, and to purchase a hard or digital copy. 

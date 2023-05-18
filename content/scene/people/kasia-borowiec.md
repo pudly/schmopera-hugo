@@ -1,27 +1,26 @@
----
-date: "2017-07-18T16:32:00-04:00"
-discipline: Soprano
-lastmod: "2017-07-18T16:32:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500409593126/KasiaBoroweic.jpg.jpg
-publishDate: "2017-07-18T16:32:00-04:00"
-related_companies:
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/palm-beach-opera.md
-slug: kasia-borowiec
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/kasiaborowiecsoprano/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/oshkashohmygosh
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/kasiaborowiec/
-title: Kasia Borowiec
-website: http://kasiaborowiec.com/
----
++++
+date = "2017-07-18T16:32:00-04:00"
+discipline = "Soprano"
+lastmod = "2017-07-18T16:32:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500409593126/KasiaBoroweic.jpg.jpg"
+publishDate = "2017-07-18T16:32:00-04:00"
+related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/palm-beach-opera.md"]
+slug = "kasia-borowiec"
+title = "Kasia Borowiec"
+website = "http://kasiaborowiec.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/kasiaborowiecsoprano/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/oshkashohmygosh"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/kasiaborowiec/"
++++
 
 Praised for her “beautiful singing” (Superconductor) and named a “standout” by *Opera News*, Kasia Borowiec has quickly established herself as a young soprano to watch. In the 2017-2018 season, she returns to both the Santa Fe Opera and Palm Beach Opera for young artist residencies. As a member of Santa Fe Opera's Apprentice Artist Program, Kasia sings the title role in *The Golden Cockerel*.   She will also perform in Santa Fe Opera’s presentation of Justice at the Opera, hosted by Supreme Court Justice Ruth Bader Ginsburg. Kasia then returns to the Benenson Young Artist Program at Palm Beach Opera where she will sing Paquette in Candide, sing the Countess in the family performance of *Le Nozze di Figaro*, and study cover the title role in *Tosca*.  This season, she will also appear with the Atlantic Classical Orchestra as the Soprano Soloist in Beethoven’s Ninth Symphony.
 

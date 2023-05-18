@@ -1,21 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2013-12-18T23:30:00-05:00"
-lastmod: "2015-04-28T23:42:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430278951395/Curtain.png
-publishDate: "2013-12-18T23:30:00-05:00"
-related_articles:
-- articles/another-opera-apologist-part-2.md
-- articles/another-opera-apologist-part-1.md
-short_description: Terence Corcoran, in his grossly closed-minded article inspired
-  by the COC’s 2013 production of La clemenza di Tito, found himself so distraught
-  by the sight of two women kissing (that head-turning product of opera&#039;s &quot;pants
-  role&quot; tradition) that he suggested we throw out all of opera with the bathwater.
-slug: another-opera-apologist-part-3
-title: Another Opera Apologist (Part 3)
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2013-12-18T23:30:00-05:00"
+lastmod = "2015-04-28T23:42:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430278951395/Curtain.png"
+publishDate = "2013-12-18T23:30:00-05:00"
+related_articles = ["articles/another-opera-apologist-part-2.md","articles/another-opera-apologist-part-1.md"]
+short_description = "Terence Corcoran, in his grossly closed-minded article inspired by the COC’s 2013 production of La clemenza di Tito, found himself so distraught by the sight of two women kissing (that head-turning product of opera&#039;s &quot;pants role&quot; tradition) that he suggested we throw out all of opera with the bathwater."
+slug = "another-opera-apologist-part-3"
+title = "Another Opera Apologist (Part 3)"
++++
 
 Terence Corcoran, in his grossly closed-minded [article](http://fullcomment.nationalpost.com/2013/02/22/terence-corcoran-la-demenza-dellopera/) inspired by the COC’s 2013 production of _La clemenza di Tito_, found himself so distraught by the sight of two women kissing (that head-turning product of opera's "pants role" tradition) that he suggested we throw out all of opera with the bathwater. One of the article's commenters puts it well: “The works of Mozart, Verdi, Wagner and other composers can succeed without the procrustean attempts of directors who misdiagnose and mistreat both opera and its [audience](http://fullcomment.nationalpost.com/2013/02/23/todays-letters-is-modern-opera-a-travesty-or-an-evolving-living-art/).” Create a piece of art that is self-sustaining, and not reliant upon a ticket holder’s advance research on their Roman Emperors, Druid mythology or the function of a _da capo_ aria. Create characters that are so rich that we understand immediately their status onstage. Use musical and textual repetition, notoriously snooze-worthy devices of Baroque and bel canto opera, to really say [something new](http://www.youtube.com/watch?v=yUPxGcHyVhg). This is theatre, for chrissake.
 

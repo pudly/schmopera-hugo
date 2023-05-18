@@ -1,19 +1,13 @@
----
-_template: people_single
-date: "2015-12-29T22:30:00-05:00"
-discipline: Baritone
-lastmod: "2015-12-29T22:30:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451446110907/whelan_josh_1c.jpg.jpg
-publishDate: "2015-12-29T22:30:00-05:00"
-related_companies:
-- scene/companies/latelier-lyrique-de-lopra-de-montral.md
-- scene/companies/lopra-de-montral.md
-- scene/companies/opera-5.md
-- scene/companies/saskatoon-opera.md
-- scene/companies/university-of-toronto-opera.md
-slug: josh-whelan
-title: Josh Whelan
----
++++
+date = "2015-12-29T22:30:00-05:00"
+discipline = "Baritone"
+lastmod = "2015-12-29T22:30:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451446110907/whelan_josh_1c.jpg.jpg"
+publishDate = "2015-12-29T22:30:00-05:00"
+related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md","scene/companies/lopra-de-montral.md","scene/companies/opera-5.md","scene/companies/saskatoon-opera.md","scene/companies/university-of-toronto-opera.md"]
+slug = "josh-whelan"
+title = "Josh Whelan"
++++
 
 A native of Halifax, Nova Scotia, Josh Whelan has been heard in a large array of repertoire including the title roles of *Don Giovanni* (Accademia Europea dell’Opera), *Le Nozze di Figaro* (Centre for Opera Studies in Italy), and *Aleko* (Opera Five).
 

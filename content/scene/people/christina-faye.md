@@ -1,17 +1,14 @@
----
-_template: people_single
-date: "2015-11-08T12:09:00-05:00"
-discipline: Pianist
-lastmod: "2015-11-08T12:09:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447002511985/4_b.jpg.jpg
-publishDate: "2015-11-08T12:09:00-05:00"
-related_companies:
-- scene/companies/cosi-centre-for-opera-studies-in-italy.md
-- scene/companies/opera-nuova.md
-slug: christina-faye
-title: Christina Faye
-website: http://www.christinamfaye.com/index.html
----
++++
+date = "2015-11-08T12:09:00-05:00"
+discipline = "Pianist"
+lastmod = "2015-11-08T12:09:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447002511985/4_b.jpg.jpg"
+publishDate = "2015-11-08T12:09:00-05:00"
+related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md","scene/companies/opera-nuova.md"]
+slug = "christina-faye"
+title = "Christina Faye"
+website = "http://www.christinamfaye.com/index.html"
++++
 
 Christina Faye is an accomplished pianist now making her home in Toronto. Originally from Thunder Bay, Ontario, Christina discovered her love for the collaborative arts at the age of nine when she began playing for a local children's chorus. Since then, she has worked with a vast number of student and professional instrumentalists, singers, orchestras, chamber groups, theatre and opera productions, as well as being an active teacher and solo performer. While in high school, Christina won several awards for piano and pipe organ performance excellence, as well as commendations for theory and harmony exams from the Western Conservatory and Conservatory Canada. 
 

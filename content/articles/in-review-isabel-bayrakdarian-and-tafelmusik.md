@@ -1,24 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2014-04-12T08:35:00-04:00"
-lastmod: "2015-04-23T22:38:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842937860/Tafelmusik-716x1024.jpg.jpg
-publishDate: "2014-04-12T08:35:00-04:00"
-related_articles:
-- articles/a-masked-ball-american-baroque-opera-cos-opera-cabaret.md
-related_companies:
-- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
-related_people:
-- scene/people/isabel-bayrakdarian.md
-short_description: |-
-  On Thursday night I went to see the Tafelmusik orchestra perform with Canadian soprano Isabel Bayrakdarian in a concert with a good title: Rival Queens.
-
-  The queens in this case are 18th-century operatic divas Francesca Cuzzoni and Faustina Bordoni, who were in a famous feud throughout their careers, resulting in onstage catfights and general shallow rivalry.
-slug: in-review-isabel-bayrakdarian-and-tafelmusik
-title: 'In review: Isabel Bayrakdarian and Tafelmusik'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2014-04-12T08:35:00-04:00"
+lastmod = "2015-04-23T22:38:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429842937860/Tafelmusik-716x1024.jpg.jpg"
+publishDate = "2014-04-12T08:35:00-04:00"
+related_articles = ["articles/a-masked-ball-american-baroque-opera-cos-opera-cabaret.md"]
+related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md"]
+related_people = ["scene/people/isabel-bayrakdarian.md"]
+short_description = "On Thursday night I went to see the Tafelmusik orchestra perform with Canadian soprano Isabel Bayrakdarian in a concert with a good title: Rival Queens.\n\nThe queens in this case are 18th-century operatic divas Francesca Cuzzoni and Faustina Bordoni, who were in a famous feud throughout their careers, resulting in onstage catfights and general shallow rivalry."
+slug = "in-review-isabel-bayrakdarian-and-tafelmusik"
+title = "In review: Isabel Bayrakdarian and Tafelmusik"
++++
 
 On Thursday night I went to see the Tafelmusik orchestra perform with Canadian soprano [Isabel Bayrakdarian](http://bayrakdarian.com/) in a concert with a good title: _Rival Queens_.
 

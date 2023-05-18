@@ -1,22 +1,15 @@
----
-author:
-- authors/darren-saady.md
-categories: Op-ed
-date: "2017-09-14T09:42:00-04:00"
-lastmod: "2017-09-14T22:16:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505397395425/2017-09-14---Thread.jpg.jpg
-publishDate: "2017-09-14T21:46:00-04:00"
-related_articles:
-- articles/vibrato-all-the-reasons-why.md
-- articles/4-tips-for-when-there-are-too-many-notes.md
-short_description: 'The body only does what the mind tells it and allows it to do.
-  Intense, almost loving attention to every single note can help realize a tricky
-  passage like this. When it comes to runs and coloratura in general, this approach
-  is useful because it can help give fast singing a real clarity, accuracy and a sense
-  that there is plenty of time to sing all the notes and for them to be heard. '
-slug: keeping-the-thread-momenttomoment-awareness-in-singing
-title: 'Keeping the thread: moment-to-moment awareness in singing'
----
++++
+author = ["authors/darren-saady.md"]
+categories = "Op-ed"
+date = "2017-09-14T09:42:00-04:00"
+lastmod = "2017-09-14T22:16:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505397395425/2017-09-14---Thread.jpg.jpg"
+publishDate = "2017-09-14T21:46:00-04:00"
+related_articles = ["articles/vibrato-all-the-reasons-why.md","articles/4-tips-for-when-there-are-too-many-notes.md"]
+short_description = "The body only does what the mind tells it and allows it to do. Intense, almost loving attention to every single note can help realize a tricky passage like this. When it comes to runs and coloratura in general, this approach is useful because it can help give fast singing a real clarity, accuracy and a sense that there is plenty of time to sing all the notes and for them to be heard. "
+slug = "keeping-the-thread-momenttomoment-awareness-in-singing"
+title = "Keeping the thread: moment-to-moment awareness in singing"
++++
 
 One of the most important elements of music making, and one that I find is somewhat undervalued in the general conversation around performance, is the role played by our awareness during singing; that is, where our attention lies as performers while we are playing or singing. My own observations with singers I have worked with have led me to the firm conclusion that a performance is greatly improved when our attention is fully and intensely involved on a note-to-note basis in the music. This includes the breath, too, since as well as being a physical necessity, breathing is very much involved in the drama of the music. 
 
@@ -32,9 +25,7 @@ This approach has a lot of implications on a practical technical level. As a voc
 
 One passage where I have found this approach useful is Donna Elvira's coloratura at the end of "Mi tradì nell'alma ingrata" in *Don Giovanni*. It is composed of some tricky patterns and intervals and throws up some tuning challenges for the singer:
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505439819105/2017-09-15---Mi-tradi.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505439819105/2017-09-15---Mi-tradi.jpg.jpg)
 <figcaption>Musical example, from "Mi tradì nell'alma ingrata" (*Don Giovanni*).</figcaption>
 </figure>
 

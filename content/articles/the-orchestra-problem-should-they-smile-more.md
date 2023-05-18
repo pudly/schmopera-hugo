@@ -1,28 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2016-04-13T16:35:00+01:00"
-lastmod: "2016-04-14T16:08:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460645134023/2016-04-14---Orchestra.jpg.jpg
-primary_image_credit: 'Painting by Adolph Menzel, c. 1850. Photo: commons.wikimedia.org'
-publishDate: "2016-04-14T16:03:00+01:00"
-related_articles:
-- articles/putting-on-show-instrumentalists.md
-related_companies:
-- scene/companies/city-of-london-sinfonia.md
-- scene/companies/toy-piano-composers.md
-- scene/companies/indie-opera-to.md
-short_description: ' The necessities of large-scale concerts like these are a reality;
-  bodies need to be shuffled, chairs need to be added, and tuning needs to happen.
-  But, why ignore the listeners during any of this? There&#039;s a difference between
-  a relaxed environment, and one that ignores the fact that they&#039;re performers.
-  Onstage housekeeping is the perfect opportunity for musicians to communicate with
-  their listeners, and prove that they&#039;re human beings as well as talented artists.
-  Talk to them, guys! '
-slug: the-orchestra-problem-should-they-smile-more
-title: 'The orchestra problem: should they smile more?'
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2016-04-13T16:35:00+01:00"
+lastmod = "2016-04-14T16:08:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460645134023/2016-04-14---Orchestra.jpg.jpg"
+primary_image_credit = "Painting by Adolph Menzel, c. 1850. Photo: commons.wikimedia.org"
+publishDate = "2016-04-14T16:03:00+01:00"
+related_articles = ["articles/putting-on-show-instrumentalists.md"]
+related_companies = ["scene/companies/city-of-london-sinfonia.md","scene/companies/toy-piano-composers.md","scene/companies/indie-opera-to.md"]
+short_description = " The necessities of large-scale concerts like these are a reality; bodies need to be shuffled, chairs need to be added, and tuning needs to happen. But, why ignore the listeners during any of this? There&#039;s a difference between a relaxed environment, and one that ignores the fact that they&#039;re performers. Onstage housekeeping is the perfect opportunity for musicians to communicate with their listeners, and prove that they&#039;re human beings as well as talented artists. Talk to them, guys! "
+slug = "the-orchestra-problem-should-they-smile-more"
+title = "The orchestra problem: should they smile more?"
++++
 
 There's an interesting contrast that happens on the stage during classical music concerts, the kind that feature large-scale orchestras, performing symphonies and tone poems in spacious, acoustically friendly concert halls. Between the thrilling and moving moments of music, there's are equally stunning moments of disconnect, where an invisible wall is put up around the players. Between pieces, and even movements, it's common to see the orchestra slip out of "performance mode", sharing a few words with their neighbours and picking at their clothes; we'll never forget hearing the sound of a soda can being opened by a brass player at the Met during a performance of *La bohème*. 
 

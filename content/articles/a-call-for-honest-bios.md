@@ -1,19 +1,14 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2016-12-10T08:41:00-05:00"
-lastmod: "2017-12-15T10:19:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513351148437/2017-12-15---Bio.jpg.jpg
-publishDate: "2016-12-10T11:04:00-05:00"
-short_description: Sometimes, readers, after a long day of scouring information on
-  opera singers, we start to bemoan the fact that their bios don&#039;t really tell
-  us anything about them. If any of you know an opera singer personally, go read their
-  professional bio right now. Who is that person? They seem busy, but it&#039;s not
-  clear why anyone should go and hear them sing.
-slug: a-call-for-honest-bios
-title: A call for Honest Bios™
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2016-12-10T08:41:00-05:00"
+lastmod = "2017-12-15T10:19:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513351148437/2017-12-15---Bio.jpg.jpg"
+publishDate = "2016-12-10T11:04:00-05:00"
+short_description = "Sometimes, readers, after a long day of scouring information on opera singers, we start to bemoan the fact that their bios don&#039;t really tell us anything about them. If any of you know an opera singer personally, go read their professional bio right now. Who is that person? They seem busy, but it&#039;s not clear why anyone should go and hear them sing."
+slug = "a-call-for-honest-bios"
+title = "A call for Honest Bios™"
++++
 
 Readers, there's a topic we've been pondering for a while, and we've decided the best way to write about it is with your help.
 

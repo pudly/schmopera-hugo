@@ -1,26 +1,17 @@
----
-author:
-- authors/collin-shay.md
-categories: Review
-date: "2017-03-22T09:48:00+00:00"
-lastmod: "2017-03-22T10:03:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490176444646/2017-03-22---David_Daniels_pc_Simon_Pauly.jpg.jpg
-primary_image_credit: 'Photo: Simon Pauly.'
-publishDate: "2017-03-22T10:03:00+00:00"
-related_articles:
-- articles/in-review-tim-mead-james-baillieu-in-recital.md
-- articles/in-review-jamie-barton-leaves-you-wanting-more.md
-- articles/in-review-exaudi-at-wigmore-hall.md
-related_people:
-- scene/people/david-daniels.md
-short_description: With a career that started twenty-five years ago, singing entirely
-  different from our patriarchs of Alfred Deller and James Bowman, Daniels is responsible
-  for growing what was once a niched zoo animal of a fach into one to stand up with
-  the rest of them. In doing so, he has set the bar extremely high for countertenors,
-  to a standard to which he continues to hold himself.
-slug: in-review-daniels-katz-at-wigmore-hall
-title: 'In review: Daniels &amp; Katz at Wigmore Hall'
----
++++
+author = ["authors/collin-shay.md"]
+categories = "Review"
+date = "2017-03-22T09:48:00+00:00"
+lastmod = "2017-03-22T10:03:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490176444646/2017-03-22---David_Daniels_pc_Simon_Pauly.jpg.jpg"
+primary_image_credit = "Photo: Simon Pauly."
+publishDate = "2017-03-22T10:03:00+00:00"
+related_articles = ["articles/in-review-tim-mead-james-baillieu-in-recital.md","articles/in-review-jamie-barton-leaves-you-wanting-more.md","articles/in-review-exaudi-at-wigmore-hall.md"]
+related_people = ["scene/people/david-daniels.md"]
+short_description = "With a career that started twenty-five years ago, singing entirely different from our patriarchs of Alfred Deller and James Bowman, Daniels is responsible for growing what was once a niched zoo animal of a fach into one to stand up with the rest of them. In doing so, he has set the bar extremely high for countertenors, to a standard to which he continues to hold himself."
+slug = "in-review-daniels-katz-at-wigmore-hall"
+title = "In review: Daniels &amp; Katz at Wigmore Hall"
++++
 
 On Monday night at Wigmore Hall, we were reminded how lucky we are to live in a time when countertenors sing not only early music, but Beethoven and folksongs as well. As a powerful duo, [David Daniels](/scene/people/david-daniels/) and Martin Katz showed us different styles of musicality and an expressiveness that seems to transcend style itself.
 

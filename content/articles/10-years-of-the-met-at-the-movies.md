@@ -1,39 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2015-09-29T15:59:00-04:00"
-lastmod: "2015-10-02T13:31:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443807073679/Movies.jpg.jpg
-publishDate: "2015-09-30T10:12:00-04:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-related_people:
-- scene/people/anna-netrebko.md
-- scene/people/dmitri-hvorostovsky.md
-- scene/people/eric-owens.md
-- scene/people/adrianne-pieczonka.md
-- scene/people/sondra-radvanovsky.md
-- scene/people/jonas-kaufmann.md
-- scene/people/nina-stemme.md
-- scene/people/diana-damrau.md
-- scene/people/susan-graham.md
-- scene/people/evamaria-westbroek.md
-- scene/people/alexandrs-antonenko.md
-- scene/people/sonya-yoncheva.md
-- scene/people/johan-botha.md
-- scene/people/daniel-brenna.md
-- scene/people/matthew-polenzani.md
-- scene/people/mariusz-kwiecen.md
-- scene/people/marco-berti.md
-- scene/people/kristine-opolais.md
-short_description: '2015/16 marks the 10th anniversary season of The Met: Live in
-  HD, and they&#039;re celebrating with a meaty selection to show off the best of
-  opera. Starting with Il trovatore on October 3rd, non-New Yorkers can get their
-  Met fix in Cineplex theatres across North America (including four in Toronto!).'
-slug: 10-years-of-the-met-at-the-movies
-title: 10 Years of the Met at the Movies
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2015-09-29T15:59:00-04:00"
+lastmod = "2015-10-02T13:31:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443807073679/Movies.jpg.jpg"
+publishDate = "2015-09-30T10:12:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/anna-netrebko.md","scene/people/dmitri-hvorostovsky.md","scene/people/eric-owens.md","scene/people/adrianne-pieczonka.md","scene/people/sondra-radvanovsky.md","scene/people/jonas-kaufmann.md","scene/people/nina-stemme.md","scene/people/diana-damrau.md","scene/people/susan-graham.md","scene/people/evamaria-westbroek.md","scene/people/alexandrs-antonenko.md","scene/people/sonya-yoncheva.md","scene/people/johan-botha.md","scene/people/daniel-brenna.md","scene/people/matthew-polenzani.md","scene/people/mariusz-kwiecen.md","scene/people/marco-berti.md","scene/people/kristine-opolais.md"]
+short_description = "2015/16 marks the 10th anniversary season of The Met: Live in HD, and they&#039;re celebrating with a meaty selection to show off the best of opera. Starting with Il trovatore on October 3rd, non-New Yorkers can get their Met fix in Cineplex theatres across North America (including four in Toronto!)."
+slug = "10-years-of-the-met-at-the-movies"
+title = "10 Years of the Met at the Movies"
++++
 
 2015/16 marks the 10th anniversary season of [The Met: Live in HD](https://cineplexfiles.s3.amazonaws.com/Events/MetOpera/2016/MET_Opera_LiveInHD-FINAL.pdf), and they're celebrating with a meaty selection to show off the best of opera. The season starts with *Il trovatore* on [October 3rd](http://www.cineplex.com/Events/MetOpera), starring [Anna Netrebko](/scene/people/anna-netrebko/), Dolora Zajick, and star baritone [Dmitri Hvorostovsky](http://www.wqxr.org/#!/story/ailing-baritone-showered-roses-metropolitan-opera-return/). Non-New Yorkers can get their Met fix in over 2000 venues worldwide ([click here](http://www.cineplex.com/Events/MetOpera/ParticipatingTheatres) to find a participating Cineplex theatre near you).
 

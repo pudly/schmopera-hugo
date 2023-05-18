@@ -1,30 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-09-07T09:35:00+01:00"
-lastmod: "2016-09-07T11:19:00+01:00"
-preamble: |-
-  A versatile young artist, soprano [Chelsea Rus](/scene/people/chelsea-rus/) has spent her time onstage in roles like Adina (*L'elisir d'amore*), Blanche (*Dialogues des Carmélites*), Lauretta (*Gianni Schicchi*), and Female Chorus (*The Rape of Lucretia*). Recently named one of CBC's 30 Hot Canadian Musicians under 30, Chelsea is a new member of [l'Opéra de Montréal](/scene/companies/lopera-de-montreal/)'s Atelier lyrique Young Artist programme.
-
-  She gave us a smart interview about her lightbulb moments in the practice room, coveting Berg's *Lulu*, and why she saves time for baking.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473238767894/headshot1.jpg.jpg
-publishDate: "2016-09-07T11:16:00+01:00"
-related_articles:
-- articles/spotlight-on-beth-hagerman.md
-- articles/spotlight-on-stephanie-tritchew.md
-- articles/spotlight-on-vanessa-oudereimerink.md
-related_companies:
-- scene/companies/latelier-lyrique-de-lopra-de-montral.md
-related_people:
-- scene/people/chelsea-rus.md
-short_description: '&quot;Of course I have had moments of doubt (and I have tried
-  to imagine my life as a lawyer), but the bottom line is that I am an addict. I will
-  always itch to sing and perform, and I will never feel like myself doing anything
-  else.&quot;'
-slug: spotlight-on-chelsea-rus
-title: 'Spotlight on: Chelsea Rus'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-09-07T09:35:00+01:00"
+lastmod = "2016-09-07T11:19:00+01:00"
+preamble = "A versatile young artist, soprano [Chelsea Rus](/scene/people/chelsea-rus/) has spent her time onstage in roles like Adina (*L'elisir d'amore*), Blanche (*Dialogues des Carmélites*), Lauretta (*Gianni Schicchi*), and Female Chorus (*The Rape of Lucretia*). Recently named one of CBC's 30 Hot Canadian Musicians under 30, Chelsea is a new member of [l'Opéra de Montréal](/scene/companies/lopera-de-montreal/)'s Atelier lyrique Young Artist programme.\n\nShe gave us a smart interview about her lightbulb moments in the practice room, coveting Berg's *Lulu*, and why she saves time for baking."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473238767894/headshot1.jpg.jpg"
+publishDate = "2016-09-07T11:16:00+01:00"
+related_articles = ["articles/spotlight-on-beth-hagerman.md","articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-vanessa-oudereimerink.md"]
+related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
+related_people = ["scene/people/chelsea-rus.md"]
+short_description = "&quot;Of course I have had moments of doubt (and I have tried to imagine my life as a lawyer), but the bottom line is that I am an addict. I will always itch to sing and perform, and I will never feel like myself doing anything else.&quot;"
+slug = "spotlight-on-chelsea-rus"
+title = "Spotlight on: Chelsea Rus"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

@@ -1,29 +1,24 @@
----
-date: "2016-10-25T10:49:00+01:00"
-discipline: Soprano
-lastmod: "2016-10-25T10:49:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477388929479/2016-10-25---Jessica-Fishenfeld---Fay-Fox.jpg.jpg
-primary_image_credit: Fay Fox.
-publishDate: "2016-10-25T10:49:00+01:00"
-related_companies:
-- scene/companies/gramercy-opera.md
-- scene/companies/on-site-opera.md
-- scene/companies/highlands-opera-studio.md
-- scene/companies/palm-beach-opera.md
-- scene/companies/manhattan-school-of-music.md
-- scene/companies/opera-carolina.md
-slug: jessica-fishenfeld
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/JessFishenfeld
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/jecafish
-title: Jessica Fishenfeld
-website: http://www.jessicafishenfeld.com/
----
++++
+date = "2016-10-25T10:49:00+01:00"
+discipline = "Soprano"
+lastmod = "2016-10-25T10:49:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477388929479/2016-10-25---Jessica-Fishenfeld---Fay-Fox.jpg.jpg"
+primary_image_credit = "Fay Fox."
+publishDate = "2016-10-25T10:49:00+01:00"
+related_companies = ["scene/companies/gramercy-opera.md", "scene/companies/on-site-opera.md", "scene/companies/highlands-opera-studio.md", "scene/companies/palm-beach-opera.md", "scene/companies/manhattan-school-of-music.md", "scene/companies/opera-carolina.md"]
+slug = "jessica-fishenfeld"
+title = "Jessica Fishenfeld"
+website = "http://www.jessicafishenfeld.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/JessFishenfeld"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/jecafish"
+
++++
 Young American Soprano Jessica Fishenfeld, hailed for her “engaging” performances (_Opera News_) and “soaring, glittering high notes” (_EDGEftlauderdale_), “triumphed” (_NY Observer_) in her New York City Opera debut this season as Leah in the World Premiere of _Stonewall_ (Iain Bell & Mark Campbell), with “clean coloratura,” (_Opera News_) and “spunky personality” (_Opera Wire_). Since her recent residency with Palm Beach Opera as a Benenson Young Artist, she starred in the World Premiere of _Lovesick_ at National Sawdust, made her Carnegie/Zankel Hall debut as soloist with The Manhattan Contemporary Chamber Ensemble, appeared with the Helena Symphony in _Bernstein 100!_, was a 2017 Career Bridges Grant Winner, and was awarded a Semi-Finalist Prize in the 2019 Lotte Lenya Competition.
 
 Additionally in 2018/19 season, she reprised Bernstein 100! singing Cunegonde and Maria in selections from _Candide_ and _West Side Story_ with the Southeastern Pennsylvania Symphony Orchestra, made a company debut with On Site Opera as Mrs. Mouse in _The Tale of the Silly Baby Mouse_, and returned to Carnegie/Zankel Hall as soloist. She finishes the season singing Norina in _Don Pasquale_ with North Shore Music Festival and returns to Savannah Opera for the World Premiere of _Birthday Clown_ (Ching). She opens the 2019/20 season with a guest appearance at NYC’s Birdland Jazz Club, and returns to Helena Symphony as soprano soloist in _Carmina Burana_.

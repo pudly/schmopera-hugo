@@ -1,22 +1,19 @@
----
-date: "2016-09-23T12:26:00+01:00"
-discipline: Soprano
-lastmod: "2016-09-23T12:26:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474629951206/2016-09-23---Sabina-Puertolas.jpg.jpg
-primary_image_credit: Ylka Tapia
-publishDate: "2016-09-23T12:26:00+01:00"
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/gran-teatre-del-liceu.md
-slug: sabina-puertolas
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/sabinapuertolas
-title: Sabina Puértolas
-website: http://sabinapuertolas.com/
----
++++
+date = "2016-09-23T12:26:00+01:00"
+discipline = "Soprano"
+lastmod = "2016-09-23T12:26:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474629951206/2016-09-23---Sabina-Puertolas.jpg.jpg"
+primary_image_credit = "Ylka Tapia"
+publishDate = "2016-09-23T12:26:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/gran-teatre-del-liceu.md"]
+slug = "sabina-puertolas"
+title = "Sabina Puértolas"
+website = "http://sabinapuertolas.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/sabinapuertolas"
++++
 
 Spanish soprano Sabina Puértolas studied at the Pamplona Conservatoire, the Accademia Chigiana in Siena and the Accademia Verdiana in Busseto. She is the winner of the international singing competitions Riccardo Zandonai in Rovereto, Julián Gayarre in Pamplona, Francisca Quart in Palma de Mallorca and Manuel Ausensi in Barcelona.
 

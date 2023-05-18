@@ -1,26 +1,21 @@
----
-discipline: Baritone
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1644284684/media/2022/02/LukaKawabata_k4scu7.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/the-banff-centre.md
-- scene/companies/edmonton-opera.md
-- scene/companies/saskatoon-opera.md
-- scene/companies/pacific-opera-victoria.md
-- scene/companies/manitoba-opera.md
-- scene/companies/vancouver-opera.md
-slug: luka-kawabata
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/LukaKawabata
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/lukakawabata/
-title: Luka Kawabata
-website: https://www.lukakawabata.com/
----
++++
+discipline = "Baritone"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1644284684/media/2022/02/LukaKawabata_k4scu7.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/the-banff-centre.md", "scene/companies/edmonton-opera.md", "scene/companies/saskatoon-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/manitoba-opera.md", "scene/companies/vancouver-opera.md"]
+slug = "luka-kawabata"
+title = "Luka Kawabata"
+website = "https://www.lukakawabata.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/LukaKawabata"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/lukakawabata/"
+
++++
 Nikkei-Canadian baritone, Luka Kawabata is a current participant in the **Yulanda M Faris Young Artist Program** with Vancouver Opera. Last season, he appeared as Bill Bobstay in Gilbert and Sullivan’s _HMS Pinafore_ and in Vancouver Opera’s digital season as Dmitri in Wargo’s _The Music Shop_ and as Escamillo in Bizet’s _Carmen: Up Close and Personal_. He is a graduate of the Digital Emerging Artist Program with **Manitoba Opera** and a former fellow in **The Association of Opera in Canada**’s ‘RBC Fellowship’.
 
 This season, Luka is set to appear as Peter Quince in **Vancouver Opera**’s _A Midsummer Night’s Dream_ by Benjamin Britten. He is excited to cover the roles of Zurga in Bizet’s _Les pêcheurs de perles_ and Mr XE in the co-production of Du Yun’s _Angel’s Bone (**Sound the Alarm/re:Naissance Opera/Loose Tea Theatre**)._

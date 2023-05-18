@@ -1,27 +1,23 @@
----
-date: "2015-04-07T22:34:00-04:00"
-discipline: Mezzo-soprano
-lastmod: "2015-04-07T22:34:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428460305233/JoyceDiDonato_Dries_24May14_3.jpg.jpg
-primary_image_credit: Pari Dukovic
-publishDate: "2015-04-07T22:34:00-04:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/royal-opera-house.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/opernhaus-zurich.md
-slug: joyce-didonato
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/pages/Joyce-DiDonato/207466962440
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/JoyceDiDonato
-title: Joyce DiDonato
-website: http://joycedidonato.com/
----
++++
+date = "2015-04-07T22:34:00-04:00"
+discipline = "Mezzo-soprano"
+lastmod = "2015-04-07T22:34:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428460305233/JoyceDiDonato_Dries_24May14_3.jpg.jpg"
+primary_image_credit = "Pari Dukovic"
+publishDate = "2015-04-07T22:34:00-04:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/opernhaus-zurich.md"]
+slug = "joyce-didonato"
+title = "Joyce DiDonato"
+website = "http://joycedidonato.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/pages/Joyce-DiDonato/207466962440"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/JoyceDiDonato"
++++
 
 <p>
 	Winner of the 2012 Grammy Award for Best Classical Vocal Solo, Kansas-born Joyce DiDonato entrances audiences and critics alike across the globe, and has been proclaimed 'perhaps the most potent female singer of her generation' by <em>The New Yorker</em>. With a voice 'nothing less than 24- carat gold' according to the <em>Times</em>, DiDonato has soared to the top of the industry as both a performer and a fierce arts advocate, gaining international prominence in operas by Rossini, Handel and Mozart, as well as through her wide-ranging, acclaimed discography. Her signature parts include the <em>bel canto </em>roles of Rossini, leading the <em>Financial Times </em>to declare her Elena <em>La Donna del Lago</em>, 'simply the best singing I've heard in years'.

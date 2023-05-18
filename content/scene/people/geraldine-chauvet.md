@@ -1,17 +1,14 @@
----
-_template: people_single
-date: "2015-12-30T16:25:00-05:00"
-discipline: Mezzo-soprano
-lastmod: "2015-12-30T16:25:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451510615642/2015-12-30---Geraldine-Chauvet.jpg.jpg
-publishDate: "2015-12-30T16:25:00-05:00"
-related_companies:
-- scene/companies/washington-national-opera.md
-- scene/companies/edmonton-opera.md
-slug: geraldine-chauvet
-title: Géraldine Chauvet
-website: http://www.geraldinechauvet.com/
----
++++
+date = "2015-12-30T16:25:00-05:00"
+discipline = "Mezzo-soprano"
+lastmod = "2015-12-30T16:25:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451510615642/2015-12-30---Geraldine-Chauvet.jpg.jpg"
+publishDate = "2015-12-30T16:25:00-05:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/edmonton-opera.md"]
+slug = "geraldine-chauvet"
+title = "Géraldine Chauvet"
+website = "http://www.geraldinechauvet.com/"
++++
 
 Géraldine Chauvet was born in Bayeux in the Calvados region of France and studied musicology at the University of Tours and vocal studies with the Jeunes Voix du Rhin which is the young artists’ development program at the National Opera du Rhin in Strasbourg.
 

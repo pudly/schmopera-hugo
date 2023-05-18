@@ -1,23 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2018-01-28T11:21:00-05:00"
-lastmod: "2018-01-28T21:20:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517156406211/2018-01-28---Teens.jpg.jpg
-publishDate: "2018-01-28T21:20:00-05:00"
-related_articles:
-- articles/who-cares-what-bring-on-the-why.md
-- articles/concept-production-real-reason.md
-related_companies:
-- scene/companies/royal-opera-house.md
-short_description: 'This is a decent list of reasons to bring your teen to the opera.
-  It&#039;s fair to add that opera is not the only place to learn these things; the
-  list above is an argument for getting teens excited about reading, going to museums,
-  and yes, watching well-written film and television. '
-slug: the-real-reason-to-bring-teens-to-the-opera
-title: The real reason to bring teens to the opera
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2018-01-28T11:21:00-05:00"
+lastmod = "2018-01-28T21:20:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517156406211/2018-01-28---Teens.jpg.jpg"
+publishDate = "2018-01-28T21:20:00-05:00"
+related_articles = ["articles/who-cares-what-bring-on-the-why.md","articles/concept-production-real-reason.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
+short_description = "This is a decent list of reasons to bring your teen to the opera. It&#039;s fair to add that opera is not the only place to learn these things; the list above is an argument for getting teens excited about reading, going to museums, and yes, watching well-written film and television. "
+slug = "the-real-reason-to-bring-teens-to-the-opera"
+title = "The real reason to bring teens to the opera"
++++
 
 An "opera dad" over at *The Economist* recently took is teenaged daughter to see the cinema broadcast of David McVicar's production of *Rigoletto* for Covent Garden:
 

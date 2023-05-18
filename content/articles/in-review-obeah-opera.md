@@ -1,25 +1,16 @@
----
-author:
-- authors/greg.md
-categories: Review
-date: "2015-08-08T13:21:00-04:00"
-lastmod: "2015-09-16T18:45:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439057639073/rPm-Obeah-Opera-2015-1017Resized.jpg.jpg
-primary_image_credit: All photos by Racheal McCaig.
-publishDate: "2015-08-08T14:17:00-04:00"
-related_articles:
-- articles/nicole-brooks-on-obeah-opera.md
-- articles/great-nights-sketches-of-miles.md
-- articles/in-review-ayre.md
-- articles/dont-miss-century-song.md
-- articles/the-positive-impact-of-community-created-performances.md
-short_description: Friday, August 7th, 2015. This is the day I finally understood
-  why the human race began singing and dancing in the first place. I don&#039;t know
-  how or why it started, but I was reminded of how blessed we are by its presence
-  in our lives.
-slug: in-review-obeah-opera
-title: 'In review: Obeah Opera'
----
++++
+author = ["authors/greg.md"]
+categories = "Review"
+date = "2015-08-08T13:21:00-04:00"
+lastmod = "2015-09-16T18:45:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439057639073/rPm-Obeah-Opera-2015-1017Resized.jpg.jpg"
+primary_image_credit = "All photos by Racheal McCaig."
+publishDate = "2015-08-08T14:17:00-04:00"
+related_articles = ["articles/nicole-brooks-on-obeah-opera.md","articles/great-nights-sketches-of-miles.md","articles/in-review-ayre.md","articles/dont-miss-century-song.md","articles/the-positive-impact-of-community-created-performances.md"]
+short_description = "Friday, August 7th, 2015. This is the day I finally understood why the human race began singing and dancing in the first place. I don&#039;t know how or why it started, but I was reminded of how blessed we are by its presence in our lives."
+slug = "in-review-obeah-opera"
+title = "In review: Obeah Opera"
++++
 
 Friday, August 7th, 2015. This is the day I finally understood why the human race began singing and dancing in the first place. I don't know how or why it started, but I was reminded of how blessed we are by its presence in our lives.
 
@@ -33,9 +24,7 @@ It tells the story of Tituba (Nicole Brooks) a proud healer who is captured and 
 
 Word gets out of Tituba's actions, and we all know how the Puritans react...
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439057405678/rPm-Obeah-Opera-2015-1173Resized.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439057405678/rPm-Obeah-Opera-2015-1173Resized.jpg.jpg)
 <figcaption>Photo by Racheal McCaig</figcaption>
 </figure>
 
@@ -45,9 +34,7 @@ Bonnie Becher's lighting was warm, and inviting, creating a palpable contrast be
 
 As Tituba, Brooks is electric! Her earthy, smoky tone comes from a place within the crust of the earth. Her connection to the material and the struggles of these women is a wonder to behold as both an actor and a singer. She is onstage for pretty much the entire show, singing with her whole life and body. Her stamina is a wonder.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439057427549/rPm-Obeah-Opera-2015-1151Resized.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439057427549/rPm-Obeah-Opera-2015-1151Resized.jpg.jpg)
 <figcaption>Photo by Racheal McCaig.</figcaption>
 </figure>
 
@@ -59,9 +46,7 @@ I've always been a big fan of Divine Brown, but I had no idea what she was fully
 
 *Obeah* is also a feast of movement. The whole piece had only a few select moments of stillness carefully selected by both director Lezlie Wade and choreographer Anthony "Prime" Guerra. Guerra's pieces were a balance mixture of African and Contemporary Lyrical and though the ladies were of varying dance skill, the dancing itself was fluid, strong, creative, supported and natural. It seemed as if the women of *Obeah* were freestyling much of the piece.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439057475504/rPm-Obeah-Opera-2015-1084Resized.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439057475504/rPm-Obeah-Opera-2015-1084Resized.jpg.jpg)
 <figcaption>Photo by Racheal McCaig.</figcaption>
 </figure>
 

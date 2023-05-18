@@ -1,37 +1,23 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2014-03-25T08:00:00-04:00"
-lastmod: "2015-04-24T09:47:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882789900/Stiffelio-764x1024.jpg.jpg
-publishDate: "2014-03-25T08:00:00-04:00"
-related_articles:
-- articles/in-review-the-mississauga-symphony-presents-carmen.md
-- articles/verdi-at-204-toscanini-at-150-the-2017-festival-verdi.md
-- articles/overdue-for-a-chicago-performance-the-haunted-manor.md
-related_companies:
-- scene/companies/voicebox-opera-in-concert.md
-related_people:
-- scene/people/ernesto-ramirez.md
-- scene/people/laura-albino.md
-- scene/people/geoffrey-sirett.md
-short_description: 'On Sunday, I attended the final show of the season by Voicebox:
-  Opera in Concert at the St. Lawrence Centre for the Arts. They presented Verdi&#039;s
-  Stiffelio, one of his lesser-known opera written after Nabucco and Ernani, but before
-  La traviata and La forza del destino. I&#039;d certainly never heard of it, so I
-  was curious.'
-slug: in-review-stiffelio
-title: 'In Review: Stiffelio'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2014-03-25T08:00:00-04:00"
+lastmod = "2015-04-24T09:47:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882789900/Stiffelio-764x1024.jpg.jpg"
+publishDate = "2014-03-25T08:00:00-04:00"
+related_articles = ["articles/in-review-the-mississauga-symphony-presents-carmen.md","articles/verdi-at-204-toscanini-at-150-the-2017-festival-verdi.md","articles/overdue-for-a-chicago-performance-the-haunted-manor.md"]
+related_companies = ["scene/companies/voicebox-opera-in-concert.md"]
+related_people = ["scene/people/ernesto-ramirez.md","scene/people/laura-albino.md","scene/people/geoffrey-sirett.md"]
+short_description = "On Sunday, I attended the final show of the season by Voicebox: Opera in Concert at the St. Lawrence Centre for the Arts. They presented Verdi&#039;s Stiffelio, one of his lesser-known opera written after Nabucco and Ernani, but before La traviata and La forza del destino. I&#039;d certainly never heard of it, so I was curious."
+slug = "in-review-stiffelio"
+title = "In Review: Stiffelio"
++++
 
 On Sunday, I attended the final show of the season by [Voicebox: Opera in Concert](http://www.operainconcert.com/) at the [St. Lawrence Centre for the Arts](http://www.stlc.com/). They presented Verdi's [_Stiffelio_](http://en.wikipedia.org/wiki/Stiffelio#), one of his lesser-known opera written after _Nabucco_ and _Ernani_, but before _La traviata_ and _La forza del destino_. I'd certainly never heard of it, so I was curious.
 
 For some reason, _Stiffelio_ seemed to me like it had been written much earlier than 1850, but it was really just one year before _Rigoletto_. That 1850 premiere, however, was censored up the wa-zoo, and the textual watering-down made the story kind of lame. But it's worth getting to know the piece; you can start by checking out a score [here](http://sausage.whatbox.ca:15263/imglnks/usimg/1/10/IMSLP24547-PMLP55371-Verdi_-_Stiffelio.pdf) and reading a synopsis [here](http://en.wikipedia.org/wiki/Stiffelio#Synopsis). I sat through the show, fascinated at what felt like the beta-versions of some of Verdi's most famous music. That aria was so _Il trovatore_. That _tutti_ finale was totally Act 2, scene 2 of _La traviata_. And _Stiffelio_ also looked back at composers to whom Verdi owes his genius; I heard distinct moments of _Lucia di Lammermoor_ and what I'm sure were other nods to Donizetti. Neat.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882974933/Ernesto-Ramirez-1024x1024.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429882974933/Ernesto-Ramirez-1024x1024.jpg.jpg)
 <figcaption>Tenor Ernesto Ramìrez.</figcaption>
 </figure>
 
@@ -39,17 +25,13 @@ The cast featured three solid singers in the three lead roles. [Ernesto Ramìrez
 
 Soprano [Laura Albino](http://www.lauraalbino.com/html/slideshow.php) was lovely and strong as Lina, the adulterous minister's wife (love it). I hadn't yet heard her sing Verdi, and I thought it suited her well; Lina is one of those roles where the female lead does some serious growing up between acts I and III, and Laura paced her singing wisely. She went from silvery and submissive at the top of the show, to a rounder, more assured sound that embraced an ever-widening vocal range. Very Gilda. I'm looking forward to hearing her more in this kind of repertoire.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883015539/LauraA.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883015539/LauraA.jpg.jpg)
 <figcaption>Soprano Laura Albino.</figcaption>
 </figure>
 
 [Geoffrey Sirett](http://www.geoffreysirett.com/) sang the role of Count Stankar, Lina's father. The role was another fiercely, almost anti-vocal writing; in his Act III aria, "O gioia inesprimibile, che questo core inondi!" Geoff stayed one step ahead of Verdi's incessant and ever-rising lines. To paraphrase a passing post-show comment from Geoff, it was "the hardest thing I ever sang in my life." I believe it. When he wasn't negotiating technical extremes, Geoff showed off his wide colour-palate and dangerous sound, very handy for Verdi baritone roles.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883064429/SIRETT-PHOTONEW2.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429883064429/SIRETT-PHOTONEW2.jpg.jpg)
 <figcaption>Baritone Geoffrey Sirett.</figcaption>
 </figure>
 

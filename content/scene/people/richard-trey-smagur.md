@@ -1,24 +1,22 @@
----
-date: "2017-10-24T20:45:00-04:00"
-discipline: Tenor
-lastmod: "2017-10-24T20:45:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508892190849/2017-10-24---Richard-Trey-Smagur.jpg.jpg
-publishDate: "2017-10-24T20:45:00-04:00"
-related_companies:
-- scene/companies/houston-grand-opera.md
-- scene/companies/the-santa-fe-opera.md
-slug: richard-trey-smagur
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/richard.smagur/
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/watch?v=Xb_OzPRfcIc
-title: Richard Trey Smagur
-website: https://www.richardsmagur.com/
----
++++
+date = "2017-10-24T20:45:00-04:00"
+discipline = "Tenor"
+lastmod = "2017-10-24T20:45:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508892190849/2017-10-24---Richard-Trey-Smagur.jpg.jpg"
+publishDate = "2017-10-24T20:45:00-04:00"
+related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/the-santa-fe-opera.md"]
+slug = "richard-trey-smagur"
+title = "Richard Trey Smagur"
+website = "https://www.richardsmagur.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/richard.smagur/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/watch?v=Xb_OzPRfcIc"
++++
 
 Richard Smagur, of Clarkesville, Georgia, was named a winner in the
 Metropolitan Opera National Council Auditions earlier this year, and was

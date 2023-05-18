@@ -1,36 +1,17 @@
----
-author:
-- authors/suzanne-vinnik.md
-- authors/sara-duchovnay.md
-categories: How-to
-date: "2016-09-11T16:51:00+01:00"
-lastmod: "2016-09-13T14:59:00+01:00"
-preamble: All portraits by [S. Richards Photography](http://www.srichardsphotography.com/),
-  shot at Sing for Hope Piano Studio, 28 Liberty. Hair and makeup by Olivia McKeldin
-  of [Bombshell Studios](http://www.bombshellstudiosnyc.com/) NYC, LLC.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683373809/FTK2-Square-Option.jpg.jpg
-publishDate: "2016-09-13T14:30:00+01:00"
-related_articles:
-- articles/a-letter-to-the-modern-diva.md
-- articles/dont-miss-boys-of-paradise.md
-- articles/whats-your-opera-dress-code.md
-- articles/singers-its-the-annual-tax-season-conundrum.md
-- articles/just-in-time-for-fall-shoperatic.md
-- articles/talking-with-singers-sara-duchovnay.md
-related_people:
-- scene/people/amal-elshrafi.md
-- scene/people/jenna-siladie.md
-- scene/people/megan-brunning.md
-- scene/people/suzanne-vinnik.md
-- scene/people/sara-duchovnay.md
-- scene/people/sharin-apostolou.md
-- scene/people/elizabeth-westerman-yoder.md
-short_description: Rather than recap, we decided to use our photoshoot to create a
-  &quot;lookbook&quot; to serve as inspiration to empower the operatic community to
-  make choices that serve your artistry.
-slug: freetheknee-part-2-you-have-better-choices
-title: '#FreeTheKnee Part 2: &quot;You have better choices.&quot;'
----
++++
+author = ["authors/suzanne-vinnik.md","authors/sara-duchovnay.md"]
+categories = "How-to"
+date = "2016-09-11T16:51:00+01:00"
+lastmod = "2016-09-13T14:59:00+01:00"
+preamble = "All portraits by [S. Richards Photography](http://www.srichardsphotography.com/), shot at Sing for Hope Piano Studio, 28 Liberty. Hair and makeup by Olivia McKeldin of [Bombshell Studios](http://www.bombshellstudiosnyc.com/) NYC, LLC."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683373809/FTK2-Square-Option.jpg.jpg"
+publishDate = "2016-09-13T14:30:00+01:00"
+related_articles = ["articles/a-letter-to-the-modern-diva.md","articles/dont-miss-boys-of-paradise.md","articles/whats-your-opera-dress-code.md","articles/singers-its-the-annual-tax-season-conundrum.md","articles/just-in-time-for-fall-shoperatic.md","articles/talking-with-singers-sara-duchovnay.md"]
+related_people = ["scene/people/amal-elshrafi.md","scene/people/jenna-siladie.md","scene/people/megan-brunning.md","scene/people/suzanne-vinnik.md","scene/people/sara-duchovnay.md","scene/people/sharin-apostolou.md","scene/people/elizabeth-westerman-yoder.md"]
+short_description = "Rather than recap, we decided to use our photoshoot to create a &quot;lookbook&quot; to serve as inspiration to empower the operatic community to make choices that serve your artistry."
+slug = "freetheknee-part-2-you-have-better-choices"
+title = "#FreeTheKnee Part 2: &quot;You have better choices.&quot;"
++++
 
 [Opera Diva Dress Collection](https://web.facebook.com/groups/456489367792116/) and [Sing For Hope](http://www.singforhope.org/) teamed up for a special photoshoot to promote and celebrate the passionate, fashionable, entrepreneurial, and altruistic divas that make up ODDC, and showcase the 2016 Sing For Hope Pianos as the first joint project under our cultural partnership. 
 
@@ -42,9 +23,7 @@ Rather than recap, we decided to use our photoshoot to create a "lookbook" to se
 
 ***
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611006661/Resized---Megan-SFH.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611006661/Resized---Megan-SFH.jpg.jpg)
 <figcaption>[Megan Brunning](/scene/people/megan-brunning/) in Maggy London (size 4), from ODDC Collection. Piano: "Wildcats" by students of PS 48Q, placed at Riverton Charter School.</figcaption>
 </figure>
 
@@ -80,9 +59,7 @@ This versatile and feminine dress can brighten up the room when you're scheduled
 
 </ul>
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473682864476/Resized---Orange-Jacket.jpg.jpg)<figcaption>This jacket is selling for $100 on ODDC!</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473682864476/Resized---Orange-Jacket.jpg.jpg)<figcaption>This jacket is selling for $100 on ODDC!</figcaption>
 </figure>
 
 ### Other Ways to Wear it for Fall...
@@ -229,9 +206,7 @@ We both flipped when we saw Amal in this dress! As many of you know, Suzanne is 
 
 </ul>
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683028805/Resized---Cherisee_Cherissia-Shoes--Urban-Whimsy-Photography.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473683028805/Resized---Cherisee_Cherissia-Shoes--Urban-Whimsy-Photography.jpg.jpg)
 <figcaption>Shoes by Cherisse:Cherissia Shoes. Photo by Urban Whimsy Photography.</figcaption>
 </figure>
 
@@ -341,9 +316,7 @@ Suzanne is one of the ‘OG' supporters of this look, having worn a similar pant
 
 </ul>
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611547300/Resized---Neon-Beautiful-Design-Jenna.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473611547300/Resized---Neon-Beautiful-Design-Jenna.jpg.jpg)
 <figcaption>Earrings by Tracy Cox, Neon Beautiful Design.</figcaption>
 </figure>
 

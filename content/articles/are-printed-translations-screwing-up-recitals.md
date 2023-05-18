@@ -1,24 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-05-24T20:40:00-04:00"
-lastmod: "2015-05-25T13:35:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432574158603/Goethe_Square.jpg.jpg
-primary_image_credit: Autograph manuscript of Goethe's "Gliech und Gleich"
-publishDate: "2015-05-25T13:35:00-04:00"
-related_articles:
-- articles/problems-we-didnt-know-we-had-surtitles.md
-related_people:
-- scene/people/stephanie-blythe.md
-- scene/people/warren-jones.md
-short_description: After academia, it becomes less common to give spoken translations
-  in voice recitals. It&#039;s one thing to hear an undergrad voice student tell you
-  what &quot;Das Veilchen&quot; is about, but it&#039;s another thing entirely to
-  hear the likes of Stephanie Blythe and Warren Jones reciting song texts.
-slug: are-printed-translations-screwing-up-recitals
-title: Are printed translations screwing up recitals?
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-05-24T20:40:00-04:00"
+lastmod = "2015-05-25T13:35:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432574158603/Goethe_Square.jpg.jpg"
+primary_image_credit = "Autograph manuscript of Goethe's \"Gliech und Gleich\""
+publishDate = "2015-05-25T13:35:00-04:00"
+related_articles = ["articles/problems-we-didnt-know-we-had-surtitles.md"]
+related_people = ["scene/people/stephanie-blythe.md","scene/people/warren-jones.md"]
+short_description = "After academia, it becomes less common to give spoken translations in voice recitals. It&#039;s one thing to hear an undergrad voice student tell you what &quot;Das Veilchen&quot; is about, but it&#039;s another thing entirely to hear the likes of Stephanie Blythe and Warren Jones reciting song texts."
+slug = "are-printed-translations-screwing-up-recitals"
+title = "Are printed translations screwing up recitals?"
++++
 
 I came across an [Operavore article](http://www.wqxr.org/#!/story/should-opera-singers-stop-providing-printed-translations-song/) by [Fred Plotkin](https://twitter.com/FredPlotkin), which was, on the surface, a review of [Stephanie Blythe](/scene/people/stephanie-blythe/) and Warren Jones at Carnegie Hall earlier this month. The seasoned pair gave a top-notch recital, despite having no printed song translations in the programs. Instead, Blythe and Jones took turns reciting English translations of the poetry before performing the songs.
 

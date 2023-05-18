@@ -1,21 +1,17 @@
----
-date: "2018-09-27T20:40:00-04:00"
-lastmod: "2018-09-27T20:41:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538095184261/justinheadshot.jpg.jpg
-publishDate: "2018-09-27T20:40:00-04:00"
-short_bio: Known for his powerful voice and vibrant stage presence, Justin Ralph is
-  a singer-songwriter whose opera powered folk peformances always make for a unique
-  and exciting live show. With influences from early Americana and Canadiana music
-  to Hank Williams and Pavarotti, his passionate performances have people taking notice
-  across the country.
-slug: justin-ralph
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/justinmralph
-title: Justin Ralph
-website: https://www.justinralph.com/
----
++++
+date = "2018-09-27T20:40:00-04:00"
+lastmod = "2018-09-27T20:41:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538095184261/justinheadshot.jpg.jpg"
+publishDate = "2018-09-27T20:40:00-04:00"
+short_bio = "Known for his powerful voice and vibrant stage presence, Justin Ralph is a singer-songwriter whose opera powered folk peformances always make for a unique and exciting live show. With influences from early Americana and Canadiana music to Hank Williams and Pavarotti, his passionate performances have people taking notice across the country."
+slug = "justin-ralph"
+title = "Justin Ralph"
+website = "https://www.justinralph.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/justinmralph"
++++
 
 Known for his powerful voice and vibrant stage presence, Justin Ralph is a singer-songwriter whose opera powered folk peformances always make for a unique and exciting live show. With influences from early Americana and Canadiana music to Hank Williams and Pavarotti, his passionate performances have people taking notice across the country.
 

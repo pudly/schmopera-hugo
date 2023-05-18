@@ -1,23 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-09-08T12:17:00-04:00"
-lastmod: "2017-09-10T21:29:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505090706153/2017-09-10---Piano.jpg.jpg
-publishDate: "2017-09-10T20:48:00-04:00"
-related_articles:
-- articles/how-to-lead-your-pianist.md
-- articles/how-to-play-for-singers.md
-short_description: Pianists who work with singers tend to pride themselves on being
-  an anticipator of needs. A great pianist seems to know before the singer does if
-  they need an emergency breath, could use some extra hang-time on a high note, or
-  wants a friendly push in tempo. Yet just as married-for-decades couples can still
-  manage to surprise each other, even the best of pianist-singer relationships aren&#039;t
-  perfectly telepathic.
-slug: what-do-singers-want-in-a-pianist
-title: What do singers want in a pianist?
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-09-08T12:17:00-04:00"
+lastmod = "2017-09-10T21:29:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505090706153/2017-09-10---Piano.jpg.jpg"
+publishDate = "2017-09-10T20:48:00-04:00"
+related_articles = ["articles/how-to-lead-your-pianist.md","articles/how-to-play-for-singers.md"]
+short_description = "Pianists who work with singers tend to pride themselves on being an anticipator of needs. A great pianist seems to know before the singer does if they need an emergency breath, could use some extra hang-time on a high note, or wants a friendly push in tempo. Yet just as married-for-decades couples can still manage to surprise each other, even the best of pianist-singer relationships aren&#039;t perfectly telepathic."
+slug = "what-do-singers-want-in-a-pianist"
+title = "What do singers want in a pianist?"
++++
 
 There was an [interesting post on Reddit](https://www.reddit.com/r/opera/comments/6yr54h/tipsguidelines_on_working_with_an_opera_singer/?st=j7c2x21w&sh=b72b8f1b) the other day, from a pianist asking for some beginner's tips on working with a singer. Presumably coming from singers or more experienced coaches, some of the comments mentioned: 
 <ul class="nospace">

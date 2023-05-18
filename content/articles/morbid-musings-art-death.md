@@ -1,25 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-05-21T12:29:00+01:00"
-lastmod: "2016-05-22T10:47:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463831841537/2016-05-21---Westmister-Abbey.jpg.jpg
-publishDate: "2016-05-21T13:06:00+01:00"
-related_articles:
-- articles/who-cares-what-bring-on-the-why.md
-- articles/my-wtf-lightbulb-moment.md
-- articles/the-business-of-passion.md
-- articles/on-the-ego.md
-- articles/4-ways-that-opera-really-is-life.md
-- articles/music-religion-irony.md
-short_description: Does it mean that all art is rooted in the morbid? A desperate
-  attempt to sweep the dust of life under a beautifully crafted rug? A shout into
-  the constant turnover of individual humans sharing their time on Earth, asking &quot;does
-  anyone care that I&#039;m here?&quot;
-slug: morbid-musings-art-death
-title: 'Morbid musings: art &amp; death'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-05-21T12:29:00+01:00"
+lastmod = "2016-05-22T10:47:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463831841537/2016-05-21---Westmister-Abbey.jpg.jpg"
+publishDate = "2016-05-21T13:06:00+01:00"
+related_articles = ["articles/who-cares-what-bring-on-the-why.md","articles/my-wtf-lightbulb-moment.md","articles/the-business-of-passion.md","articles/on-the-ego.md","articles/4-ways-that-opera-really-is-life.md","articles/music-religion-irony.md"]
+short_description = "Does it mean that all art is rooted in the morbid? A desperate attempt to sweep the dust of life under a beautifully crafted rug? A shout into the constant turnover of individual humans sharing their time on Earth, asking &quot;does anyone care that I&#039;m here?&quot;"
+slug = "morbid-musings-art-death"
+title = "Morbid musings: art &amp; death"
++++
 
 How about some morbidity to kick off the weekend, readers?
 

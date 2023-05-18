@@ -1,41 +1,27 @@
----
-author:
-- authors/meghan-klinkenborg.md
-categories: Review
-date: "2019-07-01T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: Des Moines Metro Opera's production of [_Candide_](http://desmoinesmetroopera.org/productions/candide/)
-  runs through July 20.
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562036043/media/2019/07/sqDMMOCandideDSC_5530.jpg
-primary_image_credit: 'Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey
-  for Des Moines Metro Opera.'
-related_articles:
-- articles/candide-the-best-of-all-possible-productions.md
-related_companies:
-- scene/companies/des-moines-metro-opera.md
-related_people:
-- scene/people/corey-bix.md
-- scene/people/emmett-o-hanlon.md
-- scene/people/eliza-bonet.md
-- scene/people/kyle-albertson.md
-- scene/people/jonathan-johnson.md
-- scene/people/deanna-breiwick.md
-short_description: If you're looking for a theatrical farce that will leave you with
-  a lot of questions about the human condition, then look no further than Des Moines
-  Metro Opera's charming production of Candide.
-slug: dont-let-the-upbeat-tunes-deceive-you-dmmos-candide
-title: 'Don''t let the upbeat tunes deceive you: DMMO''s Candide'
-youtube_url: ""
----
++++
+author = ["authors/meghan-klinkenborg.md"]
+categories = "Review"
+date = "2019-07-01T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = "Des Moines Metro Opera's production of [_Candide_](http://desmoinesmetroopera.org/productions/candide/) runs through July 20."
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562036043/media/2019/07/sqDMMOCandideDSC_5530.jpg"
+primary_image_credit = "Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera."
+related_articles = ["articles/candide-the-best-of-all-possible-productions.md"]
+related_companies = ["scene/companies/des-moines-metro-opera.md"]
+related_people = ["scene/people/corey-bix.md", "scene/people/emmett-o-hanlon.md", "scene/people/eliza-bonet.md", "scene/people/kyle-albertson.md", "scene/people/jonathan-johnson.md", "scene/people/deanna-breiwick.md"]
+short_description = "If you're looking for a theatrical farce that will leave you with a lot of questions about the human condition, then look no further than Des Moines Metro Opera's charming production of Candide."
+slug = "dont-let-the-upbeat-tunes-deceive-you-dmmos-candide"
+title = "Don't let the upbeat tunes deceive you: DMMO's Candide"
+youtube_url = ""
+
++++
 On the surface, [Leonard Bernstein's _Candide_](http://desmoinesmetroopera.org/productions/candide/) seems like a delightful theatrical comedy, but underneath the cheerful tunes and ridiculous plot, there is a deeper, darker undercurrent. Des Moines Metro Opera tackled this hard-to-define opera/operetta/musical about philosophy and human nature with unrelenting energy and flair, leaving the audience laughing and reflecting simultaneously.
 
 Candide and his companions travel to numerous countries throughout the story, and these rapid fire relocations pose quite a challenge to any production team. The scenic designer, Steven C. Kemp, took a strategically clever and colorful approach to this conundrum. Each location in the story was designated by a unique monochromatic color scheme. As the narrative progressed to a new city, set pieces in the designated color would appear, and then once the characters moved onto another place, a couple pieces of scenery would remain. By the end of the night, the stage was a rainbow of mismatched platforms, furniture, and backdrops, each reflecting part of Candide's chaotic journey and the contradictory lessons he learned.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562033227/media/2019/07/DMMOCandideDSC_0026.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562033227/media/2019/07/DMMOCandideDSC_0026.jpg){{% /md %}}
 
 <figcaption>Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -45,9 +31,7 @@ The rest of the design teams played off the color scheme as well. Linda Pisano c
 
 The orchestra under the direction of David Neely created the effervescent and erratic musical atmosphere that served as a backdrop for Candide's many misadventures. Bernstein's beloved overture was executed with lively precision, forecasting the frantic fun ahead. From sultry tangos to choral hymns, they excelled in every musical style, dragging us along for the wild ride that is _Candide._
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562033242/media/2019/07/DMMOCandideDSC_0153.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562033242/media/2019/07/DMMOCandideDSC_0153.jpg){{% /md %}}
 
 <figcaption>Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -59,9 +43,7 @@ Wynn Harmon played the spoken role of Voltaire, the author of the original novel
 
 [Kyle Albertson](/scene/people/kyle-albertson/) portrayed Candide's two opposing mentors, Dr. Pangloss the optimist and Martin the pessimist. Albertson's approach to these contrasting characters was so convincing that I didn't realize that he had played both of them until I checked the program afterwards. His rich vocal tone conveyed Pangloss's sunny disposition with natural ease but was equally effective in Martin's jarring, sarcastic tunes.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562033274/media/2019/07/DMMOCandideDSC_5239.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562033274/media/2019/07/DMMOCandideDSC_5239.jpg){{% /md %}}
 
 <figcaption>Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -73,9 +55,7 @@ Wynn Harmon played the spoken role of Voltaire, the author of the original novel
 
 [Corey Bix](/scene/people/corey-bix/) sang the role of The Governor, a conniving character with music reminiscent of Gilbert & Sullivan. Although he had some vocal strain on the high notes, the tenor's performance made the unrepentant bad guy amusing and somehow likeable.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562033294/media/2019/07/DMMOCandideDSC_5892.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562033294/media/2019/07/DMMOCandideDSC_5892.jpg){{% /md %}}
 
 <figcaption>Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -87,9 +67,7 @@ Candide's third mentor, Cacambo, was performed by Corey Trahan. This character r
 
 The title role of Candide was sung by [Jonathan Johnson](/scene/people/jonathan-johnson/), and the tenor's vocal clarity was the ideal depiction of the character's sincerity and innocence. Johnson's performance of Candide's first aria "It Must Be So" was truly haunting because it was simple and vulnerable in an otherwise bustling score. Candide shines like a beacon on the stage, a pure being amid the tumultuous world around him. Johnson brought a genuine likability to the character that had us rooting for him throughout the story even when he killed three different people! (We found out later that all three murders were miraculously unsuccessful but still not cool.)
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562033310/media/2019/07/DMMOCandideDSC_5295.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562033310/media/2019/07/DMMOCandideDSC_5295.jpg){{% /md %}}
 
 <figcaption>Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -99,9 +77,7 @@ There were a number of other minor characters that played a vital role in the hi
 
 Because this story is so absurd, director Michael Shell and choreographer Todd Rhoades brought the same level of absurdity to the staging itself. There were disturbing scenes like rape and public execution going on, but somehow Shell managed to lighten the impact just enough to keep the audience from getting too uncomfortable. Some scenes featured so many characters that the potential to be overwhelmed was high. Shell created strategic vignettes that drew focus to key moments, however, and I found myself laughing at small interactions occurring amid crowded casinos, bloody battles, and overgrown gardens. No matter how much insanity was going on, I never lost track of the important plot points.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562033338/media/2019/07/DMMOCandideDSC_6348.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562033338/media/2019/07/DMMOCandideDSC_6348.jpg){{% /md %}}
 
 <figcaption>Candide, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 

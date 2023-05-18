@@ -1,34 +1,36 @@
----
-author: []
-categories: ""
-date: ""
-discipline: Tenor
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1568745156/media/2019/09/WesHunter_fblyjf.jpg
-primary_image_credit: ""
-related_articles: []
-related_companies: []
-related_people: []
-short_description: .
-slug: wes-hunter
-social_media:
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/tenorsauruswes/
-- platform: Soundcloud
-  template: social-media
-  url: https://soundcloud.com/tenorwes
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/tenorsauruswes
-title: Wes Hunter
-website: https://www.tenorwes.com/
-youtube_url: ""
----
++++
+author = []
+categories = ""
+date = ""
+discipline = "Tenor"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1568745156/media/2019/09/WesHunter_fblyjf.jpg"
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "."
+slug = "wes-hunter"
+title = "Wes Hunter"
+website = "https://www.tenorwes.com/"
+youtube_url = ""
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/tenorsauruswes/"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "https://soundcloud.com/tenorwes"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/tenorsauruswes"
+
++++
 Praised for his "drama, heart, and shining tone," tenor Wes Hunter is emerging as a charismatic interpreter of both standard repertoire and new works. A native Floridian, Hunter now resides in Boston where he performs a variety of styles ranging from Baroque opera to new concert works. Hunter debuted his solo cabaret to a sold-out audience at Club Café in Boston, featuring various selections from musical theatre composers.
 
 Recent highlights include the title character in Rossini's _Le Comte Ory_ with Lowell House Opera, Oronte in Handel's _Alcina_ with Opera del West, Gastone in Verdi's _La Traviata_ with Southern Vermont Lyric Theatre, the workshop of Julian Wachner's _Rev 23_ with Beth Morrison Projects, and Laurie in Adamo's _Little Women_ with MassOpera. Hunter also premiered the role of Eugene in the _The Body Politic_ by New York composer Leo Hurley with Juventas New Music Ensemble.

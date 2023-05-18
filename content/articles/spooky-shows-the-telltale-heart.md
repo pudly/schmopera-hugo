@@ -1,40 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-10-11T21:08:00+01:00"
-lastmod: "2016-10-13T11:44:00+01:00"
-preamble: "Unison Media's exciting series, [*The Crypt Sessions*](http://deathofclassical.com/),
-  begins its new season with a totally eerie combination of music and venue. On October
-  26 and 28, in Harlem's The Church of the Intercession, Unison Media collaborates
-  with [On Site Opera](http://osopera.org/) to present the semi-staged premiere of
-  [Gregg Kallor](/scene/people/gregg-kallor/)'s dramatic cantata, [*The Tell-Tale
-  Heart*](http://deathofclassical.com/gregg-kallor/), based on the poem by Edgar Allan
-  Poe. Kallor himself will be at the piano, with cellist [Joshua Roman](http://www.joshuaroman.com/)
-  and mezzo-soprano [Elizabeth Pojanowski](/scene/people/elizabeth-pojanowski/), and
-  [Sarah Meyers](http://sarahinameyers.com/) directs. \n\nThe night begins with wine
-  & cheese at 7pm, before settling into the spooky evening at 8pm. We spoke with Kallor
-  about his new work, Poe's music-worthy text, and how he writes \"creepiness in music.\"\n\nGrab
-  your [tickets here!](http://www.eventbrite.com/o/the-crypt-sessions-by-unison-media-8512851732)"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476350622205/2016-10-13---Kallor-Ousley.jpg.jpg
-primary_image_credit: Pianist and composer Gregg Kallor. Photo by Andrew Ousley.
-publishDate: "2016-10-13T11:31:00+01:00"
-related_articles:
-- articles/draculas-neighbour-nancy-allen-lundy.md
-- articles/6-operas-to-creep-you-out.md
-related_companies:
-- scene/companies/on-site-opera.md
-related_people:
-- scene/people/gregg-kallor.md
-- scene/people/elizabeth-pojanowski.md
-short_description: '&quot;The old man&#039;s glass eye triggers her murderous rage
-  – as she sings about the eye, she sees it and is held captive by its image – so
-  the eye gets its own trance-like music. There&#039;s furtive, creepily joyful music
-  while she describes her cunning murderous actions. There&#039;s a demented waltz
-  that gets progressively weirder as the narrator&#039;s tenuous grip on sanity loosens.&quot;'
-slug: spooky-shows-the-telltale-heart
-title: 'Spooky shows: The Tell-Tale Heart'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-10-11T21:08:00+01:00"
+lastmod = "2016-10-13T11:44:00+01:00"
+preamble = "Unison Media's exciting series, [*The Crypt Sessions*](http://deathofclassical.com/), begins its new season with a totally eerie combination of music and venue. On October 26 and 28, in Harlem's The Church of the Intercession, Unison Media collaborates with [On Site Opera](http://osopera.org/) to present the semi-staged premiere of [Gregg Kallor](/scene/people/gregg-kallor/)'s dramatic cantata, [*The Tell-Tale Heart*](http://deathofclassical.com/gregg-kallor/), based on the poem by Edgar Allan Poe. Kallor himself will be at the piano, with cellist [Joshua Roman](http://www.joshuaroman.com/) and mezzo-soprano [Elizabeth Pojanowski](/scene/people/elizabeth-pojanowski/), and [Sarah Meyers](http://sarahinameyers.com/) directs. \n\nThe night begins with wine & cheese at 7pm, before settling into the spooky evening at 8pm. We spoke with Kallor about his new work, Poe's music-worthy text, and how he writes \"creepiness in music.\"\n\nGrab your [tickets here!](http://www.eventbrite.com/o/the-crypt-sessions-by-unison-media-8512851732)"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476350622205/2016-10-13---Kallor-Ousley.jpg.jpg"
+primary_image_credit = "Pianist and composer Gregg Kallor. Photo by Andrew Ousley."
+publishDate = "2016-10-13T11:31:00+01:00"
+related_articles = ["articles/draculas-neighbour-nancy-allen-lundy.md","articles/6-operas-to-creep-you-out.md"]
+related_companies = ["scene/companies/on-site-opera.md"]
+related_people = ["scene/people/gregg-kallor.md","scene/people/elizabeth-pojanowski.md"]
+short_description = "&quot;The old man&#039;s glass eye triggers her murderous rage – as she sings about the eye, she sees it and is held captive by its image – so the eye gets its own trance-like music. There&#039;s furtive, creepily joyful music while she describes her cunning murderous actions. There&#039;s a demented waltz that gets progressively weirder as the narrator&#039;s tenuous grip on sanity loosens.&quot;"
+slug = "spooky-shows-the-telltale-heart"
+title = "Spooky shows: The Tell-Tale Heart"
++++
 
 ## What drew you to set Poe's text to music?
 
@@ -60,9 +39,7 @@ The challenge is to find the right balance between letting the words register an
 
 In *The Tell-Tale Heart*, I want the music to let us feel as though we're in the narrator's world. Her suffering needs to be ours; her pride needs to be ours; her fear and shock and joy and anger and frustration and diminishing grip on sanity need to be ours. The music has to pull us even deeper into the story.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476353340758/2016-10-13---Gregg-Crypt-Announcement.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476353340758/2016-10-13---Gregg-Crypt-Announcement.jpg.jpg)
 <figcaption>Photo by Andrew Ousley.</figcaption>
 </figure>
 

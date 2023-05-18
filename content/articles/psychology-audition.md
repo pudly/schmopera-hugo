@@ -1,36 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: How-to
-date: "2015-10-17T13:55:00-04:00"
-lastmod: "2017-09-13T21:19:00-04:00"
-preamble: |-
-  I really, really like playing auditions. I have a short attention span and I like the rush of collaborating with a new singer under pressure, so playing a day of auditions is a little bit of Christmas for me. Unmarked cadenzas? Love them. Unexpected rubato? I'm on it.
-
-  On top of the fun of singer-pianist telepathy, I've gotten pretty good at the game of guessing which are the auditioners will ask for. In most auditions, opera singers present a list of about 4-6 arias; they choose which they want to start with, and after that the panel selects a second choice. The goal is for the singer to start with something they do very, very well, and for the auditioners to learn as much about that singer as possible in a two-aria span.
-
-  Auditioners decide on a second aria based on a few factors: what a singer chooses as their starter, their voice type, age, the contents of their repertoire list. Singers learn what they can about this system, and strategize with their arias, to make sure that they present themselves at their best, and at their most hirable.
-
-  Based on the auditions to which I've been privy over the years, here's a little look at the thought process behind your starting aria, what they'll ask for next, and how to make the audition psychology work *for* you.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505351937496/2017-09-14---Couch.jpg.jpg
-publishDate: "2015-10-24T08:00:00-04:00"
-related_articles:
-- articles/wolf-trap-audition-conversation.md
-- articles/what-to-wear-to-an-audition-via-the-red-carpet.md
-- articles/5-tips-for-university-auditionees.md
-- articles/audition-arias-101-the-young-singers-guide.md
-- articles/one-more-reason-we-dont-envy-singers.md
-- articles/4-myths-from-music-school.md
-- articles/i-didnt-get-in-a-short-story-about-clarity.md
-short_description: On top of the fun of singer-pianist telepathy, I&#039;ve gotten
-  pretty good at the game of guessing which are the auditioners will ask for. In most
-  auditions, opera singers present a list of about 4-6 arias; they choose which they
-  want to start with, and after that the panel selects a second choice. The goal is
-  for the singer to start with something they do very, very well, and for the auditioners
-  to learn as much about that singer as possible in a two-aria span.
-slug: psychology-audition
-title: The psychology of an audition
----
++++
+author = ["authors/jenna.md"]
+categories = "How-to"
+date = "2015-10-17T13:55:00-04:00"
+lastmod = "2017-09-13T21:19:00-04:00"
+preamble = "I really, really like playing auditions. I have a short attention span and I like the rush of collaborating with a new singer under pressure, so playing a day of auditions is a little bit of Christmas for me. Unmarked cadenzas? Love them. Unexpected rubato? I'm on it.\n\nOn top of the fun of singer-pianist telepathy, I've gotten pretty good at the game of guessing which are the auditioners will ask for. In most auditions, opera singers present a list of about 4-6 arias; they choose which they want to start with, and after that the panel selects a second choice. The goal is for the singer to start with something they do very, very well, and for the auditioners to learn as much about that singer as possible in a two-aria span.\n\nAuditioners decide on a second aria based on a few factors: what a singer chooses as their starter, their voice type, age, the contents of their repertoire list. Singers learn what they can about this system, and strategize with their arias, to make sure that they present themselves at their best, and at their most hirable.\n\nBased on the auditions to which I've been privy over the years, here's a little look at the thought process behind your starting aria, what they'll ask for next, and how to make the audition psychology work *for* you."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505351937496/2017-09-14---Couch.jpg.jpg"
+publishDate = "2015-10-24T08:00:00-04:00"
+related_articles = ["articles/wolf-trap-audition-conversation.md","articles/what-to-wear-to-an-audition-via-the-red-carpet.md","articles/5-tips-for-university-auditionees.md","articles/audition-arias-101-the-young-singers-guide.md","articles/one-more-reason-we-dont-envy-singers.md","articles/4-myths-from-music-school.md","articles/i-didnt-get-in-a-short-story-about-clarity.md"]
+short_description = "On top of the fun of singer-pianist telepathy, I&#039;ve gotten pretty good at the game of guessing which are the auditioners will ask for. In most auditions, opera singers present a list of about 4-6 arias; they choose which they want to start with, and after that the panel selects a second choice. The goal is for the singer to start with something they do very, very well, and for the auditioners to learn as much about that singer as possible in a two-aria span."
+slug = "psychology-audition"
+title = "The psychology of an audition"
++++
 
 ## If you start with something 20th-century or newer, especially in English...
 

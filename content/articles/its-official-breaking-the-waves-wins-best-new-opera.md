@@ -1,40 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-07-20T09:55:00-04:00"
-lastmod: "2017-07-22T10:37:00-04:00"
-preamble: |-
-  *Breaking the Waves*, the opera by Missy Mazzoli and Royce Vavrek, has earned itself the [Music Critics Association of North America](http://www.mcana.org/)'s inaugural Best New Opera Award. The chamber opera, based on the 1996 Academy Award-nominated film by Lars von Trier, had its world premiere in 2016 with [Opera Philadelphia](/scene/companies/opera-philadelphia/) in conjunction with [Beth Morrison Projects](/scene/companies/beth-morrison-projects/); it tells the story of Bess and her husband Jan, who when he becomes paralyzed in an accident, encourages Bess to seek out other lovers and for her to tell him of her sexual experiences.
-
-  The Best New Opera award was created as a significant nod to a new fully-staged opera. We spoke with MCANA members **Heidi Waleson**, (*Wall Street Journal*) **Alex Ross** (*The New Yorker*), **Arthur Kaptainis** (*National Post*, *Montreal Gazette*), **John Rockwell** (freelance), and MCANA President **Barbara Jepson** about honouring the work by Vavrek and Mazzoli, and what they deem an award-winning opera.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500560579680/2017-07-20---RoyceMissy.jpg.jpg
-primary_image_credit: 'Royce Vavrek & Missy Mazzoli (photo: Marylene May), creators
-  of the award-winning opera Breaking the Waves.'
-publishDate: "2017-07-22T10:37:00-04:00"
-related_articles:
-- articles/seasonal-opera-done-right-at-hgo.md
-related_companies:
-- scene/companies/beth-morrison-projects.md
-- scene/companies/the-industry.md
-- scene/companies/minnesota-opera.md
-- scene/companies/opera-philadelphia.md
-- scene/companies/prototype-festival.md
-- scene/companies/spoleto-festival-usa.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/fort-worth-opera.md
-related_people:
-- scene/people/missy-mazzoli.md
-- scene/people/royce-vavrek.md
-short_description: '&quot;Breaking the Waves was modern, urgent, and heartbreakingly
-  believable in its tragedy and redemption. It was also striking in the way it transformed
-  the Lars von Trier film, which I found misogynistic, into something completely different
-  – a story about female agency.&quot;'
-slug: its-official-breaking-the-waves-wins-best-new-opera
-title: 'It&#039;s official: Breaking the Waves wins Best New Opera'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-07-20T09:55:00-04:00"
+lastmod = "2017-07-22T10:37:00-04:00"
+preamble = "*Breaking the Waves*, the opera by Missy Mazzoli and Royce Vavrek, has earned itself the [Music Critics Association of North America](http://www.mcana.org/)'s inaugural Best New Opera Award. The chamber opera, based on the 1996 Academy Award-nominated film by Lars von Trier, had its world premiere in 2016 with [Opera Philadelphia](/scene/companies/opera-philadelphia/) in conjunction with [Beth Morrison Projects](/scene/companies/beth-morrison-projects/); it tells the story of Bess and her husband Jan, who when he becomes paralyzed in an accident, encourages Bess to seek out other lovers and for her to tell him of her sexual experiences.\n\nThe Best New Opera award was created as a significant nod to a new fully-staged opera. We spoke with MCANA members **Heidi Waleson**, (*Wall Street Journal*) **Alex Ross** (*The New Yorker*), **Arthur Kaptainis** (*National Post*, *Montreal Gazette*), **John Rockwell** (freelance), and MCANA President **Barbara Jepson** about honouring the work by Vavrek and Mazzoli, and what they deem an award-winning opera."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500560579680/2017-07-20---RoyceMissy.jpg.jpg"
+primary_image_credit = "Royce Vavrek & Missy Mazzoli (photo: Marylene May), creators of the award-winning opera Breaking the Waves."
+publishDate = "2017-07-22T10:37:00-04:00"
+related_articles = ["articles/seasonal-opera-done-right-at-hgo.md"]
+related_companies = ["scene/companies/beth-morrison-projects.md","scene/companies/the-industry.md","scene/companies/minnesota-opera.md","scene/companies/opera-philadelphia.md","scene/companies/prototype-festival.md","scene/companies/spoleto-festival-usa.md","scene/companies/san-francisco-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/houston-grand-opera.md","scene/companies/fort-worth-opera.md"]
+related_people = ["scene/people/missy-mazzoli.md","scene/people/royce-vavrek.md"]
+short_description = "&quot;Breaking the Waves was modern, urgent, and heartbreakingly believable in its tragedy and redemption. It was also striking in the way it transformed the Lars von Trier film, which I found misogynistic, into something completely different – a story about female agency.&quot;"
+slug = "its-official-breaking-the-waves-wins-best-new-opera"
+title = "It&#039;s official: Breaking the Waves wins Best New Opera"
++++
 
 ## What stood out about *Breaking the Waves*, in order to earn this inaugural Best New Opera award?
 
@@ -59,9 +38,7 @@ Part of MCANA's mission is to foster excellence, which we do both within our org
 
 **Arthur Kaptainis**: I believe strongly that the MCANA award should stress music as an organic element of opera. It is possible to create a reasonably effective stage drama with declamatory vocal lines and generic instrumental support. Opera, however, should be more than this.
 
-<figure data-type="image">
-
-<figpcaption></figcaption>
+<figure data-type="image">{{% md %}}<figpcaption></figcaption>
 </figure>
 
 ## In which cities and companies do you see promising work being done to foster new opera?

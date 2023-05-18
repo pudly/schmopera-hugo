@@ -1,22 +1,18 @@
----
-date: "2018-11-11T17:07:00-05:00"
-discipline: Arielle Doneson
-lastmod: "2018-11-11T17:07:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541973972894/175edit.jpg.jpg
-publishDate: "2018-11-11T17:07:00-05:00"
-related_companies:
-- scene/companies/washington-national-opera.md
-- scene/companies/glimmerglass-festival.md
-- scene/companies/the-juilliard-school.md
-slug: raquel-gonzalez
-social_media:
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/raquel90gonzalez/
-title: Raquel González
-website: http://www.raquelgonzalezsoprano.com/
----
++++
+date = "2018-11-11T17:07:00-05:00"
+discipline = "Arielle Doneson"
+lastmod = "2018-11-11T17:07:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541973972894/175edit.jpg.jpg"
+publishDate = "2018-11-11T17:07:00-05:00"
+related_companies = ["scene/companies/washington-national-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/the-juilliard-school.md"]
+slug = "raquel-gonzalez"
+title = "Raquel González"
+website = "http://www.raquelgonzalezsoprano.com/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/raquel90gonzalez/"
++++
 
 Hailed as a "true artist" (*Opera News*), Soprano Raquel González from Lawrence, Kansas recently completed three seasons as a Domingo-Cafritz Young Artist at Washington National Opera, where she appeared as Cio-Cio San (*Madama Butterfly*), Contessa Almaviva (*Le nozze di Figaro*), Donna Anna (*Don Giovanni*), Micaëla (*Carmen*), and Mimì (*La bohème*). She is a 2019 Sphinx Organization Medal of Excellence Awardee. 
 

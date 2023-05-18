@@ -1,29 +1,22 @@
----
-date: "2016-01-06T11:34:00-05:00"
-discipline: Tenor
-lastmod: "2016-01-06T11:34:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452097918558/2015-01-05---Jay-Hunter-Morris.jpg.jpg
-publishDate: "2016-01-06T11:34:00-05:00"
-related_companies:
-- scene/companies/san-francisco-opera.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/glimmerglass-festival.md
-slug: jay-hunter-morris
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/JayHunterMorrisTenor/?fref=ts
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/JayHunterMorris
-title: Jay Hunter Morris
-website: http://www.jayhuntermorris.com/
----
++++
+date = "2016-01-06T11:34:00-05:00"
+discipline = "Tenor"
+lastmod = "2016-01-06T11:34:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452097918558/2015-01-05---Jay-Hunter-Morris.jpg.jpg"
+publishDate = "2016-01-06T11:34:00-05:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md"]
+slug = "jay-hunter-morris"
+title = "Jay Hunter Morris"
+website = "http://www.jayhuntermorris.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/JayHunterMorrisTenor/?fref=ts"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/JayHunterMorris"
++++
 
 Jay Hunter Morris begins Season 2015-16 at Los Angeles Opera in a revival of one of his most successful roles, Captain Ahab (*Moby-Dick*), in which he appeared in the original production at San Francisco Opera, State Opera of South Australia (for the Adelaide Festival), and at San Diego Opera.  He travels to Opera Philadelphia to revive the role of Teague (*Cold Mountain*) in which he had such success at Santa Fe Opera during the summer.  Houston Grand Opera welcomes Jay again as he returns to sing the role of Siegfried (*Siegfried*), after which he travels to Warsaw to appear in the title role of a new production of *Tristan und Isolde* by Mariusz Trelinsky at Polish National Opera.  He returns to Glimmerglass Festival as its 2016 Artist In Residence and to sing the role of Judge Danforth (*The Crucible*).
 

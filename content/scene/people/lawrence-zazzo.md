@@ -1,23 +1,15 @@
----
-_template: people_single
-date: "2017-05-02T13:09:00-04:00"
-discipline: Countertenor
-lastmod: "2017-05-02T13:09:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744827784/2017-05-02---Zazzo---Justin-Hyer.jpg.jpg
-primary_image_credit: Justin Hyer
-publishDate: "2017-05-02T13:09:00-04:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/english-national-opera.md
-- scene/companies/la-monnaie.md
-- scene/companies/oper-frankfurt.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/classical-opera.md
-slug: lawrence-zazzo
-title: Lawrence Zazzo
-website: http://www.lawrencezazzo.com/
----
++++
+date = "2017-05-02T13:09:00-04:00"
+discipline = "Countertenor"
+lastmod = "2017-05-02T13:09:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493744827784/2017-05-02---Zazzo---Justin-Hyer.jpg.jpg"
+primary_image_credit = "Justin Hyer"
+publishDate = "2017-05-02T13:09:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/english-national-opera.md","scene/companies/la-monnaie.md","scene/companies/oper-frankfurt.md","scene/companies/bayerische-staatsoper.md","scene/companies/classical-opera.md"]
+slug = "lawrence-zazzo"
+title = "Lawrence Zazzo"
+website = "http://www.lawrencezazzo.com/"
++++
 
 Lawrence Zazzo made his operatic debut as Oberon (*A Midsummer Night’s Dream*) to great acclaim while completing his vocal studies at the Royal College of Music in London, and he has subsequently performed the role at Teatro dell’Opera di Roma, Opera de Lyon, Canadian Opera Company and at Festival d’Aix-en-Provence. A diverse and thriving international opera career has taken Zazzo to most of the world’s leading opera houses and festivals appearing as Giulio Cesare at La Monnaie, English National Opera and Opéra national de Paris (released on DVD), as Farnace in Mozart’s *Mitridate, re di Ponto* for Bayerische Staatsoper at the Munich Opera Festival, and he made his Metropolitan Opera debut as Tolomeo (*Giulio Cesare*).
 

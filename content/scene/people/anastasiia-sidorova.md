@@ -1,21 +1,18 @@
----
-date: "2017-09-15T22:29:00-04:00"
-discipline: Mezzo-soprano
-lastmod: "2017-09-15T22:29:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505528829925/IMG_4993-1-e1499171758371-830x958.jpg.jpg
-publishDate: "2017-09-15T22:29:00-04:00"
-related_companies:
-- scene/companies/opera-philadelphia.md
-- scene/companies/curtis-institute-of-music.md
-slug: anastasiia-sidorova
-social_media:
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/anastasiamezzo/
-title: Anastasiia Sidorova
-website: http://anastasiiasidorova.com/
----
++++
+date = "2017-09-15T22:29:00-04:00"
+discipline = "Mezzo-soprano"
+lastmod = "2017-09-15T22:29:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505528829925/IMG_4993-1-e1499171758371-830x958.jpg.jpg"
+publishDate = "2017-09-15T22:29:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/curtis-institute-of-music.md"]
+slug = "anastasiia-sidorova"
+title = "Anastasiia Sidorova"
+website = "http://anastasiiasidorova.com/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/anastasiamezzo/"
++++
 
 Russian mezzo-soprano Anastasiia Sidorova entered the voice department of the prestigious Curtis Institute of Music in 2014 and studies under renowned instructors Mikael Eliasen and Julia Faulkner.
 

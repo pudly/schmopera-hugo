@@ -1,25 +1,18 @@
----
-date: "2015-05-05T18:46:00-06:00"
-discipline: Baritone
-lastmod: "2017-06-16T23:39:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430872618568/MacNeil-IainSquare.jpg.jpg
-publishDate: "2015-05-05T18:52:00-06:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-- scene/companies/university-of-toronto-opera.md
-- scene/companies/saskatoon-opera.md
-- scene/companies/vancouver-opera.md
-- scene/companies/the-banff-centre.md
-slug: iain-macneil
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/iain.macneil.9?fref=ts
-title: Iain MacNeil
-website: http://iainmacneil.com/home/
----
++++
+date = "2015-05-05T18:46:00-06:00"
+discipline = "Baritone"
+lastmod = "2017-06-16T23:39:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430872618568/MacNeil-IainSquare.jpg.jpg"
+publishDate = "2015-05-05T18:52:00-06:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/university-of-toronto-opera.md","scene/companies/saskatoon-opera.md","scene/companies/vancouver-opera.md","scene/companies/the-banff-centre.md"]
+slug = "iain-macneil"
+title = "Iain MacNeil"
+website = "http://iainmacneil.com/home/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/iain.macneil.9?fref=ts"
++++
 
 Canadian baritone Iain MacNeil “is a singer to be reckoned with” (Musical Toronto). He recently made his debut with Vancouver Opera in the title role of The Marriage of Figaro, and in March he was a national semi finalist in the Metropolitan Opera National Council auditions. In February of 2016 Iain sang the title role in the Canadian Opera Company Ensemble Studio performance of The Marriage of Figaro with a “clear and piercing tone” (Schmopera). He debuted the role of Tarquinius with the Banff Centre in July of 2016, and the Calgary Herald wrote: “He had the vocal power to make me feel I was in the presence of a master…His is a voice so sure of itself you can trust it do exactly what it is supposed to do and quite convincingly.” Musical Toronto hailed his May 2016 performance of Canadian composer John Greer’s arrangement of the Songs of Travel for piano Quintet as having “uncommon beauty of tone and heartfelt expression,” as well as having a “virile and smooth baritone.” In May of 2015 he portrayed a “remarkable…totally convincing” (La Scena Musicale) Doctor Bartolo in the COC Ensemble Studio performance of the Barber of Seville. He was a member of the Canadian Opera Company Ensemble Studio from 2014-2016 after studying for a year at the University of Toronto Opera School with Canadian soprano Wendy Nielsen. In the summer of 2013 he participated in the Young Singers Project with the Salzburg Festival, after graduating from Dalhousie University with a Bachelor of Music degree under the tutelage of Canadian mezzo soprano Marcia Swanston. In his February, 2012 performance of the title role in Sweeney Todd, critics said he “…doesn’t miss a beat, and that, as they say, is performance,” (The Chronicle Herald) and “His voice and diction were excellent and he easily portrayed the conflicted anti-hero” (Opera Canada).
 

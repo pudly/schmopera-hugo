@@ -1,20 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-12-06T09:09:00+00:00"
-lastmod: "2016-12-06T12:01:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481020520467/2016-12-6---Tech-Opera.jpg.jpg
-publishDate: "2016-12-06T10:49:00+00:00"
-related_articles:
-- articles/mustsee-mashups-mozart-vs-machine.md
-short_description: The great, classic sci-fi isn&#039;t about aliens or lasers or
-  teleportation; it&#039;s about people and the things we go through in any environment.
-  Similarly, the great, classic operas aren&#039;t about singing for its own sake;
-  they&#039;re about those same people and those same environments.
-slug: opera-and-scifi-the-puritan-intersection
-title: 'Opera and sci-fi: the puritan intersection'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-12-06T09:09:00+00:00"
+lastmod = "2016-12-06T12:01:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481020520467/2016-12-6---Tech-Opera.jpg.jpg"
+publishDate = "2016-12-06T10:49:00+00:00"
+related_articles = ["articles/mustsee-mashups-mozart-vs-machine.md"]
+short_description = "The great, classic sci-fi isn&#039;t about aliens or lasers or teleportation; it&#039;s about people and the things we go through in any environment. Similarly, the great, classic operas aren&#039;t about singing for its own sake; they&#039;re about those same people and those same environments."
+slug = "opera-and-scifi-the-puritan-intersection"
+title = "Opera and sci-fi: the puritan intersection"
++++
 
 Music is a universal storytelling device, and technology is currently at a point where a composer can imagine virtually any sound, and find a way to recreate it. Whenever we go to hear new works - and precisely *because* they're new works - there's often an infusion of technology, or science fiction, or futurism, because those are the kinds of things from which artists now draw inspiration more and more. We've seen operas about meme lovers on a first date, operas about robots, librettos made up of Google search auto-fills; last night, we added to that list a couple of shorts, presented at [Second Movement](https://secondmovement.org.uk/)'s *rough for opera #14*.
 

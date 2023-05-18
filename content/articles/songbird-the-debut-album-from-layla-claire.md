@@ -1,28 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-05-21T15:17:00-04:00"
-lastmod: "2017-05-22T10:00:00-04:00"
-preamble: |-
-  Canadians [Layla Claire](/scene/people/layla-claire/) and Marie-Ève Scarfone are set to release their debut album together, *Songbird*. It's a broad-reaching collection of songs, beautiful picks by Wolf, Debussy, Brahms, Argento, Britten, and plenty more. The album is officially released on [ATMA Classique](https://www.atmaclassique.com/en/albums/albuminfo.aspx?albumid=1586) on **June 2, 2017**, but Canadians are in luck: *Songbird* is available for free [streaming on CBC](http://www.cbcmusic.ca/first-plays/335/layla-claire-songbird-marie-eve-scarfone-cbc-music) until May 26.
-
-  We spoke with Claire about recording her first album, choosing "songs that we loved", and the artist's responsibility to "cut through the noise" in tough times.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495394636529/2017-05-21---Layla-Claire.jpg.jpg
-primary_image_credit: 'Photo: Sian Richards'
-publishDate: "2017-05-22T10:00:00-04:00"
-related_articles:
-- articles/talking-with-singers-kate-lindsey.md
-related_people:
-- scene/people/layla-claire.md
-short_description: '&quot;Because this was our own love project we were really free
-  to change repertoire as we went. Marie-Eve and I started with a list of songs but
-  during the rehearsal process we let some fall away and added others organically.
-  We were after a cohesive sound garden — songs that we loved and thought worked well
-  together, rather than a collection built around a specific theme.&quot;'
-slug: songbird-the-debut-album-from-layla-claire
-title: 'Songbird: the debut album from Layla Claire'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-05-21T15:17:00-04:00"
+lastmod = "2017-05-22T10:00:00-04:00"
+preamble = "Canadians [Layla Claire](/scene/people/layla-claire/) and Marie-Ève Scarfone are set to release their debut album together, *Songbird*. It's a broad-reaching collection of songs, beautiful picks by Wolf, Debussy, Brahms, Argento, Britten, and plenty more. The album is officially released on [ATMA Classique](https://www.atmaclassique.com/en/albums/albuminfo.aspx?albumid=1586) on **June 2, 2017**, but Canadians are in luck: *Songbird* is available for free [streaming on CBC](http://www.cbcmusic.ca/first-plays/335/layla-claire-songbird-marie-eve-scarfone-cbc-music) until May 26.\n\nWe spoke with Claire about recording her first album, choosing \"songs that we loved\", and the artist's responsibility to \"cut through the noise\" in tough times."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495394636529/2017-05-21---Layla-Claire.jpg.jpg"
+primary_image_credit = "Photo: Sian Richards"
+publishDate = "2017-05-22T10:00:00-04:00"
+related_articles = ["articles/talking-with-singers-kate-lindsey.md"]
+related_people = ["scene/people/layla-claire.md"]
+short_description = "&quot;Because this was our own love project we were really free to change repertoire as we went. Marie-Eve and I started with a list of songs but during the rehearsal process we let some fall away and added others organically. We were after a cohesive sound garden — songs that we loved and thought worked well together, rather than a collection built around a specific theme.&quot;"
+slug = "songbird-the-debut-album-from-layla-claire"
+title = "Songbird: the debut album from Layla Claire"
++++
 
 ## How did you choose the songs for your first album? What do you think they have in common?
 

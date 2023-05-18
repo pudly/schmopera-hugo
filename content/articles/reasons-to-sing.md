@@ -1,26 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2020-05-20T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1590018096/media/2020/05/sqWhySing_luq6wl.jpg
-primary_image_credit: ""
-related_articles: []
-related_companies: []
-related_people: []
-short_description: 'But now, that last card has been revoked. Live isn''t currently
-  an option, which means neither is an acoustic sound experience. Opera companies
-  are being generous (perhaps too generous?) with their online offerings, but none
-  of it includes that singular experience of hearing an unamplified voice carrying
-  over an unamplified orchestra. '
-slug: without-the-acoustic-thrill-why-are-we-still-singing
-title: Without the acoustic thrill, why are we still singing?
-youtube_url: ""
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = 2020-05-20T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1590018096/media/2020/05/sqWhySing_luq6wl.jpg"
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "But now, that last card has been revoked. Live isn't currently an option, which means neither is an acoustic sound experience. Opera companies are being generous (perhaps too generous?) with their online offerings, but none of it includes that singular experience of hearing an unamplified voice carrying over an unamplified orchestra. "
+slug = "without-the-acoustic-thrill-why-are-we-still-singing"
+title = "Without the acoustic thrill, why are we still singing?"
+youtube_url = ""
+
++++
 About once every thirty-six hours, I wonder randomly about opera. Will we ever see a live _Ring Cycle_ again? Will that big _Parsifal_ that the COC is supposed to do in the fall actually happen (that's a selfish one, I admit, because I'm seriously in the mood for an opera marathon)? How long does the average singer have before the lack of gigs ousts them from the industry?
 
 I'm not sure if it's a good use of energy to unpack all these what-if questions. These days, we're all wondering very aggressively about our respective futures, and the infuriating thing is that the answer hasn't really changed from any other time we wondered about days to come - we don't know!

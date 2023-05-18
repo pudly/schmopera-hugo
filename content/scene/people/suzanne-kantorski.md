@@ -1,21 +1,21 @@
----
-date: "2017-12-18T10:45:00-05:00"
-discipline: Soprano
-lastmod: "2017-12-18T10:45:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513611809896/image1.jpeg.jpeg
-publishDate: "2017-12-18T10:45:00-05:00"
-slug: suzanne-kantorski
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/LaKantorska/?ref=hl
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/LaKantorska
-title: Suzanne Kantorski
-website: http://www.suzannekantorski.com/
----
++++
+date = "2017-12-18T10:45:00-05:00"
+discipline = "Soprano"
+lastmod = "2017-12-18T10:45:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513611809896/image1.jpeg.jpeg"
+publishDate = "2017-12-18T10:45:00-05:00"
+slug = "suzanne-kantorski"
+title = "Suzanne Kantorski"
+website = "http://www.suzannekantorski.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/LaKantorska/?ref=hl"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/LaKantorska"
++++
 
 Suzanne Kantorski is one of the most exciting, and versatile vocal performing artists today. She has earned a solid reputation as a sensitive, and heart-rending interpreter of New Music, Contemporary Classical, rare concert works, and Jazz. She has also appeared in leading operatic roles, as a concert soloist with notable companies worldwide… but prefers to work with living composers.
 

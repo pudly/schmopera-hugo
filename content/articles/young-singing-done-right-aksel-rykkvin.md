@@ -1,23 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2016-07-26T12:42:00-04:00"
-lastmod: "2016-07-28T07:13:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469703833842/2016-07-28---Aksel.jpg.jpg
-publishDate: "2016-07-28T07:04:00-04:00"
-related_articles:
-- articles/baby-opera-singers-getting-angry-for-the-right-reasons.md
-- articles/young-pups-and-puccini.md
-- articles/childfree-opera-singers-happiness.md
-short_description: It&#039;s entirely refreshing to hear 13-year old Aksel Rykkvin,
-  Norwegian boy soprano. With early classical training, Rykkvin has already appeared
-  with Norwegian National Opera; now, he has released an album of arias by Mozart,
-  Handel and Bach, with the Orchestra of the Age of Enlightenment under conductor
-  Nigel Short.
-slug: young-singing-done-right-aksel-rykkvin
-title: 'Young singing done right: Aksel Rykkvin'
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2016-07-26T12:42:00-04:00"
+lastmod = "2016-07-28T07:13:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469703833842/2016-07-28---Aksel.jpg.jpg"
+publishDate = "2016-07-28T07:04:00-04:00"
+related_articles = ["articles/baby-opera-singers-getting-angry-for-the-right-reasons.md","articles/young-pups-and-puccini.md","articles/childfree-opera-singers-happiness.md"]
+short_description = "It&#039;s entirely refreshing to hear 13-year old Aksel Rykkvin, Norwegian boy soprano. With early classical training, Rykkvin has already appeared with Norwegian National Opera; now, he has released an album of arias by Mozart, Handel and Bach, with the Orchestra of the Age of Enlightenment under conductor Nigel Short."
+slug = "young-singing-done-right-aksel-rykkvin"
+title = "Young singing done right: Aksel Rykkvin"
++++
 
 We've written [quite a lot about child singers](/baby-opera-singers-getting-angry-for-the-right-reasons/), and the odd combination of talented kids and big-budget TV talent shows.
 

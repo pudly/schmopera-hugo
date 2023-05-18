@@ -1,41 +1,27 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2019-05-28T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: Purcell's [_Dido & Aeneas_](https://www.deathofclassical.com/angelshare/purcell-dido-and-aeneas),
-  directed by Alek Shrader, runs June 5-8 in the Catacombs of the Green-Wood Cemetery.
-preamble: |-
-  If you know of [Alek Shrader](/scene/people/alek-shrader/), you know he's an in-demand tenor known for his singing of Rossini, Mozart, and Handel. Of late, Shrader has also turned to directing opera, and his latest project is Purcell's [_Dido & Aeneas_](https://www.deathofclassical.com/angelshare/purcell-dido-and-aeneas), presented by Death of Classical in the Catacombs of Brooklyn's Green-Wood Cemetery.
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2019-05-28T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = "Purcell's [_Dido & Aeneas_](https://www.deathofclassical.com/angelshare/purcell-dido-and-aeneas), directed by Alek Shrader, runs June 5-8 in the Catacombs of the Green-Wood Cemetery."
+preamble = "If you know of [Alek Shrader](/scene/people/alek-shrader/), you know he's an in-demand tenor known for his singing of Rossini, Mozart, and Handel. Of late, Shrader has also turned to directing opera, and his latest project is Purcell's [_Dido & Aeneas_](https://www.deathofclassical.com/angelshare/purcell-dido-and-aeneas), presented by Death of Classical in the Catacombs of Brooklyn's Green-Wood Cemetery.\n\nThe production, starring [Daniela Mack](/talking-with-singers-daniela-mack/) as Dido, includes a pre-show whiskey tasting and a twilight walk through the Catacombs.\n\nWe spoke with Shrader about why he's gotten into directing, and his unique take on Purcell's opera that includes the complementary play by Christopher Marlowe."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1559067336/media/2019/05/sqTheAngelsShareDidoAeneas-pc-KevinCondon.jpg"
+primary_image_credit = "Dido & Aeneas, Death of Classical, 2019. Photo: Kevin Condon."
+related_articles = ["articles/talking-with-singers-daniela-mack.md"]
+related_companies = []
+related_people = ["scene/people/daniela-mack.md", "scene/people/alek-shrader.md"]
+short_description = "\"Tina Fey said 'If you want to be a screenwriter, take an acting class to get a sense of what you’re asking actors to do.' It's another perfect quote from one of my writing idols, and my performance experience definitely informs hypothetical staging.\""
+slug = "alek-shrader-on-directing-dido-ideas-assail-me"
+title = "Alek Shrader on directing Dido: \"Ideas assail me.\""
+youtube_url = ""
 
-  The production, starring [Daniela Mack](/talking-with-singers-daniela-mack/) as Dido, includes a pre-show whiskey tasting and a twilight walk through the Catacombs.
-
-  We spoke with Shrader about why he's gotten into directing, and his unique take on Purcell's opera that includes the complementary play by Christopher Marlowe.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1559067336/media/2019/05/sqTheAngelsShareDidoAeneas-pc-KevinCondon.jpg
-primary_image_credit: 'Dido & Aeneas, Death of Classical, 2019. Photo: Kevin Condon.'
-related_articles:
-- articles/talking-with-singers-daniela-mack.md
-related_companies: []
-related_people:
-- scene/people/daniela-mack.md
-- scene/people/alek-shrader.md
-short_description: '"Tina Fey said ''If you want to be a screenwriter, take an acting
-  class to get a sense of what you’re asking actors to do.'' It''s another perfect
-  quote from one of my writing idols, and my performance experience definitely informs
-  hypothetical staging."'
-slug: alek-shrader-on-directing-dido-ideas-assail-me
-title: 'Alek Shrader on directing Dido: "Ideas assail me."'
-youtube_url: ""
----
++++
 ## What inspired your move into directing opera?
 
 I couldn't stop thinking. Ideas assail me, especially at inopportune times. Eventually I just needed to release something from my notebooks and my brain. We'll see if it works. I want to tell stories. If that means performing, directing, writing, or producing, I'm ready.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1559067416/media/2019/05/AlekShrader-pc-PeterSchaaf.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559067416/media/2019/05/AlekShrader-pc-PeterSchaaf.jpg){{% /md %}}
 
 <figcaption>Alek Shrader, tenor and director of Dido & Aeneas, Death of Classical, 2019. Photo: Peter Schaaf.</figcaption>  
 </figure>
@@ -70,9 +56,7 @@ That's how I read it, anyway. There's still a cautionary aspect here. Dido never
 
 So, what I see here is that when the conflict is such that lives are at stake, we know that someone will die (maybe even dying already)... Will we be sacrificed or will we fight?
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1559067468/media/2019/05/TheAngelsShare-DidoAeneas-pc-KevinCondon.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559067468/media/2019/05/TheAngelsShare-DidoAeneas-pc-KevinCondon.jpg){{% /md %}}
 
 <figcaption>Dido & Aeneas, Death of Classical, 2019. Photo: Kevin Condon.</figcaption>  
 </figure>

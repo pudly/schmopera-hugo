@@ -1,18 +1,17 @@
----
-date: "2015-06-05T16:15:00-04:00"
-discipline: Conductor
-lastmod: "2015-06-05T16:15:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433535149199/1746750_orig.jpg.jpg
-publishDate: "2015-06-05T16:15:00-04:00"
-slug: lidiya-yankovskaya
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/lidiyaconductor
-title: Lidiya Yankovskaya
-website: http://www.lidiyayankovskaya.com/
----
++++
+date = "2015-06-05T16:15:00-04:00"
+discipline = "Conductor"
+lastmod = "2015-06-05T16:15:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433535149199/1746750_orig.jpg.jpg"
+publishDate = "2015-06-05T16:15:00-04:00"
+slug = "lidiya-yankovskaya"
+title = "Lidiya Yankovskaya"
+website = "http://www.lidiyayankovskaya.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/lidiyaconductor"
++++
 
 Lidiya Yankovskaya's recent work as a symphonic and opera conductor has been hailed as “superb,” “expert,” and “coax[ing] every possible expressive note from the instrumentalists.”  Currently, Lidiya serves as Music Director of Harvard University’s Lowell House Opera, Artistic Director of Juventas New Music Ensemble (a professional instrumental ensemble based in Boston), Music Director with Commonwealth Lyric Theater (where she has worked with top artists from the Met Opera, Bolshoi Theater, La Scala, etc.), and also works regularly with Gotham Chamber Opera, Center for Contemporary Opera, and New York Lyric Opera in NYC.  Last summer, Lidiya also served as a Conducting Fellow under renowned conductor Lorin Maazel at the Castleton Festival, where she had the privilege of assisting Maestro Maazel and filled in for him in rehearsal and performance.  This season, Lidiya will also serve as Music Director on productions with  Metro West Opera and New York Lyric Opera, and as Chorus Master/Rehearsal Pianist/Orchestra Rehearsal Conductor for Boston Youth Symphony Orchestra's production of Verdi's *Un Ballo in Maschera*.   Other notable recent work includes productions with Hubbard Hall Opera Theater, coaching Russian and conducting rehearsals with Tanglewood Festival Chorus (the chorus of the Boston Symphony) and serving as Assistant Conductor/Chorus Master with Opera Boston.   
 

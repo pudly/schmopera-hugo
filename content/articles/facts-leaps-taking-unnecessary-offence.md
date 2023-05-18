@@ -1,26 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2017-10-31T17:59:00-04:00"
-lastmod: "2017-11-01T14:34:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509490092715/2017-10-31---square---1565-rene-fleming-as-the-marschallin-sophie-bevan-as-sophie-von-faninal-c-roh.-photo-catherine-ashmore.jpg.jpg
-primary_image_credit: 'Renée Fleming as the Marschallin and Sophie Bevan as Sophie
-  in Der Rosenkavalier, ROH, 2017. Photo: Catherine Ashmore.'
-publishDate: "2017-11-01T14:34:00-04:00"
-related_articles:
-- articles/no-opera-is-not-misogynist.md
-- articles/in-review-der-rosenkavalier-at-roh.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/royal-opera-house.md
-short_description: Moreso than a healthy sex life, is it not also empowering for an
-  older woman to have agency of her own? To make her own decisions? Maybe Octavian
-  can sleep with anyone, but for now he&#039;s sleeping with her. Not once does the
-  Marschallin confuse what she has with Octavian with true love.
-slug: facts-leaps-taking-unnecessary-offence
-title: Facts, leaps &amp; taking unnecessary offence
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2017-10-31T17:59:00-04:00"
+lastmod = "2017-11-01T14:34:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509490092715/2017-10-31---square---1565-rene-fleming-as-the-marschallin-sophie-bevan-as-sophie-von-faninal-c-roh.-photo-catherine-ashmore.jpg.jpg"
+primary_image_credit = "Renée Fleming as the Marschallin and Sophie Bevan as Sophie in Der Rosenkavalier, ROH, 2017. Photo: Catherine Ashmore."
+publishDate = "2017-11-01T14:34:00-04:00"
+related_articles = ["articles/no-opera-is-not-misogynist.md","articles/in-review-der-rosenkavalier-at-roh.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md"]
+short_description = "Moreso than a healthy sex life, is it not also empowering for an older woman to have agency of her own? To make her own decisions? Maybe Octavian can sleep with anyone, but for now he&#039;s sleeping with her. Not once does the Marschallin confuse what she has with Octavian with true love."
+slug = "facts-leaps-taking-unnecessary-offence"
+title = "Facts, leaps &amp; taking unnecessary offence"
++++
 
 In what's arguably already one of the biggest news weeks of 2017, Martha C. Nussbaum's *New York Times* article about Strauss' *Der Rosenkavalier*, ["Sex, Love and the Aging Woman"](https://www.nytimes.com/2017/10/30/opinion/sex-love-aging-woman.html) stood out. Frankly, it had me a bit irked. She points to "three lies" told by Strauss and librettist Hofmannsthal in their 1910 story about a Viennese woman and her younger lover:
 

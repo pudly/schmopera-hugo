@@ -1,28 +1,17 @@
----
-author:
-- authors/greg.md
-categories: Review
-date: "2016-10-21T21:10:00+01:00"
-lastmod: "2016-10-25T18:58:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477087752506/2016-10-22---Square---161018_40985.jpg.jpg
-primary_image_credit: Christopher Enns (back), Meghan Lindsay and Wallis Giunta in
-  Opera Atelier's Dido and Aeneas, 2016. Photo by Bruce Zinger.
-publishDate: "2016-10-21T23:51:00+01:00"
-related_companies:
-- scene/companies/opera-atelier.md
-related_people:
-- scene/people/wallis-giunta.md
-- scene/people/meghan-lindsay.md
-- scene/people/christopher-enns.md
-short_description: 'Speaking of the Ballet, this is some of the most athletic dancing
-  I&#039;ve seen them do yet. An actor friend of mine once described period dancing
-  as &quot;just fancy walking&quot;. This is proof of the opposite. The lines, shapes
-  and footwork were energetic, clean, and emotionally executed. For once I found the
-  ladies large skirts accented and enhanced their choreography, rather than getting
-  the way of me enjoying their fancy footwork. '
-slug: in-review-dido-and-aeneas
-title: 'In review: Dido and Aeneas'
----
++++
+author = ["authors/greg.md"]
+categories = "Review"
+date = "2016-10-21T21:10:00+01:00"
+lastmod = "2016-10-25T18:58:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477087752506/2016-10-22---Square---161018_40985.jpg.jpg"
+primary_image_credit = "Christopher Enns (back), Meghan Lindsay and Wallis Giunta in Opera Atelier's Dido and Aeneas, 2016. Photo by Bruce Zinger."
+publishDate = "2016-10-21T23:51:00+01:00"
+related_companies = ["scene/companies/opera-atelier.md"]
+related_people = ["scene/people/wallis-giunta.md","scene/people/meghan-lindsay.md","scene/people/christopher-enns.md"]
+short_description = "Speaking of the Ballet, this is some of the most athletic dancing I&#039;ve seen them do yet. An actor friend of mine once described period dancing as &quot;just fancy walking&quot;. This is proof of the opposite. The lines, shapes and footwork were energetic, clean, and emotionally executed. For once I found the ladies large skirts accented and enhanced their choreography, rather than getting the way of me enjoying their fancy footwork. "
+slug = "in-review-dido-and-aeneas"
+title = "In review: Dido and Aeneas"
++++
 
 Hi, Schmop-Tops!
 
@@ -30,9 +19,7 @@ There's something about seeing Baroque opera at the Elgin Theatre that is just s
 
 That's exactly what Opera Atelier do with their productions, and this season's opener, Purcell's [*Dido and Aeneas*](http://operaatelier.com/season/16-17-season/dido-and-aeneas/), is no exception. #OADido was a treat for the senses and, I felt, a bit of a departure from what you expect at an OA show. Yes, there were the delightful period costumes, fit dancers and singers in various states of undress, and the standard staging conventions we're used to, but there was a freneticism and a vitality in this production I hadn't really felt from this company in the past. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477089299462/2016-10-22---161018_40377.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477089299462/2016-10-22---161018_40377.jpg.jpg)
 <figcaption>Ellen McAteer (left), Laura Pudwell (centre), and Karine White (far right) with artists of Atelier Ballet in Opera Atelier's *Dido and Aeneas*, 2016. Photo by Bruce Zinger.</figcaption>
 </figure>
 
@@ -40,9 +27,7 @@ To flesh out the rather short-ish score of Purcell's masterwork, the OA team ins
 
 Introducing the show - with help from the Opera Atelier Ballet, and the show's stars [Wallis Giunta](/talking-with-singers-wallis-giunta/) and [Christopher Enns](/scene/people/christopher-enns/) - was a prologue in Virgil's own words, performed by actress Irene Poole. She able portrayed several of the gods/goddesses expressing their views on what's taking place with the queen of Carthage. Her booming voice and control of dynamics were marvellous. Captivating and mystifying I could have watched her all night.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477089367689/2016-10-22---161018_40747.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477089367689/2016-10-22---161018_40747.jpg.jpg)
 <figcaption>Wallis Giunta and Christopher Enns in Opera Atelier's *Dido and Aeneas*, 2016. Photo by Bruce Zinger.</figcaption>
 </figure>
 
@@ -52,9 +37,7 @@ As the future founder of Rome, Aeneas, tenor [Christopher Enns](/chris-enns-rags
 
 As Belinda, Dido's faithful handmaiden, soprano [Meghan Lindsay](/spotlight-on-meghan-lindsay/) brings her characteristic twinkly voice to the spritely melisma Purcell set out of her. She was so appealing in this role. There was a youthful vitality in her demeanour and voice that made Belinda one of the most lovable characters on the stage. I think the earlier the music Lindsay sings, the more we really get to see the beauty of her instrument shine. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477089404376/2016-10-22---161018_40566.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477089404376/2016-10-22---161018_40566.jpg.jpg)
 <figcaption>Laura Pudwell, Christopher Enns, Ellen McAteer and Karine White in Opera Atelier's *Dido and Aeneas*, 2016. Photo by Bruce Zinger.</figcaption>
 </figure>
 

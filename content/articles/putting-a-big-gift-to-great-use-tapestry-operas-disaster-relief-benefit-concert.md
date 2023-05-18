@@ -1,28 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2017-10-20T19:04:00-04:00"
-lastmod: "2017-10-21T21:02:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508541551043/2017-10-20---Distillery.jpg.jpg
-publishDate: "2017-10-21T20:53:00-04:00"
-related_companies:
-- scene/companies/tapestry-opera.md
-related_people:
-- scene/people/simone-osborne.md
-- scene/people/asitha-tennekoon.md
-- scene/people/erica-iris.md
-- scene/people/keith-klassen.md
-- scene/people/alexander-hajek.md
-short_description: The first of the two concerts starts at 7pm, featuring operatic
-  and musical theatre offerings from the likes of Simone Osborne, Erica Iris Huang,
-  Asitha Tennekoon, Keith Klassen, and Alexander Hajek. Tickets are $30. At 10pm the
-  Bösendorfer gets a workout, with performances by jazz pianist Robi Botos and concert
-  virtuoso Younggun Kim. Tickets are also $30.
-slug: putting-a-big-gift-to-great-use-tapestry-operas-disaster-relief-benefit-concert
-title: 'Putting a big gift to great use: Tapestry Opera&#039;s Disaster Relief Benefit
-  concert'
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2017-10-20T19:04:00-04:00"
+lastmod = "2017-10-21T21:02:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508541551043/2017-10-20---Distillery.jpg.jpg"
+publishDate = "2017-10-21T20:53:00-04:00"
+related_companies = ["scene/companies/tapestry-opera.md"]
+related_people = ["scene/people/simone-osborne.md","scene/people/asitha-tennekoon.md","scene/people/erica-iris.md","scene/people/keith-klassen.md","scene/people/alexander-hajek.md"]
+short_description = "The first of the two concerts starts at 7pm, featuring operatic and musical theatre offerings from the likes of Simone Osborne, Erica Iris Huang, Asitha Tennekoon, Keith Klassen, and Alexander Hajek. Tickets are $30. At 10pm the Bösendorfer gets a workout, with performances by jazz pianist Robi Botos and concert virtuoso Younggun Kim. Tickets are also $30."
+slug = "putting-a-big-gift-to-great-use-tapestry-operas-disaster-relief-benefit-concert"
+title = "Putting a big gift to great use: Tapestry Opera&#039;s Disaster Relief Benefit concert"
++++
 
 This coming Wednesday, **October 25**, Tapestry Opera presents two concerts in one night, both sending proceeds towards the disaster relief efforts in Puerto Rico, Dominica, Mexico, and India, and the work being done by Medecins san Frontieres and Global Medic.
 

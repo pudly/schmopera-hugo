@@ -1,21 +1,21 @@
----
-date: "2016-03-22T13:23:00+00:00"
-discipline: Mezzo-soprano, actor, broadcaster
-lastmod: "2016-03-22T13:26:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458653171480/2016-03-22---Julie-Nesrallah.jpg.jpg
-publishDate: "2016-03-22T13:26:00+00:00"
-slug: julie-nesrallah
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/CBCTempo
-- _template: people_single
-  platform: Soundcloud
-  template: social-media
-  url: https://soundcloud.com/julienesrallah
-title: Julie Nesrallah
-website: http://www.julienesrallah.com/
----
++++
+date = "2016-03-22T13:23:00+00:00"
+discipline = "Mezzo-soprano, actor, broadcaster"
+lastmod = "2016-03-22T13:26:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458653171480/2016-03-22---Julie-Nesrallah.jpg.jpg"
+publishDate = "2016-03-22T13:26:00+00:00"
+slug = "julie-nesrallah"
+title = "Julie Nesrallah"
+website = "http://www.julienesrallah.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/CBCTempo"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "https://soundcloud.com/julienesrallah"
++++
 
 Mezzo-soprano, Julie Nesrallah is a singer, actress and broadcaster who dazzles audiences with her engaging personality, and her rich and deeply expressive voice. Miss Nesrallah is regularly engaged by leading opera companies, symphonies, festivals and chamber music ensembles across North America and around the world.
 

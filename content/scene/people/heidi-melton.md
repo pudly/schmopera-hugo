@@ -1,25 +1,19 @@
----
-date: "2015-04-07T18:20:00-04:00"
-discipline: Soprano
-lastmod: "2015-04-07T18:20:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445126285/Heidi-Melton.jpg.jpg
-primary_image_credit: Simon Pauly
-publishDate: "2015-04-07T18:20:00-04:00"
-related_companies:
-- scene/companies/san-francisco-opera.md
-- scene/companies/merola-opera-program.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/deutsche-oper-berlin.md
-slug: heidi-melton
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/hojotoheidi
-title: Heidi Melton
-website: http://www.heidimeltonsoprano.com/
----
++++
+date = "2015-04-07T18:20:00-04:00"
+discipline = "Soprano"
+lastmod = "2015-04-07T18:20:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445126285/Heidi-Melton.jpg.jpg"
+primary_image_credit = "Simon Pauly"
+publishDate = "2015-04-07T18:20:00-04:00"
+related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/deutsche-oper-berlin.md"]
+slug = "heidi-melton"
+title = "Heidi Melton"
+website = "http://www.heidimeltonsoprano.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/hojotoheidi"
++++
 
 <p>
 	The young American dramatic soprano Heidi Melton has been called <em>"the Wagnerian voice we have been waiting for since Flagstad and Nilsson"</em><strong> (La Presse)</strong>, a voice that is <em>"big, gleaming and tonally resplendent"</em> <strong>(San Francisco Chronicle)</strong>.

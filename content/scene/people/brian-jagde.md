@@ -1,38 +1,32 @@
----
-date: "2016-10-26T19:29:00+01:00"
-discipline: Tenor
-lastmod: "2016-10-26T19:30:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477506635378/2016-10-26---Brian-Jagde---Simon-Pauly.jpg.jpg
-primary_image_credit: Simon Pauly
-publishDate: "2016-10-26T19:30:00+01:00"
-related_companies:
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/palm-beach-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/minnesota-opera.md
-- scene/companies/royal-opera-house.md
-slug: brian-jagde
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/brianjagdetenor
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/brianjagde?lang=en
-- platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/BrianJagde
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/brianjagdetenor/
-title: Brian Jagde
-website: http://brianjagde.com/
----
++++
+date = "2016-10-26T19:29:00+01:00"
+discipline = "Tenor"
+lastmod = "2016-10-26T19:30:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477506635378/2016-10-26---Brian-Jagde---Simon-Pauly.jpg.jpg"
+primary_image_credit = "Simon Pauly"
+publishDate = "2016-10-26T19:30:00+01:00"
+related_companies = ["scene/companies/lyric-opera-of-chicago.md", "scene/companies/san-francisco-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/palm-beach-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/minnesota-opera.md", "scene/companies/royal-opera-house.md"]
+slug = "brian-jagde"
+title = "Brian Jagde"
+website = "http://brianjagde.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/brianjagdetenor"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/brianjagde?lang=en"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/BrianJagde"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/brianjagdetenor/"
+
++++
 ### Heralded internationally as an artist with “a remarkable future” (Opera World), American tenor Brian Jagde brings his dynamic vocalism and captivating stage presence to several of opera’s most iconic roles in the 2019/20 season.
 
 In September, he makes his first appearance at the Dutch National Opera as Turiddu in a new Robert Carsen production of Mascagni’s _Cavalleria rusticana_. He then returns to San Francisco Opera for his fifth role debut of 2019, singing Des Grieux in Puccini’s _Manon Lescaut_. He reprises the role in a return to the Deutsche Oper Berlin in December.

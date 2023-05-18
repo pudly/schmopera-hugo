@@ -1,19 +1,14 @@
----
-_template: people_single
-date: "2017-12-19T18:44:00-05:00"
-discipline: Tenor
-lastmod: "2017-12-19T18:44:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513726820189/img_5476_4x3_g-12.jpg.jpg
-publishDate: "2017-12-19T18:44:00-05:00"
-related_companies:
-- scene/companies/vlaamse-opera.md
-- scene/companies/opra-national-de-paris.md
-- scene/companies/salzburg-festival.md
-- scene/companies/minnesota-opera.md
-slug: julien-behr
-title: Julien Behr
-website: http://www.julienbehr.com/
----
++++
+date = "2017-12-19T18:44:00-05:00"
+discipline = "Tenor"
+lastmod = "2017-12-19T18:44:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513726820189/img_5476_4x3_g-12.jpg.jpg"
+publishDate = "2017-12-19T18:44:00-05:00"
+related_companies = ["scene/companies/vlaamse-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/salzburg-festival.md","scene/companies/minnesota-opera.md"]
+slug = "julien-behr"
+title = "Julien Behr"
+website = "http://www.julienbehr.com/"
++++
 
 Julien Behr was born in Lyon. He was awarded the "singers' revelation of the year" in 2009 by the French musicians' association ADAMI and was among the 3 nominees in the category "singer's revelation of the year" at the Victoires de la musique classique in 2013. He entered the Boys' Choir of the Lyon Cathedral when he was six. He graduated from Lyon University with a Master degree in business law. He however abandoned his plans to become a lawyer in order to devote himself completely to music. In 2010, he graduated from his vocal studies at the Conservatoire National Supérieur de Musique in Lyon.
 

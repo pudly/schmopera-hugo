@@ -1,14 +1,13 @@
----
-_template: people_single
-date: "2017-05-07T17:10:00-04:00"
-discipline: Soprano
-lastmod: "2017-05-07T17:49:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494191439723/2017-05-08---Karita-Mattila-Marica-Rosengard.jpg.jpg
-primary_image_credit: Marica Rosengard
-publishDate: "2017-05-07T17:49:00-04:00"
-slug: karita-mattila
-title: Karita Mattila
----
++++
+date = "2017-05-07T17:10:00-04:00"
+discipline = "Soprano"
+lastmod = "2017-05-07T17:49:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494191439723/2017-05-08---Karita-Mattila-Marica-Rosengard.jpg.jpg"
+primary_image_credit = "Marica Rosengard"
+publishDate = "2017-05-07T17:49:00-04:00"
+slug = "karita-mattila"
+title = "Karita Mattila"
++++
 
 The lyric beauty of her singing and innate sense of theatre have set Karita Mattila apart as one of the most sought-after dramatic sopranos in the world today.
 

@@ -1,33 +1,29 @@
----
-discipline: Tenor
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1677439119/media/2023/02/Spencer-Britten_zx53ze.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/lyric-opera-of-kansas-city.md
-- scene/companies/opera-atelier.md
-- scene/companies/edmonton-opera.md
-- scene/companies/glimmerglass-festival.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/vancouver-opera.md
-- scene/companies/against-the-grain-theatre.md
-slug: spencer-britten
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/spencerbritten
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/spencerbritten/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/spencerbritten
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/SpencerMattB
-title: Spencer Britten
-website: https://www.spencerbritten.com/
----
++++
+discipline = "Tenor"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1677439119/media/2023/02/Spencer-Britten_zx53ze.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/opera-atelier.md", "scene/companies/edmonton-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/staatsoper-berlin.md", "scene/companies/vancouver-opera.md", "scene/companies/against-the-grain-theatre.md"]
+slug = "spencer-britten"
+title = "Spencer Britten"
+website = "https://www.spencerbritten.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/spencerbritten"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/spencerbritten/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/spencerbritten"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/SpencerMattB"
+
++++
 Triple threat Canadian tenor Spencer Britten has been praised for having “the poise and confidence of a seasoned professional” (_Bachtrack_) and boasting a “full voice and ringing tone” (_La Scena Musicale_). Britten recently completed his second season as a member of the International Opera Studio at Staatsoper Unter den Linden in Berlin, where he portrayed the roles of Janke Prus in a new production of _The Makropulos Affair,_ Erste Priester in _Die Zauberflöte,_ Haushofmeister bei Faninal in _Der Rosenkavalier_, Silango in _Le Cinesi_, Kalil in _Die Arabische Nacht,_ Postillione in _La Fanciulla del West_, Offizier in _Ariadne auf Naxos,_ and Borsa in _Rigoletto_. He also recently made his house and role debut at the Bregenzer Festspiele in Austria, singing the role of Lindoro in _L’Italiana in Algeri_.
 
 Britten’s 2022-23 season opens with the role of Chung Saihin in the world premiere of _Chinatown_, a new opera from composer Alice Ping Yee Ho, at the Vancouver Playhouse, followed by the role of Sailor in Opera Atelier’s _Dido and Aeneas_. He then sings as a soloist in Handel’s _Messiah_ with the Orchestre Symphonique de Trois Rivières and in a holiday concert with the Edmonton Opera, sings the role of Lysander in Vancouver Opera’s production of _A Midsummer Night’s Dream_, and appears as a soloist in Mozart’s _Requiem_ with the Virginia Symphony Orchestra, Georg Muffat’s _Missa in labore requies_ with the Philharmonia Baroque, and Orff’s _Carmina Burana_ with the Orchestra Classique de Montréal.

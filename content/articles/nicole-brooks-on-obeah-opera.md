@@ -1,38 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2014-09-09T15:00:00-04:00"
-lastmod: "2015-04-27T18:00:00-04:00"
-preamble: This weekend Nightwood Theatre presents the [New Groundswell Festival](http://www.nightwoodtheatre.net/index.php/whats_on/groundswell_festival#tab1),
-  presenting new works of theatre through workshop productions and a series of play
-  readings. One of the pieces being workshopped is _Obeah Opera_, created by [Nicole
-  Brooks](http://caribbeantales-events.com/?page_id=6419) and directed by [Weyni Mengesha](http://weynimengesha.com/)
-  (_'Da Kink in my Hair_, _Raisin in the Sun_). Nicole is something of an artistic
-  Renaissance woman, with credits as a filmmaker, playwright and director, and she'll
-  appear in _Obeah Opera_ as Tituba. "_Obeah Opera_ synthesizes the breadth of Black
-  music into an unprecedented a capella theatrical epic. An all-female cast animates
-  the story of the legendary Salem Witch Trials, from the unique perspective of enslaved
-  African women." I asked Nicole about creating _Obeah Opera_, and using music to
-  tell us a new story; she responded beautifully, and I'm looking forward to seeing
-  it. Performances run September 11-14th in the Distillery District; for more details
-  and ticket info, [click here](http://www.nightwoodtheatre.net/index.php/whats_on/groundswell_festival#tab2).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429212255394/Nicole%20Brooks.jpg.jpg
-publishDate: "2014-09-09T15:00:00-04:00"
-related_articles:
-- articles/in-review-obeah-opera.md
-- articles/dont-miss-anthropologies-imaginaires.md
-related_people:
-- scene/people/alison-wong.md
-short_description: 'This weekend Nightwood Theatre presents the New Groundswell Festival,
-  presenting new works of theatre through workshop productions and a series of play
-  readings. One of the pieces being workshopped is Obeah Opera, created by Nicole
-  Brooks and directed by Weyni Mengesha (&#039;Da Kink in my Hair, Raisin in the Sun).
-  Nicole is something of an artistic Renaissance woman, with credits as a filmmaker,
-  playwright and director, and she&#039;ll appear in Obeah Opera as Tituba. '
-slug: nicole-brooks-on-obeah-opera
-title: Nicole Brooks on Obeah Opera
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2014-09-09T15:00:00-04:00"
+lastmod = "2015-04-27T18:00:00-04:00"
+preamble = "This weekend Nightwood Theatre presents the [New Groundswell Festival](http://www.nightwoodtheatre.net/index.php/whats_on/groundswell_festival#tab1), presenting new works of theatre through workshop productions and a series of play readings. One of the pieces being workshopped is _Obeah Opera_, created by [Nicole Brooks](http://caribbeantales-events.com/?page_id=6419) and directed by [Weyni Mengesha](http://weynimengesha.com/) (_'Da Kink in my Hair_, _Raisin in the Sun_). Nicole is something of an artistic Renaissance woman, with credits as a filmmaker, playwright and director, and she'll appear in _Obeah Opera_ as Tituba. \"_Obeah Opera_ synthesizes the breadth of Black music into an unprecedented a capella theatrical epic. An all-female cast animates the story of the legendary Salem Witch Trials, from the unique perspective of enslaved African women.\" I asked Nicole about creating _Obeah Opera_, and using music to tell us a new story; she responded beautifully, and I'm looking forward to seeing it. Performances run September 11-14th in the Distillery District; for more details and ticket info, [click here](http://www.nightwoodtheatre.net/index.php/whats_on/groundswell_festival#tab2)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429212255394/Nicole%20Brooks.jpg.jpg"
+publishDate = "2014-09-09T15:00:00-04:00"
+related_articles = ["articles/in-review-obeah-opera.md","articles/dont-miss-anthropologies-imaginaires.md"]
+related_people = ["scene/people/alison-wong.md"]
+short_description = "This weekend Nightwood Theatre presents the New Groundswell Festival, presenting new works of theatre through workshop productions and a series of play readings. One of the pieces being workshopped is Obeah Opera, created by Nicole Brooks and directed by Weyni Mengesha (&#039;Da Kink in my Hair, Raisin in the Sun). Nicole is something of an artistic Renaissance woman, with credits as a filmmaker, playwright and director, and she&#039;ll appear in Obeah Opera as Tituba. "
+slug = "nicole-brooks-on-obeah-opera"
+title = "Nicole Brooks on Obeah Opera"
++++
 
 ### What can people expect from an "a cappella theatrical epic"?
 

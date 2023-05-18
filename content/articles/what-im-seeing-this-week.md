@@ -1,21 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2014-04-23T16:07:00-04:00"
-lastmod: "2015-04-27T18:22:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839053504/Seats.jpg.jpg
-publishDate: "2014-04-23T16:07:00-04:00"
-related_people:
-- scene/people/kate-applin.md
-- scene/people/mireille-asselin.md
-short_description: |-
-  This weekend, I&#039;m going to see more stuff.
-
-  On Friday night, I&#039;m catching opening night of Engelbert Humperdinck&#039;s Hänsel &amp; Gretel, presented by Metro Youth Opera. I love this show, I know a few people involved, and I always fall for a fairy tale.
-slug: what-im-seeing-this-week
-title: What I&#039;m seeing this week
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2014-04-23T16:07:00-04:00"
+lastmod = "2015-04-27T18:22:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429839053504/Seats.jpg.jpg"
+publishDate = "2014-04-23T16:07:00-04:00"
+related_people = ["scene/people/kate-applin.md","scene/people/mireille-asselin.md"]
+short_description = "This weekend, I&#039;m going to see more stuff.\n\nOn Friday night, I&#039;m catching opening night of Engelbert Humperdinck&#039;s Hänsel &amp; Gretel, presented by Metro Youth Opera. I love this show, I know a few people involved, and I always fall for a fairy tale."
+slug = "what-im-seeing-this-week"
+title = "What I&#039;m seeing this week"
++++
 
 This weekend, I'm going to see more stuff.
 

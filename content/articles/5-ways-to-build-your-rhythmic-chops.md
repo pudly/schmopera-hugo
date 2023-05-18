@@ -1,36 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: How-to
-date: "2015-07-02T00:25:00-04:00"
-lastmod: "2017-05-25T10:09:00-04:00"
-preamble: Some folks have an inner pulse that rivals most metronomes. Others have
-  to work for rhythmic perfection. Singers, we know you all get bad reputations among
-  classical music circles for not being able to count, and frankly, sometimes you
-  earn the stereotype. Singers who work regularly have excellent rhythm, and they
-  know how to make music within a beat structure. Here are 5 quick ways to develop
-  great rhythmic skills and squash the metronome-toting haters.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495720394536/2017-05-25---Time.jpg.jpg
-publishDate: "2015-07-03T09:08:00-04:00"
-related_articles:
-- articles/4-tips-for-when-there-are-too-many-notes.md
-- articles/4-secrets-for-better-high-notes.md
-- articles/how-to-play-for-singers.md
-- articles/4-steps-to-taking-fixing-notes.md
-- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
-- articles/4-traits-of-a-great-cadenza.md
-- articles/singers-masters-of-illusions.md
-- articles/4-ways-to-test-your-memory.md
-- articles/rhythm-the-good-the-bad-and-the-stressful.md
-- articles/the-practice-tip-you-dont-want-to-hear.md
-short_description: Some folks have an inner pulse that rivals most metronomes. Others
-  have to work for rhythmic perfection. Singers, we know you all get bad reputations
-  among classical music circles for not being able to count, and frankly, sometimes
-  you earn the stereotype. Singers who work regularly have excellent rhythm, and they
-  know how to make music within a beat structure.
-slug: 5-ways-to-build-your-rhythmic-chops
-title: 5 ways to build your rhythmic chops
----
++++
+author = ["authors/jenna.md"]
+categories = "How-to"
+date = "2015-07-02T00:25:00-04:00"
+lastmod = "2017-05-25T10:09:00-04:00"
+preamble = "Some folks have an inner pulse that rivals most metronomes. Others have to work for rhythmic perfection. Singers, we know you all get bad reputations among classical music circles for not being able to count, and frankly, sometimes you earn the stereotype. Singers who work regularly have excellent rhythm, and they know how to make music within a beat structure. Here are 5 quick ways to develop great rhythmic skills and squash the metronome-toting haters."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495720394536/2017-05-25---Time.jpg.jpg"
+publishDate = "2015-07-03T09:08:00-04:00"
+related_articles = ["articles/4-tips-for-when-there-are-too-many-notes.md","articles/4-secrets-for-better-high-notes.md","articles/how-to-play-for-singers.md","articles/4-steps-to-taking-fixing-notes.md","articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md","articles/4-traits-of-a-great-cadenza.md","articles/singers-masters-of-illusions.md","articles/4-ways-to-test-your-memory.md","articles/rhythm-the-good-the-bad-and-the-stressful.md","articles/the-practice-tip-you-dont-want-to-hear.md"]
+short_description = "Some folks have an inner pulse that rivals most metronomes. Others have to work for rhythmic perfection. Singers, we know you all get bad reputations among classical music circles for not being able to count, and frankly, sometimes you earn the stereotype. Singers who work regularly have excellent rhythm, and they know how to make music within a beat structure."
+slug = "5-ways-to-build-your-rhythmic-chops"
+title = "5 ways to build your rhythmic chops"
++++
 
 ### Subdivide
 

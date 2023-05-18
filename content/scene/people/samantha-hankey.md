@@ -1,32 +1,31 @@
----
-date: "2018-05-30T19:42:00-04:00"
-discipline: Mezzo-soprano
-lastmod: "2018-05-30T19:42:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527723389039/Samantha%2BHankey%2BHeadshot%2Bby%2BJiyang%2BChen.jpg.jpg
-primary_image_credit: Jiyang Chen.
-publishDate: "2018-05-30T19:42:00-04:00"
-related_companies:
-- scene/companies/merola-opera-program.md
-- scene/companies/opera-philadelphia.md
-- scene/companies/the-juilliard-school.md
-slug: samantha-hankey
-social_media:
-- platform: Facebook
-  template: social-media
-  url: http://www.facebook.com/SamanthaHankeyMezzo
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/SamanthaHankey
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/samantha.hankey/
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/channel/UCICVO8ie-H8P1bkNYSmB1QA
-title: Samantha Hankey
-website: http://www.samanthahankey.com/
----
++++
+date = "2018-05-30T19:42:00-04:00"
+discipline = "Mezzo-soprano"
+lastmod = "2018-05-30T19:42:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527723389039/Samantha%2BHankey%2BHeadshot%2Bby%2BJiyang%2BChen.jpg.jpg"
+primary_image_credit = "Jiyang Chen."
+publishDate = "2018-05-30T19:42:00-04:00"
+related_companies = ["scene/companies/merola-opera-program.md","scene/companies/opera-philadelphia.md","scene/companies/the-juilliard-school.md"]
+slug = "samantha-hankey"
+title = "Samantha Hankey"
+website = "http://www.samanthahankey.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "http://www.facebook.com/SamanthaHankeyMezzo"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/SamanthaHankey"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/samantha.hankey/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UCICVO8ie-H8P1bkNYSmB1QA"
++++
 
 American mezzo-soprano Samantha Hankey, Grand Finals winner of the 2017 Metropolitan Opera National Council Auditions and First Prize winner of the Dallas Opera Guild Competition is quickly making a name for herself at home and abroad. Acclaimed by *Opera News* as an “ingenious square-shouldered beauty with a maple-flavored mezzo”  and as “serious and penetrating” by *The New York Times*, she was recently an artist at the Merola Opera Program in San Francisco, and performed the title role in *La Cenerentola*. In the 2017/18 season, Ms. Hankey makes her debuts as Rosina in *Il Barbiere di Siviglia* at Den Norske Opera and as Siébel in *Faust* at the Grand Théâtre de Genève. She will also make her Carnegie Hall debut in Handel’s *Messiah* with Musica Sacra. 
 

@@ -1,29 +1,22 @@
----
-author:
-- authors/laura-attridge.md
-categories: How-To
-date: "2022-07-12T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: 'For more in this series, see the related links below. To read Laura Attridge''s
-  _Tuning In_ newsletter, [start here](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072). '
-preamble: This essay is from a series titled "The Things They Didn't Teach You At
-  Conservatoire" by director, writer, and Schmopera contributor Laura Attridge. They
-  are originally [published through her newsletter](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072),  crossposted
-  and edited here with her permission.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1657653372/media/2022/07/Essay_unique_naiaoz.jpg
-primary_image_credit: ""
-related_articles:
-- articles/essay-tuning-in-to-looking-after-yourself.md
-- articles/essay-tuning-in-to-developing-your-craft.md
-- articles/essay-tuning-in-to-getting-ahead.md
-related_companies: []
-related_people: []
-short_description: 'From: The Things They Didn''t Teach You At Conservatoire'
-slug: essay-tuning-in-to-what-makes-you-unique
-title: 'Essay: Tuning In to What Makes You Unique'
-youtube_url: ""
----
++++
+author = ["authors/laura-attridge.md"]
+categories = "How-To"
+date = 2022-07-12T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = "For more in this series, see the related links below. To read Laura Attridge's _Tuning In_ newsletter, [start here](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072). "
+preamble = "This essay is from a series titled \"The Things They Didn't Teach You At Conservatoire\" by director, writer, and Schmopera contributor Laura Attridge. They are originally [published through her newsletter](https://us5.campaign-archive.com/?u=22295b68044fd4abb2a3aa0b0&id=28fe261072),  crossposted and edited here with her permission."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657653372/media/2022/07/Essay_unique_naiaoz.jpg"
+primary_image_credit = ""
+related_articles = ["articles/essay-tuning-in-to-looking-after-yourself.md", "articles/essay-tuning-in-to-developing-your-craft.md", "articles/essay-tuning-in-to-getting-ahead.md"]
+related_companies = []
+related_people = []
+short_description = "From: The Things They Didn't Teach You At Conservatoire"
+slug = "essay-tuning-in-to-what-makes-you-unique"
+title = "Essay: Tuning In to What Makes You Unique"
+youtube_url = ""
+
++++
 > "There is a vitality, a life force, an energy, a quickening that is translated through you into action, and because there is only one of you in all of time, this expression is unique. And if you block it, it will never exist through any other medium and it will be lost. The world will not have it. It is not your business to determine how good it is nor how valuable nor how it compares with other expressions. It is your business to keep it yours clearly and directly, to keep the channel open. You do not even have to believe in yourself or your work. You have to keep yourself open and aware to the urges that motivate you. Keep the channel open." - [Martha Graham](https://en.wikipedia.org/wiki/Martha_Graham)
 
 The longer I work in the arts, the more fundamentally I believe that every artist has something powerfully unique to offer to the world. But the longer I work in the arts, the more I also notice this idea missing from the primary narratives encountered by artists in traditional training routes into opera and classical music.

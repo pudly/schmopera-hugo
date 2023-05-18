@@ -1,29 +1,22 @@
----
-author:
-- authors/michael-pecak.md
-categories: Review
-date: "2019-03-19T17:01:24+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553015129/media/2019/03/sqSoYoungPark_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_195.jpg
-primary_image_credit: ""
-related_articles: []
-related_companies:
-- scene/companies/lyric-opera-of-chicago.md
-related_people:
-- scene/people/nina-yoshida-nelsen.md
-- scene/people/christopher-magiera.md
-- scene/people/so-young-park.md
-- scene/people/catherine-martin.md
-short_description: With music by Jack Perla and libretto by Jessica Murphy Moo, An
-  American Dream spotlights the lives of two families against the backdrop of Japanese
-  internment by the U.S. government following the bombing of Pearl Harbor in 1941.
-slug: an-american-dream-an-opera-that-hits-home
-title: 'An American Dream: an opera that hits home'
-youtube_url: ""
----
++++
+author = ["authors/michael-pecak.md"]
+categories = "Review"
+date = "2019-03-19T17:01:24+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553015129/media/2019/03/sqSoYoungPark_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_195.jpg"
+primary_image_credit = ""
+related_articles = []
+related_companies = ["scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/nina-yoshida-nelsen.md", "scene/people/christopher-magiera.md", "scene/people/so-young-park.md", "scene/people/catherine-martin.md"]
+short_description = "With music by Jack Perla and libretto by Jessica Murphy Moo, An American Dream spotlights the lives of two families against the backdrop of Japanese internment by the U.S. government following the bombing of Pearl Harbor in 1941."
+slug = "an-american-dream-an-opera-that-hits-home"
+title = "An American Dream: an opera that hits home"
+youtube_url = ""
+
++++
 The success of Lyric Unlimited, the LOC's civic outreach initiative, is founded on its ability to mount crucial new operas that resonate with the times and communities the program serves. Following last season's captivating [_Fellow Travelers_](/fellow-travelers-is-luminous-in-chicago/), Gregory Spears opera about the 1950's "lavender scare," Lyric Unlimited again impels Chicago audiences toward self- and historical-reflection with its run of [_An American Dream_](https://www.lyricopera.org/concertstickets/calendar/2018-2019/an-american-dream-opera-tickets), performed twice this past weekend at the Harris Theater for Music and Dance.
 
 With music by Jack Perla and libretto by Jessica Murphy Moo, _An American Dream_ spotlights the lives of two families against the backdrop of Japanese internment by the U.S. government following the bombing of Pearl Harbor in 1941.
@@ -34,9 +27,7 @@ During the opening orchestral prelude, we meet the Kobayashis, a hardworking Jap
 
 Jim Crowley and his wife Eva enter the scene as prospective home-buyers with an eye toward the Kobayashi property. As Eva, herself an immigrant of German-Jewish origins, roams and admires the surrounding land and the promise of safe harbor it offers, Jim takes advantage of the Kobayashi's plight with a low-ball offer for the purchase of their home. At the same moment, FBI agents arrive to arrest Makato Kobayashi, naming him a suspected threat.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1553015255/media/2019/03/JeffDiebold_AoLi_NinaYoshidaNelsen_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_139.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553015255/media/2019/03/JeffDiebold_AoLi_NinaYoshidaNelsen_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_139.jpg){{% /md %}}
 
 <figcaption>Jeff Diebold, Ao Li, and Nina Yoshida Nelsen in An American Dream, Lyric Opera of Chicago/Lyric Unlimited, 2019. Photo: Todd Rosenberg.</figcaption>
 
@@ -50,9 +41,7 @@ _An American Dream_ is an opera that hits home. Part of its poignancy lies in ho
 
 For several members of this production's cast and leadership, the show's gnarled realities shaped their personal ancestries. For mezzo-soprano [Nina Yoshida Nelsen](/scene/people/nina-yoshida-nelsen/), who created the role of the mother, performing Hiroko allows her a way to commune with her great-grandmother and grandmother, both of whom were placed in detention centers. In the program book, director Matthew Ozawa discusses how his family was forcibly relocated to a camp in Wyoming, "a prison patrolled by armed guards and surrounded by barbed wire fences," and where his father was born.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1553015272/media/2019/03/CatherineMartin_ChristopherMagiera_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_178.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553015272/media/2019/03/CatherineMartin_ChristopherMagiera_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_178.jpg){{% /md %}}
 
 <figcaption>Catherine Martin and Christopher Magiera in An American Dream, Lyric Opera of Chicago/Lyric Unlimited, 2019.</figcaption>
 
@@ -64,9 +53,7 @@ As a whole, the cast of this production delivered heartfelt and gripping perform
 
 As Setsuko Kobayashi, we heard soprano [So Young Park](/scene/people/so-young-park/). In this opera, Setsuko traverses the most complete character arch. From a carefree child, to an imprisoned caretaker for her ailing mother, to a poised adult representative of her family in her confrontation of Jim—Park navigated the look and sound of her evolving role with stunning aplomb and conviction. Her voice has the clarity and agility one would expect of someone who is making her name these days as the Queen of the Night and Gilda. Setsuko's most outwardly powerful moment comes at the opera's conclusion and though Park certainly held her own against baritone [Christopher Magiera](/scene/people/christopher-magiera/) and mezzo-soprano [Catherine Martin](/scene/people/catherine-martin/) (as Jim and Eva Crowley), it was in the soft, transient moments of intimacy where Park really shined.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1553015284/media/2019/03/SoYoungPark_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_108.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553015284/media/2019/03/SoYoungPark_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_108.jpg){{% /md %}}
 
 <figcaption>So Young Park in An American Dream, Lyric Opera of Chicago/Lyric Unlimited, 2019.</figcaption>
 
@@ -78,9 +65,7 @@ Catherine Martin was superb as the cautiously hopeful, but deeply anxious Eva. R
 
 Jack Perla's score for this opera is understated, efficiently paced, and quite traditional in its structure of divisible solo, duo, and ensemble numbers. A tonally based minimalism pervades this piece with crushing dissonances at crucial dramatic moments as well as subtle pentatonics for moments of nostalgia and loss. Conductor Daniela Candillari leads the chamber ensemble with effortless elegance, nuance, and shape. Candillari conducted last season's _Fellow Travelers_ and it was wonderful to see her back in Chicago in repertoire upon which she is leaving a decisive stamp.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1553015298/media/2019/03/SoYoungPark_NinaYoshidaNelsen_AoLi_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_213.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1553015298/media/2019/03/SoYoungPark_NinaYoshidaNelsen_AoLi_ANAMERICANDREAM_LyricOperaofChicago_LYR190314_213.jpg){{% /md %}}
 
 <figcaption>So Young Park, Nina Yoshida Nelsen, and Ao Li in An American Dream, Lyric Opera of Chicago/Lyric Unlimited, 2019.</figcaption>
 

@@ -1,29 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-07-13T13:08:00-04:00"
-lastmod: "2017-07-25T22:51:00-04:00"
-preamble: |-
-  Florida native [Sarah Coit](/scene/people/sarah-coit/) is a Resident Artist at Utah Opera, a 2017 semi-finalist of the Metropolitan Opera National Council Auditions, and this summer is her second as an Apprentic Singer at [Santa Fe Opera](/scene/companies/the-santa-fe-opera/). In 2016, she understudied the role of Erika in SFO's production of *Vanessa*; this year, she'll sing Alisa in [*Lucia di Lammermoor*](/talking-with-singers-brenda-rae/), and she understudies for [Sasha Cooke](/talking-with-singers-sasha-cooke/) as Laurene Powell Jobs in *The (R)evolution of Steve Jobs*.
-
-  Coit spoke with us about the subtle art of being an understudy, and the fun of wearing multiple hats as a SFO Apprentice Singer.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500399539504/2017-07-18---Coit.Sarah.Headshot.jpg.jpg
-publishDate: "2017-07-25T22:06:00-04:00"
-related_articles:
-- articles/young-singers-in-santa-fe-jessica-e-jones.md
-related_companies:
-- scene/companies/the-santa-fe-opera.md
-related_people:
-- scene/people/sarah-coit.md
-short_description: '&quot;You can learn a lot by just watching a rehearsal: how more
-  experienced singers deal with problems they may have, how often or not they mark,
-  what kind of things to be watching for from a conductor, etc. You can see all of
-  these things without making the mistakes yourself in that setting. It&#039;s kind
-  of a major blessing.&quot;'
-slug: young-singers-in-santa-fe-sarah-coit
-title: 'Young singers in Santa Fe: Sarah Coit'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-07-13T13:08:00-04:00"
+lastmod = "2017-07-25T22:51:00-04:00"
+preamble = "Florida native [Sarah Coit](/scene/people/sarah-coit/) is a Resident Artist at Utah Opera, a 2017 semi-finalist of the Metropolitan Opera National Council Auditions, and this summer is her second as an Apprentic Singer at [Santa Fe Opera](/scene/companies/the-santa-fe-opera/). In 2016, she understudied the role of Erika in SFO's production of *Vanessa*; this year, she'll sing Alisa in [*Lucia di Lammermoor*](/talking-with-singers-brenda-rae/), and she understudies for [Sasha Cooke](/talking-with-singers-sasha-cooke/) as Laurene Powell Jobs in *The (R)evolution of Steve Jobs*.\n\nCoit spoke with us about the subtle art of being an understudy, and the fun of wearing multiple hats as a SFO Apprentice Singer."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500399539504/2017-07-18---Coit.Sarah.Headshot.jpg.jpg"
+publishDate = "2017-07-25T22:06:00-04:00"
+related_articles = ["articles/young-singers-in-santa-fe-jessica-e-jones.md"]
+related_companies = ["scene/companies/the-santa-fe-opera.md"]
+related_people = ["scene/people/sarah-coit.md"]
+short_description = "&quot;You can learn a lot by just watching a rehearsal: how more experienced singers deal with problems they may have, how often or not they mark, what kind of things to be watching for from a conductor, etc. You can see all of these things without making the mistakes yourself in that setting. It&#039;s kind of a major blessing.&quot;"
+slug = "young-singers-in-santa-fe-sarah-coit"
+title = "Young singers in Santa Fe: Sarah Coit"
++++
 
 ## Can you describe a day in the life of an apprentice singer at Santa Fe Opera?
 

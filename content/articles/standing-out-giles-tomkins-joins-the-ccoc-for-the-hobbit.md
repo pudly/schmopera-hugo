@@ -1,25 +1,17 @@
----
-author:
-- authors/greg.md
-categories: Interview
-date: "2016-06-07T10:01:00+01:00"
-lastmod: "2016-06-07T13:14:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465290895929/2016-06-07---Giles.jpg.jpg
-primary_image_credit: 'Photo: Helen Tansey'
-publishDate: "2016-06-07T13:06:00+01:00"
-related_companies:
-- scene/companies/canadian-childrens-opera-company.md
-related_people:
-- scene/people/giles-tomkins.md
-- scene/people/dean-burry.md
-short_description: '&quot;The most fun is almost being a kid again. I grew up in choirs,
-  not the CCOC, but it&#039;s kind of instilling this love of mythology and magic.
-  I know it sounds corny but working with kids just bring such an energy to the rehearsal
-  room. They bring a particular enthusiasm to the work which is infectious. You really
-  find yourself becoming a kid again and re-instilling that love of theatre and stage.&quot;'
-slug: standing-out-giles-tomkins-joins-the-ccoc-for-the-hobbit
-title: 'Standing out: Giles Tomkins joins the CCOC for The Hobbit'
----
++++
+author = ["authors/greg.md"]
+categories = "Interview"
+date = "2016-06-07T10:01:00+01:00"
+lastmod = "2016-06-07T13:14:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465290895929/2016-06-07---Giles.jpg.jpg"
+primary_image_credit = "Photo: Helen Tansey"
+publishDate = "2016-06-07T13:06:00+01:00"
+related_companies = ["scene/companies/canadian-childrens-opera-company.md"]
+related_people = ["scene/people/giles-tomkins.md","scene/people/dean-burry.md"]
+short_description = "&quot;The most fun is almost being a kid again. I grew up in choirs, not the CCOC, but it&#039;s kind of instilling this love of mythology and magic. I know it sounds corny but working with kids just bring such an energy to the rehearsal room. They bring a particular enthusiasm to the work which is infectious. You really find yourself becoming a kid again and re-instilling that love of theatre and stage.&quot;"
+slug = "standing-out-giles-tomkins-joins-the-ccoc-for-the-hobbit"
+title = "Standing out: Giles Tomkins joins the CCOC for The Hobbit"
++++
 
 One of the best things that's happening with the first-ever Toronto Festival of Children's Opera is that the young, up-and-coming singers are getting the chance to see full professional productions, and work with the best in the business. 
 
@@ -51,9 +43,7 @@ I caught up with him on Saturday on break from his rehearsal for a little catch-
 
 **Giles**: Another Dean Burry show! I head back to Cape Breton Island for another run of *The Bells of Baddeck*. We literally close *The Hobbit* on Sunday and on Monday I'll be flying out there. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465291556659/2016-06-07---Giles-Hobbit.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465291556659/2016-06-07---Giles-Hobbit.jpg.jpg)
 <figcaption>The CCOC rehearses The Hobbit with Giles Tomkins. Photo: Gregory Finney.</figcaption>
 </figure>
 

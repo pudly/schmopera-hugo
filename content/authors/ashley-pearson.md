@@ -1,16 +1,13 @@
----
-date: "2017-01-11T10:16:00+00:00"
-lastmod: "2017-01-11T10:16:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484129775372/2017-01-11---Ashley-Pearson.jpg.jpg
-publishDate: "2017-01-11T10:16:00+00:00"
-short_bio: "Ashley holds a Bachelor of Arts and Sciences specializing in theatre,
-  abstract mathematics, and film studies from Quest University Canada. She has previously
-  worked as an Apprentice Director for Powerhouse Theatre Festival and as literary
-  researcher for the Ustinov Studio at the Theatre Royal, Bath. \n"
-slug: ashley-pearson
-title: Ashley Pearson
-website: http://www.ashleypearson.me/
----
++++
+date = "2017-01-11T10:16:00+00:00"
+lastmod = "2017-01-11T10:16:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484129775372/2017-01-11---Ashley-Pearson.jpg.jpg"
+publishDate = "2017-01-11T10:16:00+00:00"
+short_bio = "Ashley holds a Bachelor of Arts and Sciences specializing in theatre, abstract mathematics, and film studies from Quest University Canada. She has previously worked as an Apprentice Director for Powerhouse Theatre Festival and as literary researcher for the Ustinov Studio at the Theatre Royal, Bath. \n"
+slug = "ashley-pearson"
+title = "Ashley Pearson"
+website = "http://www.ashleypearson.me/"
++++
 
 Ashley Pearson is a London-based director and playwright specializing in opera, new work and reimagined classics. Her work has been called “bright and witty,” “dramatically mature,” and “all round brilliant.” She believes in fostering strong collaborative relationships with performers and challenging audiences — Ashley's work is unapologetically thought-provoking.
 

@@ -1,38 +1,27 @@
----
-author:
-- authors/meghan-klinkenborg.md
-categories: Review
-date: "2019-07-01T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: Des Moines Metro Opera's [production of _La bohème_](http://desmoinesmetroopera.org/productions/boheme/)
-  runs through July 21.
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562029435/media/2019/07/sqDMMOBohemeDSC_4076.jpg
-primary_image_credit: 'La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey
-  for Des Moines Metro Opera.'
-related_articles:
-- articles/a-fiercely-queer-opera-for-halloween.md
-- articles/hype-atg-boheme.md
-related_companies:
-- scene/companies/des-moines-metro-opera.md
-related_people:
-- scene/people/joshua-guerrero.md
-short_description: The main factor that makes or breaks a production of La bohème
-  is the cast. The six lead characters must have comedic timing, dramatic chops, and
-  believable chemistry. This opera is so popular precisely because all the characters
-  are realistic and likeable.
-slug: bring-your-tissues-to-dmmos-la-boheme
-title: Bring your tissues to DMMO's La bohème
-youtube_url: ""
----
++++
+author = ["authors/meghan-klinkenborg.md"]
+categories = "Review"
+date = "2019-07-01T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = "Des Moines Metro Opera's [production of _La bohème_](http://desmoinesmetroopera.org/productions/boheme/) runs through July 21."
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562029435/media/2019/07/sqDMMOBohemeDSC_4076.jpg"
+primary_image_credit = "La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera."
+related_articles = ["articles/a-fiercely-queer-opera-for-halloween.md", "articles/hype-atg-boheme.md"]
+related_companies = ["scene/companies/des-moines-metro-opera.md"]
+related_people = ["scene/people/joshua-guerrero.md"]
+short_description = "The main factor that makes or breaks a production of La bohème is the cast. The six lead characters must have comedic timing, dramatic chops, and believable chemistry. This opera is so popular precisely because all the characters are realistic and likeable."
+slug = "bring-your-tissues-to-dmmos-la-boheme"
+title = "Bring your tissues to DMMO's La bohème"
+youtube_url = ""
+
++++
 [Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) delivers an archetypal production of [Puccini's _La Bohème_](http://desmoinesmetroopera.org/productions/boheme/) for their 47th summer season. This beloved opera has been a fan favorite for decades, and while there have been many interpretations that modernize the setting (such as outer space or hipsters?), sometimes the standard approach is best. Audiences have romanticized the bohemian lifestyle and the Latin Quarter for so long that it has become a timeless aesthetic, so why change something that already works?
 
 The design teams created a classic production that felt familiar and realistic. From the impoverished intimacy of the artists' apartment to the bustling chaos at Café Momus, the scenery, lighting, costumes, hair, and make up all combined to create a cohesive environment for Puccini's beloved characters to inhabit.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562029495/media/2019/07/DMMOBohemeDSC_3864.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029495/media/2019/07/DMMOBohemeDSC_3864.jpg){{% /md %}}
 
 <figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -42,9 +31,7 @@ The chorus under the direction of Lisa Hasson sparkled onstage in Act II, captur
 
 Conductor [Michael Christie](/talking-with-conductors-michael-christie/) led the orchestra in a quintessential performance of Puccini’s beautiful music. There were a few moments where the ensemble overpowered the singers, but the balance got better as the opera progressed. Puccini's orchestration is equal parts powerful and vulnerable, and without the instrumental underpinning, much of the raw emotional impact would be lost. (When I cried in the final scene, I hold the orchestra as partially to blame for my smudged eyeliner!)
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562029465/media/2019/07/DMMOBohemeDSC_3773.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029465/media/2019/07/DMMOBohemeDSC_3773.jpg){{% /md %}}
 
 <figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -56,9 +43,7 @@ The main factor that makes or breaks a production of _La bohème_ is the cast. T
 
 The poor bohemians are funny and flawed, and while they are sometimes pitted against landlords and dinner tabs, there are no true villains (unless you count TB). Matthew Lau portrayed both Benoit and Alcindoro, the financially stable old men that get duped by the starving artists. Lau demonstrated clever comedic acting as well as a strong vocal performance which made both men come across as affable despite their apparent opposition to the main characters.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562029476/media/2019/07/DMMOBohemeDSC_2646-1.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029476/media/2019/07/DMMOBohemeDSC_2646-1.jpg){{% /md %}}
 
 <figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -66,9 +51,7 @@ The poor bohemians are funny and flawed, and while they are sometimes pitted aga
 
 The four male friends - Rodolfo, Marcello, Colline, and Schaunard - had a convincing connection onstage together. The opera may take place centuries ago, but the nature of true friendship has remained the same. These four bros give each other shit constantly, but they also aren't afraid to call each other out on their bullshit. The staging between these men was often physical and playful which was a welcome relief from the more tragic moments. (I do have to complain, however, that it felt absurd that these famished artists would use their last loaf of bread for a food fight. Hunger outweighs humor every time!)
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562029511/media/2019/07/DMMOBohemeDSC_2091.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029511/media/2019/07/DMMOBohemeDSC_2091.jpg){{% /md %}}
 
 <figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -80,9 +63,7 @@ Brian Vu sang the role of Schaunard the musician with a charming energy. He reli
 
 Thomas Glass had impressive vocal chops and was a solid dramatic presence throughout the opera as the painter Marcello. It truly is a shame that his character is the only one without an aria. Glass showed a strong acting range, playful and bold with his friends then passionate and temperamental with his lover. I wish the staging had highlighted some of his more tender interactions with Musetta, particularly in the final scenes, to show that underneath all their drama, real love is present.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562029528/media/2019/07/DMMOBohemeDSC_2313.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029528/media/2019/07/DMMOBohemeDSC_2313.jpg){{% /md %}}
 
 <figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -96,9 +77,7 @@ Together Galoyan and Glass created a textbook portrayal of the toxic couple in t
 
 In stark contrast is the overly in love, super mushy couple in the friend group that kind of makes you sick. Rodolfo and Mimì are already madly in love on day one of their relationship, and while their friends tease them about the poetic declarations, they accept Mimì into their circle immediately.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562029541/media/2019/07/DMMOBohemeDSC_2037.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029541/media/2019/07/DMMOBohemeDSC_2037.jpg){{% /md %}}
 
 <figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 
@@ -108,9 +87,7 @@ Julie Adams performed the role of the tragic heroine, Mimì, with a velvety voca
 
 [Joshua Guerrero](/scene/people/joshua-guerrero/) was lovable and heart wrenching as the lovelorn poet, Rodolfo. His rendition of "Che gelida manina" started out timid and vulnerable then built up to the glorious high notes. I had trouble hearing him over the orchestra in his lower register at times, but the balance seemed to get corrected by the second act. Rodolfo is a character that bears his soul eagerly. He's madly in love with Mimì right away, but he also exhibits some big red flags from the start. His jealousy rears its ugly head on their first date, so we can tell it's not going to be the most stable relationship. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1562029554/media/2019/07/DMMOBohemeDSC_1979.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1562029554/media/2019/07/DMMOBohemeDSC_1979.jpg){{% /md %}}
 
 <figcaption>La bohème, Des Moines Metro Opera, 2019. Photo: Duane Tinkey for Des Moines Metro Opera.</figcaption>
 

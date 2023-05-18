@@ -1,24 +1,25 @@
----
-date: "2015-10-18T18:02:00-04:00"
-discipline: Tenor
-draft: true
-lastmod: "2015-10-20T08:59:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445205737793/Paul-Anthony-Williamson%2C-tenor2.jpg.jpg
-slug: paul-williamson
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/pwilliamsontenor
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/godivapaw
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/godivapaw?feature=watch
-title: Paul Williamson
-website: http://paulwilliamson.ca/
----
++++
+date = "2015-10-18T18:02:00-04:00"
+discipline = "Tenor"
+draft = true
+lastmod = "2015-10-20T08:59:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445205737793/Paul-Anthony-Williamson%2C-tenor2.jpg.jpg"
+slug = "paul-williamson"
+title = "Paul Williamson"
+website = "http://paulwilliamson.ca/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/pwilliamsontenor"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/godivapaw"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/godivapaw?feature=watch"
++++
 
 Jamaican-born Canadian lyric tenor Paul Williamson has "a startlingly rich voice" (*Edmonton Journal*) and is now taking his place on the operatic and concert stages of Canada. With a Bachelor of Music degree from the Houghton College School of Music in New York, a Masters degree in Opera Performance from State Glinka Conservatoire of Nizhny Novgorod, Russia, Paul continued his vocal studies under Robert MacLaren at the University of Manitoba. In 2007, while a student in the Opera Diploma program at the University of Toronto, he starred as Nemorino in Donizetti’s *L’elisir d’amore*, where he was reviewed by *Opera Canada* as "a very pleasing tenor with Italianate colour, lovely phrasing and even the requisite sob" who can "play with his voice for nuance and has lots of power when needed."
 

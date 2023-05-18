@@ -1,17 +1,14 @@
----
-date: "2016-08-31T13:13:00+01:00"
-email: j.m.k.sanders@gmail.com
-lastmod: "2016-09-01T13:47:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472734054503/2016-09-01---Jeremiah.jpg.jpg
-publishDate: "2016-08-31T13:13:00+01:00"
-short_bio: Jeremiah Marcèle Sanders is a baritone pursuing a MM in Vocal Performance
-  at Butler University. He completed his undergraduate degree at Manchester University
-  in 2014 studying voice and communication studies. In addition to singing, Jeremiah
-  is passionate about social justice, dance, and travel.
-slug: jeremiah-sanders
-title: Jeremiah Sanders
-website: http://jeremiahsandersbaritone.weebly.com/
----
++++
+date = "2016-08-31T13:13:00+01:00"
+email = "j.m.k.sanders@gmail.com"
+lastmod = "2016-09-01T13:47:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472734054503/2016-09-01---Jeremiah.jpg.jpg"
+publishDate = "2016-08-31T13:13:00+01:00"
+short_bio = "Jeremiah Marcèle Sanders is a baritone pursuing a MM in Vocal Performance at Butler University. He completed his undergraduate degree at Manchester University in 2014 studying voice and communication studies. In addition to singing, Jeremiah is passionate about social justice, dance, and travel."
+slug = "jeremiah-sanders"
+title = "Jeremiah Sanders"
+website = "http://jeremiahsandersbaritone.weebly.com/"
++++
 
 Jeremiah Marcèle Sanders currently attends Butler University pursuing a Masters degree in Voice. He studies voice with Thomas Studebaker and previously with Debra Lynn.
 

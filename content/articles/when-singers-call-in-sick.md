@@ -1,24 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-02-11T13:43:00+00:00"
-lastmod: "2017-02-15T12:25:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487160998199/2017-02-15---Sick.jpg.jpg
-publishDate: "2017-02-15T12:25:00+00:00"
-related_articles:
-- articles/in-defence-of-singers.md
-- articles/one-more-reason-we-dont-envy-singers.md
-- articles/sick-singers-when-its-best-to-shut-up-about-it.md
-short_description: 'A singer&#039;s best publicity is their work. Great singing begets
-  more opportunities, and poor singing begets bad reputations. There are plenty of
-  reasons not to sing while sick: it can do damage to your vocal folds, it can make
-  you stay sicker for longer, and it means you lose a paycheque. But when a singer
-  has to decide, to sing or not to sing, the decision often hinges on the performance
-  they think they can give.'
-slug: when-singers-call-in-sick
-title: When singers call in sick
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-02-11T13:43:00+00:00"
+lastmod = "2017-02-15T12:25:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487160998199/2017-02-15---Sick.jpg.jpg"
+publishDate = "2017-02-15T12:25:00+00:00"
+related_articles = ["articles/in-defence-of-singers.md","articles/one-more-reason-we-dont-envy-singers.md","articles/sick-singers-when-its-best-to-shut-up-about-it.md"]
+short_description = "A singer&#039;s best publicity is their work. Great singing begets more opportunities, and poor singing begets bad reputations. There are plenty of reasons not to sing while sick: it can do damage to your vocal folds, it can make you stay sicker for longer, and it means you lose a paycheque. But when a singer has to decide, to sing or not to sing, the decision often hinges on the performance they think they can give."
+slug = "when-singers-call-in-sick"
+title = "When singers call in sick"
++++
 
 How does a professional singer call in sick?
 

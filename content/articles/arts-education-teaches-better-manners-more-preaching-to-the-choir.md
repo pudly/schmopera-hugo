@@ -1,24 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-05-18T16:42:00-04:00"
-lastmod: "2017-05-18T22:13:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495141880850/2017-05-18---Yes.jpg.jpg
-publishDate: "2017-05-18T22:08:00-04:00"
-related_articles:
-- articles/art-is-not-action.md
-- articles/how-donald-trump-gave-me-writers-block.md
-- articles/concert-etiquette-or-put-down-your-phone.md
-- articles/dont-miss-the-rcms-wide-open-house.md
-short_description: What I&#039;m saying is that confirmation bias is an issue, particularly
-  in a corner of the internet like Schmopera. The people who don&#039;t know they&#039;re
-  being rude with their phones likely aren&#039;t reading this. The people who think
-  arts education is a waste of money certainly aren&#039;t seeking out opera-centric
-  blogs. That asshole at the concert today will never read this and feel shame.
-slug: arts-education-teaches-better-manners-more-preaching-to-the-choir
-title: Arts education teaches better manners, &amp; more preaching to the choir
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-05-18T16:42:00-04:00"
+lastmod = "2017-05-18T22:13:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495141880850/2017-05-18---Yes.jpg.jpg"
+publishDate = "2017-05-18T22:08:00-04:00"
+related_articles = ["articles/art-is-not-action.md","articles/how-donald-trump-gave-me-writers-block.md","articles/concert-etiquette-or-put-down-your-phone.md","articles/dont-miss-the-rcms-wide-open-house.md"]
+short_description = "What I&#039;m saying is that confirmation bias is an issue, particularly in a corner of the internet like Schmopera. The people who don&#039;t know they&#039;re being rude with their phones likely aren&#039;t reading this. The people who think arts education is a waste of money certainly aren&#039;t seeking out opera-centric blogs. That asshole at the concert today will never read this and feel shame."
+slug = "arts-education-teaches-better-manners-more-preaching-to-the-choir"
+title = "Arts education teaches better manners, &amp; more preaching to the choir"
++++
 
 Over the past few weeks, I've felt the urge to rant about something, and not for the first time:
 

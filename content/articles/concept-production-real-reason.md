@@ -1,35 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-07-05T10:32:00-06:00"
-lastmod: "2015-07-06T22:29:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436117906014/Lohengrin.jpg.jpg
-primary_image_credit: 'A scene from Hans Neuenfels'' production of Lohengrin, Bayreuth
-  Festival, 2010. Photo: Michaela Rehle/Reuters.'
-publishDate: "2015-07-07T07:00:00-06:00"
-related_articles:
-- articles/who-cares-what-bring-on-the-why.md
-- articles/in-review-tcherniakovs-don-giovanni.md
-- articles/mrozewski-delight-wonder.md
-- articles/the-real-reason-to-bring-teens-to-the-opera.md
-- articles/don-giovanni-in-2018-in-search-of-a-concept.md
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/tapestry-opera.md
-short_description: Instead of the lazy/meta/shock-value tactic, just commission an
-  opera that tells the story you want to tell. Yep, that&#039;s a big ask, I know.
-  It&#039;s a longer, riskier, more difficult process than slapping rape scenes onto
-  Rossini, but I think it&#039;s the more creative way. Plus, it could be a serious
-  killing of two birds with one stone; the stories would be organic (and still shocking,
-  if you want - I&#039;m no Victorian with what I want to see onstage), and it would
-  be a great motivator to fuel the need for more contemporary operas.
-slug: concept-production-real-reason
-title: '&quot;That concept production didn&#039;t work,&quot; &amp; here&#039;s the
-  real reason why'
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-07-05T10:32:00-06:00"
+lastmod = "2015-07-06T22:29:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436117906014/Lohengrin.jpg.jpg"
+primary_image_credit = "A scene from Hans Neuenfels' production of Lohengrin, Bayreuth Festival, 2010. Photo: Michaela Rehle/Reuters."
+publishDate = "2015-07-07T07:00:00-06:00"
+related_articles = ["articles/who-cares-what-bring-on-the-why.md","articles/in-review-tcherniakovs-don-giovanni.md","articles/mrozewski-delight-wonder.md","articles/the-real-reason-to-bring-teens-to-the-opera.md","articles/don-giovanni-in-2018-in-search-of-a-concept.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/canadian-opera-company.md","scene/companies/deutsche-oper-berlin.md","scene/companies/tapestry-opera.md"]
+short_description = "Instead of the lazy/meta/shock-value tactic, just commission an opera that tells the story you want to tell. Yep, that&#039;s a big ask, I know. It&#039;s a longer, riskier, more difficult process than slapping rape scenes onto Rossini, but I think it&#039;s the more creative way. Plus, it could be a serious killing of two birds with one stone; the stories would be organic (and still shocking, if you want - I&#039;m no Victorian with what I want to see onstage), and it would be a great motivator to fuel the need for more contemporary operas."
+slug = "concept-production-real-reason"
+title = "&quot;That concept production didn&#039;t work,&quot; &amp; here&#039;s the real reason why"
++++
 
 I came across two articles, talking about - wait for it - shockingly controversial opera productions. [*The Telegraph*](http://www.telegraph.co.uk/culture/music/opera/11707537/William-Tell-gang-rape-scene-causes-uproar-at-Royal-Opera-House.html) was one of several news outlets that reported on the outrage over Damiano Michieletto's current production of [*William Tell*](http://www.roh.org.uk/productions/guillaume-tell-by-damiano-michieletto) at the Royal Opera House; the source of the backlash seemed concentrated over a gang-rape scene, in which a woman is assaulted by a bunch of men onstage. 
 

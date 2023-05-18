@@ -1,24 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-03-14T15:49:00+00:00"
-lastmod: "2017-03-15T10:17:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489507964077/2017-03-14---Gok-Wan.jpg.jpg
-publishDate: "2017-03-15T09:45:00+00:00"
-related_articles:
-- articles/a-faq-checklist-for-opera-newbies.md
-related_people:
-- scene/people/ailyn-prez.md
-- scene/people/stephen-costello.md
-- scene/people/nina-stemme.md
-short_description: For folks like us - who often get accused of opera snobbery - hearing
-  Wan talk about how great the &quot;songs&quot; are, and singling out picks like
-  &quot;Summertime&quot; from Porgy and Bess can be annoying. But in reality, Wan
-  is choosing smart talking points for interviews on mainstream TV.
-slug: goks-divas-solid-picks-despite-the-packaging
-title: 'Gok&#039;s Divas: solid picks, despite the packaging'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-03-14T15:49:00+00:00"
+lastmod = "2017-03-15T10:17:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489507964077/2017-03-14---Gok-Wan.jpg.jpg"
+publishDate = "2017-03-15T09:45:00+00:00"
+related_articles = ["articles/a-faq-checklist-for-opera-newbies.md"]
+related_people = ["scene/people/ailyn-prez.md","scene/people/stephen-costello.md","scene/people/nina-stemme.md"]
+short_description = "For folks like us - who often get accused of opera snobbery - hearing Wan talk about how great the &quot;songs&quot; are, and singling out picks like &quot;Summertime&quot; from Porgy and Bess can be annoying. But in reality, Wan is choosing smart talking points for interviews on mainstream TV."
+slug = "goks-divas-solid-picks-despite-the-packaging"
+title = "Gok&#039;s Divas: solid picks, despite the packaging"
++++
 
 Gok Wan, the UK-based fashion expert, TV-presenter, and ["all round national treasure"](all round national treasure), has recently revealed himself to be a fan of opera. He released [*Gok's Divas*](https://itunes.apple.com/gb/album/goks-divas/id1201354077?i=1201356149&app=music), an album of "my personal selection of favourite arias by opera's greatest stars".
 

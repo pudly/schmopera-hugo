@@ -1,38 +1,18 @@
----
-author:
-- authors/greg.md
-categories: Review
-date: "2016-02-14T15:33:00-05:00"
-lastmod: "2016-02-14T18:29:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481757275/Figaro-MC-0137-(1)Square.jpg.jpg
-primary_image_credit: 'Josef Wagner (Figaro) and Uli Kirsch (Cherubim) in the COC’s
-  production of The Marriage of Figaro, 2016, photo: Michael Cooper.'
-publishDate: "2016-02-15T08:17:00-05:00"
-related_articles:
-- articles/review-sondra-slays-in-bellini-masterwork.md
-- articles/classic-for-good-reason-the-marriage-of-figaro.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/jane-archibald.md
-- scene/people/josef-wagner.md
-- scene/people/russell-braun.md
-- scene/people/erin-wall.md
-- scene/people/emily-fons.md
-- scene/people/sasha-djihanian.md
-- scene/people/doug-macnaughton.md
-- scene/people/jeanphilippe-fortierlazure.md
-- scene/people/robert-pomakov.md
-- scene/people/michael-colvin.md
-short_description: While I loved the added element of the character &quot;Cherubim&quot;
-  representing the chaos that can be wreaked by the basest desires of each of the
-  characters, I feel like we lost a lot of the original Beaumarchais and Da Ponte
-  brilliance. A lot of the sexuality seemed gratuitous, I think in this examination
-  of class and propriety, there has to be a level of decorum and innuendo, or it just
-  looks like you&#039;re trying to &quot;sex up some Mozart&quot;.
-slug: second-opinion-the-marriage-of-figaro-at-the-coc
-title: 'Second opinion: The Marriage of Figaro at the COC'
----
++++
+author = ["authors/greg.md"]
+categories = "Review"
+date = "2016-02-14T15:33:00-05:00"
+lastmod = "2016-02-14T18:29:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481757275/Figaro-MC-0137-(1)Square.jpg.jpg"
+primary_image_credit = "Josef Wagner (Figaro) and Uli Kirsch (Cherubim) in the COC’s production of The Marriage of Figaro, 2016, photo: Michael Cooper."
+publishDate = "2016-02-15T08:17:00-05:00"
+related_articles = ["articles/review-sondra-slays-in-bellini-masterwork.md","articles/classic-for-good-reason-the-marriage-of-figaro.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/jane-archibald.md","scene/people/josef-wagner.md","scene/people/russell-braun.md","scene/people/erin-wall.md","scene/people/emily-fons.md","scene/people/sasha-djihanian.md","scene/people/doug-macnaughton.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/robert-pomakov.md","scene/people/michael-colvin.md"]
+short_description = "While I loved the added element of the character &quot;Cherubim&quot; representing the chaos that can be wreaked by the basest desires of each of the characters, I feel like we lost a lot of the original Beaumarchais and Da Ponte brilliance. A lot of the sexuality seemed gratuitous, I think in this examination of class and propriety, there has to be a level of decorum and innuendo, or it just looks like you&#039;re trying to &quot;sex up some Mozart&quot;."
+slug = "second-opinion-the-marriage-of-figaro-at-the-coc"
+title = "Second opinion: The Marriage of Figaro at the COC"
++++
 
 First and foremost, I loved the show. 
 
@@ -42,9 +22,7 @@ I felt this *Marriage of Figaro* was really well sung by all parties involved, a
 
 [Josef Wagner](/scene/people/josef-wagner/) as Figaro sang very well, but I feel like he may have been led astray at the hands of director Claus Guth. He had a great tone of voice and some solid comic timing especially in his dealings with Susanna, but Guth's dark approach to the material robbed Figaro of the charisma and charm that landed him in the Almaviva household to begin with. It made him seem too much like the Count and not enough of the Count's foil. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481815384/Figaro-MC-0815.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481815384/Figaro-MC-0815.jpg.jpg)
 <figcaption>(l-r) Erin Wall as the Countess, Emily Fons as Cherubino and Jane Archibald as Susanna in the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -56,9 +34,7 @@ Mezzo [Emily Fons](/scene/people/emily-fons/) as Cherubino was equally matched t
 
 [Sasha Djihanian](/scene/people/sasha-djihanian/) was a wonderfully acted Barbarina who had amazing chemistry with Fons as Cherubino. I just found her voice a little too mature to be that of a young woman discovering her wiles. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481851777/Figaro-CH-277.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481851777/Figaro-CH-277.jpg.jpg)
 <figcaption>(l-r) Sasha Djihanian as Barbarina, Erin Wall as the Countess and Emily Fons as Cherubino in the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Chris Hutcheson.</figcaption>
 </figure>
 
@@ -66,9 +42,7 @@ The trio of malefactors played very well, although I did miss a little of [Rober
 
 [Johannes Debus](/scene/people/johannes-debus/) helming the COC Orchestra, had a bit of a tough night, I felt. There were some timing alignments that could have been cleaner and I felt as though it was due to a little insensitivity to what the singers were doing onstage. There was a lot of upstage singing, incredible physicality, and some bizarre staging choices that meant the singers needed to be afforded a little more space to make the ticks line up. That being said, I loved the tempi. I thought they were crisp and bright and I didn't feel as though the show dragged. My only question is (and I'm not sure if it's for Debus or Guth) but why did we have Rosina sing "Porgi, amor" in profile facing the wing? I get that she was looking out that glorious window on stage right, but it would have been nice to hear her sing the Countess's first music into the house. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481885967/Figaro-MC-1772.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481885967/Figaro-MC-1772.jpg.jpg)
 <figcaption>(l-r) Jane Archibald as Susanna, Uli Kirsch (back, on stairs) as Cherubim and Erin Wall as the Countess in the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -76,9 +50,7 @@ As for Guth's treatment of the story, while I was on board with the psychoanalys
 
 Also, if we're going to list Barbarina in the program as Antonio's niece, you need a dramaturg to help you realize that in the libretto and score (During the Act IV finale, Antonio literally refers to her as "mia figila" and the surtitles read "my daughter" - in tv/film this would be called a "continuity error").
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481963376/Figaro-MC-2839.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455481963376/Figaro-MC-2839.jpg.jpg)
 <figcaption>Russell Braun as the Count and Erin Wall as the Countess in the Canadian Opera Company’s production of *The Marriage of Figaro*, 2016, photo: Michael Cooper</figcaption>
 </figure>
 

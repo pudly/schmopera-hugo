@@ -1,31 +1,17 @@
----
-author:
-- authors/john-beckett.md
-categories: Review
-date: "2017-04-25T08:46:00-04:00"
-lastmod: "2017-04-25T09:37:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125431453/2017-04-25---Square-IESTYN-DAVIES-SALLY-MATTHEWS-C-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg
-publishDate: "2017-04-25T09:21:00-04:00"
-related_articles:
-- articles/in-review-written-on-skin-at-roh.md
-- articles/in-review-lucia-di-lammermoor-at-roh.md
-- articles/discomfort-louis-riel-at-the-coc.md
-related_companies:
-- scene/companies/royal-opera-house.md
-related_people:
-- scene/people/audrey-luna.md
-- scene/people/sir-john-tomlinson.md
-- scene/people/christine-rice.md
-- scene/people/sophie-bevan.md
-short_description: 'The guests arrive on stage, dressed in retro evening wear that
-  reminded us of Jonathan Lynn’s Clue. We are prepared for a drawing room comedy to
-  start, but are immediately informed that something is not right by the servants&#039;
-  departure from the grand mansion. We also know something&#039;s up when, in a genius
-  expository tool, the guests arrive together a second time: they repeat the formal
-  introductions from character to character, as if they are all trapped in a loop.'
-slug: in-review-the-exterminating-angel-at-roh
-title: 'In review: The Exterminating Angel at ROH'
----
++++
+author = ["authors/john-beckett.md"]
+categories = "Review"
+date = "2017-04-25T08:46:00-04:00"
+lastmod = "2017-04-25T09:37:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125431453/2017-04-25---Square-IESTYN-DAVIES-SALLY-MATTHEWS-C-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg"
+publishDate = "2017-04-25T09:21:00-04:00"
+related_articles = ["articles/in-review-written-on-skin-at-roh.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/discomfort-louis-riel-at-the-coc.md"]
+related_companies = ["scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/audrey-luna.md","scene/people/sir-john-tomlinson.md","scene/people/christine-rice.md","scene/people/sophie-bevan.md"]
+short_description = "The guests arrive on stage, dressed in retro evening wear that reminded us of Jonathan Lynn’s Clue. We are prepared for a drawing room comedy to start, but are immediately informed that something is not right by the servants&#039; departure from the grand mansion. We also know something&#039;s up when, in a genius expository tool, the guests arrive together a second time: they repeat the formal introductions from character to character, as if they are all trapped in a loop."
+slug = "in-review-the-exterminating-angel-at-roh"
+title = "In review: The Exterminating Angel at ROH"
++++
 
 Around 7:15 in the evening while standing in the foyer of the Royal Opera House, we realized the presence of bells ringing all throughout the building. We are herded into our seats only to be greeted by three of London’s most infamous performers at the moment: a small flock of live sheep. It is the evening that we have been eagerly awaiting - the UK premiere of Thomas Adès and Tom Cairns’ new opera, [*The Exterminating Angel*](http://www.roh.org.uk/productions/the-exterminating-angel-by-tom-cairns).
 
@@ -41,9 +27,7 @@ Dinner is served, and the central problem of the story becomes increasingly clea
 
 Here lies the genius of Thomas Adès - he has the ability to write accessible music while keeping integrity in the surrealist nature of Buñuel's work and in his own musical style, his language being made up of elements from deformed Viennese Waltz to drumming from Buñuel's hometown of Calanda.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125691343/2017-04-25--EXTERMINATING-ANGEL-PRODUCTION-IMAGE-2-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125691343/2017-04-25--EXTERMINATING-ANGEL-PRODUCTION-IMAGE-2-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg)
 <figcaption>Production image from *The Exterminating Angel*, ROH, 2017. Photo by Clive Barda.</figcaption>
 </figure>
 
@@ -51,9 +35,7 @@ As is the case in his other two operas, there is no possible way this opera coul
 
 Adès is constantly pushing singers to technical limits in his vocal writing. Our hostess, Lucìa, sings in a high and sustained tessitura that has to sing over orchestral texture as thick as Tosca’s. Leticia, the opera singer, is charged with constant singing above the staff while making the English text comprehensible - it's the range of Queen of the Night with the added struggle of consonants. Raùl must squeal high notes out of long lines, think "Ah, mes amis" without the preparatory beats of rest before the high C's.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125734793/2017-04-25--AUDREY-LUNA-CENTRE-EXTERMINATING-ANGEL-PRODUCTION-IMAGE-C-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125734793/2017-04-25--AUDREY-LUNA-CENTRE-EXTERMINATING-ANGEL-PRODUCTION-IMAGE-C-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg)
 <figcaption>Audrey Luna (centre) in *The Exterminating Angel*, ROH, 2017. Photo by Clive Barda.</figcaption>
 </figure>
 
@@ -63,9 +45,7 @@ While certainly the most faffy of the characters, Francisco and his sister Silvi
 
 In the beginning of the opera the difference between these two classes is astoundingly marked: we get a monologue from Silvia, recounting her experience on a train that was derailed in the south of France. As she describes the tragedy, she remarks that she feels no remorse for the lower class people who were killed on the train. Silvia also exclaims that in this instance she was running from one end of the train to the other like a madwoman, foreshadowing the collapse of the Nobiles' sanity while trapped in the mansion.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125761182/2017-04-25--THOMAS-ALLEN-AMANDA-ECHALAZ-DAVID-ADAM-MOORE-JOHN-TOMLINSON-C-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125761182/2017-04-25--THOMAS-ALLEN-AMANDA-ECHALAZ-DAVID-ADAM-MOORE-JOHN-TOMLINSON-C-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg)
 <figcaption>Thomas Allen, Amanda Echalaz, David Adam Moore, and John Tomlinson in *The Exterminating Angel*, ROH, 2017. Photo by Clive Barda.</figcaption>
 </figure>
 
@@ -73,9 +53,7 @@ As the situation becomes more dire and the guests realize how trapped they are b
 
 Adès and Cairns show the darkness and light that exists within all of the characters. As we fell in love with the engaged couple Eduardo and Beatriz, we were heart broken during their love duet that doubled as a suicide pact. The the moment we find ourselves rooting for the guests to survive, they suddenly turn on each other and propose to murder their host.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125835259/2017-04-25--SOPHIE-BEVAN-ED-LYON-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493125835259/2017-04-25--SOPHIE-BEVAN-ED-LYON-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg)
 <figcaption>Sophie Bevan and Ed Lyon in *The Exterminating Angel*, ROH, 2017. Photo by Clive Barda.</figcaption>
 </figure>
 

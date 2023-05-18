@@ -1,23 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2017-11-22T15:30:00-05:00"
-lastmod: "2017-11-22T20:53:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511382447721/VOAN.jpg.jpg
-publishDate: "2017-11-22T20:53:00-05:00"
-related_articles:
-- articles/dont-miss-luminatos-bearing.md
-related_people:
-- scene/people/michael-mori.md
-short_description: Stravinsky&#039;s L&#039;histoire du soldat is re-imagined by First
-  Nations choreographer Aria Evans &quot;through a truly Canadian lens&quot;; and
-  mezzo-soprano Rebecca Cuddy sings the new orchestral song cycle by Ian Cusson, Five
-  Orchestra Songs, based on Métis poet Marilyn Dumont&#039;s A Really Good Brown Girl.
-  The song cycle is directed by Tapestry Opera Artistic Director Michael Mori.
-slug: dont-miss-voice-of-a-nation
-title: 'Don&#039;t miss: Voice of a Nation'
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2017-11-22T15:30:00-05:00"
+lastmod = "2017-11-22T20:53:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511382447721/VOAN.jpg.jpg"
+publishDate = "2017-11-22T20:53:00-05:00"
+related_articles = ["articles/dont-miss-luminatos-bearing.md"]
+related_people = ["scene/people/michael-mori.md"]
+short_description = "Stravinsky&#039;s L&#039;histoire du soldat is re-imagined by First Nations choreographer Aria Evans &quot;through a truly Canadian lens&quot;; and mezzo-soprano Rebecca Cuddy sings the new orchestral song cycle by Ian Cusson, Five Orchestra Songs, based on Métis poet Marilyn Dumont&#039;s A Really Good Brown Girl. The song cycle is directed by Tapestry Opera Artistic Director Michael Mori."
+slug = "dont-miss-voice-of-a-nation"
+title = "Don&#039;t miss: Voice of a Nation"
++++
 
 This week, the Toronto Concert Orchestra shines a spotlight on the work of emerging First Nations artists, with [*Voice of a Nation*](https://www.eventbrite.ca/e/voice-of-a-nation-tickets-39468035958), a multi-disciplinary concert program combining orchestra, choir, soloists, dance, spoken word, and film.
 

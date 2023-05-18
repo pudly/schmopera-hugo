@@ -1,34 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2018-01-08T21:06:00-05:00"
-lastmod: "2018-01-08T21:06:00-05:00"
-preamble: 'Readers, what are you looking forward to in your operatic lives this year?
-  Every now and then it''s nice to take stock of the exciting things on the horizon,
-  to keep us interested and invested in the art form we all love. We''ve got four
-  things for opera fans to get properly pumped about in 2018:'
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515462943760/2018-01-08---Excited.jpg.jpg
-publishDate: "2018-01-08T21:06:00-05:00"
-related_articles:
-- articles/8-contemporary-roles-to-covet.md
-- articles/the-future-of-opera-is-indie.md
-related_companies:
-- scene/companies/des-moines-metro-opera.md
-- scene/companies/chicago-fringe-opera.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/minnesota-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/opera-north.md
-- scene/companies/glimmerglass-festival.md
-short_description: 'Readers, what are you looking forward to in your operatic lives
-  this year? Every now and then it&#039;s nice to take stock of the exciting things
-  on the horizon, to keep us interested and invested in the art form we all love.
-  We&#039;ve got four things for opera fans to get properly pumped about in 2018:'
-slug: 4-reasons-to-get-excited-about-opera-in-2018
-title: 4 reasons to get excited about opera in 2018
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2018-01-08T21:06:00-05:00"
+lastmod = "2018-01-08T21:06:00-05:00"
+preamble = "Readers, what are you looking forward to in your operatic lives this year? Every now and then it's nice to take stock of the exciting things on the horizon, to keep us interested and invested in the art form we all love. We've got four things for opera fans to get properly pumped about in 2018:"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515462943760/2018-01-08---Excited.jpg.jpg"
+publishDate = "2018-01-08T21:06:00-05:00"
+related_articles = ["articles/8-contemporary-roles-to-covet.md","articles/the-future-of-opera-is-indie.md"]
+related_companies = ["scene/companies/des-moines-metro-opera.md","scene/companies/chicago-fringe-opera.md","scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/minnesota-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/opera-north.md","scene/companies/glimmerglass-festival.md"]
+short_description = "Readers, what are you looking forward to in your operatic lives this year? Every now and then it&#039;s nice to take stock of the exciting things on the horizon, to keep us interested and invested in the art form we all love. We&#039;ve got four things for opera fans to get properly pumped about in 2018:"
+slug = "4-reasons-to-get-excited-about-opera-in-2018"
+title = "4 reasons to get excited about opera in 2018"
++++
 
 ## Streamable productions to pique your curiosity
 

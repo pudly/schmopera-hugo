@@ -1,24 +1,13 @@
----
-_template: people_single
-date: "2016-08-30T11:43:00+01:00"
-discipline: Tenor
-lastmod: "2016-08-30T11:43:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472553734019/2016-08-30---Steven-Cole.jpg.jpg
-publishDate: "2016-08-30T11:43:00+01:00"
-related_companies:
-- scene/companies/opra-national-de-paris.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/gran-teatre-del-liceu.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/seattle-opera.md
-- scene/companies/lyric-opera-of-kansas-city.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/salzburg-festival.md
-slug: steven-cole
-title: Steven Cole
----
++++
+date = "2016-08-30T11:43:00+01:00"
+discipline = "Tenor"
+lastmod = "2016-08-30T11:43:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472553734019/2016-08-30---Steven-Cole.jpg.jpg"
+publishDate = "2016-08-30T11:43:00+01:00"
+related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/canadian-opera-company.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/seattle-opera.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/salzburg-festival.md"]
+slug = "steven-cole"
+title = "Steven Cole"
++++
 
 Internationally acclaimed American character tenor Steven Cole made his professional debut singing Monsieur Triquet in *Eugene Onegin* with the Boston Symphony under Seiji Ozawa at Tanglewood. Specializing in character tenor roles, he has a remarkably varied repertoire with more than 70 roles from Monteverdi to Ligeti.
 

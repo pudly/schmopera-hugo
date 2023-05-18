@@ -1,24 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-05-03T09:51:00+01:00"
-lastmod: "2016-05-03T11:31:00+01:00"
-preamble: 'Photo: [Tech. Sgt. Matt Hecht](https://www.flickr.com/photos/satransport/8349998703),
-  [Flickr](https://creativecommons.org/licenses/by/2.0/legalcode).'
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462270041741/2016-05-03---Helicopter.jpg.jpg
-publishDate: "2016-05-03T11:25:00+01:00"
-related_articles:
-- articles/young-pups-and-puccini.md
-- articles/music-school-auditions-4-tips-for-parents.md
-- articles/5-tips-for-university-auditionees.md
-short_description: So, because training for opera takes patience and nurturing, and
-  rarely results in the kind of fame and fortune that makes terrible parents proud,
-  have we escaped the curse of stage moms and dads? Is opera an ironic blind spot,
-  ignored by the validation seekers in favour of TV commercials and youth beauty pageants?
-slug: rarities-opera-stage-parents
-title: 'Rarities: opera stage parents'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-05-03T09:51:00+01:00"
+lastmod = "2016-05-03T11:31:00+01:00"
+preamble = "Photo: [Tech. Sgt. Matt Hecht](https://www.flickr.com/photos/satransport/8349998703), [Flickr](https://creativecommons.org/licenses/by/2.0/legalcode)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462270041741/2016-05-03---Helicopter.jpg.jpg"
+publishDate = "2016-05-03T11:25:00+01:00"
+related_articles = ["articles/young-pups-and-puccini.md","articles/music-school-auditions-4-tips-for-parents.md","articles/5-tips-for-university-auditionees.md"]
+short_description = "So, because training for opera takes patience and nurturing, and rarely results in the kind of fame and fortune that makes terrible parents proud, have we escaped the curse of stage moms and dads? Is opera an ironic blind spot, ignored by the validation seekers in favour of TV commercials and youth beauty pageants?"
+slug = "rarities-opera-stage-parents"
+title = "Rarities: opera stage parents"
++++
 
 Opera is no isolated genre; it's deeply connected with its artistic cousins. It's a melding of music and theatre, elements that not only stand on their own, but can be re-shuffled into various combinations and delivered to an audience. Drama and music can add up and equal opera, but they can also equal music theatre, ballet, oratorio, and even straight theatre with no music implied.
 

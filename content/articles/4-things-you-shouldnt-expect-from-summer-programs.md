@@ -1,26 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-03-02T15:42:00+00:00"
-lastmod: "2017-03-16T13:06:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488475273563/2017-03-02---Summer.jpg.jpg
-publishDate: "2017-03-16T13:06:00+00:00"
-related_articles:
-- articles/paid-summer-programs-is-it-time-for-a-revolution.md
-- articles/how-to-make-the-most-of-your-summer-program.md
-related_companies:
-- scene/companies/cosi-centre-for-opera-studies-in-italy.md
-short_description: If you decide that you&#039;re not going to get hired based on
-  your work at a summer program, you&#039;ll ironically have a better time doing what
-  you&#039;re meant to be doing at said program. You&#039;ll focus on the work in
-  front of you, and not with building up forced face time with the conductor or bothering
-  the agent over break with banal conversation meant to &quot;impress&quot; them.
-  You&#039;ll be a better artist, and you&#039;ll have that air of confidence - as
-  false as it may be - that makes people want to work with you.
-slug: 4-things-you-shouldnt-expect-from-summer-programs
-title: 4 things you shouldn&#039;t expect from summer programs
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-03-02T15:42:00+00:00"
+lastmod = "2017-03-16T13:06:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488475273563/2017-03-02---Summer.jpg.jpg"
+publishDate = "2017-03-16T13:06:00+00:00"
+related_articles = ["articles/paid-summer-programs-is-it-time-for-a-revolution.md","articles/how-to-make-the-most-of-your-summer-program.md"]
+related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
+short_description = "If you decide that you&#039;re not going to get hired based on your work at a summer program, you&#039;ll ironically have a better time doing what you&#039;re meant to be doing at said program. You&#039;ll focus on the work in front of you, and not with building up forced face time with the conductor or bothering the agent over break with banal conversation meant to &quot;impress&quot; them. You&#039;ll be a better artist, and you&#039;ll have that air of confidence - as false as it may be - that makes people want to work with you."
+slug = "4-things-you-shouldnt-expect-from-summer-programs"
+title = "4 things you shouldn&#039;t expect from summer programs"
++++
 
 ## A job
 

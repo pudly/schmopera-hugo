@@ -1,26 +1,24 @@
----
-date: "2017-11-13T14:36:00-05:00"
-discipline: Bass
-lastmod: "2017-11-13T14:36:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546110768/media/2018/12/SimonDyer.jpg
-primary_image_credit: Nile Scott Shots
-publishDate: "2017-11-13T14:36:00-05:00"
-related_companies:
-- scene/companies/florida-grand-opera.md
-- scene/companies/glimmerglass-festival.md
-- scene/companies/the-santa-fe-opera.md
-slug: simon-dyer
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/simonsebastian.dyer
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/simonsjdyer/
-title: Simon Dyer
-website: http://simondyeropera.com/
----
++++
+date = "2017-11-13T14:36:00-05:00"
+discipline = "Bass"
+lastmod = "2017-11-13T14:36:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546110768/media/2018/12/SimonDyer.jpg"
+primary_image_credit = "Nile Scott Shots"
+publishDate = "2017-11-13T14:36:00-05:00"
+related_companies = ["scene/companies/florida-grand-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/the-santa-fe-opera.md"]
+slug = "simon-dyer"
+title = "Simon Dyer"
+website = "http://simondyeropera.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/simonsebastian.dyer"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/simonsjdyer/"
+
++++
 Bass, Simon Dyer was an Emerging Artist at Boston Lyric Opera for their 2016/17 season, whilst also completing his studies at The Boston Conservatory. He was seen at BLO as the Keeper of the Madhouse, *The Rake’s Progress* and Antonio, *Le Nozze di Figaro*. He also covered Nick Shadow and Figaro in the respective shows.  He was a member of the Young Artist Program at the Glimmerglass Festival, 2016 and spent the summer of 2017 as a member of the Apprentice Singer Program, The Santa Fe Opera.  Other Recent appearances include Melisso in *Alcina* at the Boston Conservatory, Giorgio in *The Thieving Magpie*, under Maestro Colaneri and covering Rev. John Hale in *The Crucible* at Glimmerglass. Also in 2016 he was seen as the title role in *Le Nozze di Figaro* at The Boston Conservatory and a Verdi *Requiem* in his native London. Other roles at The Boston Conservatory include Nick Shadow, *Rake’s Progress*, Mustafa, *L’italiana in Algeri*, Collatinus, *The Rape of Lucretia*, and The Immigration Officer in Jonathan Dove’s *Flight*. Since moving across the Atlantic, Mr. Dyer has also been seen as Superintendent Budd in *Albert Herring* with Boston Opera Collaborative, and as Luka, *The Bear* and Mr. Grinder, *The Zoo*, with Odyssey Opera. Recent contemporary music highlights include being a featured soloist in *Coro* by Berio at the Lucerne Festival under the baton of Sir Simon Rattle, and curating an immersive performance art event of John Cage’s *Song Books* at the Museum of Fine Arts in Jan 2016 where he also gave a recital in Jan 2017. Dyer also appears on a CD with Boston Modern Orchestra Project of Virgil Thomson’s *Capital Capitals*. 
 
 Upcoming appearances:  Dyer will be a member of the Florida Grand Opera Studio for the 2017/18 season. He will sing Raimondo in *Lucia di Lammermoor*, and 1st Nazarene in *Salome*. 

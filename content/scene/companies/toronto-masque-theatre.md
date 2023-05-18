@@ -1,27 +1,22 @@
----
-date: "2015-04-07T16:25:00-04:00"
-lastmod: "2015-10-31T15:01:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318098871/Logo---TMT.jpg.jpg
-publishDate: "2015-04-07T16:25:00-04:00"
-related_people:
-- scene/people/lawrence-wiliford.md
-- scene/people/james-rolfe.md
-- scene/people/vania-chan.md
-- scene/people/kimberly-barber.md
-- scene/people/patricia-ocallaghan.md
-slug: toronto-masque-theatre
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/torontomasquetheatre?fref=ts
-- _template: company_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/Torontomasque
-title: Toronto Masque Theatre
-type_of_company: Opera Company
-website: http://www.torontomasquetheatre.com/
----
++++
+date = "2015-04-07T16:25:00-04:00"
+lastmod = "2015-10-31T15:01:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446318098871/Logo---TMT.jpg.jpg"
+publishDate = "2015-04-07T16:25:00-04:00"
+related_people = ["scene/people/lawrence-wiliford.md","scene/people/james-rolfe.md","scene/people/vania-chan.md","scene/people/kimberly-barber.md","scene/people/patricia-ocallaghan.md"]
+slug = "toronto-masque-theatre"
+title = "Toronto Masque Theatre"
+type_of_company = "Opera Company"
+website = "http://www.torontomasquetheatre.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/torontomasquetheatre?fref=ts"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/Torontomasque"
++++
 
 <p>
 	Founded by Artistic Director Larry Beckwith in 2003, Toronto Masque Theatre (TMT) is one of the few companies in the world devoted to the masque form.

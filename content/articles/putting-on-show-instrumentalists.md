@@ -1,31 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-07-09T15:38:00-04:00"
-lastmod: "2015-07-20T08:52:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437253913615/LAPhilBW.jpg.jpg
-primary_image_credit: The Cleveland Orchestra under Franz Welser-Möst. Original photo
-  by Roger Mastroianni
-publishDate: "2015-07-20T08:52:00-04:00"
-related_articles:
-- articles/how-to-lead-your-pianist.md
-- articles/potential-orchestra-mutiny-and-conductor-envy.md
-- articles/music-as-theatre-a-chamber-concert-in-banff.md
-- articles/public-practicing-pet-peeves.md
-- articles/opera-orchestras-robots-or-out-of-the-loop.md
-- articles/emotional-extremes-bringing-your-work-home.md
-- articles/instruments-can-sing-too.md
-- articles/the-orchestra-problem-should-they-smile-more.md
-- articles/great-love-affairs-singers-and-pianists.md
-short_description: Ever since I started working more primarily with singers, I&#039;ve
-  learned a lot about what it means to be onstage. Unlike pianists, violinists, cellists,
-  clarinetists, etc., singers are their instrument; this is the case when they&#039;re
-  making sound, and when they&#039;re standing in silence during musical introductions,
-  postludes, and interludes.
-slug: putting-on-show-instrumentalists
-title: Putting on a show &amp; other things instrumentalists can learn from singers
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-07-09T15:38:00-04:00"
+lastmod = "2015-07-20T08:52:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437253913615/LAPhilBW.jpg.jpg"
+primary_image_credit = "The Cleveland Orchestra under Franz Welser-Möst. Original photo by Roger Mastroianni"
+publishDate = "2015-07-20T08:52:00-04:00"
+related_articles = ["articles/how-to-lead-your-pianist.md","articles/potential-orchestra-mutiny-and-conductor-envy.md","articles/music-as-theatre-a-chamber-concert-in-banff.md","articles/public-practicing-pet-peeves.md","articles/opera-orchestras-robots-or-out-of-the-loop.md","articles/emotional-extremes-bringing-your-work-home.md","articles/instruments-can-sing-too.md","articles/the-orchestra-problem-should-they-smile-more.md","articles/great-love-affairs-singers-and-pianists.md"]
+short_description = "Ever since I started working more primarily with singers, I&#039;ve learned a lot about what it means to be onstage. Unlike pianists, violinists, cellists, clarinetists, etc., singers are their instrument; this is the case when they&#039;re making sound, and when they&#039;re standing in silence during musical introductions, postludes, and interludes."
+slug = "putting-on-show-instrumentalists"
+title = "Putting on a show &amp; other things instrumentalists can learn from singers"
++++
 
 Ever since I started working more primarily with singers, I've learned a lot about what it means to be onstage. Unlike pianists, violinists, cellists, clarinetists, etc., singers *are* their instrument; this is the case when they're making sound, and it's the case when they're standing in silence during musical introductions, postludes, and interludes.
 

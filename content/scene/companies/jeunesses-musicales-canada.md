@@ -1,32 +1,26 @@
----
-date: "2015-11-22T21:46:00-05:00"
-lastmod: "2016-01-02T21:23:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448246876459/Logo---JMC.jpg.jpg
-publishDate: "2015-11-22T21:48:00-05:00"
-related_people:
-- scene/people/myriam-leblanc.md
-- scene/people/geoffroy-salvas.md
-- scene/people/tonatiuh-abrego.md
-- scene/people/marcel-dentremont.md
-- scene/people/dylan-wright.md
-- scene/people/katrina-westin.md
-- scene/people/carolanne-fraser.md
-slug: jeunesses-musicales-canada
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/Jeunesses-Musicales-Canada-330606301320/?ref=hl
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/JMC_1949
-- _template: company_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/jeunessesmusicalesca
-title: Jeunesses Musicales Canada
-type_of_company: Non-profit organization
-website: http://www.jmcanada.ca/en
----
++++
+date = "2015-11-22T21:46:00-05:00"
+lastmod = "2016-01-02T21:23:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448246876459/Logo---JMC.jpg.jpg"
+publishDate = "2015-11-22T21:48:00-05:00"
+related_people = ["scene/people/myriam-leblanc.md","scene/people/geoffroy-salvas.md","scene/people/tonatiuh-abrego.md","scene/people/marcel-dentremont.md","scene/people/dylan-wright.md","scene/people/katrina-westin.md","scene/people/carolanne-fraser.md"]
+slug = "jeunesses-musicales-canada"
+title = "Jeunesses Musicales Canada"
+type_of_company = "Non-profit organization"
+website = "http://www.jmcanada.ca/en"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/Jeunesses-Musicales-Canada-330606301320/?ref=hl"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/JMC_1949"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/jeunessesmusicalesca"
++++
 
 A non-profit organization, Jeunesses Musicales Canada (JMC) has a dual mission: to promote the performance of classical music, especially for young audiences, and to help young professional instrumentalists, singers and composers to develop their careers at the national and international levels.
  

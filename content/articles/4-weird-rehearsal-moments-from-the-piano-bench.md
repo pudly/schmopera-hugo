@@ -1,31 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2015-04-10T20:54:00-04:00"
-lastmod: "2016-07-26T13:12:00-04:00"
-preamble: Rehearsals are a lot of things; they're stressful, fun, boring, inspiring,
-  and weird. The last one is probably the most true, and opera folk tend to get de-sensitized
-  to the weird stuff pretty quickly. Obvious examples are hilariously pouffy rehearsal
-  skirts, sopranos who mark with bass-like chest voices, and the generally weird shorthand
-  between the artists ("are we going from vrum-da-DUM or from tinklytinkly?"). I thought
-  I'd share some of these odd moments that I've experienced from my seat at the piano.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713584824/IMG_20141110_135744.jpg.jpg
-publishDate: "2015-04-01T08:53:00-04:00"
-related_articles:
-- articles/i-just-wanna-do-my-nails.md
-- articles/5-times-handel-got-weird.md
-- articles/4-weird-questions-for-opera-singers.md
-short_description: Rehearsals are a lot of things; they&#039;re stressful, fun, boring,
-  inspiring, and weird. The last one is probably the most true, and opera folk tend
-  to get de-sensitized to the weird stuff pretty quickly. Obvious examples are hilariously
-  pouffy rehearsal skirts, sopranos who mark with bass-like chest voices, and the
-  generally weird shorthand between the artists (&quot;are we going from vrum-da-DUM
-  or from tinklytinkly?&quot;). I thought I&#039;d share some of these odd moments
-  that I&#039;ve experienced from my seat at the piano.
-slug: 4-weird-rehearsal-moments-from-the-piano-bench
-title: 4 weird rehearsal moments from the piano bench
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2015-04-10T20:54:00-04:00"
+lastmod = "2016-07-26T13:12:00-04:00"
+preamble = "Rehearsals are a lot of things; they're stressful, fun, boring, inspiring, and weird. The last one is probably the most true, and opera folk tend to get de-sensitized to the weird stuff pretty quickly. Obvious examples are hilariously pouffy rehearsal skirts, sopranos who mark with bass-like chest voices, and the generally weird shorthand between the artists (\"are we going from vrum-da-DUM or from tinklytinkly?\"). I thought I'd share some of these odd moments that I've experienced from my seat at the piano."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428713584824/IMG_20141110_135744.jpg.jpg"
+publishDate = "2015-04-01T08:53:00-04:00"
+related_articles = ["articles/i-just-wanna-do-my-nails.md","articles/5-times-handel-got-weird.md","articles/4-weird-questions-for-opera-singers.md"]
+short_description = "Rehearsals are a lot of things; they&#039;re stressful, fun, boring, inspiring, and weird. The last one is probably the most true, and opera folk tend to get de-sensitized to the weird stuff pretty quickly. Obvious examples are hilariously pouffy rehearsal skirts, sopranos who mark with bass-like chest voices, and the generally weird shorthand between the artists (&quot;are we going from vrum-da-DUM or from tinklytinkly?&quot;). I thought I&#039;d share some of these odd moments that I&#039;ve experienced from my seat at the piano."
+slug = "4-weird-rehearsal-moments-from-the-piano-bench"
+title = "4 weird rehearsal moments from the piano bench"
++++
 
 ## Ambiguous Upbeats
 

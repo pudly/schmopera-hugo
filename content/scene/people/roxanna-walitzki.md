@@ -1,27 +1,29 @@
----
-date: "2016-05-15T16:18:00+01:00"
-discipline: Mezzo-soprano, performance artist
-lastmod: "2016-05-15T16:18:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463325418275/2016-05-15---Roxanna-Walitzki.jpg.jpg
-publishDate: "2016-05-15T16:18:00+01:00"
-slug: roxanna-walitzki
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/roxanna.walitzki
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/roxannacwalitzki/
-- platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/RoxannaWalitzki/videos
-- _template: people_single
-  platform: Soundcloud
-  template: social-media
-  url: https://soundcloud.com/roxannawalitzki
-title: Roxanna Walitzki
-website: http://www.roxannawalitzki.com/
----
++++
+date = "2016-05-15T16:18:00+01:00"
+discipline = "Mezzo-soprano, performance artist"
+lastmod = "2016-05-15T16:18:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463325418275/2016-05-15---Roxanna-Walitzki.jpg.jpg"
+publishDate = "2016-05-15T16:18:00+01:00"
+slug = "roxanna-walitzki"
+title = "Roxanna Walitzki"
+website = "http://www.roxannawalitzki.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/roxanna.walitzki"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/roxannacwalitzki/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/RoxannaWalitzki/videos"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "https://soundcloud.com/roxannawalitzki"
++++
 
 Roxanna Walitzki is an innovative performance-artist whose musical dedication, eye for beauty and unique aesthetic infuses her work with vibrancy and individuality. Trained in vocal performance at NYU and the San Francisco Conservatory of Music, her musical endeavors stretch the bounds of traditional performance-practice and have been heralded as “spellbinding.”
 

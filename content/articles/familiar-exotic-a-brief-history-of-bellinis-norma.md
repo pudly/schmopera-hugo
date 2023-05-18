@@ -1,34 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2016-08-23T18:22:00+01:00"
-lastmod: "2016-08-25T14:55:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472061851056/2016-08-25---Norma.jpg.jpg
-primary_image_credit: 'Photo: Deborah''s Perspective on Flickr.'
-publishDate: "2016-08-25T14:49:00+01:00"
-related_articles:
-- articles/cosi-fan-tutte-misogynist-unreasonable.md
-- articles/why-we-all-love-florence-foster-jenkins.md
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/lyric-opera-of-chicago.md
-related_people:
-- scene/people/sondra-radvanovsky.md
-- scene/people/isabel-leonard.md
-- scene/people/russell-thomas.md
-- scene/people/sonya-yoncheva.md
-- scene/people/sonia-ganassi.md
-- scene/people/elizabeth-deshong.md
-short_description: For British audiences, the Druids were a healthy dose of exoticism;
-  still, the connection to the ancient societies of their own land likely held some
-  form of national and cultural pride. Perhaps it was just enough mystery to pique
-  interest in Norma, and just enough familiarity to easily identify with the values
-  and decisions of the characters.
-slug: familiar-exotic-a-brief-history-of-bellinis-norma
-title: 'Familiar &amp; exotic: a brief history of Bellini&#039;s Norma'
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2016-08-23T18:22:00+01:00"
+lastmod = "2016-08-25T14:55:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472061851056/2016-08-25---Norma.jpg.jpg"
+primary_image_credit = "Photo: Deborah's Perspective on Flickr."
+publishDate = "2016-08-25T14:49:00+01:00"
+related_articles = ["articles/cosi-fan-tutte-misogynist-unreasonable.md","articles/why-we-all-love-florence-foster-jenkins.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md"]
+related_people = ["scene/people/sondra-radvanovsky.md","scene/people/isabel-leonard.md","scene/people/russell-thomas.md","scene/people/sonya-yoncheva.md","scene/people/sonia-ganassi.md","scene/people/elizabeth-deshong.md"]
+short_description = "For British audiences, the Druids were a healthy dose of exoticism; still, the connection to the ancient societies of their own land likely held some form of national and cultural pride. Perhaps it was just enough mystery to pique interest in Norma, and just enough familiarity to easily identify with the values and decisions of the characters."
+slug = "familiar-exotic-a-brief-history-of-bellinis-norma"
+title = "Familiar &amp; exotic: a brief history of Bellini&#039;s Norma"
++++
 
 Bellini's *Norma* is the story of the Druid High-Priestess, who has broken her vows by getting involved with the Roman Pollione. Pollione has fallen out of love with Norma, and now loves the priestess Adalgisa. The two women band together over their shared doomed love, after Norma reveals that she has had children by Pollione. They denounce him, and only when Norma volunteers to sacrifice herself - a priestess who offended her faith - to the Druid rites, does Pollione have a change of heart; he joins her on the pyre, and leaves their children to Adalgisa.
 
@@ -38,9 +22,7 @@ Bellini's 1829 *Zaira* was, comparatively, a cool reception in Parma and in Flor
 
 1831 first saw the Milan premiere of *La sonnambula* in March, and *Norma* was on the Scala stage by December of the same year. The libretto by Romani - also the librettist for Rossini's *Il turco in Italia*, Donizetti's *Anna Bolena*, and Bellini's *I Capuleti e i Montecchi* and *La sonnambula* - was inspired by the play by Alexandre Soumet, *Norma ou l'infanticide*. Bellini had cast Giuditta Pasta as Norma, who had had recent success as Amina in *La sonnambula*, Domenico Donzelli as Pollione, who had earned fame for himself with Rossini's *Otello*, and Giulia Grisi as Adalgisa, who was Pasta's sister (a perfectly cute detail).
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472132122183/2016-08-26---Giuditta-Pasta.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472132122183/2016-08-26---Giuditta-Pasta.jpg.jpg)
 <figcaption>Giuditta Pasta, on the poster for the 1831 premiere of *Norma* at La Scala.</figcaption>
 </figure>
 

@@ -1,20 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2017-07-11T20:38:00-04:00"
-lastmod: "2017-07-21T08:47:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500415121813/2017-07-18---JonasKaufmannMyItaly-1.jpg.jpg
-publishDate: "2017-07-20T20:45:00-04:00"
-related_people:
-- scene/people/jonas-kaufmann.md
-short_description: Kaufmann, in a terribly cute red convertible and colourful shoes,
-  takes a tour along the Italian coastlines. The German tenor tells stories of his
-  childhood visits to Italy with his family, and connects his life in opera - Italian
-  and otherwise - with the culture and lifestyle he grew to love.
-slug: dont-miss-kaufmann-at-the-movies
-title: 'Don&#039;t miss: Kaufmann at the movies'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2017-07-11T20:38:00-04:00"
+lastmod = "2017-07-21T08:47:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500415121813/2017-07-18---JonasKaufmannMyItaly-1.jpg.jpg"
+publishDate = "2017-07-20T20:45:00-04:00"
+related_people = ["scene/people/jonas-kaufmann.md"]
+short_description = "Kaufmann, in a terribly cute red convertible and colourful shoes, takes a tour along the Italian coastlines. The German tenor tells stories of his childhood visits to Italy with his family, and connects his life in opera - Italian and otherwise - with the culture and lifestyle he grew to love."
+slug = "dont-miss-kaufmann-at-the-movies"
+title = "Don&#039;t miss: Kaufmann at the movies"
++++
 
 As part of its [*Music at the Movies*](https://www.cineplex.com/Events/MusicAtTheMovies) series, Cineplex is presenting *Jonas Kaufmann: My Italy*, a concert documentary by Andy Sommers featuring the famed tenor. The doc plays on **July 26, 2017** at select theatres across Canada, and you can [find showtimes here](https://www.cineplex.com/Movie/jonas-kaufmann-my-italy).
 

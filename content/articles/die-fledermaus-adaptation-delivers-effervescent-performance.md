@@ -1,26 +1,17 @@
----
-author:
-- authors/oliver-munar.md
-categories: Review
-date: "2018-09-30T09:50:00-04:00"
-lastmod: "2018-09-30T20:25:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538315315210/sqSCHULTZ_Orlofsky.jpg.jpg
-primary_image_credit: Meaghan Schultz as Orlofsky in Cowtown Opera Company's 2018
-  production of The Bat.
-publishDate: "2018-09-30T09:51:00-04:00"
-related_articles:
-- articles/die-fledermaus-die-flederfabulous.md
-related_companies:
-- scene/companies/cowtown-opera-company.md
-short_description: The standout performer of the evening, however, was soprano Laura
-  Brandt as Eisenstein&#039;s wife, Rose. Brandt&#039;s spinning, confident voice
-  pervaded this production from beginning to end with richness and depth. And in the
-  tradition of a true leading lady, Brandt&#039;s chemistry with each of her castmates
-  - from her husband to her ex-lover to her maid and beyond - is naturally seamless
-  with each interaction. Hers was truly a tour-de-force performance.
-slug: die-fledermaus-adaptation-delivers-effervescent-performance
-title: Die Fledermaus adaptation delivers effervescent performance
----
++++
+author = ["authors/oliver-munar.md"]
+categories = "Review"
+date = "2018-09-30T09:50:00-04:00"
+lastmod = "2018-09-30T20:25:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538315315210/sqSCHULTZ_Orlofsky.jpg.jpg"
+primary_image_credit = "Meaghan Schultz as Orlofsky in Cowtown Opera Company's 2018 production of The Bat."
+publishDate = "2018-09-30T09:51:00-04:00"
+related_articles = ["articles/die-fledermaus-die-flederfabulous.md"]
+related_companies = ["scene/companies/cowtown-opera-company.md"]
+short_description = "The standout performer of the evening, however, was soprano Laura Brandt as Eisenstein&#039;s wife, Rose. Brandt&#039;s spinning, confident voice pervaded this production from beginning to end with richness and depth. And in the tradition of a true leading lady, Brandt&#039;s chemistry with each of her castmates - from her husband to her ex-lover to her maid and beyond - is naturally seamless with each interaction. Hers was truly a tour-de-force performance."
+slug = "die-fledermaus-adaptation-delivers-effervescent-performance"
+title = "Die Fledermaus adaptation delivers effervescent performance"
++++
 
 The great comedienne Lucille Ball once said "I'm not funny. What I am is brave." It's an appropriate sentiment as Calgary-based [Cowtown Opera Company](/scene/companies/cowtown-opera-company/) kicks off its eighth season with an effervescent English-language adaptation of the beloved Johann Strauss operetta *Die Fledermaus*, simply known as *The Bat*.
 
@@ -32,9 +23,7 @@ Like any comedy, the onus falls to the performers to deliver with timing, commit
 
 As the ringleader behind the conspiracy, baritone Ian Fundytus performs with a naturally comedic ease that allows him to anchor this cast. Fundytus' smooth, rich timbre never betrays his plan to set up Eisenstein and that makes the final reveal all the more convincing; he is clearly in his element in this role.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538315400712/FUNDYTUS_Falke.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538315400712/FUNDYTUS_Falke.jpg.jpg)
 <figcaption>Ian Fundytus as Falke in Cowtown Opera Company's 2018 production of *The Bat*.</figcaption>
 </figure>
 
@@ -50,9 +39,7 @@ As Eisenstein, tenor Matthew Bruce delivers an engaging and committed comedic pe
 
 The standout performer of the evening, however, was soprano Laura Brandt as Eisenstein's wife, Rose. Brandt's spinning, confident voice pervaded this production from beginning to end with richness and depth. And in the tradition of a true leading lady, Brandt's chemistry with each of her castmates - from her husband to her ex-lover to her maid and beyond - is naturally seamless with each interaction. Hers was truly a tour-de-force performance.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538315413992/BRANDT_Rose.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538315413992/BRANDT_Rose.jpg.jpg)
 <figcaption>Laura Brandt as Rose Eisenstein in Cowtown Opera Company's 2018 production of *The Bat*.</figcaption>
 </figure>
 

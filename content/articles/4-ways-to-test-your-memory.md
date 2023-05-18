@@ -1,29 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: How-to
-date: "2016-08-08T10:28:00-04:00"
-lastmod: "2017-08-02T21:50:00-04:00"
-preamble: |-
-  In a recent [interview](http://www.faz.net/aktuell/feuilleton/buehne-und-konzert/russische-opernsaengerin-anna-netrebko-im-interview-14374153.html) with Eleanore Büning for FAZ, star soprano [Anna Netrebko](/scene/people/anna-netrebko/) said of the teleprompter she used in Dresden to sing Elsa in *Lohengrin*, "Jetzt verrate ich Ihnen ein Geheimnis: Ich kann keinen deutschen Text memorieren." ("Now I'll tell you a secret: I cannot memorize any German text.")
-
-  Our first reaction was that Netrebko was simply memorizing the wrong way; but really, her career speaks for itself, and we'll not be the ones to criticize her methods. When it comes to singers memorizing their words, the basic goal is to spot as many patterns as possible, like repeated sections of text, rhyme schemes, recognizing when the form goes A-B-A-C-A-D etc. Really, it's a personal thing that comes easily to some, and to others it's hard work.
-
-  Whatever your method is of committing text to memory, we'll offer up some help for the next step, where you get to test your work:
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501725015244/2017-08-02---Memory.jpg.jpg
-publishDate: "2016-08-09T05:54:00-04:00"
-related_articles:
-- articles/how-to-really-learn-a-song.md
-- articles/5-ways-to-build-your-rhythmic-chops.md
-- articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md
-short_description: One of the most common pitfalls of singers in the memorizing process
-  is to combine the words and music too soon. It&#039;s rare for a singer to have
-  a memory lapse with the music itself (weird rhythmic entries excepted); in most
-  cases, a singer&#039;s mind goes blank when they can&#039;t remember the upcoming
-  words - even more so, when the text is in a non-native language.
-slug: 4-ways-to-test-your-memory
-title: 4 ways to test your memory
----
++++
+author = ["authors/jenna.md"]
+categories = "How-to"
+date = "2016-08-08T10:28:00-04:00"
+lastmod = "2017-08-02T21:50:00-04:00"
+preamble = "In a recent [interview](http://www.faz.net/aktuell/feuilleton/buehne-und-konzert/russische-opernsaengerin-anna-netrebko-im-interview-14374153.html) with Eleanore Büning for FAZ, star soprano [Anna Netrebko](/scene/people/anna-netrebko/) said of the teleprompter she used in Dresden to sing Elsa in *Lohengrin*, \"Jetzt verrate ich Ihnen ein Geheimnis: Ich kann keinen deutschen Text memorieren.\" (\"Now I'll tell you a secret: I cannot memorize any German text.\")\n\nOur first reaction was that Netrebko was simply memorizing the wrong way; but really, her career speaks for itself, and we'll not be the ones to criticize her methods. When it comes to singers memorizing their words, the basic goal is to spot as many patterns as possible, like repeated sections of text, rhyme schemes, recognizing when the form goes A-B-A-C-A-D etc. Really, it's a personal thing that comes easily to some, and to others it's hard work.\n\nWhatever your method is of committing text to memory, we'll offer up some help for the next step, where you get to test your work:"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501725015244/2017-08-02---Memory.jpg.jpg"
+publishDate = "2016-08-09T05:54:00-04:00"
+related_articles = ["articles/how-to-really-learn-a-song.md","articles/5-ways-to-build-your-rhythmic-chops.md","articles/singing-in-english-3-reasons-why-no-one-can-understand-you.md"]
+short_description = "One of the most common pitfalls of singers in the memorizing process is to combine the words and music too soon. It&#039;s rare for a singer to have a memory lapse with the music itself (weird rhythmic entries excepted); in most cases, a singer&#039;s mind goes blank when they can&#039;t remember the upcoming words - even more so, when the text is in a non-native language."
+slug = "4-ways-to-test-your-memory"
+title = "4 ways to test your memory"
++++
 
 ## Can you write down and recite the text?
 

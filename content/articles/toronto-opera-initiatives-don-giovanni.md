@@ -1,22 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-02-14T14:32:00-05:00"
-lastmod: "2016-02-14T15:41:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455482315046/2016-02-14---College-Street.jpg.jpg
-publishDate: "2016-02-14T15:30:00-05:00"
-related_articles:
-- articles/dont-miss-toronto-opera-initiatives-don-giovanni.md
-related_people:
-- scene/people/daevyd-pepper.md
-short_description: Led by sopranos Jaclyn Grossman and Rebecca Townsend, the artist-centric
-  collective creates performance opportunities for young artists. During their transition
-  between student and professional life, it&#039;s all about gaining experience, even
-  in what may seem like &quot;stretch roles&quot; for these emerging singers.
-slug: toronto-opera-initiatives-don-giovanni
-title: Toronto Opera Initiative&#039;s Don Giovanni
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-02-14T14:32:00-05:00"
+lastmod = "2016-02-14T15:41:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455482315046/2016-02-14---College-Street.jpg.jpg"
+publishDate = "2016-02-14T15:30:00-05:00"
+related_articles = ["articles/dont-miss-toronto-opera-initiatives-don-giovanni.md"]
+related_people = ["scene/people/daevyd-pepper.md"]
+short_description = "Led by sopranos Jaclyn Grossman and Rebecca Townsend, the artist-centric collective creates performance opportunities for young artists. During their transition between student and professional life, it&#039;s all about gaining experience, even in what may seem like &quot;stretch roles&quot; for these emerging singers."
+slug = "toronto-opera-initiatives-don-giovanni"
+title = "Toronto Opera Initiative&#039;s Don Giovanni"
++++
 
 The newly-formed Toronto Opera Initiative put up an in-concert, semi-staged presentation of Mozart's beloved *Don Giovanni* at College Street United Church, just in time for Valentine's day.
 

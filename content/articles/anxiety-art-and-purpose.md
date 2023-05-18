@@ -1,20 +1,15 @@
----
-author:
-- authors/justin-ralph.md
-categories: Op-ed
-date: "2018-09-27T20:44:00-04:00"
-lastmod: "2018-09-28T22:35:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538096523038/stress.jpg.jpg
-publishDate: "2018-09-28T22:35:00-04:00"
-related_articles:
-- articles/the-anxious-singer-10-tips-to-help-with-anxiety.md
-short_description: I know a lot of my friends and colleagues struggle with performance
-  anxiety, and I wanted to share my thoughts here in the hopes that it might help
-  someone else who is struggling, and open up a dialogue about anxiety and art, which
-  I think for many of us go hand in hand.
-slug: anxiety-art-and-purpose
-title: Anxiety, Art, and Purpose
----
++++
+author = ["authors/justin-ralph.md"]
+categories = "Op-ed"
+date = "2018-09-27T20:44:00-04:00"
+lastmod = "2018-09-28T22:35:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538096523038/stress.jpg.jpg"
+publishDate = "2018-09-28T22:35:00-04:00"
+related_articles = ["articles/the-anxious-singer-10-tips-to-help-with-anxiety.md"]
+short_description = "I know a lot of my friends and colleagues struggle with performance anxiety, and I wanted to share my thoughts here in the hopes that it might help someone else who is struggling, and open up a dialogue about anxiety and art, which I think for many of us go hand in hand."
+slug = "anxiety-art-and-purpose"
+title = "Anxiety, Art, and Purpose"
++++
 
 These days, it's hard to call anxiety and depression in the music industry the elephant in the room - it is an issue that has become abundantly clear. 
 

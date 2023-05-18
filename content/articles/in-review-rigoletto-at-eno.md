@@ -1,38 +1,23 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2017-02-03T09:28:00+00:00"
-lastmod: "2017-02-03T10:50:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486116360420/2017-02-03---ENO-Rigoletto-Nicholas-Pallesen-and-Sydney-Mancasola-Alastair-Muir.jpg.jpg
-primary_image_credit: 'NIcholas Pallesen (Rigoletto) and Sydney Mancasola (Gilda)
-  in ENO''s Rigoletto, 2017. Photo: Alastair Muir.'
-publishDate: "2017-02-03T10:37:00+00:00"
-related_articles:
-- articles/in-review-partenope-at-eno.md
-- articles/stellar-singing-curious-costumes-in-enos-aida.md
-- articles/searching-for-superlatives-locs-suberb-rigoletto.md
-- articles/the-price-of-vengeance-rigoletto-at-roh.md
-- articles/strong-despite-the-details-rigoletto-in-minnesota.md
-related_people:
-- scene/people/sydney-mancasola.md
-short_description: The night truly went to Sydney Mancasola, in her company debut
-  as Gilda. Her first sounds were clear as a bell, like a sorbet to Rigoletto&#039;s
-  dark and murky world. Her singing was polished and thoughtful, with a stunning bloom
-  at the top of her range. Frustrating as Gilda may be - though she comes by her innocence
-  honestly - Mancasola sang with an earnest sound that reminded us of her youth and
-  sheltered existence.
-slug: in-review-rigoletto-at-eno
-title: 'In review: Rigoletto at ENO'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2017-02-03T09:28:00+00:00"
+lastmod = "2017-02-03T10:50:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486116360420/2017-02-03---ENO-Rigoletto-Nicholas-Pallesen-and-Sydney-Mancasola-Alastair-Muir.jpg.jpg"
+primary_image_credit = "NIcholas Pallesen (Rigoletto) and Sydney Mancasola (Gilda) in ENO's Rigoletto, 2017. Photo: Alastair Muir."
+publishDate = "2017-02-03T10:37:00+00:00"
+related_articles = ["articles/in-review-partenope-at-eno.md","articles/stellar-singing-curious-costumes-in-enos-aida.md","articles/searching-for-superlatives-locs-suberb-rigoletto.md","articles/the-price-of-vengeance-rigoletto-at-roh.md","articles/strong-despite-the-details-rigoletto-in-minnesota.md"]
+related_people = ["scene/people/sydney-mancasola.md"]
+short_description = "The night truly went to Sydney Mancasola, in her company debut as Gilda. Her first sounds were clear as a bell, like a sorbet to Rigoletto&#039;s dark and murky world. Her singing was polished and thoughtful, with a stunning bloom at the top of her range. Frustrating as Gilda may be - though she comes by her innocence honestly - Mancasola sang with an earnest sound that reminded us of her youth and sheltered existence."
+slug = "in-review-rigoletto-at-eno"
+title = "In review: Rigoletto at ENO"
++++
 
 Jonathan Miller's production of *Rigoletto* has kicked off its 13th revival run at [English National Opera](/scene/companies/english-national-opera/). The 1950s/mafia-inspired production is bleak, even minimal, and it capitalizes on the bad behaviour of men and women. 
 
 *Rigoletto* is truly a maddening opera. The hunchback joker makes the most of his fate, working as an entertainer to men whose backs stand a little straighter. With good intentions, Rigoletto keeps his daughter captive at home, overcompensating for his apparent failure to protect her mother from the dangers of the world. The men in Rigoletto's life are the bottom-dwellers of society, bullies cloaked in nice suits, lying pick-up artists, and opportunistic assassins.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486116447834/2017-02-03---ENO-Rigoletto-Nicholas-Pallesen-and-Nicholas-Folwell-Alastair-Muir.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486116447834/2017-02-03---ENO-Rigoletto-Nicholas-Pallesen-and-Nicholas-Folwell-Alastair-Muir.jpg.jpg)
 <figcaption>Nicholas Pallesen (Rigoletto) and Nicholas Folwell (Monterone) in *Rigoletto*, ENO, 2017. Photo by Alastair Muir.</figcaption>
 </figure>
 
@@ -48,17 +33,13 @@ Jonathan Miller's production of *Rigoletto* has kicked off its 13th revival run 
 
 The night truly went to [Sydney Mancasola](/scene/people/sydney-mancasola/), in her company debut as Gilda. Her first sounds were clear as a bell, like a sorbet to Rigoletto's dark and murky world. Her singing was polished and thoughtful, with a stunning bloom at the top of her range. Frustrating as Gilda may be - though she comes by her innocence honestly - Mancasola sang with an earnest sound that reminded us of her youth and sheltered existence. Her duets with Pallesen were the highlights of the evening.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486116544667/2017-02-03---ENO-Rigoletto-Joshua-Guerrero-and-Sydney-Mancasola-Alastair-Muir.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486116544667/2017-02-03---ENO-Rigoletto-Joshua-Guerrero-and-Sydney-Mancasola-Alastair-Muir.jpg.jpg)
 <figcaption>Sydney Mancasola (Gilda) and Joshua Guerrero (Duke) in *Rigoletto*, ENO, 2017. Photo by Alastair Muir.</figcaption>
 </figure>
 
 The ENO Orchestra, under Sir Richard Armstrong, offered goosebump moments from those first cursed chords. Armstrong left us wanting more of that rhythmic snap inherent in Verdi's music; the music seemed to sag when it should have simmered. He seemed stubbornly opposed to the Italianate stretch in the score, hurrying the singers through what could have been effective moments of tension-and-release. The music seemed rushed, cramped, and we craved more space for Mancasola as she sang Gilda's famous aria.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486116571336/2017-02-03---ENO-Rigoletto-Joshua-Guerrero-and-Madeleine-Shaw-Alastair-Muir.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486116571336/2017-02-03---ENO-Rigoletto-Joshua-Guerrero-and-Madeleine-Shaw-Alastair-Muir.jpg.jpg)
 <figcaption>Madeleine Shaw (Maddalena) and Joshua Guerrero (Duke) in *Rigoletto*, ENO, 2017. Photo by Alastair Muir.</figcaption>
 </figure>
 

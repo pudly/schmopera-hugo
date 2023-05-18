@@ -1,26 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-04-24T10:53:00-04:00"
-lastmod: "2018-04-30T10:05:00-04:00"
-preamble: |-
-  Between performances of her own - at [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/) and [Washington National Opera](/scene/companies/washington-national-opera/), to name a few - American mezzo-soprano **Betsy Bishop** loves to teach singing. Three years ago, she founded the [Potomac Vocal Institute](https://www.potomacvocal.com/), which brings together teachers, coaches, conductors, and singers to offer training tailored to today's singers.
-
-  In the first of three interviews with [PVI's voice faculty](https://www.potomacvocal.com/voice-faculty), we spoke with Bishop about what she asks of her students, and what she loves solving a "technical puzzle".
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524581033192/sqBetsyBishop.jpg.jpg
-publishDate: "2018-04-30T10:05:00-04:00"
-related_articles:
-- articles/the-voice-teacher-series-edith-wiens.md
-- articles/the-voice-teacher-series-jane-eaglen.md
-- articles/the-voice-teacher-series-jennifer-casey-cabot.md
-short_description: '&quot;My singers, being older, have a different need for honesty.  I
-  don&#039;t think it is ethical for me to pronounce judgement on their potential,
-  but I do think I should point out difficulties that might put a career out of reach
-  for them.&quot;'
-slug: the-voice-teacher-series-betsy-bishop
-title: 'The voice teacher series: Betsy Bishop'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-04-24T10:53:00-04:00"
+lastmod = "2018-04-30T10:05:00-04:00"
+preamble = "Between performances of her own - at [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/) and [Washington National Opera](/scene/companies/washington-national-opera/), to name a few - American mezzo-soprano **Betsy Bishop** loves to teach singing. Three years ago, she founded the [Potomac Vocal Institute](https://www.potomacvocal.com/), which brings together teachers, coaches, conductors, and singers to offer training tailored to today's singers.\n\nIn the first of three interviews with [PVI's voice faculty](https://www.potomacvocal.com/voice-faculty), we spoke with Bishop about what she asks of her students, and what she loves solving a \"technical puzzle\"."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524581033192/sqBetsyBishop.jpg.jpg"
+publishDate = "2018-04-30T10:05:00-04:00"
+related_articles = ["articles/the-voice-teacher-series-edith-wiens.md","articles/the-voice-teacher-series-jane-eaglen.md","articles/the-voice-teacher-series-jennifer-casey-cabot.md"]
+short_description = "&quot;My singers, being older, have a different need for honesty.  I don&#039;t think it is ethical for me to pronounce judgement on their potential, but I do think I should point out difficulties that might put a career out of reach for them.&quot;"
+slug = "the-voice-teacher-series-betsy-bishop"
+title = "The voice teacher series: Betsy Bishop"
++++
 
 ## What do you enjoy most about teaching voice?
 

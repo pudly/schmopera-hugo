@@ -1,28 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2020-05-21T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1590091141/media/2020/05/sqFacepalm_esahqg.jpg
-primary_image_credit: ""
-related_articles:
-- articles/the-met-s-at-home-gala.md
-- articles/covid.md
-related_companies: []
-related_people: []
-short_description: 'Opera people, hang in there. You''re being troopers and innovators
-  and generous people despite losing the thing you love and your ability to live comfortably.
-  It''s so awful, and my heart hurts for you guys. But when you''re not being live
-  opera singers, you''re still being public figures who can set a good example and
-  be good citizens. '
-slug: guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane
-title: 'Guys, stop telling people to #breakquarantine because of a crowded plane'
-youtube_url: ""
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = 2020-05-21T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1590091141/media/2020/05/sqFacepalm_esahqg.jpg"
+primary_image_credit = ""
+related_articles = ["articles/the-met-s-at-home-gala.md", "articles/covid.md"]
+related_companies = []
+related_people = []
+short_description = "Opera people, hang in there. You're being troopers and innovators and generous people despite losing the thing you love and your ability to live comfortably. It's so awful, and my heart hurts for you guys. But when you're not being live opera singers, you're still being public figures who can set a good example and be good citizens. "
+slug = "guys-stop-telling-people-to-breakquarantine-because-of-a-crowded-plane"
+title = "Guys, stop telling people to #breakquarantine because of a crowded plane"
+youtube_url = ""
+
++++
 Oh, hell no, ladies. Outta here with this stupid shit.
 
 Yep, I'm riled up. I'm riled up about Sonya Yoncheva and Anna Netrebko, and how they in particular responded to baritone [Michael Volle](https://www.instagram.com/michaelvolleofficial/)'s recent Instagram posts about crowds. 

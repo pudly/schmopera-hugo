@@ -1,18 +1,14 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2014-08-18T14:56:00-04:00"
-lastmod: "2015-04-16T22:29:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429237700129/img-rufus-opera_115753840825.jpg.jpg
-publishDate: "2014-08-18T14:56:00-04:00"
-short_description: 'Rufus Wainwright is eager to make a studio recording of his first
-  opera, Prima Donna, and the only thing stopping him is money. Rufus has yet to find
-  a financial backer for the project, so he has turned to crowdfunding to find the
-  cash on his own. '
-slug: rufus-wainwright-really-wants-to-record-prima-donna
-title: Rufus Wainwright really wants to record Prima Donna
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2014-08-18T14:56:00-04:00"
+lastmod = "2015-04-16T22:29:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429237700129/img-rufus-opera_115753840825.jpg.jpg"
+publishDate = "2014-08-18T14:56:00-04:00"
+short_description = "Rufus Wainwright is eager to make a studio recording of his first opera, Prima Donna, and the only thing stopping him is money. Rufus has yet to find a financial backer for the project, so he has turned to crowdfunding to find the cash on his own. "
+slug = "rufus-wainwright-really-wants-to-record-prima-donna"
+title = "Rufus Wainwright really wants to record Prima Donna"
++++
 
 Rufus Wainwright is eager to make a studio recording of his first opera, _Prima Donna_, and the only thing stopping him is money. Rufus has yet to find a financial backer for the project, so he has turned to crowdfunding to find the cash on his own. He has set up the _Prima Donna_ project on [Pledge Music](http://www.pledgemusic.com/projects/primadonna), stating, "It is vitally important to me that 'Prima Donna' be properly recorded and released so that I can tour a concert version of it in the coming year." He mentions his opera's short-yet-turbulent performance history, including the "sold out shows in London and Toronto" and the "early rocky days with the Metropolitan Opera," and states that _Prima Donna_ "is a solid and viable offering that both people love performing in and audiences enjoy watching and listening to. It’s vitally important we get a quality recording for generations to come."
 In what seems like an odd choice, Rufus is also offering up a few [incentives](http://www.pledgemusic.com/projects/primadonna) for bigger spenders. He's selling stuff like outfits that he wore onstage or on album covers, one of seven conductor's batons from the _Prima Donna_ recording, £1500, and you can even buy a spot in the "glorious choir" that will back up Rufus as he sings his famous anthem, "Hallelujah". The catch with that one is that the concerts are in Australia and it doesn't look like travel is included in the ~$100 price.

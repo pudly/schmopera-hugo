@@ -1,33 +1,16 @@
----
-author:
-- authors/rebecca-woodmass.md
-categories: Op-ed
-date: "2017-09-14T22:20:00-04:00"
-lastmod: "2017-09-15T22:31:00-04:00"
-preamble: "This is a cross-post original published on [Quill Creative](http://quillcreatelive.com/using-voice-plan-action/).\n***\n\nDear
-  friends,\n\nI wrote the piece below as an archive of what my body has to go through
-  when I get back in touch with a part of myself that I've long neglected. In these
-  times where we are opening our ears and hearts to the cries of the oppressed, both
-  external to ourselves and within ourselves, so many people in my circles are also
-  finding a renewed sense of urgency to use the gifts, talents, and skills they may
-  have abandoned. \n\nThis can be a vulnerable process, and in sharing this writing
-  with you, I do feel quite vulnerable. Who knows how and where I will be compelled
-  to sing more frequently again, but I do know that my voice has power and I can likely
-  use it to improve the situation of my friends, family, communities, fellow humans,
-  and of the earth."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505443016685/2017-09-15---Plan.jpg.jpg
-publishDate: "2017-09-15T21:22:00-04:00"
-related_articles:
-- articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md
-- articles/stop-shaming-adele.md
-short_description: This can be a vulnerable process, and in sharing this writing with
-  you, I do feel quite vulnerable. Who knows how and where I will be compelled to
-  sing more frequently again, but I do know that my voice has power and I can likely
-  use it to improve the situation of my friends, family, communities, fellow humans,
-  and of the earth.
-slug: using-your-voice-again-a-plan-of-action
-title: 'Using your voice again: a plan of action'
----
++++
+author = ["authors/rebecca-woodmass.md"]
+categories = "Op-ed"
+date = "2017-09-14T22:20:00-04:00"
+lastmod = "2017-09-15T22:31:00-04:00"
+preamble = "This is a cross-post original published on [Quill Creative](http://quillcreatelive.com/using-voice-plan-action/).\n***\n\nDear friends,\n\nI wrote the piece below as an archive of what my body has to go through when I get back in touch with a part of myself that I've long neglected. In these times where we are opening our ears and hearts to the cries of the oppressed, both external to ourselves and within ourselves, so many people in my circles are also finding a renewed sense of urgency to use the gifts, talents, and skills they may have abandoned. \n\nThis can be a vulnerable process, and in sharing this writing with you, I do feel quite vulnerable. Who knows how and where I will be compelled to sing more frequently again, but I do know that my voice has power and I can likely use it to improve the situation of my friends, family, communities, fellow humans, and of the earth."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505443016685/2017-09-15---Plan.jpg.jpg"
+publishDate = "2017-09-15T21:22:00-04:00"
+related_articles = ["articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md","articles/stop-shaming-adele.md"]
+short_description = "This can be a vulnerable process, and in sharing this writing with you, I do feel quite vulnerable. Who knows how and where I will be compelled to sing more frequently again, but I do know that my voice has power and I can likely use it to improve the situation of my friends, family, communities, fellow humans, and of the earth."
+slug = "using-your-voice-again-a-plan-of-action"
+title = "Using your voice again: a plan of action"
++++
 
 1. Hear other people sing. Feel it in your gut. Hear their voices rise from their guts. Be moved to tears. Know that you can do that, too; that you have already done it in your life, once; that your life depends on doing it again.
 

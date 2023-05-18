@@ -1,27 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-10-17T16:32:00+01:00"
-lastmod: "2016-10-19T14:23:00+01:00"
-preamble: |
-  Inspired by the tragic history of ["comfort women"](https://en.wikipedia.org/wiki/Comfort_women) in Japan during World War II, Diana Tso's play [*Comfort*](http://redsnowcollective.ca/wordpress/theshow-2/) is coming to Toronto's [Aki Studio, Daniels Spectrum, November 26 to December 10](http://redsnowcollective.ca/wordpress/theshow-2/). The comfort women were forced into sexual slavery, and the atrocities have only recently come to light, after the discovery of official documents from the archives of the Tokyo War Crimes Trials in 1946.
-
-  Tso's play tells a story of true love among horrific societal conditions, and makes use of the Chinese opera, [*The Butterfly Lovers*](https://en.wikipedia.org/wiki/Butterfly_Lovers#Stage_plays_and_operas). We spoke with Tso about her work, and how Comfort adds to the growing canon of literature that gives voice to this part of 20th-century history.
-
-  Tickets start at $15, and you can find full details [right here.](http://redsnowcollective.ca/wordpress/theshow-2/)
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476718512676/2016-10-17---Comfortpromo-DahliaKatz.jpg.jpg
-primary_image_credit: Photo by Dahlia Katz.
-publishDate: "2016-10-19T13:19:00+01:00"
-short_description: '&quot;The Chinese opera and music of &#039;The Butterfly Lovers&#039;,
-  is the cultural character in the play, from which the heroine and hero fall in love
-  and through which they survive the atrocities of war.  The opera&#039;s themes such
-  as gender equality, love, and redemption echo those in the contemporary story of
-  the young lovers&#039; dreams and hopes in 1930s China and how their love stands
-  up against war.&quot;'
-slug: dont-miss-comfort
-title: 'Don&#039;t miss: Comfort'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-10-17T16:32:00+01:00"
+lastmod = "2016-10-19T14:23:00+01:00"
+preamble = "Inspired by the tragic history of [\"comfort women\"](https://en.wikipedia.org/wiki/Comfort_women) in Japan during World War II, Diana Tso's play [*Comfort*](http://redsnowcollective.ca/wordpress/theshow-2/) is coming to Toronto's [Aki Studio, Daniels Spectrum, November 26 to December 10](http://redsnowcollective.ca/wordpress/theshow-2/). The comfort women were forced into sexual slavery, and the atrocities have only recently come to light, after the discovery of official documents from the archives of the Tokyo War Crimes Trials in 1946.\n\nTso's play tells a story of true love among horrific societal conditions, and makes use of the Chinese opera, [*The Butterfly Lovers*](https://en.wikipedia.org/wiki/Butterfly_Lovers#Stage_plays_and_operas). We spoke with Tso about her work, and how Comfort adds to the growing canon of literature that gives voice to this part of 20th-century history.\n\nTickets start at $15, and you can find full details [right here.](http://redsnowcollective.ca/wordpress/theshow-2/)\n"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476718512676/2016-10-17---Comfortpromo-DahliaKatz.jpg.jpg"
+primary_image_credit = "Photo by Dahlia Katz."
+publishDate = "2016-10-19T13:19:00+01:00"
+short_description = "&quot;The Chinese opera and music of &#039;The Butterfly Lovers&#039;, is the cultural character in the play, from which the heroine and hero fall in love and through which they survive the atrocities of war.  The opera&#039;s themes such as gender equality, love, and redemption echo those in the contemporary story of the young lovers&#039; dreams and hopes in 1930s China and how their love stands up against war.&quot;"
+slug = "dont-miss-comfort"
+title = "Don&#039;t miss: Comfort"
++++
 
 ## How common is the subject of "comfort women" in contemporary art and theatre? 
 

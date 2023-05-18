@@ -1,27 +1,22 @@
----
-date: "2015-04-06T13:25:00-04:00"
-discipline: Tenor
-lastmod: "2018-05-10T20:13:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489575934425/2017-03-15---Adrian-Kramer.jpg.jpg
-publishDate: "2015-04-06T13:25:00-04:00"
-related_companies:
-- scene/companies/opera-5.md
-- scene/companies/saskatoon-opera.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/toronto-operetta-theatre.md
-slug: adrian-kramer
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/aitkramer
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/channel/UCnf4fHKxmp60dVV00cRt69Q
-title: Adrian Kramer
-website: http://www.adriankramertenor.com/
----
++++
+date = "2015-04-06T13:25:00-04:00"
+discipline = "Tenor"
+lastmod = "2018-05-10T20:13:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489575934425/2017-03-15---Adrian-Kramer.jpg.jpg"
+publishDate = "2015-04-06T13:25:00-04:00"
+related_companies = ["scene/companies/opera-5.md","scene/companies/saskatoon-opera.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/toronto-operetta-theatre.md"]
+slug = "adrian-kramer"
+title = "Adrian Kramer"
+website = "http://www.adriankramertenor.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/aitkramer"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UCnf4fHKxmp60dVV00cRt69Q"
++++
 
 Canadian tenor Adrian Kramer has joined opera companies throughout North America in recent seasons, earning critical praise for his vocal appeal and his strong theatrical engagement. In 2018 he makes his Edmonton Opera debut as Ralph Rackstraw in *HMS Pinafore* and his off-Broadway debut in collaboration with Ensemble of the Romantic Century as the Tenor in *Tchaikovsky: None But the Lonely Heart*, as well as joining Opera Philadelphia as Normanno in *Lucia di Lammermoor*.  Mr. Kramer will then return to Opera Omaha as Gérard in Philip Glass's *Les Enfants Terribles* as part of their acclaimed ONE Festival.  He made an especially successful San Diego Opera debut in 2017 as Don José in *La tragédie de Carmen*. 
 

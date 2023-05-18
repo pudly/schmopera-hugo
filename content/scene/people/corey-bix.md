@@ -1,32 +1,23 @@
----
-date: "2017-10-11T15:54:00-04:00"
-discipline: Tenor
-lastmod: "2017-10-11T15:58:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507751537495/IMG%2520%2520324_RT_FF_o.jpeg.jpeg
-primary_image_credit: Kenneth Dolin
-publishDate: "2017-10-11T15:57:00-04:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/arizona-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/glimmerglass-festival.md
-- scene/companies/washington-national-opera.md
-- scene/companies/florida-grand-opera.md
-slug: corey-bix
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/CoreyBixTenor/
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/CoreyBixTenor
-title: Corey Bix
-website: http://www.coreybix.com/
----
++++
+date = "2017-10-11T15:54:00-04:00"
+discipline = "Tenor"
+lastmod = "2017-10-11T15:58:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507751537495/IMG%2520%2520324_RT_FF_o.jpeg.jpeg"
+primary_image_credit = "Kenneth Dolin"
+publishDate = "2017-10-11T15:57:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/arizona-opera.md","scene/companies/san-francisco-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/washington-national-opera.md","scene/companies/florida-grand-opera.md"]
+slug = "corey-bix"
+title = "Corey Bix"
+website = "http://www.coreybix.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/CoreyBixTenor/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/CoreyBixTenor"
++++
 
 Opera News praises Corey Bix for his “clear sense of drama and self-possession, exhibiting sturdy, unwavering control, flinty resonance and confident high notes.” In the 2017-18 season, he makes his Canadian Opera Company debut as Elemer in *Arabella*. Last season, he returned to Virginia Opera for his first performances of Max in *Der Freischütz*, the Lyric Opera of Chicago as Énée and Helenus in *Les Troyens*, and joined the Metropolitan Opera roster for its production of *Der fliegende Holländer*. He recently returned to San Francisco Opera as Augustin Moser in *Die Meistersinger von Nürnberg* and also for its production of Jenůfa, joined Virginia Opera as Erik in *Der fliegende Holländer*, Austin Lyric Opera to reprise his acclaimed portrayal of Lennie in *Of Mice and Men*, and sang Mahler’s *Das Lied von der Erde* at the Centro Nacional de las Artes in Mexico City. 
 

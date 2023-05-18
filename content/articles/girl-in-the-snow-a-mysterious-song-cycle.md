@@ -1,35 +1,27 @@
----
-author:
-- authors/john-hohmann.md
-categories: Review
-date: "2021-05-20T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1621562920/media/2021/05/GirlintheSnow-Albumcover_uswbsz.jpg
-primary_image_credit: Image courtesy of Acis.
-related_articles:
-- articles/video-premiere-the-mystery-of-the-world-according-to-julia-dawson.md
-related_companies: []
-related_people:
-- scene/people/julia-dawson.md
-short_description: 'Though distinctly modern in all respects, Girl In The Snow possesses
-  a timeless patina. Ordway''s ambitious and naturalistic poetry, both dreamy, even
-  fancifully at moments, is also marked with underlying tension and foreboding. Such
-  variety seasons the work. His composition, written for solo piano accompanying mezzo-soprano
-  voice, is resonant, often propulsive and grippingly abstract. '
-slug: girl-in-the-snow-a-mysterious-song-cycle
-title: 'Girl in the Snow: a mysterious song cycle'
-youtube_url: ""
----
++++
+author = ["authors/john-hohmann.md"]
+categories = "Review"
+date = 2021-05-20T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1621562920/media/2021/05/GirlintheSnow-Albumcover_uswbsz.jpg"
+primary_image_credit = "Image courtesy of Acis."
+related_articles = ["articles/video-premiere-the-mystery-of-the-world-according-to-julia-dawson.md"]
+related_companies = []
+related_people = ["scene/people/julia-dawson.md"]
+short_description = "Though distinctly modern in all respects, Girl In The Snow possesses a timeless patina. Ordway's ambitious and naturalistic poetry, both dreamy, even fancifully at moments, is also marked with underlying tension and foreboding. Such variety seasons the work. His composition, written for solo piano accompanying mezzo-soprano voice, is resonant, often propulsive and grippingly abstract. "
+slug = "girl-in-the-snow-a-mysterious-song-cycle"
+title = "Girl in the Snow: a mysterious song cycle"
+youtube_url = ""
+
++++
 Sometimes musical experiences are enhanced when they appear in close proximity to one another. Such was the case when listening to [_Girl In The Snow_](/video-premiere-the-mystery-of-the-world-according-to-julia-dawson/), a beautiful and mysterious song cycle by Scott Ordway. Just a few days prior I had viewed _The Waves in Quarantine_, Lisa Peterson’s pandemic inspired streaming treatment of David Bucknam’s musical adaptation of _The Waves_ by Virginia Woolf.
 
 These are deeply introspective pieces, both non-linear as they move in and out of stream of consciousness storytelling. Despite their sense of longing and isolation, exposure to them induces feelings of emotional and intellectual satisfaction. They are ravishing if melancholic excursions. This being Schmopera, we are here to ponder _Girl In The Snow_. Still I would urge readers to visit [Berkeleyrep.org](https://berkeleyrep.org/) before May 28 to ride _The Waves In Quarantine_ and take a most convergent journey with Virginia Woolf and David Bucknam.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1621562940/media/2021/05/GirlintheSnow-ScottOrdway_igfmlc.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621562940/media/2021/05/GirlintheSnow-ScottOrdway_igfmlc.jpg){{% /md %}}
 
 <figcaption>Scott Ordway, composer of Girl in the Snow. Photo: Amanda Greene.</figcaption>  
 </figure>
@@ -59,9 +51,7 @@ The air that holds your wings._
 
 In "Mystery Play No. 3" Ordway traverses in minimalism with subtle and relentless variation on singular notes. The role of the piano rises from accompaniment to that of the subconscious or spirit guide. Clearly Ordway has employed Augustine's ancient concept of interiority in evocative musical service. Anna Naretto brings uncommon sensitivity to her piano accompaniment. How fortunate for the recording to have a collaborator who so readily absorbs and expresses its many spiritual and emotional moods. While Naretto is the consummate accompanist she is also a vital partner on this journey that would not reach its destination so movingly without her nuanced touch at the keyboard.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1621563050/media/2021/05/GirlintheSnow-AnnaNaretto_ypnazz.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621563050/media/2021/05/GirlintheSnow-AnnaNaretto_ypnazz.jpg){{% /md %}}
 
 <figcaption>Anna Naretto, pianist. Photo: Evelyn Fay.</figcaption>  
 </figure>
@@ -70,9 +60,7 @@ The recording is expertly engineered by Alexander Brusencev, who has a long rela
 
 Joining Naretto is [Julia Dawson](/scene/people/julia-dawson/), a brilliant coloratura mezzo soprano who, like Ordway's poetry, brings a sense of timelessness to the work. While Dawson's voice blooms with gorgeous high notes and impressive flexibility, the singer sustains a steady reserve, readily felt if not easily defined. It leans towards overarching self-awareness. Perhaps we are hearing the voice of the girl in the woods who has already found Augustine's concept of inner peace and is simply reliving the journey with the most elegantly expressed insight. This puts a metaphysical spin on an already mysterious song cycle, one that repeated listenings may only deepen. Whatever the answer, Dawson delivers a dramatically mesmerizing and vocally polished performance that ads luster to the work's already impressive patina.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1621563004/media/2021/05/GirlintheSNow-JuliaDawson_ldye9k.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1621563004/media/2021/05/GirlintheSNow-JuliaDawson_ldye9k.jpg){{% /md %}}
 
 <figcaption>Julia Dawson, mezzo-soprano. Photo: Cacao Produccines.</figcaption>  
 </figure>

@@ -1,19 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-10-14T07:12:00-04:00"
-lastmod: "2017-11-30T21:32:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512095518830/2017-11-30---Love.jpg.jpg
-publishDate: "2016-10-14T07:56:00-04:00"
-related_articles:
-- articles/putting-on-show-instrumentalists.md
-- articles/instruments-can-sing-too.md
-short_description: |
-  So, perhaps we&#039;ve dubbed this Friday &quot;Hug a Singer Day&quot; for the pianists out there, and &quot;Hug a Pianist Day&quot; for the owners of lovely voices. Together, singers and pianists are our favourite example of something that&#039;s greater than the sum of its parts.
-slug: great-love-affairs-singers-and-pianists
-title: 'Great love affairs: singers and pianists'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-10-14T07:12:00-04:00"
+lastmod = "2017-11-30T21:32:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512095518830/2017-11-30---Love.jpg.jpg"
+publishDate = "2016-10-14T07:56:00-04:00"
+related_articles = ["articles/putting-on-show-instrumentalists.md","articles/instruments-can-sing-too.md"]
+short_description = "So, perhaps we&#039;ve dubbed this Friday &quot;Hug a Singer Day&quot; for the pianists out there, and &quot;Hug a Pianist Day&quot; for the owners of lovely voices. Together, singers and pianists are our favourite example of something that&#039;s greater than the sum of its parts.\n"
+slug = "great-love-affairs-singers-and-pianists"
+title = "Great love affairs: singers and pianists"
++++
 
 Up there on the list of life's great pairings - like wine & cheese, peanut butter & jelly, and bubble baths & books - is the formidable combination of singer and pianist.
 

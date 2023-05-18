@@ -1,30 +1,17 @@
----
-author:
-- authors/frank-pesci.md
-categories: Op-ed
-date: "2017-06-25T10:11:00-06:00"
-lastmod: "2017-06-29T23:59:00-06:00"
-preamble: 'This is the final piece in a series of essays by composer and guest contributor
-  Frank Pesci. In four installments originally published on [New Music Box](http://www.newmusicbox.org/articles/author/frank-pesci/),
-  Pesci recounts his participation in Fort Worth Opera''s [Frontiers](http://www.fwopera.org/operas/frontiers/)
-  showcase, a major opportunity for emerging American composers. '
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498407454331/2017-06-25---Next.jpg.jpg
-publishDate: "2017-06-29T23:40:00-06:00"
-related_articles:
-- articles/fine-mess-composer-new-opera.md
-- articles/preparing-for-performance-what-i-didnt-know-i-knew.md
-- articles/the-big-and-everpresent-whats-next.md
-related_companies:
-- scene/companies/fort-worth-opera.md
-short_description: From the perspective of my relatively secure, European composer
-  bubble, the amount of exposure I received between the announcement of, and participation
-  in, Frontiers bordered on empowering and overwhelming, with a dash of terror for
-  good measure. The response I received from audiences, colleagues, and the staff
-  of Fort Worth Opera affirmed my Brand — &quot;I am becoming a better opera composer&quot;
-  — for the foreseeable future.
-slug: the-big-and-everpresent-whats-next
-title: The big, and ever-present, &quot;what&#039;s next?&quot;
----
++++
+author = ["authors/frank-pesci.md"]
+categories = "Op-ed"
+date = "2017-06-25T10:11:00-06:00"
+lastmod = "2017-06-29T23:59:00-06:00"
+preamble = "This is the final piece in a series of essays by composer and guest contributor Frank Pesci. In four installments originally published on [New Music Box](http://www.newmusicbox.org/articles/author/frank-pesci/), Pesci recounts his participation in Fort Worth Opera's [Frontiers](http://www.fwopera.org/operas/frontiers/) showcase, a major opportunity for emerging American composers. "
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498407454331/2017-06-25---Next.jpg.jpg"
+publishDate = "2017-06-29T23:40:00-06:00"
+related_articles = ["articles/fine-mess-composer-new-opera.md","articles/preparing-for-performance-what-i-didnt-know-i-knew.md","articles/the-big-and-everpresent-whats-next.md"]
+related_companies = ["scene/companies/fort-worth-opera.md"]
+short_description = "From the perspective of my relatively secure, European composer bubble, the amount of exposure I received between the announcement of, and participation in, Frontiers bordered on empowering and overwhelming, with a dash of terror for good measure. The response I received from audiences, colleagues, and the staff of Fort Worth Opera affirmed my Brand — &quot;I am becoming a better opera composer&quot; — for the foreseeable future."
+slug = "the-big-and-everpresent-whats-next"
+title = "The big, and ever-present, &quot;what&#039;s next?&quot;"
++++
 
 I'm sitting at a bar two days after my Frontiers performance. It's a bar where the Frontiers composers spent many hours socializing and talking technique, plans, and projects. Now, I'm alone; most of my colleagues have left Fort Worth and I am waiting for the shuttle that will take me to the plane to begin my journey home.
 
@@ -40,9 +27,7 @@ The audience's response to my music was overwhelmingly positive, I think. I actu
 
 The next morning involved a discussion with six members of the Frontiers panel, a group of decision makers from across the country who had also selected the pieces that were presented in the showcase. I scored points by describing the flexibility of the orchestration and casting options, being told that the absence of "preciousness" in my work and presentation (defined as a reluctance to let go and let collaborators in) was evident. I felt the warmth of comments regarding my lyricism, the balance of my vocal and piano writing, and the creativity of weaving Poe's poetry (what one panelist called "found material") into the libretto and the multiplying effect it had on character development. A review in the local paper said about my opera (which takes place in an mental institution), "…needless to say, you wouldn't want to be in this asylum – as either patient or caregiver." I'll take that as a positive.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498406901664/Frontiers2017-Everyone.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498406901664/Frontiers2017-Everyone.jpg.jpg)
 <figcaption>Everyone involved in the 2017 Frontiers Showcase at Fort Worth Opera.</figcaption>
 </figure>
 

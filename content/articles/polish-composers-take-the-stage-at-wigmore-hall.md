@@ -1,28 +1,17 @@
----
-author:
-- authors/vivian-darkbloom.md
-categories: Review
-date: "2017-10-16T13:16:00-04:00"
-lastmod: "2017-10-16T19:32:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508174667238/2017-10-16---Jennifer_Pike_4_-_c_Tom_Barnes.jpg.jpg
-primary_image_credit: 'Jennifer Pike, violinist. Photo: Tom Barnes.'
-publishDate: "2017-10-16T19:32:00-04:00"
-related_articles:
-- articles/in-review-early-opera-company-at-wigmore-hall.md
-- articles/fierce-recitals-karita-mattila-at-wigmore-hall.md
-- articles/in-review-lawrence-zazzo-at-wigmore-hall.md
-related_people:
-- scene/people/jennifer-pike.md
-short_description: After intermission, the pair played a short work by Mikołaj Górecki,
-  son of the famous Henryk. The piece was called &quot;Farewell&quot; and though it
-  was undeniably beautiful, it seemed to be over almost before it began. It was performed
-  in a way that was tender and almost sentimental, but balanced with a little bit
-  of a bite. Poster was particularly lovely in this work, nuancing every shape. Their
-  communication as a pair was more obvious in the comparative simplicity of this work,
-  something which was lovely to see on stage.
-slug: polish-composers-take-the-stage-at-wigmore-hall
-title: Polish composers take the stage at Wigmore Hall
----
++++
+author = ["authors/vivian-darkbloom.md"]
+categories = "Review"
+date = "2017-10-16T13:16:00-04:00"
+lastmod = "2017-10-16T19:32:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508174667238/2017-10-16---Jennifer_Pike_4_-_c_Tom_Barnes.jpg.jpg"
+primary_image_credit = "Jennifer Pike, violinist. Photo: Tom Barnes."
+publishDate = "2017-10-16T19:32:00-04:00"
+related_articles = ["articles/in-review-early-opera-company-at-wigmore-hall.md","articles/fierce-recitals-karita-mattila-at-wigmore-hall.md","articles/in-review-lawrence-zazzo-at-wigmore-hall.md"]
+related_people = ["scene/people/jennifer-pike.md"]
+short_description = "After intermission, the pair played a short work by Mikołaj Górecki, son of the famous Henryk. The piece was called &quot;Farewell&quot; and though it was undeniably beautiful, it seemed to be over almost before it began. It was performed in a way that was tender and almost sentimental, but balanced with a little bit of a bite. Poster was particularly lovely in this work, nuancing every shape. Their communication as a pair was more obvious in the comparative simplicity of this work, something which was lovely to see on stage."
+slug = "polish-composers-take-the-stage-at-wigmore-hall"
+title = "Polish composers take the stage at Wigmore Hall"
++++
 
 Saturday at the Wigmore Hall featured three concerts full of music by Polish composers. Violinist Jennifer Pike was the organiser of the whole project - the repertoire ranged from the baroque to the brand new and everything in between. Sadly I was only able to attend the final concert of the evening, but I would have loved to hear all three! The performance I saw was wonderful, consummately musical and full of moments of true beauty. All four works were amazing in their own rights, though I felt it was slightly strange programming - particularly the second half felt awkward to me. 
 

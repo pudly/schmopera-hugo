@@ -1,29 +1,18 @@
----
-author:
-- authors/kristen-seikaly.md
-categories: Op-ed
-date: "2015-04-16T21:46:00-04:00"
-lastmod: "2015-04-20T14:17:00-04:00"
-preamble: |-
-  This is a repost of a great [article](http://www.kristenseikaly.com/3-steps-to-role-prep-a-guide-to-learning-an-operatic-role/) by mezzo-soprano [Kristen Seikaly](http://www.kristenseikaly.com/). She's got a great [blog](http://www.kristenseikaly.com/blog/), and she was kind enough to let me put her article up for Schmopera readers. Kristen has put together a beautifully detailed list of steps for singers who have a role to learn. Read on and show up to rehearsal like a pro.
-
-  For a follow-up to this article, read Kristen's new post, [*Secco Recitative: A Guide to Learning Operatic Dialogue*](http://www.kristenseikaly.com/secco-recitative-a-guide-to-learning-operatic-dialogue/).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429552948318/Kristen_Fotor.jpg.jpg
-primary_image_credit: 'Photo: kristenseikaly.com'
-publishDate: "2015-04-17T08:04:00-04:00"
-related_articles:
-- articles/6-learn-language.md
-- articles/quick-tips-the-rolled-r-test.md
-- articles/4-steps-to-taking-fixing-notes.md
-related_people:
-- scene/people/kristen-seikaly.md
-short_description: Whether you are just learning your first role or seasoning your
-  role-learning technique, this guide is intended to help you with learning an operatic
-  role as efficiently and painlessly as possible. I hope that you will share with
-  me any tips and tricks that I have not mentioned here.
-slug: kristen-seikaly-on-how-to-learn-a-role
-title: Kristen Seikaly on how to learn a role
----
++++
+author = ["authors/kristen-seikaly.md"]
+categories = "Op-ed"
+date = "2015-04-16T21:46:00-04:00"
+lastmod = "2015-04-20T14:17:00-04:00"
+preamble = "This is a repost of a great [article](http://www.kristenseikaly.com/3-steps-to-role-prep-a-guide-to-learning-an-operatic-role/) by mezzo-soprano [Kristen Seikaly](http://www.kristenseikaly.com/). She's got a great [blog](http://www.kristenseikaly.com/blog/), and she was kind enough to let me put her article up for Schmopera readers. Kristen has put together a beautifully detailed list of steps for singers who have a role to learn. Read on and show up to rehearsal like a pro.\n\nFor a follow-up to this article, read Kristen's new post, [*Secco Recitative: A Guide to Learning Operatic Dialogue*](http://www.kristenseikaly.com/secco-recitative-a-guide-to-learning-operatic-dialogue/)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429552948318/Kristen_Fotor.jpg.jpg"
+primary_image_credit = "Photo: kristenseikaly.com"
+publishDate = "2015-04-17T08:04:00-04:00"
+related_articles = ["articles/6-learn-language.md","articles/quick-tips-the-rolled-r-test.md","articles/4-steps-to-taking-fixing-notes.md"]
+related_people = ["scene/people/kristen-seikaly.md"]
+short_description = "Whether you are just learning your first role or seasoning your role-learning technique, this guide is intended to help you with learning an operatic role as efficiently and painlessly as possible. I hope that you will share with me any tips and tricks that I have not mentioned here."
+slug = "kristen-seikaly-on-how-to-learn-a-role"
+title = "Kristen Seikaly on how to learn a role"
++++
 
 Whether you are just learning your first role or seasoning your role-learning technique, this guide is intended to help you with learning an operatic role as efficiently and painlessly as possible. I hope that you will share with me any tips and tricks that I have not mentioned here. Not only will it be helpful to my readers, it just so happens that I am learning a role right now myself! I will use the role I’m covering, Prince Orlofsky from Johann Strauss’ *Die Fledermaus*, as my guide for this tutorial. 
 

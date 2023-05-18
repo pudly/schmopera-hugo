@@ -1,39 +1,30 @@
----
-author:
-- authors/arturo-fernandez.md
-categories: Review
-date: "2019-11-15T05:00:00Z"
-discipline: ""
-disclaimer: ""
-image_gallery: []
-postamble: Boston Lyric Opera's production of [_Fellow Travelers_](https://blo.org/fellow-travelers/)
-  is onstage through November 17.
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573843051/media/2019/11/sqBLO2019-FellowTravelers-5128_kmt0gr.jpg
-primary_image_credit: '(l-r) Jesse Blumberg (Fuller), Simon Dyer, and David McFerrin
-  (Interrogators) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.'
-related_articles:
-- articles/schoenberg-in-hollywood-a-heap-of-excess.md
-- articles/fellow-travelers-is-luminous-in-chicago.md
-related_companies:
-- scene/companies/boston-lyric-opera-1.md
-related_people: []
-short_description: As Thomas Mallon said in the TalkBack after the performance, the
-  suffering of LGBT+ people brought on by witch-hunting politicians in the 50s was
-  unspeakable, and it is a place he hopes we never return to.
-slug: fellow-travelers-a-cathartic-necessary-affair
-social_media: []
-title: Fellow Travelers a cathartic, necessary affair
-website: ""
-youtube_url: ""
----
++++
+author = ["authors/arturo-fernandez.md"]
+categories = "Review"
+date = 2019-11-15T05:00:00Z
+discipline = ""
+disclaimer = ""
+image_gallery = []
+postamble = "Boston Lyric Opera's production of [_Fellow Travelers_](https://blo.org/fellow-travelers/) is onstage through November 17."
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573843051/media/2019/11/sqBLO2019-FellowTravelers-5128_kmt0gr.jpg"
+primary_image_credit = "(l-r) Jesse Blumberg (Fuller), Simon Dyer, and David McFerrin (Interrogators) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll."
+related_articles = ["articles/schoenberg-in-hollywood-a-heap-of-excess.md", "articles/fellow-travelers-is-luminous-in-chicago.md"]
+related_companies = ["scene/companies/boston-lyric-opera-1.md"]
+related_people = []
+short_description = "As Thomas Mallon said in the TalkBack after the performance, the suffering of LGBT+ people brought on by witch-hunting politicians in the 50s was unspeakable, and it is a place he hopes we never return to."
+slug = "fellow-travelers-a-cathartic-necessary-affair"
+social_media = []
+title = "Fellow Travelers a cathartic, necessary affair"
+website = ""
+youtube_url = ""
+
++++
 Whenever people discuss the state of the fight for gay rights across the past fifty years, I find there is a profound level of ignorance from people not familiar with LGBT+ history about exactly what kind of perils such people used to face in the past.
 
 Even fewer seem to understand the inhumane toll that such perils used to hold for them as well, or even how they relate to the struggles that befall such people even today. People might balk at the suggestion that opera could be a tool to help open a discussion about such things, but as BLO's general and artistic director Esther Nelson stated in a short pre-performance speech, opera can help other people feel empathy for those who are different.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1573843106/media/2019/11/BLO2019-FellowTravelers-4871_jydvno.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843106/media/2019/11/BLO2019-FellowTravelers-4871_jydvno.jpg){{% /md %}}
 
 <figcaption>Jesse Blumberg (Hawkins Fuller) and Jesse Darden (Timothy Laughlin) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
@@ -45,9 +36,7 @@ Thus, we turn to Boston Lyric Opera's production of [_Fellow Travelers_](https:/
 
 Greg Pierce's libretto manages to strike just the right balance between focusing on the love story and the effect that the politics of the day has on the relationship, and it does just enough to paint a picture of the unjust circumstances that lead Hawkins to embark on his betrayal.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1573843118/media/2019/11/BLO2019-FellowTravelers-4900_pjkqwi.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843118/media/2019/11/BLO2019-FellowTravelers-4900_pjkqwi.jpg){{% /md %}}
 
 <figcaption>(l-r) Jesse Darden (Timothy Laughlin), Cheslea Basler (Mary Johnson), and Michelle Trainor (Secretary Miss Lightfoot) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
@@ -57,9 +46,7 @@ Composer Gregory Spears' music is minimalist almost to a fault, with rhythmic pa
 
 But perhaps more importantly, the orchestra acts as a backdrop for the text setting: the orchestra here almost never calls attention to itself, which is a very rare thing for an opera orchestra to do.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1573843128/media/2019/11/BLO2019-FellowTravelers-4970_snsyca.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843128/media/2019/11/BLO2019-FellowTravelers-4970_snsyca.jpg){{% /md %}}
 
 <figcaption>(l-r) Jesse Darden (Laughlin) and Jesse Blumberg (Fuller) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
@@ -71,9 +58,7 @@ I am thankful, however, that the orchestration takes a step back, for the real s
 
 Tim's stutter upon being introduced to the senator whom he eventually works for is set in such a rapidly fired-off monotone that it perfectly conveyed his character's nerves at the situation, and this still fits in with the passionate rise and fall of his line as he's praying to God, describing his affair in prayer. Even the rantings of Joseph McCarthy himself carried weight, with the way the vocal writing almost forces the singer to bark out his angriest lines at the top of his register.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1573843143/media/2019/11/BLO2019-FellowTravelers-5079_h8mnvy.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843143/media/2019/11/BLO2019-FellowTravelers-5079_h8mnvy.jpg){{% /md %}}
 
 <figcaption>Michelle Trainor (Secretary Miss Lightfoot, centre) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
@@ -85,9 +70,7 @@ And this is to say nothing of the climactic scene in which Hawkins outs Tim to t
 
 I could go on describing the ways that practically every other character beat is handled throughout the opera's runtime, but I would be writing this review until the sun rose if I attempted to do so. Suffice to say, this opera is an embarrassment of riches in the ways that vocal writing can be used to build character, and that alone is worth the price of admission.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1573843156/media/2019/11/BLO2019-FellowTravelers-5099_qhqiec.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843156/media/2019/11/BLO2019-FellowTravelers-5099_qhqiec.jpg){{% /md %}}
 
 <figcaption>Jesse Blumberg (Fuller) and Brianna Robinson (Lucy) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
@@ -99,9 +82,7 @@ It helps that BLO had a stellar cast to bring this vocal writing to life. Jesse 
 
 Chelsea Basler was warm and matronly as Hawkins' secretary Mary Johnson: she had a lot of work to support both Hawkins and Timothy in their tribulations throughout the work, and she lived up to this challenge admirably. The remaining cast carried their weight in the end too, with David McFerrin in particular providing a biting edge to Joseph McCarthy that proved why his philosophy was so dangerous to the other characters.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1573843209/media/2019/11/BLO2019-FellowTravelers-5238_ncw9fk.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573843209/media/2019/11/BLO2019-FellowTravelers-5238_ncw9fk.jpg){{% /md %}}
 
 <figcaption>(l-r) Jesse Darden (Laughlin) and Jesse Blumberg (Fuller) in Fellow Travelers, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 

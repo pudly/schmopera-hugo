@@ -1,21 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-12-05T21:29:00-05:00"
-lastmod: "2017-12-06T10:43:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512527994243/2017-12-05---Four.jpg.jpg
-publishDate: "2017-12-05T21:29:00-05:00"
-related_articles:
-- articles/schmopera-is-three.md
-- articles/schmopera-is-two.md
-short_description: We&#039;re proud to call ourselves an artist-run publication, set
-  on demystifying opera without dumbing it down. In this past year, we&#039;ve expanded
-  our opera coverage to cities across North America and Europe - our new contributors
-  are an amazing, dedicated group of loquacious artists who keep our mission afloat.
-slug: happy-birthday-to-us-schmopera-is-four
-title: 'Happy birthday to us: Schmopera is four!'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-12-05T21:29:00-05:00"
+lastmod = "2017-12-06T10:43:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512527994243/2017-12-05---Four.jpg.jpg"
+publishDate = "2017-12-05T21:29:00-05:00"
+related_articles = ["articles/schmopera-is-three.md","articles/schmopera-is-two.md"]
+short_description = "We&#039;re proud to call ourselves an artist-run publication, set on demystifying opera without dumbing it down. In this past year, we&#039;ve expanded our opera coverage to cities across North America and Europe - our new contributors are an amazing, dedicated group of loquacious artists who keep our mission afloat."
+slug = "happy-birthday-to-us-schmopera-is-four"
+title = "Happy birthday to us: Schmopera is four!"
++++
 
 Can you believe Schmopera is celebrating its fourth birthday?
 

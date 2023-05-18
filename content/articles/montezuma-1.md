@@ -1,29 +1,22 @@
----
-author:
-- authors/andrew-schneider.md
-categories: Review
-date: "2019-03-29T18:18:39+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553883852/media/2019/03/sqMontezuma.jpg
-primary_image_credit: A scene from Montezuma, American Baroque Opera Co., 2019. Photo
-  courtesy of ABOC.
-related_articles:
-- articles/montezuma.md
-related_companies:
-- scene/companies/american-baroque-opera-co.md
-related_people:
-- scene/people/ryan-kuster.md
-short_description: While Handel provides so many details about characterization in
-  his arias which speak for themselves, especially in timbre, Vivaldi, precisely because
-  of his compositional fluency, requires a constant level of onstage interpretation
-  to allow his stylized and always virtuosic pieces to provide a stimulating background.
-slug: montezuma-long-lost-baroque-blueprints
-title: 'Montezuma: long-lost baroque blueprints'
-youtube_url: ""
----
++++
+author = ["authors/andrew-schneider.md"]
+categories = "Review"
+date = "2019-03-29T18:18:39+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553883852/media/2019/03/sqMontezuma.jpg"
+primary_image_credit = "A scene from Montezuma, American Baroque Opera Co., 2019. Photo courtesy of ABOC."
+related_articles = ["articles/montezuma.md"]
+related_companies = ["scene/companies/american-baroque-opera-co.md"]
+related_people = ["scene/people/ryan-kuster.md"]
+short_description = "While Handel provides so many details about characterization in his arias which speak for themselves, especially in timbre, Vivaldi, precisely because of his compositional fluency, requires a constant level of onstage interpretation to allow his stylized and always virtuosic pieces to provide a stimulating background."
+slug = "montezuma-long-lost-baroque-blueprints"
+title = "Montezuma: long-lost baroque blueprints"
+youtube_url = ""
+
++++
 In [American Baroque Opera Company](/scene/companies/american-baroque-opera-co/)'s production of Antonio Vivaldi's opera _Montezuma_, not only did a long-lost era come back for a few hours with numerous colors, but also a method for presenting Vivaldi as a composer capable of creating dramatically effective situations.
 
 Given the fact that this opera was only recently discovered, and in fragmentary form requiring the interpolation of other arias and recomposition of several passages, presenting such a piece in a way that feels unified in conception will always be a challenge. ABOC was entirely up to the task in several aspects, particularly in highlighting how important the staging of Baroque opera is to complement the extremely stylized and outlandish plots of several of these works, even though Vivaldi's music is very much among the most exuberant and inspired among his operatic contemporaries on the Italian peninsula. While Handel provides so many details about characterization in his arias which speak for themselves, especially in timbre, Vivaldi, precisely because of his compositional fluency, requires a constant level of onstage interpretation to allow his stylized and always virtuosic pieces to provide a stimulating background.

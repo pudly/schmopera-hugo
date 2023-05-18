@@ -1,23 +1,23 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2020-06-01T04:00:00Z"
-disclaimer: ""
-draft: true
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1591065033/media/2020/06/sqBreakingtheWaves_zuh6qr.jpg
-primary_image_credit: ""
-related_articles: []
-related_companies: []
-related_people: []
-short_description: short
-slug: breaking-the-waves
-title: Breaking the Waves
-youtube_url: ""
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = 2020-06-01T04:00:00Z
+disclaimer = ""
+draft = true
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1591065033/media/2020/06/sqBreakingtheWaves_zuh6qr.jpg"
+primary_image_credit = ""
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "short"
+slug = "breaking-the-waves"
+title = "Breaking the Waves"
+youtube_url = ""
+
++++
 It's by no means a fair criterion, but while our opera consumption is being done strictly online, there's an unexpected high bar for productions to clear; and even on first viewing (totally late to the party, I admit), _Breaking the Waves_ soars over that bar.
 
 It's an unsympathetic kind of sorting hat, or maybe like the equivalent of a kid getting his first chance at swimming by being thrown into the pool. We're clutching at encore broadcasts and archival video recordings from the libraries of opera companies who are firmly in the business of creating live shows, and seeing how well they fare in an entirely different medium. They're pitted up against television and movie streaming platforms, which is a major David/Goliath situation.

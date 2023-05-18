@@ -1,41 +1,24 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-09-21T11:41:00-04:00"
-lastmod: "2017-09-26T17:56:00-04:00"
-preamble: |-
-  [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) is gearing up for a brand new season of [Opera Pubs](/success-hype-the-first-season-of-opera-pubs-in-toronto/), their smash-success, line-up-out-the-door series of monthly open-mic-type events at Toronto's Amsterdam Bicycle Club. Starting with [OPUS POCUS on **October 5, 9pm**](http://againstthegraintheatre.com/opera-pub/), and continuing throughout the season on the first Thursday of every month, AtG's Opera Pubs showcase talented singers in a comfy pub environment where the pitchers are discounted and the music is truly live.
-
-  We spoke with David Eliakis, Toronto-based pianist and host of AtG's Opera Pubs, about the unique fun of playing without rehearsal for an up-close-and-personal audience of enthusiastic opera fans.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008877866/2017-09-21---Opera-Pub-square---Block.jpg.jpg
-primary_image_credit: 'Neil Craighead sings in an AtG Opera Pub, with David Eliakis
-  at the piano. Photo: Darryl Block.'
-publishDate: "2017-09-26T09:51:00-04:00"
-related_articles:
-- articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md
-- articles/success-hype-the-first-season-of-opera-pubs-in-toronto.md
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/indie-opera-to.md
-short_description: '&quot;There&#039;s nothing that compares to a rowdy, enthusiastic
-  crowd cheering you on when you&#039;ve nailed that high note. You just don&#039;t
-  get that in your usual recital/concert setting, and there really is nothing more
-  gratifying. Of course, the singers involved are the biggest highlight for me. As
-  a coach here in Toronto, I meet new singers on a daily basis, but there&#039;s something
-  about meeting a singer on stage (literally) and performing for the first time with
-  absolutely no rehearsal in front of a live audience that is absolutely thrilling.&quot;'
-slug: i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub
-title: '&quot;I think it takes a brave artist to do something like an Opera Pub.&quot;'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-09-21T11:41:00-04:00"
+lastmod = "2017-09-26T17:56:00-04:00"
+preamble = "[Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) is gearing up for a brand new season of [Opera Pubs](/success-hype-the-first-season-of-opera-pubs-in-toronto/), their smash-success, line-up-out-the-door series of monthly open-mic-type events at Toronto's Amsterdam Bicycle Club. Starting with [OPUS POCUS on **October 5, 9pm**](http://againstthegraintheatre.com/opera-pub/), and continuing throughout the season on the first Thursday of every month, AtG's Opera Pubs showcase talented singers in a comfy pub environment where the pitchers are discounted and the music is truly live.\n\nWe spoke with David Eliakis, Toronto-based pianist and host of AtG's Opera Pubs, about the unique fun of playing without rehearsal for an up-close-and-personal audience of enthusiastic opera fans."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008877866/2017-09-21---Opera-Pub-square---Block.jpg.jpg"
+primary_image_credit = "Neil Craighead sings in an AtG Opera Pub, with David Eliakis at the piano. Photo: Darryl Block."
+publishDate = "2017-09-26T09:51:00-04:00"
+related_articles = ["articles/atgs-opera-pubs-it-can-all-get-a-bit-wild.md","articles/success-hype-the-first-season-of-opera-pubs-in-toronto.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/indie-opera-to.md"]
+short_description = "&quot;There&#039;s nothing that compares to a rowdy, enthusiastic crowd cheering you on when you&#039;ve nailed that high note. You just don&#039;t get that in your usual recital/concert setting, and there really is nothing more gratifying. Of course, the singers involved are the biggest highlight for me. As a coach here in Toronto, I meet new singers on a daily basis, but there&#039;s something about meeting a singer on stage (literally) and performing for the first time with absolutely no rehearsal in front of a live audience that is absolutely thrilling.&quot;"
+slug = "i-think-it-takes-a-brave-artist-to-do-something-like-an-opera-pub"
+title = "&quot;I think it takes a brave artist to do something like an Opera Pub.&quot;"
++++
 
 ## For you, how does an AtG Opera Pub compare to the average concert gig?
 
 As a performer, making sure my audience is connected to what I'm doing, especially when they're sitting miles away from me, has always plagued me. Opera Pub nights are so intimate that people feel free to cheer and holler in the midst of an aria rather than sitting politely and waiting until the end to applaud. Hosting the event means I get to show a different side of me other than just being just the piano guy. A beauty of the Opera Pub is that I feel so connected to the audience, which is sitting three feet away from me, or sometimes even on stage because there's just nowhere left to sit! It’s a rock concert atmosphere but we're rocking out with Mozart, Verdi, and Wagner.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008962324/2017-09-21---Eliakis-Opera-Pub-Block.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008962324/2017-09-21---Eliakis-Opera-Pub-Block.jpg.jpg)
 <figcaption>David Eliakis at an AtG Opera Pub. Photo: Darryl Block.</figcaption>
 </figure>
 
@@ -52,9 +35,7 @@ I sound like a broken record but…the audience! There's nothing that compares t
 
 That's the magic of music – total strangers getting together and sharing a moment that never existed until that first note. I think it takes a brave artist to do something like an Opera Pub, because it is so vulnerable in so many ways, but it's also incredibly fulfilling.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008975270/2017-09-21---David-Eliakis.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506008975270/2017-09-21---David-Eliakis.jpg.jpg)
 <figcaption>David Eliakis, pianist.</figcaption>
 </figure>
 

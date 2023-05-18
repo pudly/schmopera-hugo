@@ -1,20 +1,15 @@
----
-_template: people_single
-date: "2017-10-20T11:24:00-04:00"
-discipline: Mezzo-soprano
-lastmod: "2017-10-20T11:24:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508512922645/DSC01787.jpg.jpg
-primary_image_credit: Courtesy of Owen White Management.
-publishDate: "2017-10-20T11:24:00-04:00"
-related_companies:
-- scene/companies/toronto-symphony-orchestra.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/pacific-opera-victoria.md
-- scene/companies/vancouver-opera.md
-slug: susan-platts
-title: Susan Platts
-website: https://www.susanplatts.com/
----
++++
+date = "2017-10-20T11:24:00-04:00"
+discipline = "Mezzo-soprano"
+lastmod = "2017-10-20T11:24:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508512922645/DSC01787.jpg.jpg"
+primary_image_credit = "Courtesy of Owen White Management."
+publishDate = "2017-10-20T11:24:00-04:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/teatro-alla-scala.md","scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-opera.md"]
+slug = "susan-platts"
+title = "Susan Platts"
+website = "https://www.susanplatts.com/"
++++
 
 British-born Canadian mezzo-soprano Susan Platts brings a uniquely rich and wide-ranging voice to the concert and recital repertoire for alto and mezzo-soprano. She is particularly acclaimed for her performances of Gustav Mahler’s works.
 

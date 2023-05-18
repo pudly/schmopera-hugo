@@ -1,17 +1,14 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2014-06-02T06:30:00-04:00"
-lastmod: "2018-01-03T10:08:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514992102800/2018-01-03---Snob.jpg.jpg
-publishDate: "2014-06-02T06:30:00-04:00"
-short_description: Remember that ridiculous clip from Glenn Beck&#039;s radio show
-  about his trip to the Metropolitan Opera? That Neanderthal-like rant about how opera
-  is full of &quot;leftist&quot; snobs that eat brie and say words like &quot;lilt&quot;?
-slug: the-language-of-snobs
-title: The language of snobs?
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2014-06-02T06:30:00-04:00"
+lastmod = "2018-01-03T10:08:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514992102800/2018-01-03---Snob.jpg.jpg"
+publishDate = "2014-06-02T06:30:00-04:00"
+short_description = "Remember that ridiculous clip from Glenn Beck&#039;s radio show about his trip to the Metropolitan Opera? That Neanderthal-like rant about how opera is full of &quot;leftist&quot; snobs that eat brie and say words like &quot;lilt&quot;?"
+slug = "the-language-of-snobs"
+title = "The language of snobs?"
++++
 
 Remember that ridiculous clip from Glenn Beck's radio show about his trip to the Metropolitan Opera? That Neanderthal-like rant about how opera is full of "leftist" snobs that eat brie and say words like "lilt"? I mean, if you want to hear some homophobic, proudly ignorant, reverse-elitist babble, [have a listen](https://www.youtube.com/watch?v=rcmMZIX0pZo&feature=kp). Now, I'm clearly an advocate of keeping opera accessible to the general public. But Glenn Beck's level of stupidity (staged or not) is gross enough that I proclaim him a lost cause; it's a loss over which I'm not losing any sleep.
 

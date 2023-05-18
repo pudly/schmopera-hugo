@@ -1,26 +1,23 @@
----
-date: "2015-04-07T22:18:00-04:00"
-discipline: Soprano
-lastmod: "2015-04-07T22:19:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428459546221/Jessica-Muirhead-low-res.jpg.jpg
-primary_image_credit: Emily Ding
-publishDate: "2015-04-07T22:18:00-04:00"
-related_companies:
-- scene/companies/saskatoon-opera.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/bayerische-staatsoper.md
-slug: jessica-muirhead
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/pages/Jessica-Muirhead-Soprano/210549405667486
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/JessicaMuirhead
-title: Jessica Muirhead
-website: http://www.jessicamuirhead.com/
----
++++
+date = "2015-04-07T22:18:00-04:00"
+discipline = "Soprano"
+lastmod = "2015-04-07T22:19:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428459546221/Jessica-Muirhead-low-res.jpg.jpg"
+primary_image_credit = "Emily Ding"
+publishDate = "2015-04-07T22:18:00-04:00"
+related_companies = ["scene/companies/saskatoon-opera.md","scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md"]
+slug = "jessica-muirhead"
+title = "Jessica Muirhead"
+website = "http://www.jessicamuirhead.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/pages/Jessica-Muirhead-Soprano/210549405667486"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/JessicaMuirhead"
++++
 
 <p>
 	British-Canadian soprano Jessica Muirhead completed her Bachelor's and Master's degrees in Music from McGill University in Montreal, under the tutelage of Mrs. Lucile Villeneuve Evans. Since completing her studies in 2005, Jessica has been busy singing across Europe and North America. In March she received the George London Award for a Canadian Singer at the George London Foundation Competition in New York City, and was awarded the Grand Prize of the Concours de Chant in Toulouse, and 2nd Prize as well as the Audience Favourite award in the Francesco Viñas International Singing Competition in Barcelona. Jessica is also a Grand Prize winner of the Elora Festival Competition, Les Jeunes Ambassadeurs, and National Music Festival Competitions in Canada.

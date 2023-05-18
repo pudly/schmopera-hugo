@@ -1,25 +1,16 @@
----
-author:
-- authors/john-beckett.md
-categories: Review
-date: "2017-04-18T12:27:00+01:00"
-lastmod: "2017-04-18T12:44:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492515230628/2017-04-18---London-Handel-Players.jpg.jpg
-publishDate: "2017-04-18T12:44:00+01:00"
-related_articles:
-- articles/in-review-kitty-whately-joseph-middleton-at-wigmore-hall.md
-- articles/in-review-classical-operas-il-vologeso.md
-related_people:
-- scene/people/rowan-pierce.md
-short_description: The London Handel Players gave us a fresh program of Telemann and
-  Handel, showing us the very long lasting friendship and musical relationship between
-  the two composers. Adrian Butterfield opened the concert by sharing the story of
-  these two law students who much preferred composing music to studying the law -
-  and if you had a musical brain that produced the Messiah, wouldn’t you drop out
-  of law school, too?
-slug: in-review-rowan-pierce-the-london-handel-players
-title: 'In review: Rowan Pierce &amp; the London Handel Players'
----
++++
+author = ["authors/john-beckett.md"]
+categories = "Review"
+date = "2017-04-18T12:27:00+01:00"
+lastmod = "2017-04-18T12:44:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492515230628/2017-04-18---London-Handel-Players.jpg.jpg"
+publishDate = "2017-04-18T12:44:00+01:00"
+related_articles = ["articles/in-review-kitty-whately-joseph-middleton-at-wigmore-hall.md","articles/in-review-classical-operas-il-vologeso.md"]
+related_people = ["scene/people/rowan-pierce.md"]
+short_description = "The London Handel Players gave us a fresh program of Telemann and Handel, showing us the very long lasting friendship and musical relationship between the two composers. Adrian Butterfield opened the concert by sharing the story of these two law students who much preferred composing music to studying the law - and if you had a musical brain that produced the Messiah, wouldn’t you drop out of law school, too?"
+slug = "in-review-rowan-pierce-the-london-handel-players"
+title = "In review: Rowan Pierce &amp; the London Handel Players"
++++
 
 Easter is officially over, Christ is risen, and tons of musicians have been performing Bach for the past month. Passion after Passion, St. Matthew after St. John, we are reminded of the quality and quantity of work J.S. Bach composed during his lifetime. Indeed, the big composers of the eighteenth century seem to have written so much work, some of it tends to get lost - minor works by major composers have to fight for the limelight in an early music world dominated by the *Giulio Cesares* and Bach *Magnificats* of the time.
 
@@ -35,9 +26,7 @@ Quintana's ornaments and Cummings' continuo are certainly two ingredients vital 
 
 Soprano [Rowan Pierce](/scene/people/rowan-pierce/) is clearly a very intelligent singer, and her strong sense of musicality serves this music well. We hope that as her singing develops she becomes daring enough to show an amount of her own dramatic interpretation into performing.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492515266443/2017-04-18---Rowan-Pierce-Groves-Artists.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492515266443/2017-04-18---Rowan-Pierce-Groves-Artists.jpg.jpg)
 <figcaption>Rowan Pierce, soprano. Photo courtesy of Groves Artists.</figcaption>
 </figure>
 

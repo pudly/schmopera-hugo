@@ -1,40 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2016-02-23T10:43:00-05:00"
-lastmod: "2016-02-23T11:47:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456243228958/2016-02-23---Figaro-Ensemble-MC-Square.jpg.jpg
-primary_image_credit: 'A scene from the Ensemble Studio performance of The Marriage
-  of Figaro, Canadian Opera Company, 2016. Photo: Michael Cooper.'
-publishDate: "2016-02-23T11:47:00-05:00"
-related_articles:
-- articles/not-quite-review-coc-ensemble-barber-of-seville.md
-related_companies:
-- scene/companies/canadian-opera-company-ensemble-studio.md
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/iain-macneil.md
-- scene/people/karine-boucher.md
-- scene/people/gordon-bintner.md
-- scene/people/aviva-fortunata.md
-- scene/people/jacqueline-woodley.md
-- scene/people/jeanphilippe-fortierlazure.md
-- scene/people/aaron-sheppard.md
-- scene/people/jordan-de-souza.md
-- scene/people/jennifer-szeto.md
-- scene/people/russell-braun.md
-- scene/people/jane-archibald.md
-- scene/people/erin-wall.md
-- scene/people/megan-latham.md
-short_description: 'These annual performances are often a cornerstone for the members
-  of the Ensemble Studio. It&#039;s a unique experience, both as a performance and
-  as a learning process; rarely in their lives will these young artists have so much
-  rehearsal time, coachings with multiple members of music staff, or compounded staging
-  rehearsals (both as understudies and as principal roles). '
-slug: quasi-review-the-ensemble-studios-figaro
-title: 'Quasi review: The Ensemble Studio&#039;s Figaro'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2016-02-23T10:43:00-05:00"
+lastmod = "2016-02-23T11:47:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456243228958/2016-02-23---Figaro-Ensemble-MC-Square.jpg.jpg"
+primary_image_credit = "A scene from the Ensemble Studio performance of The Marriage of Figaro, Canadian Opera Company, 2016. Photo: Michael Cooper."
+publishDate = "2016-02-23T11:47:00-05:00"
+related_articles = ["articles/not-quite-review-coc-ensemble-barber-of-seville.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/iain-macneil.md","scene/people/karine-boucher.md","scene/people/gordon-bintner.md","scene/people/aviva-fortunata.md","scene/people/jacqueline-woodley.md","scene/people/jeanphilippe-fortierlazure.md","scene/people/aaron-sheppard.md","scene/people/jordan-de-souza.md","scene/people/jennifer-szeto.md","scene/people/russell-braun.md","scene/people/jane-archibald.md","scene/people/erin-wall.md","scene/people/megan-latham.md"]
+short_description = "These annual performances are often a cornerstone for the members of the Ensemble Studio. It&#039;s a unique experience, both as a performance and as a learning process; rarely in their lives will these young artists have so much rehearsal time, coachings with multiple members of music staff, or compounded staging rehearsals (both as understudies and as principal roles). "
+slug = "quasi-review-the-ensemble-studios-figaro"
+title = "Quasi review: The Ensemble Studio&#039;s Figaro"
++++
 
 Each year, one performance of the Canadian Opera Company's season is reserved for the artists of the Ensemble Studio; they work as understudies and take on small roles throughout the principal run, and at the same time they rehearse towards their unique performance that puts these young artists into leading roles.
 

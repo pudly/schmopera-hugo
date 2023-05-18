@@ -1,18 +1,15 @@
----
-_template: people_single
-date: "2017-06-25T11:36:00-06:00"
-discipline: Soprano
-lastmod: "2017-06-25T11:36:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546743719/media/2019/01/AlineKutan.jpg
-publishDate: "2017-06-25T11:36:00-06:00"
-related_companies:
-- scene/companies/toronto-symphony-orchestra.md
-- scene/companies/glyndebourne.md
-- scene/companies/teatro-alla-scala.md
-slug: aline-kutan
-title: Aline Kutan
-website: http://www.alinekutan.com/
----
++++
+date = "2017-06-25T11:36:00-06:00"
+discipline = "Soprano"
+lastmod = "2017-06-25T11:36:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546743719/media/2019/01/AlineKutan.jpg"
+publishDate = "2017-06-25T11:36:00-06:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md", "scene/companies/glyndebourne.md", "scene/companies/teatro-alla-scala.md"]
+slug = "aline-kutan"
+title = "Aline Kutan"
+website = "http://www.alinekutan.com/"
+
++++
 This young Canadian soprano of Armenian origins made her debuts at the age of 18 in the role of Flora (The Turn of the Screw from Benjamin Britten) with the Vancouver Opera. She studied at the University of British Columbia in Vancouver and at the Laval University of Quebec.
 
 Before starting her operatic career, Aline Kutan took part in a two year tour in Canada of the production of Andrew Lloyd Weber's *Phantom of the Opera*.

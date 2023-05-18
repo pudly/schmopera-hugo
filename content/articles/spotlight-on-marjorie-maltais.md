@@ -1,46 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-07-12T16:54:00-06:00"
-lastmod: "2015-07-17T10:50:00-06:00"
-preamble: Mezzo-soprano [Marjorie Maltais](/scene/people/marjorie-maltas/) first impressed
-  me with her rich sound and feisty stage presence as Hermia in [Opera on the Avalon](/scene/companies/opera-on-the-avalon/)'s
-  *A Midsummer Night's Dream*. Coveted mezzo roles like Rosina, Cenerentola and Carmen
-  are also on Marjorie's résumé, and she recently wrote me from Santa Barbara, where
-  she's enjoying her time with Marilyn Horne at the Music Academy of the West. She
-  chats about trouser-role envy, and the huge rewards of hard work in this industry.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436741732873/Marjorie-Maltais--mezzo-soprano.jpg.jpg
-publishDate: "2015-07-17T10:50:00-06:00"
-related_articles:
-- articles/spotlight-on-christopher-james-ray.md
-- articles/spotlight-on-emily-peragine.md
-- articles/spotlight-on-charlotte-knight.md
-- articles/spotlight-on-lida-szkwarek.md
-- articles/spotlight-on-maikai-nash.md
-- articles/spotlight-on-peter-bass.md
-- articles/spotlight-on-kelsey-vicary.md
-- articles/spotlight-on-michelle-siemens.md
-- articles/spotlight-on-julia-dawson.md
-- articles/spotlight-on-william-ford.md
-- articles/spotlight-on-laurelle-jade-froese.md
-- articles/spotlight-on-maeve-palmer.md
-- articles/spotlight-on-cairan-ryan.md
-- articles/spotlight-on-sara-schabas.md
-- articles/spotlight-on-michael-nyby.md
-related_companies:
-- scene/companies/opera-on-the-avalon.md
-- scene/companies/music-academy-of-the-west-voice-program.md
-related_people:
-- scene/people/marjorie-maltais.md
-short_description: Mezzo-soprano Marjorie Maltais first impressed me with her rich
-  sound and feisty stage presence as Hermia in Opera on the Avalon&#039;s A Midsummer
-  Night&#039;s Dream. Coveted mezzo roles like Rosina, Cenerentola and Carmen are
-  also on Marjorie&#039;s résumé, and she recently wrote me from Santa Barbara, where
-  she&#039;s enjoying her time with Marilyn Horne at the Music Academy of the West.
-slug: spotlight-on-marjorie-maltais
-title: 'Spotlight on: Marjorie Maltais'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-07-12T16:54:00-06:00"
+lastmod = "2015-07-17T10:50:00-06:00"
+preamble = "Mezzo-soprano [Marjorie Maltais](/scene/people/marjorie-maltas/) first impressed me with her rich sound and feisty stage presence as Hermia in [Opera on the Avalon](/scene/companies/opera-on-the-avalon/)'s *A Midsummer Night's Dream*. Coveted mezzo roles like Rosina, Cenerentola and Carmen are also on Marjorie's résumé, and she recently wrote me from Santa Barbara, where she's enjoying her time with Marilyn Horne at the Music Academy of the West. She chats about trouser-role envy, and the huge rewards of hard work in this industry."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436741732873/Marjorie-Maltais--mezzo-soprano.jpg.jpg"
+publishDate = "2015-07-17T10:50:00-06:00"
+related_articles = ["articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-cairan-ryan.md","articles/spotlight-on-sara-schabas.md","articles/spotlight-on-michael-nyby.md"]
+related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/music-academy-of-the-west-voice-program.md"]
+related_people = ["scene/people/marjorie-maltais.md"]
+short_description = "Mezzo-soprano Marjorie Maltais first impressed me with her rich sound and feisty stage presence as Hermia in Opera on the Avalon&#039;s A Midsummer Night&#039;s Dream. Coveted mezzo roles like Rosina, Cenerentola and Carmen are also on Marjorie&#039;s résumé, and she recently wrote me from Santa Barbara, where she&#039;s enjoying her time with Marilyn Horne at the Music Academy of the West."
+slug = "spotlight-on-marjorie-maltais"
+title = "Spotlight on: Marjorie Maltais"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally? 
 

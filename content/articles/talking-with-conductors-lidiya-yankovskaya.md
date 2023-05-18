@@ -1,30 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-05-08T18:18:00-04:00"
-lastmod: "2018-05-08T21:01:00-04:00"
-preamble: |-
-  It's far from being one of his best-known operas, yet Donizetti's *Pia de' Tolomei*, after Dante's *Divine Comedy*, has a memorable performance history. Its 1837 premiere happened only after the burning down of Venice's La Fenice and the production moved to the Teatro Apollo, and with a slight delay after a singer fell ill, and Donizetti had to rewrite the bass role for a baritone.
-
-  *Pia de' Tolomei* now sees its American premiere, **May 27 to June 8** at the Spoleto Festival USA. The production is directed by Andrea Cigni, and conducted by Lidiya Yankovskaya, currently the Music Director of Chicago Opera Theater and a resident artist at National Sawdust with the Refugee Opera Project.
-
-  We spoke with Yankovskaya about performing rare works, and her respect for the singers she conducts.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525817833043/sqlidiya_yankovskaya.jpg.jpg
-publishDate: "2018-05-08T21:01:00-04:00"
-related_articles:
-- articles/spotlight-on-christopher-james-ray.md
-- articles/gordon-gerrard-music-doesnt-really-work-without-breath.md
-related_companies:
-- scene/companies/spoleto-festival-usa.md
-short_description: '&quot;Being an operatic singer is one of the most challenging
-  jobs in the world - not only do you have to be a great musician, but you also have
-  to be a great actor, to be able to move convincingly on stage, to sing in half a
-  dozen languages without an accent, and to know your part to such an extent that
-  if something goes wrong - you don&#039;t miss a beat.&quot;'
-slug: talking-with-conductors-lidiya-yankovskaya
-title: 'Talking with conductors: Lidiya Yankovskaya'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-05-08T18:18:00-04:00"
+lastmod = "2018-05-08T21:01:00-04:00"
+preamble = "It's far from being one of his best-known operas, yet Donizetti's *Pia de' Tolomei*, after Dante's *Divine Comedy*, has a memorable performance history. Its 1837 premiere happened only after the burning down of Venice's La Fenice and the production moved to the Teatro Apollo, and with a slight delay after a singer fell ill, and Donizetti had to rewrite the bass role for a baritone.\n\n*Pia de' Tolomei* now sees its American premiere, **May 27 to June 8** at the Spoleto Festival USA. The production is directed by Andrea Cigni, and conducted by Lidiya Yankovskaya, currently the Music Director of Chicago Opera Theater and a resident artist at National Sawdust with the Refugee Opera Project.\n\nWe spoke with Yankovskaya about performing rare works, and her respect for the singers she conducts."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525817833043/sqlidiya_yankovskaya.jpg.jpg"
+publishDate = "2018-05-08T21:01:00-04:00"
+related_articles = ["articles/spotlight-on-christopher-james-ray.md","articles/gordon-gerrard-music-doesnt-really-work-without-breath.md"]
+related_companies = ["scene/companies/spoleto-festival-usa.md"]
+short_description = "&quot;Being an operatic singer is one of the most challenging jobs in the world - not only do you have to be a great musician, but you also have to be a great actor, to be able to move convincingly on stage, to sing in half a dozen languages without an accent, and to know your part to such an extent that if something goes wrong - you don&#039;t miss a beat.&quot;"
+slug = "talking-with-conductors-lidiya-yankovskaya"
+title = "Talking with conductors: Lidiya Yankovskaya"
++++
 
 ## What does it feel like to conduct an orchestra and singers, when everything is going right?
 
@@ -44,9 +31,7 @@ The conductor's job is to ensure that no one in the audience notices when a dela
 
 *Pia* went through many iterations in its development, often with the composer making changes for practical or censorship rather than artistic reasons (there is even a version with a happy ending!).  The existence of so many different versions makes it challenging to ensure that we choose the correct performance options, that the orchestra has the materials they need, etc.  However, this is easier to do for a well-known composer, as those of us performing the work are already very familiar with the composer's style; I have the context of knowing Donizetti's many other operas, and this is especially helped by the fact that Donizetti recycled a lot of his material from work to work.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525817856852/PiadeTolomeiproductionphoto1creditImaginariumCreativeStudioPisa.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525817856852/PiadeTolomeiproductionphoto1creditImaginariumCreativeStudioPisa.jpg.jpg)
 <figcaption>A scene from *Pia de' Tolomei*. Photo: Imaginarium Creative Studio Pisa.</figcaption>
 </figure>
 

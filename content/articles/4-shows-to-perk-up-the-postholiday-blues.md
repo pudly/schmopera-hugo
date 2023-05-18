@@ -1,34 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-12-31T16:31:00-05:00"
-lastmod: "2017-01-02T19:28:00-05:00"
-preamble: |-
-  Happy New Year, readers!
-
-  The holidays are great - but after roughly a month of wavering between buzzed and hungover, and eating like a complete idiot, it's nice to get back to some semblance of a schedule where businesses are open and you can trust their hours of operation.
-
-  For us, "normal" is a healthy frequency of operas to see. Coming up this month, there are four highlights about which we're pretty pumped.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483225166696/2017%3D1-1---Shows.jpg.jpg
-publishDate: "2017-01-02T19:14:00-05:00"
-related_articles:
-- articles/in-review-manon-lescaut-at-roh.md
-- articles/talking-with-directors-frederic-wakewalker.md
-- articles/in-review-scenes-from-the-end.md
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/mahogany-opera-group.md
-related_people:
-- scene/people/renee-fleming.md
-- scene/people/alice-coote.md
-short_description: The holidays are great - but after roughly a month of wavering
-  between buzzed and hungover, and eating like a complete idiot, it&#039;s nice to
-  get back to some semblance of a schedule where businesses are open and you can trust
-  their hours of operation.
-slug: 4-shows-to-perk-up-the-postholiday-blues
-title: 4 shows to perk up the post-holiday blues
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-12-31T16:31:00-05:00"
+lastmod = "2017-01-02T19:28:00-05:00"
+preamble = "Happy New Year, readers!\n\nThe holidays are great - but after roughly a month of wavering between buzzed and hungover, and eating like a complete idiot, it's nice to get back to some semblance of a schedule where businesses are open and you can trust their hours of operation.\n\nFor us, \"normal\" is a healthy frequency of operas to see. Coming up this month, there are four highlights about which we're pretty pumped."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483225166696/2017%3D1-1---Shows.jpg.jpg"
+publishDate = "2017-01-02T19:14:00-05:00"
+related_articles = ["articles/in-review-manon-lescaut-at-roh.md","articles/talking-with-directors-frederic-wakewalker.md","articles/in-review-scenes-from-the-end.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/mahogany-opera-group.md"]
+related_people = ["scene/people/renee-fleming.md","scene/people/alice-coote.md"]
+short_description = "The holidays are great - but after roughly a month of wavering between buzzed and hungover, and eating like a complete idiot, it&#039;s nice to get back to some semblance of a schedule where businesses are open and you can trust their hours of operation."
+slug = "4-shows-to-perk-up-the-postholiday-blues"
+title = "4 shows to perk up the post-holiday blues"
++++
 
 ## *Der Rosenkavalier*
 

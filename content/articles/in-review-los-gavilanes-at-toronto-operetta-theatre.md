@@ -1,41 +1,24 @@
----
-author:
-- authors/jessica-lane.md
-categories: Review
-date: "2016-04-28T09:49:00+01:00"
-lastmod: "2016-04-28T11:35:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461833960625/2016-04-28---45-Silva-and-Chorus.jpg.jpg
-primary_image_credit: 'Guillermo Silva-Marin as Juan and Chorus, in Toronto Operetta
-  Theatre''s Los Gavilanes. Photo: Gary Beechey.'
-publishDate: "2016-04-28T11:35:00+01:00"
-related_articles:
-- articles/in-review-earnest-the-importance-of-being.md
-- articles/in-review-la-belle-helene.md
-- articles/breaking-into-the-industry-a-vicious-cycle.md
-- articles/dont-miss-the-pirates-of-penzance-with-tot.md
-- articles/tots-pirates-of-penzance-a-glorious-thing.md
-related_companies:
-- scene/companies/toronto-operetta-theatre.md
-related_people:
-- scene/people/miriam-khalil.md
-- scene/people/ernesto-ramirez.md
-- scene/people/gregory-finney.md
-short_description: In a word, charming. That is what I experienced tonight with Toronto
-  Operetta Theatre and their Canadian premiere of Jacinto Guerrero’s Los Gavilanes
-  at St. Lawrence Centre for the Arts. From the simple set to the period costumes,
-  the Spanish orchestration and the simple, well-known tale of love lost (and then
-  found), I was charmed.
-slug: in-review-los-gavilanes-at-toronto-operetta-theatre
-title: 'In review: Los Gavilanes at Toronto Operetta Theatre'
----
++++
+author = ["authors/jessica-lane.md"]
+categories = "Review"
+date = "2016-04-28T09:49:00+01:00"
+lastmod = "2016-04-28T11:35:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461833960625/2016-04-28---45-Silva-and-Chorus.jpg.jpg"
+primary_image_credit = "Guillermo Silva-Marin as Juan and Chorus, in Toronto Operetta Theatre's Los Gavilanes. Photo: Gary Beechey."
+publishDate = "2016-04-28T11:35:00+01:00"
+related_articles = ["articles/in-review-earnest-the-importance-of-being.md","articles/in-review-la-belle-helene.md","articles/breaking-into-the-industry-a-vicious-cycle.md","articles/dont-miss-the-pirates-of-penzance-with-tot.md","articles/tots-pirates-of-penzance-a-glorious-thing.md"]
+related_companies = ["scene/companies/toronto-operetta-theatre.md"]
+related_people = ["scene/people/miriam-khalil.md","scene/people/ernesto-ramirez.md","scene/people/gregory-finney.md"]
+short_description = "In a word, charming. That is what I experienced tonight with Toronto Operetta Theatre and their Canadian premiere of Jacinto Guerrero’s Los Gavilanes at St. Lawrence Centre for the Arts. From the simple set to the period costumes, the Spanish orchestration and the simple, well-known tale of love lost (and then found), I was charmed."
+slug = "in-review-los-gavilanes-at-toronto-operetta-theatre"
+title = "In review: Los Gavilanes at Toronto Operetta Theatre"
++++
 
 In a word, charming. That is what I experienced tonight with [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/) and their Canadian premiere of Jacinto Guerrero’s *Los Gavilanes* at St. Lawrence Centre for the Arts. From the simple set to the period costumes, the Spanish orchestration and the simple, well-known tale of love lost (and then found), I was charmed. 
 
 I must admit I am not overly familiar with the Spanish zarzuela and for those of you who are also [unaware of this genre](/what-the-eff-is-a-zarzuela-anyway/): go out and see one! At times, it reminded me (and I could be completely wrong here, please tell me if that’s the case!) of the Spanish novella soap opera which has been recently brought into pop culture in the TV series *Jane the Virgin*. The story contains everything that is needed in a good soap opera: a long lost flame, newly found wealth, a quaint village, a close knit community, a love triangle etc.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461834029645/2016-04-28---31-Miriam-Khalil.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461834029645/2016-04-28---31-Miriam-Khalil.jpg.jpg)
 <figcaption>Miriam Khalil as Adriana in Toronto Operetta Theatre's production of *Los Gavilanes*. Photo by Gary Beechey.</figcaption>
 </figure>
 
@@ -45,9 +28,7 @@ Ernesto Ramírez (Gustavo) who I heard many years ago in Opera Hamilton’s *Il 
 
 In the role of Juan, a villager who has become wealthy, was Guillermo Silva-Marin. From his first entrance, Mr. Silva-Marin came out with strength and, at the same time, a lightness that made watching him a lot of fun! The warmth and presence in his voice stands the test of time and resulted in a well-developed, intense performance.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461834075620/2016-04-28---159-Ernesto-Ramirez.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461834075620/2016-04-28---159-Ernesto-Ramirez.jpg.jpg)
 <figcaption>Ernesto Ramírez as Gustavo in Toronto Operetta Theatre's production of *Los Gavilanes*. Photo by Gary Beechey.</figcaption>
 </figure>
 

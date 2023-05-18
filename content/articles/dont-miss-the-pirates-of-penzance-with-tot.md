@@ -1,33 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-12-12T20:18:00+00:00"
-lastmod: "2016-12-14T17:31:00+00:00"
-preamble: |-
-  There's a neat irony in the fact that *The Pirates of Penzance* had its debut in New York City, where the copyright laws didn't protect Gilbert or Sullivan from the bootlegged versions that popped up around the United States after its successful premiere. Piracy aside, *Penzance* is a sure G&S classic, and this month [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/) puts it up on the stage of the St. Lawrence Centre for the Arts.
-
-  From **December 27 to January 8**, [*The Pirates of Penzance*](http://www.torontooperetta.com/shows.html) stars Canadian talent like [Colin Ainsworth](/scene/people/colin-ainsworth/) as Frederic, [Vania Chan](/scene/people/vania-chan/) as Mabel, and both [Janaka Welihinda](/scene/people/janaka-welihinda/) and [Nicholas Borg](/scene/people/nicholas-borg/) sharing the role of the Pirate King.
-
-  We spoke with the four singers about TOT's latest G&S offering, and what's fun about it. [Click here](http://www.torontooperetta.com/shows.html), for more show details, and [click here for ticket info.](http://www.torontooperetta.com/tickets.html)
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481574838530/2016-12-12---Penzance.jpg.jpg
-primary_image_credit: 'From top left: Vania Chan (Mabel), Janaka Welihinda, Nicholas
-  Borg (both The Pirate King) & Colina Ainsworth (Frederic).'
-publishDate: "2016-12-14T16:33:00+00:00"
-related_articles:
-- articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md
-- articles/die-fledermaus-die-flederfabulous.md
-- articles/tots-pirates-of-penzance-a-glorious-thing.md
-related_companies:
-- scene/companies/toronto-operetta-theatre.md
-related_people:
-- scene/people/janaka-welihinda.md
-- scene/people/colin-ainsworth.md
-short_description: '&quot;Pirates is part love story, part silly romp which pokes
-  fun at everything ranging from love, youth, getting old, authority to politics.&quot;'
-slug: dont-miss-the-pirates-of-penzance-with-tot
-title: 'Don&#039;t miss: The Pirates of Penzance with TOT'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-12-12T20:18:00+00:00"
+lastmod = "2016-12-14T17:31:00+00:00"
+preamble = "There's a neat irony in the fact that *The Pirates of Penzance* had its debut in New York City, where the copyright laws didn't protect Gilbert or Sullivan from the bootlegged versions that popped up around the United States after its successful premiere. Piracy aside, *Penzance* is a sure G&S classic, and this month [Toronto Operetta Theatre](/scene/companies/toronto-operetta-theatre/) puts it up on the stage of the St. Lawrence Centre for the Arts.\n\nFrom **December 27 to January 8**, [*The Pirates of Penzance*](http://www.torontooperetta.com/shows.html) stars Canadian talent like [Colin Ainsworth](/scene/people/colin-ainsworth/) as Frederic, [Vania Chan](/scene/people/vania-chan/) as Mabel, and both [Janaka Welihinda](/scene/people/janaka-welihinda/) and [Nicholas Borg](/scene/people/nicholas-borg/) sharing the role of the Pirate King.\n\nWe spoke with the four singers about TOT's latest G&S offering, and what's fun about it. [Click here](http://www.torontooperetta.com/shows.html), for more show details, and [click here for ticket info.](http://www.torontooperetta.com/tickets.html)"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481574838530/2016-12-12---Penzance.jpg.jpg"
+primary_image_credit = "From top left: Vania Chan (Mabel), Janaka Welihinda, Nicholas Borg (both The Pirate King) & Colina Ainsworth (Frederic)."
+publishDate = "2016-12-14T16:33:00+00:00"
+related_articles = ["articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md","articles/die-fledermaus-die-flederfabulous.md","articles/tots-pirates-of-penzance-a-glorious-thing.md"]
+related_companies = ["scene/companies/toronto-operetta-theatre.md"]
+related_people = ["scene/people/janaka-welihinda.md","scene/people/colin-ainsworth.md"]
+short_description = "&quot;Pirates is part love story, part silly romp which pokes fun at everything ranging from love, youth, getting old, authority to politics.&quot;"
+slug = "dont-miss-the-pirates-of-penzance-with-tot"
+title = "Don&#039;t miss: The Pirates of Penzance with TOT"
++++
 
 ## What can you tell us about your role?
 

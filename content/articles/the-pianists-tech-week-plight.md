@@ -1,24 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2014-06-15T10:24:00-06:00"
-lastmod: "2016-07-06T21:54:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467863632215/2016-07-07---Pit.jpg.jpg
-publishDate: "2014-06-15T10:24:00-06:00"
-related_articles:
-- articles/how-to-play-for-singers.md
-- articles/star-repetiteur-there-is-such-a-thing.md
-- articles/potential-orchestra-mutiny-and-conductor-envy.md
-- articles/how-its-made-stage-combat.md
-- articles/tips-for-pianists-how-to-tremolo-like-a-pro.md
-- articles/new-opera-repetiteur.md
-short_description: I&#039;m working on an opera right now, and this week, we go into
-  tech week. It&#039;s a week where the role of the pianist becomes humbling. The
-  tech rehearsals are so not about the music.
-slug: the-pianists-tech-week-plight
-title: The pianist&#039;s tech week plight
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2014-06-15T10:24:00-06:00"
+lastmod = "2016-07-06T21:54:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467863632215/2016-07-07---Pit.jpg.jpg"
+publishDate = "2014-06-15T10:24:00-06:00"
+related_articles = ["articles/how-to-play-for-singers.md","articles/star-repetiteur-there-is-such-a-thing.md","articles/potential-orchestra-mutiny-and-conductor-envy.md","articles/how-its-made-stage-combat.md","articles/tips-for-pianists-how-to-tremolo-like-a-pro.md","articles/new-opera-repetiteur.md"]
+short_description = "I&#039;m working on an opera right now, and this week, we go into tech week. It&#039;s a week where the role of the pianist becomes humbling. The tech rehearsals are so not about the music."
+slug = "the-pianists-tech-week-plight"
+title = "The pianist&#039;s tech week plight"
++++
 
 I'm working on an opera right now, and this week, we go into tech week. It's a week where the role of the pianist becomes humbling. The tech rehearsals are so _not_ about the music. The director and his crew of lighting and set designers take over the game, and in the best cases, it's for a great reason. It means that there will be costumes, sets, and spectacular theatrical sleights-of-hand to complete that magical music that the pianist loves so much. We are invited to remember how opera is theatre, not a concert. Humbling indeed. So there the pianist sits, alone in the empty orchestra pit, out of sight and out of mind to most. The cast and crew look down at him or her, with a look of amused pity in their eyes, as they wave and say something like, "How's it going down there?" The answer is: slightly deflated.
 

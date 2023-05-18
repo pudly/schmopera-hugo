@@ -1,36 +1,29 @@
----
-author:
-- authors/alessia-naccarato.md
-categories: Review
-date: "2020-08-24T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: Alex Ho's _Untold_ is available for [online viewing](https://youtu.be/OOqLBSu4Rc4)
-  until 1 September. To support Tangram, the suggested donation is £5.
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1598312986/media/2020/08/sqUntold_qz3rpf.jpg
-primary_image_credit: 'Alex Ho''s opera Untold, photographed by Zen Grisdale. '
-related_articles: []
-related_companies: []
-related_people:
-- scene/people/keith-pun.md
-short_description: This was a piece that did not feel as though it existed musically
-  as a complete score but more so in the gathering of people together, in the physicality
-  of the performance space, and in the unknowable magic that occurs in the moment
-  of performance itself.
-slug: untold-a-collaborative-tale-of-pride-and-grace
-title: 'Untold: a collaborative tale of pride and grace'
-youtube_url: ""
----
++++
+author = ["authors/alessia-naccarato.md"]
+categories = "Review"
+date = 2020-08-24T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = "Alex Ho's _Untold_ is available for [online viewing](https://youtu.be/OOqLBSu4Rc4) until 1 September. To support Tangram, the suggested donation is £5."
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1598312986/media/2020/08/sqUntold_qz3rpf.jpg"
+primary_image_credit = "Alex Ho's opera Untold, photographed by Zen Grisdale. "
+related_articles = []
+related_companies = []
+related_people = ["scene/people/keith-pun.md"]
+short_description = "This was a piece that did not feel as though it existed musically as a complete score but more so in the gathering of people together, in the physicality of the performance space, and in the unknowable magic that occurs in the moment of performance itself."
+slug = "untold-a-collaborative-tale-of-pride-and-grace"
+title = "Untold: a collaborative tale of pride and grace"
+youtube_url = ""
+
++++
 This week I had the privilege of watching a live stream event featuring composer Alex Ho's newest "Anti-opera", [_Untold_](https://youtu.be/OOqLBSu4Rc4), which is the latest output from [Tangram](https://www.tangramsound.com/ye-xian-a-story-untold.html), a newly formed artist collective whose aim is to celebrate Chinese culture through the performance of both Chinese and Western music while highlighting issues of transnational Chinese identity.
 
 "Anti-opera" in that, though it included all of the main components of traditional opera – voice, text, music, dance, and theatre – these were subverted to create something that remained purposefully nebulous, refusing to be slotted into any one genre.
 
 The piece was co-directed by Alex Ho and Julia Cheng, who also choreographed and performed the main role of Ye Xian. It was initially performed and recorded in November 2019 at Hackney Round Chapel, an ideal venue for this unlikely tale; told in the round, the action swirls endlessly around a centre point on stage. The performers made use of all available space with the instruments placed at the very edges of the performance space and the performers weaving through the audience in and out of the central space. The staging of this piece had a very organic flow to it which gave the impression it was being created before our eyes though undoubtedly, it was very thoroughly rehearsed. It is this spontaneity or at least, the impression of spontaneity that makes live theatre so exciting to watch.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1598313290/media/2020/08/Untold-1_bt6coj.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1598313290/media/2020/08/Untold-1_bt6coj.jpg){{% /md %}}
 
 <figcaption>Alex Ho's opera Untold, photographed by Zen Grisdale.</figcaption>
 
@@ -44,9 +37,7 @@ Slippery and fragmented, this piece kept the audience in its grasp as the story 
 
 Interspersed between the telling of this story, which is first narrated by each of the performers in turn and then enacted through dance, are miniature stories from the performers who each share an experience concerning Chinese identity. These moments were heartfelt, honest, and woven together seamlessly with the action of the piece. The performers were not acting, but connecting with their audience in a very real way. Instead of finding this format jarring and taking me out of the action, I quite enjoyed its deconstructionist take on the traditionally formatted opera or theatre piece. Storytelling is the most ancient of artforms. It is shared across all cultures on the planet and resonates with us all in a very deep way. It was used in a very effective way within this piece.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1598313279/media/2020/08/Untold-2_uxhoct.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1598313279/media/2020/08/Untold-2_uxhoct.jpg){{% /md %}}
 
 <figcaption>Alex Ho's opera Untold, photographed by Richard Moore.</figcaption>
 

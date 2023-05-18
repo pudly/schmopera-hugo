@@ -1,26 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2016-10-26T14:14:00+01:00"
-lastmod: "2016-10-28T09:46:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477487567472/2016-10-26---Microphone.jpg.jpg
-publishDate: "2016-10-28T09:46:00+01:00"
-related_articles:
-- articles/on-the-ego.md
-- articles/the-business-of-passion.md
-- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
-related_people:
-- scene/people/isaiah-bell.md
-- scene/people/christopher-mayell.md
-short_description: How do I get away with writing about opera from within it, when
-  I know the cast and creative team? How do I publish fair reviews? How do I address
-  problems in different organizations, and decide whether or not to name names? Why
-  do some in the opera industry resort to anonymity in order to say what they feel
-  is true?
-slug: the-time-i-spilled-some-secrets-into-a-microphone
-title: The time I spilled some secrets into a microphone
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2016-10-26T14:14:00+01:00"
+lastmod = "2016-10-28T09:46:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477487567472/2016-10-26---Microphone.jpg.jpg"
+publishDate = "2016-10-28T09:46:00+01:00"
+related_articles = ["articles/on-the-ego.md","articles/the-business-of-passion.md","articles/audition-season-or-the-annual-festival-of-shattered-dreams.md"]
+related_people = ["scene/people/isaiah-bell.md","scene/people/christopher-mayell.md"]
+short_description = "How do I get away with writing about opera from within it, when I know the cast and creative team? How do I publish fair reviews? How do I address problems in different organizations, and decide whether or not to name names? Why do some in the opera industry resort to anonymity in order to say what they feel is true?"
+slug = "the-time-i-spilled-some-secrets-into-a-microphone"
+title = "The time I spilled some secrets into a microphone"
++++
 
 Hi, everyone. Jenna here.
 

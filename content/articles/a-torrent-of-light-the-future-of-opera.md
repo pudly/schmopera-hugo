@@ -1,30 +1,22 @@
----
-author:
-- authors/greg.md
-categories: Review
-date: "2022-06-10T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1654901952/media/2022/06/sqRURTorrentofLight-photobyDahliaKatz-7378_nkdwcv.jpg
-primary_image_credit: ' R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia
-  Katz.'
-related_articles:
-- articles/spotlight-on-danielle-buonaiuto.md
-- articles/in-review-tapestry-briefs-booster-shots.md
-related_companies: []
-related_people:
-- scene/people/scott-belluz.md
-- scene/people/peter-barrett.md
-- scene/people/danielle-buonaiuto.md
-- scene/people/krisztina-szab.md
-short_description: Every part of the playing space could function as a projection
-  screen. It was some of the most exciting tech I've ever seen in a show.
-slug: a-torrent-of-light-the-future-of-opera
-title: 'A Torrent of Light: the future of opera'
-youtube_url: ""
----
++++
+author = ["authors/greg.md"]
+categories = "Review"
+date = 2022-06-10T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1654901952/media/2022/06/sqRURTorrentofLight-photobyDahliaKatz-7378_nkdwcv.jpg"
+primary_image_credit = " R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz."
+related_articles = ["articles/spotlight-on-danielle-buonaiuto.md", "articles/in-review-tapestry-briefs-booster-shots.md"]
+related_companies = []
+related_people = ["scene/people/scott-belluz.md", "scene/people/peter-barrett.md", "scene/people/danielle-buonaiuto.md", "scene/people/krisztina-szab.md"]
+short_description = "Every part of the playing space could function as a projection screen. It was some of the most exciting tech I've ever seen in a show."
+slug = "a-torrent-of-light-the-future-of-opera"
+title = "A Torrent of Light: the future of opera"
+youtube_url = ""
+
++++
 > "Pour a torrent of light into our dark world." \~_Frankenstein_, by Mary Shelley.
 
 Hello, Schmop-tops,
@@ -35,9 +27,7 @@ I caught the closing performance of [_R.U.R. A Torrent of Light_](https://tapest
 
 Buckle up, grab a snack and a drink, this one's a doozy.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1654902075/media/2022/06/RURTorrentofLight-photobyDahliaKatz-6889_Fotor_kps1xo.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902075/media/2022/06/RURTorrentofLight-photobyDahliaKatz-6889_Fotor_kps1xo.jpg){{% /md %}}
 
 <figcaption>Peter Barrett as Dom in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
@@ -47,9 +37,7 @@ With a score by Nicole Lizée and a libretto by Nicolas Billon, _R.U.R. A Torren
 
 Helena tells Dom, who is immediately upset. The implications of robots having autonomy could spark disaster for their business which relies on the robots carrying out direct orders. Helena agrees, reluctantly, as she comforts Dom telling him \[Alex\] is not networked.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1654902094/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7008_zrgjtw.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902094/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7008_zrgjtw.jpg){{% /md %}}
 
 <figcaption>Scott Belluz as Alex and the robot chorus in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
@@ -67,9 +55,7 @@ Unfortunately, [Krisztina Szabó](/scene/people/krisztina-szabo/) was unable to 
 
 Routhier's mezzo is deep and rich and flexible. Her top blooms with a brightness that is unexpected, and her low notes -- and let me tell you they were freaking low -- were full of rich, warm tones and a fullness which is quite impressive. You would have had no idea that she got a call at 11AM that morning saying she would be taking the stage at 4PM. She seemed as though she'd been in the role from the jump. Her journey from altruistic programmer to calculated agent of vindication was nuanced and endearing. Her interactions with the robots especially with \[Alex\] and even with \[Helena\] are never missing care and concern added a layer of credibility to her performance.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1654902174/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7236_zzlfdr.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902174/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7236_zzlfdr.jpg){{% /md %}}
 
 <figcaption>Krisztina Szabó (right) and Danielle Buonaiuto in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
@@ -79,9 +65,7 @@ As a Helena's partner Dom, baritone [Peter Barrett](/scene/people/peter-barrett/
 
 In the role of \[Helena\], soprano [Danielle Buonaiuto](/scene/people/danielle-buonaiuto/) had me enthralled. Her agile coloratura and ability to seamlessly meld a very active vibrato with a clear, almost viscous (this a VERY good thing) straight tone was a perfect match for not just \[Helena's\] vocal lines but for the piece as a whole. The score is laden with repeated syllables over creative crescendi and diminuendi that create a reverb effect, and I feel as though Buonaiuto was the most successful at this technique.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1654902494/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7241_lqk6zy.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902494/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7241_lqk6zy.jpg){{% /md %}}
 
 <figcaption>The orchestra of R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
@@ -93,9 +77,7 @@ For me, countertenor [Scott Bellu](/scene/people/scott-belluz/)z was the highlig
 
 The robot chorus - minus Routhier for this performance - was also captivating. Flying back and forth between vocal lines present in the drama of the show to instruments in the orchestration seemingly effortlessly, this quartet was out there making some damn _fine_ music.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1654902510/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7267_xob0jm.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902510/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7267_xob0jm.jpg){{% /md %}}
 
 <figcaption>Krisztina Szabó as Helena in R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 
@@ -105,9 +87,7 @@ In a nice big nod to opera's earlier days, we get a _corps de ballet_ in _R.U.R_
 
 The orchestra and score itself is one of the most creative I've heard in a while. A digital underscore is accompanied by only two cellists, two double-bassists and _four percussionists_. It was nuts. There's was timpani and drum kits and marimba and even those fun tube things that whistle eerie pitches when you swing them over your head like a propeller. The sounds employed by Lizée are remarkable. The ranges of the pitched instruments were on the lower end of things which left a nice clear space for the singers to fill. This coupled with the antiphonal passages brought even further to life the reverb effect created by the singers on stage.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1654902632/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7411_vgmdzw.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1654902632/media/2022/06/RURTorrentofLight-photobyDahliaKatz-7411_vgmdzw.jpg){{% /md %}}
 
 <figcaption>The team of R.U.R. A Torrent of Light, Tapestry Opera, 2022. Photo: Dahlia Katz.</figcaption>
 

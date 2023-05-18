@@ -1,20 +1,19 @@
----
-date: "2017-12-19T18:57:00-05:00"
-discipline: Tenor
-lastmod: "2017-12-19T18:57:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546738358/media/2019/01/DenzilDelaere.png
-publishDate: "2017-12-19T18:57:00-05:00"
-related_companies:
-- scene/companies/vlaamse-opera.md
-slug: denzil-delaere
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/denzil.delaere
-title: Denzil Delaere
-website: http://denzildelaere.wixsite.com/denzildelaere
----
++++
+date = "2017-12-19T18:57:00-05:00"
+discipline = "Tenor"
+lastmod = "2017-12-19T18:57:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546738358/media/2019/01/DenzilDelaere.png"
+publishDate = "2017-12-19T18:57:00-05:00"
+related_companies = ["scene/companies/vlaamse-opera.md"]
+slug = "denzil-delaere"
+title = "Denzil Delaere"
+website = "http://denzildelaere.wixsite.com/denzildelaere"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/denzil.delaere"
+
++++
 At the age of six, Denzil Delaere (1988° Belgium) joined the public music academy of Deinze to study piano and saxophone with Daan vandewalle and Stefaan Cornelis. At 14 he entered the School of Art of Ghent where he was taught piano as well as the art of singing  (by Philippe Wesemael and Sabine Haenebalcke).  He graduated with highest honors in 2008 and was subsequently admitted at the Royal Conservatory of Ghent where he completed his vocal education with Marcos Pujol and Gidon Saks. He graduated from the Conservatory with Master degree in 2013.
 
 Currently he's a member of the Chapelle Musicale Reine Elisabeth that offers a Opera training study program. In the past he was a member of the Opera Studio Flanders under Guy Joosten within this framework Denzil Delaere sang Don Ottavio in _Don Giovanni_ at the renowned Summer Opera Festival of Alden-Biesen, 2014 and was engaged as cover for the role at La Monnaie. During the current season he will participate amongst others in Massenet's obscure opera "Chérubin" for Opéra National de Montpellier and Sam Vloeman's newly composed opera _Babel_ in a coproduction for Flemish opera and Theatre Company Paleis.

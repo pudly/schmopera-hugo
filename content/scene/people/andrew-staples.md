@@ -1,31 +1,27 @@
----
-date: "2015-12-18T16:29:00+00:00"
-discipline: Tenor, Director
-lastmod: "2017-03-15T12:24:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450456266733/2015-12-18---Andrew-Staples-headshot.jpg.jpg
-primary_image_credit: Courtesy of Askonas Holt Artists
-publishDate: "2015-12-18T16:29:00+00:00"
-related_companies:
-- scene/companies/toronto-symphony-orchestra.md
-- scene/companies/royal-opera-house.md
-- scene/companies/la-monnaie.md
-- scene/companies/salzburg-festival.md
-- scene/companies/deutsche-oper-berlin.md
-slug: andrew-staples
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/clagnutz
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/AJRStaples
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/ajrstaples/
-title: Andrew Staples
-website: http://www.ajrstaples.com/
----
++++
+date = "2015-12-18T16:29:00+00:00"
+discipline = "Tenor, Director"
+lastmod = "2017-03-15T12:24:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450456266733/2015-12-18---Andrew-Staples-headshot.jpg.jpg"
+primary_image_credit = "Courtesy of Askonas Holt Artists"
+publishDate = "2015-12-18T16:29:00+00:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/royal-opera-house.md","scene/companies/la-monnaie.md","scene/companies/salzburg-festival.md","scene/companies/deutsche-oper-berlin.md"]
+slug = "andrew-staples"
+title = "Andrew Staples"
+website = "http://www.ajrstaples.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/clagnutz"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/AJRStaples"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/ajrstaples/"
++++
 
 Andrew Staples sang as a chorister in St Paul’s Cathedral before winning a Choral Scholarship to King’s College Cambridge, where he gained a degree in Music.  Andrew was the first recipient of the RCM Peter Pears Scholarship, sponsored by the Britten Pears Foundation, at the Royal College of Music and subsequently joined the Benjamin Britten International Opera School.  He studies with Ryland Davies.
 

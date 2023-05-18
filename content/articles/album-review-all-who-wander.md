@@ -1,29 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2016-11-12T15:51:00+00:00"
-lastmod: "2016-11-29T10:12:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478965911421/2016-11-12---All-Who-Wander-Cover.jpg.jpg
-primary_image_credit: Photography by Fay Fox.
-publishDate: "2016-11-29T09:43:00+00:00"
-related_articles:
-- articles/talking-with-singers-jamie-barton.md
-- articles/in-review-jamie-barton-at-wigmore-hall.md
-- articles/bel-canto-indeed-dare-voce.md
-- articles/album-review-nights-not-spent-alone.md
-- articles/a-bold-debut-album-brian-mulligan-sings-dominick-argento.md
-- articles/album-review-o-gladsome-light.md
-related_people:
-- scene/people/jamie-barton.md
-short_description: '&quot;Sure, I didn&#039;t grow up in a gypsy camp,&quot; says
-  Barton of Dvořák&#039;s songs, &quot;but I do have fond memories of playing music
-  around a bonfire with family and dancing. I treasure my memories of family members
-  teaching me the songs of where I come from. I identify with trying to find myself,
-  and wanting to walk/dance/boogie down to the beat of my own drum.&quot;'
-slug: album-review-all-who-wander
-title: 'Album review: All Who Wander'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2016-11-12T15:51:00+00:00"
+lastmod = "2016-11-29T10:12:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478965911421/2016-11-12---All-Who-Wander-Cover.jpg.jpg"
+primary_image_credit = "Photography by Fay Fox."
+publishDate = "2016-11-29T09:43:00+00:00"
+related_articles = ["articles/talking-with-singers-jamie-barton.md","articles/in-review-jamie-barton-at-wigmore-hall.md","articles/bel-canto-indeed-dare-voce.md","articles/album-review-nights-not-spent-alone.md","articles/a-bold-debut-album-brian-mulligan-sings-dominick-argento.md","articles/album-review-o-gladsome-light.md"]
+related_people = ["scene/people/jamie-barton.md"]
+short_description = "&quot;Sure, I didn&#039;t grow up in a gypsy camp,&quot; says Barton of Dvořák&#039;s songs, &quot;but I do have fond memories of playing music around a bonfire with family and dancing. I treasure my memories of family members teaching me the songs of where I come from. I identify with trying to find myself, and wanting to walk/dance/boogie down to the beat of my own drum.&quot;"
+slug = "album-review-all-who-wander"
+title = "Album review: All Who Wander"
++++
 
 "Pinterest boards about exotic locations... the thought of tasting ethnic cuisines in places where they're local rather than "exotic"... Loreena McKennitt's 1997 2x platinum album *The Book of Secrets*... swapping stories with friends and family about places we've been that we'll never forget... the thought of sharing the gift of traveling with my nephews and expanding their world... my passport, just glaring at me from my desk..."
 

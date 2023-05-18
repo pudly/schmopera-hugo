@@ -1,37 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-07-28T19:55:00+02:00"
-lastmod: "2015-08-13T00:26:00+02:00"
-preamble: |-
-  [The Friends of Gravity](/scene/companies/the-friends-of-gravity/) is all about "expressive immediacy," producing music theatre in intimate spaces, and combining live action and music with film and photographic media. This fall, The Friends of Gravity presents Kurt Weill's fantastic [*Seven Deadly Sins*](http://thefriendsofgravity.org/seven-deadly-sins/), complete with silent film elements. The Friends are [Scott Gabriel](/scene/people/scott-grabriel/), Artistic Director, conductor, and arranger, and [Stephanie Conn](/scene/people/stephanie-conn/), producer and vocal artist. I had the chance to ask them both about The Friends of Gravity, and their place in the Indie Opera T.O. collective.
-
-  *Seven Deadly Sins* runs September 25 & 26 at St. Bartholomew Church, 509 Dundas St. E. For details and tickets, follow the box office links below.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439364965514/FoG%20Logo%20Fill.jpg.jpg
-publishDate: "2015-08-12T14:47:00+02:00"
-related_articles:
-- articles/check-out-opera-5.md
-- articles/check-out-loose-tea-music-theatre.md
-- articles/check-out-opera-after-hours.md
-- articles/check-out-liederwolfe.md
-- articles/check-out-fawn-chamber-creative.md
-- articles/meet-the-friends-their-seven-deadly-sins.md
-- articles/in-review-the-seven-deadly-sins.md
-- articles/check-out-myopera.md
-related_companies:
-- scene/companies/the-friends-of-gravity.md
-- scene/companies/indie-opera-to.md
-related_people:
-- scene/people/stephanie-conn.md
-- scene/people/scott-gabriel.md
-short_description: The Friends of Gravity is all about &quot;expressive immediacy,&quot;
-  producing music theatre in intimate spaces, and combining live action and music
-  with film and photographic media. This fall, The Friends of Gravity presents Kurt
-  Weill&#039;s fantastic Seven Deadly Sins, complete with silent film elements.
-slug: check-out-the-friends-of-gravity
-title: 'Check out: The Friends of Gravity'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-07-28T19:55:00+02:00"
+lastmod = "2015-08-13T00:26:00+02:00"
+preamble = "[The Friends of Gravity](/scene/companies/the-friends-of-gravity/) is all about \"expressive immediacy,\" producing music theatre in intimate spaces, and combining live action and music with film and photographic media. This fall, The Friends of Gravity presents Kurt Weill's fantastic [*Seven Deadly Sins*](http://thefriendsofgravity.org/seven-deadly-sins/), complete with silent film elements. The Friends are [Scott Gabriel](/scene/people/scott-grabriel/), Artistic Director, conductor, and arranger, and [Stephanie Conn](/scene/people/stephanie-conn/), producer and vocal artist. I had the chance to ask them both about The Friends of Gravity, and their place in the Indie Opera T.O. collective.\n\n*Seven Deadly Sins* runs September 25 & 26 at St. Bartholomew Church, 509 Dundas St. E. For details and tickets, follow the box office links below."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1439364965514/FoG%20Logo%20Fill.jpg.jpg"
+publishDate = "2015-08-12T14:47:00+02:00"
+related_articles = ["articles/check-out-opera-5.md","articles/check-out-loose-tea-music-theatre.md","articles/check-out-opera-after-hours.md","articles/check-out-liederwolfe.md","articles/check-out-fawn-chamber-creative.md","articles/meet-the-friends-their-seven-deadly-sins.md","articles/in-review-the-seven-deadly-sins.md","articles/check-out-myopera.md"]
+related_companies = ["scene/companies/the-friends-of-gravity.md","scene/companies/indie-opera-to.md"]
+related_people = ["scene/people/stephanie-conn.md","scene/people/scott-gabriel.md"]
+short_description = "The Friends of Gravity is all about &quot;expressive immediacy,&quot; producing music theatre in intimate spaces, and combining live action and music with film and photographic media. This fall, The Friends of Gravity presents Kurt Weill&#039;s fantastic Seven Deadly Sins, complete with silent film elements."
+slug = "check-out-the-friends-of-gravity"
+title = "Check out: The Friends of Gravity"
++++
 
 ### 1. What is the mission behind The Friends of Gravity?
 

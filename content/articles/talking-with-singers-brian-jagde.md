@@ -1,33 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-10-26T20:12:00+01:00"
-lastmod: "2016-11-01T14:53:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477929217509/2016-10-26---Brian-Jagde---Simon-Pauly.jpg.jpg
-primary_image_credit: Photo by Simon Pauly.
-publishDate: "2016-11-01T14:33:00+00:00"
-related_articles:
-- articles/talking-with-singers-leah-crocetto.md
-- articles/talking-with-singers-bryan-register.md
-- articles/talking-with-singers-luca-pisaroni.md
-- articles/talking-with-singers-ekaterina-semenchuk.md
-- articles/in-review-adriana-lecouvreur-at-roh.md
-- articles/spotlight-on-eric-barry.md
-- articles/talking-with-singers-carl-tanner.md
-- articles/talking-with-singers-clay-hilley.md
-related_companies:
-- scene/companies/san-francisco-opera.md
-related_people:
-- scene/people/brian-jagde.md
-- scene/people/leah-crocetto.md
-short_description: '&quot;You have to continue to get better,&quot; says Jagde of
-  his constant work with his teachers and coaches. &quot;You&#039;re working really
-  hard to just even have a job and to have a career, and now you have to keep it.
-  The work never stops. It&#039;s not that you make it, and then you&#039;re there.&quot;'
-slug: talking-with-singers-brian-jagde
-title: 'Talking with singers: Brian Jagde'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-10-26T20:12:00+01:00"
+lastmod = "2016-11-01T14:53:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477929217509/2016-10-26---Brian-Jagde---Simon-Pauly.jpg.jpg"
+primary_image_credit = "Photo by Simon Pauly."
+publishDate = "2016-11-01T14:33:00+00:00"
+related_articles = ["articles/talking-with-singers-leah-crocetto.md","articles/talking-with-singers-bryan-register.md","articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-ekaterina-semenchuk.md","articles/in-review-adriana-lecouvreur-at-roh.md","articles/spotlight-on-eric-barry.md","articles/talking-with-singers-carl-tanner.md","articles/talking-with-singers-clay-hilley.md"]
+related_companies = ["scene/companies/san-francisco-opera.md"]
+related_people = ["scene/people/brian-jagde.md","scene/people/leah-crocetto.md"]
+short_description = "&quot;You have to continue to get better,&quot; says Jagde of his constant work with his teachers and coaches. &quot;You&#039;re working really hard to just even have a job and to have a career, and now you have to keep it. The work never stops. It&#039;s not that you make it, and then you&#039;re there.&quot;"
+slug = "talking-with-singers-brian-jagde"
+title = "Talking with singers: Brian Jagde"
++++
 
 "When you're stepping onto the stage at [San Francisco Opera](/scene/companies/san-francisco-opera/), you kind of forget," says [Brian Jagde](/scene/people/brian-jagde/) of the long line of famed tenors who have sung at War Memorial Opera House. He is set to sing his first Radamès, in Francesca Zambello's new production of [*Aïda*](http://sfopera.com/discover-opera/201617-season/aida/); the combination of Verdi's masterpiece and the San Francisco Opera - a major site in the history of opera in America - holds a gravity that's not lost on Jagde.
 
@@ -57,9 +42,7 @@ On understudy duties as an Adler Fellow, Jagde had also seen director Francesca 
 
 He sings his first Radamès opposite soprano [Leah Crocetto](/talking-with-singers-leah-crocetto/), whom he met when they were both Adler Fellows. "We just got along offstage really well," he adds. He recalls when they both performed smaller roles in SFO's previous *Aïda*, directed by Jo Davies, Crocetto as the priestess, and Jagde as the messenger. "All of a sudden we jumped from doing roles that were supporting characters, to doing leading roles," he says with a smile. "We kind of grew up here together."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477952888301/2016-10-31--2016-HGO-Rusalka-by-Lynn-Lane.jpg.jpg)<figcaption>Jagde (Prince) in *Rusalka*, Houston Grand Opera, 2016. Photo by Lynn Lane.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477952888301/2016-10-31--2016-HGO-Rusalka-by-Lynn-Lane.jpg.jpg)<figcaption>Jagde (Prince) in *Rusalka*, Houston Grand Opera, 2016. Photo by Lynn Lane.</figcaption>
 </figure>
 
 ## "It's fun to play those roles."
@@ -70,9 +53,7 @@ With all the densely dramatic characters in Jagde's repertoire, he has the onsta
 
 With someoine like Don José, he finds it cathartic to expose the darkness in the character, "to tap into real insecurity, human insecurity that a lot of people have, and I've had in my life." A role like Pinkerton in *Madama Butterfly* is another role rich with dramatic options. "He doesn't know he's doing something bad," he says of the American Naval officer who marries - and abandons - the young, naïve Cio-Cio San. "He's a guy who's on a ship, and every other guy on that ship is also going off and finding some girl," Jagde explains. "And then he meets her, and he's sort of like, 'This is better than I thought it was going to be. This could be real.'" Giving the benefit of the doubt to one of opera's most notoriously heartless men is part of Jagde's process of finding the truth about these infamous roles.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477952938026/2016-10-31---MadamaButterfly_TeatroMassimo_2016_Image_RosallinaGarbo_2.jpg.jpg)<figcaption>Jagde (Pinkerton) in *Madama Butterfly* at Teatro Massimo. Photo by Rosallina Garbo.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477952938026/2016-10-31---MadamaButterfly_TeatroMassimo_2016_Image_RosallinaGarbo_2.jpg.jpg)<figcaption>Jagde (Pinkerton) in *Madama Butterfly* at Teatro Massimo. Photo by Rosallina Garbo.</figcaption>
 </figure>
 
 ## "When you start to make it, it doesn't get any easier.
@@ -85,9 +66,7 @@ Jagde understands well that his singing schedule is the kind that aspiring opera
 
 It also helps to have a few reasons to pursue singing. Recently, Jagde joined the advisory board for [Time In](http://timeinkids.org/), a New York-based arts initiative that brings arts education to at-risk youth. "For me, it's actually remembering where we came from, and trying to make sure we're giving back. Those are the kinds of things that make this job even more worthwhile." Outreach work began for Jagde with school tours presented by Opera Iowa and Virginia Opera, and it's something he advises any young artist to pursue with pleasure. "I continue to do that now, and it's extremely fulfilling for me to bring art and music to kids in America," he says. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953007395/2016-10-31---2015-Lyric-Opera-of-Chicago-Tosca.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477953007395/2016-10-31---2015-Lyric-Opera-of-Chicago-Tosca.jpg.jpg)
 <figcaption>Jagde (Cavaradossi) in *Tosca* at Lyric Opera of Chicago. Photo by Todd Rosenberg.</figcaption>
 </figure>
 

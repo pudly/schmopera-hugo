@@ -1,14 +1,13 @@
----
-_template: people_single
-date: "2015-04-08T10:55:00-04:00"
-discipline: Pianist, coach
-lastmod: "2015-04-08T10:55:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428504902616/Mai-21.jpg.jpg
-publishDate: "2015-04-08T10:55:00-04:00"
-slug: maikai-nash
-title: Maika&#039;i Nash
-website: http://maikai.ca/home
----
++++
+date = "2015-04-08T10:55:00-04:00"
+discipline = "Pianist, coach"
+lastmod = "2015-04-08T10:55:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428504902616/Mai-21.jpg.jpg"
+publishDate = "2015-04-08T10:55:00-04:00"
+slug = "maikai-nash"
+title = "Maika&#039;i Nash"
+website = "http://maikai.ca/home"
++++
 
 <p>
 	Hawaiian pianist Maika'i Nash is from an exciting new generation of vocal coaches and pianists in North America. Previously a vocal coach and accompanist at McGill University, he now coaches at the University of Toronto and the Royal Conservatory of Music (Glenn Gould School) and collaborates with a number of young singers throughout Canada, the U.S. and Europe.

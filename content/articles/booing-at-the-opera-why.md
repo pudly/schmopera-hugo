@@ -1,27 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-02-06T12:37:00+00:00"
-lastmod: "2017-02-07T20:25:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486465176595/2017-02-08---Statler-Waldorf.jpg.jpg
-publishDate: "2017-02-07T16:35:00+00:00"
-related_articles:
-- articles/opera-haters-they-exist-thats-alright.md
-- articles/in-review-lucia-di-lammermoor-at-roh.md
-- articles/take-a-joke-have-a-nap.md
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/teatro-alla-scala.md
-short_description: Those who are brave enough to boo are also brave enough to make
-  sure that everyone knows who exactly they&#039;re booing. Curtain calls can be a
-  cruel set-up, the bowing artist well aware of when the crowd turns from admiration
-  to disappointment. Seasoned artists have a thick skin, but it can&#039;t be a good
-  feeling to stand in front of a crowd of people who are unhappy and who want you
-  to know it.
-slug: booing-at-the-opera-why
-title: 'Booing at the opera: why?'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-02-06T12:37:00+00:00"
+lastmod = "2017-02-07T20:25:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486465176595/2017-02-08---Statler-Waldorf.jpg.jpg"
+publishDate = "2017-02-07T16:35:00+00:00"
+related_articles = ["articles/opera-haters-they-exist-thats-alright.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/take-a-joke-have-a-nap.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md"]
+short_description = "Those who are brave enough to boo are also brave enough to make sure that everyone knows who exactly they&#039;re booing. Curtain calls can be a cruel set-up, the bowing artist well aware of when the crowd turns from admiration to disappointment. Seasoned artists have a thick skin, but it can&#039;t be a good feeling to stand in front of a crowd of people who are unhappy and who want you to know it."
+slug = "booing-at-the-opera-why"
+title = "Booing at the opera: why?"
++++
 
 When it comes to operatic culture shock between North America and Europe, more jarring than scandalous sets or onstage nudity is the practice of booing in the opera house. In North America - and particularly in Canada - the opposite of applause is simply less enthusiastic applause. In Europe, it's booing. We've heard the loud, well-directed jeers and boos hurled from the audience; they're usually directed at the creative team, but on rare occasions, individual singers [fall prey](https://www.theguardian.com/music/musicblog/2006/dec/12/neverletlascalasbooboyss) to the ululating critics.
 

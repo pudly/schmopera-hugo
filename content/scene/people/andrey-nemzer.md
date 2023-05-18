@@ -1,18 +1,14 @@
----
-_template: people_single
-date: "2018-04-22T20:54:00-04:00"
-discipline: Countertenor
-lastmod: "2018-04-22T20:54:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524444711995/IMG_8879-2.jpg.jpg
-publishDate: "2018-04-22T20:54:00-04:00"
-related_companies:
-- scene/companies/pacific-opera-victoria.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/the-metropolitan-opera.md
-slug: andrey-nemzer
-title: Andrey Nemzer
-website: http://andreynemzer.com/eng/
----
++++
+date = "2018-04-22T20:54:00-04:00"
+discipline = "Countertenor"
+lastmod = "2018-04-22T20:54:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524444711995/IMG_8879-2.jpg.jpg"
+publishDate = "2018-04-22T20:54:00-04:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md"]
+slug = "andrey-nemzer"
+title = "Andrey Nemzer"
+website = "http://andreynemzer.com/eng/"
++++
 
 During the early years of his career, countertenor Andrey Nemzer has become distinguished for the unique size, flexibility and range of his instrument. A 3rd Prize Winner of Placido Domingo’s Operalia 2014 and The Winner of Metropolitan Opera National Council 2012, Mr. Nemzer has been a soloist with a number of distinguished opera houses. Mr. Nemzer covered the title role of Handel’s *Giulio Cesare in Egitto* in a new production for the Metropolitan Opera, debuted on Metropolitan Opera stage in role of The Guardian in R. Strauss’ *Die Frau ohne Schatten* and covered there the role of Prince Orlofsky in J. Strauss’ *Die Fledermaus* in Metropolitan Opera’s new production. His engagements also included the Pittsburgh Symphony for Orff’s *Carmina Burana*. 
 

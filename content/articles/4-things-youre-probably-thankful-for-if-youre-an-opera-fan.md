@@ -1,25 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2017-10-06T15:59:00-04:00"
-lastmod: "2017-10-06T22:03:00-04:00"
-preamble: For our Canadian readers, we head into Thanksgiving weekend (it's true,
-  Americans!), and the deal is we have to say out loud the things for which we're
-  thankful. We're a bunch of thankful opera lovers over here, so here's our list of
-  gratitude, tailor-made for our fellow fans of big, loud singing.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507321415351/2017-10-07---Thanksgiving.jpg.jpg
-publishDate: "2017-10-06T21:58:00-04:00"
-related_articles:
-- articles/its-valentines-day-now-what.md
-- articles/the-opera-workout.md
-short_description: For our Canadian readers, we head into Thanksgiving weekend (it&#039;s
-  true, Americans!), and the deal is we have to say out loud the things for which
-  we&#039;re thankful. We&#039;re a bunch of thankful opera lovers over here, so here&#039;s
-  our list of gratitude, tailor-made for our fellow fans of big, loud singing.
-slug: 4-things-youre-probably-thankful-for-if-youre-an-opera-fan
-title: 4 things you&#039;re probably thankful for if you&#039;re an opera fan
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2017-10-06T15:59:00-04:00"
+lastmod = "2017-10-06T22:03:00-04:00"
+preamble = "For our Canadian readers, we head into Thanksgiving weekend (it's true, Americans!), and the deal is we have to say out loud the things for which we're thankful. We're a bunch of thankful opera lovers over here, so here's our list of gratitude, tailor-made for our fellow fans of big, loud singing."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507321415351/2017-10-07---Thanksgiving.jpg.jpg"
+publishDate = "2017-10-06T21:58:00-04:00"
+related_articles = ["articles/its-valentines-day-now-what.md","articles/the-opera-workout.md"]
+short_description = "For our Canadian readers, we head into Thanksgiving weekend (it&#039;s true, Americans!), and the deal is we have to say out loud the things for which we&#039;re thankful. We&#039;re a bunch of thankful opera lovers over here, so here&#039;s our list of gratitude, tailor-made for our fellow fans of big, loud singing."
+slug = "4-things-youre-probably-thankful-for-if-youre-an-opera-fan"
+title = "4 things you&#039;re probably thankful for if you&#039;re an opera fan"
++++
 
 ## Surtitles™
 

@@ -1,28 +1,22 @@
----
-author:
-- authors/kay-cartwright.md
-categories: Op-Ed
-date: "2019-09-27T14:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: This submission is by a UK-based author, and some details are in the context
-  of the UK. The rest applies to everyone.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569082335/media/2019/09/sqTime_lrywd1.jpg
-primary_image_credit: ""
-related_articles:
-- articles/networking-for-introverted-performers.md
-- articles/the-opera-party-monologue.md
-- articles/i-didnt-get-in-a-short-story-about-clarity.md
-related_companies: []
-related_people: []
-short_description: 'Perhaps the question to ask is, why do so many young singers put
-  up with it? I would urge my colleagues to put aside the undying loyalty to the artistic
-  dream for a moment and speak up against unfair working conditions of any kind. '
-slug: you-have-rights-to-your-working-hours-an-open-letter-to-singers
-title: 'You have rights to your working hours: An open letter to singers'
-youtube_url: ""
----
++++
+author = ["authors/kay-cartwright.md"]
+categories = "Op-Ed"
+date = "2019-09-27T14:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = "This submission is by a UK-based author, and some details are in the context of the UK. The rest applies to everyone."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569082335/media/2019/09/sqTime_lrywd1.jpg"
+primary_image_credit = ""
+related_articles = ["articles/networking-for-introverted-performers.md", "articles/the-opera-party-monologue.md", "articles/i-didnt-get-in-a-short-story-about-clarity.md"]
+related_companies = []
+related_people = []
+short_description = "Perhaps the question to ask is, why do so many young singers put up with it? I would urge my colleagues to put aside the undying loyalty to the artistic dream for a moment and speak up against unfair working conditions of any kind. "
+slug = "you-have-rights-to-your-working-hours-an-open-letter-to-singers"
+title = "You have rights to your working hours: An open letter to singers"
+youtube_url = ""
+
++++
 The majority of young artists, emerging blinking into the sunlight from their conservatoires, will have to undergo an apprenticeship of sorts in professional chorus work. I am one of these, and after completing a number of such contracts, a recurring concern has been the lack of adherence to basic working regulations in the opera industry.
 
 In the UK there are a whole slew of regulations which govern fair and just working environments. Just a handful of examples include:

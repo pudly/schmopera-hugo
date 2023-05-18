@@ -1,16 +1,15 @@
----
-_template: people_single
-date: "2019-03-03T17:52:23+00:00"
-discipline: Soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551635445/media/2019/03/izabela.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/oper-frankfurt.md
-slug: izabela-matula
-social_media: []
-title: Izabela Matuła
-website: ""
----
++++
+date = "2019-03-03T17:52:23+00:00"
+discipline = "Soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551635445/media/2019/03/izabela.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/oper-frankfurt.md"]
+slug = "izabela-matula"
+social_media = []
+title = "Izabela Matuła"
+website = ""
+
++++
 Izabela Matula studied at the Academy of Music in Kraków and became a prizewinner at several competitions. She presented Poland at the BBC Cardiff Singer of the World Competition in 2009. Her first operatic roles were **Gabrielle**in Penderecki’s _The Devils of Loudun_, **Marguerite** in Gounod’s _Faust_ and **Micaela**in _Carmen_ with Kraków Opera during 2008-2010. She appeared as **Desdemona**in _Otello_ with Wrocaw Opera and as **Maria** in Statkowski’s _Maria_ with the Baltic Opera in Gdansk. Her German debut took place as **Liù** in _Turandot_ with Saarländisches Staatstheater in 2010.
 
 Izabela Matula was an ensemble member at Theater Krefeld Mönchengladbach 2012-2018 building up a considerable repertoire with roles such as **Mimì** in _La Bohème_, the title role of **Suor Angelica**, **Contessa** in _Le Nozze di Figaro_, **Donna Elvira** in _Don Giovanni_, **Lina** in _Stiffelio_, **Amelia** in _Un Ballo in Maschera_, **Antonia** in_Les Contes d'Hoffmann_, **Elsa** in _Lohengrin_, **Maria** in Tchaikovsky’s _Mazeppa_, **Rosalinde** in _Die Fledermaus_, **Ellen Orford** in _Peter Grimes_, **Magda Sorel** in Menotti’s _Consul_ and the title role of **Katia Kabanova**.

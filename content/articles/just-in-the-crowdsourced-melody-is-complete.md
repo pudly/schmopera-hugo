@@ -1,22 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2016-09-15T10:36:00+01:00"
-lastmod: "2016-09-15T11:46:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473934960838/2016-09-15---Crowd.jpg.jpg
-publishDate: "2016-09-15T11:26:00+01:00"
-related_articles:
-- articles/vote-for-a-note-crowdsourced-songwriting.md
-- articles/when-the-crowd-went-wild-for-handel.md
-- articles/shhdont-tell-them-its-opera.md
-short_description: 'Listening to the voted-upon melody is a pretty fascinating exercise
-  for anyone with an interest in music and in people. It sounds like something you&#039;ve
-  definitely heard before, and the lyrics are just on the tip of your tongue (something
-  likely by Coldplay). '
-slug: just-in-the-crowdsourced-melody-is-complete
-title: 'Just in: the crowdsourced melody is complete'
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2016-09-15T10:36:00+01:00"
+lastmod = "2016-09-15T11:46:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473934960838/2016-09-15---Crowd.jpg.jpg"
+publishDate = "2016-09-15T11:26:00+01:00"
+related_articles = ["articles/vote-for-a-note-crowdsourced-songwriting.md","articles/when-the-crowd-went-wild-for-handel.md","articles/shhdont-tell-them-its-opera.md"]
+short_description = "Listening to the voted-upon melody is a pretty fascinating exercise for anyone with an interest in music and in people. It sounds like something you&#039;ve definitely heard before, and the lyrics are just on the tip of your tongue (something likely by Coldplay). "
+slug = "just-in-the-crowdsourced-melody-is-complete"
+title = "Just in: the crowdsourced melody is complete"
++++
 
 Readers, remember when we told you about the [crowdsourced melody](/vote-for-a-note-crowdsourced-songwriting/) happening over at [CrowdSound.net](https://crowdsound.net/)? Users can put together a full melody by voting on each note, one at a time.
 

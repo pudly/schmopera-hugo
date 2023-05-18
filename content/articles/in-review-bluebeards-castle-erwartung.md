@@ -1,47 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2015-05-06T17:07:00-04:00"
-lastmod: "2015-06-03T16:57:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430946263145/Erwartung-MC-0760Square.jpg.jpg
-primary_image_credit: Krisztina Szabó as The Woman in Erwartung, 2015. Photo by Michael
-  Cooper.
-publishDate: "2015-05-09T09:29:00-04:00"
-related_articles:
-- articles/coc1617.md
-- articles/dean-burry-on-the-highwayman.md
-- articles/killer-women-shadwell-operas-doublebill.md
-- articles/in-review-scenes-from-the-end.md
-- articles/a-lopsided-bloody-doublebill-at-hackney-empire.md
-- articles/folk-songs-esprit-szabo.md
-- articles/belle-bete-la-opera-beauty.md
-- articles/overdue-for-a-chicago-performance-the-haunted-manor.md
-- articles/an-astonishing-bryan-hymel-in-the-royal-operas-double-bill.md
-- articles/metrowest-double-bill-provides-thrills-delights-despite-mismatch.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/krisztina-szab.md
-- scene/people/johannes-debus.md
-- scene/people/john-relyea.md
-- scene/people/ekaterina-gubanova.md
-- scene/people/robert-lepage.md
-short_description: Last night I was able to check off one of my must-sees. For a while
-  I felt like the only opera fan in Toronto who hadn&#039;t seen Robert Lepage&#039;s
-  double bill of Bluebeard&#039;s Castle/Erwartung, but I fixed that. The production
-  couldn&#039;t have brought more hype along with it, and I usually try and ignore
-  hype so that it doesn&#039;t skew my otherwise fine enjoyment of a production. The
-  rumours turned out to be true, and I was amazed.
-slug: in-review-bluebeards-castle-erwartung
-title: 'In review: Bluebeard&#039;s Castle/ Erwartung'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2015-05-06T17:07:00-04:00"
+lastmod = "2015-06-03T16:57:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430946263145/Erwartung-MC-0760Square.jpg.jpg"
+primary_image_credit = "Krisztina Szabó as The Woman in Erwartung, 2015. Photo by Michael Cooper."
+publishDate = "2015-05-09T09:29:00-04:00"
+related_articles = ["articles/coc1617.md","articles/dean-burry-on-the-highwayman.md","articles/killer-women-shadwell-operas-doublebill.md","articles/in-review-scenes-from-the-end.md","articles/a-lopsided-bloody-doublebill-at-hackney-empire.md","articles/folk-songs-esprit-szabo.md","articles/belle-bete-la-opera-beauty.md","articles/overdue-for-a-chicago-performance-the-haunted-manor.md","articles/an-astonishing-bryan-hymel-in-the-royal-operas-double-bill.md","articles/metrowest-double-bill-provides-thrills-delights-despite-mismatch.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/krisztina-szab.md","scene/people/johannes-debus.md","scene/people/john-relyea.md","scene/people/ekaterina-gubanova.md","scene/people/robert-lepage.md"]
+short_description = "Last night I was able to check off one of my must-sees. For a while I felt like the only opera fan in Toronto who hadn&#039;t seen Robert Lepage&#039;s double bill of Bluebeard&#039;s Castle/Erwartung, but I fixed that. The production couldn&#039;t have brought more hype along with it, and I usually try and ignore hype so that it doesn&#039;t skew my otherwise fine enjoyment of a production. The rumours turned out to be true, and I was amazed."
+slug = "in-review-bluebeards-castle-erwartung"
+title = "In review: Bluebeard&#039;s Castle/ Erwartung"
++++
 
 Last night I was able to check off one of my must-sees. For a while I felt like the only opera fan in Toronto who hadn't seen Robert Lepage's double bill of *Bluebeard's Castle/Erwartung*, but I fixed that. The production couldn't have brought more hype along with it, and I usually try and ignore hype so that it doesn't skew my otherwise fine enjoyment of a production. The rumours turned out to be true, and I was amazed.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431189694639/Blubeard-MC-0102.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431189694639/Blubeard-MC-0102.jpg.jpg)
 <figcaption>John Relyea and Ekaterina Gubanova in Bluebeard's Castle. Photo: Michael Cooper</figcaption>
 </figure>
 
@@ -49,9 +24,7 @@ I'm not even sure what to say about *Bluebeard's Castle*, other than I couldn't 
 
 Those seven doors, too. It seems so simple to indicate with lighting the magnitude of Bluebeard's locked secrets; it may have been simple, but it was an arresting picture every time: red (torture chamber), gold (jewels), gleaming white (weapons), water ripples (lake of tears), and what seemed like the entire planet (Bluebeard's empire). 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431189716405/Blubeard-MC-0573.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431189716405/Blubeard-MC-0573.jpg.jpg)
 <figcaption>John Relyea and Ekaterina Gubanova in Blubeard's Castle. Photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -61,9 +34,7 @@ Speaking of eerie (spoiler: fair warning), when those dead wives came out of the
 
 *Bluebeard* had me asking questions in the intermission. I was drawn to Judith's repeated response when Bluebeard asks her why she needs to keep opening the doors: "Because I love you," she says to him. It was a fascinating look at how a private man deals with external, almost unrelated pressure to open up his life to others. Bluebeard has an incredible journey from reluctance, to defiance, to resignation; the opening of each of the doors is punctuated with a question to Judith, "are you afraid?" I was.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431189727392/Erwartung-MC-0826.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431189727392/Erwartung-MC-0826.jpg.jpg)
 <figcaption>Krisztina Szabó as The Woman in Erwartung. Photo: Michael Cooper</figcaption>
 </figure>
 

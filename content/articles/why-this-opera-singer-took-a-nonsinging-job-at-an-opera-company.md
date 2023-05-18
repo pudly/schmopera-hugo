@@ -1,34 +1,18 @@
----
-author:
-- authors/jennifer-rivera.md
-categories: Op-ed
-date: "2016-01-04T13:25:00-05:00"
-lastmod: "2016-01-04T14:18:00-05:00"
-preamble: We're happy to share an article by [Jennifer Rivera](/scene/people/jennifer-rivera/),
-  mezzo-soprano, writer, arts advocate, and Director of Artistic Development at [The
-  Center for Contemporary Opera](http://centerforcontemporaryopera.org/) in New York.
-  She chats about taking offstage jobs, the stigma that comes with that decision,
-  and seeing the operatic forest for the trees. Check out the [original article]((http://www.huffingtonpost.com/jennifer-rivera/why-this-opera-singer-too_b_7548460.html))
-  on *Huff Post*, and read more by Rivera [right here](http://www.huffingtonpost.com/jennifer-rivera/).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451933184123/2016-01-04---NonOperaJob.jpg.jpg
-primary_image_credit: 'Photo: Shutterstock.'
-publishDate: "2016-01-04T14:18:00-05:00"
-related_articles:
-- articles/artists-administration-reputations.md
-- articles/giving-up-caring-too-little-and-other-taboos.md
-- articles/breaking-into-the-industry-a-vicious-cycle.md
-- articles/risky-opinions-there-are-2-types-of-singers.md
-- articles/moving-on-up-3-ways-my-old-career-prepared-me-for-my-new-one.md
-related_people:
-- scene/people/jennifer-rivera.md
-short_description: 'While directors and conductors often hold directorships and administrative
-  positions within opera companies, singers themselves rarely have the opportunity
-  to continue to perform while contributing to the other side of the footlights. There
-  is definitely a stigma attached -- that if you have time for any kind of other job,
-  your singing career must not be going well. '
-slug: why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company
-title: Why This Opera Singer Took a Non-Singing Job at an Opera Company
----
++++
+author = ["authors/jennifer-rivera.md"]
+categories = "Op-ed"
+date = "2016-01-04T13:25:00-05:00"
+lastmod = "2016-01-04T14:18:00-05:00"
+preamble = "We're happy to share an article by [Jennifer Rivera](/scene/people/jennifer-rivera/), mezzo-soprano, writer, arts advocate, and Director of Artistic Development at [The Center for Contemporary Opera](http://centerforcontemporaryopera.org/) in New York. She chats about taking offstage jobs, the stigma that comes with that decision, and seeing the operatic forest for the trees. Check out the [original article]((http://www.huffingtonpost.com/jennifer-rivera/why-this-opera-singer-too_b_7548460.html)) on *Huff Post*, and read more by Rivera [right here](http://www.huffingtonpost.com/jennifer-rivera/)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451933184123/2016-01-04---NonOperaJob.jpg.jpg"
+primary_image_credit = "Photo: Shutterstock."
+publishDate = "2016-01-04T14:18:00-05:00"
+related_articles = ["articles/artists-administration-reputations.md","articles/giving-up-caring-too-little-and-other-taboos.md","articles/breaking-into-the-industry-a-vicious-cycle.md","articles/risky-opinions-there-are-2-types-of-singers.md","articles/moving-on-up-3-ways-my-old-career-prepared-me-for-my-new-one.md"]
+related_people = ["scene/people/jennifer-rivera.md"]
+short_description = "While directors and conductors often hold directorships and administrative positions within opera companies, singers themselves rarely have the opportunity to continue to perform while contributing to the other side of the footlights. There is definitely a stigma attached -- that if you have time for any kind of other job, your singing career must not be going well. "
+slug = "why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company"
+title = "Why This Opera Singer Took a Non-Singing Job at an Opera Company"
++++
 
 Some people dream of becoming famous, or winning the lottery, or becoming a size 2 just in time for their high school reunion. Some people dream about becoming an opera singer and traveling all around the world, singing in historical theaters and sipping cappuccinos in piazzas and Hefeweizen in beer gardens. 
 

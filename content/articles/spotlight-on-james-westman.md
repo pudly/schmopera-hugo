@@ -1,44 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-01-12T11:37:00-05:00"
-lastmod: "2016-01-15T10:22:00-05:00"
-preamble: |-
-  Stratford-based baritone James Westman is one of Canada's leading stars, performing roles like the Conte de Luna (*Il trovatore*), Macbeth (*Macbeth*), Germont (*La traviata*), and Horace Tabor (*The Ballad of Baby Doe*) on the stages of the Canadian Opera Company, [San Francisco Opera](/scene/companies/san-francisco-opera/), [Chicago Lyric Opera](/scene/companies/chicago-lyric-opera/), [Florida Grand Opera](/scene/companies/florida-grand-opera), [Houston Grand Opera](/scene/companies/houston-grand-opera), [English National Opera](/scene/companies/english-national-opera/), [Vancouver Opera](/scene/companies/vancouver-opera/), and many more. Next month, you can hear him sing Brahms' [*Ein Deutsches Requiem*](http://nac-cna.ca/en/event/11270) with the National Arts Centre Orchestra on February 10 and 11. Plus, the [Canadian Opera Company](/scene/companies/canadian-opera-company/) just announced that James will sing the role of Sir John A. MacDonald in their 2017 production of Harry Somers' *Louis Riel*.
-
-  Busy schedule aside, James insists his work as a singer is easier than his growing up on a farm; he chats about advice for young singers, and the great roles still on his to-do list.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452706856851/2016-01-13---James-Westman---pc-Rob-Harris.jpg.jpg
-primary_image_credit: Photo by Rob Harris.
-publishDate: "2016-01-15T10:22:00-05:00"
-related_articles:
-- articles/spotlight-on-peter-bass.md
-- articles/spotlight-on-cairan-ryan.md
-- articles/spotlight-on-keith-lam.md
-- articles/spotlight-on-jacques-arsenault.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/calgary-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/vancouver-opera.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/florida-grand-opera.md
-- scene/companies/english-national-opera.md
-related_people:
-- scene/people/james-westman.md
-short_description: Stratford-based baritone James Westman is one of Canada&#039;s
-  leading stars, performing roles like the Conte de Luna (Il trovatore), Macbeth (Macbeth),
-  Germont (La traviata), and Horace Tabor (The Ballad of Baby Doe) on the stages of
-  the Canadian Opera Company, San Francisco Opera, Chicago Lyric Opera, Florida Grand
-  Opera, Houston Grand Opera, English National Opera, Vancouver Opera, and many more.
-  Busy schedule aside, James insists his work as a singer is easier than his growing
-  up on a farm; he chats about advice for young singers, and the great roles still
-  on his to-do list.
-slug: spotlight-on-james-westman
-title: 'Spotlight on: James Westman'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-01-12T11:37:00-05:00"
+lastmod = "2016-01-15T10:22:00-05:00"
+preamble = "Stratford-based baritone James Westman is one of Canada's leading stars, performing roles like the Conte de Luna (*Il trovatore*), Macbeth (*Macbeth*), Germont (*La traviata*), and Horace Tabor (*The Ballad of Baby Doe*) on the stages of the Canadian Opera Company, [San Francisco Opera](/scene/companies/san-francisco-opera/), [Chicago Lyric Opera](/scene/companies/chicago-lyric-opera/), [Florida Grand Opera](/scene/companies/florida-grand-opera), [Houston Grand Opera](/scene/companies/houston-grand-opera), [English National Opera](/scene/companies/english-national-opera/), [Vancouver Opera](/scene/companies/vancouver-opera/), and many more. Next month, you can hear him sing Brahms' [*Ein Deutsches Requiem*](http://nac-cna.ca/en/event/11270) with the National Arts Centre Orchestra on February 10 and 11. Plus, the [Canadian Opera Company](/scene/companies/canadian-opera-company/) just announced that James will sing the role of Sir John A. MacDonald in their 2017 production of Harry Somers' *Louis Riel*.\n\nBusy schedule aside, James insists his work as a singer is easier than his growing up on a farm; he chats about advice for young singers, and the great roles still on his to-do list."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452706856851/2016-01-13---James-Westman---pc-Rob-Harris.jpg.jpg"
+primary_image_credit = "Photo by Rob Harris."
+publishDate = "2016-01-15T10:22:00-05:00"
+related_articles = ["articles/spotlight-on-peter-bass.md","articles/spotlight-on-cairan-ryan.md","articles/spotlight-on-keith-lam.md","articles/spotlight-on-jacques-arsenault.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/calgary-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/vancouver-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/florida-grand-opera.md","scene/companies/english-national-opera.md"]
+related_people = ["scene/people/james-westman.md"]
+short_description = "Stratford-based baritone James Westman is one of Canada&#039;s leading stars, performing roles like the Conte de Luna (Il trovatore), Macbeth (Macbeth), Germont (La traviata), and Horace Tabor (The Ballad of Baby Doe) on the stages of the Canadian Opera Company, San Francisco Opera, Chicago Lyric Opera, Florida Grand Opera, Houston Grand Opera, English National Opera, Vancouver Opera, and many more. Busy schedule aside, James insists his work as a singer is easier than his growing up on a farm; he chats about advice for young singers, and the great roles still on his to-do list."
+slug = "spotlight-on-james-westman"
+title = "Spotlight on: James Westman"
++++
 
 ## Why do you sing professionally?
 

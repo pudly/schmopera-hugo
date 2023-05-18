@@ -1,34 +1,28 @@
----
-author:
-- authors/arturo-fernandez.md
-categories: Review
-date: "2019-01-20T19:36:58+00:00"
-disclaimer: ""
-image_gallery: []
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548012889/media/2019/01/sqHeatherBuck_1_byCliveGrainger.jpg
-primary_image_credit: 'Heather Buck in Haroun and the Sea of Stories, Boston Modern
-  Orchestra Project, 2019. Photo: Clive Grainger.'
-related_articles:
-- articles/distant-emotional-brokeback-mountain-a-paradoxical-success.md
-related_companies: []
-related_people: []
-short_description: It is always tricky to adapt a book about storytelling to any medium
-  outside of the written word, and it is even more difficult when you deal with a
-  work which wears its political overtones like a badge of pride.
-slug: haroun-and-the-sea-of-stories-a-surreal-timely-treat
-title: Haroun and the Sea of Stories a surreal, timely treat
-youtube_url: ""
----
++++
+author = ["authors/arturo-fernandez.md"]
+categories = "Review"
+date = "2019-01-20T19:36:58+00:00"
+disclaimer = ""
+image_gallery = []
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548012889/media/2019/01/sqHeatherBuck_1_byCliveGrainger.jpg"
+primary_image_credit = "Heather Buck in Haroun and the Sea of Stories, Boston Modern Orchestra Project, 2019. Photo: Clive Grainger."
+related_articles = ["articles/distant-emotional-brokeback-mountain-a-paradoxical-success.md"]
+related_companies = []
+related_people = []
+short_description = "It is always tricky to adapt a book about storytelling to any medium outside of the written word, and it is even more difficult when you deal with a work which wears its political overtones like a badge of pride."
+slug = "haroun-and-the-sea-of-stories-a-surreal-timely-treat"
+title = "Haroun and the Sea of Stories a surreal, timely treat"
+youtube_url = ""
+
++++
 Those of you who are faithful Schmopera readers will likely recall that, when I reviewed [Brokeback Mountain](/distant-emotional-brokeback-mountain-a-paradoxical-success/) at the conclusion of last year’s New York City Opera season, I pointed at the paradox of Wuorinen's highly dissonant score used to depict a romance, and the ways that paradox works in that opera's favor. At the time, I figured it was a logical choice, considering how Annie Proulx's prose worked to set up such a paradox. Having seen the Boston Modern Orchestra Project's concertized performance of his earlier opera _Haroun and the Sea of Stories_, however, I think it is rather apparent that Wuorinen has had a good amount of practice dealing in the rather strange paradox of being a serialist opera composer; and honestly, _Haroun_ almost works better just because the nature of the story lends itself better to a serialist opera.
 
 > It was thrilling, it was dramatic, and it did not fail to address the book's political undertones.
 
 _Haroun_, based on the children's book by Salman Rushdie, is a very surreal story: this tale of a boy trying to help his storytelling father Rashid regain the confidence to tell stories after his wife leaves him is essentially what you would get if Lewis Carroll's _Alice in Wonderland_ had been written as a modern-day fairy tale that is aware it's a fairy tale. However, the main thing that perhaps begs an unusual sonic language is that it is a rumination on the power of storytelling, and one that gets rather political owing to the fact that Rushdie wrote it while under the shadow of a _fatwa_ from Ayatollah Khamenei: the main villains Khattam-shud and Snooty Buttoo are motivated by a desire to end all storytelling because they cannot rule over the world of the story, which draws obvious parallels to the fact that the _fatwa_ was a direct consequence of Rushdie's previous work, _The Satanic Verses_.
 
-<figure data-type="image"> 
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1548012939/media/2019/01/Ensemble_1_byCliveGrainger.jpg)
+<figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548012939/media/2019/01/Ensemble_1_byCliveGrainger.jpg){{% /md %}}
 
 <figcaption>Haroun and the Sea of Stories, Boston Modern Orchestra Project, 2019. Photo: Clive Grainger.</figcaption>
 
@@ -50,9 +44,7 @@ And then, there are the performers. A score such as Wuorinen's is difficult to p
 
 First, the entire cast was incredibly outstanding, such that I can't really seem to find a weak spot in the cast. Everyone sang through Wuorinen's score so effortlessly that it was truly a sound to behold, and practically everyone found a way to bring oodles of character to their performances. Prime among these was Heather Buck in the title role: she came in with a sense of childlike wonder and determination that anchored the work's surreal tone, and her voice floated above everything with a crystalline quality that cannot be understated. Other standouts in the cast include Boston opera mainstay Michelle Trainor intentionally singing "badly" as the Princess Batcheat, Stephen Bryant's turn as Haroun's storyteller father, [Neal Ferreira](/scene/people/neal-ferreira/)'s sinister turn as Khattam-shud, and [Matthew DiBattista](/scene/people/matthew-dibattista/) allowing his wild tenor to play into the Donald Trump impersonation that the stage direction went with.
 
-<figure data-type="image"> 
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1548013007/media/2019/01/Ensemble_2_CliveGrainger.jpg)
+<figure data-type="image"> {{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1548013007/media/2019/01/Ensemble_2_CliveGrainger.jpg){{% /md %}}
 
 <figcaption>Haroun and the Sea of Stories, Boston Modern Orchestra Project, 2019. Photo: Clive Grainger.</figcaption>
 

@@ -1,27 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-06-01T13:26:00-06:00"
-lastmod: "2016-07-06T16:13:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464872613264/2016-06-02---Snappy-Operas-square.jpg.jpg
-primary_image_credit: Photos courtesy of Mahogany Opera Group.
-publishDate: "2016-06-02T13:54:00-06:00"
-related_articles:
-- articles/delightfully-creepy-mahogany-opera-groups-the-rattler.md
-- articles/shhdont-tell-them-its-opera.md
-- articles/the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre.md
-related_companies:
-- scene/companies/mahogany-opera-group.md
-short_description: This week at Pembroke House, Wake-Walker and composer Emily Hall
-  worked with a group of young opera enthusiasts on Snappy Opera I, called The Itch
-  Witch, an opera about head lice. The young singers were split into groups, collectively
-  representing characters like nits, strands of hair, and a comb. With the help of
-  Snappy Operas Music Director Timothy Redmond, the kids spent a full day learning
-  music by rote, and staging the short opera with Wake-Walker himself.
-slug: great-ideas-snappy-operas
-title: 'Great ideas: Snappy Operas'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-06-01T13:26:00-06:00"
+lastmod = "2016-07-06T16:13:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464872613264/2016-06-02---Snappy-Operas-square.jpg.jpg"
+primary_image_credit = "Photos courtesy of Mahogany Opera Group."
+publishDate = "2016-06-02T13:54:00-06:00"
+related_articles = ["articles/delightfully-creepy-mahogany-opera-groups-the-rattler.md","articles/shhdont-tell-them-its-opera.md","articles/the-kids-are-alright-youthprogrammed-music-at-the-southbank-centre.md"]
+related_companies = ["scene/companies/mahogany-opera-group.md"]
+short_description = "This week at Pembroke House, Wake-Walker and composer Emily Hall worked with a group of young opera enthusiasts on Snappy Opera I, called The Itch Witch, an opera about head lice. The young singers were split into groups, collectively representing characters like nits, strands of hair, and a comb. With the help of Snappy Operas Music Director Timothy Redmond, the kids spent a full day learning music by rote, and staging the short opera with Wake-Walker himself."
+slug = "great-ideas-snappy-operas"
+title = "Great ideas: Snappy Operas"
++++
 
 [Mahogany Opera Group](/scene/companies/mahogany-opera-group/) has launched its ambitious *Snappy Operas* project, which gives young people the chance to work with composers and librettists to develop a series of ten new ten-minute operas. Headed by Artistic Director [Frederic Wake-Walker](http://www.mahoganyoperagroup.co.uk/productions/snappy-operas/company/frederic-wake-walker/), *Snappy Operas* has a multi-year timeline, and Mahogany will team up with ten partnering organizations, including theatres and music education hubs, to work with over 1500 kids across the United Kingdom. Wake-Walker is working with writer Toby Litt, and composers like Errollyn Wallen, Luke Styles, Gwyneth Herbert, and Luke Carver Goss.
 
@@ -35,9 +25,7 @@ There was a noticeable amount of diligence and attention to detail in rehearsing
 
 "You do the music, you block it, you refine it, you revise it, you come back to it, and you run it," explains Redmond, noting that the rehearsal process for *Snappy Operas* is very close to that of grown-ups working in professional opera companies. "That model of approach is fail-safe. One doesn't need to work any differently with kids. They're often more receptive and they're quicker and they learn it very, very fast."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464872640105/2016-06-02---Snappy-Operas-2.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464872640105/2016-06-02---Snappy-Operas-2.jpg.jpg)
 </figure>
 
 *Snappy Operas* are designed to be flexible in their composition, allowing for various levels of musical skill and different combinations of instruments available. Redmond adds that it's not necessary, nor reasonable to assume that all UK schools and arts hubs will have grand pianos or the resources to delegate leadership among a full creative staff.

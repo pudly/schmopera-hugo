@@ -1,18 +1,16 @@
----
-author:
-- authors/meghan-klinkenborg.md
-categories: Review
-date: "2018-04-23T20:08:00-04:00"
-lastmod: "2018-04-23T20:08:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546219443/media/2018/12/TGradyPhotoOperaOmahaMedea.jpg
-primary_image_credit: 'Medea, Opera Omaha, 2018. Photo: Thomas Grady.'
-publishDate: "2018-04-23T20:08:00-04:00"
-short_description: Cherubini&#039;s music suggests that Medea is going out in a blaze
-  of remorseless glory, but nothing manifested in the staging to support this. I wanted
-  to either hate Medea or cheer her on, but I was left feeling indifferent and unsatisfied.
-slug: distractions-indifference-opera-omahas-medea
-title: 'Distractions &amp; indifference: Opera Omaha&#039;s Medea'
----
++++
+author = ["authors/meghan-klinkenborg.md"]
+categories = "Review"
+date = "2018-04-23T20:08:00-04:00"
+lastmod = "2018-04-23T20:08:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546219443/media/2018/12/TGradyPhotoOperaOmahaMedea.jpg"
+primary_image_credit = "Medea, Opera Omaha, 2018. Photo: Thomas Grady."
+publishDate = "2018-04-23T20:08:00-04:00"
+short_description = "Cherubini&#039;s music suggests that Medea is going out in a blaze of remorseless glory, but nothing manifested in the staging to support this. I wanted to either hate Medea or cheer her on, but I was left feeling indifferent and unsatisfied."
+slug = "distractions-indifference-opera-omahas-medea"
+title = "Distractions &amp; indifference: Opera Omaha&#039;s Medea"
+
++++
 Luigi Cherubini's [*Medea*](https://www.operaomaha.org/season-tickets/current-season/2017-2018/medea) tells the story of the ultimate scorned woman. This opera is not produced very frequently which is a shame. The music is compelling, and the emotional drama is just as relevant today as it was when Euripides penned the original play in 431 BC. This [new co-production](https://www.operaomaha.org/season-tickets/current-season/2017-2018/medea) by Opera Omaha and Wexford Opera was designed by actress Fiona Shaw (Aunt Petunia from the *Harry Potter* films!) and conducted by Jane Glover. Women were at the forefront on and off the stage.
 
 According to the program, this production is a modern setting: "Location: Here, Time: Today." The costume design seemed to contradict this somewhat. Medea and Jason looked rather modern, but other characters appeared to have stepped out of an 80s film. The set was relatively simplistic, accented by light wallpapered partitions and a large rocky centerpiece which seemed to be separate from the main drama. 

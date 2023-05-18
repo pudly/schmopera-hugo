@@ -1,26 +1,18 @@
----
-date: "2015-04-06T14:09:00-04:00"
-discipline: Bass-baritone
-lastmod: "2015-04-06T14:25:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428343413651/Held_Alan_BW.jpg.jpg
-publishDate: "2015-04-06T14:09:00-04:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/royal-opera-house.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/opra-national-de-paris.md
-slug: alan-held
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/operalan
-title: Alan Held
-website: http://www.alanheld.com/
----
++++
+date = "2015-04-06T14:09:00-04:00"
+discipline = "Bass-baritone"
+lastmod = "2015-04-06T14:25:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428343413651/Held_Alan_BW.jpg.jpg"
+publishDate = "2015-04-06T14:09:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/royal-opera-house.md","scene/companies/san-francisco-opera.md","scene/companies/opra-national-de-paris.md"]
+slug = "alan-held"
+title = "Alan Held"
+website = "http://www.alanheld.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/operalan"
++++
 
 <p>
 	Recognized internationally as one of the leading singing actors today, American bass-baritone, Alan Held, has appeared in major roles in the world's finest opera houses, including The Metropolitan Opera, The Vienna State Opera, The Royal Opera House Covent Garden, The Paris Opera, The Bavarian State Opera, Teatro alla Scala, Teatre del Liceu, Hamburg State Opera, Lyric Opera of Chicago, San Francisco Opera, Washington National Opera, Netherlands Opera, Theatre Royal de la Monnaie, The Canadian Opera Company, and Teatro de la Maestranza. His many roles include Wotan in Wagner's <em>Der Ring Des Nibelungen</em>, Amfortas in <em>Parsifal</em>, Scarpia in <em>Tosca</em>, The Four Villains in <em>Les Contes d'Hoffmann</em>, Jochanaan in <em>Salome</em>, Kurwenal in <em>Tristan und Isolde</em>, Don Pizzaro in <em>Fidelio</em>, Orestes in <em>Elektra</em>, Balstrode in <em>Peter Grimes</em>, and the title roles in <em>Gianni Schicchi</em>, <em>Der Fliegende Holländer</em>, <em>Wozzeck</em>, and <em>Cardillac</em>.

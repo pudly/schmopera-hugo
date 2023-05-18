@@ -1,18 +1,17 @@
----
-date: "2016-01-26T22:51:00-05:00"
-discipline: Tenor
-draft: true
-lastmod: "2016-01-26T23:00:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453866717405/2016-01-26---Dillon-Parmer.jpg.jpg
-slug: dillon-palmer
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: ""
-title: Dillon Palmer
-website: http://www.dillonparmer.com/bio/biography.html
----
++++
+date = "2016-01-26T22:51:00-05:00"
+discipline = "Tenor"
+draft = true
+lastmod = "2016-01-26T23:00:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453866717405/2016-01-26---Dillon-Parmer.jpg.jpg"
+slug = "dillon-palmer"
+title = "Dillon Palmer"
+website = "http://www.dillonparmer.com/bio/biography.html"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = ""
++++
 
 Born in Pune (India), Tenor Dillon Parmer immigrated to Toronto Canada where he was brought up in the rich musical traditions of the Anglican Church. Under the guidance of Charlie Peaker and John Tuttle at Saint Paul’s (Toronto), he received a thorough grounding in diction and musicianship and was introduced to a vast repertoire extending from Palestrina to Britten. This foundation undoubtedly accounts for his exceptional versatility in various musical styles and his careful command of language and declamation. He received his formal education at the University of Western Ontario (London, Ontario) and the Eastman School of Music (Rochester, New York). There he grew into a sensitive interpreter of early music and a keen interpreter of the avant garde willing to support contemporary composers in their efforts to bring new music to fruition.
 

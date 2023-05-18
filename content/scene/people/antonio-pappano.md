@@ -1,26 +1,18 @@
----
-date: "2015-04-06T21:55:00-04:00"
-discipline: Conductor
-lastmod: "2015-04-06T21:55:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428371600665/PappanoIMG.jpg.jpg
-primary_image_credit: Musacchio & Ianniello
-publishDate: "2015-04-06T21:55:00-04:00"
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/english-national-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/bayerische-staatsoper.md
-slug: antonio-pappano
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/pages/Antonio-Pappano/107766689244693
-title: Antonio Pappano
----
++++
+date = "2015-04-06T21:55:00-04:00"
+discipline = "Conductor"
+lastmod = "2015-04-06T21:55:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428371600665/PappanoIMG.jpg.jpg"
+primary_image_credit = "Musacchio & Ianniello"
+publishDate = "2015-04-06T21:55:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/english-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md"]
+slug = "antonio-pappano"
+title = "Antonio Pappano"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/pages/Antonio-Pappano/107766689244693"
++++
 
 <p>
 	Currently Music director of the Royal Opera House, Covent Garden and the Orchestra of the Accademia Nazionale di Santa Cecilia in Rome, Antonio Pappano was born in London of Italian parents. At the age of 13 he moved with his family to the United States, where he continued his studies in piano, composition and conducting. Work as a répétiteur and assistant conductor rapidly led to his engagement in theatres throughout the world: New York City Opera, Gran Teatro del Liceu (Barcelona), Frankfurt Opera, Lyric Opera of Chicago and the Bayreuth Festival, where he was assistant to Daniel Barenboim for <em>Tristan und Isolde</em>, <em>Parsifal</em> and the <em>Der Ring des Nibelungen</em>.

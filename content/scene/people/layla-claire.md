@@ -1,28 +1,23 @@
----
-date: "2015-05-26T03:06:00+01:00"
-discipline: Soprano
-lastmod: "2016-08-03T11:01:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470218415576/2016-08-03---LAYLA-CLAIRE-Lisa-Marie-Mazzucco.jpg.jpg
-primary_image_credit: Lisa-Marie Mazzucco
-publishDate: "2015-05-26T03:06:00+01:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/glyndebourne.md
-- scene/companies/washington-national-opera.md
-- scene/companies/opernhaus-zurich.md
-- scene/companies/the-metropolitan-opera.md
-slug: layla-claire
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/LaylaClaireSoprano
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/laylaclairesop
-title: Layla Claire
-website: http://laylaclaire.com/
----
++++
+date = "2015-05-26T03:06:00+01:00"
+discipline = "Soprano"
+lastmod = "2016-08-03T11:01:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470218415576/2016-08-03---LAYLA-CLAIRE-Lisa-Marie-Mazzucco.jpg.jpg"
+primary_image_credit = "Lisa-Marie Mazzucco"
+publishDate = "2015-05-26T03:06:00+01:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/glyndebourne.md","scene/companies/washington-national-opera.md","scene/companies/opernhaus-zurich.md","scene/companies/the-metropolitan-opera.md"]
+slug = "layla-claire"
+title = "Layla Claire"
+website = "http://laylaclaire.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/LaylaClaireSoprano"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/laylaclairesop"
++++
 
 Frequently praised for her colourful, flexible voice and graceful stage presence, Layla Claire has an exciting season ahead including her Salzburger Festspiele debut as Donna Elvira (*Don Giovanni*), her first foray into Handel as Tusnelda (*Arminio*) at Karlsruhe Handelfestspiele and a reprise of two of last year’s successfully debuted roles: the Governess (*Turn of the Screw*) at Opernhaus Zürich and Anne Trulove (*The Rake’s Progress*) at Pittsburgh Opera.  
 

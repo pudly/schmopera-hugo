@@ -1,29 +1,18 @@
----
-author:
-- authors/eva-cahen.md
-categories: Interview
-date: "2018-05-26T14:03:00-04:00"
-lastmod: "2018-05-26T17:56:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527361948406/237edit.jpg.jpg
-primary_image_credit: Arielle Doneson.
-publishDate: "2018-05-26T17:56:00-04:00"
-related_articles:
-- articles/verdis-tragedy-in-jest.md
-- articles/michael-fabiano-the-profound-effect-of-artsmart.md
-- articles/talking-with-singers-adela-zaharia.md
-related_companies:
-- scene/companies/los-angeles-opera.md
-- scene/companies/royal-opera-house.md
-related_people:
-- scene/people/rolando-villazon.md
-short_description: '&quot;We&#039;re in an era where things need to be tried. We can&#039;t
-  just do the same. That&#039;s the argument against the model in America sometimes,
-  where we just do traditional opera productions for the sake of doing them traditionally
-  because no one wants to see anything different. That to me is not an acceptable
-  answer.&quot;'
-slug: talking-with-singers-michael-fabiano
-title: 'Talking with singers: Michael Fabiano'
----
++++
+author = ["authors/eva-cahen.md"]
+categories = "Interview"
+date = "2018-05-26T14:03:00-04:00"
+lastmod = "2018-05-26T17:56:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527361948406/237edit.jpg.jpg"
+primary_image_credit = "Arielle Doneson."
+publishDate = "2018-05-26T17:56:00-04:00"
+related_articles = ["articles/verdis-tragedy-in-jest.md","articles/michael-fabiano-the-profound-effect-of-artsmart.md","articles/talking-with-singers-adela-zaharia.md"]
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/royal-opera-house.md"]
+related_people = ["scene/people/rolando-villazon.md"]
+short_description = "&quot;We&#039;re in an era where things need to be tried. We can&#039;t just do the same. That&#039;s the argument against the model in America sometimes, where we just do traditional opera productions for the sake of doing them traditionally because no one wants to see anything different. That to me is not an acceptable answer.&quot;"
+slug = "talking-with-singers-michael-fabiano"
+title = "Talking with singers: Michael Fabiano"
++++
 
 *[Michael Fabiano](/scene/people/michael-fabiano/) will be singing the Duke of Mantua in [Rigoletto at the LA Opera](/verdis-tragedy-in-jest/) in three performances from May 27 to June 3 in a production conducted by Matthew Aucoin.*
 
@@ -55,9 +44,7 @@ We're in a world right now [in opera] where we should be additive and not multip
 
 The kids from New Jersey went to see the Discovery Orchestra and heard some classical music and operatic literature, and then all the kids wanted to sing "O mio babbino caro" and similar arias. If you lead people to opera and show them what a wonderful thing it is, most people are going to see it's incredible. They never realized 80 instrument could sound that good together and a voice could sing over it. Instead they were used to hearing a piano and a woman with an airy voice at a microphone. When you shift their paradigm, the openness happens.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527362010899/222edit.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1527362010899/222edit.jpg.jpg)
 <figcaption>Michael Fabiano, tenor. Photo by Arielle Doneson.</figcaption>
 </figure>
 

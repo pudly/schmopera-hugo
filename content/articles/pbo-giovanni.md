@@ -1,31 +1,22 @@
----
-author:
-- authors/carly-gordon.md
-categories: Review
-date: "2019-02-26T23:31:29+00:00"
-disclaimer: 'Content warning: Rape, sexual assault.'
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551279783/media/2019/02/SQPBODG2.jpg
-primary_image_credit: Andrei Bondarenko and Danielle MacMillan in Don Giovanni, Palm
-  Beach Opera, 2019. Photo courtesy of Palm Beach Opera.
-related_articles: []
-related_companies:
-- scene/companies/palm-beach-opera.md
-related_people:
-- scene/people/caitlin-lynch.md
-- scene/people/joshua-bloom.md
-- scene/people/danielle-macmillan.md
-- scene/people/danielle-pastin.md
-short_description: In her program note, McIntyre wrote that Don Giovanni is an opera
-  "replete with grey areas, starting with Giovanni's own moral ambiguity." But in
-  reality, the libretto couldn't be clearer, from the violent rape in the very opening
-  scene to his refusal to repent in the grim finale.
-slug: pbo-does-overdue-justice-to-don-giovanni
-title: PBO does overdue justice to Don Giovanni
-youtube_url: ""
----
++++
+author = ["authors/carly-gordon.md"]
+categories = "Review"
+date = "2019-02-26T23:31:29+00:00"
+disclaimer = "Content warning: Rape, sexual assault."
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551279783/media/2019/02/SQPBODG2.jpg"
+primary_image_credit = "Andrei Bondarenko and Danielle MacMillan in Don Giovanni, Palm Beach Opera, 2019. Photo courtesy of Palm Beach Opera."
+related_articles = []
+related_companies = ["scene/companies/palm-beach-opera.md"]
+related_people = ["scene/people/caitlin-lynch.md", "scene/people/joshua-bloom.md", "scene/people/danielle-macmillan.md", "scene/people/danielle-pastin.md"]
+short_description = "In her program note, McIntyre wrote that Don Giovanni is an opera \"replete with grey areas, starting with Giovanni's own moral ambiguity.\" But in reality, the libretto couldn't be clearer, from the violent rape in the very opening scene to his refusal to repent in the grim finale."
+slug = "pbo-does-overdue-justice-to-don-giovanni"
+title = "PBO does overdue justice to Don Giovanni"
+youtube_url = ""
+
++++
 "What a clear and lovely night, perfect for hunting women."
 
 On paper and in the light of day, the words seem almost laughable, a cartoonishly evil quip dreamed up by a predatory caricature. But on February 24, amid the shadowy silhouettes of [Palm Beach Opera](/scene/companies/palm-beach-opera/)'s film noir–inspired Don Giovanni, the line felt all too real.
@@ -34,9 +25,7 @@ On paper and in the light of day, the words seem almost laughable, a cartoonishl
 
 PBO appeared sensitive to the opera's problematic elements in their presentation of _Don Giovanni_. The company's General Director, Daniel Biaggi, penned a thoughtful program note observing that "if we claim that \[these\] masterpieces are timeless \[...\] we must be willing to analyze the storyline, libretto, and character relationships from a modern perspective." Marketing materials leading up to the three-show run emphasized the opera's darkest qualities, and smartly stayed away from lavishing euphemisms like "seducer" or "womanizer" on the titular Don.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1551279308/media/2019/02/PBODG4.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551279308/media/2019/02/PBODG4.jpg){{% /md %}}
 
 <figcaption>A scene from Don Giovanni, Palm Beach Opera, 2019. Photo courtesy of Palm Beach Opera.</figcaption>
 
@@ -48,9 +37,7 @@ Soprano [Danielle Pastin](/scene/people/danielle-pastin/) stood out as a glamour
 
 > While Donna Anna recounted her trauma to Don Ottavio, Giovanni's silhouette towered on the wall beside her, omnipresent.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1551279387/media/2019/02/PBODG5.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551279387/media/2019/02/PBODG5.jpg){{% /md %}}
 
 <figcaption>Andrei Bondarenko and Danielle Pastin in Don Giovanni, Palm Beach Opera, 2019. Photo courtesy of Palm Beach Opera.</figcaption>
 
@@ -60,9 +47,7 @@ Mezzo-soprano [Danielle MacMillan](/spotlight-on-danielle-macmillan/)'s Zerlina 
 
 As Donna Anna, soprano [Caitlin Lynch](/scene/people/caitlin-lynch/) sang with an effortless dolce tone and a compelling strength of character. Her emotive "Non mi dir" transformed the aria into a statement of independence, as stage direction by Kristine McIntyre had Don Ottavio – a strongly sung turn by tenor [Bogdan Volkov](/scene/people/bogdan-volkov/) – storm offstage rather than reconcile following his rejected marriage proposal.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1551279444/media/2019/02/PBODG6.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551279444/media/2019/02/PBODG6.jpg){{% /md %}}
 
 <figcaption>Joshua Bloom; Andrei Bondarenko, and Mikhail Kolelishvili in Don Giovanni, Palm Beach Opera, 2019. Photo courtesy of Palm Beach Opera.</figcaption>
 
@@ -72,9 +57,7 @@ As Donna Anna, soprano [Caitlin Lynch](/scene/people/caitlin-lynch/) sang with a
 
 McIntyre's film noir vision worked well, with dark, angular scenic design by R. Keith Brumley serving as a gritty canvas for costume designer Mary Traylor and hair and make-up designer Kathy Waszkelewicz to tackle the period wear with compelling attention to detail. Lighting design by Marcus Dilliard played a big role, shadows lurking and looming with cinematic appeal. While Donna Anna recounted her trauma to Don Ottavio, Giovanni's silhouette towered on the wall beside her, omnipresent; and when the Commendatore appeared in the climactic final scene, a bright blue neon sign flickered eerily, illuminating the drunken Don as he devoured what would be his final meal.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1551279619/media/2019/02/PBODG3.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551279619/media/2019/02/PBODG3.jpg){{% /md %}}
 
 <figcaption>Andrei Bondarenko and Mikhail Kolelishvili in Don Giovanni, Palm Beach Opera, 2019. Photo courtesy of Palm Beach Opera.</figcaption>
 
@@ -84,9 +67,7 @@ Stage direction by McIntyre found some successes, such as the Commendatore's gho
 
 Under conductor David Stern, the PBO Orchestra took on Mozart's stirring score with rousing tutti's and touching wind solos. The finale was a highlight, the orchestra embracing a darkness appropriate for the eerie conclusion.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1551279667/media/2019/02/PBODG1.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551279667/media/2019/02/PBODG1.jpg){{% /md %}}
 
 <figcaption>Bodgan Volkov in Don Giovanni, Palm Beach Opera, 2019. Photo courtesy of Palm Beach Opera.</figcaption>
 
@@ -98,9 +79,7 @@ In the end, Don Giovanni is punished – but it takes supernatural intervention,
 
 In this cultural moment of overdue justice, Palm Beach Opera presented a beautifully performed _Don Giovanni_ with more attention paid to contemporary discourse than most companies can claim. But elevating and enshrining as a "masterpiece" a work of theatre that depicts rape as a laughing matter, season after season, breeds normalization – and normalization breeds real-world consequences.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1551279740/media/2019/02/PBODG7.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551279740/media/2019/02/PBODG7.jpg){{% /md %}}
 
 <figcaption>Neil Nelson, Danielle MacMillan, Joshua Bloom, and Caitlin Lynch in Don Giovanni, Palm Beach Opera, 2019. Photo courtesy of Palm Beach Opera.</figcaption>
 

@@ -1,34 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2016-05-26T21:43:00+01:00"
-lastmod: "2016-05-27T13:11:00+01:00"
-preamble: |-
-  The [Toronto Festival of Children's Opera](http://www.canadianchildrensopera.com/content/TFCO.html) continues on **May 31** with [Composers (of the) Roundtable](http://www.canadianchildrensopera.com/content/composers-roundtable.html), a discussion led by Canadian Music Centre Associate Composer [James Rolfe](/scene/people/james-rolfe/). He'll be joined by [Dean Burry](/scene/people/dean-burry/), Artistic Director of the [Canadian Children's Opera Company](/scene/people/canadian-childrens-opera-company/), as well as several young CCOC performers, for a discussion offering insights, trading ideas and skills, and opportunities for networking.
-
-  The Roundtable happens at the Canadian Music Centre, 20 St. Joseph St., from 7-8pm on May 31. Registration for the event is free, and you can [sign up right here](https://musiccentre.secure.force.com/ticket/#sections_a0F1a000004CS3qEAG).
-
-  We spoke with Rolfe and Matthew Fava, Ontario Regional Director of the Canadian Music Centre, about what they think is valuable and vital to the understanding of writing opera for young audiences.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464295239271/2016-05-27---James-Rolfe.jpg.jpg
-publishDate: "2016-05-27T13:01:00+01:00"
-related_articles:
-- articles/the-tfco-kicks-off-with-tolkien.md
-- articles/the-tfco-a-young-peoples-opera-blitz.md
-- articles/tfco-opera-trek-the-next-generation.md
-related_companies:
-- scene/companies/canadian-childrens-opera-company.md
-related_people:
-- scene/people/james-rolfe.md
-- scene/people/dean-burry.md
-short_description: '&quot;Children express themselves through singing, play-acting,
-  dancing, making up stories, dressing up, and generally being over-the-top - which
-  is pretty much what opera is all about. So a medium which might seem elitist and
-  esoteric to adults comes naturally to children. Kids especially love storytelling,
-  and opera is a great way to tell stories. &quot;'
-slug: dont-miss-composers-of-the-roundtable
-title: 'Don&#039;t miss: Composers (of the) Roundtable'
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2016-05-26T21:43:00+01:00"
+lastmod = "2016-05-27T13:11:00+01:00"
+preamble = "The [Toronto Festival of Children's Opera](http://www.canadianchildrensopera.com/content/TFCO.html) continues on **May 31** with [Composers (of the) Roundtable](http://www.canadianchildrensopera.com/content/composers-roundtable.html), a discussion led by Canadian Music Centre Associate Composer [James Rolfe](/scene/people/james-rolfe/). He'll be joined by [Dean Burry](/scene/people/dean-burry/), Artistic Director of the [Canadian Children's Opera Company](/scene/people/canadian-childrens-opera-company/), as well as several young CCOC performers, for a discussion offering insights, trading ideas and skills, and opportunities for networking.\n\nThe Roundtable happens at the Canadian Music Centre, 20 St. Joseph St., from 7-8pm on May 31. Registration for the event is free, and you can [sign up right here](https://musiccentre.secure.force.com/ticket/#sections_a0F1a000004CS3qEAG).\n\nWe spoke with Rolfe and Matthew Fava, Ontario Regional Director of the Canadian Music Centre, about what they think is valuable and vital to the understanding of writing opera for young audiences."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464295239271/2016-05-27---James-Rolfe.jpg.jpg"
+publishDate = "2016-05-27T13:01:00+01:00"
+related_articles = ["articles/the-tfco-kicks-off-with-tolkien.md","articles/the-tfco-a-young-peoples-opera-blitz.md","articles/tfco-opera-trek-the-next-generation.md"]
+related_companies = ["scene/companies/canadian-childrens-opera-company.md"]
+related_people = ["scene/people/james-rolfe.md","scene/people/dean-burry.md"]
+short_description = "&quot;Children express themselves through singing, play-acting, dancing, making up stories, dressing up, and generally being over-the-top - which is pretty much what opera is all about. So a medium which might seem elitist and esoteric to adults comes naturally to children. Kids especially love storytelling, and opera is a great way to tell stories. &quot;"
+slug = "dont-miss-composers-of-the-roundtable"
+title = "Don&#039;t miss: Composers (of the) Roundtable"
++++
 
 ## What is important about writing opera for children?
 

@@ -1,24 +1,18 @@
----
-date: "2015-04-07T22:29:00-04:00"
-discipline: Soprano
-lastmod: "2015-04-07T22:29:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428460071440/HENSON-PHOTO.jpg.jpg
-publishDate: "2015-04-07T22:29:00-04:00"
-related_companies:
-- scene/companies/pacific-opera-victoria.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/voicebox-opera-in-concert.md
-- scene/companies/calgary-opera.md
-slug: joni-henson
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/saultsop
-title: Joni Henson
-website: http://www.jonihensonsoprano.com/
----
++++
+date = "2015-04-07T22:29:00-04:00"
+discipline = "Soprano"
+lastmod = "2015-04-07T22:29:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428460071440/HENSON-PHOTO.jpg.jpg"
+publishDate = "2015-04-07T22:29:00-04:00"
+related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/calgary-opera.md"]
+slug = "joni-henson"
+title = "Joni Henson"
+website = "http://www.jonihensonsoprano.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/saultsop"
++++
 
 <p>
 	Soprano Joni Henson is one of Canada's most thrilling young performers and her most recent season featured some of the most demanding roles in the soprano repertoire. She began with Alice in Verdi's FALSTAFF for Pacific Opera Victoria. This was followed in the winter by Senta in DER FLIEGENDE HOLLÄNDER for Calgary Opera and she rounded out 2013-2014 with Elisabetta in DON CARLOS for Vancouver Opera, a role she first sang for the Canadian Opera Company. Her 2014-2015 includes Fricka in DAS RHEINGOLD for Pacific Opera Victoria, Beethoven's Symphony No. 9 for the Winnipeg Symphony, Britten's WAR REQUIEM for the Victoria Symphony and she returns to the Canadian Opera Company as cover artist for Ortlinde and Gerhilde in Wagner's DIE WALKÜRE.

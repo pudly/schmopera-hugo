@@ -1,24 +1,23 @@
----
-date: "2017-10-11T22:46:00-04:00"
-discipline: Conductor
-lastmod: "2017-10-11T22:46:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507776316296/795_Oliver%20Zeffman_%20%C2%A9Andy%20Staples_1.jpg.jpg
-primary_image_credit: Andy Staples
-publishDate: "2017-10-11T22:46:00-04:00"
-related_companies:
-- scene/companies/melos-sinfonia.md
-slug: oliver-zeffman
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/MelosSinfonia/
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/MelosSinfonia
-title: Oliver Zeffman
-website: https://www.melossinfonia.co.uk/
----
++++
+date = "2017-10-11T22:46:00-04:00"
+discipline = "Conductor"
+lastmod = "2017-10-11T22:46:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507776316296/795_Oliver%20Zeffman_%20%C2%A9Andy%20Staples_1.jpg.jpg"
+primary_image_credit = "Andy Staples"
+publishDate = "2017-10-11T22:46:00-04:00"
+related_companies = ["scene/companies/melos-sinfonia.md"]
+slug = "oliver-zeffman"
+title = "Oliver Zeffman"
+website = "https://www.melossinfonia.co.uk/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/MelosSinfonia/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/MelosSinfonia"
++++
 
 Described by The Telegraph as “phenomenally promising”, the young British conductor Oliver Zeffman has recently graduated from the Royal Academy of Music and was the youngest of eight nominees for the Néstle-Salzburg Young Conductor’s Award in 2015.
 

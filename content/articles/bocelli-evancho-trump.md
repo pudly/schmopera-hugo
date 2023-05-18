@@ -1,23 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-12-14T18:31:00+00:00"
-lastmod: "2017-01-17T11:59:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481742968115/2016-13-15---Trump-Evancho.jpg.jpg
-publishDate: "2016-12-16T09:35:00+00:00"
-related_articles:
-- articles/baby-opera-singers-getting-angry-for-the-right-reasons.md
-- articles/pavarottis-nessun-dorma-the-trump-campaign.md
-- articles/charlotte-church-the-latest-voice-in-musics-trump-boycott.md
-short_description: Personally, I suppose I feel a bit icky that it was within the
-  opera world (which does include popera) where the Trump people found artists willing
-  to perform for his big day.  Like it somehow shames by association a whole community
-  of opera singers who are largely liberal-leaning.
-slug: bocelli-evancho-trump
-title: Bocelli &amp; Evancho to sing at Trump inauguration, opera folk feel weird
-  about it
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-12-14T18:31:00+00:00"
+lastmod = "2017-01-17T11:59:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481742968115/2016-13-15---Trump-Evancho.jpg.jpg"
+publishDate = "2016-12-16T09:35:00+00:00"
+related_articles = ["articles/baby-opera-singers-getting-angry-for-the-right-reasons.md","articles/pavarottis-nessun-dorma-the-trump-campaign.md","articles/charlotte-church-the-latest-voice-in-musics-trump-boycott.md"]
+short_description = "Personally, I suppose I feel a bit icky that it was within the opera world (which does include popera) where the Trump people found artists willing to perform for his big day.  Like it somehow shames by association a whole community of opera singers who are largely liberal-leaning."
+slug = "bocelli-evancho-trump"
+title = "Bocelli &amp; Evancho to sing at Trump inauguration, opera folk feel weird about it"
++++
 
 **\*Update: Andrea Bocelli has since [withdrawn his intent](https://www.nytimes.com/2016/12/20/arts/andrea-bocelli-wont-be-singing-at-the-trump-inauguration.html) to perform at the Trump inauguration.**
 

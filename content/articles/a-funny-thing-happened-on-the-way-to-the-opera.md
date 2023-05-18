@@ -1,23 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2016-03-01T14:40:00+00:00"
-lastmod: "2016-03-01T15:55:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456846771665/Covent-Garden-Station.jpg.jpg
-publishDate: "2016-03-01T15:45:00+00:00"
-related_people:
-- scene/people/maria-agresta.md
-short_description: When the average, non-opera-obsessed North American attends an
-  opera, they come away with the tale that they&#039;ve seen La bohème or Aïda, and
-  that&#039;s the end of it. They&#039;re not likely to tell their fellow, non-opera-obsessed
-  friends that they saw &quot;Zeffirelli&#039;s Bohème&quot; or &quot;Tim Albery&#039;s
-  Aïda&quot;. There&#039;s nothing maliciously ignorant about any of this. It&#039;s
-  just not how North Americans generally understand the process of putting an opera
-  onstage.
-slug: a-funny-thing-happened-on-the-way-to-the-opera
-title: A funny thing happened on the way to the opera
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2016-03-01T14:40:00+00:00"
+lastmod = "2016-03-01T15:55:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456846771665/Covent-Garden-Station.jpg.jpg"
+publishDate = "2016-03-01T15:45:00+00:00"
+related_people = ["scene/people/maria-agresta.md"]
+short_description = "When the average, non-opera-obsessed North American attends an opera, they come away with the tale that they&#039;ve seen La bohème or Aïda, and that&#039;s the end of it. They&#039;re not likely to tell their fellow, non-opera-obsessed friends that they saw &quot;Zeffirelli&#039;s Bohème&quot; or &quot;Tim Albery&#039;s Aïda&quot;. There&#039;s nothing maliciously ignorant about any of this. It&#039;s just not how North Americans generally understand the process of putting an opera onstage."
+slug = "a-funny-thing-happened-on-the-way-to-the-opera"
+title = "A funny thing happened on the way to the opera"
++++
 
 In conversation with a pleasant Londoner today, we experienced a bit of mild cultural shock. After it came up that we were opera lovers, said Londoner asked if we had plans to catch anything at ENO or the Royal Opera House. We assured him that we did, and he wondered aloud what was currently up at Covent Garden. I'll paraphrase what he said:
 

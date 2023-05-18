@@ -1,32 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-10-20T12:07:00-04:00"
-lastmod: "2017-10-20T21:46:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508516194944/2017-10-20---Still3.jpg.jpg
-primary_image_credit: 'Photo: Blake Hannahson.'
-publishDate: "2017-10-20T19:39:00-04:00"
-related_articles:
-- articles/mrozewski-delight-wonder.md
-- articles/dear-me-advice-to-my-freshman-self.md
-- articles/transfixing-soundstreams-presents-tan-duns-water-passion.md
-related_companies:
-- scene/companies/soundstreams.md
-related_people:
-- scene/people/owen-mccausland.md
-- scene/people/adanya-dunn.md
-- scene/people/keith-lam.md
-- scene/people/vania-chan.md
-short_description: With the daunting score has come an &quot;unbelievable&quot; level
-  of focus from the performers. &quot;That&#039;s maybe even more powerful than this
-  music, these people working either in pairs or quartets or quintets,&quot; he says
-  of the &quot;fierce&quot; level of listening between the singers. &quot;They&#039;re
-  totally wrapped up with this other person.&quot;
-slug: soundstreams-musik-ende
-title: '&quot;It&#039;s his life, it&#039;s him.&quot; Soundstreams presents Musik
-  für das Ende'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-10-20T12:07:00-04:00"
+lastmod = "2017-10-20T21:46:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508516194944/2017-10-20---Still3.jpg.jpg"
+primary_image_credit = "Photo: Blake Hannahson."
+publishDate = "2017-10-20T19:39:00-04:00"
+related_articles = ["articles/mrozewski-delight-wonder.md","articles/dear-me-advice-to-my-freshman-self.md","articles/transfixing-soundstreams-presents-tan-duns-water-passion.md"]
+related_companies = ["scene/companies/soundstreams.md"]
+related_people = ["scene/people/owen-mccausland.md","scene/people/adanya-dunn.md","scene/people/keith-lam.md","scene/people/vania-chan.md"]
+short_description = "With the daunting score has come an &quot;unbelievable&quot; level of focus from the performers. &quot;That&#039;s maybe even more powerful than this music, these people working either in pairs or quartets or quintets,&quot; he says of the &quot;fierce&quot; level of listening between the singers. &quot;They&#039;re totally wrapped up with this other person.&quot;"
+slug = "soundstreams-musik-ende"
+title = "&quot;It&#039;s his life, it&#039;s him.&quot; Soundstreams presents Musik für das Ende"
++++
 
 10 singers are currently deep into rehearsals with stage director Chris Abraham and music director John Hess for what will be the premiere staged performance of Claude Vivier's 1971 work, *Musik für das Ende* (*Music of the End*). [Presented by Soundstreams](https://www.soundstreams.ca/performances/main-stage/musik-fur-das-ende/), **October 27 to November 4**, *Musik für das Ende* is programmed along with the last piece Vivier wrote before his premature death in 1983, *Glaubst du an die Unsterblichkeit der Seele* (*Do You Believe in the Immortality of the Soul?*)
 

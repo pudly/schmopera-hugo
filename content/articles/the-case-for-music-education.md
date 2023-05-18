@@ -1,24 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2014-01-15T10:23:00-05:00"
-lastmod: "2015-04-28T22:45:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430275519704/MusicLessons.jpg.jpg
-publishDate: "2014-01-15T10:23:00-05:00"
-related_articles:
-- articles/playing-the-long-game-fostering-artistic-respect.md
-- articles/3-ways-to-fight-boredom-at-the-opera.md
-- articles/dont-miss-the-rcms-wide-open-house.md
-- articles/kyra-millan-making-opera-for-all-ages.md
-short_description: 'So, in 1993 there was a study published in Nature by Francis Rauscher
-  to try and measure the effect of classical music on spatial skills in children.
-  The study found that 10 minutes of Mozart improved the spatial reasoning skills
-  of college students and rats, and 10 minutes of piano or singing lessons did the
-  same for preschoolers. '
-slug: the-case-for-music-education
-title: The Case for Music Education
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2014-01-15T10:23:00-05:00"
+lastmod = "2015-04-28T22:45:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430275519704/MusicLessons.jpg.jpg"
+publishDate = "2014-01-15T10:23:00-05:00"
+related_articles = ["articles/playing-the-long-game-fostering-artistic-respect.md","articles/3-ways-to-fight-boredom-at-the-opera.md","articles/dont-miss-the-rcms-wide-open-house.md","articles/kyra-millan-making-opera-for-all-ages.md"]
+short_description = "So, in 1993 there was a study published in Nature by Francis Rauscher to try and measure the effect of classical music on spatial skills in children. The study found that 10 minutes of Mozart improved the spatial reasoning skills of college students and rats, and 10 minutes of piano or singing lessons did the same for preschoolers. "
+slug = "the-case-for-music-education"
+title = "The Case for Music Education"
++++
 
 So, in 1993 there was a study published in _[Nature](http://www.nature.com/nature/journal/v366/n6455/pdf/366520a0.pdf)_ by Francis Rauscher to try and measure the effect of classical music on spatial skills in children. The study found that 10 minutes of Mozart improved the spatial reasoning skills of college students and rats, and 10 minutes of piano or singing lessons did the same for preschoolers. And so the "Mozart effect" became known in education and parenting circles as ["Mozart makes my kid smart."](http://www.theguardian.com/lifeandstyle/2014/jan/12/will-mozart-make-child-smarter-classical-music-iq)
 

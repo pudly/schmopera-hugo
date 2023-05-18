@@ -1,25 +1,13 @@
----
-_template: people_single
-date: "2017-09-17T15:12:00-04:00"
-discipline: Tenor
-lastmod: "2017-09-17T15:14:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505675368103/LEE-Yonghoon-1030x687.jpg.jpg
-publishDate: "2017-09-17T15:12:00-04:00"
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/semperoper-dresden.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/the-dallas-opera.md
-- scene/companies/gran-teatre-del-liceu.md
-- scene/companies/opera-australia.md
-- scene/companies/opernhaus-zurich.md
-slug: yonghoon-lee
-title: Yonghoon Lee
----
++++
+date = "2017-09-17T15:12:00-04:00"
+discipline = "Tenor"
+lastmod = "2017-09-17T15:14:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505675368103/LEE-Yonghoon-1030x687.jpg.jpg"
+publishDate = "2017-09-17T15:12:00-04:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/semperoper-dresden.md","scene/companies/wiener-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-dallas-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/opera-australia.md","scene/companies/opernhaus-zurich.md"]
+slug = "yonghoon-lee"
+title = "Yonghoon Lee"
++++
 
 Born in South Korea, Yonghoon Lee has established himself internationally as a leading tenor of his generation. He has made debuts at many of the most prestigious theaters in the world, including the Royal Opera House – Covent Garden, Metropolitan Opera, Deutsche Oper Berlin, Vienna State Opera, Rome Opera, Dutch National Opera in Amsterdam, Bavarian State Opera in Munich, Teatro alla Scala in Milan, Semperoper Dresden, Lyric Opera of Chicago, and Opera Australia. Lee’s engagements for the 2016/17 season include Turiddu in *Cavalleria Rusticana* at the Paris Opera, the title role in *Andrea Chenier* at the San Francisco Opera, Don José in *Carmen* at the Semperoper Dresden, Cavaradossi in *Tosca* at the Staatsoper Berlin, Calaf in *Turandot* at the Deutsche Oper am Rhein in Dusseldorf, Manrico in *Il Trovatore* at the Gran Teatre del Liceu in Barcelona, Pollione in *Norma* at the Dallas Opera, and the title role in *Don Carlos* at the Bavarian State Opera in Munich and in Tokyo.
 

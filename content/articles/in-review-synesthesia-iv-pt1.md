@@ -1,31 +1,17 @@
----
-author:
-- authors/greg.md
-categories: Review
-date: "2016-05-12T17:27:00+01:00"
-lastmod: "2016-05-13T15:11:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463140856446/2016-05-13---FAWN.jpg.jpg
-publishDate: "2016-05-13T13:01:00+01:00"
-related_articles:
-- articles/in-review-fawn-operas-lhomme-et-le-ciel.md
-- articles/get-curious-at-fawn-201617.md
-related_companies:
-- scene/companies/fawn-chamber-creative.md
-- scene/companies/indie-opera-to.md
-related_people:
-- scene/people/jonathan-macarthur.md
-- scene/people/jennifer-nichols.md
-- scene/people/amanda-smith.md
-- scene/people/adam-scime.md
-short_description: The singing was clean and beautiful, even if in my opinion there
-  was far too little of it. MacArthur&#039;s light lyric tone and fantastic English
-  diction marry so well with contemporary pieces, I was felt wanting a lot more from
-  him - not because his performance lacked anything, but the complete opposite; he
-  was so good I wanted more, but there were only 2 pieces of the six that featured
-  a singing vocal line.
-slug: in-review-synesthesia-iv-pt1
-title: 'In review: Synesthesia IV pt.1'
----
++++
+author = ["authors/greg.md"]
+categories = "Review"
+date = "2016-05-12T17:27:00+01:00"
+lastmod = "2016-05-13T15:11:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463140856446/2016-05-13---FAWN.jpg.jpg"
+publishDate = "2016-05-13T13:01:00+01:00"
+related_articles = ["articles/in-review-fawn-operas-lhomme-et-le-ciel.md","articles/get-curious-at-fawn-201617.md"]
+related_companies = ["scene/companies/fawn-chamber-creative.md","scene/companies/indie-opera-to.md"]
+related_people = ["scene/people/jonathan-macarthur.md","scene/people/jennifer-nichols.md","scene/people/amanda-smith.md","scene/people/adam-scime.md"]
+short_description = "The singing was clean and beautiful, even if in my opinion there was far too little of it. MacArthur&#039;s light lyric tone and fantastic English diction marry so well with contemporary pieces, I was felt wanting a lot more from him - not because his performance lacked anything, but the complete opposite; he was so good I wanted more, but there were only 2 pieces of the six that featured a singing vocal line."
+slug = "in-review-synesthesia-iv-pt1"
+title = "In review: Synesthesia IV pt.1"
++++
 
 Saturday, May 7th, tucked away in the middle of a bunch of abandoned industrial spaces just off Bloor Street in the West End of Toronto, I found myself amongst an incredibly diverse audience for [FAWN Chamber Creative](/scene/companies/fawn-chamber-creative/) (formerly FAWN Opera): hipsters and opera groupies mingling with some of the artsiest people on the Toronto Scene. 
 
@@ -41,9 +27,7 @@ The evening was a presentation of six pieces by various up-and-coming composers 
 
 The six composers involved were David Storen (Vancouver, BC), Joseph Glaser (Montreal, QC), Kit Soden (Montreal, QC), Lucas Oickle (Vancouver, BC), Roydon Tse (Toronto, ON), and Thomas Ciszak (Montreal, QC). Unfortunately, the order of pieces wasn't listed in the program which made it difficult at the end of the night as the artists on the ballot were not listed in performing order, it sent the audience on kind of a hunt-and-peck investigation to find out whose pieces were which. The program was posted on the walls about the space, but it was difficult for the audience, without any introductions, to follow the order of the pieces and their composers, which is a bit of a shame. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463148659865/20160507-1-3.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463148659865/20160507-1-3.jpg.jpg)
 <figcaption>Photo via Fawn Chamber Creative.</figcaption>
 </figure>
 
@@ -51,9 +35,7 @@ The musicians for the night were top notch: Nathan Petitpas (percussion), Amahl 
 
 The singing was clean and beautiful, even if in my opinion there was far too little of it. MacArthur's light lyric tone and fantastic English diction marry so well with contemporary pieces, I was felt wanting a lot more from him - not because his performance lacked anything, but the complete opposite; he was so good I wanted more, but there were only 2 pieces of the six that featured a singing vocal line (one featured vocals as more of a sound effect added to the overall soundscape of a piece - effective, but not "singing"). 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463148668785/20160507-1-11.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463148668785/20160507-1-11.jpg.jpg)
 <figcaption>Photo via Fawn Chamber Creative.</figcaption>
 </figure>
 

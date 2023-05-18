@@ -1,25 +1,21 @@
----
-date: "2017-07-02T21:20:00-06:00"
-lastmod: "2017-07-02T21:20:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499051912901/2017-07-02---Patricia-Auchterlonie.jpg.jpg
-publishDate: "2017-07-02T21:20:00-06:00"
-short_bio: Patricia Auchterlonie is a Canadian soprano currently living and working
-  in London, England. She is passionate about the performance of new and unheard music,
-  particularly from the 20th and 21st centuries.  She is currently finishing her postgrad
-  studies at the Guildhall School of Music and Drama and will become the Junior Fellow
-  at Trinity Laban Conservatoire in 2017/18. She&#039;s also an avid reader, amateur
-  seamstress and lover of a good doggo meme.
-slug: patricia-auchterlonie
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/patricia.auchterlonie
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/P_Auchterlonie
-title: Patricia Auchterlonie
-website: http://www.patriciaauchterlonie.com/
----
++++
+date = "2017-07-02T21:20:00-06:00"
+lastmod = "2017-07-02T21:20:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499051912901/2017-07-02---Patricia-Auchterlonie.jpg.jpg"
+publishDate = "2017-07-02T21:20:00-06:00"
+short_bio = "Patricia Auchterlonie is a Canadian soprano currently living and working in London, England. She is passionate about the performance of new and unheard music, particularly from the 20th and 21st centuries.  She is currently finishing her postgrad studies at the Guildhall School of Music and Drama and will become the Junior Fellow at Trinity Laban Conservatoire in 2017/18. She&#039;s also an avid reader, amateur seamstress and lover of a good doggo meme."
+slug = "patricia-auchterlonie"
+title = "Patricia Auchterlonie"
+website = "http://www.patriciaauchterlonie.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/patricia.auchterlonie"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/P_Auchterlonie"
++++
 
 Patricia Auchterlonie is a Canadian soprano currently completing her master's degree at the Guildhall School of Music and Drama where she studies with Sarah Pring.  Patricia will be the Richard Carne Junior Fellow at Trinity Laban Conservatoire in 2017/18, focusing her work on music from the 20th and 21st centuries and collaborating with performers from a wide variety of disciplines.
 

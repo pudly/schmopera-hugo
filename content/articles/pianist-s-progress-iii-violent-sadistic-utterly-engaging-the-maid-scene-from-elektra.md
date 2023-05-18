@@ -1,33 +1,22 @@
----
-author:
-- authors/david-todd.md
-categories: How-To
-date: "2023-03-29T12:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: This article is one of a series called ["The Elton John Act"](/pianists-progress-i-the-elton-john-act/),
-  which aim to demystify the process of becoming an operatic répétiteur and assist
-  anyone wishing to audition as one in the German-speaking operatic system. Here we
-  begin with the first of the usual audition excerpts, the Maid Scene from Richard
-  Strauss' opera _Elektra_.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1679530380/media/2023/03/Pianistseries_pianogirl_by4gpq.jpg
-primary_image_credit: You’ll need to channel everything you’ve got into the piano
-  in this chilling yet colourful scene!
-related_articles:
-- articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md
-- articles/pianist-s-progress-i-the-elton-john-act.md
-related_companies: []
-related_people: []
-short_description: ' Whatever the staging, the atmosphere the music creates is oppressive,
-  nasty and yet sometimes tender, and without a feel for the context of the whole
-  piece, you will always struggle to recreate the senseless violence of the maids
-  in this opening scene.'
-slug: the-elton-john-act-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra
-title: 'The Elton John Act III: Violent, sadistic & utterly engaging - the Maid Scene
-  from Elektra'
-youtube_url: ""
----
++++
+author = ["authors/david-todd.md"]
+categories = "How-To"
+date = 2023-03-29T12:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = "This article is one of a series called [\"The Elton John Act\"](/pianists-progress-i-the-elton-john-act/), which aim to demystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we begin with the first of the usual audition excerpts, the Maid Scene from Richard Strauss' opera _Elektra_."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679530380/media/2023/03/Pianistseries_pianogirl_by4gpq.jpg"
+primary_image_credit = "You’ll need to channel everything you’ve got into the piano in this chilling yet colourful scene!"
+related_articles = ["articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md", "articles/pianist-s-progress-i-the-elton-john-act.md"]
+related_companies = []
+related_people = []
+short_description = " Whatever the staging, the atmosphere the music creates is oppressive, nasty and yet sometimes tender, and without a feel for the context of the whole piece, you will always struggle to recreate the senseless violence of the maids in this opening scene."
+slug = "the-elton-john-act-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra"
+title = "The Elton John Act III: Violent, sadistic & utterly engaging - the Maid Scene from Elektra"
+youtube_url = ""
+
++++
 * Opera: _Elektra_
 * Composer: Richard Strauss
 * Length of scene to learn: Beginning of the opera to Figure 34
@@ -58,9 +47,7 @@ At this stage I added in some orchestral lines that were not in my piano reducti
 
 From this point on, it is a matter of gradually increasing the tempo until it is correct. Make sure that the tempo relationships are accurate, an example being two bars before Figure 1, where the half-note beat must equal the quarter-note beat of the opening bars. There are also some very subtle changes in tempo which must be clear (e.g. Piu Mosso, two before Figure 5, or the accelerando at Figure 8), and Strauss metronome marks can generally be trusted. By this point, I found that my singing was completely linked to my playing and that I knew the orchestra/piano part well enough that it didn't distract from my singing and the dramatic intent I was trying to show.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1679530416/media/2023/03/Pianistseries_girllistening_x5ulov.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679530416/media/2023/03/Pianistseries_girllistening_x5ulov.jpg){{% /md %}}
 
 <figcaption>Try not to be too critical when listening back to yourself!</figcaption>  
 </figure>

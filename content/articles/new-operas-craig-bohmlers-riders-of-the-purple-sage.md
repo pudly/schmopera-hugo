@@ -1,33 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-08-25T19:56:00+01:00"
-lastmod: "2016-08-29T13:03:00+01:00"
-preamble: |
-  [Arizona Opera](/scene/companies/arizona-opera/) is commissioning its first world premiere, Craig Bohmler's [*Riders of the Purple Sage*](http://www.azopera.org/performances/riders-purple-sage/), running in Tucson and Phoenix in February and March of 2017. The libretto by Steven Mark Kohn is based on the Western novel by Zane Grey, which tells the story of Jane Withersteen, a devout Mormon who grows increasingly at odds with the expectations of her church, and Lassiter, a rugged cowboy set on revenge.
-
-  A true Western opera, the vast Southwestern landscape of *Riders of the Purple Sage* is created in the scenic design by [Arizona-based artist, Ed Mell](https://youtu.be/8UwlwjYXXlc). Fenlon Lamb directs the premiere production, and Keitaro Harada conducts.
-
-  We spoke with Craig Bohmler about his new opera, setting Grey's story to music, and about creating a world of sound for the American Southwest.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472156734364/2016-08-27---PipeSpring_CraigBohmler.jpg.jpg
-primary_image_credit: Photo by Craig Bohmler.
-publishDate: "2016-08-29T12:50:00+01:00"
-related_articles:
-- articles/brian-mulligan-singing-jack-torrance.md
-- articles/michael-christie-new-opera-that-the-box-office-loves.md
-- articles/in-review-rocking-horse-winner.md
-- articles/riders-of-the-purple-sage-meet-lassiter.md
-- articles/susannah-is-the-great-original-american-opera.md
-related_companies:
-- scene/companies/arizona-opera.md
-short_description: '&quot;For me, it is important to make an audience comfortable
-  before we take them on an unexpected journey. My mentor Carlisle Floyd says that
-  if an audience has a vocabulary of 200 words, give them those words plus 200 they
-  don&#039;t know. I have stood by that in all of my writing.&quot;'
-slug: new-operas-craig-bohmlers-riders-of-the-purple-sage
-title: 'New operas: Craig Bohmler&#039;s Riders of the Purple Sage'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-08-25T19:56:00+01:00"
+lastmod = "2016-08-29T13:03:00+01:00"
+preamble = "[Arizona Opera](/scene/companies/arizona-opera/) is commissioning its first world premiere, Craig Bohmler's [*Riders of the Purple Sage*](http://www.azopera.org/performances/riders-purple-sage/), running in Tucson and Phoenix in February and March of 2017. The libretto by Steven Mark Kohn is based on the Western novel by Zane Grey, which tells the story of Jane Withersteen, a devout Mormon who grows increasingly at odds with the expectations of her church, and Lassiter, a rugged cowboy set on revenge.\n\nA true Western opera, the vast Southwestern landscape of *Riders of the Purple Sage* is created in the scenic design by [Arizona-based artist, Ed Mell](https://youtu.be/8UwlwjYXXlc). Fenlon Lamb directs the premiere production, and Keitaro Harada conducts.\n\nWe spoke with Craig Bohmler about his new opera, setting Grey's story to music, and about creating a world of sound for the American Southwest.\n"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472156734364/2016-08-27---PipeSpring_CraigBohmler.jpg.jpg"
+primary_image_credit = "Photo by Craig Bohmler."
+publishDate = "2016-08-29T12:50:00+01:00"
+related_articles = ["articles/brian-mulligan-singing-jack-torrance.md","articles/michael-christie-new-opera-that-the-box-office-loves.md","articles/in-review-rocking-horse-winner.md","articles/riders-of-the-purple-sage-meet-lassiter.md","articles/susannah-is-the-great-original-american-opera.md"]
+related_companies = ["scene/companies/arizona-opera.md"]
+short_description = "&quot;For me, it is important to make an audience comfortable before we take them on an unexpected journey. My mentor Carlisle Floyd says that if an audience has a vocabulary of 200 words, give them those words plus 200 they don&#039;t know. I have stood by that in all of my writing.&quot;"
+slug = "new-operas-craig-bohmlers-riders-of-the-purple-sage"
+title = "New operas: Craig Bohmler&#039;s Riders of the Purple Sage"
++++
 
 ### Why does Zane Grey's novel adapt well to an opera?
 
@@ -45,9 +30,7 @@ Grey wrote strong women characters, like Riders heroine Jane Withersteen, who co
 
 While we don't expect audiences to react in just one way, we think they will find relevance in their own lives and come away entertained – and with a lot to think about!
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472156800408/2016-08-27---CraigBohmler_ChrisLoomis.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472156800408/2016-08-27---CraigBohmler_ChrisLoomis.jpg.jpg)
 <figcaption>Craig Bohmler, composer. Photo by Chris Loomis.</figcaption></figure>
 
 ### What have been your influences or references for how the music will sound?
@@ -60,9 +43,7 @@ For me, it is important to make an audience comfortable before we take them on a
 
 There are the usual western idioms (clichés) that imbue this piece – mostly things like the clipped "n" ("Goin'") instead of going for example and a few "ain'ts" and the very occasional "reckon". We did find that Jane speaks more formally – perhaps she is more educated or prides herself in her use of the language. I find it helps set her apart from the other characters. The Bishop also speaks more formally, being a preacher. The others are rougher in their language and we have tried to articulate these differences in our text. There is some cursing, but we tried to use it sparingly and only when it seemed important to emphasize an emotion. I find that too much cursing actually defangs the intent. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472156841501/2016-08-27--RidersCostume-Inspiration_CourtesyofArizonaOpera.jpg.jpg)<figcaption>Costume inspiration for *Riders of the Purple Sage*. Photo courtesy of Arizona Opera.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472156841501/2016-08-27--RidersCostume-Inspiration_CourtesyofArizonaOpera.jpg.jpg)<figcaption>Costume inspiration for *Riders of the Purple Sage*. Photo courtesy of Arizona Opera.</figcaption>
 </figure>
 
 ### How do various English dialects change the way you set the libretto?

@@ -1,22 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2015-04-22T18:22:00-04:00"
-lastmod: "2015-04-25T15:12:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429742751732/AmburChloeMag_Fotor.jpg.jpg
-primary_image_credit: 'Soprano Ambur Braid. Photo: Chloe magazine.'
-publishDate: "2015-04-23T09:00:00-04:00"
-related_companies:
-- scene/companies/english-national-opera.md
-related_people:
-- scene/people/ambur-braid.md
-short_description: 'English National Opera announced their 2015/15 season, and making
-  an appearance is friend, fellow COC Ensemble graduate, and stellar soprano Ambur
-  Braid. '
-slug: friends-at-the-eno
-title: Friends at the ENO
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2015-04-22T18:22:00-04:00"
+lastmod = "2015-04-25T15:12:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429742751732/AmburChloeMag_Fotor.jpg.jpg"
+primary_image_credit = "Soprano Ambur Braid. Photo: Chloe magazine."
+publishDate = "2015-04-23T09:00:00-04:00"
+related_companies = ["scene/companies/english-national-opera.md"]
+related_people = ["scene/people/ambur-braid.md"]
+short_description = "English National Opera announced their 2015/15 season, and making an appearance is friend, fellow COC Ensemble graduate, and stellar soprano Ambur Braid. "
+slug = "friends-at-the-eno"
+title = "Friends at the ENO"
++++
 
 English National Opera announced their 2015/15 season line-up yesterday, and making an appearance is friend, fellow COC Ensemble graduate, and stellar soprano [Ambur Braid](http://amburbraid.com/). 
 

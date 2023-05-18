@@ -1,31 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-05-15T18:30:00+01:00"
-lastmod: "2016-05-16T13:00:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463346845215/2016-05-16---AtG-Cozy-Darryl-Block.jpg.jpg
-primary_image_credit: 'Cairan Ryan as Don L. Fonzo in Against the Grain Theatre''s
-  A Little Too Cozy. Photo: Darryl Block.'
-publishDate: "2016-05-16T11:04:00+01:00"
-related_articles:
-- articles/from-don-juan-to-unclejohn.md
-- articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md
-- articles/the-future-of-opera-is-indie.md
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/opera-5.md
-related_people:
-- scene/people/joel-ivany.md
-- scene/people/aria-umezawa.md
-short_description: Does this point to a subtle, non-malicious, yet inherent slight
-  towards libretti, and by extension, librettists? If opera is the spectacular melding
-  of music and text, why does the former seem more sacred than the latter? And finally,
-  is an updated libretto to the tune of un-updated music a fundamentally incomplete
-  idea?
-slug: updating-operas-why-stop-at-the-libretto
-title: 'Updating operas: why stop at the libretto?'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-05-15T18:30:00+01:00"
+lastmod = "2016-05-16T13:00:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463346845215/2016-05-16---AtG-Cozy-Darryl-Block.jpg.jpg"
+primary_image_credit = "Cairan Ryan as Don L. Fonzo in Against the Grain Theatre's A Little Too Cozy. Photo: Darryl Block."
+publishDate = "2016-05-16T11:04:00+01:00"
+related_articles = ["articles/from-don-juan-to-unclejohn.md","articles/aria-umezawa-opera-5s-die-fledermaus-with-surprises.md","articles/the-future-of-opera-is-indie.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/opera-5.md"]
+related_people = ["scene/people/joel-ivany.md","scene/people/aria-umezawa.md"]
+short_description = "Does this point to a subtle, non-malicious, yet inherent slight towards libretti, and by extension, librettists? If opera is the spectacular melding of music and text, why does the former seem more sacred than the latter? And finally, is an updated libretto to the tune of un-updated music a fundamentally incomplete idea?"
+slug = "updating-operas-why-stop-at-the-libretto"
+title = "Updating operas: why stop at the libretto?"
++++
 
 [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) has earned itself some more great press, following the opening of their *A Little Too Cozy*. It's based on Mozart's *Così fan tutte*, the third of Artistic Director [Joel Ivany](/scene/people/joel-ivany/)'s "transladaptations" of the Mozart/Da Ponte operas, which means that he rewrote the libretto into an English version of the original story and set it in the present day.
 

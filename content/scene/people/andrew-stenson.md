@@ -1,34 +1,22 @@
----
-date: "2019-01-28T21:34:23+00:00"
-discipline: Tenor
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548711140/media/2019/01/AndrewStenson.jpg
-primary_image_credit: Dario Acosta
-related_companies:
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/glyndebourne.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/merola-opera-program.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/glimmerglass-festival.md
-- scene/companies/arizona-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/seattle-opera.md
-- scene/companies/palm-beach-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/utah-opera.md
-- scene/companies/minnesota-opera.md
-slug: andrew-stenson
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/TenorStenson
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/TenorStenson/
-title: Andrew Stenson
-website: ""
----
++++
+date = "2019-01-28T21:34:23+00:00"
+discipline = "Tenor"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548711140/media/2019/01/AndrewStenson.jpg"
+primary_image_credit = "Dario Acosta"
+related_companies = ["scene/companies/the-santa-fe-opera.md", "scene/companies/glyndebourne.md", "scene/companies/san-francisco-opera.md", "scene/companies/merola-opera-program.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/arizona-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/seattle-opera.md", "scene/companies/palm-beach-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/utah-opera.md", "scene/companies/minnesota-opera.md"]
+slug = "andrew-stenson"
+title = "Andrew Stenson"
+website = ""
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/TenorStenson"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/TenorStenson/"
+
++++
 Andrew Stenson is quickly building a reputation as one of the United States’ most exciting young tenors, with a brilliant tone, artistic intellect, and superb portrayals of a variety of roles. He is the first prize winner in both the 2015 **Giulio Gari International Vocal Competition** and 2016 **Gerda Lissner Foundation Competition**. He is also the recipient of a 2011 **Sara Tucker Study Grant** from the Richard Tucker Foundation. He is a graduate of the **Metropolitan Opera’s Lindemann Young Artist Development Program**.
 
 Mr. Stenson’s 2018-2019 season begins with his **Dallas Opera** debut as the Steersman in _Der Fliegende Holländer_. He also joins the **Minnesota Opera** as Fadinard in _The Italian Straw Hat_, as well as **Utah Opera** as Tamino in _Die Zauberflöte_. In concert, he appears with the **Mostly Mozart Festival** for Mozart’s _Requiem_, conducted by Louis Langrée, and the **Philadelphia Orchestra** as King Caspar in _Amahl and the Night Visitors_, conducted by Bramwell Tovey.

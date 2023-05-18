@@ -1,30 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2016-11-25T22:10:00+00:00"
-lastmod: "2016-11-26T14:35:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480113577369/2016-11-25---Met-Chandelier.jpg.jpg
-publishDate: "2016-11-26T12:16:00+00:00"
-related_articles:
-- articles/missing-the-point-the-mets-201516-season.md
-- articles/is-it-time-for-the-met-to-move.md
-- articles/a-tale-of-big-hair-at-the-met.md
-- articles/recording-dame-smyth-pretty-good-for-a-woman.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-related_people:
-- scene/people/eric-owens.md
-- scene/people/susanna-phillips.md
-- scene/people/tamara-mumford.md
-short_description: On the one hand, this is great news. There are indeed operas -
-  and good ones - written by women, and Saariaho&#039;s mesmerizing tale of 12th-century
-  troubadour Jaufré Rudel is one of them. On the other hand, it&#039;s fairly stunning
-  that after Der Wald, there was a 113-year wait for the Met (the Met, for goodness&#039;
-  sake!) to stage a second opera by a woman composer.
-slug: teddy-roosevelt-the-chicago-cubs-operas-by-women-at-the-met
-title: Teddy Roosevelt, the Chicago Cubs, &amp; operas by women at the Met
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2016-11-25T22:10:00+00:00"
+lastmod = "2016-11-26T14:35:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480113577369/2016-11-25---Met-Chandelier.jpg.jpg"
+publishDate = "2016-11-26T12:16:00+00:00"
+related_articles = ["articles/missing-the-point-the-mets-201516-season.md","articles/is-it-time-for-the-met-to-move.md","articles/a-tale-of-big-hair-at-the-met.md","articles/recording-dame-smyth-pretty-good-for-a-woman.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/eric-owens.md","scene/people/susanna-phillips.md","scene/people/tamara-mumford.md"]
+short_description = "On the one hand, this is great news. There are indeed operas - and good ones - written by women, and Saariaho&#039;s mesmerizing tale of 12th-century troubadour Jaufré Rudel is one of them. On the other hand, it&#039;s fairly stunning that after Der Wald, there was a 113-year wait for the Met (the Met, for goodness&#039; sake!) to stage a second opera by a woman composer."
+slug = "teddy-roosevelt-the-chicago-cubs-operas-by-women-at-the-met"
+title = "Teddy Roosevelt, the Chicago Cubs, &amp; operas by women at the Met"
++++
 
 The Metropolitan Opera is gearing up for its production of [Kaaija Saariaho's *L'amour de loin*](http://www.metopera.org/Season/2016-17-Season/amour-de-loin-saariaho-tickets/), which runs December 1-29; it marks the first opera by a woman to go up at the Met since Ethel Smyth's *Der Wald* in 1903.
 

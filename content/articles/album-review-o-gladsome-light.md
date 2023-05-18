@@ -1,24 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2018-02-10T22:17:00-05:00"
-lastmod: "2018-02-12T08:50:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518318383389/lawrence-cover.jpg.jpg
-publishDate: "2018-02-11T20:33:00-05:00"
-related_articles:
-- articles/album-review-all-who-wander.md
-related_companies:
-- scene/companies/canadian-art-song-project.md
-related_people:
-- scene/people/lawrence-wiliford.md
-- scene/people/steven-philcox.md
-short_description: 'The songs by Edmund Rubbra (1901-1986) are the real find in this
-  album. His songs have a unique sound, a style that&#039;s difficult to place, but
-  eventually emerges as English - yet with an edge. '
-slug: album-review-o-gladsome-light
-title: 'Album review: O Gladsome Light'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2018-02-10T22:17:00-05:00"
+lastmod = "2018-02-12T08:50:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518318383389/lawrence-cover.jpg.jpg"
+publishDate = "2018-02-11T20:33:00-05:00"
+related_articles = ["articles/album-review-all-who-wander.md"]
+related_companies = ["scene/companies/canadian-art-song-project.md"]
+related_people = ["scene/people/lawrence-wiliford.md","scene/people/steven-philcox.md"]
+short_description = "The songs by Edmund Rubbra (1901-1986) are the real find in this album. His songs have a unique sound, a style that&#039;s difficult to place, but eventually emerges as English - yet with an edge. "
+slug = "album-review-o-gladsome-light"
+title = "Album review: O Gladsome Light"
++++
 
 The latest in tenor [Lawrence Wiliford](/scene/people/lawrence-wiliford/)'s extensive discography is [*O Gladsome Light*](http://stonerecords.co.uk/album/o-gladsome-light/), released on [Stone Records](http://stonerecords.co.uk/album/o-gladsome-light/); the album is a collection of sacred songs by Gustav Holst, his friend and colleague Ralph Vaughan Williams, and his composition pupil Edmund Rubbra.
 
@@ -26,7 +19,7 @@ The latest in tenor [Lawrence Wiliford](/scene/people/lawrence-wiliford/)'s exte
 
 *O Gladsome Light* groups together some of Canada's best in song and chamber music. Wiliford is joined by pianist Stephen Philcox, frequent recital partner of the tenor's and co-founder of the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/), violinist Marie Bérard, and violist Keith Hamm, both members of the [Canadian Opera Company](/scene/companies/canadian-opera-company/) Orchestra. They play in varied combinations, and throughout the album the four musicians create a sound that is timeless and almost pan-stylistic, a beautiful and eerie effect.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518318413791/Group2_pocketfix.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518318413791/Group2_pocketfix.jpg.jpg)
 <figcaption>(l-r) Stephen Philcox, Marie Bérard, Lawrence Wiliford, and Keith Hamm. Photo: Leigh Miller.</figcaption>
 </figure>
 

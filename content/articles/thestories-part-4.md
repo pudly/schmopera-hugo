@@ -1,43 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2019-09-19T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: If you have a true story of abuse or assault in the opera and classical
-  music industries and you want to tell someone, send it to me at [jenna@schmopera.com](mailto@jenna@schmopera.com).
-preamble: |-
-  This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request.
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = 2019-09-19T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = "If you have a true story of abuse or assault in the opera and classical music industries and you want to tell someone, send it to me at [jenna@schmopera.com](mailto@jenna@schmopera.com)."
+preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with some names and details withheld at the author's request.\n\nThe following was submitted by American tenor [Wes Hunter](/scene/people/wes-hunter/)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571942315/media/2019/10/TheStories5-resized_haanro.jpg"
+primary_image_credit = ""
+related_articles = ["articles/thestories-part-15.md", "articles/thestories-part-14.md", "articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
+related_companies = []
+related_people = []
+short_description = "\"It wasn't long after that I received a few emails from an anonymous email address, the first of which simply read, \"I know I am your fantasy.\" I wouldn't admit it at the time, but Greg was at the top of the list of suspects.\""
+slug = "thestories-part-4"
+title = "#TheStories, part 4"
+youtube_url = ""
 
-  The following was submitted by American tenor [Wes Hunter](/scene/people/wes-hunter/).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571942315/media/2019/10/TheStories5-resized_haanro.jpg
-primary_image_credit: ""
-related_articles:
-- articles/thestories-part-15.md
-- articles/thestories-part-14.md
-- articles/thestories-part-13.md
-- articles/thestories-part-12.md
-- articles/thestories-part-10-1.md
-- articles/thestories-part-10-2.md
-- articles/thestories-part-9.md
-- articles/thestories-part-8.md
-- articles/thestories-part-10.md
-- articles/thestories-part-6.md
-- articles/thestories-part-5.md
-- articles/thestories-part-3.md
-- articles/thestories-part-2.md
-- articles/thestories-part-i.md
-- articles/metoo-intro.md
-related_companies: []
-related_people: []
-short_description: '"It wasn''t long after that I received a few emails from an anonymous
-  email address, the first of which simply read, "I know I am your fantasy." I wouldn''t
-  admit it at the time, but Greg was at the top of the list of suspects."'
-slug: thestories-part-4
-title: '#TheStories, part 4'
-youtube_url: ""
----
++++
 I met Greg Ruffer my second year as a student at Central Florida Community College (now the College of Central Florida). Having never taken voice lessons before, I was nervous to be joining the College choir and musical theatre ensemble that performed shows every semester. Greg, who was my voice teacher and head of the voice faculty at the College, encouraged me to change my major to voice. He often would make little sexual jokes or innuendo, but it was fairly professional in the beginning.
 
 > Deep down inside I believed the allegations to be absolutely true - I just could not accept it at the time.

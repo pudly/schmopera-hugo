@@ -1,37 +1,25 @@
----
-author:
-- authors/jenna.md
-categories: How-To
-date: "2021-08-22T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
-preamble: 'Talk about a Verdi staple: Leonora''s act IV aria from _La forza del destino_
-  is a soprano coup, not for the faint of heart. Leonora sings this from the cave
-  she''s been living in lately, hermiting away from things like botched elopements
-  and family curses. This marathon aria is certainly one to work on closely with your
-  trusted teachers and coaches. In the meantime, this Aria Guide is here to offer
-  some handy tips for "Pace, pace, mio Dio" ("Peace, peace, my God"):'
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1629485179/media/2021/08/AriaGuide-Pace_pog9oe.jpg
-primary_image_credit: ""
-related_articles:
-- articles/aria-guides-embroidery-aria.md
-- articles/aria-guides-donde-lieta-uscì.md
-- articles/aria-guides-je-suis-encor.md
-related_companies: []
-related_people: []
-short_description: Leonora sings this from the cave she's been living in lately, hermiting
-  away from things like botched elopements and family curses. This marathon aria is
-  certainly one to work on closely with your trusted teachers and coaches.
-slug: aria-guides-pace-pace-mio-dio
-title: 'Aria guides: Pace, pace, mio Dio'
-youtube_url: ""
----
++++
+author = ["authors/jenna.md"]
+categories = "How-To"
+date = 2021-08-22T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = "Have a request for our Aria Guides? Get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
+preamble = "Talk about a Verdi staple: Leonora's act IV aria from _La forza del destino_ is a soprano coup, not for the faint of heart. Leonora sings this from the cave she's been living in lately, hermiting away from things like botched elopements and family curses. This marathon aria is certainly one to work on closely with your trusted teachers and coaches. In the meantime, this Aria Guide is here to offer some handy tips for \"Pace, pace, mio Dio\" (\"Peace, peace, my God\"):"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1629485179/media/2021/08/AriaGuide-Pace_pog9oe.jpg"
+primary_image_credit = ""
+related_articles = ["articles/aria-guides-embroidery-aria.md", "articles/aria-guides-donde-lieta-uscì.md", "articles/aria-guides-je-suis-encor.md"]
+related_companies = []
+related_people = []
+short_description = "Leonora sings this from the cave she's been living in lately, hermiting away from things like botched elopements and family curses. This marathon aria is certainly one to work on closely with your trusted teachers and coaches."
+slug = "aria-guides-pace-pace-mio-dio"
+title = "Aria guides: Pace, pace, mio Dio"
+youtube_url = ""
+
++++
 Sopranos, see thy teachers for this one **(1)**. I mean, Verdi really kicks off this killer aria with an abyss of overthinking, a real looks-simple-but-it's-obviously-not-simple kind of bar. I can encourage you all to keep refreshing your \[a\] vowel, to use Verdi's crescendo-diminuendo to your advantage, and have fun with a portamento on the way down (at least a little one!). But remember: we've only just begun...
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1629426448/media/2021/08/AriaGuide_Pace_p1_annotated_cropped_zrshkl.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426448/media/2021/08/AriaGuide_Pace_p1_annotated_cropped_zrshkl.jpg){{% /md %}}
 
 </figure>
 
@@ -39,17 +27,13 @@ Take care here **(2)** with intonation. It's easy to go flat on the B-flat, and 
 
 You have time here **(3)** to sing a real vowel on the first syllable of "sventura", so let it help you get into this new minor mode in this section. And Verdi does a cool thing here with the text phrasing; there's a tiny comma after "m'astringe", so give some fresh attention to the "ahimè" that comes after it.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1629426460/media/2021/08/AriaGuide_Pace_p2_annotated_cropped_top_kkaips.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426460/media/2021/08/AriaGuide_Pace_p2_annotated_cropped_top_kkaips.jpg){{% /md %}}
 
 </figure>
 
 Be diligent that you don't fall flat on either of the E-flats in this phrase **(4)**. And though the text oozes drama here, don't over-darken as you descend into speech-like territory.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1629426483/media/2021/08/AriaGuide_Pace_p2_annotated_cropped_is4djp.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426483/media/2021/08/AriaGuide_Pace_p2_annotated_cropped_is4djp.jpg){{% /md %}}
 
 </figure>
 
@@ -57,9 +41,7 @@ Chat with your teacher about how to negotiate these diminuendos **(5)** without 
 
 Long, _long_ sound on "L'ami, gli è ver!" **(6)** Note that "gli è" is under a straight eighth note, so don't be late on it. The melody is getting more interesting here, so show us around a bit and don't leave a single note out of your voice.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1629426503/media/2021/08/AriaGuide_Pace_p3_annotated_cropped_top_x5qq3w.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426503/media/2021/08/AriaGuide_Pace_p3_annotated_cropped_top_x5qq3w.jpg){{% /md %}}
 
 </figure>
 
@@ -67,9 +49,7 @@ When you breathe for this phrase **(7)**, plan it around this bar. Most sopranos
 
 This rhythm is pretty cool **(8)**, so keep it crisp and taut. When you breathe for the first "Fatalità!", make sure you're singing on that tiny sixteenth-note pickup. You won't really have time to vibrate on it, but you spin should be already happening.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1629426512/media/2021/08/AriaGuide_Pace_p3_annotated_cropped_xsjxtf.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426512/media/2021/08/AriaGuide_Pace_p3_annotated_cropped_xsjxtf.jpg){{% /md %}}
 
 </figure>
 
@@ -77,17 +57,13 @@ Keep the pitch consistent on these three repeated C's **(9)**. And be super pick
 
 This phrase **(10)** can easily be split into two mini-phrases, but resist the urge. That colon after "è scritto" is very cool, because it's not a comma. It's punctuation, but the kind that lurches forward, rather than halts. Keep that in mind as you pace your breaths, and don't let things sag too soon after "scritto".
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1629426544/media/2021/08/AriaGuide_Pace_p4_annotated_cropped_d09len.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426544/media/2021/08/AriaGuide_Pace_p4_annotated_cropped_d09len.jpg){{% /md %}}
 
 </figure>
 
 Things are picking up here **(11)**, both tempo- and drama-wise. Musically, your role becomes a bit of accompaniment here, like a descant around the operas's motif that pokes out in the orchestra (you can see the first one happening while you're holding "pace", for example). This doesn't mean you shouldn't sing this properly, but it's almost like Leonora is getting swept away by something larger than her, as though she's singing to something else's tune. Basically, don't drag; let the orchestra lead the show for a few bars.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1629426556/media/2021/08/AriaGuide_Pace_p4_annotated_cropped_2_jysonz.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426556/media/2021/08/AriaGuide_Pace_p4_annotated_cropped_2_jysonz.jpg){{% /md %}}
 
 </figure>
 
@@ -95,9 +71,7 @@ The orchestra pushes you into this bar **(12)**, but at this octave leap from G-
 
 Clearly, another puzzle to work out with your teacher **(13)**. My humble advice: breathe for the high B-flat, and don't work too hard for the "Invan la". Let the downward portamento help you maintain height, so you're ready to pop back up to the A-flat in the next line.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1629426571/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_top_s27bpk.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426571/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_top_s27bpk.jpg){{% /md %}}
 
 </figure>
 
@@ -105,17 +79,13 @@ Breathe for the top note here **(14)**, so you don't start too much in the throa
 
 Come in a bit early and get a good hum going on the \[m\] in "Misero" **(15)**. It's a nice touch, and reduces stress in your pianist/conductor's brain.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1629426584/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_am0rkl.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426584/media/2021/08/AriaGuide_Pace_p5_annotated_cropped_am0rkl.jpg){{% /md %}}
 
 </figure>
 
 This **(16)** should be a tiny moment of respite for you, before the big finish. This section is recit-like, but it needs to stay relatively in time, and you should have a clear new tempo in your ear.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1629426593/media/2021/08/AriaGuide_Pace_p6_annotated_cropped_os6cab.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1629426593/media/2021/08/AriaGuide_Pace_p6_annotated_cropped_os6cab.jpg){{% /md %}}
 
 </figure>
 
@@ -125,8 +95,6 @@ In the race to the finish **(17)**, choose your battles wisely. The orchestra is
 
 Ok, enough talk! Time to listen...specifically to Sondra Radvanovsky singing Leonora's "Pace, pace, mio Dio" from Verdi's _La forza del destino_:
 
-<figure data-type="video">
-
-<iframe width="1010" height="568" src="https://www.youtube.com/embed/zZeEKoGV53c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure data-type="video">{{% md %}}<iframe width="1010" height="568" src="https://www.youtube.com/embed/zZeEKoGV53c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
 
 </figure>

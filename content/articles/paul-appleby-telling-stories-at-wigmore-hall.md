@@ -1,38 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-02-29T09:04:00+00:00"
-lastmod: "2016-02-29T14:14:00+00:00"
-preamble: "American tenor [Paul Appleby](/scene/people/paul-appleby/) has an exciting
-  2016 lined up, both on the opera stage, and in concert. In April he sings Belmonte
-  in [The Metropolitan Opera's *Die Entführung aus dem Serail*](http://paulapplebytenor.com/events/mozart-die-entfuhrung-aus-dem-serail-belmonte/),
-  and he makes his debut at the Glyndebourne Festival as Bénédicte in Berlioz' *Béatrice
-  et Bénédicte*. \n\nAppleby is a self-proclaimed recitalist, and on **March 4 at
-  7:30pm** he makes another debut, at [Wigmore Hall with pianist Malcolm Martineau](https://wigmore-hall.org.uk/whats-on/lachner-schumann-wolf-and-more-201603041930).
-  He has a clear passion for telling stories though song, and he took the time to
-  tell us about what he has to say with his Wigmore Hall programme."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456736830114/2016-02-29---Paul-Appleby.jpg.jpg
-primary_image_credit: Photo by Frances Marshall.
-publishDate: "2016-02-29T13:57:00+00:00"
-related_articles:
-- articles/talking-with-singers-nicole-cabell.md
-- articles/talking-with-singers-elizabeth-caballero.md
-- articles/talking-with-singers-leah-crocetto.md
-- articles/in-review-paul-appleby-at-wigmore-hall.md
-- articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md
-- articles/in-review-times-two-ensemble-prisma-wien-bernarda-fink.md
-- articles/a-generous-winterreise-at-wigmore-hall.md
-related_people:
-- scene/people/paul-appleby.md
-short_description: '&quot;Most of all I am looking forward to the acoustic. I have
-  never been to the hall but I haven’t had a conversation with a singer who has sung
-  there who doesn’t mention how perfect a room for singing it is. But as I think about
-  it, more importantly than the loveliness of the space I am looking forward to participating
-  in the community of Wigmore.&quot;'
-slug: paul-appleby-telling-stories-at-wigmore-hall
-title: 'Paul Appleby: telling stories at Wigmore Hall'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-02-29T09:04:00+00:00"
+lastmod = "2016-02-29T14:14:00+00:00"
+preamble = "American tenor [Paul Appleby](/scene/people/paul-appleby/) has an exciting 2016 lined up, both on the opera stage, and in concert. In April he sings Belmonte in [The Metropolitan Opera's *Die Entführung aus dem Serail*](http://paulapplebytenor.com/events/mozart-die-entfuhrung-aus-dem-serail-belmonte/), and he makes his debut at the Glyndebourne Festival as Bénédicte in Berlioz' *Béatrice et Bénédicte*. \n\nAppleby is a self-proclaimed recitalist, and on **March 4 at 7:30pm** he makes another debut, at [Wigmore Hall with pianist Malcolm Martineau](https://wigmore-hall.org.uk/whats-on/lachner-schumann-wolf-and-more-201603041930). He has a clear passion for telling stories though song, and he took the time to tell us about what he has to say with his Wigmore Hall programme."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456736830114/2016-02-29---Paul-Appleby.jpg.jpg"
+primary_image_credit = "Photo by Frances Marshall."
+publishDate = "2016-02-29T13:57:00+00:00"
+related_articles = ["articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-elizabeth-caballero.md","articles/talking-with-singers-leah-crocetto.md","articles/in-review-paul-appleby-at-wigmore-hall.md","articles/recitals-that-stick-matthias-goerne-at-wigmore-hall.md","articles/in-review-times-two-ensemble-prisma-wien-bernarda-fink.md","articles/a-generous-winterreise-at-wigmore-hall.md"]
+related_people = ["scene/people/paul-appleby.md"]
+short_description = "&quot;Most of all I am looking forward to the acoustic. I have never been to the hall but I haven’t had a conversation with a singer who has sung there who doesn’t mention how perfect a room for singing it is. But as I think about it, more importantly than the loveliness of the space I am looking forward to participating in the community of Wigmore.&quot;"
+slug = "paul-appleby-telling-stories-at-wigmore-hall"
+title = "Paul Appleby: telling stories at Wigmore Hall"
++++
 
 ## Why do you sing professionally?
 

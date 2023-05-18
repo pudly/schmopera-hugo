@@ -1,27 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2015-12-30T18:15:00-05:00"
-lastmod: "2016-01-01T20:46:00-05:00"
-preamble: We've already set you up with 2016's [big-gun opera picks](/9-ways-to-fend-off-a-canadian-winter/)
-  across Canada, but the New Year brings even more opportunities to hear today's emerging
-  artists onstage. We've compiled 10 student opera productions to catch in Canada
-  and the United States, and the variety of opera, traditional and contemporary, is
-  pretty exciting.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451602364843/2016-01-01---McGillMusic.jpg.jpg
-publishDate: "2016-01-01T09:00:00-05:00"
-related_companies:
-- scene/companies/opera-mcgill.md
-- scene/companies/university-of-toronto-opera.md
-short_description: We&#039;ve already set you up with 2016&#039;s big-gun opera picks
-  across Canada, but the New Year brings even more opportunities to hear today&#039;s
-  emerging artists onstage. We&#039;ve compiled 10 student opera productions to catch
-  in Canada and the United States, and the variety of opera, traditional and contemporary,
-  is pretty exciting.
-slug: 10-student-opera-productions-to-catch-this-winter
-title: 10 student opera productions to catch this winter
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2015-12-30T18:15:00-05:00"
+lastmod = "2016-01-01T20:46:00-05:00"
+preamble = "We've already set you up with 2016's [big-gun opera picks](/9-ways-to-fend-off-a-canadian-winter/) across Canada, but the New Year brings even more opportunities to hear today's emerging artists onstage. We've compiled 10 student opera productions to catch in Canada and the United States, and the variety of opera, traditional and contemporary, is pretty exciting."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451602364843/2016-01-01---McGillMusic.jpg.jpg"
+publishDate = "2016-01-01T09:00:00-05:00"
+related_companies = ["scene/companies/opera-mcgill.md","scene/companies/university-of-toronto-opera.md"]
+short_description = "We&#039;ve already set you up with 2016&#039;s big-gun opera picks across Canada, but the New Year brings even more opportunities to hear today&#039;s emerging artists onstage. We&#039;ve compiled 10 student opera productions to catch in Canada and the United States, and the variety of opera, traditional and contemporary, is pretty exciting."
+slug = "10-student-opera-productions-to-catch-this-winter"
+title = "10 student opera productions to catch this winter"
++++
 
 ## *Die Fledermaus* in Waterloo
 

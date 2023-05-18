@@ -1,23 +1,18 @@
----
-date: "2019-03-03T17:35:32+00:00"
-discipline: Tenor
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551634443/media/2019/03/AlesBriscein.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/opra-national-de-paris.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/oper-frankfurt.md
-slug: ales-briscein
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/profile.php?id=100004315033855&fref=ts
-title: Aleš Briscein
-website: http://www.briscein.eu/
----
++++
+date = "2019-03-03T17:35:32+00:00"
+discipline = "Tenor"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551634443/media/2019/03/AlesBriscein.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/opra-national-de-paris.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/staatsoper-berlin.md", "scene/companies/oper-frankfurt.md"]
+slug = "ales-briscein"
+title = "Aleš Briscein"
+website = "http://www.briscein.eu/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/profile.php?id=100004315033855&fref=ts"
+
++++
 Plans of Czech tenor of Aleš Briscein for 2019 include the title role in a new production of Smetana’s _Dalibor_ in Frankfurt conducted by Stefan Soltesz, Paul in _Die tote Stadt_ at Komische Oper Berlin and Lenskij in _Eugene Oneguin_ with Komische Oper at the Edinburgh Festival.
 
 2020 he will be heard at the Grand Théâtre de Genève as Lépreux in Messiaen’s _Saint François d’Assise_ and as Albert Gregor in a new production of_The Makropulos Case_.

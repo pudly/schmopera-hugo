@@ -1,32 +1,27 @@
----
-author:
-- authors/loren-lester.md
-categories: Review
-date: "2019-05-14T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558456179/media/2019/05/sqTrovatore.jpg
-primary_image_credit: 'Christopher Trapani (Manrico) and Leonora (Alexis Cregger)
-  in Il trovatore, Regina Opera Company, 2019. Photo: Steven Pisano.'
-related_articles: []
-related_companies: []
-related_people: []
-short_description: Brooklyn-based Regina Opera has taken on Verdi's Il Trovatore and
-  though they clearly have limited resources, they have staged a first-rate, fully-realized
-  production.
-slug: two-different-servings-from-the-opera-fest-menu
-title: Two different servings from the Opera Fest menu
-youtube_url: ""
----
++++
+author = ["authors/loren-lester.md"]
+categories = "Review"
+date = "2019-05-14T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558456179/media/2019/05/sqTrovatore.jpg"
+primary_image_credit = "Christopher Trapani (Manrico) and Leonora (Alexis Cregger) in Il trovatore, Regina Opera Company, 2019. Photo: Steven Pisano."
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "Brooklyn-based Regina Opera has taken on Verdi's Il Trovatore and though they clearly have limited resources, they have staged a first-rate, fully-realized production."
+slug = "two-different-servings-from-the-opera-fest-menu"
+title = "Two different servings from the Opera Fest menu"
+youtube_url = ""
+
++++
 Some of the things that contribute to the enjoyment of 19th century opera includes the pageantry, the costumes, the scenery, etc.  But ultimately, it's the music that must be beyond question or what's the point of doing it at all? Both New Amsterdam Opera and Regina Opera Company understand this implicitly but have two completely different approaches to the music of two masters.
 
 Brooklyn-based Regina Opera has taken on Verdi's _Il Trovatore_ and though they clearly have limited resources, they have staged a first-rate, fully-realized production.  Sandwiched in between _Rigoletto_ and _La Traviata_, _Il Trovatore_ is one of Verdi's most popular works, even though story-wise it's inferior to the other two titles. Most of the action takes place either in the past or offstage, and there is really no subplot. Everyone sings about what happened, and little is in the present-tense. It's a shallow tale about the revenge of the gypsies and it's all about "when," not "if."  The score, on the other hand, is unassailable; vintage Verdi containing some of his most stirring and recognizable melodies (such as "The Anvil Chorus.")
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1557882405/media/2019/05/Trovatore-Marianna_Coleman10.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557882405/media/2019/05/Trovatore-Marianna_Coleman10.jpg){{% /md %}}
 
 <figcaption>Nathan Matticks (Count DiLuna) and Alexis Cregger (Leonora) in Il trovatore, Regina Opera Company, 2019. Photo: Marianna Coleman.
 
@@ -42,9 +37,7 @@ A world away from Brooklyn, on the Upper West Side of Manhattan, New Amsterdam O
 
 But New Amsterdam unapologetically brings you entire operas, most recently the entire three hours of Massenet's _Herodiade_ – and with no subtitles. This is not the kind of presentation that would appeal to someone who has never been to an opera.  There is a long, detailed synopsis provided, but newbies to this artform should probably go to an opera with production values for their first experience.  While most opera companies are trying to bring in a wider audience, New Amsterdam seems to be aiming at those of us who are already opera lovers.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1557882432/media/2019/05/Trovatore-CSmith4.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557882432/media/2019/05/Trovatore-CSmith4.jpg){{% /md %}}
 
 <figcaption>Lara Tillotson (Azucena) in Il trovatore, Regina Opera Company, 2019. Photo: Cameron Smith.</figcaption>
 

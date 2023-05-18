@@ -1,26 +1,17 @@
----
-author:
-- authors/greg.md
-categories: News
-date: "2017-05-16T13:26:00-04:00"
-lastmod: "2017-05-30T14:06:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494955828546/2017-05-16---GERZMAVA-Hibla-Vlad-Loktev.jpg.jpg
-primary_image_credit: 'Hibla Gerzmava, soprano. Photo: Vlad Loktev.'
-publishDate: "2017-05-18T10:38:00-04:00"
-related_articles:
-- articles/in-review-dmitri-hvorostovsky-at-koerner-hall.md
-- articles/in-review-boris-godunov.md
-related_people:
-- scene/people/hibla-gerzmava.md
-short_description: Featuring works by Mozart, Shostakovich, Grieg, Poulenc, Verdi
-  and more, the Moscow Virtuosi bring its characteristic &quot;precision and sharply
-  defined phrases&quot; (New York Times) to dazzle Toronto audiences. Tickets are
-  on sale now and can be purchased here. The show is June 8, 2017 at 8PM at Roy Thomson
-  Hall. This promises to be a beauty of a concert. Get your tickets now and don&#039;t
-  miss out.
-slug: hibla-gerzmava-danielle-akta-with-the-moscow-virtuosi
-title: Hibla Gerzmava &amp; Danielle Akta with The Moscow Virtuosi
----
++++
+author = ["authors/greg.md"]
+categories = "News"
+date = "2017-05-16T13:26:00-04:00"
+lastmod = "2017-05-30T14:06:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494955828546/2017-05-16---GERZMAVA-Hibla-Vlad-Loktev.jpg.jpg"
+primary_image_credit = "Hibla Gerzmava, soprano. Photo: Vlad Loktev."
+publishDate = "2017-05-18T10:38:00-04:00"
+related_articles = ["articles/in-review-dmitri-hvorostovsky-at-koerner-hall.md","articles/in-review-boris-godunov.md"]
+related_people = ["scene/people/hibla-gerzmava.md"]
+short_description = "Featuring works by Mozart, Shostakovich, Grieg, Poulenc, Verdi and more, the Moscow Virtuosi bring its characteristic &quot;precision and sharply defined phrases&quot; (New York Times) to dazzle Toronto audiences. Tickets are on sale now and can be purchased here. The show is June 8, 2017 at 8PM at Roy Thomson Hall. This promises to be a beauty of a concert. Get your tickets now and don&#039;t miss out."
+slug = "hibla-gerzmava-danielle-akta-with-the-moscow-virtuosi"
+title = "Hibla Gerzmava &amp; Danielle Akta with The Moscow Virtuosi"
++++
 
 Show One Productions continues its great programming this coming **June 8th** at Roy Thomson Hall, with a presentation by The Moscow Virtuosi ensemble with special guests 14-year old Israeli cellist Danielle Atka and world renowned soprano [Hibla Gerzmava](/scene/people/hibla-gerzmava/). 
 

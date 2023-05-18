@@ -1,28 +1,17 @@
----
-author:
-- authors/oliver-munar.md
-categories: Review
-date: "2018-04-18T09:49:00-04:00"
-lastmod: "2018-04-19T10:48:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524058584860/sq02PhillipAddisGiovanni.jpg.jpg
-primary_image_credit: 'Phillip Addis in the title role of Don Giovanni, Edmonton Opera,
-  2018. Photo: Nanc Price.'
-publishDate: "2018-04-19T10:48:00-04:00"
-related_companies:
-- scene/companies/edmonton-opera.md
-related_people:
-- scene/people/phillip-addis.md
-- scene/people/john-tessier.md
-- scene/people/erik-anstine.md
-- scene/people/michele-capalbo.md
-- scene/people/whitney-leigh-sloan.md
-- scene/people/kirk-eichelberger.md
-short_description: If love is the soul of genius, as Wolfgang Amadeus Mozart once
-  said, what would that make lustful abandon? In the case of one of opera’s best-known
-  &quot;bad boys&quot;, a fiery eternity of damnation.
-slug: edmonton-opera-delivers-imaginative-inspired-don-giovanni
-title: Edmonton Opera delivers imaginative, inspired Don Giovanni
----
++++
+author = ["authors/oliver-munar.md"]
+categories = "Review"
+date = "2018-04-18T09:49:00-04:00"
+lastmod = "2018-04-19T10:48:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524058584860/sq02PhillipAddisGiovanni.jpg.jpg"
+primary_image_credit = "Phillip Addis in the title role of Don Giovanni, Edmonton Opera, 2018. Photo: Nanc Price."
+publishDate = "2018-04-19T10:48:00-04:00"
+related_companies = ["scene/companies/edmonton-opera.md"]
+related_people = ["scene/people/phillip-addis.md","scene/people/john-tessier.md","scene/people/erik-anstine.md","scene/people/michele-capalbo.md","scene/people/whitney-leigh-sloan.md","scene/people/kirk-eichelberger.md"]
+short_description = "If love is the soul of genius, as Wolfgang Amadeus Mozart once said, what would that make lustful abandon? In the case of one of opera’s best-known &quot;bad boys&quot;, a fiery eternity of damnation."
+slug = "edmonton-opera-delivers-imaginative-inspired-don-giovanni"
+title = "Edmonton Opera delivers imaginative, inspired Don Giovanni"
++++
 
 If love is the soul of genius, as Wolfgang Amadeus Mozart once said, what would that make lustful abandon? In the case of one of opera’s best-known "bad boys", a fiery eternity of damnation.
 
@@ -30,9 +19,7 @@ To close its 2017-18 season on the mainstage, [Edmonton Opera](/scene/companies/
 
 Edmonton Opera marketed the show as "Spanish-inspired". That description may not mean much to the average opera patron, but if you're familiar with the story, you will recognize it is based on the legends of the fictional Spanish womanizer Don Juan. Aside from some matador costumes and poses, any semblance of Spanish inspiration was not evident.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524059044299/12-Addis-Sloan%20as%20Giovanni-Zerlina.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524059044299/12-Addis-Sloan%20as%20Giovanni-Zerlina.jpg.jpg)
 <figcaption>Phillip Addis (Don Giovanni) and Whitney Leigh Sloan (Zerlina) in *Don Giovanni*, Edmonton Opera, 2018. Photo: Nanc Price.</figcaption>
 </figure>
 
@@ -40,9 +27,7 @@ The set and lighting design struck a rather dark tone, which may be the last thi
 
 As the titular Giovanni, baritone Phillip Addis brings an attractive swagger and appeal to the role. Addis excelled especially at the challenging recitative, particularly in the comedic moments with his trusty servant. At times, the orchestra drowned Addis' velvety baritone somewhat, but his performance of the boisterous aria "Fin ch'han dal vino", in which he announces a lavish, hedonistic party, was a tour de force.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524059101449/11_-Capalbo-Tessier-McLeod%20as%20Anna-Ottavio-Elvira.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524059101449/11_-Capalbo-Tessier-McLeod%20as%20Anna-Ottavio-Elvira.jpg.jpg)
 <figcaption>Michele Capalbo (Donna Anna), John Tessier (Don Ottavio), and Cara McLeod (Donna Elvira) in *Don Giovanni*, Edmonton Opera, 2018. Photo: Nanc Price.</figcaption>
 </figure>
 
@@ -50,9 +35,7 @@ Soprano Michele Capalbo offers an emotionally charged performance as the grievin
 
 Cara McLeod's portrayal of the spurned Donna Elvira is a great reminder to beware the woman scorned. The fiery red dress she wore throughout the opera reflects her volatile personality. McLeod played the role safely, stopping well short of becoming unsympathetic. However, I would have liked even more fire and, dare I say, instability to further differentiate the character from Zerlina. Of note, McLeod was originally cast as the understudy for [Miriam Khalil](/scene/people/miriam-khalil/), but McLeod took over the role after Khalil had to retire from the show  unexpectedly. Kudos to McLeod on filling some tough shoes; audiences will certainly hear more from her in the near future.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524059160119/07-McLeod-Sloan%20as%20Elvira-Zerlina.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524059160119/07-McLeod-Sloan%20as%20Elvira-Zerlina.jpg.jpg)
 <figcaption>Cara McLeon (Donna Elvira) and Whitney Leigh Sloan (Zerlina) in *Don Giovanni*, Edmonton Opera, 2018. Photo: Nanc Price.</figcaption>
 </figure>
 
@@ -60,17 +43,13 @@ The role of Zerlina, played by Edmonton-based soprano [Whitney-Leigh Sloan](/sce
 
 Despite limited stage time, [Kirk Eichelberger](/scene/people/kirk-eichelberger/) gave the Commendatore, Donna Anna's murdered further, an authoritative presence. In particular, the final scene, in which the Commendatore damns Giovanni to a hell, showcases Eichelberger's booming bass that commands attention and would make most people quake in their boots.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524059187481/08_-Addis-Eichelberger%20as%20Giovanni-Commendatore.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524059187481/08_-Addis-Eichelberger%20as%20Giovanni-Commendatore.jpg.jpg)
 <figcaption>Phillip Addis (Don Giovanni) and Kirk Eichelberger (Commendatore) in *Don Giovanni*, Edmonton Opera, 2018. Photo: Nanc Price.</figcaption>
 </figure>
 
 Edmonton-based tenor John Tessier gives a thoughtful, mature performance of Don Ottavio that elicited one of the strongest responses from the audience. Singing both the Ottavio arias "Dalla sua pace" and "Il mio tesoro", Tessier makes the challenging tessitura and coloratura sound almost too easy. Whereas Addis portrayed Giovanni with a defiant swagger, Tessier's Ottavio is noble and elegant. The blocking often saw Ottavio on his own, which underscores the notion that he is perhaps the only person unaffected by the emotional turmoil brought on by Giovanni's antics.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524059228947/06_-Anstine%20as%20Leporello.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524059228947/06_-Anstine%20as%20Leporello.jpg.jpg)
 <figcaption>Erik Anstine (Leporello) in *Don Giovanni*, Edmonton Opera, 2018. Photo: Nanc Price.</figcaption>
 </figure>
 

@@ -1,14 +1,13 @@
----
-_template: people_single
-date: "2017-09-06T21:46:00-04:00"
-discipline: Soprano
-lastmod: "2017-09-06T21:46:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504748711941/12924365_1101386429920758_5779142669179465953_n.jpg.jpg
-publishDate: "2017-09-06T21:46:00-04:00"
-slug: lauren-lodgecampbell
-title: Lauren Lodge-Campbell
-website: http://laurenlodgecampbell.com/
----
++++
+date = "2017-09-06T21:46:00-04:00"
+discipline = "Soprano"
+lastmod = "2017-09-06T21:46:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504748711941/12924365_1101386429920758_5779142669179465953_n.jpg.jpg"
+publishDate = "2017-09-06T21:46:00-04:00"
+slug = "lauren-lodgecampbell"
+title = "Lauren Lodge-Campbell"
+website = "http://laurenlodgecampbell.com/"
++++
 
 Lauren Lodge-Campbell is a British/Australian soprano, studying on the Artist Masters course at the Guildhall School of Music & Drama with Janice Chapman and Yvonne Kenny. Lauren completed a BMus (Advanced Performance, 1st class) at the Queensland Conservatorium (Australia) in 2013, where she studied with Margaret Schindler. Awards while at the Conservatorium include the Linda Edith Allen Award for Singing (Postgraduate), the Ethel Osborn Scholarship, the Doreen Ord & Lyceum Club Prize, and both the Undergraduate and Postgraduate Elizabeth Muir Awards for Singing. 
 

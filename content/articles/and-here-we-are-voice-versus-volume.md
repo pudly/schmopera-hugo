@@ -1,29 +1,22 @@
----
-author:
-- authors/john-hohmann.md
-categories: Review
-date: "2018-05-10T20:54:00-04:00"
-lastmod: "2018-05-10T20:54:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999867472/SQimage1.jpg.jpg
-primary_image_credit: ' A lizard in a teapot and a deer, one of the shadow puppet
-  projections from The Experiment In Opera production of Matthew Welch''s And Here
-  We Are.  Photo: Jeanette Oi-Suk Yew'
-publishDate: "2018-05-10T20:54:00-04:00"
-related_companies:
-- scene/companies/experiments-in-opera.md
-short_description: 'The opera is billed as a shadow puppetry opera. That sounds interesting
-  but it is a concept that, while lending a certain artistic edge, falls short of
-  fulfilling the promise of collaborative storytelling. The impression it leaves is
-  more that of a crutch, which Welch&#039;s fine composition does not need. '
-slug: and-here-we-are-voice-versus-volume
-title: 'And Here We Are: voice versus volume'
----
++++
+author = ["authors/john-hohmann.md"]
+categories = "Review"
+date = "2018-05-10T20:54:00-04:00"
+lastmod = "2018-05-10T20:54:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999867472/SQimage1.jpg.jpg"
+primary_image_credit = " A lizard in a teapot and a deer, one of the shadow puppet projections from The Experiment In Opera production of Matthew Welch's And Here We Are.  Photo: Jeanette Oi-Suk Yew"
+publishDate = "2018-05-10T20:54:00-04:00"
+related_companies = ["scene/companies/experiments-in-opera.md"]
+short_description = "The opera is billed as a shadow puppetry opera. That sounds interesting but it is a concept that, while lending a certain artistic edge, falls short of fulfilling the promise of collaborative storytelling. The impression it leaves is more that of a crutch, which Welch&#039;s fine composition does not need. "
+slug = "and-here-we-are-voice-versus-volume"
+title = "And Here We Are: voice versus volume"
++++
 
 It's voice versus volume in [Experiments In Opera](/scene/companies/experiments-in-opera/)'s presentation of Matthew Welch's [*And Here We Are*](http://experimentsinopera.com/portfolio-item/and-here-we-are/), which he also conducts. The opera is based on a memoir of Edgar Kneedler, a detainee in a World War II interment camp. With few exceptions, the individual style and vocal quality that the three supporting singers bring to their roles, is compromised by the production's high-octane acoustics. Baritone Daniel Neer, who wrote the lumbering libretto, sings Kneedler who dominates as he supplies the narrative. One wonders if this didn't set out to be a series of soliloquies.
 
 The opera is billed as a shadow puppetry opera. That sounds interesting but it is a concept that, while lending a certain artistic edge, falls short of fulfilling the promise of collaborative storytelling. The impression it leaves is more that of a crutch, which Welch's fine composition does not need. 
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999788736/AHWAPressShot5.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999788736/AHWAPressShot5.jpg.jpg)
 <figcaption>*And Here We Are*, Experiments In Opera, 2018.</figcaption>
 </figure>
 
@@ -35,7 +28,7 @@ The image of the lizard in a teapot was an exception. It was presented as an acc
 
 When, for whatever reason, the puppeteers ceremoniously, and with some difficulty, took down the projection screen and replaced it with a miniature model of a proscenium stage, we were left to wonder if we had missed something along the way. The appearance within the proscenium of a line of dancers resembling the Rockettes alternating with that of a series of beetles offered no credible explanation.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999798039/AHWAElyseandDanielPhotobyAaronSiegel.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999798039/AHWAElyseandDanielPhotobyAaronSiegel.jpg.jpg)
 <figcaption>Elyse Kakacek and Daniel Neer in *And Here We Are*, Experiments In Opera, 2018. Photo by Aaron Siegel.</figcaption>
 </figure>
 
@@ -43,7 +36,7 @@ In the name of adventure or, more aptly, experimentation, Welsh plays with the b
 
 That the singers came through as much as they did was testimony to their commitment to the project. Mezzo soprano, Kate Maroney, who conjured a serene presence, was otherworldly as an enlightened if hallucinatory figure. Elyse Kakacek, a soprano who appeared to have uncommon brightness in her voice beyond the amplification, evoked a vivid fellow detainee in the internment camp. Chappel's character was created when he folded his arms across his chest and his powerful bass emerged. Neer was in a class by himself, which in this case, was not a positive.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999819613/IMG_4022_preview.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999819613/IMG_4022_preview.jpg.jpg)
 <figcaption>*And Here We Are*, Experiments In Opera, 2018.</figcaption>
 </figure>
 
@@ -51,7 +44,7 @@ Neer's baritone is large, flexible and expressive. His range is vast and his por
 
 It was difficult to fully evaluate the libretto because there were times when it was lost track of, our attention being diverted by the puppets. Also phrases crushed by distorted sound were missed. There was redundancy in the part of Kneedler, however. The degrading hardship had been firmly established. We heard too much and felt like we had heard some of it before. Despite the riveting instrumental work, the opera began to lag.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999807843/IMG_1962_preview.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525999807843/IMG_1962_preview.jpg.jpg)
 <figcaption>*And Here We Are*, Experiments In Opera, 2018.</figcaption>
 </figure>
 

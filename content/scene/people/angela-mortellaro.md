@@ -1,24 +1,19 @@
----
-date: "2017-11-13T18:01:00-05:00"
-discipline: Soprano
-lastmod: "2017-11-13T18:01:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546738860/media/2019/01/AngelaMortellaro.png
-publishDate: "2017-11-13T18:01:00-05:00"
-related_companies:
-- scene/companies/minnesota-opera.md
-- scene/companies/opera-north.md
-- scene/companies/florida-grand-opera.md
-- scene/companies/opera-philadelphia.md
-- scene/companies/lyric-opera-of-chicago.md
-slug: angela-mortellaro
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/AngieMortellaro
-title: Angela Mortellaro
-website: https://www.angelamortellaro.com/
----
++++
+date = "2017-11-13T18:01:00-05:00"
+discipline = "Soprano"
+lastmod = "2017-11-13T18:01:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546738860/media/2019/01/AngelaMortellaro.png"
+publishDate = "2017-11-13T18:01:00-05:00"
+related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/opera-north.md", "scene/companies/florida-grand-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/lyric-opera-of-chicago.md"]
+slug = "angela-mortellaro"
+title = "Angela Mortellaro"
+website = "https://www.angelamortellaro.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/AngieMortellaro"
+
++++
 Soprano Angela Mortellaro possesses a captivating stage presence and consistently delivers in a wide range of characters and vocal demands. She has sung leading roles in *Lucia di Lammermoor*, *Roméo et Juliette*, *Thaïs*, *La Traviata*, *L’elisir d’amore*, and has created roles in new operas including Charlie Parker’s *Yardbird*, *Silent Night* and *The Manchurian Candidate*.
  
 This season, Angela will debut Micaëla in *Carmen* with Central City Opera, and Susanna in Mozart’s *Le nozze di Figaro* with Minnesota Opera. She will be featured as Soprano Soloist with the Dayton Philharmonic presenting Ralph Vaughan Williams *A Sea Symphony*. Additionally, Angela will debut with Chicago Opera Theater in a double bill of Donizetti’s works, *Il Pigmalione* and *Rita*: his first work and one of his last. She will sing Galatea in *Il Pigmalione* and the title role in *Rita*.

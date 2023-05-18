@@ -1,35 +1,22 @@
----
-author:
-- authors/david-todd.md
-categories: How-To
-date: "2023-04-09T09:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: This article is one of a series called ["The Elton John Act"](/the-elton-john-act/),
-  which aim to demystify the process of becoming an operatic répétiteur and assist
-  anyone wishing to audition as one in the German-speaking operatic system. Here we
-  explore Mozart’s masterpiece, the finale of the second act of his opera _Le nozze
-  di Figaro_.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1680469430/media/2023/04/sqPianistseries_Nozze_ddkhfv.jpg
-primary_image_credit: Many experienced musicians argue that finale of Act II is some
-  of Mozart’s best music, and it’s not hard to see why.
-related_articles:
-- articles/pianist-s-progress-i-the-elton-john-act.md
-- articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md
-- articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md
-- articles/the-elton-john-act-iv-fiddly-for-the-fingers-the-smugglers-quintet-from-carmen.md
-related_companies: []
-related_people: []
-short_description: Just as you would coach a singer, make sure you are taking appropriate
-  breaths for the phrases you are singing, as otherwise it is here you will start
-  feeling ill! This will also have the advantage that you are not tempted to rush
-  a phrase because you are running out of breath.
-slug: the-elton-john-act-v-riding-the-rollercoaster-the-act-ii-finale-from-le-nozze-di-figaro
-title: 'The Elton John Act V: Riding the Rollercoaster – The Act II Finale from Le
-  nozze di Figaro'
-youtube_url: ""
----
++++
+author = ["authors/david-todd.md"]
+categories = "How-To"
+date = 2023-04-09T09:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = "This article is one of a series called [\"The Elton John Act\"](/the-elton-john-act/), which aim to demystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we explore Mozart’s masterpiece, the finale of the second act of his opera _Le nozze di Figaro_."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680469430/media/2023/04/sqPianistseries_Nozze_ddkhfv.jpg"
+primary_image_credit = "Many experienced musicians argue that finale of Act II is some of Mozart’s best music, and it’s not hard to see why."
+related_articles = ["articles/pianist-s-progress-i-the-elton-john-act.md", "articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md", "articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md", "articles/the-elton-john-act-iv-fiddly-for-the-fingers-the-smugglers-quintet-from-carmen.md"]
+related_companies = []
+related_people = []
+short_description = "Just as you would coach a singer, make sure you are taking appropriate breaths for the phrases you are singing, as otherwise it is here you will start feeling ill! This will also have the advantage that you are not tempted to rush a phrase because you are running out of breath."
+slug = "the-elton-john-act-v-riding-the-rollercoaster-the-act-ii-finale-from-le-nozze-di-figaro"
+title = "The Elton John Act V: Riding the Rollercoaster – The Act II Finale from Le nozze di Figaro"
+youtube_url = ""
+
++++
 * Opera: _Le nozze di Figaro_
 * Composer: Wolfgang Amadeus Mozart
 * Length of scene to learn:  Entire finale No. 16. Sometimes you will only be asked to play from Antonio's entrance (bar 467-605) and then from the Allegro assai to the end (bars 697-end).
@@ -48,9 +35,7 @@ Compared to the other extracts, I would say that the Mozart benefits the most fr
 
 The excerpt is also so long, that listening to recordings will help you to begin to understand how every section links together. Watching a film version (there are many available on YouTube) will also help you to understand the many events taking place, and will help you to come to your own interpretation of the piece. Like many pieces by well-known composers, you will find some people have very strict ideas that they like to preach, while other musicians place themselves on the complete opposite end of the spectrum. I remember once hearing one person argue that the pulse should stay exactly the same throughout the whole finale, while in his book _The Composer’s Advocate_, conductor Erich Leinsdorf includes a very detailed analysis of the finale and argues for a much more subtle interpretation of interlinking tempi.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1680469457/media/2023/04/Pianistsereis_Nozze_food_wziwzw.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680469457/media/2023/04/Pianistsereis_Nozze_food_wziwzw.jpg){{% /md %}}
 
 <figcaption>"Where on earth do I start with this musical feast?"</figcaption>  
 </figure>
@@ -71,9 +56,7 @@ The genius of this excerpt is that the music always expresses what the character
 
 In my experience, about half of répétiteurs attempt the thirds, though only a small percentage of them are able to execute them with a legato line that resembles how the orchestra would play them. I myself usually just play the upper line, though include the thirds where possible, which often tricks the ear into thinking there are more there than there actually are. (A teacher of mine once in fact told me to avoid all thirds and octaves in opera scores as they are too tricky, and will always be achieved at the expense of something more musical).
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1680469520/media/2023/04/Pianistseries_nozze_marathon_jolhdm.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680469520/media/2023/04/Pianistseries_nozze_marathon_jolhdm.jpg){{% /md %}}
 
 <figcaption>You really need a lot of stamina to get through this piece, and when I started to learn it (or when I return to it after a long time away) I have found myself feeling dizzy, because of how much I’m having to sing and concentrate on.</figcaption></figure>
 
@@ -91,9 +74,7 @@ It is always fun to spit out the flourishes in bar 177, which show the Count's i
 
 Figaro's G Major entrance at bar 328 is probably the easiest section of the finale to play, so as a result, make sure that it doesn’t begin to rush. Watch out here for details such as the longer quarter note bass note from bar 385 in comparison to the right hand eighth note. There is a lovely opportunity here to revel in the cunning of the Count with his "Con arte le carte convien qui scoprir". The count begins his questioning in the following Andante section, which must remain crisp and light – avoid any temptation to use the pedal here, as the articulation must be crystal clear. I find Bärenreiter’s rendering of bars 420-422 unplayable, so rewrote them with the help of the Peters edition, prioritising the lower melody, which cleverly works in counterpoint to the Count.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1680469536/media/2023/04/PIanistseries_Nozze_1_zudhex.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680469536/media/2023/04/PIanistseries_Nozze_1_zudhex.jpg){{% /md %}}
 
 <figcaption>There is so much richness of character here that you can exploit as you alternate between the Count, Countess and Susanna.</figcaption></figure>
 
@@ -109,8 +90,6 @@ In many auditions you will now be asked to skip to the Allegro Assai at bar 679,
 
 From the Più allegro (bar 783) it’s worth discussing some practicalities, which are important to sort out if we are to give our best. In the Bärenreiter edition, from here onwards there is one stave per page, so you’re going to have to plan your page turns exactly. This may include memorising certain bars towards the end of a page so that you don’t lose them with the panic of a turn. I find with these large staves, the text to sing is so far from the piano part that it is too difficult to read. From here to the end, I therefore wrote all the text just above the piano part, so that I don’t get sea-sick moving my head up and down like a crazy nodding dog. It is important that before the Prestissimo nothing gets quicker, so that you have just the right amount of space to put your foot on the gas here. As you get to the very end, I usually play bars 933-934 simply as arpeggios, because when the orchestra plays, the brass playing these is the most dominant sound that you hear.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1680469550/media/2023/04/Pianistseries_Nozze_marathoner_rd1q4j.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1680469550/media/2023/04/Pianistseries_Nozze_marathoner_rd1q4j.jpg){{% /md %}}
 
 <figcaption>When you get to the end, congratulations are in order. To play and sing this incredible scene is an amazing achievement, and hopefully you will feel confident to show off all the work you have done to an eager panel at your next audition!</figcaption></figure>

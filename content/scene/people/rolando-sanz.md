@@ -1,29 +1,27 @@
----
-date: "2016-02-03T18:15:00-05:00"
-discipline: Tenor
-lastmod: "2016-02-03T18:23:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454541077629/2016-02-03---Rolando-Sanz---Kristin-Hoebermann.jpg.jpg
-primary_image_credit: Kristin Hoebermann
-publishDate: "2016-02-03T18:15:00-05:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/florida-grand-opera.md
-slug: rolando-sanz
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/rolandosanztenor
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/rolandosanz
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/rolandosanztenor
-title: Rolando Sanz
-website: http://www.rolandosanz.com/
----
++++
+date = "2016-02-03T18:15:00-05:00"
+discipline = "Tenor"
+lastmod = "2016-02-03T18:23:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454541077629/2016-02-03---Rolando-Sanz---Kristin-Hoebermann.jpg.jpg"
+primary_image_credit = "Kristin Hoebermann"
+publishDate = "2016-02-03T18:15:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/florida-grand-opera.md"]
+slug = "rolando-sanz"
+title = "Rolando Sanz"
+website = "http://www.rolandosanz.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/rolandosanztenor"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/rolandosanz"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/rolandosanztenor"
++++
 
 Praised by *Opera News* for his “warm, strong, highly promising tenor," Rolando Sanz is thrilling audiences with his impeccable technique and musical depth, as well as his vocal “color and heartfelt interpretations” (Milwaukee Journal Sentinel). This season, he joins the roster of the Metropolitan Opera for their season-opening production of *Otello*. He also returns to Spoleto Festival USA as tenor soloist in Beethoven's *Choral Fantasy* and Mass in C Major, Washington Concert Opera as Don Gaspar in *La favorite*, and makes his Ash Lawn Opera debut in his signature role of Alfredo in *La traviata*. 
 

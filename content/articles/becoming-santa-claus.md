@@ -1,18 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2016-11-17T09:49:00+00:00"
-draft: true
-lastmod: "2016-11-17T09:59:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479376359261/2016-11-16---Karne-Almond---BSC.jpg.jpg
-primary_image_credit: A scene from "Becoming Santa Claus" at The Dallas Opera, 2015.
-  Photo by Karen Almond.
-related_companies:
-- scene/companies/the-dallas-opera.md
-slug: becoming-santa-claus
-title: Becoming Santa Claus
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2016-11-17T09:49:00+00:00"
+draft = true
+lastmod = "2016-11-17T09:59:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479376359261/2016-11-16---Karne-Almond---BSC.jpg.jpg"
+primary_image_credit = "A scene from \"Becoming Santa Claus\" at The Dallas Opera, 2015. Photo by Karen Almond."
+related_companies = ["scene/companies/the-dallas-opera.md"]
+slug = "becoming-santa-claus"
+title = "Becoming Santa Claus"
++++
 
 - DVD release of Mark Adamo's opera *Becoming Santa Claus*. 
 - Adamo wrote music and libretto
@@ -25,16 +22,16 @@ title: Becoming Santa Claus
 
 "Adamo creates a completely new legend for his Santa Claus and sets a Pixar-esque opera with an explosion of kaleidoscopic music." - [*Theater Jones*](http://www.theaterjones.com/ntx/reviews/20151207085805/2015-12-07/Dallas-Opera/Becoming-Santa-Claus)
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479376407438/2016-11-16---BSC---Karen-Almond-Blalock.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479376407438/2016-11-16---BSC---Karen-Almond-Blalock.jpg.jpg)
 <figcaption>Jonathan Blalock (Prince Claus) and Kevin Burdette (Ob) in *Becoming Santa Claus* at The Dallas Opera, 2015. Photo by Karen Almond.</figcaption>
 </figure>
 
 
-<figure data-type="image">
+<figure data-type="image">{{% md %}}
 <figcaption>in *Becoming Santa Claus* at The Dallas Opera, 2015. Photo by Karen Almond.</figcaption>
 </figure>
 
 
-<figure data-type="image">
+<figure data-type="image">{{% md %}}
 <figcaption>in *Becoming Santa Claus* at The Dallas Opera, 2015. Photo by Karen Almond.</figcaption>
 </figure>

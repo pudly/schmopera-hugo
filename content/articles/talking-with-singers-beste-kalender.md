@@ -1,30 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-01-06T11:24:00-05:00"
-lastmod: "2018-01-07T20:37:00-05:00"
-preamble: |-
-  This month, eight singers and two pianists will take the stage of Carnegie Hall to make a nod to the legendary Marilyn Horne and her remarkable mentorship of a generation of artists. Horne founded *The Song Continues*, an annual celebration of art song, and this year's [event on January 28](http://www.bestekalender.com/event/the-marilyn-horne-song-celebration-at-carnegie-hall/) will mark the end of her extraordinary tenure as an operatic inspiration.
-
-  Joining the likes of Warren Jones, Martin Katz, Isabel Leonard, Lester Lynch, and Nicole Cabell, is Toronto-based mezzo-soprano [Beste Kalender](/scene/people/beste-kalender/). We spoke with her about learning from Marilyn Horne, and the value of true artistic mentors.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515256257927/2018-01-05---Beste-sq.jpg.jpg
-primary_image_credit: 'Photo: Codrut Tolea.'
-publishDate: "2018-01-07T20:13:00-05:00"
-related_articles:
-- articles/talking-with-singers-clay-hilley.md
-- articles/talking-with-singers-daniela-mack.md
-related_companies:
-- scene/companies/music-academy-of-the-west-voice-program.md
-related_people:
-- scene/people/beste-kalender.md
-- scene/people/marilyn-horne.md
-short_description: '&quot;I know many colleagues who have met their favourite mentors,
-  got their first connections with the Metropolitan Opera, or connected with highly
-  regarded agents in the States during or after their performances at The Song Continues.&quot;'
-slug: talking-with-singers-beste-kalender
-title: 'Talking with singers: Beste Kalender'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-01-06T11:24:00-05:00"
+lastmod = "2018-01-07T20:37:00-05:00"
+preamble = "This month, eight singers and two pianists will take the stage of Carnegie Hall to make a nod to the legendary Marilyn Horne and her remarkable mentorship of a generation of artists. Horne founded *The Song Continues*, an annual celebration of art song, and this year's [event on January 28](http://www.bestekalender.com/event/the-marilyn-horne-song-celebration-at-carnegie-hall/) will mark the end of her extraordinary tenure as an operatic inspiration.\n\nJoining the likes of Warren Jones, Martin Katz, Isabel Leonard, Lester Lynch, and Nicole Cabell, is Toronto-based mezzo-soprano [Beste Kalender](/scene/people/beste-kalender/). We spoke with her about learning from Marilyn Horne, and the value of true artistic mentors."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515256257927/2018-01-05---Beste-sq.jpg.jpg"
+primary_image_credit = "Photo: Codrut Tolea."
+publishDate = "2018-01-07T20:13:00-05:00"
+related_articles = ["articles/talking-with-singers-clay-hilley.md","articles/talking-with-singers-daniela-mack.md"]
+related_companies = ["scene/companies/music-academy-of-the-west-voice-program.md"]
+related_people = ["scene/people/beste-kalender.md","scene/people/marilyn-horne.md"]
+short_description = "&quot;I know many colleagues who have met their favourite mentors, got their first connections with the Metropolitan Opera, or connected with highly regarded agents in the States during or after their performances at The Song Continues.&quot;"
+slug = "talking-with-singers-beste-kalender"
+title = "Talking with singers: Beste Kalender"
++++
 
 ## What sort of impact has Marilyn Horne and *The Song Continues* had on the current generation of professional singers?
 
@@ -34,9 +23,7 @@ For us performers, it is very crucial to be exposed to the right people at the r
 
 I know many colleagues who have met their favourite mentors, got their first connections with the Metropolitan Opera, or connected with highly regarded agents in the States during or after their performances at *The Song Continues*.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515256379728/2018-01-05---Canegierecitaldebut.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515256379728/2018-01-05---Canegierecitaldebut.jpg.jpg)
 <figcaption>Beste Kalender in recital with Warren Jones, Carnegie Hall.</figcaption>
 </figure>
 
@@ -44,9 +31,7 @@ I know many colleagues who have met their favourite mentors, got their first con
 
 Ms. Horne has always been my idol. I recall being overwhelmed with awe and admiration when I found myself auditioning for the Music Academy of The West in front of her 4 years ago. Our mentor-student relationship started that year but we had developed a deep connection the year after, when I was offered the lead role at Music Academy of The West's production of *La Cenerentola*. I have had the privilege to prepare my first Angelina under Ms. Horne's guidance, and our hard work paid off.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515256447826/2018-01-05---CinderDress__151.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515256447826/2018-01-05---CinderDress__151.jpg.jpg)
 <figcaption>Beste Kalender in *La Cenerentola*, Music Academy of the West.</figcaption>
 </figure>
 
@@ -56,9 +41,7 @@ The following year, Ms. Horne and Carnegie Hall invited me to perform a shared S
 
 In addition to her professional mentorship, she is such an inspiration with her warmth, delightful personality, and love for people and beautiful music. I feel quite blessed to have her in my life.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515256427875/FB_IMG_1444073542482.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515256427875/FB_IMG_1444073542482.jpg.jpg)
 <figcaption>Beste Kalender with Marilyn Horne.</figcaption>
 </figure>
 

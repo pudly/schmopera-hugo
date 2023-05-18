@@ -1,28 +1,23 @@
----
-date: "2015-04-06T22:38:00-04:00"
-discipline: Soprano
-lastmod: "2015-05-03T23:59:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374019815/B-Allison-PRINT.jpg.jpg
-primary_image_credit: Kevin Clark
-publishDate: "2015-04-06T22:38:00-04:00"
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-- scene/companies/pacific-opera-victoria.md
-- scene/companies/edmonton-opera.md
-slug: betty-waynne-allison
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/bettywaynneallison
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/BettyWaynne
-title: Betty Waynne Allison
-website: http://www.bettywaynneallison.com/Betty_Waynne_Allison/Home.html
----
++++
+date = "2015-04-06T22:38:00-04:00"
+discipline = "Soprano"
+lastmod = "2015-05-03T23:59:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374019815/B-Allison-PRINT.jpg.jpg"
+primary_image_credit = "Kevin Clark"
+publishDate = "2015-04-06T22:38:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/pacific-opera-victoria.md","scene/companies/edmonton-opera.md"]
+slug = "betty-waynne-allison"
+title = "Betty Waynne Allison"
+website = "http://www.bettywaynneallison.com/Betty_Waynne_Allison/Home.html"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/bettywaynneallison"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/BettyWaynne"
++++
 
 <p>
 	Canadian soprano, Betty Waynne Allison is becoming known to audiences as one who "combines it all -- voice, acting ability, presence and beauty -- in one highly impressive package" (Toronto Sun).

@@ -1,32 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2014-12-28T13:00:00-05:00"
-lastmod: "2015-04-12T12:09:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428853512946/166-copy_Fotor.jpg.jpg
-publishDate: "2014-12-28T13:00:00-05:00"
-related_articles:
-- articles/this-weekend-chelsea-moor-castle.md
-- articles/dont-miss-sasha-regans-allmale-mikado.md
-- articles/dont-miss-the-chocolate-soldier.md
-- articles/tots-candide-its-very-sincere-and-passionate-.md
-- articles/technicolour-gs-enos-iolanthe.md
-related_companies:
-- scene/companies/toronto-operetta-theatre.md
-related_people:
-- scene/people/adrian-kramer.md
-- scene/people/lucia-cesaroni.md
-- scene/people/giles-tomkins.md
-- scene/people/gregory-finney.md
-short_description: Last night I went to see Toronto Operetta Theatre‘s production
-  of The Mikado at the St. Lawrence Centre for the Arts. Neither Gilbert nor Sullivan
-  show up frequently on my list of must-sees, due to personal taste and perhaps too
-  many earworms (#iamtheverymodelofamodernmajorgeneral). But I had much faith (and
-  a few friends) in the Canadian cast, and I absolutely wasn’t disappointed.
-slug: in-review-ah-mikado
-title: 'In review: Ah! Mikado!'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2014-12-28T13:00:00-05:00"
+lastmod = "2015-04-12T12:09:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428853512946/166-copy_Fotor.jpg.jpg"
+publishDate = "2014-12-28T13:00:00-05:00"
+related_articles = ["articles/this-weekend-chelsea-moor-castle.md","articles/dont-miss-sasha-regans-allmale-mikado.md","articles/dont-miss-the-chocolate-soldier.md","articles/tots-candide-its-very-sincere-and-passionate-.md","articles/technicolour-gs-enos-iolanthe.md"]
+related_companies = ["scene/companies/toronto-operetta-theatre.md"]
+related_people = ["scene/people/adrian-kramer.md","scene/people/lucia-cesaroni.md","scene/people/giles-tomkins.md","scene/people/gregory-finney.md"]
+short_description = "Last night I went to see Toronto Operetta Theatre‘s production of The Mikado at the St. Lawrence Centre for the Arts. Neither Gilbert nor Sullivan show up frequently on my list of must-sees, due to personal taste and perhaps too many earworms (#iamtheverymodelofamodernmajorgeneral). But I had much faith (and a few friends) in the Canadian cast, and I absolutely wasn’t disappointed."
+slug = "in-review-ah-mikado"
+title = "In review: Ah! Mikado!"
++++
 
 <p class="intro">
 	Last night I went to see 

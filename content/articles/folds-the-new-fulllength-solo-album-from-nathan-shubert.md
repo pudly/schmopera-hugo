@@ -1,22 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-01-06T10:05:00+00:00"
-lastmod: "2017-01-06T14:14:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483696994728/2017-01-07---Folds---Cover.jpg.jpg
-publishDate: "2017-01-06T14:14:00+00:00"
-related_articles:
-- articles/everything-i-know-about-the-piano-i-learned-from-singers.md
-short_description: There&#039;s an appealing subtlety to Folds, a muted chain of pieces
-  that wavers between improvisation and a feeling of familiarity. &quot;Expressive
-  and accessible, Nathan wrote these pieces purely for the pleasure and beauty inherent
-  in them, not as exercises in composerly rigor or pianistic dexterity. Free of external
-  meanings, the pieces take on their own deeply implicit, wordless significance. These
-  pieces became Folds.&quot;
-slug: folds-the-new-full-length-solo-album-from-nathan-shubert
-title: 'Folds: the new full-length solo album from Nathan Shubert'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-01-06T10:05:00+00:00"
+lastmod = "2017-01-06T14:14:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483696994728/2017-01-07---Folds---Cover.jpg.jpg"
+publishDate = "2017-01-06T14:14:00+00:00"
+related_articles = ["articles/everything-i-know-about-the-piano-i-learned-from-singers.md"]
+short_description = "There&#039;s an appealing subtlety to Folds, a muted chain of pieces that wavers between improvisation and a feeling of familiarity. &quot;Expressive and accessible, Nathan wrote these pieces purely for the pleasure and beauty inherent in them, not as exercises in composerly rigor or pianistic dexterity. Free of external meanings, the pieces take on their own deeply implicit, wordless significance. These pieces became Folds.&quot;"
+slug = "folds-the-new-full-length-solo-album-from-nathan-shubert"
+title = "Folds: the new full-length solo album from Nathan Shubert"
+
++++
 We first heard the music of Vancouver-based pianist Nathan Shubert on [Official Piano Day 2016](/nathan-shubert-makes-the-most-of-official-piano-day/), when he released his "Saga Norén, Länskrim, Malmö", including a [live studio video](https://youtu.be/x8OG3fY-W4Y).
 
 Later this month, Shubert releases *Folds*, his debut full-length solo album of original modern classical music. With a rich history of making music in Vancouver (including collaborations with [No Sinner](https://nosinner.bandcamp.com/), [David Newberry](http://davidnewberrymusic.com/), [Jody Glenham](https://jodyglenham.bandcamp.com/), [Lydia Hol](http://www.lydiahol.com/) and [Minto](https://minto.bandcamp.com/)), Shubert steps into the solo spotlight. 

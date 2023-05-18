@@ -1,27 +1,18 @@
----
-author:
-- authors/loren-lester.md
-categories: Review
-date: "2018-11-18T17:15:00-05:00"
-lastmod: "2018-11-19T22:10:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642885497/sq181112_juilliard_1160.jpg.jpg
-primary_image_credit: 'Anneliese Klenetsky (The Governess), Britt Hewitt (Miles),
-  Charles Sy (Peter Quint) in The Turn of the Screw, The Juilliard School, 2018. Photo:
-  Rosalie O''Connor.'
-publishDate: "2018-11-19T10:57:00-05:00"
-related_articles:
-- articles/standout-performances-in-ava-doublebill.md
-related_companies:
-- scene/companies/the-juilliard-school.md
-related_people:
-- scene/people/charles-sy.md
-short_description: The singers are works-in-excellent-progress, with the exception
-  of Mr. Sy who is already &quot;ready for the big time.&quot; Mr. Sy possesses an
-  extraordinary tenor instrument that switches easily and constantly from forte to
-  pianissimo, and from full voice to falsetto.
-slug: Julliards-turn
-title: Juilliard&#039;s Turn
----
++++
+author = ["authors/loren-lester.md"]
+categories = "Review"
+date = "2018-11-18T17:15:00-05:00"
+lastmod = "2018-11-19T22:10:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642885497/sq181112_juilliard_1160.jpg.jpg"
+primary_image_credit = "Anneliese Klenetsky (The Governess), Britt Hewitt (Miles), Charles Sy (Peter Quint) in The Turn of the Screw, The Juilliard School, 2018. Photo: Rosalie O'Connor."
+publishDate = "2018-11-19T10:57:00-05:00"
+related_articles = ["articles/standout-performances-in-ava-doublebill.md"]
+related_companies = ["scene/companies/the-juilliard-school.md"]
+related_people = ["scene/people/charles-sy.md"]
+short_description = "The singers are works-in-excellent-progress, with the exception of Mr. Sy who is already &quot;ready for the big time.&quot; Mr. Sy possesses an extraordinary tenor instrument that switches easily and constantly from forte to pianissimo, and from full voice to falsetto."
+slug = "Julliards-turn"
+title = "Juilliard&#039;s Turn"
++++
 
 A few steps from the Met at Lincoln Center you will find a second opera company – this one at The Juilliard School. There you will find graduate voice students working on their craft and some of them, no doubt, will one day graduate to the opera house across the courtyard. It's an unusual proximity. It's as if there was a AAA baseball team a few steps from Yankee Stadium. 
 
@@ -35,9 +26,7 @@ An unnamed Governess (Anneliese Klenetsky) arrives at the estate where she has b
 
 It's a great premise for a theatre piece and Mr. Britten is the perfect composer for it.  His signature atonal style makes everything even spookier.  He constantly mitigates the suspenseful strings and percussion with the lightness of a harp and celesta that musically remind us that this is also a story about the vulnerability of children. There are some beautiful quartets and duets which need virtually no instrumental accompaniment at all. In particular, the duet "What a clever boy," between the Governess and Mrs. Grose features a breathtaking harmony.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642897191/181112_juilliard_0612.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642897191/181112_juilliard_0612.jpg.jpg)
 <figcaption>Anneliese Klenetsky (The Governess), Charles Sy (Peter Quint) in *The Turn of the Screw*, The Juilliard School, 2018. Photo: Rosalie O'Connor.</figcaption>
 </figure>
 
@@ -45,9 +34,7 @@ The singers are works-in-excellent-progress, with the exception of Mr. Sy who is
 
 Ms. Hewitt, as the boy Miles, also accomplishes a difficult task. A well-trained soprano, Ms. Hewitt is called upon to sing with straight tones, devoid of any vibrato, and occasionally ever-so-slightly off-pitch – what an "untrained boy" might sound like. Not easy. Brava.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642927223/181112_juilliard_1169.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642927223/181112_juilliard_1169.jpg.jpg)
 <figcaption>Chance Jonas-O’Toole (The Prologue), Anneliese Klenetsky (The Governess), Charles Sy (Peter Quint) in *The Turn of the Screw*, The Juilliard School, 2018. Photo: Rosalie O'Connor.</figcaption>
 </figure>
 
@@ -55,9 +42,7 @@ The rest of the cast is solid and believable. Ms. Klenetsky is an effectively te
 
 Though the singers are all still "in training", not so with the phenomenal thirteen-piece chamber orchestra of Juilliard students under the baton of Steven Osgood. There's nowhere to hide in this score. With the exception of combinations from the five-piece string section, the score is intentionally non-orchestral and is essentially a series of solos from the other instruments with piano, celesta, flute, harp, piccolo, oboe, etc. Each of the musicians took turns providing multiple stellar moments. Percussionist Harrison Honor was particularly masterful when he played the timpani and the "church bells" which are the focus of an entire scene in the second act.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642905930/181112_juilliard_0747.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642905930/181112_juilliard_0747.jpg.jpg)
 <figcaption>Joan Hofmeyr (Flora), Britt Hewitt (Miles), Charles Sy (Peter Quint), Rebecca Pedersen (Miss Jessel) in *The Turn of the Screw*, The Juilliard School, 2018. Photo: Rosalie O'Connor.</figcaption>
 </figure>
 
@@ -65,9 +50,7 @@ The lighting from Kate Ashton really sets the mood – she has transformed stage
 
 While director John Giampietro shares in all of the praise written so far, he ultimately gets in the way of his own production. There were a number of head-scratching choices he made that served as monumental distractions. The character of The Prologue (Chance Jonas-O'Toole) is supposed to be just that – a prologue that is present before the action of the play. Instead, Mr. Giampietro has Mr. Jonas-O'Toole wander in and out of many scenes (sometimes simply for practical reasons as he brings in important props and set pieces.) Dressed in a white wig and long white coat, however, he's never able to disappear into the scenery. This really kills the climax of the play when the Governess is chilled by the prospect of being all alone on the enormous estate with only Miles and the evil ghost of Peter Quint. What is the Prologue doing in that scene upstaging her? And what's with the flying piano during the opera's most stirring duet?
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642914065/181112_juilliard_0896.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542642914065/181112_juilliard_0896.jpg.jpg)
 <figcaption>Anneliese Klenetsky (The Governess), Rebecca Pedersen (Miss Jessel) in *The Turn of the Screw*, The Juilliard School, 2018. Photo: Rosalie O'Connor.</figcaption>
 </figure>
 

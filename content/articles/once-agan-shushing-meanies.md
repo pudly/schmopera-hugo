@@ -1,31 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-02-10T15:38:00+00:00"
-lastmod: "2016-03-01T16:03:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455120643979/2016-02-10---Pinecone.jpg.jpg
-publishDate: "2016-02-10T21:50:00+00:00"
-related_articles:
-- articles/true-stories-the-critic-who-loves-opera-even-more-now.md
-- articles/in-review-lucia-di-lammermoor-at-roh.md
-- articles/gimmicks-tactics-discouraging-the-new-.md
-- articles/opera-meanies-the-august-edition.md
-- articles/bodyshaming-productselling-knowing-the-difference.md
-related_companies:
-- scene/companies/english-national-opera.md
-related_people:
-- scene/people/tara-erraught.md
-- scene/people/alice-coote.md
-short_description: It&#039;s almost a good thing that we now have this example of
-  critics body-shaming a male singer, since we can put to rest some of the sexism
-  claims that accompany criticism of women onstage. I&#039;ve often thought that when
-  you boil down an objection about a fat person falling in love, or some dumb variation
-  on this &quot;problem&quot;, you really just peel back the truth about the objector,
-  who&#039;s letting the world know that they actually feel this way.
-slug: once-agan-shushing-meanies
-title: Once again, shushing meanies
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-02-10T15:38:00+00:00"
+lastmod = "2016-03-01T16:03:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455120643979/2016-02-10---Pinecone.jpg.jpg"
+publishDate = "2016-02-10T21:50:00+00:00"
+related_articles = ["articles/true-stories-the-critic-who-loves-opera-even-more-now.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/gimmicks-tactics-discouraging-the-new-.md","articles/opera-meanies-the-august-edition.md","articles/bodyshaming-productselling-knowing-the-difference.md"]
+related_companies = ["scene/companies/english-national-opera.md"]
+related_people = ["scene/people/tara-erraught.md","scene/people/alice-coote.md"]
+short_description = "It&#039;s almost a good thing that we now have this example of critics body-shaming a male singer, since we can put to rest some of the sexism claims that accompany criticism of women onstage. I&#039;ve often thought that when you boil down an objection about a fat person falling in love, or some dumb variation on this &quot;problem&quot;, you really just peel back the truth about the objector, who&#039;s letting the world know that they actually feel this way."
+slug = "once-agan-shushing-meanies"
+title = "Once again, shushing meanies"
++++
 
 We've written before about opera critics, and how they can be mean folks sometimes. Two summers ago, critics who saw *Der Rosenkavalier* at Glyndebourne were griping about mezzo-soprano [Tara Erraught's body](/when-critics-are-jerks/), calling her "dumpy" and "stocky".
 

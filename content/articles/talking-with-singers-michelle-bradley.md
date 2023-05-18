@@ -1,34 +1,22 @@
----
-author:
-- authors/eva-cahen.md
-categories: Interview
-date: "2019-10-17T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: San Diego Opera's [production of Aida](https://www.sdopera.org/season/2019-2020-season/aida),
-  starring Michelle Bradley in the title role, runs October 19-27.
-preamble: American soprano [Michelle Bradley](/scene/people/michelle-bradley/) is
-  opening the San Diego Opera 2019-2020 season singing the leading role in a new theatrical
-  production of [_Aida_](https://www.sdopera.org/season/2019-2020-season/aida). The
-  production features set elements and costumes with Joseph Colaneri as the conductor
-  and Alan Hicks as the director. It runs for four performances, October 19-27.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571189076/media/2019/10/sqDarioAcosta-MichelleBradley_lhdob7.jpg
-primary_image_credit: 'Photo: Dario Acosta.'
-related_articles:
-- articles/talking-with-singers-sondra-radvanovsky.md
-- articles/talking-with-singers-christine-goerke.md
-related_companies:
-- scene/companies/san-diego-opera.md
-related_people:
-- scene/people/michelle-bradley.md
-short_description: '"The hard part is when I lock myself in a room and go over the
-  score, figure out who the character is, make sure I get every pianissimo and forte,
-  and accent and legato. When I come here, it''s already engrained in me. I can just
-  go where the director tells me to go."'
-slug: talking-with-singers-michelle-bradley
-title: 'Talking with singers: Michelle Bradley'
-youtube_url: ""
----
++++
+author = ["authors/eva-cahen.md"]
+categories = "Interview"
+date = "2019-10-17T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = "San Diego Opera's [production of Aida](https://www.sdopera.org/season/2019-2020-season/aida), starring Michelle Bradley in the title role, runs October 19-27."
+preamble = "American soprano [Michelle Bradley](/scene/people/michelle-bradley/) is opening the San Diego Opera 2019-2020 season singing the leading role in a new theatrical production of [_Aida_](https://www.sdopera.org/season/2019-2020-season/aida). The production features set elements and costumes with Joseph Colaneri as the conductor and Alan Hicks as the director. It runs for four performances, October 19-27."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571189076/media/2019/10/sqDarioAcosta-MichelleBradley_lhdob7.jpg"
+primary_image_credit = "Photo: Dario Acosta."
+related_articles = ["articles/talking-with-singers-sondra-radvanovsky.md", "articles/talking-with-singers-christine-goerke.md"]
+related_companies = ["scene/companies/san-diego-opera.md"]
+related_people = ["scene/people/michelle-bradley.md"]
+short_description = "\"The hard part is when I lock myself in a room and go over the score, figure out who the character is, make sure I get every pianissimo and forte, and accent and legato. When I come here, it's already engrained in me. I can just go where the director tells me to go.\""
+slug = "talking-with-singers-michelle-bradley"
+title = "Talking with singers: Michelle Bradley"
+youtube_url = ""
+
++++
 ## On singing Aida
 
 I've done Aida in Nancy and in Erfurt. I'm getting this role under my belt but it's still a new experience each time. Different conductors do different things and you realize there are things you never saw before. I'm looking forward to how I'm going to develop her this time.
@@ -37,9 +25,7 @@ I already know the role so I can focus on the new blocking this time. I have a w
 
 I still put the same amount of energy into preparation, whether it's a recital in gowns and tuxedos or if it's a full version with costumes and a set. I give it my all regardless because that's what I have to do. \[The rehearsal\] is the easy part. The hard part is when I lock myself in a room and go over the score, figure out who the character is, make sure I get every pianissimo and forte, and accent and legato. When I come here, it's already engrained in me. I can just go where the director tells me to go.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1571357962/media/2019/10/SDOAida2C8A7261_albizf.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571357962/media/2019/10/SDOAida2C8A7261_albizf.jpg){{% /md %}}
 
 <figcaption>Soprano Michelle Bradley is Aida in San Diego Opera's AIDA, October, 2019. Photo by Edward Wilensky.</figcaption>
 
@@ -65,9 +51,7 @@ Diana Soviero put the icing on the cake. I learned the pianissimi I can do from 
 
 Marilyn Horne, the wonderful mezzo soprano; I did the Music Academy of the West with her in the summer of 2014. That was the pivotal moment that changed my life. Since then, I've been going up and up. She's been a wonderful support.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1571189182/media/2019/10/DarioAcosta-MichelleBradley3_vsyeae.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571189182/media/2019/10/DarioAcosta-MichelleBradley3_vsyeae.jpg){{% /md %}}
 
 <figcaption>Michelle Bradley, soprano. Photo: Dario Acosta.</figcaption>
 
@@ -101,9 +85,7 @@ I love to sing. I've been doing it ever since I can remember. My parents were in
 
 From the time I was running around in diapers, my Dad would gather us all in the living room and we would sing church hymns. I have three brothers and my two older brothers would sing parts. I would just imitate until I got old enough. And then I was teaching my family songs and playing piano for them. It became a part of my life. It became something that helped me make my mark in the world. It helped people to see me and take me seriously.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1571358049/media/2019/10/SDOAida2C8A7846_lezuz9.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571358049/media/2019/10/SDOAida2C8A7846_lezuz9.jpg){{% /md %}}
 
 <figcaption>Soprano Michelle Bradley is Aida in San Diego Opera's AIDA, October, 2019. Photo by Edward Wilensky.</figcaption>
 
@@ -121,9 +103,7 @@ I was going through a tough time when I started working with Lois Alba. That's h
 
 Afterwards, she would take me to the kitchen and make me something to eat, and because I was from Kentucky, she would give me a little taste of Bourbon Whiskey and send me on my way.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1571189165/media/2019/10/DarioAcosta-MichelleBradley2_pgwlh0.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571189165/media/2019/10/DarioAcosta-MichelleBradley2_pgwlh0.jpg){{% /md %}}
 
 <figcaption>Michelle Bradley, soprano. Photo: Dario Acosta.</figcaption>
 
@@ -145,9 +125,7 @@ I've never met Leontyne Price but I really wish it would happen. I'm heartbroken
 
 I envy anybody who got to see Jessye Norman or Leontyne Price in their prime. Leontyne's last _Aida_ at the Met. Sometimes I wonder what I bring after all that. What does this little country girl from Kentucky have to give?
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1571358029/media/2019/10/SDOAida2C8A8130_kbmr1l.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1571358029/media/2019/10/SDOAida2C8A8130_kbmr1l.jpg){{% /md %}}
 
 <figcaption>Soprano Michelle Bradley is Aida in her North American role debut and tenor Carl Tanner is Radames in San Diego Opera's AIDA, October, 2019. Photo by Edward Wilensky.</figcaption>
 

@@ -1,28 +1,22 @@
----
-date: "2019-02-20T01:46:50+00:00"
-discipline: Baritone
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550626846/media/2019/02/PaulLaRosa.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/fort-worth-opera.md
-- scene/companies/san-diego-opera.md
-- scene/companies/lyric-opera-of-kansas-city.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/glimmerglass-festival.md
-- scene/companies/the-juilliard-school.md
-- scene/companies/merola-opera-program.md
-slug: paul-la-rosa
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/paullarosabaritone
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/PaulSLaRosa
-title: Paul La Rosa
-website: http://www.paullarosabaritone.com/
----
++++
+date = "2019-02-20T01:46:50+00:00"
+discipline = "Baritone"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550626846/media/2019/02/PaulLaRosa.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/fort-worth-opera.md", "scene/companies/san-diego-opera.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/glimmerglass-festival.md", "scene/companies/the-juilliard-school.md", "scene/companies/merola-opera-program.md"]
+slug = "paul-la-rosa"
+title = "Paul La Rosa"
+website = "http://www.paullarosabaritone.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/paullarosabaritone"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/PaulSLaRosa"
+
++++
 American baritone Paul La Rosa continues to gain recognition on the strengths of his vocal appeal and charismatic stage presence. He has earned critical praise for "a wonderful touch for physical comedy, a strong and beautiful voice, and the dancing skills that one typically encounters on Broadway". 2018 witnesses Mr. La Rosa's return to San Diego Opera and his debut with Eugene Opera, for the respective company premieres of Piazzolla's tango-opera _María de Buenos Aires_, in the role of El Payador, and his Princeton Festival debut as Sharpless in _Madama Butterfly_. Mr. La Rosa looks forward to his 2019 role and company debuts with Gulfshore Opera (Germont in _La Traviata_ and Malatesta in _Don Pasquale_) as well as his Fort Worth Opera debut reprising the role of Enrique in Martinez's _El pasado nunca se termina_, which he created in 2015.
 
 In the summer of 2017, Mr. La Rosa made his debut with the Brooklyn Art Song Society at the Marcella Sembrich Opera Museum in Bolton Landing, NY, performing excerpts from Mahler's _Des Knaben Wunderhorn_. Throughout the autumn, Mr. La Rosa rejoined Brooklyn Art Song Society for a French mélodie program dedicated to Chausson and Duparc, and bowed his debut with New York's Bare Opera as Figaro in the two-hour Mozart / Rossini pastiche _Figaro/Figaro!_

@@ -1,25 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2017-02-25T16:41:00+00:00"
-lastmod: "2017-02-26T11:21:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488043709244/DVSzPkL_LBhgb0ApqobAE8qnbneRS0pwhChWCSSr7kWCdc1a7NQQJvz6C3z1KjV2s1ocTbVnC-ZxGn5p0OysjcrWU_4%3Dw1360-h1360
-primary_image_credit: 'Photo: Marco Borggreve.'
-publishDate: "2017-02-26T11:21:00+00:00"
-related_articles:
-- articles/in-review-jamie-barton-at-wigmore-hall.md
-- articles/in-review-tim-mead-james-baillieu-in-recital.md
-related_people:
-- scene/people/matthias-goerne.md
-short_description: Not only did Hinterhäuser make for an uncomfortable start to a
-  recital, but he seemed to behave it poor, selfish taste. Goerne seemed prepared
-  to continue singing, even if Hinterhäuser needed to scramble to save the missed
-  page-turn; yet this pianist decided to stop the whole thing entirely, draw attention
-  to the human error that may have happened beside him, and force Goerne to restart.
-slug: at-arms-length-goerne-hinterhauser-in-recital
-title: 'At arm&#039;s length: Goerne &amp; Hinterhäuser in recital'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2017-02-25T16:41:00+00:00"
+lastmod = "2017-02-26T11:21:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488043709244/DVSzPkL_LBhgb0ApqobAE8qnbneRS0pwhChWCSSr7kWCdc1a7NQQJvz6C3z1KjV2s1ocTbVnC-ZxGn5p0OysjcrWU_4%3Dw1360-h1360"
+primary_image_credit = "Photo: Marco Borggreve."
+publishDate = "2017-02-26T11:21:00+00:00"
+related_articles = ["articles/in-review-jamie-barton-at-wigmore-hall.md","articles/in-review-tim-mead-james-baillieu-in-recital.md"]
+related_people = ["scene/people/matthias-goerne.md"]
+short_description = "Not only did Hinterhäuser make for an uncomfortable start to a recital, but he seemed to behave it poor, selfish taste. Goerne seemed prepared to continue singing, even if Hinterhäuser needed to scramble to save the missed page-turn; yet this pianist decided to stop the whole thing entirely, draw attention to the human error that may have happened beside him, and force Goerne to restart."
+slug = "at-arms-length-goerne-hinterhauser-in-recital"
+title = "At arm&#039;s length: Goerne &amp; Hinterhäuser in recital"
++++
 
 German baritone [Matthias Goerne](/scene/people/matthias-goerne/) returned to Wigmore Hall on Friday evening, for a recital of Lieder by Gustav Mahler and Hanns Eisler with pianist Markus Hinterhäuser. Each time we've heard him, [Goerne brings *gravitas* to the stage](http://www.schmopera.com/recitals-that-stick-matthias-goerne-at-wigmore-hall/); he creates ingenious recital programmes and seems to deliver no note without great thought.
 

@@ -1,29 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-08-17T11:56:00+01:00"
-lastmod: "2016-08-17T13:47:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471435874613/2016-08-17---Adele-Oakland.jpg.jpg
-primary_image_credit: Adele at Oracle Arena, Oakland, August 2, 2016. Photo by Alexandra
-  Waespi.
-publishDate: "2016-08-17T13:33:00+01:00"
-related_articles:
-- articles/to-dance-for-grandma-or-the-spontaneity-question.md
-- articles/10-pop-singers-with-pipes.md
-- articles/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys.md
-- articles/grigolo-rogue-teacher.md
-related_people:
-- scene/people/peter-mcgillivray.md
-short_description: 'It must be a strange thing to know that you&#039;re an artist
-  who&#039;s in demand enough to be on a realistic list of artists who may sing at
-  an event like the Superbowl, but that you&#039;re not the kind of artist to give
-  a good show in that context. Artists of all calibres, and particularly opera singers,
-  get put in plenty of little situations where the idea of the gig is better than
-  the reality. '
-slug: adele-knowing-your-audience
-title: Adele &amp; knowing your audience
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-08-17T11:56:00+01:00"
+lastmod = "2016-08-17T13:47:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471435874613/2016-08-17---Adele-Oakland.jpg.jpg"
+primary_image_credit = "Adele at Oracle Arena, Oakland, August 2, 2016. Photo by Alexandra Waespi."
+publishDate = "2016-08-17T13:33:00+01:00"
+related_articles = ["articles/to-dance-for-grandma-or-the-spontaneity-question.md","articles/10-pop-singers-with-pipes.md","articles/13-more-pop-singers-with-pipes-lets-hear-it-for-the-boys.md","articles/grigolo-rogue-teacher.md"]
+related_people = ["scene/people/peter-mcgillivray.md"]
+short_description = "It must be a strange thing to know that you&#039;re an artist who&#039;s in demand enough to be on a realistic list of artists who may sing at an event like the Superbowl, but that you&#039;re not the kind of artist to give a good show in that context. Artists of all calibres, and particularly opera singers, get put in plenty of little situations where the idea of the gig is better than the reality. "
+slug = "adele-knowing-your-audience"
+title = "Adele &amp; knowing your audience"
++++
 
 The reasons to love Adele are plentiful: fab pipes, songs that stick in your head (in the good way), and the calm, humble demeanour of a real pro at work. One of our favourites was after some technical glitches during her performance at the 2016 Grammy Awards:
 

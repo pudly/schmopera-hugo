@@ -1,21 +1,19 @@
----
-date: "2016-04-08T14:49:00+01:00"
-discipline: Conductor
-draft: true
-lastmod: "2016-04-08T14:49:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460123259440/2016-04-08---Ian-Page-c-Sheila-Rock.jpg.jpg
-primary_image_credit: Sheila Rock
-related_companies:
-- scene/companies/classical-opera.md
-slug: ian-page
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/IanPageMozart
-title: Ian Page
-website: http://www.classicalopera.co.uk/about/our-performers/ian-page/
----
++++
+date = "2016-04-08T14:49:00+01:00"
+discipline = "Conductor"
+draft = true
+lastmod = "2016-04-08T14:49:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460123259440/2016-04-08---Ian-Page-c-Sheila-Rock.jpg.jpg"
+primary_image_credit = "Sheila Rock"
+related_companies = ["scene/companies/classical-opera.md"]
+slug = "ian-page"
+title = "Ian Page"
+website = "http://www.classicalopera.co.uk/about/our-performers/ian-page/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/IanPageMozart"
++++
 
 Ian Page  is the founder, conductor and artistic director of Classical Opera. He began his musical education as a chorister at Westminster Abbey, and studied English Literature at the University of York before completing his studies at the Royal Academy of Music in London. At the start of his career he worked on the music staff at Scottish Opera, Opera Factory, Drottningholm and Glyndebourne, working with such conductors as Sir Alexander Gibson, Nicholas McGegan, Mark Wigglesworth, Ivor Bolton and Sir Charles Mackerras.
 

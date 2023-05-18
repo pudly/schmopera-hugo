@@ -1,27 +1,18 @@
----
-author:
-- authors/jeremy-hirsch.md
-categories: Review
-date: "2018-01-17T21:02:00-05:00"
-lastmod: "2018-01-18T09:09:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240460857/sq---Echo_Drift_Baranova-7020.jpg.jpg
-primary_image_credit: 'Blythe Gaissert in The Echo Drift, Prototype Festival, 2018.
-  Photo: Maria Baranova.'
-publishDate: "2018-01-17T21:02:00-05:00"
-related_articles:
-- articles/an-operatic-horror-story-proving-up.md
-related_companies:
-- scene/companies/beth-morrison-projects.md
-- scene/companies/american-opera-projects.md
-related_people:
-- scene/people/blythe-gaissert.md
-short_description: The moth, appealingly mesmerizing, could have a spin-off opera
-  all to itself. Created by individual acrylic paintings set in stop-motion animation,
-  it moves like an insect shadow ricocheting off a porch light on a chilly autumn
-  night in the country.
-slug: the-start-of-something-powerful-the-echo-drift
-title: 'The start of something powerful: The Echo Drift'
----
++++
+author = ["authors/jeremy-hirsch.md"]
+categories = "Review"
+date = "2018-01-17T21:02:00-05:00"
+lastmod = "2018-01-18T09:09:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240460857/sq---Echo_Drift_Baranova-7020.jpg.jpg"
+primary_image_credit = "Blythe Gaissert in The Echo Drift, Prototype Festival, 2018. Photo: Maria Baranova."
+publishDate = "2018-01-17T21:02:00-05:00"
+related_articles = ["articles/an-operatic-horror-story-proving-up.md"]
+related_companies = ["scene/companies/beth-morrison-projects.md","scene/companies/american-opera-projects.md"]
+related_people = ["scene/people/blythe-gaissert.md"]
+short_description = "The moth, appealingly mesmerizing, could have a spin-off opera all to itself. Created by individual acrylic paintings set in stop-motion animation, it moves like an insect shadow ricocheting off a porch light on a chilly autumn night in the country."
+slug = "the-start-of-something-powerful-the-echo-drift"
+title = "The start of something powerful: The Echo Drift"
++++
 
 Solitary confinement, like the death penalty, is a uniquely American punitive practice. Experts generally agree that it is dysfunctional and amoral. Advocacy site [*Solitary Watch*](http://solitarywatch.com/) reports that in 2011, the UN chief torture investigator recommended all UN member nations ban prolonged isolation, describing it as utterly harmful and akin to torture. But the American public and political body, uninformed, tend to uphold it as a necessary evil, and so the practice persists.
 
@@ -29,9 +20,7 @@ A prisoner isolated in a supermax facility is typically stowed in a concrete pou
 
 Brutally starved of human interaction, the brain can deteriorate to irreversible degrees. Inmates become catatonic, suicidal, overwhelmed with delusions, or consumed by extreme anger and revenge fantasies against their imprisoners. All these results are undoubtedly antithetical to rehabilitation.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240514253/Echo_Drift_Baranova-7174.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240514253/Echo_Drift_Baranova-7174.jpg.jpg)
 <figcaption>Blythe Gaissert in *The Echo Drift*, Prototype Festival, 2018. Photo: Maria Baranova.</figcaption>
 </figure>
 
@@ -39,9 +28,7 @@ Brutally starved of human interaction, the brain can deteriorate to irreversible
 
 Now she counts time in solitary confinement at the Hersh supermax facility. Or tries to. Her "job", as she describes it, is to tinker at a homemade timekeeper; what amounts to a large metronome supported by a wood scaffolding, its moving parts made from contraband (spoons, springs, screws, even screwdrivers).
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240487654/Echo_Drift_Baranova-2786.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240487654/Echo_Drift_Baranova-2786.jpg.jpg)
 <figcaption>Blythe Gaissert in *The Echo Drift*, Prototype Festival, 2018. Photo: Maria Baranova.</figcaption>
 </figure>
 
@@ -49,17 +36,13 @@ She monologues in halting fragments, distractedly fiddling at her contraption. T
 
 And passes. Soon, lunch comes. The usual gray glue soup. Loats lifts a spoon-full and disgusted, drips the paint-like gruel back into its bowl. But something catches her eye. She surgically slides her utensil into the viscous pool and extracts a small, dripping, pristine orb: a cocoon.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240559097/Echo_Drift_Baranova-6780.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240559097/Echo_Drift_Baranova-6780.jpg.jpg)
 <figcaption>Blythe Gaissert in *The Echo Drift*, Prototype Festival, 2018. Photo: Maria Baranova.</figcaption>
 </figure>
 
 Loats attaches the cocoon to a crease in the ceiling. During a thunder-rocked night, static-electric throbs vibrate the room as the white, hanging, shriveled sack of life pumps larger and larger to bursting. Slow chromatic, melodic tendrils sneak up the walls. A rapid, rising wail becomes a roar, then a crash. Sound and light settle and amongst the debris, a compressed rustle of wings signals new life. Like a living Rorschach blot, a moth, hatched, flutters quickly about, growing and shrinking with a rapidity only afforded shadows. Loats now has a companion. And it speaks.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240584184/Echo_Drift_Baranova-7358.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240584184/Echo_Drift_Baranova-7358.jpg.jpg)
 <figcaption>Blythe Gaissert in *The Echo Drift*, Prototype Festival, 2018. Photo: Maria Baranova.</figcaption>
 </figure>
 
@@ -67,9 +50,7 @@ Loats will not discuss her criminal past. But the talking moth (actor John Kelly
 
 A large fluorescent square is drawn line by line. Concentric versions of the square grow outwardly from its border, joining a larger square. A chest-rattling bass throbs with each glowing rush of neon. Now squares shooting inward implode as though in a geometric nightmare. A final flash, and the docks appear. A fresh corpse is splayed on the ground with a handgun feet away from its rigor mortised fist.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240575027/Echo_Drift_Baranova-7037.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240575027/Echo_Drift_Baranova-7037.jpg.jpg)
 <figcaption>Blythe Gaissert in *The Echo Drift*, Prototype Festival, 2018. Photo: Maria Baranova.</figcaption>
 </figure>
 
@@ -77,9 +58,7 @@ Loats is caught in her memory, forced to relive it moment by moment. She again m
 
 Loats' personal history is generic noire. She started as a lowly dock worker but with unmatched gumption became a boss. She communicates with snarky, quasi-philosophical quips that approach but never quite achieve wit. Outwardly, she appears more angsty teen than homicidal crime Donna. Made neither docile nor furious by her imprisonment, she seems basically annoyed by the whole thing.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240610416/Echo_Drift_Baranova-3189.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240610416/Echo_Drift_Baranova-3189.jpg.jpg)
 <figcaption>Blythe Gaissert in *The Echo Drift*, Prototype Festival, 2018. Photo: Maria Baranova.</figcaption>
 </figure>
 
@@ -87,9 +66,7 @@ Her digs in the prison are more IKEA than supermax. The bed, desk, and stool hav
 
 The production features neither supertitles nor a printed libretto. Of course, diction coaches exist for a reason. Still, the vocal line often and abruptly pops into a register that forces Gaissert to modify her elocution beyond comprehension. Sentence after sentence was indecipherable. Musically, the overly dramatic tessitura neutralized climaxes and limited Gaissert's sonic palette.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240647350/Echo_Drift_Baranova-7076.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240647350/Echo_Drift_Baranova-7076.jpg.jpg)
 <figcaption>Blythe Gaissert in *The Echo Drift*, Prototype Festival, 2018. Photo: Maria Baranova.</figcaption>
 </figure>
 
@@ -99,9 +76,7 @@ The orchestra benefitted from the electro-acoustic setting. Low, swelling drones
 
 Karlsson's score is frequently driven by jaunty ostinati. His romps dance propulsively whether the beat is divided into two, three, four, or five. He peppers the score with ripping Gershwin-esque clarinet soli that evoke the noire-ish atmosphere of the docks. The players from International Contemporary Ensemble (ICE), led enthusiastically by Nicholas DeMaison (ICE) unsurprisingly functioned superbly in both ensemble and soloistic passages.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240666003/Echo_Drift_Baranova-6965.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516240666003/Echo_Drift_Baranova-6965.jpg.jpg)
 <figcaption>Blythe Gaissert in *The Echo Drift*, Prototype Festival, 2018. Photo: Maria Baranova.</figcaption>
 </figure>
 

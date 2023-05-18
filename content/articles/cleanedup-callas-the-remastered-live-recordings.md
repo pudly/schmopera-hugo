@@ -1,22 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2017-10-10T21:22:00-04:00"
-lastmod: "2017-10-18T19:39:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507916109485/2017-10-13---Callas-Live-SQ.jpg.jpg
-publishDate: "2017-10-18T19:39:00-04:00"
-related_articles:
-- articles/opera-technology-hither-and-yon.md
-- articles/maria-by-callas-destiny-is-destiny-there-is-no-way-out.md
-short_description: 'What does an opera lover in the 21st century do with something
-  like Warner Classics&#039; recently released Maria Callas Live Remastered Recordings
-  (1949-1964)? The first thing would be to squeal with glee: the box set includes
-  live recordings of 20 full operas, 5 filmed recitals, and a book detailing each
-  of the iconic roles sung by Callas.'
-slug: cleanedup-callas-the-remastered-live-recordings
-title: 'Cleaned-up Callas: the remastered live recordings'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2017-10-10T21:22:00-04:00"
+lastmod = "2017-10-18T19:39:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507916109485/2017-10-13---Callas-Live-SQ.jpg.jpg"
+publishDate = "2017-10-18T19:39:00-04:00"
+related_articles = ["articles/opera-technology-hither-and-yon.md","articles/maria-by-callas-destiny-is-destiny-there-is-no-way-out.md"]
+short_description = "What does an opera lover in the 21st century do with something like Warner Classics&#039; recently released Maria Callas Live Remastered Recordings (1949-1964)? The first thing would be to squeal with glee: the box set includes live recordings of 20 full operas, 5 filmed recitals, and a book detailing each of the iconic roles sung by Callas."
+slug = "cleanedup-callas-the-remastered-live-recordings"
+title = "Cleaned-up Callas: the remastered live recordings"
++++
 
 For many younger opera fans - the kind who have a balance of love and reverence for the art and its artists - getting a big stack of remastered live recordings of Maria Callas presents as much joy as it does a sense of responsibility. The art (or science, even) of listening to recordings has changed in recent decades; it's an activity that has shifted for many from a slow and methodical process of collecting and comparing long-form media (like full-length opera recordings), to a ravenous grasping at the endless small bites available online (like instantly turning up 50+ different versions of "Sempre libera" on YouTube).
 
@@ -24,9 +17,7 @@ What does an opera lover in the 21st century do with something like Warner Class
 
 A generous follow-up to [Warner's 2014 remasterings of Callas' complete studio recordings](http://www.warnerclassics.com/release/4603771,0825646339914/maria-callas-remastered-maria-callas-complete-remastered-edition), *Maria Callas Live* is a delicious selection of her operatic and concert work, performances of which there is no studio recording. Bertrand Castellani, Vice President of International Catalogue at Warner Classics, sees these live remasterings as an opportunity "to complete the portrait as much as we could with the opera performances in the studio."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508369950454/2017-10-17---Callas3D-narrow.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508369950454/2017-10-17---Callas3D-narrow.jpg.jpg)
 </figure>
 
 Though I can't call myself an expert on the original sound of these live recordings, the remastered experience of live Callas is really thrilling. There's clarity enough for details to come through (including the lovable din of the prompter's mumblings), yet there's still the raw, fallible ring of a one-of-a-kind performance.

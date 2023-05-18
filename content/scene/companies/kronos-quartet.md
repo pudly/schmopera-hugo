@@ -1,24 +1,25 @@
----
-date: "2016-05-10T11:30:00+01:00"
-lastmod: "2016-05-10T11:32:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462875929722/2016-05-10---Kronos-Quartet.jpg.jpg
-publishDate: "2016-05-10T11:32:00+01:00"
-slug: kronos-quartet
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/kronosquartet
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/kronosquartet
-- _template: company_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/kronosquartet1
-title: Kronos Quartet
-type_of_company: String Quartet
-website: http://kronosquartet.org/home
----
++++
+date = "2016-05-10T11:30:00+01:00"
+lastmod = "2016-05-10T11:32:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462875929722/2016-05-10---Kronos-Quartet.jpg.jpg"
+publishDate = "2016-05-10T11:32:00+01:00"
+slug = "kronos-quartet"
+title = "Kronos Quartet"
+type_of_company = "String Quartet"
+website = "http://kronosquartet.org/home"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/kronosquartet"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/kronosquartet"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/kronosquartet1"
++++
 
 For more than 40 years, the Kronos Quartet—David Harrington (violin), John Sherba (violin), Hank Dutt (viola), and Sunny Yang (cello)—has pursued a singular artistic vision, combining a spirit of fearless exploration with a commitment to continually re-imagining the string quartet experience. In the process, Kronos has become one of the most celebrated and influential groups of our time, performing thousands of concerts worldwide, releasing more than 50 recordings of extraordinary breadth and creativity, collaborating with many of the world's most intriguing and accomplished composers and performers, and commissioning more than 850 works and arrangements for string quartet. In 2011, Kronos became the only recipients of both the Polar Music Prize and the Avery Fisher Prize, two of the most prestigious awards given to musicians. The group’s numerous awards also include a Grammy for Best Chamber Music Performance (2004) and “Musicians of the Year” (2003) from Musical America. 
 

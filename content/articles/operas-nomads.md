@@ -1,33 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2015-07-26T18:27:00-04:00"
-lastmod: "2015-07-28T07:55:00-04:00"
-preamble: "Ever notice how the guy from out of town, the traveller, the wanderer-sort
-  of character is often a bit shady and untrustworthy? This isn't limited to operatic
-  characters, but you can certainly find examples in the repertoire (more on those
-  below). More so than I expected, it's difficult to find any serious backing to my
-  musings; although you can find the Fortune-Teller or the Pirate among the list of
-  stock characters, neither the Vagabond, the Foreigner, nor the Travelling Salesman
-  aren't really a stock character in the same way as the *Senex Iratus* or the *Femme
-  Fatale*. \n\nI'm in a travel-friendly mood these days, as I'm gearing up for a true
-  vacation in Europe. I wanted to pay some homage to the *wanderlust*-types in opera
-  and music theatre, and maybe nerd out a bit on what sort of significace these characters
-  play in their respective shows."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437953620896/Bindle.jpg.jpg
-publishDate: "2015-07-28T07:55:00-04:00"
-short_description: 'Ever notice how the guy from out of town, the traveller, the wanderer-sort
-  of character is often a bit shady and untrustworthy? This isn&#039;t limited to
-  operatic characters, but you can certainly find examples in the repertoire (more
-  on those below). More so than I expected, it&#039;s difficult to find any serious
-  backing to my musings; although you can find the Fortune-Teller or the Pirate among
-  the list of stock characters, neither the Vagabond, the Foreigner, nor the Travelling
-  Salesman aren&#039;t really a stock character in the same way as the Senex Iratus
-  or the Femme Fatale. '
-slug: operas-nomads
-title: Opera&#039;s nomads
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2015-07-26T18:27:00-04:00"
+lastmod = "2015-07-28T07:55:00-04:00"
+preamble = "Ever notice how the guy from out of town, the traveller, the wanderer-sort of character is often a bit shady and untrustworthy? This isn't limited to operatic characters, but you can certainly find examples in the repertoire (more on those below). More so than I expected, it's difficult to find any serious backing to my musings; although you can find the Fortune-Teller or the Pirate among the list of stock characters, neither the Vagabond, the Foreigner, nor the Travelling Salesman aren't really a stock character in the same way as the *Senex Iratus* or the *Femme Fatale*. \n\nI'm in a travel-friendly mood these days, as I'm gearing up for a true vacation in Europe. I wanted to pay some homage to the *wanderlust*-types in opera and music theatre, and maybe nerd out a bit on what sort of significace these characters play in their respective shows."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437953620896/Bindle.jpg.jpg"
+publishDate = "2015-07-28T07:55:00-04:00"
+short_description = "Ever notice how the guy from out of town, the traveller, the wanderer-sort of character is often a bit shady and untrustworthy? This isn&#039;t limited to operatic characters, but you can certainly find examples in the repertoire (more on those below). More so than I expected, it&#039;s difficult to find any serious backing to my musings; although you can find the Fortune-Teller or the Pirate among the list of stock characters, neither the Vagabond, the Foreigner, nor the Travelling Salesman aren&#039;t really a stock character in the same way as the Senex Iratus or the Femme Fatale. "
+slug = "operas-nomads"
+title = "Opera&#039;s nomads"
++++
 
 ### 1. Dulcamara
 

@@ -1,37 +1,24 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-04-20T16:07:00-04:00"
-lastmod: "2018-04-21T10:30:00-04:00"
-preamble: |-
-  Soprano [Sara Duchovnay](/scene/people/sara-duchovnay/) is making waves in the opera world. She's gearing up to sing Lauretta in Opera Delaware's double-bill of Puccini's [*Gianni Schicchi* and *Buoso's Ghost*](http://www.operade.org/2018-festival-gianni-schicchi-buosos-ghost) (by composer and Schmopera contributor, [Michael Ching](/authors/michael-ching/)), and she's a co-owner of [Shoperatic.com](http://shoperatic.com/), the ingenious peer-to-peer platform for #divaswhohustle.
-
-  We spoke with Duchovnay about lovely Lauretta, and what it's like to be a trailblazer in the 21st-century opera community.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524254343784/sqDuchovnay.jpg.jpg
-primary_image_credit: Sara Duchovnay, soprano and co-owner, Shoperatic. Photo by Kaleigh
-  Rae Gamache, makeup by Tracy Cox, styled by Shoperatic.
-publishDate: "2018-04-21T10:12:00-04:00"
-related_articles:
-- articles/freetheknee-part-2-you-have-better-choices.md
-- articles/a-letter-to-the-modern-diva.md
-related_people:
-- scene/people/sara-duchovnay.md
-short_description: '&quot;In addition to emotional support,  I want to be able to
-  provide members of my community with opportunities for financial stability so they
-  can get out of unhealthy situations, whether they be unhealthy relationships, less-than-ideal
-  living situations, or jobs that don’t enhance their careers.&quot;'
-slug: talking-with-singers-sara-duchovnay
-title: 'Talking with singers: Sara Duchovnay'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-04-20T16:07:00-04:00"
+lastmod = "2018-04-21T10:30:00-04:00"
+preamble = "Soprano [Sara Duchovnay](/scene/people/sara-duchovnay/) is making waves in the opera world. She's gearing up to sing Lauretta in Opera Delaware's double-bill of Puccini's [*Gianni Schicchi* and *Buoso's Ghost*](http://www.operade.org/2018-festival-gianni-schicchi-buosos-ghost) (by composer and Schmopera contributor, [Michael Ching](/authors/michael-ching/)), and she's a co-owner of [Shoperatic.com](http://shoperatic.com/), the ingenious peer-to-peer platform for #divaswhohustle.\n\nWe spoke with Duchovnay about lovely Lauretta, and what it's like to be a trailblazer in the 21st-century opera community."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524254343784/sqDuchovnay.jpg.jpg"
+primary_image_credit = "Sara Duchovnay, soprano and co-owner, Shoperatic. Photo by Kaleigh Rae Gamache, makeup by Tracy Cox, styled by Shoperatic."
+publishDate = "2018-04-21T10:12:00-04:00"
+related_articles = ["articles/freetheknee-part-2-you-have-better-choices.md","articles/a-letter-to-the-modern-diva.md"]
+related_people = ["scene/people/sara-duchovnay.md"]
+short_description = "&quot;In addition to emotional support,  I want to be able to provide members of my community with opportunities for financial stability so they can get out of unhealthy situations, whether they be unhealthy relationships, less-than-ideal living situations, or jobs that don’t enhance their careers.&quot;"
+slug = "talking-with-singers-sara-duchovnay"
+title = "Talking with singers: Sara Duchovnay"
++++
 
 ## Why do you sing professionally?
 
 Opera combines so many things that I love. Obviously, I love the music, the fashion and the costumes, the travel, the community, the camaraderie, the feeling of being on stage...I can't imagine a better way to live. On a deeper level, I love what opera teaches us about being human. I love diving into the psyche of different characters and helping the audience learn about themselves through the stories we tell. That sounds super cheesy, but I think it's very important. There are so few opportunities for adults to really feel and express their emotions in today's world. If people come to a performance and are able to laugh, and cry, and find some kind of emotional release, I feel like I've given them something really valuable. If I weren’t a performer, I would probably be a therapist.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524316635115/SARA3.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524316635115/SARA3.jpg.jpg)
 <figcaption>Photo by Suzanne Vinnik. Makeup by Kelly Smith Slawson, Dress by Dolce & Gabbana.</figcaption>
 </figure>
  
@@ -41,9 +28,7 @@ For me in this production, Lauretta is a pretty cunning character. Our director 
 
 She loves Rinuccio to death. He's is trusting and pure, (which is a wonder, given his family), and he probably needs someone like her to make sure he doesn't get walked over by the rest of the Donatis. In *Buoso's Ghost* we get a little bit of a peek into what Rinuccio's future holds. The opera starts with a really sweet-sounding duet between the lovers and already poor Rinuccio is getting little signs that he may have bitten off a little more than he can chew. Lauretta is a lot to handle.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524254218633/Duchovnay.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524254218633/Duchovnay.jpg.jpg)
 <figcaption>Sara Duchovnay, soprano and co-owner, Shoperatic. Photo by Kaleigh Rae Gamache, makeup by Tracy Cox, styled by Shoperatic.</figcaption>
 </figure>
  
@@ -59,9 +44,7 @@ In addition to emotional support,  I want to be able to provide members of my co
 
 Since Suzanne and I launched the site in September of 2016, [Shoperatic.com](https://shoperatic.com/) has done over $200,000 in transactions! That means that in less than a year, we've put over $180,000 into the pockets of our colleagues. The income that singers have made on our site is helping them pay for their lessons and coachings, and giving them that financial buffer between gigs. There are some sellers who have done $20,000-$30,000 in individual annual sales! We're both really proud of that and want to continue to make things better for even more of our colleagues.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524254227188/Duchovnay2.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524254227188/Duchovnay2.jpg.jpg)
 <figcaption>Sara Duchovnay, soprano and co-owner, Shoperatic. Photo by Kaleigh Rae Gamache, makeup by Tracy Cox, styled by Shoperatic.</figcaption>
 </figure>
 
@@ -73,9 +56,7 @@ While the response has been vastly positive, I have talked to some educators of 
 
 Our Facebook group has a lot of undergraduate and graduate age singers, and through Shoperatic, our younger singers get the opportunity to see how more established singers are dressing for work. They can get inspiration to create their own personal styles that are professional, but also fun and artistically gratifying.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524254241381/Duchovnay3.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524254241381/Duchovnay3.jpg.jpg)
 <figcaption>Sara Duchovnay, soprano and co-owner, Shoperatic. Photo by Kaleigh Rae Gamache, makeup by Tracy Cox, styled by Shoperatic.</figcaption>
 </figure>
  

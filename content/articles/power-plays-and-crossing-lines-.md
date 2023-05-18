@@ -1,26 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2016-03-30T22:31:00+01:00"
-lastmod: "2016-03-31T10:09:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459373195766/2016-03-31---Rough-Waters.jpg.jpg
-publishDate: "2016-03-31T10:09:00+01:00"
-related_articles:
-- articles/at-the-podium-jordan-de-souza.md
-- articles/in-defence-of-singers.md
-- articles/potential-orchestra-mutiny-and-conductor-envy.md
-- articles/overthinking-it-and-other-traps.md
-- articles/operas-sexual-assault-secret.md
-short_description: 'So, it comes down to an imbalance of power, and a blurry line
-  between standing up for oneself and pissing off someone who can give an artist a
-  serious leg up in their career. People who take advantage of their power within
-  a competitive industry aren&#039;t good people - that&#039;s simple. And it&#039;s
-  only fair to point out that the majority of people with whom I&#039;ve worked have
-  passed The Dad Test with flying colours. '
-slug: power-plays-and-crossing-lines-
-title: 'Power plays and crossing lines '
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2016-03-30T22:31:00+01:00"
+lastmod = "2016-03-31T10:09:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459373195766/2016-03-31---Rough-Waters.jpg.jpg"
+publishDate = "2016-03-31T10:09:00+01:00"
+related_articles = ["articles/at-the-podium-jordan-de-souza.md","articles/in-defence-of-singers.md","articles/potential-orchestra-mutiny-and-conductor-envy.md","articles/overthinking-it-and-other-traps.md","articles/operas-sexual-assault-secret.md"]
+short_description = "So, it comes down to an imbalance of power, and a blurry line between standing up for oneself and pissing off someone who can give an artist a serious leg up in their career. People who take advantage of their power within a competitive industry aren&#039;t good people - that&#039;s simple. And it&#039;s only fair to point out that the majority of people with whom I&#039;ve worked have passed The Dad Test with flying colours. "
+slug = "power-plays-and-crossing-lines-"
+title = "Power plays and crossing lines "
++++
 
 [Jeff Melanson has resigned](http://www.theglobeandmail.com/arts/music/toronto-symphony-orchestra-president-and-ceo-jeff-melanson-resigns/article29431208/) as President and CEO of the Toronto Symphony Orchestra, following [allegations made by his ex-wife](http://www.theglobeandmail.com/news/national/mccain-and-melanson-an-arts-world-marriage-unravels/article29204852/), Eleanor McCain, about his conduct at work and within their marriage. The claims brought up an alleged history of sexual harassment, on-the-job drinking, and other questionable behaviour during his time at the TSO, as well as The Banff Centre and the National Ballet School. 
 

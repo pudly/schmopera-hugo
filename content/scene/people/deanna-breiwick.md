@@ -1,32 +1,28 @@
----
-date: "2017-09-15T13:44:00-04:00"
-discipline: Soprano
-lastmod: "2017-09-15T13:44:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505497192833/Deanna_Breiwick_pc_Mle_Jayne_Photography_a_300dpi.jpg.jpg
-primary_image_credit: Mle Jsyne Photography
-publishDate: "2017-09-15T13:44:00-04:00"
-related_companies:
-- scene/companies/opera-philadelphia.md
-- scene/companies/opernhaus-zurich.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/palm-beach-opera.md
-- scene/companies/the-juilliard-school.md
-slug: deanna-breiwick
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/Deannabreiwicksoprano/
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/deanna.breiwick/
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/deannasoprano
-title: Deanna Breiwick
-website: http://www.deannabreiwick.com/
----
++++
+date = "2017-09-15T13:44:00-04:00"
+discipline = "Soprano"
+lastmod = "2017-09-15T13:44:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505497192833/Deanna_Breiwick_pc_Mle_Jayne_Photography_a_300dpi.jpg.jpg"
+primary_image_credit = "Mle Jsyne Photography"
+publishDate = "2017-09-15T13:44:00-04:00"
+related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/opernhaus-zurich.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/palm-beach-opera.md", "scene/companies/the-juilliard-school.md"]
+slug = "deanna-breiwick"
+title = "Deanna Breiwick"
+website = "http://www.deannabreiwick.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/Deannabreiwicksoprano/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/deanna.breiwick/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/deannasoprano"
+
++++
 American soprano Deanna Breiwick, hailed by _The New York Times_ for her “sweet sound and floating high notes” and for being a “vocal trapeze artist,” is enjoying an exciting and diverse career. A series of house and role debuts encompass Ms. Breiwick’s 2018/19 season. She will return to the Metropolitan Opera as a Shadow in the North American premiere of Nico Muhly’s _Marnie_, conducted by Robert Spano, debut with Michigan Opera Theatre as Gretel in Humperdinck’s _Hansel und Gretel_ and Rosasharn in Ricky Ian Gordon’s _The Grapes of Wrath_, debut Adina in Donizetti’s _L’Elisir d’Amore_ with Opera Omaha, debut the role of Cunegonde in _Candide_ for a return to Des Moines Metro Opera, and Norina in _Don Pasquale_ for a house debut with Berkshire Opera Festival. Orchestral highlights include a return to the Charleston Symphony for Handel’s _Messiah_.   
   
 In the 2017/18 season, Ms. Breiwick returned to Opernhaus Zürich, performing Drusilla in Monteverdi’s _L’incoronazione di Poppea_. She also made her Metropolitan Opera stage debut, first as La Charmeuse in Massenet’s _Thaïs_, and then as a Flower Maiden in Wagner’s _Parsifal_, a new production conducted by Yannick Nézet-Séguin. Other debuts included Opera Philadelphia as Aveline Mortimer in _Elizabeth Cree_. Concert debuts included Seattle Symphony and New Choral Society in Scarsdale, NY for _Messiah_, Orff’s _Carmina Burana_ in a joint project with the Charleston Symphony and Nashville Ballet, as well as with the El Paso Choral Society, and the Israelite Woman in Handel’s _Judas Maccabaeus_ with the International Handel Festival in Göttingen, Germany. Ms. Breiwick also presented solo recitals in El Paso, Texas and Chicago, Illinois, the latter with close collaborator Julie Coucheron.   

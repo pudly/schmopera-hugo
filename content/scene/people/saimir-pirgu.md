@@ -1,38 +1,31 @@
----
-date: "2017-03-23T13:28:00+00:00"
-discipline: Tenor
-lastmod: "2017-03-23T13:28:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490275435170/2017-03-22---SAIMIR_PIGRU-Paul-Scala.jpg.jpg
-primary_image_credit: Paul Scala
-publishDate: "2017-03-23T13:28:00+00:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/salzburg-festival.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/royal-opera-house.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/gran-teatre-del-liceu.md
-- scene/companies/opra-national-de-paris.md
-- scene/companies/staatsoper-berlin.md
-slug: saimir-pirgu
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/saimirpirguofficial/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/saimirpirgu
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/saimirpirguofficial/
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/channel/UCvguBsu4hXYNIRuyKZrXu-Q
-title: Saimir Pirgu
-website: http://saimirpirgu.com/home.html
----
++++
+date = "2017-03-23T13:28:00+00:00"
+discipline = "Tenor"
+lastmod = "2017-03-23T13:28:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490275435170/2017-03-22---SAIMIR_PIGRU-Paul-Scala.jpg.jpg"
+primary_image_credit = "Paul Scala"
+publishDate = "2017-03-23T13:28:00+00:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/salzburg-festival.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/opra-national-de-paris.md","scene/companies/staatsoper-berlin.md"]
+slug = "saimir-pirgu"
+title = "Saimir Pirgu"
+website = "http://saimirpirgu.com/home.html"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/saimirpirguofficial/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/saimirpirgu"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/saimirpirguofficial/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UCvguBsu4hXYNIRuyKZrXu-Q"
++++
 
 Saimir Pirgu figures among the brightest stars in today’s international operatic firmament and has been celebrated at every major international operatic venue, including the Metropolitan Opera, the Teatro alla Scala, the Vienna State Opera, the Royal Opera House Covent Garden, the Paris Opéra, the Berlin Staatsoper and Deutsche Oper, the Zurich Opera, Barcelona’s Liceu, the San Francisco Opera, and the Salzburg Festival.
 

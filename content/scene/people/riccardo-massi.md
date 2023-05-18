@@ -1,32 +1,23 @@
----
-date: "2017-04-03T16:55:00+01:00"
-discipline: Tenor
-lastmod: "2017-04-03T16:55:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491234494454/2017-04-04---Riccardo-Massi-Benjamin-Ealovega.jpg.jpg
-primary_image_credit: Benjamin Ealovega
-publishDate: "2017-04-03T16:55:00+01:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/glyndebourne.md
-- scene/companies/royal-opera-house.md
-- scene/companies/opernhaus-zurich.md
-- scene/companies/opera-australia.md
-- scene/companies/bayerische-staatsoper.md
-slug: riccardo-massi
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/Riccardo-Massi-Tenore-936313299723139/
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/riccardomassi
-title: Riccardo Massi
-website: http://www.riccardomassi.com/
----
++++
+date = "2017-04-03T16:55:00+01:00"
+discipline = "Tenor"
+lastmod = "2017-04-03T16:55:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491234494454/2017-04-04---Riccardo-Massi-Benjamin-Ealovega.jpg.jpg"
+primary_image_credit = "Benjamin Ealovega"
+publishDate = "2017-04-03T16:55:00+01:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/teatro-alla-scala.md","scene/companies/staatsoper-berlin.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/opernhaus-zurich.md","scene/companies/opera-australia.md","scene/companies/bayerische-staatsoper.md"]
+slug = "riccardo-massi"
+title = "Riccardo Massi"
+website = "http://www.riccardomassi.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/Riccardo-Massi-Tenore-936313299723139/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/riccardomassi"
++++
 
 Italian tenor Riccardo Massi has rapidly achieved international recognition as one of the most exciting and accomplished interpreters of the Italian spinto repertoire, earning accolades worldwide for his interpretations of Puccini's and Verdi's heroes. As a specialist in the handling of ancient and medieval weapons, before pursuing his passion for opera, Massi enjoyed a flourishing career as a stuntman; working in several films including Martin Scorsese’s *Gangs of New York*, ABC’s *Empire*, and HBO’s *Rome*.
 

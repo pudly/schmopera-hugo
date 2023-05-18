@@ -1,20 +1,20 @@
----
-date: "2016-04-05T15:52:00+01:00"
-lastmod: "2016-04-05T15:52:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459867771157/Logo---Pimlico-Opera.jpg.jpg
-publishDate: "2016-04-05T15:52:00+01:00"
-slug: pimlico-opera
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/PimlicoOpera/?fref=ts
-- _template: company_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/PimlicoOpera
-title: Pimlico Opera
-website: http://www.pimlicoopera.co.uk/
----
++++
+date = "2016-04-05T15:52:00+01:00"
+lastmod = "2016-04-05T15:52:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459867771157/Logo---Pimlico-Opera.jpg.jpg"
+publishDate = "2016-04-05T15:52:00+01:00"
+slug = "pimlico-opera"
+title = "Pimlico Opera"
+website = "http://www.pimlicoopera.co.uk/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/PimlicoOpera/?fref=ts"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/PimlicoOpera"
++++
 
 Pimlico Opera aims to use music and drama to advance personal development, particularly with younger people. Artistic excellence is an essential part of achieving this aim.
 

@@ -1,24 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-11-17T13:23:00-05:00"
-lastmod: "2015-11-20T11:09:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448035765824/2015-11-20%20-%20Two%20Doors.jpg.jpg
-publishDate: "2015-11-20T10:40:00-05:00"
-related_articles:
-- articles/star-repetiteur-there-is-such-a-thing.md
-- articles/how-to-play-for-singers.md
-- articles/teaching-in-the-arctic-5-things-that-one-singer-learned.md
-- articles/whos-afraid-of-the-aging-singer.md
-short_description: The system still appeared odd to me. Why weren&#039;t these voice
-  teachers, in their lessons full of exercises and tone production, also pointing
-  out wrong rhythms, missed entrances, and poor diction? And why did these pianists
-  feel that they had so much to offer someone who is probably much more advanced at
-  singing than they are?
-slug: coaches-voice-teachers-and-the-grey-area-in-between
-title: Coaches, voice teachers, and the grey area in between
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-11-17T13:23:00-05:00"
+lastmod = "2015-11-20T11:09:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448035765824/2015-11-20%20-%20Two%20Doors.jpg.jpg"
+publishDate = "2015-11-20T10:40:00-05:00"
+related_articles = ["articles/star-repetiteur-there-is-such-a-thing.md","articles/how-to-play-for-singers.md","articles/teaching-in-the-arctic-5-things-that-one-singer-learned.md","articles/whos-afraid-of-the-aging-singer.md"]
+short_description = "The system still appeared odd to me. Why weren&#039;t these voice teachers, in their lessons full of exercises and tone production, also pointing out wrong rhythms, missed entrances, and poor diction? And why did these pianists feel that they had so much to offer someone who is probably much more advanced at singing than they are?"
+slug = "coaches-voice-teachers-and-the-grey-area-in-between"
+title = "Coaches, voice teachers, and the grey area in between"
++++
 
 When I was in university, I remember being very confused by the voice majors and their "coaches". Almost everyone had a weekly lesson with their piano/violin/bassoon teacher, but these singers had an extra lesson-type thing, in a practice room for some reason, and with a pianist. Of course, this pianist was usually their accompanist for things like masterclasses, lessons, and recitals; I assumed they would rehearse together, but I didn't really understand why the singers referred to them as their coaches.
 

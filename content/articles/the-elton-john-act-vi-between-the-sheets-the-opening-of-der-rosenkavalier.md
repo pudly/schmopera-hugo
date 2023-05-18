@@ -1,36 +1,22 @@
----
-author:
-- authors/david-todd.md
-categories: How-To
-date: "2023-04-09T11:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: This article is one of a series called ["The Elton John Act"](/the-elton-john-act/),
-  which aim to demystify the process of becoming an operatic répétiteur and assist
-  anyone wishing to audition as one in the German-speaking operatic system. Here we
-  explore the passionate opening of Richard Strauss’ opera _Der Rosenkavalier_.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1681081664/media/2023/04/sqPianistseries_Rosenkav_kj03ff.jpg
-primary_image_credit: |-
-  The Marschallin and Octavian recover after their intense night of passion. Photo: Robert
-  Workman.
-related_articles:
-- articles/the-elton-john-act-vii-don-t-stop-playing-never-look-back-the-dreaded-sight-reading.md
-- articles/the-elton-john-act-v-riding-the-rollercoaster-the-act-ii-finale-from-le-nozze-di-figaro.md
-- articles/the-elton-john-act-iv-fiddly-for-the-fingers-the-smugglers-quintet-from-carmen.md
-- articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md
-- articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md
-- articles/pianist-s-progress-i-the-elton-john-act.md
-related_companies: []
-related_people: []
-short_description: There is no getting around what this stirring scene that opens
-  Richard Strauss' opera Der Rosenkavalier is all about. Everything in the music depicts
-  a morning of frantic and illicit rumpy-pumpy between the Marschallin and her younger
-  lover Count Octavian.
-slug: the-elton-john-act-vi-between-the-sheets-the-opening-of-der-rosenkavalier
-title: 'The Elton John Act VI: Between the Sheets – The Opening of Der Rosenkavalier'
-youtube_url: ""
----
++++
+author = ["authors/david-todd.md"]
+categories = "How-To"
+date = 2023-04-09T11:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = "This article is one of a series called [\"The Elton John Act\"](/the-elton-john-act/), which aim to demystify the process of becoming an operatic répétiteur and assist anyone wishing to audition as one in the German-speaking operatic system. Here we explore the passionate opening of Richard Strauss’ opera _Der Rosenkavalier_."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1681081664/media/2023/04/sqPianistseries_Rosenkav_kj03ff.jpg"
+primary_image_credit = "The Marschallin and Octavian recover after their intense night of passion. Photo: Robert\nWorkman."
+related_articles = ["articles/the-elton-john-act-vii-don-t-stop-playing-never-look-back-the-dreaded-sight-reading.md", "articles/the-elton-john-act-v-riding-the-rollercoaster-the-act-ii-finale-from-le-nozze-di-figaro.md", "articles/the-elton-john-act-iv-fiddly-for-the-fingers-the-smugglers-quintet-from-carmen.md", "articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md", "articles/pianist-s-progress-ii-trampolines-tongue-twisters-the-set-audition-excerptsexcerpts.md", "articles/pianist-s-progress-i-the-elton-john-act.md"]
+related_companies = []
+related_people = []
+short_description = "There is no getting around what this stirring scene that opens Richard Strauss' opera Der Rosenkavalier is all about. Everything in the music depicts a morning of frantic and illicit rumpy-pumpy between the Marschallin and her younger lover Count Octavian."
+slug = "the-elton-john-act-vi-between-the-sheets-the-opening-of-der-rosenkavalier"
+title = "The Elton John Act VI: Between the Sheets – The Opening of Der Rosenkavalier"
+youtube_url = ""
+
++++
 * Opera: _Der Rosenkavalier_
 * Composer: Richard Strauss
 * Length of scene to learn: Beginning of the opera until at least Figure 14 (sometimes further to Figure 27).
@@ -47,9 +33,7 @@ Strauss' marking "Stürmisch bewegt" can be translated to English in many ways, 
 
 The opening horn call gives you the perfect chance to do this, and you can double the first note in the bass to represent the pizzicato of the cellos and double basses if you like. One of my colleagues recently told me how a teacher of his once demonstrated how the entire first seven bars could be played just with the left hand, though I tend to play it safe and use both to find the sound I need. The horn’s accented notes are usually a little held back whenever they come, and you must work hard to find the sound in the second bar. Though in the piano score we simply see "forte" in bar one, changing to fortissimo in bar two, the full sound of the orchestral entry shown in the orchestral score means this moment will have a very strong impact.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1681082799/media/2023/04/Pianistseries_clocks_i80zdx.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681082799/media/2023/04/Pianistseries_clocks_i80zdx.jpg){{% /md %}}
 
 <figcaption>Thinking about how a pendulum sustains its momentum is useful when studying this scene.</figcaption>  
 </figure>
@@ -70,9 +54,7 @@ The bassethorn needs to call clearly in the left hand 2 bars before Figure 3 and
 
 A delirious fall happens from Figure 5 onwards as the upper and lower lines collapse in on each other in a delicious swirl of colour. Strauss' instruction to stay in strict time is very helpful here as it can be difficult at first to keep the hands in sync. At Figure 6 I usually ignore the written piano chord and emphasise the first entry of the timpani in a low rumbling bass. As you lead into the slargando it is important that the chords retain an inner legato which pre-empt the horn entry four before Figure 8. One thing to watch out for here is that you know where all the themes are. Often piano reductions spread themes between the two staves and it can become quite difficult to see where they lead. A quick look at the score will solve this and help you to join together this relaxed, post-coital music.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1681082814/media/2023/04/Pianistseries_birds_qoqvsh.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1681082814/media/2023/04/Pianistseries_birds_qoqvsh.jpg){{% /md %}}
 
 <figcaption>Strauss writes that birds can be heard outside the window, so their song must be clear in your playing.</figcaption>  
 </figure>

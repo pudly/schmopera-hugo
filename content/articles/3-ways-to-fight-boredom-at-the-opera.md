@@ -1,31 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-09-14T12:34:00+01:00"
-lastmod: "2016-09-14T17:00:00+01:00"
-preamble: |-
-  It's completely true: sometimes, opera is boring.
-
-  The boring thing may be the show itself, or the singers onstage, or the fact that you didn't want to go to the opera tonight in the first place, or that you've already seen this opera a bunch of times and you're bored with the story.
-
-  Of course, when boredom sets in, one of the worst places to be is stuck in a dark theatre, made to keep quiet, without the opportunity to hover a mouse over the proscenium, like it's a giant laptop screen, to see for how much longer this thing will go on.
-
-  But the more you know about something, the more it can hold your interest. We're not offering you a crash course in opera appreciation; rather, we're invested in your coming home from any night out at the opera feeling like you've been made to think.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473864460658/2016-09-15---Bored.jpg.jpg
-publishDate: "2016-09-14T16:07:00+01:00"
-related_articles:
-- articles/tales-from-the-score-peter-grimes.md
-- articles/undergrad-degrees-why-youll-use-that-theory-class-after-all.md
-- articles/the-case-for-music-education.md
-- articles/4-tips-for-when-there-are-too-many-notes.md
-- articles/tales-from-stage-management.md
-short_description: Of course, when boredom sets in, one of the worst places to be
-  is stuck in a dark theatre, made to keep quiet, without the opportunity to hover
-  a mouse over the proscenium to see for how much longer this thing will go on.
-slug: 3-ways-to-fight-boredom-at-the-opera
-title: 3 ways to fight boredom at the opera
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-09-14T12:34:00+01:00"
+lastmod = "2016-09-14T17:00:00+01:00"
+preamble = "It's completely true: sometimes, opera is boring.\n\nThe boring thing may be the show itself, or the singers onstage, or the fact that you didn't want to go to the opera tonight in the first place, or that you've already seen this opera a bunch of times and you're bored with the story.\n\nOf course, when boredom sets in, one of the worst places to be is stuck in a dark theatre, made to keep quiet, without the opportunity to hover a mouse over the proscenium, like it's a giant laptop screen, to see for how much longer this thing will go on.\n\nBut the more you know about something, the more it can hold your interest. We're not offering you a crash course in opera appreciation; rather, we're invested in your coming home from any night out at the opera feeling like you've been made to think."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473864460658/2016-09-15---Bored.jpg.jpg"
+publishDate = "2016-09-14T16:07:00+01:00"
+related_articles = ["articles/tales-from-the-score-peter-grimes.md","articles/undergrad-degrees-why-youll-use-that-theory-class-after-all.md","articles/the-case-for-music-education.md","articles/4-tips-for-when-there-are-too-many-notes.md","articles/tales-from-stage-management.md"]
+short_description = "Of course, when boredom sets in, one of the worst places to be is stuck in a dark theatre, made to keep quiet, without the opportunity to hover a mouse over the proscenium to see for how much longer this thing will go on."
+slug = "3-ways-to-fight-boredom-at-the-opera"
+title = "3 ways to fight boredom at the opera"
++++
 
 ## Get your definitions down
 

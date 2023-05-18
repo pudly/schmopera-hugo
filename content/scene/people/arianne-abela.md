@@ -1,16 +1,15 @@
----
-_template: people_single
-date: "2015-06-05T16:18:00-04:00"
-discipline: Conductor
-lastmod: "2015-06-05T16:21:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546831113/media/2019/01/ArianneAbela.jpg
-publishDate: "2015-06-05T16:18:00-04:00"
-related_companies:
-- scene/companies/the-dallas-opera.md
-slug: arianne-abela
-title: Arianne Abela
-website: http://www.arianneabela.com/default.html
----
++++
+date = "2015-06-05T16:18:00-04:00"
+discipline = "Conductor"
+lastmod = "2015-06-05T16:21:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546831113/media/2019/01/ArianneAbela.jpg"
+publishDate = "2015-06-05T16:18:00-04:00"
+related_companies = ["scene/companies/the-dallas-opera.md"]
+slug = "arianne-abela"
+title = "Arianne Abela"
+website = "http://www.arianneabela.com/default.html"
+
++++
 Arianne Abela is a Doctoral student at the University of Michigan in Ann Arbor Michigan. She was most recently Chorus Master of the University of Michigan productions of Rossini's *Barber of Seville* and Mozart's *Die Zauberflöte*. She was recently named the Director of Music at Bethlehem United Church of Christ in Ann Arbor. 
 
 Abela was recently featured conducting on NBC's America's Got Talent along with collaborator and friend, Colin Britt, and 3 Penny Chorus and Orchestra. Making it to the quarter-final live rounds at Radio City Music Hall in Manhattan, New York, 3 Penny performs classical arrangements of the latest pop music. 3 Penny has been featured on NBC's Today Show with Al Roker, Matt Lauer, and Savannah Gurthie. 

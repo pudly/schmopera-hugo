@@ -1,34 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2017-05-26T10:35:00-04:00"
-lastmod: "2017-05-26T15:04:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495807241990/2017-05-26---21C-Collage.jpg.jpg
-publishDate: "2017-05-26T13:17:00-04:00"
-related_articles:
-- articles/casp-commission-sokolovic.md
-- articles/whats-the-deal-with-canadian-music.md
-related_companies:
-- scene/companies/canadian-art-song-project.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-related_people:
-- scene/people/liz-upchurch.md
-- scene/people/iain-macneil.md
-- scene/people/danika-lorn.md
-- scene/people/bruno-roy.md
-- scene/people/aaron-sheppard.md
-- scene/people/emily-dangelo.md
-- scene/people/steven-philcox.md
-short_description: 'The Canadian Art Song Project itself has an unblemished history
-  of presenting concert events that are thoughtful, wisely collaborative, and beautifully
-  executed. No doubt, their high standards of concert-giving would extend beyond the
-  realm of Canadian music; yet a trustworthy entity like CASP is a valuable tool in
-  the large challenge of getting Canadian music written and heard. Simply put: if
-  there&#039;s quality to the work, a sold-out crowd is no mystery.'
-slug: a-full-house-for-canadian-art-song-at-21c
-title: A full house for Canadian art song at 21C
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2017-05-26T10:35:00-04:00"
+lastmod = "2017-05-26T15:04:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495807241990/2017-05-26---21C-Collage.jpg.jpg"
+publishDate = "2017-05-26T13:17:00-04:00"
+related_articles = ["articles/casp-commission-sokolovic.md","articles/whats-the-deal-with-canadian-music.md"]
+related_companies = ["scene/companies/canadian-art-song-project.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/liz-upchurch.md","scene/people/iain-macneil.md","scene/people/danika-lorn.md","scene/people/bruno-roy.md","scene/people/aaron-sheppard.md","scene/people/emily-dangelo.md","scene/people/steven-philcox.md"]
+short_description = "The Canadian Art Song Project itself has an unblemished history of presenting concert events that are thoughtful, wisely collaborative, and beautifully executed. No doubt, their high standards of concert-giving would extend beyond the realm of Canadian music; yet a trustworthy entity like CASP is a valuable tool in the large challenge of getting Canadian music written and heard. Simply put: if there&#039;s quality to the work, a sold-out crowd is no mystery."
+slug = "a-full-house-for-canadian-art-song-at-21c"
+title = "A full house for Canadian art song at 21C"
++++
 
 In his introduction of the [Canadian Art Song Project](/scene/companies/canadian-art-song-project/)'s *Songs of our Time: Canada at 150* in association with 21C Music, CASP co-founder [Steven Philcox](/scene/people/steven-philcox/) quipped that the subsequent morning headlines should read, "Contemporary art song sells out in Toronto".
 

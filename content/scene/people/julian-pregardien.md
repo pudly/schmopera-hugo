@@ -1,24 +1,21 @@
----
-discipline: Tenor
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1675133701/media/2023/01/JulianPregardien_PeterRigaud_rnjpcn.jpg
-primary_image_credit: Peter Rigaud.
-related_companies:
-- scene/companies/salzburg-festival.md
-- scene/companies/staatsoper-berlin.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/oper-frankfurt.md
-slug: julian-pregardien
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/julian.pregardien
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/julianpregardien/
-title: Julian Prégardien
-website: https://www.julianpregardien.de/
----
++++
+discipline = "Tenor"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675133701/media/2023/01/JulianPregardien_PeterRigaud_rnjpcn.jpg"
+primary_image_credit = "Peter Rigaud."
+related_companies = ["scene/companies/salzburg-festival.md", "scene/companies/staatsoper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/oper-frankfurt.md"]
+slug = "julian-pregardien"
+title = "Julian Prégardien"
+website = "https://www.julianpregardien.de/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/julian.pregardien"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/julianpregardien/"
+
++++
 Julian Prégardien was born in Frankfurt and received his earliest music training in the choirs of Limburg Cathedral. After studying in Freiburg and joining the academy of the Aix-en-Provence opera festival, he was a member of the Frankfurt Opera ensemble from 2009 to 2013. At the same time, he developed an international career as a concert performer. Today, the tenor is an outstanding representative of the younger generation of singers.
 
 As an opera singer, he has appeared at the Festival d’Aix-en-Provence, at the Hamburg and Bavarian State Operas and at the Opéra Comique in Paris. In 2018 he made his debut at the Salzburg Festival as Narraboth in Richard Strauss’ _Salome_ (director: Romeo Castellucci) with the Vienna Philharmonic conducted by Franz Welser-Möst. In 2019 this was followed by his debut as Tamino in a new production of Mozart’s _Die Zauberflöte_ at the Berlin State Opera under the baton of Alondra de la Parra. At the Mozartwoche 2023 he will be heard for the first time as Don Ottavio in two semi-staged performances of Mozart's _Don Giovanni_ conducted by András Schiff, and at the Teatro San Carlo in Napoli he will be seen in the staged version of Romeo Castellucci's Mozart _Requiem_ conducted by Raphaël Pichon.

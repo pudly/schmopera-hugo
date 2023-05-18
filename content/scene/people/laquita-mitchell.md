@@ -1,27 +1,22 @@
----
-date: "2018-10-22T12:28:00-04:00"
-discipline: Soprano
-lastmod: "2018-10-22T12:28:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540225586694/Mitchell.L.Headshot2018.2..jpg.jpg
-publishDate: "2018-10-22T12:28:00-04:00"
-related_companies:
-- scene/companies/los-angeles-opera.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/the-atlanta-opera.md
-- scene/companies/san-francisco-opera.md
-slug: laquita-mitchell
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/sopmitchell
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/sopmitchell
-title: Laquita Mitchell
-website: http://www.laquitamitchellsoprano.com/
----
++++
+date = "2018-10-22T12:28:00-04:00"
+discipline = "Soprano"
+lastmod = "2018-10-22T12:28:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540225586694/Mitchell.L.Headshot2018.2..jpg.jpg"
+publishDate = "2018-10-22T12:28:00-04:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/san-francisco-opera.md"]
+slug = "laquita-mitchell"
+title = "Laquita Mitchell"
+website = "http://www.laquitamitchellsoprano.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/sopmitchell"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/sopmitchell"
++++
 
 Soprano Laquita Mitchell consistently earns acclaim on eminent international opera and concert stages, leading performances with Los Angeles Opera, San Francisco Opera, Houston Grand Opera, Lyric Opera of Chicago, New York City Opera, Washington National Opera, and Opéra Comique in Paris, New York Philharmonic, The Philadelphia Orchestra, Detroit Symphony Orchestra, among many others.
 

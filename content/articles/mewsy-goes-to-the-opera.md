@@ -1,33 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2014-09-02T13:00:00+01:00"
-disclaimer: 'Fair warning: there will be some strong language and mature themes. Definitely
-  Not Safe For Work.'
-lastmod: "2016-04-07T10:51:00+01:00"
-preamble: 'This special collaboration between Schmopera and [Claryon Fitzgibbon](http://mewsytheadulteress.com/about/),
-  author of the Erotic Novel in Tweets "Mewsy the Adulteress", is an exclusive preview
-  of the first chapter of Mewsy: Part II, before it is tweeted to the public. Catch
-  up on Part I at [MewsyTheAdulteress.com](http://mewsytheadulteress.com/), or follow
-  [@MewsyAdulteress](https://twitter.com/MewsyAdulteress) on Twitter! Strong Adult
-  Themes and Immodest Filth contained below.'
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460022651577/YKtnvZWx97TZTgEY4DmAD7CvTiM5QS0DoBnFVB2N3Hs6V4k_c8Nfwh4-grqrrMWiFu1ItVipqaJAWEKwK_72PMpXpVAZ%3Dw680-h680-c
-primary_image_credit: 'An image of Augustus John''s painting Marchesa Casati. '
-publishDate: "2014-09-02T13:00:00+01:00"
-related_articles:
-- articles/schmopera-is-one.md
-- articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md
-- articles/in-review-sex-workers-opera.md
-- articles/strange-sensual-energy-salome-at-roh.md
-short_description: 'This special collaboration between Schmopera and Claryon Fitzgibbon,
-  author of the Erotic Novel in Tweets "Mewsy the Adulteress," is an exclusive preview
-  of the first chapter of Mewsy: Part II, before it is tweeted to the public. Catch
-  up on Part I at MewsyTheAdulteress.com, or follow @MewsyAdulteress on Twitter! Strong
-  Adult Themes and Immodest Filth contained below.'
-slug: mewsy-goes-to-the-opera
-title: Mewsy goes to the Opera
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2014-09-02T13:00:00+01:00"
+disclaimer = "Fair warning: there will be some strong language and mature themes. Definitely Not Safe For Work."
+lastmod = "2016-04-07T10:51:00+01:00"
+preamble = "This special collaboration between Schmopera and [Claryon Fitzgibbon](http://mewsytheadulteress.com/about/), author of the Erotic Novel in Tweets \"Mewsy the Adulteress\", is an exclusive preview of the first chapter of Mewsy: Part II, before it is tweeted to the public. Catch up on Part I at [MewsyTheAdulteress.com](http://mewsytheadulteress.com/), or follow [@MewsyAdulteress](https://twitter.com/MewsyAdulteress) on Twitter! Strong Adult Themes and Immodest Filth contained below."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460022651577/YKtnvZWx97TZTgEY4DmAD7CvTiM5QS0DoBnFVB2N3Hs6V4k_c8Nfwh4-grqrrMWiFu1ItVipqaJAWEKwK_72PMpXpVAZ%3Dw680-h680-c"
+primary_image_credit = "An image of Augustus John's painting Marchesa Casati. "
+publishDate = "2014-09-02T13:00:00+01:00"
+related_articles = ["articles/schmopera-is-one.md", "articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md", "articles/in-review-sex-workers-opera.md", "articles/strange-sensual-energy-salome-at-roh.md"]
+short_description = "This special collaboration between Schmopera and Claryon Fitzgibbon, author of the Erotic Novel in Tweets \"Mewsy the Adulteress,\" is an exclusive preview of the first chapter of Mewsy: Part II, before it is tweeted to the public. Catch up on Part I at MewsyTheAdulteress.com, or follow @MewsyAdulteress on Twitter! Strong Adult Themes and Immodest Filth contained below."
+slug = "mewsy-goes-to-the-opera"
+title = "Mewsy goes to the Opera"
+
++++
 ## PART II
 
 Had she not been on the arm of such a gallant escort, Mewsy certainly would have slipped alighting from Doody Pethers’ elegant sedan.

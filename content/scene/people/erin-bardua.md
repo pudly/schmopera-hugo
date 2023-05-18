@@ -1,24 +1,22 @@
----
-date: "2015-07-23T16:07:00-04:00"
-discipline: Soprano, Co-Founder, Essential Opera
-lastmod: "2015-07-23T16:07:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437681939327/erin-26771.jpg.jpg
-publishDate: "2015-07-23T16:07:00-04:00"
-related_companies:
-- scene/companies/essential-opera.md
-- scene/companies/indie-opera-to.md
-slug: erin-bardua
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/ErinBarduaSoprano?fref=ts
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/erinsopran
-title: Erin Bardua
-website: http://www.erinbardua.com/
----
++++
+date = "2015-07-23T16:07:00-04:00"
+discipline = "Soprano, Co-Founder, Essential Opera"
+lastmod = "2015-07-23T16:07:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437681939327/erin-26771.jpg.jpg"
+publishDate = "2015-07-23T16:07:00-04:00"
+related_companies = ["scene/companies/essential-opera.md","scene/companies/indie-opera-to.md"]
+slug = "erin-bardua"
+title = "Erin Bardua"
+website = "http://www.erinbardua.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/ErinBarduaSoprano?fref=ts"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/erinsopran"
++++
 
 Soprano Erin Bardua has been praised for her “brilliant-toned voice, agile and strong, yet warm and relaxed” with “delightful coloratura and confident command of the stage.”
 

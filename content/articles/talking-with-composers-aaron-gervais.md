@@ -1,41 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-05-22T21:27:00-04:00"
-lastmod: "2017-05-23T13:10:00-04:00"
-preamble: "Edmonton-born, San Francisco-based composer [Aaron Gervais](/scene/people/aaron-gervais/)
-  has not only a knack for giving his works great titles (*Puppies!!!*, *Louis CK
-  am Spinnrade*, *Prescription Drug Nation*), but his varied, imaginative music speaks
-  to a creative process rooted in \"a place of pure emotion\". \n\nThis week, Gervais
-  sees the premiere of his new opera, [*Oksana G.*](https://tapestryopera.com/3-oksana-g/),
-  presented by [Tapestry Opera](/scene/companies/tapestry-opera/) from **May 24-30**.
-  We spoke with the composer about the pride he takes in his work, and the curious
-  descriptors his music has earned."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495502932038/2017-05-23---Aaron-Gervais.jpg.jpg
-publishDate: "2017-05-23T13:10:00-04:00"
-related_articles:
-- articles/oksana-g-its-so-out-of-this-world-and-yet-so-realistic.md
-- articles/talking-with-composers-ivan-barbotin.md
-- articles/talking-with-composers-chris-thornborrow.md
-- articles/talking-with-composers-omar-daniel.md
-- articles/talking-with-composers-alexina-louie.md
-- articles/talking-with-composers-juliana-hall.md
-- articles/talking-with-composers-cecilia-livingston.md
-- articles/talking-with-composers-brian-harman.md
-related_companies:
-- scene/companies/tapestry-opera.md
-related_people:
-- scene/people/aaron-gervais.md
-short_description: Obviously, my opera Oksana G., which is opening this week, is something
-  I&#039;m very proud of. It&#039;s the longest and most ambitious piece I&#039;ve
-  ever written, the story is gripping and powerful, the vocal lines are nuanced yet
-  singerly, the orchestration is colorful and dynamic, and every moment is vital —
-  there is no &quot;filler&quot; music. It really embodies what I believe makes for
-  great opera.
-slug: talking-with-composers-aaron-gervais
-title: 'Talking with composers: Aaron Gervais'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-05-22T21:27:00-04:00"
+lastmod = "2017-05-23T13:10:00-04:00"
+preamble = "Edmonton-born, San Francisco-based composer [Aaron Gervais](/scene/people/aaron-gervais/) has not only a knack for giving his works great titles (*Puppies!!!*, *Louis CK am Spinnrade*, *Prescription Drug Nation*), but his varied, imaginative music speaks to a creative process rooted in \"a place of pure emotion\". \n\nThis week, Gervais sees the premiere of his new opera, [*Oksana G.*](https://tapestryopera.com/3-oksana-g/), presented by [Tapestry Opera](/scene/companies/tapestry-opera/) from **May 24-30**. We spoke with the composer about the pride he takes in his work, and the curious descriptors his music has earned."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495502932038/2017-05-23---Aaron-Gervais.jpg.jpg"
+publishDate = "2017-05-23T13:10:00-04:00"
+related_articles = ["articles/oksana-g-its-so-out-of-this-world-and-yet-so-realistic.md","articles/talking-with-composers-ivan-barbotin.md","articles/talking-with-composers-chris-thornborrow.md","articles/talking-with-composers-omar-daniel.md","articles/talking-with-composers-alexina-louie.md","articles/talking-with-composers-juliana-hall.md","articles/talking-with-composers-cecilia-livingston.md","articles/talking-with-composers-brian-harman.md"]
+related_companies = ["scene/companies/tapestry-opera.md"]
+related_people = ["scene/people/aaron-gervais.md"]
+short_description = "Obviously, my opera Oksana G., which is opening this week, is something I&#039;m very proud of. It&#039;s the longest and most ambitious piece I&#039;ve ever written, the story is gripping and powerful, the vocal lines are nuanced yet singerly, the orchestration is colorful and dynamic, and every moment is vital — there is no &quot;filler&quot; music. It really embodies what I believe makes for great opera."
+slug = "talking-with-composers-aaron-gervais"
+title = "Talking with composers: Aaron Gervais"
++++
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 

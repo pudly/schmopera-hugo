@@ -1,28 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2017-12-12T21:05:00-05:00"
-lastmod: "2017-12-12T21:05:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513130709829/2017-12-12---Conductor-James-Levine.jpg.jpg
-primary_image_credit: 'Photo: Associated Press.'
-publishDate: "2017-12-12T21:05:00-05:00"
-related_articles:
-- articles/operas-sexual-assault-secret.md
-- articles/musicians-sexual-harassment-blurred-lines.md
-- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
-- articles/when-opera-companies-protect-abusers.md
-- articles/levines-ugly-exit-the-disposable-met.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-short_description: When it comes to Levine&#039;s abuse of those who are younger than
-  him and who looked up to him, I&#039;m almost at a loss. Should he be judged for
-  his actions in a contemporary arena, where the tolerance for is closer to zero?
-  Should he be one who takes the fall for an industry that has turned a blind eye
-  for too long? Should we crane our necks and look past Levine, towards the next abuser?
-slug: some-uncomfortable-questions-about-the-levine-business
-title: Some uncomfortable questions about the Levine business
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2017-12-12T21:05:00-05:00"
+lastmod = "2017-12-12T21:05:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513130709829/2017-12-12---Conductor-James-Levine.jpg.jpg"
+primary_image_credit = "Photo: Associated Press."
+publishDate = "2017-12-12T21:05:00-05:00"
+related_articles = ["articles/operas-sexual-assault-secret.md","articles/musicians-sexual-harassment-blurred-lines.md","articles/audition-season-or-the-annual-festival-of-shattered-dreams.md","articles/when-opera-companies-protect-abusers.md","articles/levines-ugly-exit-the-disposable-met.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+short_description = "When it comes to Levine&#039;s abuse of those who are younger than him and who looked up to him, I&#039;m almost at a loss. Should he be judged for his actions in a contemporary arena, where the tolerance for is closer to zero? Should he be one who takes the fall for an industry that has turned a blind eye for too long? Should we crane our necks and look past Levine, towards the next abuser?"
+slug = "some-uncomfortable-questions-about-the-levine-business"
+title = "Some uncomfortable questions about the Levine business"
++++
 
 "As anyone who truly knows me will attest, I have not lived my life as an oppressor or an aggressor." So said James Levine in a [statement](http://www.bbc.com/news/entertainment-arts-42278843) following fresh [accusations ](https://nypost.com/2017/12/02/legendary-opera-conductor-molested-teen-for-years-police-report/) of sexual assault and molestation of younger men.
 

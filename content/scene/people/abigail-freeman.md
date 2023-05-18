@@ -1,18 +1,15 @@
----
-_template: people_single
-date: "2015-07-13T22:15:00-06:00"
-discipline: Coloratura soprano
-lastmod: "2015-07-13T22:15:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436847218406/AF130.jpg.jpg
-primary_image_credit: Photo by Helen Tansey
-publishDate: "2015-07-13T22:15:00-06:00"
-related_companies:
-- scene/companies/opera-by-request.md
-- scene/companies/oshawa-opera.md
-slug: abigail-freeman
-title: Abigail Freeman
-website: http://www.abigailfreeman.ca/abigailfreeman.ca/Home.html
----
++++
+date = "2015-07-13T22:15:00-06:00"
+discipline = "Coloratura soprano"
+lastmod = "2015-07-13T22:15:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436847218406/AF130.jpg.jpg"
+primary_image_credit = "Photo by Helen Tansey"
+publishDate = "2015-07-13T22:15:00-06:00"
+related_companies = ["scene/companies/opera-by-request.md","scene/companies/oshawa-opera.md"]
+slug = "abigail-freeman"
+title = "Abigail Freeman"
+website = "http://www.abigailfreeman.ca/abigailfreeman.ca/Home.html"
++++
 
 Noted for her vocal agility and unique vocal colour, Canadian coloratura soprano, Abigail Freeman, is now establishing herself as a singer on the rise.
 

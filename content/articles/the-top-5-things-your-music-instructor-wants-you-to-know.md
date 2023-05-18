@@ -1,35 +1,22 @@
----
-author:
-- authors/donna-maurer.md
-categories: How-To
-date: "2019-03-28T00:32:49+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: Have you ever wondered, when taking on music lessons, what requirements
-  there may be when starting? Some instructors might give you a list of their requirements
-  ahead of time, but most probably don't. It is important to be aware that learning
-  a musical skill, even just as a hobby or on the side, still takes attention, dedication,
-  and hard work. Some may be unaware of what's expected of them when they decide to
-  take on learning an instrument, and it helps to have a good idea of what the instructor
-  wants from you. Music instructors do and will have certain expectations that they
-  would like you to know about when working with them. Below are some of the top misconceptions
-  and significant aspects that should be noted by students studying music.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553733724/media/2019/03/sqMusicTeacher.jpg
-primary_image_credit: ""
-related_articles:
-- articles/4-tips-for-when-there-are-too-many-notes.md
-- articles/surprising-practice-tips-4-arias-to-try-too-fast.md
-- articles/the-practice-tip-you-dont-want-to-hear.md
-related_companies: []
-related_people: []
-short_description: Have you ever wondered, when taking on music lessons, what requirements
-  there may be when starting? Some instructors might give you a list of their requirements
-  ahead of time, but most probably don't.
-slug: the-top-5-things-your-music-instructor-wants-you-to-know
-title: The Top 5 Things Your Music Instructor Wants You To Know
-youtube_url: ""
----
++++
+author = ["authors/donna-maurer.md"]
+categories = "How-To"
+date = "2019-03-28T00:32:49+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = "Have you ever wondered, when taking on music lessons, what requirements there may be when starting? Some instructors might give you a list of their requirements ahead of time, but most probably don't. It is important to be aware that learning a musical skill, even just as a hobby or on the side, still takes attention, dedication, and hard work. Some may be unaware of what's expected of them when they decide to take on learning an instrument, and it helps to have a good idea of what the instructor wants from you. Music instructors do and will have certain expectations that they would like you to know about when working with them. Below are some of the top misconceptions and significant aspects that should be noted by students studying music."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553733724/media/2019/03/sqMusicTeacher.jpg"
+primary_image_credit = ""
+related_articles = ["articles/4-tips-for-when-there-are-too-many-notes.md", "articles/surprising-practice-tips-4-arias-to-try-too-fast.md", "articles/the-practice-tip-you-dont-want-to-hear.md"]
+related_companies = []
+related_people = []
+short_description = "Have you ever wondered, when taking on music lessons, what requirements there may be when starting? Some instructors might give you a list of their requirements ahead of time, but most probably don't."
+slug = "the-top-5-things-your-music-instructor-wants-you-to-know"
+title = "The Top 5 Things Your Music Instructor Wants You To Know"
+youtube_url = ""
+
++++
 ### Music is a Real Job and Subject
 
 First and foremost, music teachers want to be taken seriously, as their job is their livelihood. Music is also a core academic subject - it's more than a fun hobby. It can be tested on, just like any other subject, because your skill won't advance without proper learning and evaluations. 

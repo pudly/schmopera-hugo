@@ -1,32 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-09-25T19:19:00+01:00"
-lastmod: "2016-10-05T09:54:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474981931070/2016-09-26---Craig-Irvin.jpg.jpg
-publishDate: "2016-10-05T09:43:00+01:00"
-related_articles:
-- articles/sidney-outlaw-stairs-success.md
-- articles/talking-with-singers-steven-cole.md
-- articles/spotlight-on-alexander-hajek.md
-- articles/kevin-puts-i-know-who-i-am-as-a-composer.md
-- articles/talking-with-singers-george-gagnidze.md
-- articles/talking-with-singers-zachary-nelson.md
-- articles/talking-with-singers-matthew-polenzani.md
-- articles/talking-with-singers-clarence-frazer.md
-related_companies:
-- scene/companies/minnesota-opera.md
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/craig-irvin.md
-short_description: Perhaps not surprisingly, Irvin learned some big truths about his
-  singing life from being an amateur comic. &quot;If it was about the applause, I
-  wouldn&#039;t have gotten up and done it again,&quot; he explains. &quot;It was
-  about the performance. That&#039;s what I&#039;m drawn to most of all.&quot;
-slug: talking-with-singers-craig-irvin
-title: 'Talking with singers: Craig Irvin'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-09-25T19:19:00+01:00"
+lastmod = "2016-10-05T09:54:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474981931070/2016-09-26---Craig-Irvin.jpg.jpg"
+publishDate = "2016-10-05T09:43:00+01:00"
+related_articles = ["articles/sidney-outlaw-stairs-success.md","articles/talking-with-singers-steven-cole.md","articles/spotlight-on-alexander-hajek.md","articles/kevin-puts-i-know-who-i-am-as-a-composer.md","articles/talking-with-singers-george-gagnidze.md","articles/talking-with-singers-zachary-nelson.md","articles/talking-with-singers-matthew-polenzani.md","articles/talking-with-singers-clarence-frazer.md"]
+related_companies = ["scene/companies/minnesota-opera.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/craig-irvin.md"]
+short_description = "Perhaps not surprisingly, Irvin learned some big truths about his singing life from being an amateur comic. &quot;If it was about the applause, I wouldn&#039;t have gotten up and done it again,&quot; he explains. &quot;It was about the performance. That&#039;s what I&#039;m drawn to most of all.&quot;"
+slug = "talking-with-singers-craig-irvin"
+title = "Talking with singers: Craig Irvin"
++++
 
 "If I would have known 10 years ago, the path that would bring me here, and the struggle, I might not have done it," says American baritone [Craig Irvin](/scene/people/craig-irvin/) of his career so far. 
 
@@ -42,9 +27,7 @@ After a few [concerts in Orlando](http://www.thesharon.com/event.php?id=121&titl
 
 "I hadn't even thought about that fact. It hadn't even dawned on me that my name would be in the front of the book," says Irvin, calling it "amazing," that "one hundred years from now, somebody's going to open this score to perform this show, and they're going to see my name in the score."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475582842720/2016-10-04---Irvin-Silent-Night.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475582842720/2016-10-04---Irvin-Silent-Night.jpg.jpg)
 <figcaption>Irvin as Lt. Horstmayer in *Silent Night*, Minnesota Opera, 2012.</figcaption>
 </figure>
 
@@ -57,9 +40,7 @@ One of those new companies is New York's [Loft Opera](https://www.loftopera.com/
 It's an unexpected advantage of working outside of the major-company circle, that Irvin has more opportunity to stretch his chops with major roles on lower-risk stages. "If I were working regularly at, say, Chicago, and the Met, San Francisco, I'd mostly be doing smaller roles, and not having those opportunities to do the major roles that I really enjoy doing," he explains, before laughing, "Of course, I could also feed my kids more, but there's a trade-off."
 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475582930575/2016-10-04---Irvin-Arabella.jpg.jpg)<figcaption>Irvin as Mandryka in *Arabella*, Minnesota Opera, 2013.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475582930575/2016-10-04---Irvin-Arabella.jpg.jpg)<figcaption>Irvin as Mandryka in *Arabella*, Minnesota Opera, 2013.</figcaption>
 </figure>
 
 ## "I'm driven to perform."
@@ -71,9 +52,7 @@ He recalls a lull-like period in his early career, shortly after finishing his t
 "Trust me, I've done some stand up sets that were not good," he says of his comic experience, which began in Los Angeles; he has since tried out his material in Toronto, Des Moines, and (hopefully) Atlanta. Perhaps not surprisingly, Irvin learned some big truths about his singing life from being an amateur comic. "If it was about the applause, I wouldn't have gotten up and done it again," he explains. "It was about the performance. That's what I'm drawn to most of all."
 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475582960197/2016-10-04---Irvin-Hansel.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475582960197/2016-10-04---Irvin-Hansel.jpg.jpg)
 <figcaption>Irvin as Peter in *Hänsel and Gretel*, Minnesota Opera, 2014.</figcaption>
 </figure>
 

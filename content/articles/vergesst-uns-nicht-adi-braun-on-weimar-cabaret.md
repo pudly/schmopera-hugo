@@ -1,27 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-12-10T19:44:00-05:00"
-lastmod: "2015-12-18T10:10:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449795824874/2015-12-12---Adi-Braun.jpg.jpg
-publishDate: "2015-12-18T10:06:00-05:00"
-related_articles:
-- articles/adi-braun-the-moderne-frau.md
-- articles/blos-threepenny-opera-a-misanthropic-delight.md
-related_companies:
-- scene/companies/royal-conservatory-of-music.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/opera-atelier.md
-related_people:
-- scene/people/adi-braun.md
-short_description: In the Weimar era, there seemed to be a cabaret for just about
-  anybody. The dinner-theatre style of cabaret was common, says Adi, but there were
-  also &quot;comedy clubs, gay cabarets and political cabarets, [and] each cabaret
-  likely had its own audience.&quot;
-slug: vergesst-uns-nicht-adi-braun-on-weimar-cabaret
-title: '&quot;Vergesst uns nicht!&quot;: Adi Braun on Weimar cabaret'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-12-10T19:44:00-05:00"
+lastmod = "2015-12-18T10:10:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449795824874/2015-12-12---Adi-Braun.jpg.jpg"
+publishDate = "2015-12-18T10:06:00-05:00"
+related_articles = ["articles/adi-braun-the-moderne-frau.md","articles/blos-threepenny-opera-a-misanthropic-delight.md"]
+related_companies = ["scene/companies/royal-conservatory-of-music.md","scene/companies/canadian-opera-company.md","scene/companies/opera-atelier.md"]
+related_people = ["scene/people/adi-braun.md"]
+short_description = "In the Weimar era, there seemed to be a cabaret for just about anybody. The dinner-theatre style of cabaret was common, says Adi, but there were also &quot;comedy clubs, gay cabarets and political cabarets, [and] each cabaret likely had its own audience.&quot;"
+slug = "vergesst-uns-nicht-adi-braun-on-weimar-cabaret"
+title = "&quot;Vergesst uns nicht!&quot;: Adi Braun on Weimar cabaret"
++++
 
 Jazz and cabaret singer Adi Braun comes by music honestly. She was born in Toronto, but grew up in Europe, a part of a musical family that included two famed Canadian baritones, her father [Victor Braun](http://www.thecanadianencyclopedia.ca/en/article/victor-braun-emc/), and her brother [Russell Braun](/scene/people/russell-braun/). Adi too started along a classical trajectory, studying at the University of Toronto and the Royal Conservatory of Music, and singing with the [Canadian Opera Company](/scene/companies/canadian-opera-company/) and [Opera Atelier](/scene/people/opera-atelier/). Starting in the 1990s, she began "to sing sideways", gravitating more closely to jazz and cabaret.
 
@@ -41,9 +31,7 @@ When North Americans think of cabaret, we think of some level of counterculture,
 
 Adi's research uncovered new artists, new songs, and new vantage points into this kind of cabaret music, a genre that seems as insular as it is influential. "I found a great amount of fantastic songs by composers and poets and fell in love with the performers whose renditions I found on old recordings and YouTube clips. I discovered and am discovering so many different kinds of singers who we have now forgotten or never even heard of…so many daring ways of interpreting these brilliant songs and I was deeply touched by their art."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450387990795/2015-12-12---Blandine.jpg.jpg)<figcaption>Blandine Ebinger, German actress and cabaret singer.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450387990795/2015-12-12---Blandine.jpg.jpg)<figcaption>Blandine Ebinger, German actress and cabaret singer.</figcaption>
 </figure>
 
 ## A progressive cabaret scene
@@ -56,9 +44,7 @@ Lyricists and composers worked as a team, almost branding themselves with their 
 
 Women played a particularly pivotal role in the world of cabaret, especially after 1920, when they were given the right to vote. They were an integral part of artistic collaborative teams, both professionally and personally. "Some were even married, as was the case with Friedrich Hollaender and his wife Blandine Ebinger, or lyricist Marcellus Schiffer and his wife Margo Lion. Many composers and lyricists wrote specific songs for specific performers." Female cabaret vocalists rose quickly in Weimar cabaret in song genres that ranged from prostitute songs, to ballads, to parodies and satirical songs.  In the performance practices they were at once "diseuses" (ones who spoke more than sang) and "chanteuses" (ones who sang more than spoke). "Female artists in particular fought to maintain this image of the newly liberated German woman," says Adi, "and no-where was this 'not-so-quiet' trend felt more profoundly than on the stages of Berlin cabarets."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450388036531/2015-12-12---Margo-Lion.jpg.jpg)<figcaption>Margo Lion, French *chanteuse* and actress.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450388036531/2015-12-12---Margo-Lion.jpg.jpg)<figcaption>Margo Lion, French *chanteuse* and actress.</figcaption>
 </figure>
 
 ## Reviving lost art

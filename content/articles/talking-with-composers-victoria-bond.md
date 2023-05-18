@@ -1,32 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2019-11-04T05:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: Victoria Bond's _Clara_ is onstage [November 8](https://www.symphonyspace.org/events/vp-clara-an-opera-by-victoria-bond)
-  in NYC, and [November 10](https://www.rcmsmusic.org/bond-clara) in Rhinebeck, NY.
-preamble: |-
-  200 years after the birth of Clara Schumann - pianist, composer, and famed wife of Robert Schumann - composer Victoria Bond's biographical opera, _Clara_, sees its full North American premiere. Bond's operatic telling of the story of Clara and Robert is onstage for two NY-based performances: [November 8](https://www.symphonyspace.org/events/vp-clara-an-opera-by-victoria-bond) at Symphony Space in New York City, and [November 10](https://www.rcmsmusic.org/bond-clara) with the Rhinebeck Chamber Music Society in Rhinebeck, NY.
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = 2019-11-04T05:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = "Victoria Bond's _Clara_ is onstage [November 8](https://www.symphonyspace.org/events/vp-clara-an-opera-by-victoria-bond) in NYC, and [November 10](https://www.rcmsmusic.org/bond-clara) in Rhinebeck, NY."
+preamble = "200 years after the birth of Clara Schumann - pianist, composer, and famed wife of Robert Schumann - composer Victoria Bond's biographical opera, _Clara_, sees its full North American premiere. Bond's operatic telling of the story of Clara and Robert is onstage for two NY-based performances: [November 8](https://www.symphonyspace.org/events/vp-clara-an-opera-by-victoria-bond) at Symphony Space in New York City, and [November 10](https://www.rcmsmusic.org/bond-clara) with the Rhinebeck Chamber Music Society in Rhinebeck, NY.\n\nWe spoke with Bond about what she finds so operatic about Clara and Robert's story, and the surprising realities of life as a composer."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572464326/media/2019/10/VictoriaBond-AnnaAbolgina_grugyr.jpg"
+primary_image_credit = "Photo: Anna Abolgina."
+related_articles = ["articles/we-took-a-real-chance-with-great-scott.md", "articles/talking-with-composers-jonathan-dove.md"]
+related_companies = []
+related_people = []
+short_description = "\"I am quite certain that most people have no idea of what goes into composing. It is generally not accurately portrayed in film, and so much of it is not at all exciting to watch.  However, discovering a new idea, a turn of phrase, an unexpected harmony – these are the precious moments a composer lives for!\""
+slug = "talking-with-composers-victoria-bond"
+title = "Talking with composers: Victoria Bond"
+youtube_url = ""
 
-  We spoke with Bond about what she finds so operatic about Clara and Robert's story, and the surprising realities of life as a composer.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572464326/media/2019/10/VictoriaBond-AnnaAbolgina_grugyr.jpg
-primary_image_credit: 'Photo: Anna Abolgina.'
-related_articles:
-- articles/we-took-a-real-chance-with-great-scott.md
-- articles/talking-with-composers-jonathan-dove.md
-related_companies: []
-related_people: []
-short_description: '"I am quite certain that most people have no idea of what goes
-  into composing. It is generally not accurately portrayed in film, and so much of
-  it is not at all exciting to watch.  However, discovering a new idea, a turn of
-  phrase, an unexpected harmony – these are the precious moments a composer lives
-  for!"'
-slug: talking-with-composers-victoria-bond
-title: 'Talking with composers: Victoria Bond'
-youtube_url: ""
----
++++
 ## What about the story of Clara and Robert Schumann appealed to you? What makes the story operatic?
 
 The story of Clara and Robert is a fascinating love story because it is so timeless and because they communicated their innermost feelings for each other in music. I quote fragments of music from Clara, Robert and Johannes Brahms, and have woven my own original music around their melodies, rhythms and harmonies.
@@ -39,9 +29,7 @@ The premiere in Germany was particularly exciting because the cast had rehearsed
 
 As a conductor myself, I was so impressed with the skill and dedication of the cast and instrumentalists, particularly Berlin Philharmonic musician Michael Hasel who conducted the performances. I knew I was in good hands under his direction!
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1572466726/media/2019/10/Osterfestspiele2019Clara-JochenKlenk_vppqev.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572466726/media/2019/10/Osterfestspiele2019Clara-JochenKlenk_vppqev.jpg){{% /md %}}
 
 <figcaption>A scene from the premiere production of Clara in Baden-Baden, at the 2019 Osterfestpiele. Photo: Jochen Klenk.</figcaption>
 
@@ -55,9 +43,7 @@ I try to write every day and set aside each morning.  Inspiration is  elusive, b
 
 I am quite certain that most people have no idea of what goes into composing. It is generally not accurately portrayed in film, and so much of it is not at all exciting to watch.  However, discovering a new idea, a turn of phrase, an unexpected harmony – these are the precious moments a composer lives for!
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1572466868/media/2019/10/Osterfestspiele2019Clara2-JochenKlenk_fdoylq.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1572466868/media/2019/10/Osterfestspiele2019Clara2-JochenKlenk_fdoylq.jpg){{% /md %}}
 
 <figcaption>A scene from the premiere production of Clara in Baden-Baden, at the 2019 Osterfestpiele. Photo: Jochen Klenk.</figcaption>
 

@@ -1,25 +1,17 @@
----
-author:
-- authors/michael-fabiano.md
-categories: Op-ed
-date: "2016-08-07T10:46:00+01:00"
-lastmod: "2016-08-12T09:43:00+01:00"
-preamble: 'This is a cross-post, originally published on tenor [Michael Fabiano](/scene/people/michael-fabiano/)''s
-  blog, available [via his website.](http://michaelfabianotenor.com/2016/08/classical-music-deserves-better/) '
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470563461846/2016-08-07---Library.jpg.jpg
-publishDate: "2016-08-12T08:00:00+01:00"
-related_articles:
-- articles/natalie-dessay-opera-is-an-art-which-has-not-been-able-to-renew.md
-related_people:
-- scene/people/rolando-villazon.md
-short_description: A recent article in The Atlantic titled &quot;The Tragedy of iTunes
-  and Classical Music&quot; sheds a light on just how problematic iTunes and other
-  major digital libraries are for storing and categorizing classical music. What exactly
-  is the problem? Professional musicians, particularly classical ones, need quick
-  and easy access to multiple recordings and iTunes just doesn’t cut it.
-slug: michael-fabiano-classical-music-deserves-better
-title: 'Michael Fabiano: Classical music deserves better'
----
++++
+author = ["authors/michael-fabiano.md"]
+categories = "Op-ed"
+date = "2016-08-07T10:46:00+01:00"
+lastmod = "2016-08-12T09:43:00+01:00"
+preamble = "This is a cross-post, originally published on tenor [Michael Fabiano](/scene/people/michael-fabiano/)'s blog, available [via his website.](http://michaelfabianotenor.com/2016/08/classical-music-deserves-better/) "
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470563461846/2016-08-07---Library.jpg.jpg"
+publishDate = "2016-08-12T08:00:00+01:00"
+related_articles = ["articles/natalie-dessay-opera-is-an-art-which-has-not-been-able-to-renew.md"]
+related_people = ["scene/people/rolando-villazon.md"]
+short_description = "A recent article in The Atlantic titled &quot;The Tragedy of iTunes and Classical Music&quot; sheds a light on just how problematic iTunes and other major digital libraries are for storing and categorizing classical music. What exactly is the problem? Professional musicians, particularly classical ones, need quick and easy access to multiple recordings and iTunes just doesn’t cut it."
+slug = "michael-fabiano-classical-music-deserves-better"
+title = "Michael Fabiano: Classical music deserves better"
++++
 
 Back in 1996, when the first metadata system was developed for MP3s there were only three options for attaching text to the files – artist, song name, and album.  Although categorization has changed, it hasn’t evolved to effectively categorize classical music.  It was only in 2004 that iTunes added a "Composer" tag.  A recent [article](http://www.theatlantic.com/technology/archive/2015/07/the-tragedy-of-itunes-and-classical-music/399788/) in *The Atlantic* titled "The Tragedy of iTunes and Classical Music" sheds a light on just how problematic iTunes and other major digital libraries are for storing and categorizing classical music.   What exactly is the problem?  Professional musicians, particularly classical ones, need quick and easy access to multiple recordings and iTunes just doesn’t cut it.
 
@@ -37,9 +29,7 @@ Manual entry of data into music platforms like iTunes is costly and time consumi
 
 A recommendation from key artists adds to the value proposition of classical arts and can quickly generate traction and traffic in one direction to a particular album or recording.  Otherwise, fans will have a hard time locating exactly what they are trying to find.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470563385704/2016-08-07---MichaelFabiano_Arielle-Doneson.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470563385704/2016-08-07---MichaelFabiano_Arielle-Doneson.jpg.jpg)
 <figcaption>Michael Fabiano, tenor. Photo by Arielle Doneson.</figcaption>
 </figure>
 

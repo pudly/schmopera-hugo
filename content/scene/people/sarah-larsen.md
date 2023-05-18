@@ -1,34 +1,25 @@
----
-discipline: Mezzo-soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1647394537/media/2022/03/SarahLarsen_cj0azr.jpg
-primary_image_credit: Kristin Hoebermann.
-related_companies:
-- scene/companies/sarasota-opera.md
-- scene/companies/virginia-opera.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/glimmerglass-festival.md
-- scene/companies/wolf-trap-opera.md
-- scene/companies/calgary-opera.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/lyric-opera-of-kansas-city.md
-- scene/companies/des-moines-metro-opera.md
-- scene/companies/seattle-opera.md
-- scene/companies/the-santa-fe-opera.md
-slug: sarah-larsen
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/sarahlarsenmezzo/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/sarahlarsenmezz
-- _template: people_single
-  platform: Linkedin
-  template: social-media
-  url: https://www.linkedin.com/in/sarah-larsen-396b1553/
-title: Sarah Larsen
-website: https://www.sarahlarsenmezzo.com/
----
++++
+discipline = "Mezzo-soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647394537/media/2022/03/SarahLarsen_cj0azr.jpg"
+primary_image_credit = "Kristin Hoebermann."
+related_companies = ["scene/companies/sarasota-opera.md", "scene/companies/virginia-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/wolf-trap-opera.md", "scene/companies/calgary-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/des-moines-metro-opera.md", "scene/companies/seattle-opera.md", "scene/companies/the-santa-fe-opera.md"]
+slug = "sarah-larsen"
+title = "Sarah Larsen"
+website = "https://www.sarahlarsenmezzo.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/sarahlarsenmezzo/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/sarahlarsenmezz"
+[[social_media]]
+platform = "Linkedin"
+template = "social-media"
+url = "https://www.linkedin.com/in/sarah-larsen-396b1553/"
+
++++
 Praised as “sizzling,” “riveting and passionate” and possessing a voice of “warm, organic liquidity,” mezzo-soprano Sarah Larsen looks forward to returning to The Metropolitan Opera for their 2021/22 season as the 2nd Lady in _Die Zauberflöte_. Other upcoming engagements include concerts with St. Croix Valley Opera and Music of Remembrance, as well as her role debut as Laurene Powell Jobs in _The (R)evolution of Steve Jobs_ with Austin Opera, The Atlanta Opera and The Lyric Opera of Kansas City.
 
 Since making her debut at The Metropolitan Opera in 2017 as Käthchen in _Werther_, Ms. Larsen has also been featured onstage as Flora Bervoix in _La traviata_ and the 2nd Esquire in _Parsifal_. She also joined the company in recent seasons for their productions of _Der Ring des Nibelungen_, _Le nozze di Figaro_, _The Merry Widow_, _Rusalka_, _Cendrillon_, and _Les contes d’Hoffmann_. 

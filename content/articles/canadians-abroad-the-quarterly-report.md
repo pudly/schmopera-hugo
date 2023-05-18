@@ -1,43 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-06-05T06:41:00-06:00"
-lastmod: "2016-07-06T16:12:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465330935560/2016-06-08---Toronto-London.jpg.jpg
-publishDate: "2016-06-07T15:54:00-06:00"
-related_articles:
-- articles/london-calling.md
-- articles/banffbound-2016.md
-- articles/the-future-of-opera-is-indie.md
-- articles/teeoh-eh.md
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/english-national-opera.md
-- scene/companies/classical-opera.md
-- scene/companies/mahogany-opera-group.md
-- scene/companies/city-of-london-sinfonia.md
-- scene/companies/london-contemporary-orchestra.md
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/indie-opera-to.md
-related_people:
-- scene/people/allan-clayton.md
-- scene/people/ermonela-jaho.md
-- scene/people/david-butt-philip.md
-- scene/people/rachel-kelly.md
-- scene/people/jennifer-france.md
-- scene/people/bryn-terfel.md
-- scene/people/diana-damrau.md
-short_description: It&#039;s been invigorating to hear such exciting voices that are
-  new to our ears. Perhaps it&#039;s our bias showing, but the conclusion we draw
-  is that Canadian singers are pretty fantastic. It&#039;s not a better-than situation,
-  and we don&#039;t waste our time comparing the voices onstage over versus back home;
-  but really, for a country that can struggle with niggling inferiority complexes,
-  it&#039;s a neat thing to see that Canadian singers hold their own among the great
-  voices working in one of the world&#039;s most established artistic centres.
-slug: canadians-abroad-the-quarterly-report
-title: 'Canadians abroad: the quarterly report'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-06-05T06:41:00-06:00"
+lastmod = "2016-07-06T16:12:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465330935560/2016-06-08---Toronto-London.jpg.jpg"
+publishDate = "2016-06-07T15:54:00-06:00"
+related_articles = ["articles/london-calling.md","articles/banffbound-2016.md","articles/the-future-of-opera-is-indie.md","articles/teeoh-eh.md"]
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/classical-opera.md","scene/companies/mahogany-opera-group.md","scene/companies/city-of-london-sinfonia.md","scene/companies/london-contemporary-orchestra.md","scene/companies/against-the-grain-theatre.md","scene/companies/indie-opera-to.md"]
+related_people = ["scene/people/allan-clayton.md","scene/people/ermonela-jaho.md","scene/people/david-butt-philip.md","scene/people/rachel-kelly.md","scene/people/jennifer-france.md","scene/people/bryn-terfel.md","scene/people/diana-damrau.md"]
+short_description = "It&#039;s been invigorating to hear such exciting voices that are new to our ears. Perhaps it&#039;s our bias showing, but the conclusion we draw is that Canadian singers are pretty fantastic. It&#039;s not a better-than situation, and we don&#039;t waste our time comparing the voices onstage over versus back home; but really, for a country that can struggle with niggling inferiority complexes, it&#039;s a neat thing to see that Canadian singers hold their own among the great voices working in one of the world&#039;s most established artistic centres."
+slug = "canadians-abroad-the-quarterly-report"
+title = "Canadians abroad: the quarterly report"
++++
 
 It's been over three months since we left Toronto to set up shop in London, England. Next week, we'll be back across the pond, overshooting our beloved CN tower, and landing in the mountains of Banff, Alberta. We're not yet done with London, and although we're eager to pay a visit to the homeland and spend some time with the lovely folks of [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/), the opera and classical music scenes in Britain's capital have us inspired and curious. It's a good time to do a first recap of sorts, taking stock of what we've had the chance to see and hear, and sharing our first impressions of what opera looks like on both sides of the Atlantic.
 

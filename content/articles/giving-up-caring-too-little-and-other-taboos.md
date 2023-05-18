@@ -1,27 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-06-04T16:42:00-04:00"
-lastmod: "2015-06-11T08:52:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433559406329/Nemo.jpg.jpg
-publishDate: "2015-06-11T08:52:00-04:00"
-related_articles:
-- articles/why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company.md
-- articles/wells-fargo-isnt-antiarts-everyone.md
-- articles/in-defense-of-the-day-job-.md
-- articles/taking-the-leap-from-freelance-to-fulltime.md
-- articles/moving-on-up-3-ways-my-old-career-prepared-me-for-my-new-one.md
-short_description: A couple of articles popped up this week that circle around the
-  big issue of taboo in the arts. Allison Ford, in her &quot;I Gave Up My Dream And
-  I&#039;d Do It Again,&quot; talks about her decision to walk away from pursuing
-  a career in theatre, at the tender age of 20-something. Closer to opera is Kathryn
-  McAdam&#039;s &quot;Soprano on Sabbatical...What on earth does she mean?&quot;,
-  where she reveals a beautifully personal story about her struggles with vocal health
-  that finally trumped all.
-slug: giving-up-caring-too-little-and-other-taboos
-title: Giving up, caring too little, and other taboos
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-06-04T16:42:00-04:00"
+lastmod = "2015-06-11T08:52:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433559406329/Nemo.jpg.jpg"
+publishDate = "2015-06-11T08:52:00-04:00"
+related_articles = ["articles/why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company.md","articles/wells-fargo-isnt-antiarts-everyone.md","articles/in-defense-of-the-day-job-.md","articles/taking-the-leap-from-freelance-to-fulltime.md","articles/moving-on-up-3-ways-my-old-career-prepared-me-for-my-new-one.md"]
+short_description = "A couple of articles popped up this week that circle around the big issue of taboo in the arts. Allison Ford, in her &quot;I Gave Up My Dream And I&#039;d Do It Again,&quot; talks about her decision to walk away from pursuing a career in theatre, at the tender age of 20-something. Closer to opera is Kathryn McAdam&#039;s &quot;Soprano on Sabbatical...What on earth does she mean?&quot;, where she reveals a beautifully personal story about her struggles with vocal health that finally trumped all."
+slug = "giving-up-caring-too-little-and-other-taboos"
+title = "Giving up, caring too little, and other taboos"
++++
 
 A couple of articles popped up this week that circle around the big issue of taboo in the arts. Allison Ford, in her ["I Gave Up My Dream And I'd Do It Again,"](http://www.thegloss.com/2012/06/05/career/i-gave-up-my-dream-and-id-do-it-again-731/) talks about her decision to walk away from pursuing a career in theatre, at the tender age of 20-something. Closer to opera is Kathryn McAdam's ["Soprano on Sabbatical...What on earth does she mean?"](https://sopranoonsabbatical.wordpress.com/2015/06/04/soprano-on-sabbatical-what-on-earth-does-she-mean/), where she reveals a beautifully personal story about her struggles with vocal health that finally trumped all.
 

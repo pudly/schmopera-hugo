@@ -1,27 +1,25 @@
----
-discipline: Countertenor
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1677439710/media/2023/02/Daniel_Moody_jhwcaz.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/the-atlanta-opera.md
-- scene/companies/vancouver-opera.md
-- scene/companies/cincinnati-opera.md
-- scene/companies/the-metropolitan-opera.md
-slug: daniel-moody
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/DanielMoodyCountertenor/
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/danielmoody/
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/MoodyCountertenor/videos
-title: Daniel Moody
-website: https://www.danielmoodycountertenor.com/
----
++++
+discipline = "Countertenor"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1677439710/media/2023/02/Daniel_Moody_jhwcaz.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/the-atlanta-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/cincinnati-opera.md", "scene/companies/the-metropolitan-opera.md"]
+slug = "daniel-moody"
+title = "Daniel Moody"
+website = "https://www.danielmoodycountertenor.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/DanielMoodyCountertenor/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/danielmoody/"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/MoodyCountertenor/videos"
+
++++
 Lauded for his “profoundly startling vocal resonance” (_The New York Times_) and “sweet and melancholy sound” (_The Washington Post_), Daniel Moody is celebrated for his interpretations of contemporary and baroque opera and as a soloist with orchestra.
 
 Moody recently made debuts at the **Metropolitan Opera** in Brett Dean’s **_Hamlet_** as Rosencrantz, **Atlanta Opera** as Tolomeo in **_Giulio Cesare_**_,_ and **Cincinnati Opera** as Nerone in Monteverdi’s **_L’incoronazione di Poppea_**, where the _American Record Guide_ praised his performance for its “utter beauty…where he would start singing ever so sweetly and then just let his voice blossom out into something big and round and smooth.”

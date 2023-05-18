@@ -1,36 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-04-23T20:55:00-04:00"
-lastmod: "2018-04-25T12:40:00-04:00"
-preamble: "**May 4 and 6**, the second annual Vancouver Opera Festival presents the
-  chamber musical, [*Requiem for a Lost Girl*](https://www.vancouveropera.ca/2016/02/27/requiem-lost-girl-chamber-musical-homelessness/).
-  Presented in collaboration with The Kettle Society and in cultural partnership with
-  SFU's Goldcorp Centre for the Arts, *Requiem* is composed and conducted by Marcel
-  Bergmann, and written and directed by Onalea Gilbertson with  writing and additional
-  music by the Kettle Choir and Writers Guild; it will be performed by soloists from
-  the Yulanda M. Faris Young Artist Program, members of the Vancouver Opera Chorus,
-  the Vancouver Opera Orchestra and The Kettle Choir and Writers Guild. \n\n[*Requiem
-  for a Lost Girl*](https://www.vancouveropera.ca/2016/02/27/requiem-lost-girl-chamber-musical-homelessness/)
-  memorializes a young woman lost to the streets, exploring themes of homelessness,
-  poverty, addiction, mental illness, and the plights of missing and murdered indigenous
-  women.\n\nWe spoke with Gilbertson, and *Requiem* performer [Stephanie Tritchew](/spotlight-on-stephanie-tritchew/)
-  about this must-see, powerful piece of theatre:"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524531251010/sqRequiemforaLostGirl.jpg.jpg
-publishDate: "2018-04-25T12:40:00-04:00"
-related_articles:
-- articles/i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis.md
-related_companies:
-- scene/companies/vancouver-opera.md
-- scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md
-related_people:
-- scene/people/stephanie-tritchew.md
-short_description: '&quot;The tragedy of her death and stigma that surrounded it is
-  still with me. This experience is how I found my way into the themes of this piece.&quot;'
-slug: requiem-for-a-lost-girl-is-based-on-a-true-story
-title: '&quot;Requiem for a Lost Girl is based on a true story.&quot;'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-04-23T20:55:00-04:00"
+lastmod = "2018-04-25T12:40:00-04:00"
+preamble = "**May 4 and 6**, the second annual Vancouver Opera Festival presents the chamber musical, [*Requiem for a Lost Girl*](https://www.vancouveropera.ca/2016/02/27/requiem-lost-girl-chamber-musical-homelessness/). Presented in collaboration with The Kettle Society and in cultural partnership with SFU's Goldcorp Centre for the Arts, *Requiem* is composed and conducted by Marcel Bergmann, and written and directed by Onalea Gilbertson with  writing and additional music by the Kettle Choir and Writers Guild; it will be performed by soloists from the Yulanda M. Faris Young Artist Program, members of the Vancouver Opera Chorus, the Vancouver Opera Orchestra and The Kettle Choir and Writers Guild. \n\n[*Requiem for a Lost Girl*](https://www.vancouveropera.ca/2016/02/27/requiem-lost-girl-chamber-musical-homelessness/) memorializes a young woman lost to the streets, exploring themes of homelessness, poverty, addiction, mental illness, and the plights of missing and murdered indigenous women.\n\nWe spoke with Gilbertson, and *Requiem* performer [Stephanie Tritchew](/spotlight-on-stephanie-tritchew/) about this must-see, powerful piece of theatre:"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524531251010/sqRequiemforaLostGirl.jpg.jpg"
+publishDate = "2018-04-25T12:40:00-04:00"
+related_articles = ["articles/i-wrote-toward-tomorrow-to-bring-attention-to-this-crisis.md"]
+related_companies = ["scene/companies/vancouver-opera.md","scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md"]
+related_people = ["scene/people/stephanie-tritchew.md"]
+short_description = "&quot;The tragedy of her death and stigma that surrounded it is still with me. This experience is how I found my way into the themes of this piece.&quot;"
+slug = "requiem-for-a-lost-girl-is-based-on-a-true-story"
+title = "&quot;Requiem for a Lost Girl is based on a true story.&quot;"
++++
 
 ### What questions about homelessness and addiction does *Requiem for a Lost Girl* strive to answer?
 
@@ -61,9 +43,7 @@ What would it look like to live with less — to actually work within yourself t
 
 It goes without saying, this piece also serves as a reminder. Every person you see standing in line for a shelter or asking for change has a story — we have no idea what kind of trauma, loss or challenge they have endured. No one wants to experience homelessness and no one wants to struggle with addiction. I think this piece reminds us to practice compassion and empathy; it might even inspire us to bring someone in need a warm drink on a cold day or smile and say hello as you approach them. A little kindness can go a long way.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524674259868/OnaleaGilbertsonHeadshot.jpg.jpg)<figcaption>Onalea Gilbertson, writer and director of *Requiem for a Lost Girl*.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524674259868/OnaleaGilbertsonHeadshot.jpg.jpg)<figcaption>Onalea Gilbertson, writer and director of *Requiem for a Lost Girl*.</figcaption>
 </figure>
 
 ## What role do pieces of theatre like *Requiem* play in activism?
@@ -82,9 +62,7 @@ I believe it is essential to engage directly with the community as an artist - w
 
 **Stephanie**: *Requiem for a Lost Girl* is such a unique piece of theatre because it gives voice to members of society who have experienced or are currently experiencing homelessness or addiction. It isn't like other social-justice pieces where professional singers are portraying the characters in an effort to raise awareness. Members of the Yulanda M. Faris Young Artist Program and members of the Vancouver Opera chorus are participating to give musical support to the Kettle Choir, the real stars of the show. We are not telling their stories; they are telling their stories. This piece is amazing because it gives an opportunity for members of the Kettle Society to express themselves through their own written word and music, and provides a platform for them to be heard.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524674216103/TRITCHEW.STEPHANIE.HEADSHOT.jpeg)<figcaption>Stephanie Tritchew, mezzo-soprano in the Yulanda M. Faris Young Artist Program, and performer in *Requiem for a Lost Girl* at the Vancouver Opera Festival, 2018.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524674216103/TRITCHEW.STEPHANIE.HEADSHOT.jpeg)<figcaption>Stephanie Tritchew, mezzo-soprano in the Yulanda M. Faris Young Artist Program, and performer in *Requiem for a Lost Girl* at the Vancouver Opera Festival, 2018.</figcaption>
 </figure>
 
 ## What do you hope audiences will take away from these performances in Vancouver?

@@ -1,50 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-06-11T13:16:00-04:00"
-lastmod: "2017-08-09T19:24:00-04:00"
-preamble: New Brunswick-born soprano [Beth Hagerman](/scene/people/beth-hagerman/)
-  impressed us most recently in [Tapestry Opera](/scene/companies/tapestry-opera/)'s
-  [*Songbook VI*](/he-saidshe-said-songbook-vi/), and she's a lovely example of what
-  it means to be a true young artist. With an exciting voice and professional wisdom
-  beyond her years, Hagerman gave us a beautiful interview. She chats about her musical
-  family, the elusive "perfect 'ah' vowel," and what it means to be a brave and autonomous
-  singer.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502320535393/2017-08-10---Hagerman.jpg.jpg
-primary_image_credit: 'Photo: Daniel Lastres'
-publishDate: "2016-06-18T21:45:00-04:00"
-related_articles:
-- articles/spotlight-on-sydney-mancasola.md
-- articles/spotlight-on-amanda-majeski.md
-- articles/talking-with-singers-christine-goerke.md
-- articles/spotlight-on-stephanie-tritchew.md
-- articles/spotlight-on-whitney-mather.md
-- articles/spotlight-on-shauna-yarnell.md
-- articles/spotlight-on-naomi-eberhard.md
-- articles/spotlight-on-vanessa-oudereimerink.md
-- articles/spotlight-on-shelley-jackson.md
-- articles/spotlight-on-chelsea-rus.md
-- articles/talking-with-singers-alessandro-fisher.md
-- articles/spotlight-on-hannah-de-priest.md
-- articles/spotlight-on-emma-char.md
-- articles/spotlight-on-jennifer-taverner.md
-- articles/talking-with-singers-ah-young-hong.md
-related_companies:
-- scene/companies/tapestry-opera.md
-- scene/companies/indie-opera-to.md
-related_people:
-- scene/people/beth-hagerman.md
-short_description: '&quot;I think that young singers need to know from a very early
-  stage in their development that they have the authority to be an artist. It&#039;s
-  hard when you’re in school and you’re focusing so hard on technique. You have teachers
-  telling you which aspects of your singing are good or bad. You start to think in
-  terms of absolutes and you forget about things like interpretation, artistry and
-  connecting with the text because that feels so wishy-washy in a world where you
-  need to find that seemingly mythical perfect &#039;ah&#039; vowel.&quot;'
-slug: spotlight-on-beth-hagerman
-title: 'Spotlight on: Beth Hagerman'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-06-11T13:16:00-04:00"
+lastmod = "2017-08-09T19:24:00-04:00"
+preamble = "New Brunswick-born soprano [Beth Hagerman](/scene/people/beth-hagerman/) impressed us most recently in [Tapestry Opera](/scene/companies/tapestry-opera/)'s [*Songbook VI*](/he-saidshe-said-songbook-vi/), and she's a lovely example of what it means to be a true young artist. With an exciting voice and professional wisdom beyond her years, Hagerman gave us a beautiful interview. She chats about her musical family, the elusive \"perfect 'ah' vowel,\" and what it means to be a brave and autonomous singer."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502320535393/2017-08-10---Hagerman.jpg.jpg"
+primary_image_credit = "Photo: Daniel Lastres"
+publishDate = "2016-06-18T21:45:00-04:00"
+related_articles = ["articles/spotlight-on-sydney-mancasola.md","articles/spotlight-on-amanda-majeski.md","articles/talking-with-singers-christine-goerke.md","articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-whitney-mather.md","articles/spotlight-on-shauna-yarnell.md","articles/spotlight-on-naomi-eberhard.md","articles/spotlight-on-vanessa-oudereimerink.md","articles/spotlight-on-shelley-jackson.md","articles/spotlight-on-chelsea-rus.md","articles/talking-with-singers-alessandro-fisher.md","articles/spotlight-on-hannah-de-priest.md","articles/spotlight-on-emma-char.md","articles/spotlight-on-jennifer-taverner.md","articles/talking-with-singers-ah-young-hong.md"]
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
+related_people = ["scene/people/beth-hagerman.md"]
+short_description = "&quot;I think that young singers need to know from a very early stage in their development that they have the authority to be an artist. It&#039;s hard when you’re in school and you’re focusing so hard on technique. You have teachers telling you which aspects of your singing are good or bad. You start to think in terms of absolutes and you forget about things like interpretation, artistry and connecting with the text because that feels so wishy-washy in a world where you need to find that seemingly mythical perfect &#039;ah&#039; vowel.&quot;"
+slug = "spotlight-on-beth-hagerman"
+title = "Spotlight on: Beth Hagerman"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 

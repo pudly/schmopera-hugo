@@ -1,26 +1,17 @@
----
-author:
-- authors/greg.md
-categories: Review
-date: "2016-03-03T13:35:00+00:00"
-lastmod: "2016-03-03T14:49:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457016226587/Trinity-Spirit-Dreaming.jpg.jpg
-publishDate: "2016-03-03T14:49:00+00:00"
-related_articles:
-- articles/he-saidshe-said-talisker-players-with-carla-huhtanen-andrea-ludwig.md
-- articles/in-review-the-talisker-players-bestiary.md
-related_companies:
-- scene/companies/talisker-players.md
-related_people:
-- scene/people/ilana-zarankin.md
-short_description: 'The night&#039;s program, Spirit Dreaming, was a presentation
-  of various creation myths from around the world. The eclectic program included readings
-  from &quot;Beginnings: Creation Myths of the World&quot;, edited by Penelope Farmer,
-  and &quot;In the Beginning: Creation Stories from Around the World&quot;, compiled
-  by Virginia Hamilton, read wonderfully by actor Andrew Moodie.'
-slug: in-review-the-talisker-players-spirit-dreaming
-title: 'In review: The Talisker Players &amp; Spirit Dreaming'
----
++++
+author = ["authors/greg.md"]
+categories = "Review"
+date = "2016-03-03T13:35:00+00:00"
+lastmod = "2016-03-03T14:49:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457016226587/Trinity-Spirit-Dreaming.jpg.jpg"
+publishDate = "2016-03-03T14:49:00+00:00"
+related_articles = ["articles/he-saidshe-said-talisker-players-with-carla-huhtanen-andrea-ludwig.md","articles/in-review-the-talisker-players-bestiary.md"]
+related_companies = ["scene/companies/talisker-players.md"]
+related_people = ["scene/people/ilana-zarankin.md"]
+short_description = "The night&#039;s program, Spirit Dreaming, was a presentation of various creation myths from around the world. The eclectic program included readings from &quot;Beginnings: Creation Myths of the World&quot;, edited by Penelope Farmer, and &quot;In the Beginning: Creation Stories from Around the World&quot;, compiled by Virginia Hamilton, read wonderfully by actor Andrew Moodie."
+slug = "in-review-the-talisker-players-spirit-dreaming"
+title = "In review: The Talisker Players &amp; Spirit Dreaming"
++++
 
 Major snowstorms and a rough start to the day for Toronto commuters didn't stop a dedicated crowd from showing up to Trinity-St. Paul's on Tuesday night.
 

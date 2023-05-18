@@ -1,22 +1,19 @@
----
-date: "2016-06-10T11:40:00+01:00"
-discipline: Baritone
-lastmod: "2016-06-10T11:40:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465555071751/2016-06-10---Penar.jpg.jpg
-primary_image_credit: 'Photo: Brent Calis'
-publishDate: "2016-06-10T11:40:00+01:00"
-related_companies:
-- scene/companies/opera-mcgill.md
-- scene/companies/opera-5.md
-slug: geoffrey-penar
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/gpenar
-title: Geoffrey Penar
-website: http://geoffreypenar.com/
----
++++
+date = "2016-06-10T11:40:00+01:00"
+discipline = "Baritone"
+lastmod = "2016-06-10T11:40:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465555071751/2016-06-10---Penar.jpg.jpg"
+primary_image_credit = "Photo: Brent Calis"
+publishDate = "2016-06-10T11:40:00+01:00"
+related_companies = ["scene/companies/opera-mcgill.md","scene/companies/opera-5.md"]
+slug = "geoffrey-penar"
+title = "Geoffrey Penar"
+website = "http://geoffreypenar.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/gpenar"
++++
 
 Geoffrey Penar is a young and versatile classical voice artist with a rich and mature vocal quality. Equally comfortable in a recital setting or performing on stage in a Grand Opera production and adept with comedic and dramatic roles, his vocal talents are enhanced by a phenomenal stage presence.
 

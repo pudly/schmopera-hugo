@@ -1,23 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2015-10-03T13:29:00-04:00"
-lastmod: "2015-10-04T18:01:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443893689167/Composers.jpg.jpg
-publishDate: "2015-10-03T13:36:00-04:00"
-related_articles:
-- articles/the-future-of-opera-is-indie.md
-related_companies:
-- scene/companies/tapestry-opera.md
-- scene/companies/indie-opera-to.md
-short_description: I came across this comprehensive list of operas written after World
-  War II, compiled by French writer and critic Thierry Vagne. There are hundreds of
-  operas listed by John Adams, Krzysztof Penderecki, Steve Reich, Harrison Birtwistle,
-  Benjamin Britten, and way, way more that I&#039;d bet you&#039;ve never heard of.
-slug: look-at-all-the-new-operas
-title: Look at all the new operas!
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2015-10-03T13:29:00-04:00"
+lastmod = "2015-10-04T18:01:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443893689167/Composers.jpg.jpg"
+publishDate = "2015-10-03T13:36:00-04:00"
+related_articles = ["articles/the-future-of-opera-is-indie.md"]
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
+short_description = "I came across this comprehensive list of operas written after World War II, compiled by French writer and critic Thierry Vagne. There are hundreds of operas listed by John Adams, Krzysztof Penderecki, Steve Reich, Harrison Birtwistle, Benjamin Britten, and way, way more that I&#039;d bet you&#039;ve never heard of."
+slug = "look-at-all-the-new-operas"
+title = "Look at all the new operas!"
++++
 
 I came across this [comprehensive list](http://vagnethierry.fr/contemporary-operas.html) of operas written after World War II, compiled by French writer and critic [Thierry Vagne](http://vagnethierry.fr/about/). There are hundreds of operas listed by John Adams, Krzysztof Penderecki, Steve Reich, Harrison Birtwistle, Benjamin Britten, and way, *way* more that I'd bet you've never heard of.
 

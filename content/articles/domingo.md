@@ -1,25 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Op-Ed
-date: "2019-08-13T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1565746790/media/2019/08/MeTooCollage_bdzijp.jpg
-primary_image_credit: 'Clockwise from top left: Plácido Domingo; David Daniels (photo:
-  Simon Pauly); James Levine.'
-related_articles: []
-related_companies: []
-related_people: []
-short_description: I'm just done with it. It's exhausting and gross. I've learned
-  (unfortunately) that on the Venn diagram of people who are pro-opera and people
-  who are creeps, there's serious overlap.
-slug: open-secrets-big-egos-opera-creeps
-title: Open secrets, big egos, & opera creeps
-youtube_url: ""
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-Ed"
+date = "2019-08-13T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565746790/media/2019/08/MeTooCollage_bdzijp.jpg"
+primary_image_credit = "Clockwise from top left: Plácido Domingo; David Daniels (photo: Simon Pauly); James Levine."
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "I'm just done with it. It's exhausting and gross. I've learned (unfortunately) that on the Venn diagram of people who are pro-opera and people who are creeps, there's serious overlap."
+slug = "open-secrets-big-egos-opera-creeps"
+title = "Open secrets, big egos, & opera creeps"
+youtube_url = ""
+
++++
 What is this garbage? 
 
 [Domingo](https://www.apnews.com/c2d51d690d004992b8cfba3bad827ae9), [Lord](https://www.operanews.com/Opera_News_Magazine/2019/6/News/Stephen_Lord.html), [Daniels](https://www.npr.org/2019/08/08/749368222/memos-lay-out-sexual-misconduct-allegations-against-opera-star-david-daniels), [Dutoit](https://www.npr.org/sections/thetwo-way/2018/03/02/590496543/sexual-assault-claim-against-conductor-dutoit-is-credible-boston-symphony-says), [Levine](https://www.theguardian.com/music/2019/aug/07/conductor-james-levine-settles-lawsuit-over-sexual-misconduct-allegations); these are the recent ones, and surely not the last. All of them, offering gross forms of payment for the sex they have - or attempted to have - with those who are at best colleagues, and in reality, subordinates. Promises of career boosts, extra-special professional advice, money, and plain old wouldn't-it-be-hot-to-sleep-with-an-opera-star; these are the currencies of those in the opera business who have been recently outed in the momentum of #MeToo.

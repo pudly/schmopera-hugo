@@ -1,17 +1,13 @@
----
-_template: people_single
-date: "2015-07-17T14:44:00-06:00"
-discipline: Tenor
-lastmod: "2015-07-17T14:44:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437165650071/FordWeb_1Square.jpg.jpg
-publishDate: "2015-07-17T14:44:00-06:00"
-related_companies:
-- scene/companies/university-of-toronto-opera.md
-- scene/companies/highlands-opera-studio.md
-- scene/companies/halifax-summer-opera-festival.md
-slug: william-ford
-title: William Ford
----
++++
+date = "2015-07-17T14:44:00-06:00"
+discipline = "Tenor"
+lastmod = "2015-07-17T14:44:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437165650071/FordWeb_1Square.jpg.jpg"
+publishDate = "2015-07-17T14:44:00-06:00"
+related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/highlands-opera-studio.md","scene/companies/halifax-summer-opera-festival.md"]
+slug = "william-ford"
+title = "William Ford"
++++
 
 William Ford, tenor, is a recent graduate of the Technical Diploma in Operatic Performance program at the University of Toronto, studying with soprano Wendy Nielsen and tenor Patrick Raftery. William also holds a Masters of Music from Western University where he studied with tenor Torin Chiles, and a Bachelor of Music from the University of Windsor where he studied with mezzo-soprano Elsie Inselman.
 

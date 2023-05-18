@@ -1,39 +1,20 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-07-03T20:03:00-06:00"
-lastmod: "2016-07-06T16:06:00-06:00"
-preamble: |-
-  Canadian soprano [Vanessa Oude-Reimerink](/scene/people/vanessa-oude-reimerink/) is currently in Banff, AB, with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) and the Open Space: Opera in the 21st Century program, to sing Lucia in *The Rape of Lucretia* and Sarah Thorpe in *No One's Safe*. She's a recent Emerging Artist with Calgary Opera, and a soon-to-be member of Vancouver Opera's Yulanda M. Faris Young Artist program.
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-07-03T20:03:00-06:00"
+lastmod = "2016-07-06T16:06:00-06:00"
+preamble = "Canadian soprano [Vanessa Oude-Reimerink](/scene/people/vanessa-oude-reimerink/) is currently in Banff, AB, with [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) and the Open Space: Opera in the 21st Century program, to sing Lucia in *The Rape of Lucretia* and Sarah Thorpe in *No One's Safe*. She's a recent Emerging Artist with Calgary Opera, and a soon-to-be member of Vancouver Opera's Yulanda M. Faris Young Artist program.\n\nShe took the time to talk about the \"wrestling coach\" mindset that gets her pumped for a performance, and about the feeling of \"floating\" that comes with great singing."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467597948890/2016-07-04---Vanessa-Oude-Reimerink---Calis.jpg.jpg"
+primary_image_credit = "Photo by Brent Calis."
+publishDate = "2016-07-03T20:15:00-06:00"
+related_articles = ["articles/spotlight-on-stephanie-tritchew.md", "articles/spotlight-on-beth-hagerman.md", "articles/spotlight-on-amanda-majeski.md", "articles/spotlight-on-chelsea-rus.md", "articles/dont-you-deserve-a-little-spotlight.md"]
+related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md", "scene/companies/calgary-opera.md", "scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md", "scene/companies/vancouver-opera.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/the-banff-centre.md"]
+related_people = ["scene/people/vanessa-oudereimerink.md"]
+short_description = "&quot;Normally, the voice in my head would say things like &#039;you&#039;re running out of air&#039; but instead I try to hear &#039;you have all the air in the world and you WILL make it through this phrase!&#039; I really believe that sending out positive energy and thoughts will not only make your life more enjoyable, but you will notice a difference in the people who surround you. &quot;"
+slug = "spotlight-on-vanessa-oude-reimerink"
+title = "Spotlight on: Vanessa Oude-Reimerink"
 
-  She took the time to talk about the "wrestling coach" mindset that gets her pumped for a performance, and about the feeling of "floating" that comes with great singing.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467597948890/2016-07-04---Vanessa-Oude-Reimerink---Calis.jpg.jpg
-primary_image_credit: Photo by Brent Calis.
-publishDate: "2016-07-03T20:15:00-06:00"
-related_articles:
-- articles/spotlight-on-stephanie-tritchew.md
-- articles/spotlight-on-beth-hagerman.md
-- articles/spotlight-on-amanda-majeski.md
-- articles/spotlight-on-chelsea-rus.md
-- articles/dont-you-deserve-a-little-spotlight.md
-related_companies:
-- scene/companies/calgary-opera-emerging-artist-development-program.md
-- scene/companies/calgary-opera.md
-- scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md
-- scene/companies/vancouver-opera.md
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/the-banff-centre.md
-related_people:
-- scene/people/vanessa-oudereimerink.md
-short_description: '&quot;Normally, the voice in my head would say things like &#039;you&#039;re
-  running out of air&#039; but instead I try to hear &#039;you have all the air in
-  the world and you WILL make it through this phrase!&#039; I really believe that
-  sending out positive energy and thoughts will not only make your life more enjoyable,
-  but you will notice a difference in the people who surround you. &quot;'
-slug: spotlight-on-vanessa-oude-reimerink
-title: 'Spotlight on: Vanessa Oude-Reimerink'
----
++++
 ## Why do you sing, and why are you doing it professionally?
 
 First off, I have been very fortunate that I have been able to sing professionally for the past couple of years. If I was not singing professionally, I would still be trying to sing professionally and pursuing that goal. Singing is the only job I've ever had where I truly feel fulfilled. I love telling stories and communicating with others, and to be able to use my voice as a form of expression is incredible. 
@@ -44,9 +25,7 @@ I am also a huge people person and love working with others towards an end proje
 
 Good singing is when you get to the performance or audition and you have done absolutely all the preparation you could have done. You let go, are not worried at all about technique and you just sing and communicate with full honesty, freedom and commitment. I can't really explain how to get to this point – it sometimes happens for me and it sometimes doesn't. I'm still trying to discover how to reach it every time. However, when it's happening, I *definitely* know and I have a feeling of lightless – kind of like I'm floating. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467598002833/2016-07-04---VanessaMidsummer4.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467598002833/2016-07-04---VanessaMidsummer4.jpg.jpg)
 <figcaption>Vanessa (centre) as Tytania in *A Midsummer Night's Dream* with Opera McGill, 2014. Photo by Adam Scotti.</figcaption>
 </figure>
 
@@ -62,9 +41,7 @@ Normally, the voice in my head would say things like "you're running out of air"
 
 Fiordiligi, Adina, Norina, Anne Trulove. Non-realistic: Carmen!
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467598013110/2016-07-04---Le-Nozze-di-Figaro-August-2013.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467598013110/2016-07-04---Le-Nozze-di-Figaro-August-2013.jpg.jpg)
 <figcaption>As Susanna in *Le nozze di Figaro* with Halifax Summer Opera Festival, 2013. Photo by Emily Jewer
 </figcaption>
 </figure>

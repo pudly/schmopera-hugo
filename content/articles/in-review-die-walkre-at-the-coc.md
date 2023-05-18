@@ -1,32 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2015-04-11T20:42:00-04:00"
-lastmod: "2015-04-11T21:17:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798942950/Walkure-MC-1808_Fotor.jpg.jpg
-primary_image_credit: Michael Cooper
-publishDate: "2015-02-05T09:41:00-05:00"
-related_articles:
-- articles/in-review-siegfried.md
-- articles/in-review-gotterdammerung-at-the-coc.md
-- articles/die-walkure.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/heidi-melton.md
-- scene/people/christine-goerke.md
-- scene/people/aviva-fortunata.md
-- scene/people/atom-egoyan.md
-- scene/people/johannes-debus.md
-short_description: 'Last night I finally got the chance to satisfy my curiosity, by
-  seeing the Canadian Opera Company’s current production of Die Walküre, directed
-  by Atom Egoyan (and running until Feb. 22). Since the 2014/15 season was announced,
-  I had been eager to see Egoyan’s take on Wagner, and to hear Christine Goerke as
-  Brünnhilde. '
-slug: in-review-die-walkre-at-the-coc
-title: 'In review: Die Walküre at the COC'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2015-04-11T20:42:00-04:00"
+lastmod = "2015-04-11T21:17:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798942950/Walkure-MC-1808_Fotor.jpg.jpg"
+primary_image_credit = "Michael Cooper"
+publishDate = "2015-02-05T09:41:00-05:00"
+related_articles = ["articles/in-review-siegfried.md","articles/in-review-gotterdammerung-at-the-coc.md","articles/die-walkure.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/heidi-melton.md","scene/people/christine-goerke.md","scene/people/aviva-fortunata.md","scene/people/atom-egoyan.md","scene/people/johannes-debus.md"]
+short_description = "Last night I finally got the chance to satisfy my curiosity, by seeing the Canadian Opera Company’s current production of Die Walküre, directed by Atom Egoyan (and running until Feb. 22). Since the 2014/15 season was announced, I had been eager to see Egoyan’s take on Wagner, and to hear Christine Goerke as Brünnhilde. "
+slug = "in-review-die-walkre-at-the-coc"
+title = "In review: Die Walküre at the COC"
++++
 
 <p>
 	Last night I finally got the chance to satisfy my curiosity, by seeing the <a href="http://www.coc.ca/PerformancesAndTickets/1415Season/DieWalkure.aspx" target="_blank">Canadian Opera Company's current production of <i>Die Walküre</i></a>, directed by Atom Egoyan (and running until Feb. 22). Since the 2014/15 season was announced, I had been eager to see Egoyan's take on Wagner, and to hear <a href="http://www.christinegoerke.com/" target="_blank">Christine Goerke</a> as Brünnhilde. The women singing the Valkyries themselves included a few friends and colleagues of mine, which always adds a new level of anticipation. I missed the earlier runs of this production, in 2004 and 2006, making me feel slightly out of some <em>Ring Cycle</em> loop. Maybe it's surprising that Wagner isn't my go-to choice for opera listening, but I've learned never to doubt the mesmerizing effect on me. <em>Die Walküre</em> certainly drew me in; now that I'm one quarter into the <em>Ring Cycle</em> loop, I kind of can't wait to see <em>Siegfried</em>.

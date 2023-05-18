@@ -1,22 +1,18 @@
----
-date: "2016-04-29T13:46:00+01:00"
-discipline: Soprano
-lastmod: "2016-04-29T13:46:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461933943040/JF_new_sq-300x300.jpg.jpg
-primary_image_credit: jamesblackmanagement.com
-publishDate: "2016-04-29T13:46:00+01:00"
-related_companies:
-- scene/companies/classical-opera.md
-- scene/companies/opera-north.md
-- scene/companies/scottish-opera.md
-slug: jennifer-france
-social_media:
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/jenni_france
-title: Jennifer France
----
++++
+date = "2016-04-29T13:46:00+01:00"
+discipline = "Soprano"
+lastmod = "2016-04-29T13:46:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461933943040/JF_new_sq-300x300.jpg.jpg"
+primary_image_credit = "jamesblackmanagement.com"
+publishDate = "2016-04-29T13:46:00+01:00"
+related_companies = ["scene/companies/classical-opera.md","scene/companies/opera-north.md","scene/companies/scottish-opera.md"]
+slug = "jennifer-france"
+title = "Jennifer France"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/jenni_france"
++++
 
 Nominated for The Times Breakthrough Award in Opera at the 2016 South Bank Sky Arts Awards, Winner of the Song Prize at the 2014 Kathleen Ferrier Awards and of a 2014 Leonard Ingrams Award from Garsington Opera, Jennifer France graduated from the Opera Course at the Royal Academy of Music, where she won many prizes, including the prestigious Patron’s Award that resulted in her solo recital debut at the Wigmore Hall, and was awarded the Principal’s Prize at graduation for exceptional all-round studentship in Summer 2013. Jennifer France has been awarded the Bruce Millar/ Gulliver Singing Prize in Glasgow and the Song Prize at the Hampshire Singing Competitin. She is currently studying with Lillian Watson.
 

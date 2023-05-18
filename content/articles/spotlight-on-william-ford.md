@@ -1,62 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-07-17T16:40:00-04:00"
-lastmod: "2015-07-21T13:58:00-04:00"
-preamble: 'Toronto-based tenor [William Ford](/scene/people/william-ford/) is fresh
-  out of the University of Toronto Opera School; this makes him a young singer, but
-  he''s not lacking in wisdom. I was thrilled to read his eloquent and smart interview
-  responses, and more than a little blown away by his awareness of self (something
-  that took me and many others much longer to learn). William heads to [Highlands
-  Opera Studio](/scene/companies/highlands-opera-studio/) later this summer, to sing
-  in their production of *Le nozze di Figaro*, and he''ll join the prestigious Canadian
-  Opera Company chorus for their spring productions in 2016. You can also hear William
-  in recital this month, in Exeter, Ontario, July 25th. Head over to his [GoFundMe
-  campaign](http://www.gofundme.com/williamfordtenor) to help him do a bit more of
-  what he loves: singing.'
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437165629832/FordWeb_1Square.jpg.jpg
-publishDate: "2015-07-18T09:00:00-04:00"
-related_articles:
-- articles/spotlight-on-emily-peragine.md
-- articles/spotlight-on-danielle-macmillan.md
-- articles/spotlight-on-christopher-james-ray.md
-- articles/spotlight-on-lida-szkwarek.md
-- articles/spotlight-on-maikai-nash.md
-- articles/spotlight-on-peter-bass.md
-- articles/spotlight-on-kelsey-vicary.md
-- articles/spotlight-on-michelle-siemens.md
-- articles/spotlight-on-julia-dawson.md
-- articles/spotlight-on-marjorie-maltais.md
-- articles/spotlight-on-kimberleyann-bartczak.md
-- articles/spotlight-on-maeve-palmer.md
-- articles/spotlight-on-keith-lam.md
-- articles/spotlight-on-cairan-ryan.md
-- articles/spotlight-on-sara-schabas.md
-- articles/spotlight-on-claire-kuttler.md
-- articles/spotlight-on-diego-silva.md
-- articles/spotlight-on-will-liverman.md
-- articles/talking-with-singers-alessandro-fisher.md
-- articles/talking-with-singers-saimir-pirgu.md
-- articles/talking-with-singers-giles-tomkins.md
-- articles/spotlight-on-michael-scott.md
-- articles/santa-fe-santelli.md
-- articles/spotlight-on-jacques-arsenault.md
-related_companies:
-- scene/companies/highlands-opera-studio.md
-- scene/companies/university-of-toronto-opera.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/halifax-summer-opera-festival.md
-related_people:
-- scene/people/william-ford.md
-short_description: 'Toronto-based tenor William Ford is fresh out of the University
-  of Toronto Opera School; this makes him a young singer, but he&#039;s not lacking
-  in wisdom. I was thrilled to read his eloquent and smart interview responses, and
-  more than a little blown away by his awareness of self (something that took me and
-  many others much longer to learn). '
-slug: spotlight-on-william-ford
-title: 'Spotlight on: William Ford'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-07-17T16:40:00-04:00"
+lastmod = "2015-07-21T13:58:00-04:00"
+preamble = "Toronto-based tenor [William Ford](/scene/people/william-ford/) is fresh out of the University of Toronto Opera School; this makes him a young singer, but he's not lacking in wisdom. I was thrilled to read his eloquent and smart interview responses, and more than a little blown away by his awareness of self (something that took me and many others much longer to learn). William heads to [Highlands Opera Studio](/scene/companies/highlands-opera-studio/) later this summer, to sing in their production of *Le nozze di Figaro*, and he'll join the prestigious Canadian Opera Company chorus for their spring productions in 2016. You can also hear William in recital this month, in Exeter, Ontario, July 25th. Head over to his [GoFundMe campaign](http://www.gofundme.com/williamfordtenor) to help him do a bit more of what he loves: singing."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437165629832/FordWeb_1Square.jpg.jpg"
+publishDate = "2015-07-18T09:00:00-04:00"
+related_articles = ["articles/spotlight-on-emily-peragine.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-keith-lam.md","articles/spotlight-on-cairan-ryan.md","articles/spotlight-on-sara-schabas.md","articles/spotlight-on-claire-kuttler.md","articles/spotlight-on-diego-silva.md","articles/spotlight-on-will-liverman.md","articles/talking-with-singers-alessandro-fisher.md","articles/talking-with-singers-saimir-pirgu.md","articles/talking-with-singers-giles-tomkins.md","articles/spotlight-on-michael-scott.md","articles/santa-fe-santelli.md","articles/spotlight-on-jacques-arsenault.md"]
+related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/university-of-toronto-opera.md","scene/companies/canadian-opera-company.md","scene/companies/halifax-summer-opera-festival.md"]
+related_people = ["scene/people/william-ford.md"]
+short_description = "Toronto-based tenor William Ford is fresh out of the University of Toronto Opera School; this makes him a young singer, but he&#039;s not lacking in wisdom. I was thrilled to read his eloquent and smart interview responses, and more than a little blown away by his awareness of self (something that took me and many others much longer to learn). "
+slug = "spotlight-on-william-ford"
+title = "Spotlight on: William Ford"
++++
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

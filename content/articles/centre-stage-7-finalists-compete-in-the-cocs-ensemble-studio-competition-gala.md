@@ -1,46 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2014-11-20T10:00:00-05:00"
-lastmod: "2015-04-14T10:07:00-04:00"
-preamble: 'Next Tuesday, November 25th, the seven finalists from the national auditions
-  for the [Canadian Opera Company''s Ensemble Studio](http://www.coc.ca/AboutTheCOC/CompanyMembers/EnsembleStudio.aspx)
-  will compete for precious few spots in the coveted young artist programme. Hosted
-  by the beloved Canadian tenor [Ben Heppner](http://www.benheppner.com/), the event
-  is called [_Centre Stage_](http://coccentrestage.ca/), and it''s an ongoing evolution
-  of the audition process for these young singers. I''ve watched the competition for
-  a few years now, biting my nails in empathetic nerves; I love that it''s grown from
-  a closed audition process, to a finals round in the Richard Bradshaw Amphitheatre,
-  and finally to its current (and grand) form, on the stage of the Four Seasons Centre
-  with Johannes Debus leading the COC Orchestra. It''s a big night for these young
-  singers, and I wanted to check in with them before the big day. In no particular
-  order:'
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429020432603/Centre-Stage%20(1).jpg.jpg
-publishDate: "2014-11-20T10:00:00-05:00"
-related_articles:
-- articles/ben-heppner-to-host-the-coc-ensemble-studio-competition-gala.md
-- articles/the-coc-ensemble-studio-meet-the-newbies.md
-- articles/centre-stage-2014-lets-hear-it-for-the-boys.md
-- articles/go-hear-the-tafelmusik-vocal-competition.md
-related_companies:
-- scene/companies/canadian-opera-company-ensemble-studio.md
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/charles-sy.md
-- scene/people/eliza-johnson.md
-- scene/people/zoe-band.md
-- scene/people/michelle-siemens.md
-- scene/people/dimitri-katotakis.md
-short_description: Next Tuesday, November 25th, the seven finalists from the national
-  auditions for the Canadian Opera Company&#039;s Ensemble Studio will compete for
-  precious few spots in the coveted young artist programme. Hosted by the beloved
-  Canadian tenor Ben Heppner, the event is called Centre Stage, and it&#039;s an ongoing
-  evolution of the audition process for these young singers.
-slug: centre-stage-7-finalists-compete-in-the-cocs-ensemble-studio-competition-gala
-title: 'Centre Stage: 7 finalists compete in the COC&#039;s Ensemble Studio Competition
-  Gala'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2014-11-20T10:00:00-05:00"
+lastmod = "2015-04-14T10:07:00-04:00"
+preamble = "Next Tuesday, November 25th, the seven finalists from the national auditions for the [Canadian Opera Company's Ensemble Studio](http://www.coc.ca/AboutTheCOC/CompanyMembers/EnsembleStudio.aspx) will compete for precious few spots in the coveted young artist programme. Hosted by the beloved Canadian tenor [Ben Heppner](http://www.benheppner.com/), the event is called [_Centre Stage_](http://coccentrestage.ca/), and it's an ongoing evolution of the audition process for these young singers. I've watched the competition for a few years now, biting my nails in empathetic nerves; I love that it's grown from a closed audition process, to a finals round in the Richard Bradshaw Amphitheatre, and finally to its current (and grand) form, on the stage of the Four Seasons Centre with Johannes Debus leading the COC Orchestra. It's a big night for these young singers, and I wanted to check in with them before the big day. In no particular order:"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429020432603/Centre-Stage%20(1).jpg.jpg"
+publishDate = "2014-11-20T10:00:00-05:00"
+related_articles = ["articles/ben-heppner-to-host-the-coc-ensemble-studio-competition-gala.md","articles/the-coc-ensemble-studio-meet-the-newbies.md","articles/centre-stage-2014-lets-hear-it-for-the-boys.md","articles/go-hear-the-tafelmusik-vocal-competition.md"]
+related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/charles-sy.md","scene/people/eliza-johnson.md","scene/people/zoe-band.md","scene/people/michelle-siemens.md","scene/people/dimitri-katotakis.md"]
+short_description = "Next Tuesday, November 25th, the seven finalists from the national auditions for the Canadian Opera Company&#039;s Ensemble Studio will compete for precious few spots in the coveted young artist programme. Hosted by the beloved Canadian tenor Ben Heppner, the event is called Centre Stage, and it&#039;s an ongoing evolution of the audition process for these young singers."
+slug = "centre-stage-7-finalists-compete-in-the-cocs-ensemble-studio-competition-gala"
+title = "Centre Stage: 7 finalists compete in the COC&#039;s Ensemble Studio Competition Gala"
++++
 
 ## Charles Sy, tenor (Toronto)
 

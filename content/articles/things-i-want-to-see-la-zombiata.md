@@ -1,26 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2016-02-01T09:52:00-05:00"
-lastmod: "2016-02-01T10:11:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454338800939/2016-02-01---Zombie.jpg.jpg
-primary_image_credit: Keeping a bleary eye on the conductor. Photo via AMC.
-publishDate: "2016-02-01T10:11:00-05:00"
-related_articles:
-- articles/shower-thoughts-billy-budd-in-space.md
-- articles/6-tv-shows-that-should-be-operas.md
-- articles/a-fiercely-queer-opera-for-halloween.md
-related_companies:
-- scene/companies/wholetone-opera.md
-short_description: '&quot;Our story begins in a Parisian penthouse infested by an
-  undead hoard lead by Xenobia, huntress of humans. As the minions mingle at a bloody
-  soiree, romantically inclined Christolpho meets the ravenous-yet-rapturous Philonia.
-  Suddenly, all-too-human emotions come into play, leading to chaos, comedy, and a
-  splash-zone worthy chainsaw massacre.&quot;'
-slug: things-i-want-to-see-la-zombiata
-title: 'Things I want to see: La Zombiata'
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2016-02-01T09:52:00-05:00"
+lastmod = "2016-02-01T10:11:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454338800939/2016-02-01---Zombie.jpg.jpg"
+primary_image_credit = "Keeping a bleary eye on the conductor. Photo via AMC."
+publishDate = "2016-02-01T10:11:00-05:00"
+related_articles = ["articles/shower-thoughts-billy-budd-in-space.md","articles/6-tv-shows-that-should-be-operas.md","articles/a-fiercely-queer-opera-for-halloween.md"]
+related_companies = ["scene/companies/wholetone-opera.md"]
+short_description = "&quot;Our story begins in a Parisian penthouse infested by an undead hoard lead by Xenobia, huntress of humans. As the minions mingle at a bloody soiree, romantically inclined Christolpho meets the ravenous-yet-rapturous Philonia. Suddenly, all-too-human emotions come into play, leading to chaos, comedy, and a splash-zone worthy chainsaw massacre.&quot;"
+slug = "things-i-want-to-see-la-zombiata"
+title = "Things I want to see: La Zombiata"
++++
 
 If you're in the Boston area this month, count yourself lucky. [WholeTone Opera](http://wholetoneopera.com/), a new company devoted to working with women composers, is presenting *La Zombiata: A Zombie Opera*, **February 12-14 at Davis Square Theater** in Somerville, MA. The opera is by Jillian Flexner, and it's a comedy loosely based on Verdi's infamous *La traviata*. 
 
@@ -36,7 +27,5 @@ And if you think a zombie opera is a cool idea, you can help them out by contrib
 
 To get details and ticket info for *La Zombiata*, follow the box office links below. WholeTone Opera, we're sorry to miss this one.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454338873725/5472981_orig.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454338873725/5472981_orig.jpg.jpg)
 </figure>

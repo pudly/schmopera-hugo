@@ -1,18 +1,14 @@
----
-_template: people_single
-date: "2017-06-24T14:10:00-06:00"
-discipline: Soprano
-lastmod: "2017-06-24T14:12:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498335071841/download.jpeg.jpeg
-publishDate: "2017-06-24T14:11:00-06:00"
-related_companies:
-- scene/companies/opera-5.md
-- scene/companies/myopera.md
-- scene/companies/indie-opera-to.md
-slug: alexandra-smither
-title: Alexandra Smither
-website: http://www.alexandrasmither.com/
----
++++
+date = "2017-06-24T14:10:00-06:00"
+discipline = "Soprano"
+lastmod = "2017-06-24T14:12:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1498335071841/download.jpeg.jpeg"
+publishDate = "2017-06-24T14:11:00-06:00"
+related_companies = ["scene/companies/opera-5.md","scene/companies/myopera.md","scene/companies/indie-opera-to.md"]
+slug = "alexandra-smither"
+title = "Alexandra Smither"
+website = "http://www.alexandrasmither.com/"
++++
 
 Canadian-British soprano Alexandra Smither is quickly making a name for herself in the world of old and new classical music. A recent graduate from the prestigious Shepherd School of Music at Rice University, 2017 brings performances at Carnegie Hall, the Banff Centre for the Performing Arts, and the Tanglewood Festival.
 

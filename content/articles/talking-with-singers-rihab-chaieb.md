@@ -1,32 +1,22 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2019-07-20T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: Chaieb performs Mahler's [_Das Lied von der Erde_](https://www.torontosummermusic.com/event/song-of-the-earth/)
-  on August 1 at Koerner Hall.
-preamble: |-
-  Tunisian-Canadian mezzo-soprano Rihab Chaieb is soon heading back to familiar territory: as part of this year's Toronto Summer Music Festival, Chaieb and South Korean tenor Mario Bahg offer up Gustav Mahler's [_Das Lied von der Erde_](https://www.torontosummermusic.com/event/song-of-the-earth/), conducted by Gemma New.
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2019-07-20T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = "Chaieb performs Mahler's [_Das Lied von der Erde_](https://www.torontosummermusic.com/event/song-of-the-earth/) on August 1 at Koerner Hall."
+preamble = "Tunisian-Canadian mezzo-soprano Rihab Chaieb is soon heading back to familiar territory: as part of this year's Toronto Summer Music Festival, Chaieb and South Korean tenor Mario Bahg offer up Gustav Mahler's [_Das Lied von der Erde_](https://www.torontosummermusic.com/event/song-of-the-earth/), conducted by Gemma New.\n\nChaieb is a friend of Schmopera's and she's fresh off a Zerlina at the Metropolitan Opera, and the world-premiere production of _The Phoenix_ at Houston Grand Opera. It was a treat to reconnect:"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1563653295/media/2019/07/sqRihabChaieb-pc-FayFox.jpg"
+primary_image_credit = "Photo: Fay Fox."
+related_articles = ["articles/spotlight-on-rihab-chaieb.md"]
+related_companies = []
+related_people = ["scene/people/rihab-chaieb.md"]
+short_description = "\"I've started listening back to my metal band that I was in during high school. That's the whole reason I started signing, is to be in a metal band. I had this nostalgia of going back and starting a band again. It's something in the back of my mind as a mid-30s project: create a metal band and tour the world after being an opera singer!\""
+slug = "talking-with-singers-rihab-chaieb"
+title = "Talking with singers: Rihab Chaieb"
+youtube_url = ""
 
-  Chaieb is a friend of Schmopera's and she's fresh off a Zerlina at the Metropolitan Opera, and the world-premiere production of _The Phoenix_ at Houston Grand Opera. It was a treat to reconnect:
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1563653295/media/2019/07/sqRihabChaieb-pc-FayFox.jpg
-primary_image_credit: 'Photo: Fay Fox.'
-related_articles:
-- articles/spotlight-on-rihab-chaieb.md
-related_companies: []
-related_people:
-- scene/people/rihab-chaieb.md
-short_description: '"I''ve started listening back to my metal band that I was in during
-  high school. That''s the whole reason I started signing, is to be in a metal band.
-  I had this nostalgia of going back and starting a band again. It''s something in
-  the back of my mind as a mid-30s project: create a metal band and tour the world
-  after being an opera singer!"'
-slug: talking-with-singers-rihab-chaieb
-title: 'Talking with singers: Rihab Chaieb'
-youtube_url: ""
----
++++
 ## What have you discovered about Mahler's music?
 
 I've done a few Mahler pieces here and there, but I've never done a full song cycle. \[_Das Lied von der Erde_\] is my first one. It's very alive, it's like storytelling, very poetic.
@@ -37,9 +27,7 @@ It's very spoken, in a way. It doesn't feel like singing - of course it's singin
 
 Every time people learn that I'm Canadian, they're like, 'Oh, you're so nice!' It's the first thing people say. And it's kind of true, most of the time. We're not known to be massive divas with outrageous demands. It's always really welcome, people are always so happy to have a Canadian in the cast.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1563653352/media/2019/07/RihabChaieb1-pc-FayFox.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563653352/media/2019/07/RihabChaieb1-pc-FayFox.jpg){{% /md %}}
 
 <figcaption>Rihab Chaieb, mezzo-soprano. Photo: Fay Fox.</figcaption>
 
@@ -53,9 +41,7 @@ Now, I feel like I'm on a level where I am ready, but I still need the constant 
 
 I'm 32 now, and I'm getting it. It's a very healthy timeline for me.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1563653384/media/2019/07/RihabChaieb4-pc-FayFox.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1563653384/media/2019/07/RihabChaieb4-pc-FayFox.jpg){{% /md %}}
 
 <figcaption>Rihab Chaieb, mezzo-soprano. Photo: Fay Fox.</figcaption>
 

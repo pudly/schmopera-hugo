@@ -1,26 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2017-08-14T21:43:00-04:00"
-lastmod: "2017-08-15T22:12:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502849008987/2017-08-15---Bubble.jpg.jpg
-publishDate: "2017-08-15T22:08:00-04:00"
-related_articles:
-- articles/things-more-important-than-opera.md
-- articles/art-is-not-action.md
-- articles/when-art-is-not-enough-opera-activism.md
-related_companies:
-- scene/companies/bayerische-staatsoper.md
-short_description: The appalled opera goers make claims about wasted money and travel
-  time, and they take a strange stance of half-defending, half-blaming the performers
-  onstage. But the main objections seem to be the apparent &quot;desecration&quot;
-  of Wagner&#039;s work. &quot;Yes, I naively assumed that Wagner’s family had obeyed
-  his very exacting wishes, and that Bayreuth was the place to see his operas as he
-  intended them,&quot; writes Peacock.
-slug: getting-vexed-over-wagner-other-narcissisms
-title: Getting vexed over Wagner &amp; other narcissisms
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2017-08-14T21:43:00-04:00"
+lastmod = "2017-08-15T22:12:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1502849008987/2017-08-15---Bubble.jpg.jpg"
+publishDate = "2017-08-15T22:08:00-04:00"
+related_articles = ["articles/things-more-important-than-opera.md","articles/art-is-not-action.md","articles/when-art-is-not-enough-opera-activism.md"]
+related_companies = ["scene/companies/bayerische-staatsoper.md"]
+short_description = "The appalled opera goers make claims about wasted money and travel time, and they take a strange stance of half-defending, half-blaming the performers onstage. But the main objections seem to be the apparent &quot;desecration&quot; of Wagner&#039;s work. &quot;Yes, I naively assumed that Wagner’s family had obeyed his very exacting wishes, and that Bayreuth was the place to see his operas as he intended them,&quot; writes Peacock."
+slug = "getting-vexed-over-wagner-other-narcissisms"
+title = "Getting vexed over Wagner &amp; other narcissisms"
++++
 
 Over at Norman Lebrecht's *Slipped Disc*, you can [read the angry letters](http://slippedisc.com/2017/08/a-composer-and-a-violinist-are-appalled-by-bayreuths-ring/) written by conductor Rodrigo Ruiz and violinist Kerenza Peacock, who were dissatisfied with their time at the Bayreuth Festival this summer. Basically, they hated [Frank Castorf's *Ring Cycle*](https://www.theguardian.com/music/musicblog/2013/aug/02/frank-castorf-bayreuth-ring-cycle) - a production that earned similar [outrage and boos](https://www.youtube.com/watch?v=wQTUOeXmhMI) when it came to the Festival in 2013.
 

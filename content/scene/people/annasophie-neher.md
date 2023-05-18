@@ -1,24 +1,22 @@
----
-date: "2018-10-18T20:52:00-04:00"
-discipline: Soprano
-lastmod: "2018-10-18T20:52:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539910285030/Anna-Sophie%2BNeher%2B-%2B1.jpg.jpg
-publishDate: "2018-10-18T20:52:00-04:00"
-related_companies:
-- scene/companies/opera-mcgill.md
-- scene/companies/canadian-opera-company.md
-slug: annasophie-neher
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/Anna-Sophie-Neher-soprano-1750114255212270/
-- _template: people_single
-  platform: Soundcloud
-  template: social-media
-  url: https://soundcloud.com/anna-sophie-neher
-title: Anna-Sophie Neher
-website: http://www.annasophieneher.com/
----
++++
+date = "2018-10-18T20:52:00-04:00"
+discipline = "Soprano"
+lastmod = "2018-10-18T20:52:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539910285030/Anna-Sophie%2BNeher%2B-%2B1.jpg.jpg"
+publishDate = "2018-10-18T20:52:00-04:00"
+related_companies = ["scene/companies/opera-mcgill.md","scene/companies/canadian-opera-company.md"]
+slug = "annasophie-neher"
+title = "Anna-Sophie Neher"
+website = "http://www.annasophieneher.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/Anna-Sophie-Neher-soprano-1750114255212270/"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "https://soundcloud.com/anna-sophie-neher"
++++
 
 Canadian-german soprano Anna-Sophie Neher found a true passion in music at an early age. She studied piano at the Gatineau Music Conservatory for more than 10 years and distinguished herself in many competitions. Although she seemed destined to a pianistic career, at 19 years old she discovers the world of classical singing and decides to change vocation.
 

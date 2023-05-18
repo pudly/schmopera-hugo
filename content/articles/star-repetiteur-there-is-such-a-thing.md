@@ -1,39 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: How-to
-date: "2015-06-26T18:05:00-06:00"
-lastmod: "2015-06-27T10:40:00-06:00"
-preamble: 'Répétiteurs, rehearsal pianists, the ones who *repeat* sections of music
-  over and over; they''re a special breed of pianist, with an insanely focused set
-  of skills. Being a répétiteur is one of those jobs that can feel thankless, where
-  people only notice your playing when you mess up. It''s about checking your pianist
-  ego at the door, and facilitating a rehearsal for others: singers, conductors, and
-  directors. It takes a thick skin, and a knowledge of the score that rivals that
-  of the top-billed creative staff. Here are four major parts of doing a tough job
-  like a pro.'
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435386626891/PIano.jpg.jpg
-publishDate: "2015-06-27T08:30:00-06:00"
-related_articles:
-- articles/in-defence-of-pianists.md
-- articles/the-pianists-tech-week-plight.md
-- articles/how-to-lead-your-pianist.md
-- articles/potential-orchestra-mutiny-and-conductor-envy.md
-- articles/pianists-3-tips-for-sounding-like-an-orchestra.md
-- articles/coaches-voice-teachers-and-the-grey-area-in-between.md
-- articles/the-opera-pianists-list-o-priorities.md
-- articles/5-important-roles-who-dont-get-an-aria.md
-- articles/4-ways-to-give-notes-still-be-liked.md
-- articles/new-opera-repetiteur.md
-short_description: 'Répétiteurs, rehearsal pianists, the ones who repeat sections
-  of music over and over; they&#039;re a special breed of pianist, with an insanely
-  focused set of skills. Being a répétiteur is one of those jobs that can feel thankless,
-  where people only notice your playing when you mess up. It&#039;s about checking
-  your pianist ego at the door, and facilitating a rehearsal for others: singers,
-  conductors, and directors.'
-slug: star-repetiteur-there-is-such-a-thing
-title: How to be a star répétiteur (yes, there is such a thing)
----
++++
+author = ["authors/jenna.md"]
+categories = "How-to"
+date = "2015-06-26T18:05:00-06:00"
+lastmod = "2015-06-27T10:40:00-06:00"
+preamble = "Répétiteurs, rehearsal pianists, the ones who *repeat* sections of music over and over; they're a special breed of pianist, with an insanely focused set of skills. Being a répétiteur is one of those jobs that can feel thankless, where people only notice your playing when you mess up. It's about checking your pianist ego at the door, and facilitating a rehearsal for others: singers, conductors, and directors. It takes a thick skin, and a knowledge of the score that rivals that of the top-billed creative staff. Here are four major parts of doing a tough job like a pro."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435386626891/PIano.jpg.jpg"
+publishDate = "2015-06-27T08:30:00-06:00"
+related_articles = ["articles/in-defence-of-pianists.md","articles/the-pianists-tech-week-plight.md","articles/how-to-lead-your-pianist.md","articles/potential-orchestra-mutiny-and-conductor-envy.md","articles/pianists-3-tips-for-sounding-like-an-orchestra.md","articles/coaches-voice-teachers-and-the-grey-area-in-between.md","articles/the-opera-pianists-list-o-priorities.md","articles/5-important-roles-who-dont-get-an-aria.md","articles/4-ways-to-give-notes-still-be-liked.md","articles/new-opera-repetiteur.md"]
+short_description = "Répétiteurs, rehearsal pianists, the ones who repeat sections of music over and over; they&#039;re a special breed of pianist, with an insanely focused set of skills. Being a répétiteur is one of those jobs that can feel thankless, where people only notice your playing when you mess up. It&#039;s about checking your pianist ego at the door, and facilitating a rehearsal for others: singers, conductors, and directors."
+slug = "star-repetiteur-there-is-such-a-thing"
+title = "How to be a star répétiteur (yes, there is such a thing)"
++++
 
 ### Rhythm
 

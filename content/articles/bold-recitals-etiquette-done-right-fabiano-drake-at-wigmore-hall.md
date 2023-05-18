@@ -1,22 +1,16 @@
----
-author:
-- authors/stephanie-applin.md
-categories: Review
-date: "2017-05-17T10:53:00-04:00"
-lastmod: "2017-05-17T11:27:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495033082294/2017-05-17---Michael-Fabiano---Doneson.jpg.jpg
-primary_image_credit: Michael Fabiano, tenor. Photo by Arielle Doneson.
-publishDate: "2017-05-17T11:06:00-04:00"
-related_people:
-- scene/people/rolando-villazon.md
-- scene/people/julius-drake.md
-short_description: Many in the audience knew Fabiano from the 2015 production of Onegin
-  and were thrilled to hear the piece - there was much discussion in the ladies washroom
-  after the show. The ladies also concluded that they couldn&#039;t wait to hear him
-  on stage again!
-slug: bold-recitals-etiquette-done-right-fabiano-drake-at-wigmore-hall
-title: 'Bold recitals &amp; etiquette done right: Fabiano &amp; Drake at Wigmore Hall'
----
++++
+author = ["authors/stephanie-applin.md"]
+categories = "Review"
+date = "2017-05-17T10:53:00-04:00"
+lastmod = "2017-05-17T11:27:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495033082294/2017-05-17---Michael-Fabiano---Doneson.jpg.jpg"
+primary_image_credit = "Michael Fabiano, tenor. Photo by Arielle Doneson."
+publishDate = "2017-05-17T11:06:00-04:00"
+related_people = ["scene/people/rolando-villazon.md","scene/people/julius-drake.md"]
+short_description = "Many in the audience knew Fabiano from the 2015 production of Onegin and were thrilled to hear the piece - there was much discussion in the ladies washroom after the show. The ladies also concluded that they couldn&#039;t wait to hear him on stage again!"
+slug = "bold-recitals-etiquette-done-right-fabiano-drake-at-wigmore-hall"
+title = "Bold recitals &amp; etiquette done right: Fabiano &amp; Drake at Wigmore Hall"
++++
 
 Michael Fabiano likes to start with a bang. His Wigmore Hall debut, with Julius Drake at the piano, marked the end of his recital tour and he opened with Henri Duparc's *Le manoir de Rosemonde*. The first of seven songs by Duparc, "Le manoir de Rosemonde", was dramatic and melancholy and allowed Fabiano to demonstrate his vocal range. "La vie antérieur", by contrast, was lush and full-sounding while "Extase" was languid. Fabiano then moved on to three songs by Liszt which were set to text by Victor Hugo. Liszt and Hugo had a close friendship and Liszt set seven of Hugo’s poems to music [between 1842 and 1844](http://diginole.lib.fsu.edu/islandora/object/fsu%3A180473). Fabiano performed "Oh! quand je dors", "Comment, disait-ils" and "Enfant, si j'étais roi" all of which seemed to sound more comfortable for Fabiano than the previous set both in his voice and the language itself. Drake's sensitive playing was especially evident during the Liszt songs and the first half ended with the audience audibly pleased with the concert.
 
@@ -34,9 +28,7 @@ After the intermission (interval!) Fabiano and Drake returned with Puccini, Tosc
 
 It is in this Italian repertoire that Fabiano really shines as this music suits him perfectly. The dramatic range allows for a beautiful amount of diversity. His next piece, Puccini's "Terra e mare" was the most Puccini-esque of the evening with its soaring melody, very evocative of the classic Puccini vocal lines.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495033158215/2017-05-17---Drake_Julius_pc_Sim_Canetty-Clarke.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495033158215/2017-05-17---Drake_Julius_pc_Sim_Canetty-Clarke.jpg.jpg)
 <figcaption>Julius Drake, pianist. Photo by Sim Canetty-Clarke.</figcaption>
 </figure>
 

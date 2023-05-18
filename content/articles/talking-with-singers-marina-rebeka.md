@@ -1,41 +1,24 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-10-19T14:33:00+01:00"
-lastmod: "2016-10-22T09:36:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049283442/2016-10-21---Marina-Rebeka-Janis-Deinats.jpg.jpg
-primary_image_credit: Photo by Jãnis Deinats.
-publishDate: "2016-10-21T13:00:00+01:00"
-related_articles:
-- articles/spotlight-on-amanda-majeski.md
-- articles/talking-with-singers-nicole-cabell.md
-- articles/talking-with-singers-christine-goerke.md
-- articles/talking-with-singers-daniela-mack.md
-- articles/talking-with-singers-jnai-bridges.md
-- articles/talking-with-singers-anna-caterina-antonacci.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-related_people:
-- scene/people/marina-rebeka.md
-short_description: Though the Metropolitan Opera is no small test of a singer&#039;s
-  nerves, Rebeka found singing in her home town of Riga to be a daunting task. &quot;The
-  feeling with singing at home was always very complicated,&quot; she says. Rebeka&#039;s
-  professional career began in Germany, and when she sang at home, the pressure to
-  prove herself seemed great. &quot;Singing for family and friends, on one hand, it&#039;s
-  great; on the other hand, it&#039;s like, &#039;OK, let&#039;s see what she has
-  learned abroad.&#039;&quot;
-slug: talking-with-singers-marina-rebeka
-title: 'Talking with singers: Marina Rebeka'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-10-19T14:33:00+01:00"
+lastmod = "2016-10-22T09:36:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049283442/2016-10-21---Marina-Rebeka-Janis-Deinats.jpg.jpg"
+primary_image_credit = "Photo by Jãnis Deinats."
+publishDate = "2016-10-21T13:00:00+01:00"
+related_articles = ["articles/spotlight-on-amanda-majeski.md","articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-daniela-mack.md","articles/talking-with-singers-jnai-bridges.md","articles/talking-with-singers-anna-caterina-antonacci.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md"]
+related_people = ["scene/people/marina-rebeka.md"]
+short_description = "Though the Metropolitan Opera is no small test of a singer&#039;s nerves, Rebeka found singing in her home town of Riga to be a daunting task. &quot;The feeling with singing at home was always very complicated,&quot; she says. Rebeka&#039;s professional career began in Germany, and when she sang at home, the pressure to prove herself seemed great. &quot;Singing for family and friends, on one hand, it&#039;s great; on the other hand, it&#039;s like, &#039;OK, let&#039;s see what she has learned abroad.&#039;&quot;"
+slug = "talking-with-singers-marina-rebeka"
+title = "Talking with singers: Marina Rebeka"
++++
 
 "It's a different feeling," says Latvian soprano Marina Rebeka, of her return to the Metropolitan Opera. "It's much more calm, much more on the ground."
 
 Rebeka is in the middle of a run of Rossini's [*Guillaume Tell*](http://www.metopera.org/Season/2016-17-Season/guillaume-tell-rossini-tickets/) at the Met, where she sings the role of Mathilde. The production by Pierre Audi is the same in which she made her role debut in Amsterdam in 2013. Still, Rebeka took advantage of the month-long rehearsal process in New York. "I knew the production already, but it was important because I got this chemistry with my colleagues." Onstage chemistry, plus the spatial differences between the stages in Amsterdam and New York ("The stage is smaller in the Met," Rebeka adds), add enough novelty to keep her on her toes.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049328154/2016-10-21---Marina-Rebeka-backstage-as-Mathilde.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049328154/2016-10-21---Marina-Rebeka-backstage-as-Mathilde.jpg.jpg)
 <figcaption>Marina Rebeka backstage as Mathilde. Photo by Catherine Pisaroni.</figcaption>
 </figure>
 
@@ -53,9 +36,7 @@ Since she rarely sleeps on planes, Rebeka uses the travel time to study for upco
 
 Like many singers, Rebeka knows the value of exercise, yet she's no gym rat. In New York, she takes walks in the rare pockets of green space ("'Fresh air' could be considered Central Park."), and she loves to dance. "Dance, for me, is much better than a gym," she says. "I use my time, when I am in the US, to go to the [Fred Astaire Dance Studio](https://www.fredastaire.com/) at 72nd and Broadway." The break from opera, Rebeka finds, is great for her body and her soul. "You cannot think about singing or whatever, because you are busy thinking about your body," she says. "It's a good way to switch off your head."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049383563/2016-10-21---2-Marina-Rebeka-Janis-Deinats.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049383563/2016-10-21---2-Marina-Rebeka-Janis-Deinats.jpg.jpg)
 <figcaption>Photo by Jãnis Deinats.</figcaption>
 </figure>
 

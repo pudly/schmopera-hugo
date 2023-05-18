@@ -1,31 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-08-23T14:29:00-04:00"
-lastmod: "2017-08-25T09:51:00-04:00"
-preamble: |-
-  Mezzo-soprano [Annalisa Stroppa](/scene/people/annalisa-stroppa/) just finished singing the title role in Kasper Holten's production of *Carmen* at the Bregenz Festival, and next month she heads to Astana, Kazakhstan, to sing Meg Page in Damiano Michieletto's *Falstaff* at Astana Opera. For the 2017/18 season, Stroppa brings signature roles like Rosina (*Il barbiere di Siviglia*), Adalgisa (*Norma*), and Fenena (*Nabucco*) to houses from Dresden to Milan.
-
-  Stroppa's passion for her work is infectious; we had a chance to speak with her about reaping the rewards of hard work and determination, and her invaluable support system of family and friends.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503514174515/2017-08-23---Square---Annalisa-Stroppa_foto-Victor-Santiago.jpg.jpg
-primary_image_credit: 'Photo: Victor Santiago.'
-publishDate: "2017-08-25T09:51:00-04:00"
-related_companies:
-- scene/companies/teatro-alla-scala.md
-- scene/companies/semperoper-dresden.md
-related_people:
-- scene/people/annalisa-stroppa.md
-short_description: '&quot;I am happy despite all the difficulties because I travel
-  for a profession I adore and gives me a lot of satisfaction, and this is priceless.
-  My passion and the enthusiasm together with family&#039;s support is what gives
-  me the strength and the serenity to deal with all the hurdles. Being away from your
-  family and the consequent impossibility to cultivate one&#039;s family, friends
-  and sentimental relationship is the price to pay but I am convinced that those who
-  love you support you and their presence is felt even when you are far away.&quot;'
-slug: talking-with-singers-annalisa-stroppa
-title: 'Talking with singers: Annalisa Stroppa'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-08-23T14:29:00-04:00"
+lastmod = "2017-08-25T09:51:00-04:00"
+preamble = "Mezzo-soprano [Annalisa Stroppa](/scene/people/annalisa-stroppa/) just finished singing the title role in Kasper Holten's production of *Carmen* at the Bregenz Festival, and next month she heads to Astana, Kazakhstan, to sing Meg Page in Damiano Michieletto's *Falstaff* at Astana Opera. For the 2017/18 season, Stroppa brings signature roles like Rosina (*Il barbiere di Siviglia*), Adalgisa (*Norma*), and Fenena (*Nabucco*) to houses from Dresden to Milan.\n\nStroppa's passion for her work is infectious; we had a chance to speak with her about reaping the rewards of hard work and determination, and her invaluable support system of family and friends."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503514174515/2017-08-23---Square---Annalisa-Stroppa_foto-Victor-Santiago.jpg.jpg"
+primary_image_credit = "Photo: Victor Santiago."
+publishDate = "2017-08-25T09:51:00-04:00"
+related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/semperoper-dresden.md"]
+related_people = ["scene/people/annalisa-stroppa.md"]
+short_description = "&quot;I am happy despite all the difficulties because I travel for a profession I adore and gives me a lot of satisfaction, and this is priceless. My passion and the enthusiasm together with family&#039;s support is what gives me the strength and the serenity to deal with all the hurdles. Being away from your family and the consequent impossibility to cultivate one&#039;s family, friends and sentimental relationship is the price to pay but I am convinced that those who love you support you and their presence is felt even when you are far away.&quot;"
+slug = "talking-with-singers-annalisa-stroppa"
+title = "Talking with singers: Annalisa Stroppa"
++++
 
 ## Why do you sing?
 
@@ -35,9 +22,7 @@ And so I started studying solfège and piano, and later, after the voice break, 
 
 After years of studies and sacrifices I can see my name in the rosters of the most important opera companies in the world: it is a huge satisfaction! I love my job: singing is not just work for me, it’s really part of myself, it fully absorbs my life and it's wonderful to have been able to fulfil my dream! I could have never imagined it because one can understand something like this only when you personally experience it. Despite all the difficulties and spending a long time far from your loved ones, when you are on stage and you feel you have done your best, the audience's applause compensates you for all the sacrifices you have done. I am truly lucky: I have been able to turn my passion into my job! I am so thankful, I am very happy and I hope I'll be able to continue like this.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503514217173/2017-08-23---Annalisa-Stroppa.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503514217173/2017-08-23---Annalisa-Stroppa.jpg.jpg)
 </figure>
 
 ## What do you know about the singing career that you wish you knew 10 years ago?
@@ -50,9 +35,7 @@ The endless traveling, intense work and climate changes prompt us to take partic
 
 I am happy despite all the difficulties because I travel for a profession I adore and gives me a lot of satisfaction, and this is priceless. My passion and the enthusiasm together with family's support is what gives me the strength and the serenity to deal with all the hurdles. Being away from your family and the consequent impossibility to cultivate one's family, friends and sentimental relationship is the price to pay but I am convinced that those who love you support you and their presence is felt even when you are far away. I have been very lucky because since the beginning I have had near me wonderful people who never failed to make me feel their love and support.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503514304062/2017-08-23---Stroppa.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503514304062/2017-08-23---Stroppa.jpg.jpg)
 </figure>
 
 ## How do you approach the trouser roles you sing? Do you have any tricks for embodying the opposite gender?

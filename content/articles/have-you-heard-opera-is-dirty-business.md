@@ -1,25 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2015-12-22T16:50:00-05:00"
-lastmod: "2015-12-23T10:06:00-05:00"
-preamble: 'Note: this post may not be safe for work.'
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450829652521/2015-12-23---RomeoJuliette.jpg.jpg
-primary_image_credit: 'Anna Netrebko and Roberto Alagna in the Metropolitan Opera''s
-  production of Roméo et Juliette, 2011. Photo: Metropolitan Opera'
-publishDate: "2015-12-23T10:00:00-05:00"
-related_articles:
-- articles/operas-love-stories-3-reasons-theyre-doomed.md
-- articles/in-review-sex-workers-opera.md
-short_description: When I was in my first year of my undergrad degree, I lived in
-  a dorm, on a floor full of music students. I remember one day, when a floormate
-  burst into our room, saying she&#039;d just heard &quot;the cutest pick-up line
-  ever for musicians&quot;. I prepared myself for a nerdtastic joke, and was rewarded
-  when she quoted, &quot;I&#039;m a fermata, hold me!&quot;
-slug: have-you-heard-opera-is-dirty-business
-title: Have you heard? Opera is dirty business
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2015-12-22T16:50:00-05:00"
+lastmod = "2015-12-23T10:06:00-05:00"
+preamble = "Note: this post may not be safe for work."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450829652521/2015-12-23---RomeoJuliette.jpg.jpg"
+primary_image_credit = "Anna Netrebko and Roberto Alagna in the Metropolitan Opera's production of Roméo et Juliette, 2011. Photo: Metropolitan Opera"
+publishDate = "2015-12-23T10:00:00-05:00"
+related_articles = ["articles/operas-love-stories-3-reasons-theyre-doomed.md","articles/in-review-sex-workers-opera.md"]
+short_description = "When I was in my first year of my undergrad degree, I lived in a dorm, on a floor full of music students. I remember one day, when a floormate burst into our room, saying she&#039;d just heard &quot;the cutest pick-up line ever for musicians&quot;. I prepared myself for a nerdtastic joke, and was rewarded when she quoted, &quot;I&#039;m a fermata, hold me!&quot;"
+slug = "have-you-heard-opera-is-dirty-business"
+title = "Have you heard? Opera is dirty business"
++++
 
 When I was in my first year of my undergrad degree, I lived in a dorm, on a floor full of music students. I remember one day, when a floormate burst into our room, saying she'd just heard "the cutest pick-up line ever for musicians". I prepared myself for a nerdtastic joke, and was rewarded when she quoted, "I'm a fermata, hold me!"
 

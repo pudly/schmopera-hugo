@@ -1,25 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-05-19T17:00:00-04:00"
-lastmod: "2017-05-22T22:28:00-04:00"
-preamble: |
-  *Songs of the Soul Beams*, the award-winning new song cycle by Felix Jarrar and Brittany Goodwin, is set for its world premiere at the Brooklyn Academy of Music, **June 4, 8pm**. The cycle deals with themes of grief and loss, and it features soprano [Corrine Byrne](/scene/people/corrine-byrne/), baritone [Jeremy Hirsch](/scene/people/jeremy-hirsch/), singing actors Goodwin and [Petra Jarrar](http://www.petrajarrar.com/), harpist [Mélanie Genin](http://melaniegenin.com/), and Felix Jarrar as pianist and music director.
-
-  We spoke with members of the creative team behind the debut performance for *Songs of the Soul Beams* about writing music for unique combinations of musicians, and why when it comes to grief, its "OK to not be OK."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495227693161/2017-05-20---BAM-Jarrar.jpg.jpg
-publishDate: "2017-05-22T10:52:00-04:00"
-related_people:
-- scene/people/corrine-byrne.md
-- scene/people/felix-jarrar.md
-short_description: '&quot;I want the audience to take away the fact that it is OK
-  to talk about grief. It is OK to talk about loss. Most importantly, it is OK TO
-  NOT BE OK. As the composer, I wanted to normalize the experience of grief through
-  this musical work.&quot;'
-slug: dont-miss-songs-of-the-soul-beams
-title: 'Don&#039;t miss: Songs of the Soul Beams'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-05-19T17:00:00-04:00"
+lastmod = "2017-05-22T22:28:00-04:00"
+preamble = "*Songs of the Soul Beams*, the award-winning new song cycle by Felix Jarrar and Brittany Goodwin, is set for its world premiere at the Brooklyn Academy of Music, **June 4, 8pm**. The cycle deals with themes of grief and loss, and it features soprano [Corrine Byrne](/scene/people/corrine-byrne/), baritone [Jeremy Hirsch](/scene/people/jeremy-hirsch/), singing actors Goodwin and [Petra Jarrar](http://www.petrajarrar.com/), harpist [Mélanie Genin](http://melaniegenin.com/), and Felix Jarrar as pianist and music director.\n\nWe spoke with members of the creative team behind the debut performance for *Songs of the Soul Beams* about writing music for unique combinations of musicians, and why when it comes to grief, its \"OK to not be OK.\"\n"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495227693161/2017-05-20---BAM-Jarrar.jpg.jpg"
+publishDate = "2017-05-22T10:52:00-04:00"
+related_people = ["scene/people/corrine-byrne.md","scene/people/felix-jarrar.md"]
+short_description = "&quot;I want the audience to take away the fact that it is OK to talk about grief. It is OK to talk about loss. Most importantly, it is OK TO NOT BE OK. As the composer, I wanted to normalize the experience of grief through this musical work.&quot;"
+slug = "dont-miss-songs-of-the-soul-beams"
+title = "Don&#039;t miss: Songs of the Soul Beams"
++++
 
 ## What can you tell us about the subject of *Songs of the Soul Beams*?
 

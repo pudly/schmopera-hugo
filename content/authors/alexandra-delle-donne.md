@@ -1,13 +1,14 @@
----
-discipline: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574473871/media/2019/11/AlexandraDelleDonne_qhrrxj.jpg
-primary_image_credit: ""
-related_companies: []
-slug: alexandra-delle-donne
-social_media: []
-title: Alexandra Delle Donne
-website: ""
----
++++
+discipline = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574473871/media/2019/11/AlexandraDelleDonne_qhrrxj.jpg"
+primary_image_credit = ""
+related_companies = []
+slug = "alexandra-delle-donne"
+social_media = []
+title = "Alexandra Delle Donne"
+website = ""
+
++++
 This season, soprano Alexandra Delle Donne will be pursing her Graduate Degree in Historical Performance at the University of Toronto. She completed her Bachelor's degree in classical Voice Performance at the University of Toronto. Alexandra will be performing with the Opera In Concert (OIC) under the direction of Guillermo Silva-Marin and Robert Cooper. Alexandra will also be a featured soloist in _Acis and Galatea_ under the direction of Larry Beckcwith, Isaiah Bell, and Eric Thor. She will also be a soloist in Purcell's _King Arthur_ under the direction of Christopher Bagen and Eric Thor. 
 
 This past June Alexandra had the privilege to participate in the Tafelmusik Baroque Summer Institute, under the direction of Ivars Taurins. She had the pleasure of working with Vera Causa Opera in Kitchener/Waterloo, and performed in the chorus for Puccini's _Le Villi_ and Donizetti's _The Elixir of Love_. Alexandra also premiered in Dylan Langan's _Dracula_, as Wife #1. 

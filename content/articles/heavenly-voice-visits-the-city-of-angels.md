@@ -1,24 +1,17 @@
----
-author:
-- authors/loren-lester.md
-categories: Review
-date: "2018-02-08T11:55:00-05:00"
-lastmod: "2018-02-08T13:11:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518108932044/sq---renee_fleming_credit_andrew-eccles.jpg.jpg
-primary_image_credit: 'Photo: Andrew Eccles.'
-publishDate: "2018-02-08T11:55:00-05:00"
-related_companies:
-- scene/companies/los-angeles-opera.md
-related_people:
-- scene/people/renee-fleming.md
-short_description: The night ended with a nod to Leonard Bernstein&#039;s 100th Birthday
-  - &quot;Somewhere&quot; from West Side Story. The lyrics &quot;There&#039;s a place
-  for us - somewhere a place for us…&quot; she dedicated to the DACA Dreamers, and
-  the evening ended with many in tears and everyone on their feet for several standing
-  ovations.
-slug: heavenly-voice-visits-the-city-of-angels
-title: Heavenly voice visits the City of Angels
----
++++
+author = ["authors/loren-lester.md"]
+categories = "Review"
+date = "2018-02-08T11:55:00-05:00"
+lastmod = "2018-02-08T13:11:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518108932044/sq---renee_fleming_credit_andrew-eccles.jpg.jpg"
+primary_image_credit = "Photo: Andrew Eccles."
+publishDate = "2018-02-08T11:55:00-05:00"
+related_companies = ["scene/companies/los-angeles-opera.md"]
+related_people = ["scene/people/renee-fleming.md"]
+short_description = "The night ended with a nod to Leonard Bernstein&#039;s 100th Birthday - &quot;Somewhere&quot; from West Side Story. The lyrics &quot;There&#039;s a place for us - somewhere a place for us…&quot; she dedicated to the DACA Dreamers, and the evening ended with many in tears and everyone on their feet for several standing ovations."
+slug = "heavenly-voice-visits-the-city-of-angels"
+title = "Heavenly voice visits the City of Angels"
++++
 
 Soprano Renée Fleming has reached the highest of heights, not only in the opera world, but she has gone just about as far as any classically-trained singer can go in popular culture (she even sang at a Super Bowl.) After receiving just about every award possible and after performing in fifty-plus operas, she announced her retirement from staged works last year (except for Broadway musicals.) It appears that we can now only look forward to recordings and concerts to hear "the people's diva" remind us of why she earned that title.
 
@@ -28,9 +21,7 @@ That didn't mean Ms. Fleming would stop singing, however, and so she hit the roa
 
 For whatever reason Ms. Fleming has retired, it has nothing to do with her voice, which is as glorious as ever.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518108606153/renee-fleming_recital_2-6-2018_photo_by_larry-ho_01.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518108606153/renee-fleming_recital_2-6-2018_photo_by_larry-ho_01.jpg.jpg)
 <figcaption>Renée Fleming in recital with pianist Hartmut Holl at LA Opera on February 6, 2018. Photo: Larry Ho.</figcaption>
 </figure>
 

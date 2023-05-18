@@ -1,20 +1,15 @@
----
-_template: people_single
-date: "2017-02-03T10:27:00+00:00"
-discipline: Baritone
-lastmod: "2017-02-03T10:27:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486117538631/2017-02-03---Nicholas-Pallesen.jpg.jpg
-primary_image_credit: Laura Rose
-publishDate: "2017-02-03T10:27:00+00:00"
-related_companies:
-- scene/companies/english-national-opera.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/the-santa-fe-opera.md
-slug: nicholas-pallesen
-title: Nicholas Pallesen
-website: http://www.nicholaspallesen.com/index.html
----
++++
+date = "2017-02-03T10:27:00+00:00"
+discipline = "Baritone"
+lastmod = "2017-02-03T10:27:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486117538631/2017-02-03---Nicholas-Pallesen.jpg.jpg"
+primary_image_credit = "Laura Rose"
+publishDate = "2017-02-03T10:27:00+00:00"
+related_companies = ["scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/the-santa-fe-opera.md"]
+slug = "nicholas-pallesen"
+title = "Nicholas Pallesen"
+website = "http://www.nicholaspallesen.com/index.html"
++++
 
 American Baritone Nicholas Pallesen has received international praise for his "authority and tonal beauty", "handsome, stylish singing", "depth of feeling", and his "formidable portrayal in bearing and voice". He is a 2012 recipient of a Richard Tucker Career Grant from the Richard Tucker Foundation and a 2013 Award winner of the George London Foundation Competition. He is also a former Grand Finalist in the Metropolitan Opera National Council Auditions and can be seen in the documentary, "The Audition”.
 

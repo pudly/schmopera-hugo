@@ -1,38 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-10-22T19:54:00-04:00"
-lastmod: "2015-10-26T10:03:00-04:00"
-preamble: "Most artists want to touch the lives of others with their work, and I spoke
-  recently with a few Canada-based singers who have found a very tangible way to do
-  some good with their talent. Tenor [Paul Williamson](/scene/people/paul-williamson/)
-  and soprano [Allison Cecilia Arends](/scene/people/allison-arends/) travelled last
-  summer to Kingston, Jamaica, where they held their inaugural Mini Mozarts Summer
-  Camp with the St. Andrew Parish Foundation. Mezzo-soprano Kathleen Promane, the
-  newest addition to Mini Mozarts Summer Camp joined Paul and Allison in Kingston
-  this fall to sing in a benefit concert for the Foundation. \n\nMini Mozarts participants
-  come from communities living in extreme poverty; in addition to daily meals, campers
-  get a fun introduction to music, games, arts and crafts, and performances of their
-  own. Paul, Allison, and Kathleen talk about the work they've been able to do in
-  Kingston, and what it feels like to be able to give to a community in need. \"They
-  do not take anything for granted, since they have very little.\""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445826553725/MiniMozarts.jpg.jpg
-publishDate: "2015-10-26T09:00:00-04:00"
-related_articles:
-- articles/hear-the-premiere-of-abraham-support-the-syrian-refugee-program.md
-- articles/dont-miss-shoestring-operas-hansel-gretel.md
-related_people:
-- scene/people/allison-arends.md
-- scene/people/paul-williamson.md
-short_description: 'Most artists want to touch the lives of others with their work,
-  and I spoke recently with a few Canada-based singers who have found a very tangible
-  way to do some good with their talent. Tenor Paul Williamson and soprano Allison
-  Cecilia Arends travelled last summer to Kingston, Jamaica, where they held their
-  inaugural Mini Mozarts Summer Camp with the St. Andrew Parish Foundation. '
-slug: music-matters-at-mini-mozarts-summer-music-camp
-title: Music Matters at Mini Mozarts Summer Music Camp
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-10-22T19:54:00-04:00"
+lastmod = "2015-10-26T10:03:00-04:00"
+preamble = "Most artists want to touch the lives of others with their work, and I spoke recently with a few Canada-based singers who have found a very tangible way to do some good with their talent. Tenor [Paul Williamson](/scene/people/paul-williamson/) and soprano [Allison Cecilia Arends](/scene/people/allison-arends/) travelled last summer to Kingston, Jamaica, where they held their inaugural Mini Mozarts Summer Camp with the St. Andrew Parish Foundation. Mezzo-soprano Kathleen Promane, the newest addition to Mini Mozarts Summer Camp joined Paul and Allison in Kingston this fall to sing in a benefit concert for the Foundation. \n\nMini Mozarts participants come from communities living in extreme poverty; in addition to daily meals, campers get a fun introduction to music, games, arts and crafts, and performances of their own. Paul, Allison, and Kathleen talk about the work they've been able to do in Kingston, and what it feels like to be able to give to a community in need. \"They do not take anything for granted, since they have very little.\""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445826553725/MiniMozarts.jpg.jpg"
+publishDate = "2015-10-26T09:00:00-04:00"
+related_articles = ["articles/hear-the-premiere-of-abraham-support-the-syrian-refugee-program.md","articles/dont-miss-shoestring-operas-hansel-gretel.md"]
+related_people = ["scene/people/allison-arends.md","scene/people/paul-williamson.md"]
+short_description = "Most artists want to touch the lives of others with their work, and I spoke recently with a few Canada-based singers who have found a very tangible way to do some good with their talent. Tenor Paul Williamson and soprano Allison Cecilia Arends travelled last summer to Kingston, Jamaica, where they held their inaugural Mini Mozarts Summer Camp with the St. Andrew Parish Foundation. "
+slug = "music-matters-at-mini-mozarts-summer-music-camp"
+title = "Music Matters at Mini Mozarts Summer Music Camp"
++++
 
 ## 1. What drove you to start this summer camp in Kingston, Jamaica?
 
@@ -48,9 +27,7 @@ It was immediately obvious to me that the foundation has been doing a fabulous j
 
 We both were so fortunate to receive the full support of this amazing Foundation, and to work with them in their incredibly cooperative and generous spirit. The rest is history!
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445561544250/045AArends%20WEB.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445561544250/045AArends%20WEB.jpg.jpg)
 <figcaption>Allison Cecilia Arends, soprano.</figcaption>
 </figure>
 
@@ -72,9 +49,7 @@ Next was craft time, which was perhaps a favourite amongst both the children and
 
 After the kids were fed lunch, they were released and we began planning and settting up for the next day. We would then make our way home (we were generously put up by the lovely Mrs. Facey, a major sponsor for the Foundation) in a dirty, sweaty, exhausted, but overwhelmingly fulfilled heap.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445559036985/Paul-Anthony-Williamson%2C-tenor2.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445559036985/Paul-Anthony-Williamson%2C-tenor2.jpg.jpg)
 <figcaption>Paul Williamson, tenor.</figcaption></figure>
 
 ## 3. What changes or improvements are you making after this summer's inaugural camp?
@@ -87,9 +62,7 @@ Also, there is a high incidence of child [sexual] abuse in this neighbourhood, r
 
 It is also important that they are aware of the supportive role both we and the schoolteachers and staff are playing in their lives. Our camp was open to children ages 3-9. As the older children pass that age, we feel it is important not to abandon them, but to continue contact. We have discussed hosting another camp for older kids, or having some kind of a "junior leader" program, whereby they can be involved in the camp while taking on leadership responsibilities. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445561493337/Kathleen-Promane-headshot-1.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445561493337/Kathleen-Promane-headshot-1.jpg.jpg)
 <figcaption> Kathleen Promane, mezzo-soprano.</figcaption>
 </figure>
 

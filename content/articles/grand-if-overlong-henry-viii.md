@@ -1,30 +1,22 @@
----
-author:
-- authors/arturo-fernandez.md
-categories: Review
-date: "2019-09-22T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569198345/media/2019/09/sqMichaelChioldi_withOrchestra_ryga9k.jpg
-primary_image_credit: 'Michael Chioldi in Henry VIII, Odyssey Opera, 2019. Photo:
-  Kathy Wittman.'
-related_articles:
-- articles/chemistry-sizzles-onstage-in-paride-ed-elena.md
-- articles/in-review-stiffelio.md
-related_companies:
-- scene/companies/odyssey-opera.md
-related_people:
-- scene/people/michael-chioldi.md
-short_description: Of course, when the music found its dramatic stride, Saint-Saëns
-  could deliver the drama in spades.The septet (actually an octet) that closed Act
-  II made me wonder why it was cut to begin with, for it's the perfect musical climax
-  to the second act.
-slug: grand-if-overlong-henry-viii
-title: Grand, if overlong, Henry VIII
-youtube_url: ""
----
++++
+author = ["authors/arturo-fernandez.md"]
+categories = "Review"
+date = "2019-09-22T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569198345/media/2019/09/sqMichaelChioldi_withOrchestra_ryga9k.jpg"
+primary_image_credit = "Michael Chioldi in Henry VIII, Odyssey Opera, 2019. Photo: Kathy Wittman."
+related_articles = ["articles/chemistry-sizzles-onstage-in-paride-ed-elena.md", "articles/in-review-stiffelio.md"]
+related_companies = ["scene/companies/odyssey-opera.md"]
+related_people = ["scene/people/michael-chioldi.md"]
+short_description = "Of course, when the music found its dramatic stride, Saint-Saëns could deliver the drama in spades.The septet (actually an octet) that closed Act II made me wonder why it was cut to begin with, for it's the perfect musical climax to the second act."
+slug = "grand-if-overlong-henry-viii"
+title = "Grand, if overlong, Henry VIII"
+youtube_url = ""
+
++++
 This is perhaps the second season in a row that [Odyssey Opera](/scene/companies/odyssey-opera/) has chosen to open their season with a French grand opera from the Romantic era. From an artistic standpoint, this makes a certain amount of programming sense: these operas are typically grandiose, and they fit perfectly in Odyssey Opera's mission statement of performing repertoire that is commonly underperformed today.
 
 > It can veer on the side of being overlong, and goodness was this opera overlong.
@@ -33,9 +25,7 @@ Thus, one would think that opening the season with Camille Saint-Saëns' opera _
 
 Of course, the problem with opening with an opera from this era is that it can veer on the side of being overlong, and goodness was this opera overlong. The program stated the runtime was three and a half hours: when I checked my watch at the end of the concert, it had been almost five hours, with a few elderly patrons slowly leaving Jordan Hall throughout the last two acts.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1569198041/media/2019/09/Ensemble_withOrchestra_w2ff11.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569198041/media/2019/09/Ensemble_withOrchestra_w2ff11.jpg){{% /md %}}
 
 <figcaption>The ensemble of Henry VIII, Odyssey Opera, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -43,9 +33,7 @@ Of course, the problem with opening with an opera from this era is that it can v
 
 Worse, some of it is down to pacing issues in Saint-Saëns' score even beyond the lengthy ballet halfway through the opera. The program makes mention about the cuts to the score being mostly against Saint-Saëns' will, but apart from a truly head-scratching cut at the end of Act II, I wonder just how reluctantly he made a few of those cuts: some arias could have been shortened or completely cut to perhaps more concise dramatic effect, in particular the Cardinal Carpeggio's aria midway through Act III and Catherine of Aragon's aria that opens the scene in her bedchambers in Act IV.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1569198057/media/2019/09/MichaelChioldi_yg3f2g.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569198057/media/2019/09/MichaelChioldi_yg3f2g.jpg){{% /md %}}
 
 <figcaption>Michael Chioldi in Henry VIII, Odyssey Opera, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -57,9 +45,7 @@ Sometimes even without the cuts, the music had a tendency to get a little meande
 
 Of course, when the music found its dramatic stride, Saint-Saëns could deliver the drama in spades.The septet (actually an octet) that closed Act II made me wonder why it was cut to begin with, for it's the perfect musical climax to the second act. The courtroom scene at Westminster in Act III was nothing short of a musical marvel, with the music living up to the grand scale of the scene. Particularly inspired, too, were several arias throughout the second and third acts that shone spotlights on characterization. The confrontation between Henry's wives in Act IV also made for a satisfying musical climax, particularly when Henry storms in.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1569198068/media/2019/09/HilaryGinther_kggrnm.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569198068/media/2019/09/HilaryGinther_kggrnm.jpg){{% /md %}}
 
 <figcaption>Hilary Ginther in Henry VIII, Odyssey Opera, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -71,9 +57,7 @@ It does ultimately tie into Odyssey Opera's mission statement to shine a light o
 
 The performance, at least, was absolutely top-notch from everyone involved, and it was to an extremely high standard even by Odyssey Opera's already high standards. The orchestral playing was sensitive, always providing great accompaniment in that it supported the singers while highlighting Saint-Saëns' use of the orchestral palette to indicate a mood change. The choral singing was reliably great as always, with powerful tutti singing and even several chorus members who knocked it out of the part in several solo parts. Maestro Rose navigated both forces through the rich score with a deft hand that held the balances just right.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1569198157/media/2019/09/EllieDehn_ErinMerceruio_withOrchestra_lcckps.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569198157/media/2019/09/EllieDehn_ErinMerceruio_withOrchestra_lcckps.jpg){{% /md %}}
 
 <figcaption>Ellie Dehn and Erin Merceruio in Henry VIII, Odyssey Opera, 2019. Photo: Kathy Wittman.</figcaption>
 
@@ -91,9 +75,7 @@ Ellie Dehn took a little bit of time to warm up to Catherine of Aragon, but once
 
 The minor roles also had rather excellent singing, but in particular Kevin Deas stood out as the Cardinal Campeggio, who managed to fill his Act III aria with just enough authority that I could almost overlook the fact that it was about two minutes too long.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1569198228/media/2019/09/YeghisheManucharyan_ggyv4u.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1569198228/media/2019/09/YeghisheManucharyan_ggyv4u.jpg){{% /md %}}
 
 <figcaption>Yeghishe Manucharyan Henry VIII, Odyssey Opera, 2019. Photo: Kathy Wittman.</figcaption>
 

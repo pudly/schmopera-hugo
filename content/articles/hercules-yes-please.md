@@ -1,25 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2014-02-25T13:21:00-05:00"
-lastmod: "2015-04-27T21:26:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430184338021/sellars_65022_Cover.jpg.jpg
-publishDate: "2014-02-25T13:21:00-05:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/alice-coote.md
-- scene/people/lucy-crowe.md
-- scene/people/eric-owens.md
-short_description: 'You know you&#039;re writing about opera in North America when
-  you start to drool over a show that doesn&#039;t open until April 5th. But hey,
-  I like hype. I&#039;m talking about the COC&#039;s production of Handel&#039;s Hercules,
-  directed by the infamous Peter Sellars. I just can&#039;t imagine what won&#039;t
-  be to love. '
-slug: hercules-yes-please
-title: Hercules? Yes please!
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2014-02-25T13:21:00-05:00"
+lastmod = "2015-04-27T21:26:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430184338021/sellars_65022_Cover.jpg.jpg"
+publishDate = "2014-02-25T13:21:00-05:00"
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/alice-coote.md","scene/people/lucy-crowe.md","scene/people/eric-owens.md"]
+short_description = "You know you&#039;re writing about opera in North America when you start to drool over a show that doesn&#039;t open until April 5th. But hey, I like hype. I&#039;m talking about the COC&#039;s production of Handel&#039;s Hercules, directed by the infamous Peter Sellars. I just can&#039;t imagine what won&#039;t be to love. "
+slug = "hercules-yes-please"
+title = "Hercules? Yes please!"
++++
 
 You know you're writing about opera in North America when you start to drool over a show that doesn't open until April 5th. But hey, I like hype. I'm talking about the [COC's production of Handel's _Hercules_](http://www.coc.ca/PerformancesAndTickets/1314Season/Hercules.aspx), directed by the infamous [Peter Sellars](http://en.wikipedia.org/wiki/Peter_Sellars). I just can't imagine what won't be to love. American baritone [Eric Owens](http://imgartists.com/artist/eric_owens) stars as Hercules, and British mezzo-soprano [Alice Coote](http://imgartists.com/artist/alice_coote) will sing the role of his wife, Dejanira. Man, oh man, will I be there with bells on.
 

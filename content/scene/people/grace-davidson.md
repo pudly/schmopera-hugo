@@ -1,24 +1,26 @@
----
-date: "2019-03-27T17:20:59+00:00"
-discipline: Soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553028830/media/2019/03/GraceDavidson.jpg
-primary_image_credit: ""
-related_companies: []
-slug: grace-davidson
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/GraceDavidson33
-- platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/playlist?list=PLbcYpbI9_eji02dDtje5BfLgdZ3BM7Yq2
-- _template: people_single
-  platform: Soundcloud
-  template: social-media
-  url: https://soundcloud.com/grace-davidson-soprano
-title: Grace Davidson
-website: https://gracedavidsonsoprano.com/
----
++++
+date = "2019-03-27T17:20:59+00:00"
+discipline = "Soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553028830/media/2019/03/GraceDavidson.jpg"
+primary_image_credit = ""
+related_companies = []
+slug = "grace-davidson"
+title = "Grace Davidson"
+website = "https://gracedavidsonsoprano.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/GraceDavidson33"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/playlist?list=PLbcYpbI9_eji02dDtje5BfLgdZ3BM7Yq2"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "https://soundcloud.com/grace-davidson-soprano"
+
++++
 Grace Davidson is a British soprano who specialises first and foremost in the performance and recording of Baroque music.
 
 Grace won the Early Music Prize while studying singing at London’s Royal Academy of Music. Since then, she has worked with leading Baroque ensembles of our day, singing under the batons of Sir John Eliot Gardner. Paul McCreesh, Philippe Herrweghe and Harry Christophers. Her discography includes a decade of CDs with The Sixteen, many of which feature her as soloist – Handel’s _Jeptha_ (as Angel), _Dixit Dominus_, Monteverdi’s Vespers of 1610, _Pianto della Madonna_, and the Lutheran Masses of Bach.

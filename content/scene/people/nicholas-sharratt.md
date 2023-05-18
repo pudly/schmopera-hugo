@@ -1,26 +1,22 @@
----
-date: "2016-03-11T11:35:00+00:00"
-discipline: Tenor
-lastmod: "2016-03-11T11:35:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457696112921/2016-03-11---Nicholas-Sharratt.jpg.jpg
-primary_image_credit: Eleanor Skan
-publishDate: "2016-03-11T11:35:00+00:00"
-related_companies:
-- scene/companies/scottish-opera.md
-- scene/companies/tapestry-opera.md
-- scene/companies/glyndebourne.md
-- scene/companies/opera-north.md
-slug: nicholas-sharratt
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/ndmsharratt
-- _template: people_single
-  platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/channel/UCW5LM4e-ZXU-yIzN2zT8D6A?feature=watch
-title: Nicholas Sharratt
----
++++
+date = "2016-03-11T11:35:00+00:00"
+discipline = "Tenor"
+lastmod = "2016-03-11T11:35:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457696112921/2016-03-11---Nicholas-Sharratt.jpg.jpg"
+primary_image_credit = "Eleanor Skan"
+publishDate = "2016-03-11T11:35:00+00:00"
+related_companies = ["scene/companies/scottish-opera.md","scene/companies/tapestry-opera.md","scene/companies/glyndebourne.md","scene/companies/opera-north.md"]
+slug = "nicholas-sharratt"
+title = "Nicholas Sharratt"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/ndmsharratt"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UCW5LM4e-ZXU-yIzN2zT8D6A?feature=watch"
++++
 
 Nicholas was born in Nottingham and studied Commerce at Birmingham University, and singing at the Royal Northern College of Music and the National Opera Studio.  He won the Eric Vietheer prize at Glyndebourne, and was a Peter Moores Foundation scholar.
 

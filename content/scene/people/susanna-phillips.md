@@ -1,26 +1,23 @@
----
-date: "2016-02-17T20:37:00-05:00"
-discipline: Soprano
-lastmod: "2016-02-17T20:42:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455759734443/Susanna_Phillips_headshot_2013_credit_Zachary_Maxwell_StertzSquare.jpg.jpg
-primary_image_credit: Zachary Maxwell
-publishDate: "2016-02-17T20:42:00-05:00"
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/the-santa-fe-opera.md
-- scene/companies/lyric-opera-of-chicago.md
-slug: susanna-phillips
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/Susanna-Phillips-Soprano-183971987662/
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/sopsus
-title: Susanna Phillips
-website: http://www.susannaphillips.com/
----
++++
+date = "2016-02-17T20:37:00-05:00"
+discipline = "Soprano"
+lastmod = "2016-02-17T20:42:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1455759734443/Susanna_Phillips_headshot_2013_credit_Zachary_Maxwell_StertzSquare.jpg.jpg"
+primary_image_credit = "Zachary Maxwell"
+publishDate = "2016-02-17T20:42:00-05:00"
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/lyric-opera-of-chicago.md"]
+slug = "susanna-phillips"
+title = "Susanna Phillips"
+website = "http://www.susannaphillips.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/Susanna-Phillips-Soprano-183971987662/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/sopsus"
++++
 
 Alabama-born soprano Susanna Phillips, recipient of The Metropolitan Opera’s 2010 Beverly Sills Artist Award, continues to establish herself as one of today’s most sought-after singing actors and recitalists. The 2015-16 season will see Phillips return to the Metropolitan Opera for an eighth consecutive season starring as Roselinda in the Jeremy Sams production of *Die Fledermaus* conducted for the first time by music director James Levine, as well as a return of her acclaimed Musetta in Puccini’s *La Bohème*. Phillips will also return to the stage of Lyric Opera of Chicago as Juliet in Gounod’s *Romeo and Juliet* under the baton of Emmanuel Villaume. A return to Boston Lyric Opera will mark Phillips’ debut in the role of Hanna in a new production of Lehár’s *The Merry Widow*.
 

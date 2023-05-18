@@ -1,38 +1,18 @@
----
-author:
-- authors/jenna.md
-- authors/greg.md
-categories: Review
-date: "2015-05-27T09:04:00-04:00"
-lastmod: "2015-06-03T16:47:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735197094/M'Dea-Undone---Featuring-Lauren-Segal---photo-by-Dahlia-Katz.jpg.jpg
-primary_image_credit: Photo by Dahlia Katz.
-publishDate: "2015-05-27T10:20:00-04:00"
-related_articles:
-- articles/opera-in-spring.md
-- articles/in-review-tapestry-briefs-booster-shots.md
-- articles/go-to-this-tapestry-songbook.md
-- articles/does-new-opera-raise-the-bar-for-performers.md
-- articles/michael-mori-on-the-devil-inside.md
-- articles/in-review-rocking-horse-winner.md
-- articles/dont-miss-naomis-road.md
-- articles/crosscanada-opera-the-overcoat-comes-to-toronto-vancouver.md
-related_companies:
-- scene/companies/tapestry-opera.md
-- scene/companies/scottish-opera.md
-related_people:
-- scene/people/lauren-segal.md
-- scene/people/peter-barrett.md
-- scene/people/jacqueline-woodley.md
-- scene/people/jordan-de-souza.md
-- scene/people/michael-mori.md
-short_description: I went with Greg last night to see M&#039;dea Undone, Tapestry
-  Opera&#039;s much-anticipated world premiere by composer John Harris and librettist
-  Marjorie Chan. The short version of this review is that I loved, loved it, and it
-  was one of the most integrated nights out at the opera I&#039;d experienced.
-slug: in-review-mdea-undone
-title: 'In review: M&#039;dea Undone'
----
++++
+author = ["authors/jenna.md","authors/greg.md"]
+categories = "Review"
+date = "2015-05-27T09:04:00-04:00"
+lastmod = "2015-06-03T16:47:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735197094/M'Dea-Undone---Featuring-Lauren-Segal---photo-by-Dahlia-Katz.jpg.jpg"
+primary_image_credit = "Photo by Dahlia Katz."
+publishDate = "2015-05-27T10:20:00-04:00"
+related_articles = ["articles/opera-in-spring.md","articles/in-review-tapestry-briefs-booster-shots.md","articles/go-to-this-tapestry-songbook.md","articles/does-new-opera-raise-the-bar-for-performers.md","articles/michael-mori-on-the-devil-inside.md","articles/in-review-rocking-horse-winner.md","articles/dont-miss-naomis-road.md","articles/crosscanada-opera-the-overcoat-comes-to-toronto-vancouver.md"]
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/scottish-opera.md"]
+related_people = ["scene/people/lauren-segal.md","scene/people/peter-barrett.md","scene/people/jacqueline-woodley.md","scene/people/jordan-de-souza.md","scene/people/michael-mori.md"]
+short_description = "I went with Greg last night to see M&#039;dea Undone, Tapestry Opera&#039;s much-anticipated world premiere by composer John Harris and librettist Marjorie Chan. The short version of this review is that I loved, loved it, and it was one of the most integrated nights out at the opera I&#039;d experienced."
+slug = "in-review-mdea-undone"
+title = "In review: M&#039;dea Undone"
++++
 
 **Jenna**: I went with Greg last night to see *M'dea Undone*, Tapestry Opera's much-anticipated world premiere by composer John Harris and librettist Marjorie Chan. The short version of this review is that I loved, loved it, and it was one of the most integrated nights out at the opera I'd experienced. It's hard to pull one element apart from another in order to write cohesively about it, but I'll try.
 
@@ -42,9 +22,7 @@ title: 'In review: M&#039;dea Undone'
 
 **Greg**: Michelle Tracey's set was fractured into three main playing spaces. The first being M'dea's hovel, the second the Oval Office/election stage and the third being M'dea's American apartment. This can run the risk of challenging the audience on both a dramatic and sonic front. Director Tim Albery expertly managed Tracey's design of the space providing a neat clearly directed visual, a visual that showed a stark contrast between the lush political affluence and the strife torn village that our heroine was forced to betray. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735247904/M'Dea-Undone-Featuring-Lauren-Segal-and-Peter-Barrett---photo-by-Dahlia-Katz--smaller-7.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735247904/M'Dea-Undone-Featuring-Lauren-Segal-and-Peter-Barrett---photo-by-Dahlia-Katz--smaller-7.jpg.jpg)
 <figcaption>Lauren Segal as M'dea and Peter Barrett as Jason. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -56,9 +34,7 @@ title: 'In review: M&#039;dea Undone'
 
 **Greg**: As M'dea, Lauren Segal is breathtaking. A challenging role to sing for sure, she made excellent and prolific use of her chest voice, adding a depth of heartiness and earthiness to balance with some of her incredibly difficult higher passages. Her acting was on point. Segal was riveting from start to finish. Watching her slide from love-struck new mother into the madness caused by infidelity was incredibly powerful. Her scenes with Peter Barrett as Jason were electric. And it's worth it to note how modern the relationship dialogue was between them. It helped to lend itself to the overall feeling that I was watching a really lyrical episode of *House of Cards*. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735329734/M'Dea-Undone-Featuring-Lauren-Segal%2C-Peter-Barrett%2C-and-Michael-Mori---photo-by-Dahlia-Katz--8.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735329734/M'Dea-Undone-Featuring-Lauren-Segal%2C-Peter-Barrett%2C-and-Michael-Mori---photo-by-Dahlia-Katz--8.jpg.jpg)
 <figcaption>Lauren Segal, Peter Barrett and Michael Mori. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -74,9 +50,7 @@ title: 'In review: M&#039;dea Undone'
 
 **Jenna**: Jacqueline Woodley as the President's daughter, Dahlia, was a total standout performance for me. She was a beautiful foil to M'dea, whose wild curls and flowing costumes are a stark contrast to Dahlia's smooth, fitted dresses and gleaming white smile. Like a true White House lady, perhaps, I started off liking Dahlia, and with one scene she turned on a dime. Jacqueline had a fantastic self-important sashay and carefully chosen words with their accompanying smiles. Very Claire Underwood. Vocally, I loved how Harris wrote Dahlia's part; calm and calculated small-talk turned into cutting, deliberate classist insults, and Dahlia's music goes from Mélisande to somewhere between Lulu and the Queen of the Night at her most shrieky. Jacqueline was a stunning actor, too; it's hard to hate such a lovely lady (but I did for a bit).
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735392941/M'Dea-Undone-Featuring-Lauren-Segal---photo-by-Dahlia-Katz.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432735392941/M'Dea-Undone-Featuring-Lauren-Segal---photo-by-Dahlia-Katz.jpg.jpg)
 <figcaption>Lauren Segal. Photo by Dahlia Katz.</figcaption>
 </figure>
 

@@ -1,22 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2016-09-21T09:38:00+01:00"
-lastmod: "2016-09-21T10:13:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474447117744/2016-09-21---Quorum-logo.jpg.jpg
-primary_image_credit: Image courtesy of The Quorum.
-publishDate: "2016-09-21T10:09:00+01:00"
-related_articles:
-- articles/apian-opera-dont-miss-the-swarm.md
-- articles/mustsee-mashups-mozart-vs-machine.md
-short_description: Themes of community, even sisterhood, poured through The Swarm,
-  and we begin to get a sense of the relationship among the individuals in the hive.
-  They were curious together, scared together, and when they finally take flight together,
-  there was something reminiscent of Wagner&#039;s Valkyries.
-slug: actual-opera-buzz-the-swarm-in-review
-title: 'Actual opera buzz: The Swarm, in review'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2016-09-21T09:38:00+01:00"
+lastmod = "2016-09-21T10:13:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474447117744/2016-09-21---Quorum-logo.jpg.jpg"
+primary_image_credit = "Image courtesy of The Quorum."
+publishDate = "2016-09-21T10:09:00+01:00"
+related_articles = ["articles/apian-opera-dont-miss-the-swarm.md","articles/mustsee-mashups-mozart-vs-machine.md"]
+short_description = "Themes of community, even sisterhood, poured through The Swarm, and we begin to get a sense of the relationship among the individuals in the hive. They were curious together, scared together, and when they finally take flight together, there was something reminiscent of Wagner&#039;s Valkyries."
+slug = "actual-opera-buzz-the-swarm-in-review"
+title = "Actual opera buzz: The Swarm, in review"
++++
 
 Playing this week at London's Brunel Tunnel is [*The Swarm*](http://www.thequorum.co.uk/), the second collaboration between composer Heloise Tunstall-Behrens and artist/writer/director Roswitha Gerlitz. The women share a common fascination with the behaviour of bees, which also inspired their first project, *Be the Bee*. With an electronic soundscape by Auclair and the acoustic voices of ten women, *The Swarm* earns its subtitle, "A Choral Celebrations of Bees."
 

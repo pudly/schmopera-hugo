@@ -1,19 +1,14 @@
----
-_template: people_single
-date: "2015-06-25T08:00:00-06:00"
-discipline: Composer
-lastmod: "2015-06-25T08:00:00-06:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240710401/JamesRolfe.jpeg.jpeg
-publishDate: "2015-06-25T08:00:00-06:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/toronto-masque-theatre.md
-- scene/companies/tapestry-opera.md
-- scene/companies/manhattan-school-of-music.md
-slug: james-rolfe
-title: James Rolfe
-website: http://www.jamesrolfe.ca/
----
++++
+date = "2015-06-25T08:00:00-06:00"
+discipline = "Composer"
+lastmod = "2015-06-25T08:00:00-06:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435240710401/JamesRolfe.jpeg.jpeg"
+publishDate = "2015-06-25T08:00:00-06:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/toronto-masque-theatre.md","scene/companies/tapestry-opera.md","scene/companies/manhattan-school-of-music.md"]
+slug = "james-rolfe"
+title = "James Rolfe"
+website = "http://www.jamesrolfe.ca/"
++++
 
 Toronto composer James Rolfe (b. Ottawa, 1961) has been commissioned and performed by ensembles, orchestras, choirs, and opera companies in Canada, the USA, Europe, and New Zealand. His work has been recognized with a Guggenheim Fellowship (2000), the K. M. Hunter Music Award (2003), the Louis Applebaum Composers Award (2005), the Jules Léger Prize for New Chamber Music (2006), and SOCAN’s Jan V. Matejcek Concert Music Award (2009).
 

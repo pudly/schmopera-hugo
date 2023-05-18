@@ -1,20 +1,14 @@
----
-author:
-- authors/vanessa-chumbley.md
-date: "2016-12-11T17:07:00+00:00"
-lastmod: "2016-12-14T09:31:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481476776187/2016-12-11---Help.jpg.jpg
-primary_image_credit: Photo by Michael Wacker.
-publishDate: "2016-12-14T09:31:00+00:00"
-short_description: This field is small, it is competitive. I understand the urge to
-  protect your job(s) and hold onto employment you’ve worked hard to get. This is
-  a deeply rooted urge, grown from the subconscious fears that &quot;I am not good
-  enough&quot; and &quot;Maybe this other person could do it better&quot;. In some
-  people, this manifests into a refusal to help others up the ladder, an inability
-  to send the elevator down for someone perceived as a threat.
-slug: artistic-success-pay-it-forward
-title: 'Artistic success: pay it forward'
----
++++
+author = ["authors/vanessa-chumbley.md"]
+date = "2016-12-11T17:07:00+00:00"
+lastmod = "2016-12-14T09:31:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481476776187/2016-12-11---Help.jpg.jpg"
+primary_image_credit = "Photo by Michael Wacker."
+publishDate = "2016-12-14T09:31:00+00:00"
+short_description = "This field is small, it is competitive. I understand the urge to protect your job(s) and hold onto employment you’ve worked hard to get. This is a deeply rooted urge, grown from the subconscious fears that &quot;I am not good enough&quot; and &quot;Maybe this other person could do it better&quot;. In some people, this manifests into a refusal to help others up the ladder, an inability to send the elevator down for someone perceived as a threat."
+slug = "artistic-success-pay-it-forward"
+title = "Artistic success: pay it forward"
++++
 
 Kevin Spacey has been quoted as saying, "If you're lucky enough to do well, it's your responsibility to send the elevator back down." This sentiment actually did not come from Spacey directly; he credits it to Jack Lemmon, an actor whom Spacey met in his early career and who later became a life long mentor. It was Lemmon who first instilled the idea of "sending the elevator back down" for future generations in a young Kevin Spacey.
 

@@ -1,26 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-08-21T10:14:00-04:00"
-lastmod: "2017-09-05T21:44:00-04:00"
-preamble: |-
-  Kept busy in recent season with Mozart (*The Magic Flute*, *Così fan tutte*), Monteverdi (*Il ritorno d'Ulisse in patria*), and Bach (*St. John Passion*), London-based mezzo-soprano [Martha Jones](/scene/people/martha-jones/) heads this month to The Grange Festival, to sing Fanny Price in Jonathan Dove's [*Mansfield Park*](https://thegrangefestival.co.uk/operas/mansfield-park/). The newly-orchestrated work was commissioned to mark both the inaugural season of the Grange Festival, and the 200th anniversary of the death of Jane Austen.
-
-  We spoke with Jones about bringing literary characters to the opera stage, and her eclectic choices of "bucket list" roles.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547665279/2017-09-04---Martha-Jones-Raphaelle-Photography.jpg.jpg
-primary_image_credit: 'Photo: Raphaelle Photography'
-publishDate: "2017-09-05T21:17:00-04:00"
-related_people:
-- scene/people/martha-jones.md
-short_description: '&quot;Good singing to me is when everything technically has slotted
-  into the right place and allows freedom of expression to take over.  This can happen
-  when the ground work has been done to such a degree that in performance, every note
-  and word can be &#039;chosen&#039; in the moment. It&#039;s a very strange (almost
-  out of body) experience!&quot;'
-slug: spotlight-on-martha-jones
-title: 'Spotlight on: Martha Jones'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-08-21T10:14:00-04:00"
+lastmod = "2017-09-05T21:44:00-04:00"
+preamble = "Kept busy in recent season with Mozart (*The Magic Flute*, *Così fan tutte*), Monteverdi (*Il ritorno d'Ulisse in patria*), and Bach (*St. John Passion*), London-based mezzo-soprano [Martha Jones](/scene/people/martha-jones/) heads this month to The Grange Festival, to sing Fanny Price in Jonathan Dove's [*Mansfield Park*](https://thegrangefestival.co.uk/operas/mansfield-park/). The newly-orchestrated work was commissioned to mark both the inaugural season of the Grange Festival, and the 200th anniversary of the death of Jane Austen.\n\nWe spoke with Jones about bringing literary characters to the opera stage, and her eclectic choices of \"bucket list\" roles."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547665279/2017-09-04---Martha-Jones-Raphaelle-Photography.jpg.jpg"
+primary_image_credit = "Photo: Raphaelle Photography"
+publishDate = "2017-09-05T21:17:00-04:00"
+related_people = ["scene/people/martha-jones.md"]
+short_description = "&quot;Good singing to me is when everything technically has slotted into the right place and allows freedom of expression to take over.  This can happen when the ground work has been done to such a degree that in performance, every note and word can be &#039;chosen&#039; in the moment. It&#039;s a very strange (almost out of body) experience!&quot;"
+slug = "spotlight-on-martha-jones"
+title = "Spotlight on: Martha Jones"
++++
 
 ## Why do you sing, and why are you doing it professionally?
 
@@ -36,9 +27,7 @@ To answer the second part of your question first, I really believe that everythi
 
 As for the first part, I'm still working on my languages now and wish I had done more formal study when I had the time to focus on it.  I think the benefits of being able to sight-read and play through material for yourself at the piano can sometimes be underestimated.  If for nothing else, it's great fun to sing through a lot of repertoire when choosing recital programmes to see what really fits you rather than relying on recordings. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547702810/2017-09-04---Martha-Jones-Raphaelle-Photography-2.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504547702810/2017-09-04---Martha-Jones-Raphaelle-Photography-2.jpg.jpg)
 <figcaption>Marthan Jones, mezzo-soprano. Photo: Raphaelle Photography.</figcaption>
 </figure>
 

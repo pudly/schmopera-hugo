@@ -1,21 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2016-09-02T04:26:00-04:00"
-lastmod: "2018-01-11T10:29:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472895930044/2016-09-02---Pants.jpg.jpg
-publishDate: "2016-09-03T06:00:00-04:00"
-related_articles:
-- articles/4-opera-scenes-that-should-have-happened.md
-- articles/taking-a-bow-curtain-calls-for-your-voice-type.md
-short_description: But who are the cartoon pants roles (and skirt roles) of more recent
-  years? And how does a casting choice affect how we react to a character? We tracked
-  down four of our favourite 21st-century cartoon characters, who all take a cue from
-  opera&#039;s tradition.
-slug: trousers-on-tv-4-animated-pants-roles
-title: 'Trousers on TV: 4 animated pants roles'
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2016-09-02T04:26:00-04:00"
+lastmod = "2018-01-11T10:29:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472895930044/2016-09-02---Pants.jpg.jpg"
+publishDate = "2016-09-03T06:00:00-04:00"
+related_articles = ["articles/4-opera-scenes-that-should-have-happened.md","articles/taking-a-bow-curtain-calls-for-your-voice-type.md"]
+short_description = "But who are the cartoon pants roles (and skirt roles) of more recent years? And how does a casting choice affect how we react to a character? We tracked down four of our favourite 21st-century cartoon characters, who all take a cue from opera&#039;s tradition."
+slug = "trousers-on-tv-4-animated-pants-roles"
+title = "Trousers on TV: 4 animated pants roles"
++++
 
 Though they conjure up images of the 17th and 18th centuries - an impatient Cherubino-type, or Handel royalty - trouser roles are still a thing in opera today. In fact, women playing male characters, and vice versa (a skirt role?), is a thing outside of opera, too. It makes odd sense that some of television's most popular animated shows have what could be called "trouser roles"; after all, like opera, the actors on animated shows are working primarily with, well, their voice.
 

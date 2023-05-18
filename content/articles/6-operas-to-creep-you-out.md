@@ -1,36 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Humour
-date: "2016-10-31T11:43:00+00:00"
-lastmod: "2016-10-31T15:07:00+00:00"
-preamble: "Opera's great for a lot of reasons, but here's the one we love the most:
-  no matter what kind of release you need, you can get it, 110%, from an opera. Feel
-  like something where good triumphs over evil? Settle in with *The Magic Flute*.
-  Need a good weep? Take your pick of *La bohème* or *Madama Butterfly*. \n\nFeel
-  like hearing your ghost stories sung? Fear not. We've got 6 operas to to satisfy
-  your craving for creepy..."
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477921717667/2016-10-31---Scary.jpg.jpg
-publishDate: "2016-10-31T14:12:00+00:00"
-related_articles:
-- articles/spooky-shows-the-telltale-heart.md
-- articles/draculas-neighbour-nancy-allen-lundy.md
-- articles/aurora-orchestra-fun-frankenstein.md
-- articles/belle-bete-la-opera-beauty.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/royal-opera-house.md
-- scene/companies/english-national-opera.md
-- scene/companies/salzburg-festival.md
-short_description: The obvious choice, really. There&#039;s the creepy castle; the
-  weird, cold relationship between Bluebeard and his new bride; the secret rooms;
-  the clear intimacy issues; the dead ex-wives. The music, though, is the scariest
-  thing about Bartòk&#039;s opera; the score sounds like something Bernard Herrmann
-  would have written for a Hitchcock film, and it seems to waver unnaturally between
-  uncomfortably soft and impossibly loud. Kind of like a scary, abusive husband.
-slug: 6-operas-to-creep-you-out
-title: 6 operas to creep you out
----
++++
+author = ["authors/jenna.md"]
+categories = "Humour"
+date = "2016-10-31T11:43:00+00:00"
+lastmod = "2016-10-31T15:07:00+00:00"
+preamble = "Opera's great for a lot of reasons, but here's the one we love the most: no matter what kind of release you need, you can get it, 110%, from an opera. Feel like something where good triumphs over evil? Settle in with *The Magic Flute*. Need a good weep? Take your pick of *La bohème* or *Madama Butterfly*. \n\nFeel like hearing your ghost stories sung? Fear not. We've got 6 operas to to satisfy your craving for creepy..."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477921717667/2016-10-31---Scary.jpg.jpg"
+publishDate = "2016-10-31T14:12:00+00:00"
+related_articles = ["articles/spooky-shows-the-telltale-heart.md","articles/draculas-neighbour-nancy-allen-lundy.md","articles/aurora-orchestra-fun-frankenstein.md","articles/belle-bete-la-opera-beauty.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/salzburg-festival.md"]
+short_description = "The obvious choice, really. There&#039;s the creepy castle; the weird, cold relationship between Bluebeard and his new bride; the secret rooms; the clear intimacy issues; the dead ex-wives. The music, though, is the scariest thing about Bartòk&#039;s opera; the score sounds like something Bernard Herrmann would have written for a Hitchcock film, and it seems to waver unnaturally between uncomfortably soft and impossibly loud. Kind of like a scary, abusive husband."
+slug = "6-operas-to-creep-you-out"
+title = "6 operas to creep you out"
++++
 
 ## *Bluebeard's Castle*
 

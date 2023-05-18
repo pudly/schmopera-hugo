@@ -1,28 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-07-20T17:43:00-04:00"
-lastmod: "2016-07-21T09:42:00-04:00"
-preamble: This summer, [Summer Opera Lyric Theatre](http://www.solt.ca/performances.html)
-  enters its 30th season; to celebrate, the line-up includes the world premiere of
-  *A Tale of Two Cities*, a new operatic adaptation of Dickens' novel by Victor Davies
-  and Eugene Benson. We spoke with Music Director and pianist Michael Rose about this
-  new opera, some upcoming projects of his own, and about SOLT's mission to train
-  young artists for the professional stage.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469054124309/2016-07-20---Michael-Rose.jpg.jpg
-primary_image_credit: Michael Rose, Music Director of A Tale of Two Cities, in rehearsal
-  with Victor and Lori Davies.
-publishDate: "2016-07-21T09:27:00-04:00"
-short_description: This summer, Summer Opera Lyric Theatre enters its 30th season;
-  to celebrate, the line-up includes the world premiere of A Tale of Two Cities, a
-  new operatic adaptation of Dickens&#039; novel by Victor Davies and Eugene Benson.
-  We spoke with Music Director and pianist Michael Rose about this new opera, some
-  upcoming projects of his own, and about SOLT&#039;s mission to train young artists
-  for the professional stage.
-slug: michael-rose-on-a-tale-of-two-cities
-title: Michael Rose on A Tale of Two Cities
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-07-20T17:43:00-04:00"
+lastmod = "2016-07-21T09:42:00-04:00"
+preamble = "This summer, [Summer Opera Lyric Theatre](http://www.solt.ca/performances.html) enters its 30th season; to celebrate, the line-up includes the world premiere of *A Tale of Two Cities*, a new operatic adaptation of Dickens' novel by Victor Davies and Eugene Benson. We spoke with Music Director and pianist Michael Rose about this new opera, some upcoming projects of his own, and about SOLT's mission to train young artists for the professional stage."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1469054124309/2016-07-20---Michael-Rose.jpg.jpg"
+primary_image_credit = "Michael Rose, Music Director of A Tale of Two Cities, in rehearsal with Victor and Lori Davies."
+publishDate = "2016-07-21T09:27:00-04:00"
+short_description = "This summer, Summer Opera Lyric Theatre enters its 30th season; to celebrate, the line-up includes the world premiere of A Tale of Two Cities, a new operatic adaptation of Dickens&#039; novel by Victor Davies and Eugene Benson. We spoke with Music Director and pianist Michael Rose about this new opera, some upcoming projects of his own, and about SOLT&#039;s mission to train young artists for the professional stage."
+slug = "michael-rose-on-a-tale-of-two-cities"
+title = "Michael Rose on A Tale of Two Cities"
++++
 
 ## What makes *A Tale of Two Cities* a good story to tell in an operatic setting?
 

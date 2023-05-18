@@ -1,33 +1,22 @@
----
-author:
-- authors/eva-cahen.md
-categories: Interview
-date: "2021-10-13T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: '[Stephanie Blythe in Concert](https://www.sdopera.org/season/2021-2022-season/blythe-in-concert)
-  comes to San Diego Opera''s Balboa Theatre on October 23. '
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1634081834/media/2021/10/StephanieBlythe_clf1dv.jpg
-primary_image_credit: ""
-related_articles:
-- articles/talking-with-singers-stephanie-blythe.md
-- articles/talking-with-singers-jamie-barton.md
-- articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md
-related_companies:
-- scene/companies/chicago-opera-theater.md
-- scene/companies/san-diego-opera.md
-related_people:
-- scene/people/jamie-barton.md
-- scene/people/stephanie-blythe.md
-short_description: '"I''ve been singing Handel and Rossini and Wagner and Verdi and
-  Schubert and Brahms my whole career. What''s the difference if I''m doing that or
-  doing Irving Berlin and Cole Porter and Johnny Mercer and Barry Manilow? It''s all
-  music and it’s all just different styles and I enjoy singing them all."'
-slug: stephanie-blythe-i-cant-help-but-try-to-connect-with-people
-title: 'Stephanie Blythe: "I can''t help but try to connect with people."'
-youtube_url: ""
----
++++
+author = ["authors/eva-cahen.md"]
+categories = "Interview"
+date = 2021-10-13T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = "[Stephanie Blythe in Concert](https://www.sdopera.org/season/2021-2022-season/blythe-in-concert) comes to San Diego Opera's Balboa Theatre on October 23. "
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1634081834/media/2021/10/StephanieBlythe_clf1dv.jpg"
+primary_image_credit = ""
+related_articles = ["articles/talking-with-singers-stephanie-blythe.md", "articles/talking-with-singers-jamie-barton.md", "articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md"]
+related_companies = ["scene/companies/chicago-opera-theater.md", "scene/companies/san-diego-opera.md"]
+related_people = ["scene/people/jamie-barton.md", "scene/people/stephanie-blythe.md"]
+short_description = "\"I've been singing Handel and Rossini and Wagner and Verdi and Schubert and Brahms my whole career. What's the difference if I'm doing that or doing Irving Berlin and Cole Porter and Johnny Mercer and Barry Manilow? It's all music and it’s all just different styles and I enjoy singing them all.\""
+slug = "stephanie-blythe-i-cant-help-but-try-to-connect-with-people"
+title = "Stephanie Blythe: \"I can't help but try to connect with people.\""
+youtube_url = ""
+
++++
 [Stephanie Blythe](/scene/people/stephanie-blythe/), the great American mezzo-soprano, will be performing a [program of Johnny Mercer songs](https://www.sdopera.org/season/2021-2022-season/blythe-in-concert) for the [San Diego Opera](/scene/companies/san-diego-opera/) on October 23 at 7:30 PM at the Balboa Theater.
 
 "I've been a great fan of Johnny Mercer's and I've been singing the music of his _Great American Songbook_ for a very long time,” says Blythe. She grew up listening to Mercer's songs because her father was a professional jazz musician, a tripler playing flute, sax, and clarinet.

@@ -1,26 +1,22 @@
----
-author:
-- authors/loren-lester.md
-categories: Review
-date: "2023-03-20T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1679000308/media/2023/03/sq_Il_tabarro_521_jgl1u0.jpg
-primary_image_credit: 'Daewon Seo (Michele) and Gillian Watson (Giorgetta) in Il tabarro,
-  Regina Opera, 2023. Photo: Steven Pisano.'
-related_articles: []
-related_companies: []
-related_people: []
-short_description: To this reviewer, Il Tabarro most certainly sounds like a Puccini
-  opera – right from the opening chords which become a recurring motif – and there
-  are several stand-alone solos that aren’t as famous as those from his other operas,
-  but in the hands (or throat) of the right performer they can stop the show.
-slug: il-trittico-slices-of-puccini
-title: 'Il trittico: slices of Puccini'
-youtube_url: ""
----
++++
+author = ["authors/loren-lester.md"]
+categories = "Review"
+date = 2023-03-20T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679000308/media/2023/03/sq_Il_tabarro_521_jgl1u0.jpg"
+primary_image_credit = "Daewon Seo (Michele) and Gillian Watson (Giorgetta) in Il tabarro, Regina Opera, 2023. Photo: Steven Pisano."
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "To this reviewer, Il Tabarro most certainly sounds like a Puccini opera – right from the opening chords which become a recurring motif – and there are several stand-alone solos that aren’t as famous as those from his other operas, but in the hands (or throat) of the right performer they can stop the show."
+slug = "il-trittico-slices-of-puccini"
+title = "Il trittico: slices of Puccini"
+youtube_url = ""
+
++++
 It's a well-known fact that opera is an expensive endeavor – both for production companies and, often, for audiences. And it's also a given that there are fewer and fewer dollars supporting the arts in general. But there are small companies out there that manage to be great music-makers on mini- and micro-budgets. Such is the case with [Regina Opera](http://www.reginaopera.org/) and the [SAS Performing Arts Company](https://www.sasperformingarts.com/) in New York City.
 
 Puccini wrote three one-act operas (_Il trittico_) to be performed as one program. He was quite vehement that they should not be split up, but they do work on their own, and doing only one in these lean times offers a chance for companies with stretched resources to present a full cast or full orchestra or both.
@@ -31,9 +27,7 @@ When Puccini's _Il tabarro_ debuted at the Met in 1918 it was criticized for not
 
 To this reviewer, _Il tabarro_ most certainly sounds like a Puccini opera – right from the opening chords which become a recurring motif – and there are several stand-alone solos that aren't as famous as those from his other operas, but in the hands (or throat) of the right performer they can stop the show.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1679002683/media/2023/03/Il_tabarro-ReginaOpera_20230305-DSC09408_y4fpjc.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679002683/media/2023/03/Il_tabarro-ReginaOpera_20230305-DSC09408_y4fpjc.jpg){{% /md %}}
 
 <figcaption>Daewon Seo (Michele) and Peter Hakjoon Kim (Luigi) in Il tabarro, Regina Opera, 2023. Photo: Steven Pisano.</figcaption>  
 </figure>
@@ -42,9 +36,7 @@ The story of _Il tabarro_ is a familiar love-triangle – unhappy wife (Giorgett
 
 Luigi (tenor Peter Hakjoon Kim) tells us that he is being worked to death and we feel his agonized frustrations in a stirring rendition of "Hai ben agione." Equally frustrated, but by love rather than labor is Michele (baritone Daewon Seo) who builds to a convincing, visceral madness in "Nulla…silenzio." Both Mr. Hakjoon Kim and Mr. Seo have superlative performance skills as do their fellow mariners Hyong Sik Jo (as Il Talpa) and Adam Inyong Goldstein (as Il Tinca.) Josh Avant, with his sparkling tenor, makes the most of his brief and amusing appearance as the Song seller. Also offering some comic relief to librettist Giuseppe Adami's dark story, is mezzo Galina Ivannikova (as La Frugola, the rag-picker), who delivers a silly staccato aria about her wares. Unfortunately, we don’t get the lusty passion from Giorgetta, as soprano Gillian Watson offers us her pretty voice but seems to be holding back physically and spends most of her performance with her hands clasped in front of or behind her body.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1679002706/media/2023/03/Il_tabarro_ReginaOpera_20230305-DSC09172_ezopqm.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679002706/media/2023/03/Il_tabarro_ReginaOpera_20230305-DSC09172_ezopqm.jpg){{% /md %}}
 
 <figcaption>Peter Hakjoon Kim (Luigi) and Gillian Watson (Giorgetta) in Il tabarro, Regina Opera, 2023. Photo: Steven Pisano.</figcaption>  
 </figure>
@@ -67,9 +59,7 @@ Mr. Scovasso decided to bite into the entire _Trittico_ sandwich – the curtain
 
 He offered a synopsis before each opera and also some interesting back stories. (His curtain speeches were informative as was the lengthy, detailed program.) He shared with his audience his take on what Puccini was up to, writing the three operas in three completely different styles, each a tribute to a popular form of Italian opera. _Il tabarro_ is the composer's nod to the _verismo_ school, which he himself was part of but not married to. _Suor Angelica_ is an _opera seria_ written in a romantic form and _Gianni Schicchi_ is _opera buffa_. Mr. Scovasso informed us that Puccini was saying farewell to all three forms as he headed for other musical horizons. (Where he was going was cut short; his next work proved to be his last – the mostly-finished but unfinished _Turandot_.)
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1679148323/media/2023/03/SAS_Performing_Arts_Il_Tabarro_1_bp5bxf.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679148323/media/2023/03/SAS_Performing_Arts_Il_Tabarro_1_bp5bxf.jpg){{% /md %}}
 
 <figcaption>SAS performing Arts Concert Opera's production of Il Trittico, 2023.</figcaption>  
 </figure>
@@ -90,9 +80,7 @@ Soprano Rebecca S. Kidnie was an effective Giorgetta, using all her tools – vo
 
 Mr. Scovasso described Gianni Schicchi as the most difficult portion of _Il trittico_ but _Suor Angelica_ proves to be the most difficult for the audience. One of the few all-female operas, _Suor Angelica_ takes place in a convent and most of the action (or lack thereof) can only be described as a prolonged "How Do You Solve a Problem Like Maria?" We learn a little about each sister, and individually, the singers have nice moments, most notably Rebecca Grady Rucker as the First Novice and Shanley Horvitz as The Monitor. (Unfortunately, the unison singing by all the nuns is never exactly right.) We learn that Suor Angelica has a big secret, but it's all an endurance test until La Zia Principessa (her aunt) arrives and the drama begins. The venerable Tichina Vaughn is not only a welcome presence, as she was in _Il tabarro_ but also a welcome relief. Her sternum-shaking denunciation sets the stage for what is supposed to be the devastating "Senza Mamma," where Suor Angelica mourns the short life of her illegitimate child whom she never got to know. Rebecca S. Kidnie, in the title role here, did not display the subtlety she found in _Il tabarro_, and works a little too hard - we feel more like she's climbing Mount Everest then reaching out to the Virgin Mary.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1679148374/media/2023/03/SAS_Performing_Arts_Gianni_Schicchi_eotuqj.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679148374/media/2023/03/SAS_Performing_Arts_Gianni_Schicchi_eotuqj.jpg){{% /md %}}
 
 <figcaption>SAS performing Arts Concert Opera production of Il Trittico, 2023.</figcaption>  
 </figure>

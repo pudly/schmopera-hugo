@@ -1,28 +1,22 @@
----
-date: "2018-04-18T10:13:00-04:00"
-discipline: Bass
-lastmod: "2018-04-18T10:13:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524060660714/5312094_orig.jpg.jpg
-publishDate: "2018-04-18T10:13:00-04:00"
-related_companies:
-- scene/companies/edmonton-opera.md
-- scene/companies/seattle-opera.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/salzburg-festival.md
-- scene/companies/opernhaus-zurich.md
-slug: erik-anstine
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/erikanstine
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/erikanstine
-title: Erik Anstine
-website: https://www.erikanstine.com/
----
++++
+date = "2018-04-18T10:13:00-04:00"
+discipline = "Bass"
+lastmod = "2018-04-18T10:13:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524060660714/5312094_orig.jpg.jpg"
+publishDate = "2018-04-18T10:13:00-04:00"
+related_companies = ["scene/companies/edmonton-opera.md","scene/companies/seattle-opera.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/salzburg-festival.md","scene/companies/opernhaus-zurich.md"]
+slug = "erik-anstine"
+title = "Erik Anstine"
+website = "https://www.erikanstine.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/erikanstine"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/erikanstine"
++++
 
 Praised for the beauty of his voice and the vitality of his performances, American basso Erik Anstine is making a name for himself on opera and concert stages in North America and Europe. In the current season, Mr. Anstine sings Leporello in *Don Giovanni* with the Edmonton Opera. In June of 2017, Erik Anstine made his San Francisco Opera debut as Leporello in an all-star cast including Ildebrando D'Arcangelo in the title role, and Ana Maria Martinez as Donna Elvira. In 2016 he returned to the Salzburger Festspiele to perform both Antonio in *Le nozze di Figaro* and Oste/Sergente in Manon Lescaut, the latter being recorded by Deutsche Grammophon.
 

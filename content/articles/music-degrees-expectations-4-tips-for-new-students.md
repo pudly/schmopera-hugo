@@ -1,28 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2017-07-30T10:22:00-04:00"
-lastmod: "2017-07-31T22:00:00-04:00"
-postamble: What are your tidbits of wisdom for the academically oriented? Let us know
-  in the comments below!
-preamble: 'August is here, readers, which means many of you may be mere weeks away
-  from starting an academic year pursuing a music degree. Whether you''re an incoming
-  first-year student, or a seasoned pro at academia, there''s an art to being a student;
-  on top of showing up on time and turning in your theory assignments, post-secondary
-  music education is about taking responsibility for what you learn. '
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501515461322/2017-07-31---School.jpg.jpg
-publishDate: "2017-07-31T22:00:00-04:00"
-related_articles:
-- articles/paid-summer-programs-is-it-time-for-a-revolution.md
-- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
-short_description: Remember that being able to call yourself a Curtis student or a
-  Juilliard student or say you attend the Conservatoire is a statement about status,
-  and no indicator of your musicianship. So, be fair to your chosen school and what
-  it can offer; more importantly, be honest with yourself about your academic goals.
-slug: music-degrees-expectations-4-tips-for-new-students
-title: 'Music degrees &amp; expectations: 4 tips for new students'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2017-07-30T10:22:00-04:00"
+lastmod = "2017-07-31T22:00:00-04:00"
+postamble = "What are your tidbits of wisdom for the academically oriented? Let us know in the comments below!"
+preamble = "August is here, readers, which means many of you may be mere weeks away from starting an academic year pursuing a music degree. Whether you're an incoming first-year student, or a seasoned pro at academia, there's an art to being a student; on top of showing up on time and turning in your theory assignments, post-secondary music education is about taking responsibility for what you learn. "
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501515461322/2017-07-31---School.jpg.jpg"
+publishDate = "2017-07-31T22:00:00-04:00"
+related_articles = ["articles/paid-summer-programs-is-it-time-for-a-revolution.md", "articles/audition-season-or-the-annual-festival-of-shattered-dreams.md"]
+short_description = "Remember that being able to call yourself a Curtis student or a Juilliard student or say you attend the Conservatoire is a statement about status, and no indicator of your musicianship. So, be fair to your chosen school and what it can offer; more importantly, be honest with yourself about your academic goals."
+slug = "music-degrees-expectations-4-tips-for-new-students"
+title = "Music degrees &amp; expectations: 4 tips for new students"
+
++++
 ## If you still feel like a big fish in a small pond, you're at the wrong school
 
 At the post-secondary level, music schools are full of students who were hot shots of sorts in their hometowns. It's a natural part of formal music education to continue to raise the bar; still, not every student fully anticipates what it may feel like to go from collecting trophies at their local music festivals, to being nothing special at your weekly studio class.

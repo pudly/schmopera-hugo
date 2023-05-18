@@ -1,21 +1,18 @@
----
-date: "2015-04-07T18:27:00-04:00"
-discipline: Soprano
-lastmod: "2015-04-07T18:27:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445511287/IsabelB.jpg.jpg
-publishDate: "2015-04-07T18:27:00-04:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-slug: isabel-bayrakdarian
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/IsabelBayrakdarian
-title: Isabel Bayrakdarian
-website: http://bayrakdarian.com/
----
++++
+date = "2015-04-07T18:27:00-04:00"
+discipline = "Soprano"
+lastmod = "2015-04-07T18:27:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445511287/IsabelB.jpg.jpg"
+publishDate = "2015-04-07T18:27:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+slug = "isabel-bayrakdarian"
+title = "Isabel Bayrakdarian"
+website = "http://bayrakdarian.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/IsabelBayrakdarian"
++++
 
 <p>
 	It's not every prima donna who can boast a degree in biomedical engineering, but then, Isabel Bayrakdarian isn't your average prima donna—in fact, she'd probably demur at being called a prima donna at all. In a career still in its second decade, an eagerly anticipated visitor to opera houses and concert halls the world over, she's become as celebrated for her beauty, presence, and style as for a strikingly multihued voice that's wholly in sync with the rest of her.

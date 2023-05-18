@@ -1,62 +1,32 @@
----
-author:
-- authors/jenna.md
-- authors/greg.md
-categories: Review
-date: "2015-11-04T13:12:00-05:00"
-lastmod: "2015-11-04T21:28:00-05:00"
-preamble: |-
-  Last night, I went with [Greg Finney](https://twitter.com/gregory_finney) to [Centre Stage](http://coccentrestage.ca/), the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s Ensemble Studio Competition. The competition is the culmination of nationwide auditions, narrowing the 120 applicants down to eight young Canadian singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson's Bay Company's Queen Street store), finalists sing on the Four Seasons Centre stage, with the COC Orchestra led by Music Director Johannes Debus. It's a pretty big deal for these aspiring young singers.
-
-  The evening is separated into two rounds, one for the panel of judges and a private audience, followed by a second round for the public. This year, Greg and I were lucky enough to hear both rounds, and so we were each able to get a slightly broader look at these young artists. Here's what we thought, ladies first:
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446663138166/2015-11-04---Centre-Stage-Winners---Square.jpg.jpg
-primary_image_credit: All photos by Michael Cooper.
-publishDate: "2015-11-04T14:26:00-05:00"
-related_articles:
-- articles/centre-stage-2014-lets-hear-it-for-the-boys.md
-- articles/coc1617.md
-- articles/duets-for-lunch-uoft-opera-in-concert.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-related_people:
-- scene/people/lauren-eberwein.md
-- scene/people/pascale-spinney.md
-- scene/people/samantha-pickett.md
-- scene/people/bruno-roy.md
-- scene/people/marjorie-maltais.md
-- scene/people/eliza-johnson.md
-- scene/people/emily-dangelo.md
-- scene/people/zachary-read.md
-- scene/people/joyce-elkhoury.md
-- scene/people/andrew-haji.md
-short_description: Last night, I went with Greg Finney to Centre Stage, the Canadian
-  Opera Company&#039;s Ensemble Studio Competition. The competition is the culmination
-  of nationwide auditions, narrowing the 120 applicants down to eight young Canadian
-  singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson&#039;s
-  Bay Company&#039;s Queen Street store), finalists sing on the Four Seasons Centre
-  stage, with the COC Orchestra led by Music Director Johannes Debus. It&#039;s a
-  pretty big deal for these aspiring young singers.
-slug: she-saidhe-said-centre-stage-2015
-title: 'She said/He said: Centre Stage 2015'
----
++++
+author = ["authors/jenna.md","authors/greg.md"]
+categories = "Review"
+date = "2015-11-04T13:12:00-05:00"
+lastmod = "2015-11-04T21:28:00-05:00"
+preamble = "Last night, I went with [Greg Finney](https://twitter.com/gregory_finney) to [Centre Stage](http://coccentrestage.ca/), the [Canadian Opera Company](/scene/companies/canadian-opera-company/)'s Ensemble Studio Competition. The competition is the culmination of nationwide auditions, narrowing the 120 applicants down to eight young Canadian singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson's Bay Company's Queen Street store), finalists sing on the Four Seasons Centre stage, with the COC Orchestra led by Music Director Johannes Debus. It's a pretty big deal for these aspiring young singers.\n\nThe evening is separated into two rounds, one for the panel of judges and a private audience, followed by a second round for the public. This year, Greg and I were lucky enough to hear both rounds, and so we were each able to get a slightly broader look at these young artists. Here's what we thought, ladies first:"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446663138166/2015-11-04---Centre-Stage-Winners---Square.jpg.jpg"
+primary_image_credit = "All photos by Michael Cooper."
+publishDate = "2015-11-04T14:26:00-05:00"
+related_articles = ["articles/centre-stage-2014-lets-hear-it-for-the-boys.md","articles/coc1617.md","articles/duets-for-lunch-uoft-opera-in-concert.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
+related_people = ["scene/people/lauren-eberwein.md","scene/people/pascale-spinney.md","scene/people/samantha-pickett.md","scene/people/bruno-roy.md","scene/people/marjorie-maltais.md","scene/people/eliza-johnson.md","scene/people/emily-dangelo.md","scene/people/zachary-read.md","scene/people/joyce-elkhoury.md","scene/people/andrew-haji.md"]
+short_description = "Last night, I went with Greg Finney to Centre Stage, the Canadian Opera Company&#039;s Ensemble Studio Competition. The competition is the culmination of nationwide auditions, narrowing the 120 applicants down to eight young Canadian singers. Dressed in gorgeous gowns and suits (gifted to them from The Hudson&#039;s Bay Company&#039;s Queen Street store), finalists sing on the Four Seasons Centre stage, with the COC Orchestra led by Music Director Johannes Debus. It&#039;s a pretty big deal for these aspiring young singers."
+slug = "she-saidhe-said-centre-stage-2015"
+title = "She said/He said: Centre Stage 2015"
++++
 
 ## She said...
 
 I'm historically terrible at calling competitions, and this was no different. Placing in the competition doesn't directly correlate to a spot in the Ensemble Studio, but it's a good indicator; so, for those of us who like to make an educated guess at how the judges will vote, it can be hard to find the balance between looking for the best singer on competition day, and looking for a singer who is ready to begin a professional career. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666828098/2015-11-04---Centre-Stage-Lauren---MC.jpg.jpg)<figcaption>Ensemble Studio Competition Second Prize winner mezzo-soprano Lauren Eberwein, Centre Stage 2015. Photo by Michael Cooper.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666828098/2015-11-04---Centre-Stage-Lauren---MC.jpg.jpg)<figcaption>Ensemble Studio Competition Second Prize winner mezzo-soprano Lauren Eberwein, Centre Stage 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 
 This year seemed the year of the mezzo, an appropriate choice for a male-dominated Ensemble Studio. Two of these mezzos took the top prizes; Emily D'Angelo (Toronto) won First Prize and Audience Choice Award, totaling $6500), and Lauren Eberwein (Qualicum Beach, BC) took Second Prize, worth $3000. The $1500 Third Prize went to baritone [Bruno Roy](/scene/people/bruno-roy/) (Montréal).
 
 I want to first talk about all these mezzos. [Pascale Spinney](/scene/people/pascale-spinney/) sang with a lovely sound that was even and dark, but her choice of rep seemed a bit subdued. She sang "When I am laid in earth" from *Dido and Aeneas* for her first round, which I thought showed more of her voice than her second round choice, "Faites-lui mes aveux" from *Faust*. I was curious why she didn't offer anything with a bit more fire. Speaking of fire, [Marjorie Maltais](/scene/people/marjorie-maltais/) started with *La cenerentola*, and sang Gounod's "Que fais-tu, blanche tourterelle" for the public round. Hers was some of the night's most polished, smart singing, with a gorgeous natural affinity for the Rossini. I was very surprised that Marjorie didn't place.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666452869/2015-11-04---Centre-Stage-Marjorie---MC.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666452869/2015-11-04---Centre-Stage-Marjorie---MC.jpg.jpg)
 <figcaption>Ensemble Studio Competition finalist mezzo-soprano Marjorie Maltais, Centre Stage 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -64,9 +34,7 @@ The winning mezzos each showed a big range with their aria picks. [Emily D'Angel
 
 Second Prize winner [Lauren Eberwein](/scene/people/lauren-eberwein/) was another breath of fresh air. She began with a wink to Maestro Debus, and then launched into "Sein wir wieder gut" from Strauss' *Ariadne auf Naxos*. It was wonderful to see someone enjoying herself in a hyped-up environment, and Lauren really seemed to become the Komponist. She sang "Parto, parto" from *La clemenza di Tito* in the second round, an important foil to the Strauss. Her coloratura was less clear than it could have been, but there was maturity in her performance that I'm glad was recognized.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666546743/2015-11-04---Centre-Stage-Samantha.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666546743/2015-11-04---Centre-Stage-Samantha.jpg.jpg)
 <figcaption>Ensemble Studio Competition finalist soprano Samantha Pickett, Centre Stage 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -76,9 +44,7 @@ Soprano [Samantha Pickett](/scene/people/samantha-pickett/) sang "Deh, se piacer
 
 The men were certainly outnumbered last night. Baritone [Zachary Read](/scene/people/zachary-read/) started off brave with "Largo al factotum" in the first round, and I heard him settle into the nerves and begin to have fun. His second round pick was "Avant de quitter ces lieux" from *Faust*, which let us get a better listen to his voice. I thought both of his aria choices were built around having a great high G, but last night Zachary's high range sounded underwhelming, perhaps because of the size of the house. He did have some gorgeous sound and lovely onstage energy, and I wondered why he chose to make it about high notes.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666571199/2015-11-04---Centre-Stage-Bruno.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666571199/2015-11-04---Centre-Stage-Bruno.jpg.jpg)
 <figcaption>Ensemble Studio Competition Third Prize winner baritone Bruno Roy, Centre Stage 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -98,9 +64,7 @@ Secondly. I did NOT call this one at all. Wow.
 
 Pascal Spinney, mezzo-soprano, opened with Dido's Lament, which I thought wasn't the best choice. Not that she didn't sing it well, but it's such a finicky aria. Even something as small as a slightly faster tempo can set it off course, and I think that's what happened here. Great voice, lamentable tempo. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666599211/2015-11-04---Centre-Stage-Pascale.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666599211/2015-11-04---Centre-Stage-Pascale.jpg.jpg)
 <figcaption>Ensemble Studio Competition finalist mezzo-soprano Pascale Spinney, Centre Stage 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -108,9 +72,7 @@ Baritone Zachary Read, from Halifax (902 Represent!!) sang the perennial hit "La
 
 Soprano Samantha Pickett followed with an aria from *Simon Boccanegra*. A powerful dramatic soprano in the making (I think), I feel this choice didn't quite show off some of the fireworks of which she's clearly capable. I think this was the best piece for marrying the orchestra with the singer well, though. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666760046/2015-11-04---Centre-Stage-Zachary.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666760046/2015-11-04---Centre-Stage-Zachary.jpg.jpg)
 <figcaption>Ensemble Studio Competition finalist baritone Zachary Read, Centre Stage 2015.</figcaption>
 </figure>
 
@@ -122,9 +84,7 @@ Another mezzo-Soprano, Marjorie Maltais wowed us with a stunning *La Cenerentola
 
 Stratford soprano Eliza Johnson was up next with an aria from *Die Entführung auf dem Serail*. A twinkling soprano with a shimmer that filled the hall with ease delivered a delightful, nuanced, beautiful delivery. She may have started a little on the intimate or reserved side, but after her first passage she continued to open up throughout her performance. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666632930/2015-11-04---Centre-Stage-Eliza---MC.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666632930/2015-11-04---Centre-Stage-Eliza---MC.jpg.jpg)
 <figcaption>Ensemble Studio Competition finalist soprano Eliza Johnson, Centre Stage 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -142,9 +102,7 @@ Zachary Read also followed up with an aria from *Faust*. Singing "Avant de quitt
 
 Pickett followed up with a fantastic Vitellia from *La clemenza do Tito*. Here we got to see some of the fireworks I was hoping for. Clean quick solid runs and high notes for days. I'm really looking forward to more from Samantha. She sang the mozart with a bel canto sensibility, so I'd like to see her tackle some Rossini, Donizetti and Bellini in particular. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666671144/2015-11-04---Centre-Stage-Emily---MC.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666671144/2015-11-04---Centre-Stage-Emily---MC.jpg.jpg)
 <figcaption>Ensemble Studio Competition First Prize and Audience Choice Award winner Mezzo-soprano Emily D’Angelo, Centre Stage 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 
@@ -164,17 +122,13 @@ Toronto fave and super awesome tenor extraordinaire Andrew Haji gave us "En ferm
 
 Then! Surprise, surprise! Joyce El-Khoury comes out and devastates us with Dvořák's  "Song to the Moon" from *Rusalka*, and the Jewel Aria from, yup, you guessed it, *Faust*. It was the perfect way to round out the evening. She sang beautifully and elegantly and magnificently. Brava!
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666930774/2015-11-04---Centre-Stage-Joyce.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446666930774/2015-11-04---Centre-Stage-Joyce.jpg.jpg)
 <figcaption>Centre Stage surprise musical guest soprano Joyce El-Khoury, 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 
 The event was hosted by past winners Karine Boucher and Charles Sy. They were charming and lovely and dealt magnificently with a rather stilted script (emceeing is not easy, I've been there -  especially when they script out your anecdotes) but they kept the show going nicely and looked damn fine while they did it. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446667242894/2015-11-04---Centre-Stage-Tutti.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446667242894/2015-11-04---Centre-Stage-Tutti.jpg.jpg)
 <figcaption>Canadian Opera Company General Director Alexander Neef with finalists of the Ensemble Studio Competition, Centre Stage 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 

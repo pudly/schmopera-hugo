@@ -1,34 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2015-06-13T17:38:00-04:00"
-lastmod: "2015-06-17T15:23:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434297227483/JulieCollage.jpg.jpg
-publishDate: "2015-06-14T11:19:00-04:00"
-related_articles:
-- articles/how-to-make-the-most-of-your-summer-program.md
-related_companies:
-- scene/companies/soundstreams.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/canadian-opera-company-ensemble-studio.md
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/glimmerglass-festival.md
-- scene/companies/the-santa-fe-opera.md
-related_people:
-- scene/people/sharleen-joynt.md
-- scene/people/clarence-frazer.md
-- scene/people/lucia-cervoni.md
-- scene/people/leslie-dala.md
-short_description: This November, Soundstreams present the North American premiere
-  of Julie, the chamber opera by Philippe Boesmans, based on the 1888 Strindberg play,
-  Miss Julie. &quot;Depicting a flirtation that turns into an erotic danse macabre
-  between its aristocratic title character and her father’s valet, August Strindberg’s
-  play Miss Julie was considered too scandalous to be produced when it was written
-  in 1888—only to become a defining classic of modern drama.&quot;
-slug: soundstreams-announces-the-cast-of-julie
-title: Soundstreams announces the cast of Julie
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2015-06-13T17:38:00-04:00"
+lastmod = "2015-06-17T15:23:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434297227483/JulieCollage.jpg.jpg"
+publishDate = "2015-06-14T11:19:00-04:00"
+related_articles = ["articles/how-to-make-the-most-of-your-summer-program.md"]
+related_companies = ["scene/companies/soundstreams.md","scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/against-the-grain-theatre.md","scene/companies/glimmerglass-festival.md","scene/companies/the-santa-fe-opera.md"]
+related_people = ["scene/people/sharleen-joynt.md","scene/people/clarence-frazer.md","scene/people/lucia-cervoni.md","scene/people/leslie-dala.md"]
+short_description = "This November, Soundstreams present the North American premiere of Julie, the chamber opera by Philippe Boesmans, based on the 1888 Strindberg play, Miss Julie. &quot;Depicting a flirtation that turns into an erotic danse macabre between its aristocratic title character and her father’s valet, August Strindberg’s play Miss Julie was considered too scandalous to be produced when it was written in 1888—only to become a defining classic of modern drama.&quot;"
+slug = "soundstreams-announces-the-cast-of-julie"
+title = "Soundstreams announces the cast of Julie"
++++
 
 This November, Soundstreams present the North American premiere of *Julie*, the chamber opera by Philippe Boesmans and librettist Luc Bondy, based on the 1888 Strindberg play, *Miss Julie*. "Depicting a flirtation that turns into an erotic danse macabre between its aristocratic title character and her father’s valet, August Strindberg’s play Miss Julie was considered too scandalous to be produced when it was written in 1888—only to become a defining classic of modern drama." Of course, this kind of thing makes me even more curious to see the opera. Directed by Canadian Stage's Matthew Jocelyn and conducted by Les Dala, *Julie* has a compact cast of three exciting Canadian singers. 
 

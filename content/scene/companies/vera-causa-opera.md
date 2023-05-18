@@ -1,29 +1,30 @@
----
-date: "2017-02-07T14:15:00+00:00"
-lastmod: "2017-02-07T14:15:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486476890211/2017-02-07---VCO-Logo.jpg.jpg
-publishDate: "2017-02-07T14:15:00+00:00"
-related_people:
-- scene/people/whitney-mather.md
-slug: vera-causa-opera
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/vcopera/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/vcopera
-- platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/vcopera/
-- _template: company_single
-  platform: Soundcloud
-  template: social-media
-  url: https://soundcloud.com/Vera-causa-opera
-title: Vera Causa Opera
-type_of_company: Opera Company
-website: http://www.vcopera.ca/
----
++++
+date = "2017-02-07T14:15:00+00:00"
+lastmod = "2017-02-07T14:15:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486476890211/2017-02-07---VCO-Logo.jpg.jpg"
+publishDate = "2017-02-07T14:15:00+00:00"
+related_people = ["scene/people/whitney-mather.md"]
+slug = "vera-causa-opera"
+title = "Vera Causa Opera"
+type_of_company = "Opera Company"
+website = "http://www.vcopera.ca/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/vcopera/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/vcopera"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/vcopera/"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "https://soundcloud.com/Vera-causa-opera"
++++
 
 Vera Causa Opera is an innovative opera company in the Region of Waterloo, Ontario, Canada. VCO attempts to reinstate opera as an accessible and communicative medium through the adaptation of old operas and the composition of new ones! This initiative is carried out through education in schools, camps, and integrating local performers and professionals into VCO productions, in doing so creating a new and inviting operatic environment.
 

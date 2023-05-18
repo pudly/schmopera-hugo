@@ -1,27 +1,22 @@
----
-author:
-- authors/loren-lester.md
-categories: Review
-date: "2019-06-01T04:00:00+00:00"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1559066216/media/2019/05/kopernikus_30.jpg
-primary_image_credit: 'Kopernikus, Americas Society/Music of the Americas, New York
-  Opera Fest, 2019. Photo: Nicolas Manassi/Roey Yohai Studios for Americas Society.'
-related_articles: []
-related_companies: []
-related_people: []
-short_description: Opera composers who write their own libretti are rare and with
-  good reason.  Musicians train in the land of notes and chords but structuring a
-  good piece of theatre requires a different skill set. In the case of The Impossible
-  She, presented by Rhymes with Opera (as part of the New York Opera Fest) composer
-  Daniel Thomas Davis should have stuck with what he does best.
-slug: no-explanation-needed
-title: No Explanation Needed
-youtube_url: ""
----
++++
+author = ["authors/loren-lester.md"]
+categories = "Review"
+date = "2019-06-01T04:00:00+00:00"
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1559066216/media/2019/05/kopernikus_30.jpg"
+primary_image_credit = "Kopernikus, Americas Society/Music of the Americas, New York Opera Fest, 2019. Photo: Nicolas Manassi/Roey Yohai Studios for Americas Society."
+related_articles = []
+related_companies = []
+related_people = []
+short_description = "Opera composers who write their own libretti are rare and with good reason.  Musicians train in the land of notes and chords but structuring a good piece of theatre requires a different skill set. In the case of The Impossible She, presented by Rhymes with Opera (as part of the New York Opera Fest) composer Daniel Thomas Davis should have stuck with what he does best."
+slug = "no-explanation-needed"
+title = "No Explanation Needed"
+youtube_url = ""
+
++++
 Opera composers who write their own libretti are rare and with good reason.  Musicians train in the land of notes and chords but structuring a good piece of theatre requires a different skill set. In the case of _The Impossible She_, presented by Rhymes with Opera (as part of the New York Opera Fest) composer Daniel Thomas Davis should have stuck with what he does best.
 
 _The Impossible She_ is yet another sexual-identity discovery story but it contains a bit of unknown history to some: the heroine is humanitarian and former First Lady Eleanor Roosevelt.  Eleanor (soprano Elisabeth Halliday) realizes that she is in love with a woman (journalist Lorena "Hick" Hickock, played by soprano Bonnie Lander) and the timing couldn't be worse – Mrs. Roosevelt's husband, FDR, has just been elected President of the United States. It's 1932 and a lesbian in the White House is something that would be beyond scandalous. And so, Eleanor and "Hick" have to hide their affair, and, are ultimately kept apart for fear of public condemnation.
@@ -50,9 +45,7 @@ There is some evocative and effective video design. A large close-up of Mrs. Roo
 
 Musically, there are some bad notes from sax and soprano alike. Part of it may be due to the unnecessary curtain raiser (_On Loneliness and Solitude_) from composer Colin Read who set three hard-to-follow poems to music which did not enhance or enlighten the words. Ms. Rettmer also directed this one and she gives the performers some lame movements, trying squeeze whatever staging can be found in the flowery 19th-century, and heavily symbolic 20th-century language of the poems. But the endeavor only succeeded in perhaps wearing out the voices of the same singers who then had to take on _The Impossible She_.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1559066162/media/2019/05/kopernikus_33.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559066162/media/2019/05/kopernikus_33.jpg){{% /md %}}
 
 <figcaption>Kopernikus, Americas Society/Music of the Americas, New York Opera Fest, 2019. Photo: Nicolas Manassi/Roey Yohai Studios for Americas Society.</figcaption>  
 </figure>
@@ -63,9 +56,7 @@ There's an audience for just about any opera genre but the potential audience fo
 
 One of the biggest of the big problems with this production is that someone (the deceased composer? Sebastian Zubieta, the music director?) has decided that the audience shouldn't look at the performers. Faced away from the singers and musicians, audience members had to twist around, uncomfortably, to see where all the noise was coming from. We were only allowed to look at a large wall with video projections. The wall – in a formerly elegant Moose Lodge in Brooklyn – was an impressive projection space, though the videos were far less than that. It was quite an endurance test to stare, for seventy minutes, at images from artist Sergio Policicchio that looked something like outer space or slowly exploding suns (or were they cells in mitosis?) Other repetitive images included the silhouette of trees, some X-rays and some geometric shapes.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1559066151/media/2019/05/kopernikus_13.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559066151/media/2019/05/kopernikus_13.jpg){{% /md %}}
 
 <figcaption>Kopernikus, Americas Society/Music of the Americas, New York Opera Fest, 2019. Photo: Nicolas Manassi/Roey Yohai Studios for Americas Society.</figcaption>  
 </figure>
@@ -74,9 +65,7 @@ The intent was clearly to force us to listen to the composer's sounds and think 
 
 _Kopernikus_ appears to be about a character named Agni who is facing death and is being guided to "infinity" and "dematerialization" by the ghosts of Copernicus, Lewis Carroll and Mozart, and even some fictional characters such as Mozart's "Queen of the Night" from _The Magic Flute_. The wizard Merlin also gets a number of lines and there is even a cameo from Tristan and his Isolde (but without any of the musical pleasures.) All these roles (and a few others) were sung (uttered?) by Meridonalis, a talented six-member vocal ensemble. It was clear that they were all highly trained singers. It's a high compliment to say that they never made you feel that this was a daunting or difficult score, though clearly it was. The same can be said for the musicianship of the seven-member International Contemporary Ensemble.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1559066138/media/2019/05/kopernikus_08.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1559066138/media/2019/05/kopernikus_08.jpg){{% /md %}}
 
 <figcaption>Kopernikus, Americas Society/Music of the Americas, New York Opera Fest, 2019. Photo: Nicolas Manassi/Roey Yohai Studios for Americas Society.</figcaption>  
 </figure>

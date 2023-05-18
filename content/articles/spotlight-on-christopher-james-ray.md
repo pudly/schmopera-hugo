@@ -1,52 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2015-06-24T17:48:00-06:00"
-lastmod: "2015-06-25T14:53:00-06:00"
-preamble: This interview is part of our ongoing series of features on young working
-  artists in the opera industry. If you think you'd be a great candidate for an interview,
-  or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com).
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435189784340/so716bw.jpg.jpg
-publishDate: "2015-06-25T14:41:00-06:00"
-related_articles:
-- articles/spotlight-on-michelle-siemens.md
-- articles/spotlight-on-peter-bass.md
-- articles/spotlight-on-emily-peragine.md
-- articles/spotlight-on-julia-dawson.md
-- articles/spotlight-on-charlotte-knight.md
-- articles/spotlight-on-maikai-nash.md
-- articles/spotlight-on-kelsey-vicary.md
-- articles/spotlight-on-lida-szkwarek.md
-- articles/spotlight-on-danielle-macmillan.md
-- articles/spotlight-on-marjorie-maltais.md
-- articles/spotlight-on-william-ford.md
-- articles/spotlight-on-kimberleyann-bartczak.md
-- articles/spotlight-on-laurelle-jade-froese.md
-- articles/spotlight-on-jeremy-hirsch.md
-- articles/spotlight-on-maeve-palmer.md
-- articles/talking-with-directors-operas-marvel.md
-- articles/spotlight-on-cairan-ryan.md
-- articles/spotlight-on-sara-schabas.md
-- articles/spotlight-on-jeremy-bowes.md
-- articles/spotlight-on-amanda-majeski.md
-- articles/at-the-podium-jordan-de-souza.md
-- articles/spotlight-on-christopher-allen.md
-- articles/talking-with-conductors-lidiya-yankovskaya.md
-related_companies:
-- scene/companies/opera-on-the-avalon.md
-- scene/companies/sarasota-opera.md
-related_people:
-- scene/people/christopher-james-ray.md
-short_description: Christopher James Ray is a rising conductor based out of Houston,
-  TX. In recent seasons, Christopher has been busy at Florida State Opera and Sarasota
-  Opera, and he&#039;ll make his debut at Opera on the James in 2015/16. Christopher
-  is a student and protégé of American composer Carlisle Floyd, having assisted him
-  on Of Mice and Men in 2012, and recording an album of Floyd&#039;s songs with mezzo-soprano
-  Susanne Mentzer.
-slug: spotlight-on-christopher-james-ray
-title: 'Spotlight on: Christopher James Ray'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2015-06-24T17:48:00-06:00"
+lastmod = "2015-06-25T14:53:00-06:00"
+preamble = "This interview is part of our ongoing series of features on young working artists in the opera industry. If you think you'd be a great candidate for an interview, or know someone you'd like to nominate, get in touch at [hello@schmopera.com](mailto:hello@schmopera.com)."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1435189784340/so716bw.jpg.jpg"
+publishDate = "2015-06-25T14:41:00-06:00"
+related_articles = ["articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-danielle-macmillan.md","articles/spotlight-on-marjorie-maltais.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-jeremy-hirsch.md","articles/spotlight-on-maeve-palmer.md","articles/talking-with-directors-operas-marvel.md","articles/spotlight-on-cairan-ryan.md","articles/spotlight-on-sara-schabas.md","articles/spotlight-on-jeremy-bowes.md","articles/spotlight-on-amanda-majeski.md","articles/at-the-podium-jordan-de-souza.md","articles/spotlight-on-christopher-allen.md","articles/talking-with-conductors-lidiya-yankovskaya.md"]
+related_companies = ["scene/companies/opera-on-the-avalon.md","scene/companies/sarasota-opera.md"]
+related_people = ["scene/people/christopher-james-ray.md"]
+short_description = "Christopher James Ray is a rising conductor based out of Houston, TX. In recent seasons, Christopher has been busy at Florida State Opera and Sarasota Opera, and he&#039;ll make his debut at Opera on the James in 2015/16. Christopher is a student and protégé of American composer Carlisle Floyd, having assisted him on Of Mice and Men in 2012, and recording an album of Floyd&#039;s songs with mezzo-soprano Susanne Mentzer."
+slug = "spotlight-on-christopher-james-ray"
+title = "Spotlight on: Christopher James Ray"
++++
 
 [Christopher James Ray](/scene/people/christopher-james-ray/) is a rising conductor based out of Houston, TX. In recent seasons, Christopher has been busy at Florida State Opera and Sarasota Opera, and he'll make his debut at Opera on the James in 2015/16. Christopher is a student and protégé of American composer Carlisle Floyd, having assisted him on *Of Mice and Men* in 2012, and recording an [album](http://www.amazon.com/C-Floyd-Letter-Susanne-Mentzer/dp/B00G4U7UNK) of Floyd's songs with mezzo-soprano Susanne Mentzer. I asked Christopher about being a singer-friendly conductor, and investing in contemporary works.
 

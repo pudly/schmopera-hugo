@@ -1,49 +1,19 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2016-08-30T11:06:00+01:00"
-lastmod: "2016-08-31T12:54:00+01:00"
-preamble: "For successful character tenors, it can seem as though they have sung in
-  every opera, at every opera house in the world; no different is the career of American
-  character tenor [Steven Cole](/scene/people/steven-cole/), who has spent his four-decade
-  career inhabiting the comprimario roles of *The Magic Flute*, *Madama Butterfly*,
-  *Les contes d'Hoffmann*, *Ariadne auf Naxos*, *Boris Godunov*, and *A Midsummer
-  Night's Dream*. He is featured in [John F. Martin's *In Character: Opera Portraiture*](https://www.amazon.com/Character-Portraiture-John-F-Martin/dp/1574674536),
-  as Sellem, the auctioneer, in Robert Lepage's production of *The Rake's Progress*
-  at San Francisco Opera.\n\nThis season, Cole sings Don Basilio and Don Curzio in
-  Stephen Lawless' production of [*Le nozze di Figaro*](https://www.kcopera.org/performances/the-marriage-of-figaro-16/)
-  at Lyric Opera of Kansas City, and he joins the Atlanta Symphony for Christopher
-  Theofanidis' oratorio [*Creation/Creator*](https://www.atlantasymphony.org/ConcertsAndTickets/Calendar/2016-2017/CS17-Theofanidis-Creation-Creator).
-  \n\nCole's life onstage is an extraordinary one, and we were thrilled to have the
-  chance to ask him about opera, Broadway, sharing the stage with Jessye Norman, and
-  what he calls the \"the best job in the world.\""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472642487517/2016-08-31---Cole.jpg.jpg
-primary_image_credit: Photo courtesy of CAMI.
-publishDate: "2016-08-31T12:49:00+01:00"
-related_articles:
-- articles/talking-with-singers-russell-thomas.md
-- articles/talking-with-singers-craig-irvin.md
-related_companies:
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/opra-national-de-paris.md
-- scene/companies/canadian-opera-company.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/seattle-opera.md
-- scene/companies/salzburg-festival.md
-related_people:
-- scene/people/steven-cole.md
-short_description: '&quot;I have a secret: I have taped (yes, old fashioned) every
-  performance out of my mouth for 40 years. So I always listen to the tape before
-  the next performance and make little notes: &#039;too much consonant on X...sharper
-  rhythms at Y...Steven, enjoy more the double consonants tonight...stay more in head...E
-  flat was flat...support more...keep the legato in that passage...that went well,
-  you reached all your personal goals in getting the text across...&#039;&quot;'
-slug: talking-with-singers-steven-cole
-title: 'Talking with singers: Steven Cole'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2016-08-30T11:06:00+01:00"
+lastmod = "2016-08-31T12:54:00+01:00"
+preamble = "For successful character tenors, it can seem as though they have sung in every opera, at every opera house in the world; no different is the career of American character tenor [Steven Cole](/scene/people/steven-cole/), who has spent his four-decade career inhabiting the comprimario roles of *The Magic Flute*, *Madama Butterfly*, *Les contes d'Hoffmann*, *Ariadne auf Naxos*, *Boris Godunov*, and *A Midsummer Night's Dream*. He is featured in [John F. Martin's *In Character: Opera Portraiture*](https://www.amazon.com/Character-Portraiture-John-F-Martin/dp/1574674536), as Sellem, the auctioneer, in Robert Lepage's production of *The Rake's Progress* at San Francisco Opera.\n\nThis season, Cole sings Don Basilio and Don Curzio in Stephen Lawless' production of [*Le nozze di Figaro*](https://www.kcopera.org/performances/the-marriage-of-figaro-16/) at Lyric Opera of Kansas City, and he joins the Atlanta Symphony for Christopher Theofanidis' oratorio [*Creation/Creator*](https://www.atlantasymphony.org/ConcertsAndTickets/Calendar/2016-2017/CS17-Theofanidis-Creation-Creator). \n\nCole's life onstage is an extraordinary one, and we were thrilled to have the chance to ask him about opera, Broadway, sharing the stage with Jessye Norman, and what he calls the \"the best job in the world.\""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472642487517/2016-08-31---Cole.jpg.jpg"
+primary_image_credit = "Photo courtesy of CAMI."
+publishDate = "2016-08-31T12:49:00+01:00"
+related_articles = ["articles/talking-with-singers-russell-thomas.md","articles/talking-with-singers-craig-irvin.md"]
+related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/canadian-opera-company.md","scene/companies/san-francisco-opera.md","scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/seattle-opera.md","scene/companies/salzburg-festival.md"]
+related_people = ["scene/people/steven-cole.md"]
+short_description = "&quot;I have a secret: I have taped (yes, old fashioned) every performance out of my mouth for 40 years. So I always listen to the tape before the next performance and make little notes: &#039;too much consonant on X...sharper rhythms at Y...Steven, enjoy more the double consonants tonight...stay more in head...E flat was flat...support more...keep the legato in that passage...that went well, you reached all your personal goals in getting the text across...&#039;&quot;"
+slug = "talking-with-singers-steven-cole"
+title = "Talking with singers: Steven Cole"
++++
 
 ## What do you think are some unique challenges and joys of playing a character role?
 

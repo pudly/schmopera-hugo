@@ -1,25 +1,26 @@
----
-date: "2019-04-01T00:41:53+00:00"
-discipline: Soprano
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554079128/media/2019/04/JessicaJaneJacobs.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/boston-opera-collaborative.md
-slug: jessica-jane-jacobs
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/jessicajjacobs
-- platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/channel/UC4cIbsdBvzDW8Od8BLQwaoA
-- _template: people_single
-  platform: Soundcloud
-  template: social-media
-  url: https://soundcloud.com/jessica-jacobs-soprano/sets/jessicajacobs
-title: Jessica Jane Jacobs
-website: http://www.jessicajanejacobs.com/html/
----
++++
+date = "2019-04-01T00:41:53+00:00"
+discipline = "Soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554079128/media/2019/04/JessicaJaneJacobs.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/boston-opera-collaborative.md"]
+slug = "jessica-jane-jacobs"
+title = "Jessica Jane Jacobs"
+website = "http://www.jessicajanejacobs.com/html/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/jessicajjacobs"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/channel/UC4cIbsdBvzDW8Od8BLQwaoA"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "https://soundcloud.com/jessica-jacobs-soprano/sets/jessicajacobs"
+
++++
 Soprano Jessica Jane Jacobs has been praised by critics for her "warm", "clear", and "bejeweled" vocal tone along with her "affecting", "strong", and "honest" stage presence. Ms. Jacobs is becoming noticed for her abilities as a singing actress. Of her performance as Mimì in _La Bohème_ one reviewer wrote, "Jacobs’s ability to respond organically to her cast mates puts her in a growing minority of opera singers who are able to fully integrate dramatic truthfulness with fine vocal delivery." (_The Boston Musical Intelligencer_)
 
 In the 2015-16 season, Ms. Jacobs sings Marguerite in Boston Opera Collaborative’s reinterpretation of Gounod’s _Faust_. In the 2014-15 season, she performed Armida in Handel’s _Rinaldo_ with Boston Opera Collaborative and Mimì in _La Bohème_ with NEMPAC Opera Project. Other recent highlights include Rosalinde in _Die Fledermaus_ with NEMPAC Opera Project, Miss Wordsworth in Britten’s _Albert Herring_ with Boston Opera Collaborative, Miss Ellen in _Lakmé_ with Lowell House Opera, Second Woman in _Dido and Aeneas_ with Harvard Early Music Society, Violetta cover in _La Traviata_ with FOPAC Opera, and Anna in _The King and I_ with Calliope Productions.

@@ -1,38 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2015-01-28T17:48:00-05:00"
-lastmod: "2015-04-11T22:11:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1427065416481/DonGiovanni-MC-1220_Fotor.jpg.jpg
-primary_image_credit: Michael Cooper
-publishDate: "2015-01-28T17:48:00-05:00"
-related_articles:
-- articles/concept-production-real-reason.md
-- articles/in-review-the-marriage-of-figaro.md
-- articles/in-review-lucia-di-lammermoor-at-roh.md
-- articles/gimmicks-tactics-discouraging-the-new-.md
-- articles/in-review-don-giovanni-at-nashville-opera.md
-- articles/when-don-giovanni-is-the-don.md
-- articles/don-giovanni-in-2018-in-search-of-a-concept.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/kyle-ketelsen.md
-- scene/people/russell-braun.md
-- scene/people/jennifer-holloway.md
-- scene/people/jane-archibald.md
-- scene/people/michael-schade.md
-- scene/people/sasha-djihanian.md
-- scene/people/zachary-nelson.md
-short_description: 'After much anticipation (and averting my eyes from the opening
-  night reviews), I had the chance to see the COC&#039;s current production of Don
-  Giovanni, directed and designed by Dmitri Tcherniakov, and conducted by Michael
-  Hofstetter. The production was new to me, and my curiosity was piqued by some press
-  photos and a few rumoured details. '
-slug: in-review-tcherniakovs-don-giovanni
-title: 'In review: Tcherniakov&#039;s Don Giovanni'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2015-01-28T17:48:00-05:00"
+lastmod = "2015-04-11T22:11:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1427065416481/DonGiovanni-MC-1220_Fotor.jpg.jpg"
+primary_image_credit = "Michael Cooper"
+publishDate = "2015-01-28T17:48:00-05:00"
+related_articles = ["articles/concept-production-real-reason.md","articles/in-review-the-marriage-of-figaro.md","articles/in-review-lucia-di-lammermoor-at-roh.md","articles/gimmicks-tactics-discouraging-the-new-.md","articles/in-review-don-giovanni-at-nashville-opera.md","articles/when-don-giovanni-is-the-don.md","articles/don-giovanni-in-2018-in-search-of-a-concept.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/kyle-ketelsen.md","scene/people/russell-braun.md","scene/people/jennifer-holloway.md","scene/people/jane-archibald.md","scene/people/michael-schade.md","scene/people/sasha-djihanian.md","scene/people/zachary-nelson.md"]
+short_description = "After much anticipation (and averting my eyes from the opening night reviews), I had the chance to see the COC&#039;s current production of Don Giovanni, directed and designed by Dmitri Tcherniakov, and conducted by Michael Hofstetter. The production was new to me, and my curiosity was piqued by some press photos and a few rumoured details. "
+slug = "in-review-tcherniakovs-don-giovanni"
+title = "In review: Tcherniakov&#039;s Don Giovanni"
++++
 
 <p class="intro">
 	After much anticipation (and averting my eyes from the opening night reviews), I had the chance to see the COC's current production of 

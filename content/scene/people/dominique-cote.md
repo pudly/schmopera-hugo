@@ -1,29 +1,27 @@
----
-date: "2017-10-23T14:38:00-04:00"
-discipline: Baritone
-lastmod: "2017-10-23T14:38:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508783774291/COTE_PHOTO1_HIRES_2016.jpg.jpg
-primary_image_credit: Julie Beauchemin
-publishDate: "2017-10-23T14:38:00-04:00"
-related_companies:
-- scene/companies/edmonton-opera.md
-- scene/companies/lopra-de-montral.md
-- scene/companies/pacific-opera-victoria.md
-slug: dominique-cote
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/barytondom/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/DomiCote
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/domicote/
-title: Dominique Côté
-website: https://www.dominiquecote.net/
----
++++
+date = "2017-10-23T14:38:00-04:00"
+discipline = "Baritone"
+lastmod = "2017-10-23T14:38:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508783774291/COTE_PHOTO1_HIRES_2016.jpg.jpg"
+primary_image_credit = "Julie Beauchemin"
+publishDate = "2017-10-23T14:38:00-04:00"
+related_companies = ["scene/companies/edmonton-opera.md","scene/companies/lopra-de-montral.md","scene/companies/pacific-opera-victoria.md"]
+slug = "dominique-cote"
+title = "Dominique Côté"
+website = "https://www.dominiquecote.net/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/barytondom/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/DomiCote"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/domicote/"
++++
 
 Québec baritone Dominique Côté maintains a flourishing career in North America and in France. Praised for his warm tone, stage presence and skill as an actor, he has won several first prizes including the Concours International de chant de Canari and for operetta at the Concours International de chant de Marmande. He also received the first prize and the grand prize from the Voice Festival of McGill University.
 

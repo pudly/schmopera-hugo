@@ -1,29 +1,18 @@
----
-author:
-- authors/greg.md
-categories: News
-date: "2017-05-16T13:46:00-04:00"
-lastmod: "2017-05-17T09:21:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494986275999/2017-05-16---Shookhoff.jpg.jpg
-primary_image_credit: William Shookhoff, founder & director of Opera By Request. Photo
-  courtesy of OBR.
-publishDate: "2017-05-17T08:53:00-04:00"
-related_articles:
-- articles/in-review-lucia-di-lammermoor-at-opera-by-request.md
-- articles/the-future-of-opera-is-indie.md
-related_companies:
-- scene/companies/opera-by-request.md
-related_people:
-- scene/people/gregory-finney.md
-short_description: Shookhoff, whose own operatic career spans four decades and includes
-  opera companies on both sides of the Atlantic as well as university, festival, and
-  music theatre engagements, sees OBR as a way to give back to the operatic community
-  and to provide opportunities for emerging talent, just as established mentors (including
-  Canadian icons Herman Geiger-Torel, Ernesto Barbini, and Mario Bernardi) provided
-  those opportunities for artists of his generation.
-slug: celebrating-10-years-of-opera-by-request
-title: Celebrating 10 years of Opera By Request
----
++++
+author = ["authors/greg.md"]
+categories = "News"
+date = "2017-05-16T13:46:00-04:00"
+lastmod = "2017-05-17T09:21:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494986275999/2017-05-16---Shookhoff.jpg.jpg"
+primary_image_credit = "William Shookhoff, founder & director of Opera By Request. Photo courtesy of OBR."
+publishDate = "2017-05-17T08:53:00-04:00"
+related_articles = ["articles/in-review-lucia-di-lammermoor-at-opera-by-request.md","articles/the-future-of-opera-is-indie.md"]
+related_companies = ["scene/companies/opera-by-request.md"]
+related_people = ["scene/people/gregory-finney.md"]
+short_description = "Shookhoff, whose own operatic career spans four decades and includes opera companies on both sides of the Atlantic as well as university, festival, and music theatre engagements, sees OBR as a way to give back to the operatic community and to provide opportunities for emerging talent, just as established mentors (including Canadian icons Herman Geiger-Torel, Ernesto Barbini, and Mario Bernardi) provided those opportunities for artists of his generation."
+slug = "celebrating-10-years-of-opera-by-request"
+title = "Celebrating 10 years of Opera By Request"
++++
 
 Hello Schmop-Tops, 
 

@@ -1,23 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-10-14T12:15:00-04:00"
-lastmod: "2017-10-16T10:21:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507997888626/2017-10-14---Mirror-Werewolves.jpg.jpg
-publishDate: "2017-10-15T20:56:00-04:00"
-related_articles:
-- articles/things-i-want-to-see-la-zombiata.md
-- articles/gareth-matteys-belladonna-is-unashamedly-queer.md
-related_companies:
-- scene/companies/wholetone-opera.md
-short_description: '&quot;Lycanthropy is such a great metaphor for sexual fluidity,&quot;
-  says co-librettist Teri Kowiak. &quot;Our werewolf is not human when in human form,
-  nor is he a wolf when he is in wolf form. He is always a werewolf, no matter how
-  he appears at a specific time.&quot;'
-slug: a-fiercely-queer-opera-for-halloween
-title: A &quot;fiercely queer opera&quot; for Halloween
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-10-14T12:15:00-04:00"
+lastmod = "2017-10-16T10:21:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507997888626/2017-10-14---Mirror-Werewolves.jpg.jpg"
+publishDate = "2017-10-15T20:56:00-04:00"
+related_articles = ["articles/things-i-want-to-see-la-zombiata.md","articles/gareth-matteys-belladonna-is-unashamedly-queer.md"]
+related_companies = ["scene/companies/wholetone-opera.md"]
+short_description = "&quot;Lycanthropy is such a great metaphor for sexual fluidity,&quot; says co-librettist Teri Kowiak. &quot;Our werewolf is not human when in human form, nor is he a wolf when he is in wolf form. He is always a werewolf, no matter how he appears at a specific time.&quot;"
+slug = "a-fiercely-queer-opera-for-halloween"
+title = "A &quot;fiercely queer opera&quot; for Halloween"
++++
 
 This Halloween, WholeTone Opera - the company that brought you *La Zombiata* - presents [*The Werewolf*](https://www.eventbrite.com/e/wholetone-opera-the-rockwell-present-the-werewolf-tickets-36843876025), a "freshly transformed, fiercely queer opera". Adapted from Louise Bertin's 1827 melodrama, *Le loup-garou*, and inspired by the early 20th century's silent films, *The Werewolf* features a modernized libretto by J. Deschene and Teri Kowiak that keeps with WTO's mission to better represent the LGBTQIA community on operatic stages.
 
@@ -35,7 +28,7 @@ Although we were very excited to find an original werewolf opera written by a wo
 
 We are proud of the fact that almost all of the main characters in this story identify as queer or gay - at least by the end of the opera. Some of them struggle with discovering and revealing their closeted identities more than others. One character is casually open about being queer, which is even more rare to see on the stage. I love when queer characters are as unabashedly comfortable in their identities, as I, a queer gender fluid person, attempt to be. It takes quite a bit of bravery and fierceness of will to live authentically. Four out of our five main characters make huge strides in that regard through the course of the show. It is a beautiful thing to watch them grow into their true forms.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507997908628/2017-10-14---The-Werewolf.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507997908628/2017-10-14---The-Werewolf.jpg.jpg)
 </figure>
 
 ## What do you think the opera industry gains from from a new focus on female, femme, and non-binary composers?

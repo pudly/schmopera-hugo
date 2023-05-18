@@ -1,26 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2015-11-06T09:42:00-05:00"
-lastmod: "2015-11-06T12:17:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446820696277/11353496_736533219785982_1553908783_n.jpg.jpg
-publishDate: "2015-11-06T10:43:00-05:00"
-related_articles:
-- articles/in-review-albert-herring-at-uoft-opera.md
-- articles/anna-theodosakis-directing-the-rape-of-lucretia.md
-related_companies:
-- scene/companies/university-of-toronto-opera.md
-related_people:
-- scene/people/patrick-duwors.md
-- scene/people/danika-lorn.md
-short_description: The University of Toronto Opera opened a double bill last night,
-  pairing together two of Menotti&#039;s most well-loved works, The Telephone (1946)
-  and The Medium (1945). I saw the first of two casts in what I thought was a beautifully
-  detailed production by director Michael Albano.
-slug: in-review-the-telephone-the-medium
-title: 'In review: The Telephone &amp; The Medium'
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2015-11-06T09:42:00-05:00"
+lastmod = "2015-11-06T12:17:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446820696277/11353496_736533219785982_1553908783_n.jpg.jpg"
+publishDate = "2015-11-06T10:43:00-05:00"
+related_articles = ["articles/in-review-albert-herring-at-uoft-opera.md","articles/anna-theodosakis-directing-the-rape-of-lucretia.md"]
+related_companies = ["scene/companies/university-of-toronto-opera.md"]
+related_people = ["scene/people/patrick-duwors.md","scene/people/danika-lorn.md"]
+short_description = "The University of Toronto Opera opened a double bill last night, pairing together two of Menotti&#039;s most well-loved works, The Telephone (1946) and The Medium (1945). I saw the first of two casts in what I thought was a beautifully detailed production by director Michael Albano."
+slug = "in-review-the-telephone-the-medium"
+title = "In review: The Telephone &amp; The Medium"
++++
 
 The [University of Toronto Opera](http://uoftopera.ca/) opened a double bill last night, pairing together two of Menotti's  most well-loved works, *The Telephone* (1946) and *The Medium* (1945). I saw the first of two casts in what I thought was a beautifully detailed productions Michael Albano (*The Telephone*) and rising director [Anna Theodosakis](http://www.news.utoronto.ca/anna-theodosakis-first-student-direct-major-u-t-opera-production) (*The Medium*). The UofT Opera Orchestra took on these two tricky scores under maestra Sandra Horst, Chorus Master of the [Canadian Opera Company](/scene/companies/canadian-opera-company/); she was a great sight to see on the podium.
 

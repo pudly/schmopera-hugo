@@ -1,25 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-11-24T17:55:00-05:00"
-lastmod: "2015-11-25T16:26:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448485228211/2015-11-25---Marlon-Brando.jpg.jpg
-primary_image_credit: Marlon Brando in A Streetcar Named Desire, 1951.
-publishDate: "2015-11-25T16:21:00-05:00"
-related_articles:
-- articles/three-big-things-we-can-all-learn-from-singers.md
-- articles/putting-on-show-instrumentalists.md
-- articles/brian-mulligan-singing-jack-torrance.md
-short_description: Roles like Violetta and Don José can emotionally cost a lot, and,
-  some singers feel the need to shake off a character&#039;s heaviness after rehearsal
-  is done. Women who sing Cio-Cio San (not to mention those who have kids of their
-  own) can have an inevitable sympathetic resonse to that final scene. Singers playing
-  villain roles might feel guilt or disgust after staging a particularly nasty scene,
-  despite the obvious fictional element to the whole thing.
-slug: emotional-extremes-bringing-your-work-home
-title: Emotional extremes &amp; bringing your work home
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-11-24T17:55:00-05:00"
+lastmod = "2015-11-25T16:26:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448485228211/2015-11-25---Marlon-Brando.jpg.jpg"
+primary_image_credit = "Marlon Brando in A Streetcar Named Desire, 1951."
+publishDate = "2015-11-25T16:21:00-05:00"
+related_articles = ["articles/three-big-things-we-can-all-learn-from-singers.md","articles/putting-on-show-instrumentalists.md","articles/brian-mulligan-singing-jack-torrance.md"]
+short_description = "Roles like Violetta and Don José can emotionally cost a lot, and, some singers feel the need to shake off a character&#039;s heaviness after rehearsal is done. Women who sing Cio-Cio San (not to mention those who have kids of their own) can have an inevitable sympathetic resonse to that final scene. Singers playing villain roles might feel guilt or disgust after staging a particularly nasty scene, despite the obvious fictional element to the whole thing."
+slug = "emotional-extremes-bringing-your-work-home"
+title = "Emotional extremes &amp; bringing your work home"
++++
 
 One question I've asked a lot of singers is some variance on, "what's it like to live in such an extreme world?" That "extreme world" is the emotional highs and lows that are the stuff of opera. Singers spend a lot of time in those highs and lows, and even though it's all make-believe, that time spent is focused and thoughtful and deliberate. Every day they embody a character who is dying, or abandoned, or rejected, or evil, or ecstatic; they think hard about how these characters end up where they do, and how it makes them feel. Actors often claim to identify strongly with their characters' story; similarly, could an opera singer really avoid getting personally invested?
 

@@ -1,24 +1,23 @@
----
-date: "2018-04-27T21:19:00-04:00"
-discipline: Soprano
-lastmod: "2018-04-27T21:19:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524878328716/IMG_8374.jpeg.jpeg
-primary_image_credit: Steven Trumon Gray.
-publishDate: "2018-04-27T21:19:00-04:00"
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-slug: marcy-richardson
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/OperaGaga?lang=en
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/operagaga/
-title: Marcy Richardson
-website: http://marcyrichardson.com/
----
++++
+date = "2018-04-27T21:19:00-04:00"
+discipline = "Soprano"
+lastmod = "2018-04-27T21:19:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524878328716/IMG_8374.jpeg.jpeg"
+primary_image_credit = "Steven Trumon Gray."
+publishDate = "2018-04-27T21:19:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+slug = "marcy-richardson"
+title = "Marcy Richardson"
+website = "http://marcyrichardson.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/OperaGaga?lang=en"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/operagaga/"
++++
 
 Hailed by the New York Times for her "clear, pealing voice" (Scarlatti's *L'Arianna-The Arianna Project*, Musica Nuova) and by Opera News for her “best all-around performance” (Handel's *Ariodante* - The Princeton Festival) classical soprano Marcy Richardson is a versatile artist with a passion for baroque, contemporary music, cabaret, pole and aerial dance, and burlesque.
 

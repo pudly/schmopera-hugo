@@ -1,24 +1,15 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2016-05-16T14:58:00+01:00"
-lastmod: "2016-05-22T10:47:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463433525448/2016-05-17---Florence-Foster-Jenkins.jpg.jpg
-publishDate: "2016-05-16T22:19:00+01:00"
-related_articles:
-- articles/gibson-girls-and-the-great-opera-theyd-make.md
-- articles/elitism-irony-and-the-phantom-of-the-opera.md
-- articles/familiar-exotic-a-brief-history-of-bellinis-norma.md
-- articles/michael-tilson-thomas-takes-on-ruggles-mozart-mahler.md
-short_description: Even the legend of Jenkins is almost enough to bring tears to our
-  eyes. She went through a lot of tough stuff, and it&#039;s poignant for us, as writers
-  of reviews, that even she, with all her well-placed ignorance and unashamed love
-  for music, was deeply hurt by the negativity hurled at her from critics. Aren&#039;t
-  we all searching for Jenkins&#039; mix of unapologetic joy, and transparent vulnerability?
-slug: why-we-all-love-florence-foster-jenkins
-title: Why we all love Florence Foster Jenkins
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2016-05-16T14:58:00+01:00"
+lastmod = "2016-05-22T10:47:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463433525448/2016-05-17---Florence-Foster-Jenkins.jpg.jpg"
+publishDate = "2016-05-16T22:19:00+01:00"
+related_articles = ["articles/gibson-girls-and-the-great-opera-theyd-make.md","articles/elitism-irony-and-the-phantom-of-the-opera.md","articles/familiar-exotic-a-brief-history-of-bellinis-norma.md","articles/michael-tilson-thomas-takes-on-ruggles-mozart-mahler.md"]
+short_description = "Even the legend of Jenkins is almost enough to bring tears to our eyes. She went through a lot of tough stuff, and it&#039;s poignant for us, as writers of reviews, that even she, with all her well-placed ignorance and unashamed love for music, was deeply hurt by the negativity hurled at her from critics. Aren&#039;t we all searching for Jenkins&#039; mix of unapologetic joy, and transparent vulnerability?"
+slug = "why-we-all-love-florence-foster-jenkins"
+title = "Why we all love Florence Foster Jenkins"
++++
 
 Within the competitive industry of opera singers, full of high standards and aspirations of pitch-perfection, why is it that we have such unashamed love for history's most famous terrible singer?
 

@@ -1,27 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-02-02T21:26:00-05:00"
-lastmod: "2018-02-03T11:11:00-05:00"
-preamble: |-
-  Following their opera mash-ups with physical theatre ([*Revolutions*, 2013](/in-review-tapex-revolutions/)), turntablism ([*Tables Turned*, 2014](/in-review-tapex-tables-turned-or-go-see-this-show/)), and punk rock ([*Metallurgy*, 2015](/he-saidshe-said-tapex-metallurgy/)), Tapestry Opera continues its *Tap:Ex* series with [*Forbidden*](https://tapestryopera.com/tapex-forbidden/), **February 8-10, 8pm**, **February 11, 4pm**. The "21st Century Hip Hop Opera" features music by Iranian-born composer Afarin Mansouri, and a libretto by Afro-Caribbean hip hop artist Donna-Michelle St. Bernard; singers Neema Bickersteth, [Alexander Hajek](/spotlight-on-alexander-hajek/), and Shirin Eskandani join Farsi spoken-word artist Saye Sky. Tapestry Artistic Director [Michael Mori](/scene/people/michael-mori/) directs, with music direction by [Michael Shannon](/michael-shannon-the-opera-pianist/).
-
-  We spoke with Mansouri and Eskandani about this one-of-a-kind event, and their unexpected connection in Iran.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517624490236/sq---TapEx.jpg.jpg
-publishDate: "2018-02-02T22:04:00-05:00"
-related_articles:
-- articles/he-saidshe-said-tapex-metallurgy.md
-- articles/in-review-tapex-tables-turned-or-go-see-this-show.md
-related_companies:
-- scene/companies/tapestry-opera.md
-short_description: '&quot;As a female composer with a Persian background, I have the
-  privilege to be able to see the performance of my opera. It brings tears to my eyes,
-  knowing many Iranian music masters who have written great operas that are forbidden
-  to be performed on stage. Having this privilege, it is my responsibility to create.&quot;'
-slug: dont-miss-tapex-forbidden-we-are-tough-and-resilient
-title: 'Don&#039;t miss Tap:Ex Forbidden: &quot;We are tough and resilient.&quot;'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-02-02T21:26:00-05:00"
+lastmod = "2018-02-03T11:11:00-05:00"
+preamble = "Following their opera mash-ups with physical theatre ([*Revolutions*, 2013](/in-review-tapex-revolutions/)), turntablism ([*Tables Turned*, 2014](/in-review-tapex-tables-turned-or-go-see-this-show/)), and punk rock ([*Metallurgy*, 2015](/he-saidshe-said-tapex-metallurgy/)), Tapestry Opera continues its *Tap:Ex* series with [*Forbidden*](https://tapestryopera.com/tapex-forbidden/), **February 8-10, 8pm**, **February 11, 4pm**. The \"21st Century Hip Hop Opera\" features music by Iranian-born composer Afarin Mansouri, and a libretto by Afro-Caribbean hip hop artist Donna-Michelle St. Bernard; singers Neema Bickersteth, [Alexander Hajek](/spotlight-on-alexander-hajek/), and Shirin Eskandani join Farsi spoken-word artist Saye Sky. Tapestry Artistic Director [Michael Mori](/scene/people/michael-mori/) directs, with music direction by [Michael Shannon](/michael-shannon-the-opera-pianist/).\n\nWe spoke with Mansouri and Eskandani about this one-of-a-kind event, and their unexpected connection in Iran."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517624490236/sq---TapEx.jpg.jpg"
+publishDate = "2018-02-02T22:04:00-05:00"
+related_articles = ["articles/he-saidshe-said-tapex-metallurgy.md","articles/in-review-tapex-tables-turned-or-go-see-this-show.md"]
+related_companies = ["scene/companies/tapestry-opera.md"]
+short_description = "&quot;As a female composer with a Persian background, I have the privilege to be able to see the performance of my opera. It brings tears to my eyes, knowing many Iranian music masters who have written great operas that are forbidden to be performed on stage. Having this privilege, it is my responsibility to create.&quot;"
+slug = "dont-miss-tapex-forbidden-we-are-tough-and-resilient"
+title = "Don&#039;t miss Tap:Ex Forbidden: &quot;We are tough and resilient.&quot;"
++++
 
 ## Can you tell us about the chance discovery of your connection in Iran?
 
@@ -33,9 +23,7 @@ Khatereh was the lifelong artistic partner of my piano instructor, Ophelia Parto
 
 **Afarin**: When I found out the connection with Shirin, it brought back so many memories from Iran.  I found a new meaning in composing Forbidden while remembering the efforts of these wonderful women. It gave me more strength.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517624726311/afarin-shirin.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517624726311/afarin-shirin.jpg.jpg)
 <figcaption>(l-r) Afarin Mansouri, composer, and Shirin Eskandani, mezzo-soprano.</figcaption>
 </figure>
  

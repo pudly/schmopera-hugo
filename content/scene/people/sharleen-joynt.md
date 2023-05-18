@@ -1,23 +1,23 @@
----
-date: "2015-04-13T17:55:00-04:00"
-discipline: Soprano
-lastmod: "2015-11-20T13:07:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448042845640/2014-11-20---Sharleen-Joynt.jpg.jpg
-publishDate: "2015-04-13T17:55:00-04:00"
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-slug: sharleen-joynt
-social_media:
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/sharleenjoynt
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/sharleenjoynt/
-title: Sharleen Joynt
-website: http://www.sharleenjoynt.com/
----
++++
+date = "2015-04-13T17:55:00-04:00"
+discipline = "Soprano"
+lastmod = "2015-11-20T13:07:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448042845640/2014-11-20---Sharleen-Joynt.jpg.jpg"
+publishDate = "2015-04-13T17:55:00-04:00"
+related_companies = ["scene/companies/against-the-grain-theatre.md"]
+slug = "sharleen-joynt"
+title = "Sharleen Joynt"
+website = "http://www.sharleenjoynt.com/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/sharleenjoynt"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/sharleenjoynt/"
+
++++
 Coloratura soprano Sharleen Joynt has been praised for her "silvery, sparkling, substantial and resonant soprano" \[_Die Deutsche Bühne_\], her "scintillating high range, reminiscent of the most beautiful moments of Mady Mesplé" \[_Opernwelt_\], and "an artistic command that leaves the listener breathless" \[_Deutschland Radio_\].
 
 Recently, Sharleen reprised the role of the Controller in Jonathan Dove’s **_Flight_** for Seattle Opera, which was filmed and released for streaming in April of 2021, critics exclaiming, “We know we’re in for an acting treat when we see Sharleen Joynt’s overpoweringly supercilious, impeccably turned out Controller, prowling her control tower and pulling the strings; we see her arched eyebrows and penetrating stare in close-up as she delivers stratospheric coloratura.” _(Bachtrack)_. She returns to Seattle Opera in 2022 as Amore in Gluck’s **_Orfeo_** and will make her Florida Grand Opera and Opera Colorado debuts as Gilda in **_Rigoletto_.**

@@ -1,26 +1,18 @@
----
-date: "2017-11-14T18:15:00-05:00"
-discipline: Composer
-lastmod: "2017-11-14T18:15:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510701236976/2017-11-14---Mark-Adamo-in-studio.jpg.jpg
-publishDate: "2017-11-14T18:15:00-05:00"
-related_companies:
-- scene/companies/the-dallas-opera.md
-- scene/companies/houston-grand-opera.md
-- scene/companies/washington-national-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/calgary-opera.md
-- scene/companies/the-banff-centre.md
-- scene/companies/lyric-opera-of-chicago.md
-slug: mark-adamo
-social_media:
-- _template: people_single
-  platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/operamarkadamo/
-title: Mark Adamo
-website: http://www.markadamo.com/
----
++++
+date = "2017-11-14T18:15:00-05:00"
+discipline = "Composer"
+lastmod = "2017-11-14T18:15:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510701236976/2017-11-14---Mark-Adamo-in-studio.jpg.jpg"
+publishDate = "2017-11-14T18:15:00-05:00"
+related_companies = ["scene/companies/the-dallas-opera.md","scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/calgary-opera.md","scene/companies/the-banff-centre.md","scene/companies/lyric-opera-of-chicago.md"]
+slug = "mark-adamo"
+title = "Mark Adamo"
+website = "http://www.markadamo.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/operamarkadamo/"
++++
 
 American composer-librettist Mark Adamo prepared for the world-première performances in June 2013 of his third full-length opera, *The Gospel of Mary Magdalene*, following a busy season of opera and chamber premières. In May 2012, Fort Worth Opera opened its first production of his second opera, *Lysistrata*; that September, the Constella Festival in Cincinnati opened their season with August Music, for flute duo and string quartet, commissioned by Sir James and Lady Jeanne Galway: in December, Sasha Cooke and the New York Festival of Song introduced *The Racer’s Widow*, a cycle of five American poems for mezzo-soprano, cello, and piano; and, in April 2013, baritone Thomas Hampson and the Jupiter String Quartet introduced Aristotle, after the poem by Billy Collins, in concerts at the Mondavi Center in Davis, California before continuing to Boston and New York under the auspices of the Chamber Music Society of Lincoln Center.
 

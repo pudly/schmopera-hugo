@@ -1,19 +1,14 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2015-06-05T15:05:00-04:00"
-lastmod: "2015-06-10T14:12:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433883195214/Suitcase_Fotor.jpg.jpg
-publishDate: "2015-06-10T09:16:00-04:00"
-short_description: Even if there&#039;s endless respect for each others&#039; careers,
-  working away from home means that you will have experiences without that person.
-  You can tell them about the incredible show you sang, or send photos of the beautiful
-  cities you visit, but it will never be the same as having them there with you. Not
-  only that, but you will have these experiences with other people.
-slug: relationships-and-the-road
-title: Relationships and the road
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2015-06-05T15:05:00-04:00"
+lastmod = "2015-06-10T14:12:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433883195214/Suitcase_Fotor.jpg.jpg"
+publishDate = "2015-06-10T09:16:00-04:00"
+short_description = "Even if there&#039;s endless respect for each others&#039; careers, working away from home means that you will have experiences without that person. You can tell them about the incredible show you sang, or send photos of the beautiful cities you visit, but it will never be the same as having them there with you. Not only that, but you will have these experiences with other people."
+slug = "relationships-and-the-road"
+title = "Relationships and the road"
++++
 
 For many reasons, singers are rock stars. They live large-than-life professional lives, and their craft becomes their whole world. Like rock stars, opera folk also travel a ton for their work; artists like to stay busy, and the busier they are, there's a good chance that they'll be away from home more. One of the huge sacrifices a singer, conductor, director, etc., makes for their career is a stable, "normal" personal life. Singers have relationships, families, friends, of course, but being away from them is an unavoidable part of it. 
 
@@ -27,9 +22,7 @@ Meeting new people is part of the job, too. The professional bonds made over reh
 
 Even if there's endless respect for each others' careers, working away from home means that you will have experiences without that person. You can tell them about the incredible show you sang, or send photos of the beautiful cities you visit, but it will never be the same as having them there with you. Not only that, but you will have these experiences *with other people*. By this I don't necessarily mean to say you're going to cheat on your partner. It's true, though, that being in a show can create fast friends out of strangers, and since everyone's a tourist, it's common to explore new things together. So, your partner didn't get to hear you sing so well, *plus* you visited the Uffizi or the Eiffel Tower or the French riviera without them.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433883658736/Icons.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433883658736/Icons.jpg.jpg)
 <figcaption>Yep.</figcaption>
 </figure>
 

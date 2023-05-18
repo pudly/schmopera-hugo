@@ -1,26 +1,23 @@
----
-date: "2018-02-25T19:15:00-05:00"
-discipline: Soprano
-lastmod: "2018-02-25T19:15:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519603721827/3848555_orig.jpg.jpg
-primary_image_credit: Rebecca Fay.
-publishDate: "2018-02-25T19:15:00-05:00"
-related_companies:
-- scene/companies/palm-beach-opera.md
-- scene/companies/opra-national-de-paris.md
-- scene/companies/on-site-opera.md
-slug: alisa-jordheim
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/alisajordheimsoprano/
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/jordheim_alisa
-title: Alisa Jordheim
-website: http://www.alisasuzannejordheim.com/
----
++++
+date = "2018-02-25T19:15:00-05:00"
+discipline = "Soprano"
+lastmod = "2018-02-25T19:15:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519603721827/3848555_orig.jpg.jpg"
+primary_image_credit = "Rebecca Fay."
+publishDate = "2018-02-25T19:15:00-05:00"
+related_companies = ["scene/companies/palm-beach-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/on-site-opera.md"]
+slug = "alisa-jordheim"
+title = "Alisa Jordheim"
+website = "http://www.alisasuzannejordheim.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/alisajordheimsoprano/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/jordheim_alisa"
++++
 
 Described as “vocally resplendent,” “powerful,” and possessing “impeccable coloratura” (San Francisco Chronicle), soprano Alisa Jordheim is praised for her compelling and vocally assured performances in opera, oratorio, musical theatre, both early and new music, and recital. Miss Jordheim’s recent portrayal of Soeur Constance in Poulenc’s *Dialogues des Carmélites* at the Caramoor International Music Festival was met with great acclaim: Sister Constance was “beautifully taken here by the sweet-voiced, endearing soprano Alisa Jordheim” (The New York Times) and “winningly performed by Alisa Jordheim in a soprano of surprising depth and color” (Musical America). Regarding Florentine Opera’s 2015 production of Elmer Gantry, the Milwaukee Journal Sentinel writes, “Alisa Suzanne Jordheim gave a spot-on performance as Lulu Baines. She created a
 sympathetic character and sang with a voice that was pure, lovely, light in color, and powerful."

@@ -1,38 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2018-08-12T21:58:00-04:00"
-lastmod: "2018-08-14T12:13:00-04:00"
-preamble: "Boston-based Odyssey Opera kicks off its 2018/19 season next month, with
-  the American premiere of Charles Gounod's [*La reine de Saba* (*The Queen of Sheba*)](https://www.odysseyopera.org/2018-gounod-la-reine-de-saba/).
-  It's the first of two lesser-known works by the French composer (a fitting homage
-  in his 200th year), followed in November by his [*Le médecin malgré lui*](https://www.odysseyopera.org/2018-gounod-le-medecin-malgre-lui/).
-  \n\nAlso taking some spotlight in Odyssey Opera's new season is Helen of Troy, the
-  \"face that launch'd a thousand ships\", and the subject of Gluck's [*Paride ed
-  Elena*](https://www.odysseyopera.org/2019-gluck-paride-ed-elena/), Strauss', [*Die
-  ägyptische Helena*](https://www.odysseyopera.org/2019-strauss-die-agyptische-helena/),
-  and Offenbach's [*La belle Hélène*](https://www.odysseyopera.org/2019-offenbach-la-belle-helene/),
-  all on the line-up in 2019.\n\nWe spoke with Gil Rose, the company's Artistic Director
-  and conductor, about the unexpected-yet-deserving subjects of Odyssey Opera's upcoming
-  season:"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1534125423343/sqOdysseyOpera.jpg.jpg
-primary_image_credit: 'The cast of Odyssey Opera''s La reine de Saba: Kevin Thompson
-  (left), Kara Shay Thomson, and Dominick Chenes.'
-publishDate: "2018-08-14T11:49:00-04:00"
-related_companies:
-- scene/companies/odyssey-opera.md
-related_people:
-- scene/people/kara-shay-thomson.md
-- scene/people/dominick-chenes.md
-short_description: '&quot;This year marks the bicentennial of the birth of French
-  composer Charles Gounod, and it felt like the perfect time to explore his lesser-known
-  works. We are thrilled to be opening our season with the U.S. premiere of Gounod&#039;s
-  La reine de Saba, composed in the years between Gounod&#039;s acclaimed grand operas
-  Faust and Roméo et Juliette.&quot;'
-slug: dont-miss-odyssey-operas-season-opener
-title: 'Don&#039;t miss: Odyssey Opera&#039;s season opener'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2018-08-12T21:58:00-04:00"
+lastmod = "2018-08-14T12:13:00-04:00"
+preamble = "Boston-based Odyssey Opera kicks off its 2018/19 season next month, with the American premiere of Charles Gounod's [*La reine de Saba* (*The Queen of Sheba*)](https://www.odysseyopera.org/2018-gounod-la-reine-de-saba/). It's the first of two lesser-known works by the French composer (a fitting homage in his 200th year), followed in November by his [*Le médecin malgré lui*](https://www.odysseyopera.org/2018-gounod-le-medecin-malgre-lui/). \n\nAlso taking some spotlight in Odyssey Opera's new season is Helen of Troy, the \"face that launch'd a thousand ships\", and the subject of Gluck's [*Paride ed Elena*](https://www.odysseyopera.org/2019-gluck-paride-ed-elena/), Strauss', [*Die ägyptische Helena*](https://www.odysseyopera.org/2019-strauss-die-agyptische-helena/), and Offenbach's [*La belle Hélène*](https://www.odysseyopera.org/2019-offenbach-la-belle-helene/), all on the line-up in 2019.\n\nWe spoke with Gil Rose, the company's Artistic Director and conductor, about the unexpected-yet-deserving subjects of Odyssey Opera's upcoming season:"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1534125423343/sqOdysseyOpera.jpg.jpg"
+primary_image_credit = "The cast of Odyssey Opera's La reine de Saba: Kevin Thompson (left), Kara Shay Thomson, and Dominick Chenes."
+publishDate = "2018-08-14T11:49:00-04:00"
+related_companies = ["scene/companies/odyssey-opera.md"]
+related_people = ["scene/people/kara-shay-thomson.md","scene/people/dominick-chenes.md"]
+short_description = "&quot;This year marks the bicentennial of the birth of French composer Charles Gounod, and it felt like the perfect time to explore his lesser-known works. We are thrilled to be opening our season with the U.S. premiere of Gounod&#039;s La reine de Saba, composed in the years between Gounod&#039;s acclaimed grand operas Faust and Roméo et Juliette.&quot;"
+slug = "dont-miss-odyssey-operas-season-opener"
+title = "Don&#039;t miss: Odyssey Opera&#039;s season opener"
++++
 
 ### How did you decide on Gounod and Helen of Troy as the two focal points for Odyssey Opera's upcoming season? 
 

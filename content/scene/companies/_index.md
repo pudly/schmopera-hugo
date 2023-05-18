@@ -1,6 +1,6 @@
 ---
-layout: companies
 title: Companies
-type: scene
 url: /scene/companies/
+type: scene
+layout: companies
 ---

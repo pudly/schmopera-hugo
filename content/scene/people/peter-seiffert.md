@@ -1,23 +1,13 @@
----
-_template: people_single
-date: "2016-04-27T11:07:00+01:00"
-discipline: Tenor
-lastmod: "2016-04-27T11:07:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461751566925/2016-04-27---Peter-Seiffert.jpg.jpg
-publishDate: "2016-04-27T11:07:00+01:00"
-related_companies:
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/wiener-staatsoper.md
-- scene/companies/opernhaus-zurich.md
-- scene/companies/the-metropolitan-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/los-angeles-opera.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/opra-national-de-paris.md
-slug: peter-seiffert
-title: Peter Seiffert
----
++++
+date = "2016-04-27T11:07:00+01:00"
+discipline = "Tenor"
+lastmod = "2016-04-27T11:07:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461751566925/2016-04-27---Peter-Seiffert.jpg.jpg"
+publishDate = "2016-04-27T11:07:00+01:00"
+related_companies = ["scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md"]
+slug = "peter-seiffert"
+title = "Peter Seiffert"
++++
 
 Peter Seiffert studied at the Musikhochschule of his hometown Düsseldorf. His first engagement was at the Deutsche Oper am Rhein; at the same time he was awarded the first prize at the singing competition of the Deutscher Musikrat. Opera and concert guest performances all over Europe, and television appearances followed. His engagement as Lohengrin at the Deutsche Oper Berlin marked the beginning of his international career. He is a regular guest at the Bavarian State Opera Munich where he sang all the important roles of his repertoire. There he was appointed Bayerischer Kammersänger in 1992.
  

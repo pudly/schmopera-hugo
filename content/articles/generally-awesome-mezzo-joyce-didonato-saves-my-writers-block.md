@@ -1,23 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2014-02-19T09:30:00-05:00"
-lastmod: "2015-04-27T21:51:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430185844851/JoyceGrammysSquare.jpg.jpg
-publishDate: "2014-02-19T09:30:00-05:00"
-related_articles:
-- articles/didonato-inspires-inmates-through-song.md
-related_people:
-- scene/people/joyce-didonato.md
-short_description: My hunt for blog-worthy tidbits had begun, and just as I felt the
-  beginnings of a good old writer&#039;s block, I found myself on Joyce DiDonato&#039;s
-  blog. That lady is just great. I&#039;m not sure if everyone will remember this,
-  but I spotted that letter to the editor that Joyce wrote for a publication by online
-  magazine Opera21.
-slug: generally-awesome-mezzo-joyce-didonato-saves-my-writers-block
-title: Generally Awesome Mezzo Joyce DiDonato Saves My Writer&#039;s Block
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2014-02-19T09:30:00-05:00"
+lastmod = "2015-04-27T21:51:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430185844851/JoyceGrammysSquare.jpg.jpg"
+publishDate = "2014-02-19T09:30:00-05:00"
+related_articles = ["articles/didonato-inspires-inmates-through-song.md"]
+related_people = ["scene/people/joyce-didonato.md"]
+short_description = "My hunt for blog-worthy tidbits had begun, and just as I felt the beginnings of a good old writer&#039;s block, I found myself on Joyce DiDonato&#039;s blog. That lady is just great. I&#039;m not sure if everyone will remember this, but I spotted that letter to the editor that Joyce wrote for a publication by online magazine Opera21."
+slug = "generally-awesome-mezzo-joyce-didonato-saves-my-writers-block"
+title = "Generally Awesome Mezzo Joyce DiDonato Saves My Writer&#039;s Block"
++++
 
 My hunt for blog-worthy tidbits had begun, and just as I felt the beginnings of a good old writer's block, I found myself on [Joyce DiDonato's blog](http://www.joycedidonato.com/blog-archive/). That lady is just great. I'm not sure if everyone will remember this, but I spotted that letter to the editor that Joyce wrote [for a publication by online magazine _Opera21_](http://opera21.tumblr.com/post/43085440555/february-2013-issue). The letter was addressed to young fans of opera, urging them to resist becoming cynics. It was posted on _Opera 21_ as well as [Joyce DiDonato's blog](http://www.joycedidonato.com/2013/02/15/a-letter-to-the-up-coming-opera-lovers/) about a year ago, and I'm sharing it here because it's a perfect articulation of [our goal](http://schmopera.com/about/) here at Schmopera. She makes the case for young critics to remain above snobbery, and to that I give a hearty thumbs-up. Here's the [full letter](http://www.joycedidonato.com/2013/02/15/a-letter-to-the-up-coming-opera-lovers/) by the fabulous Joyce DiDonato:
 

@@ -1,40 +1,29 @@
----
-author:
-- authors/john-hohmann.md
-categories: Review
-date: "2020-04-27T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1588074808/media/2020/04/sq16_Orlando_125412_LINDSEY_po9w8p.jpg
-primary_image_credit: 'Mezzo-soprano Kate Lindsey as Orlando as a man bathed in red
-  in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener
-  Staatsoper / Michael Pöhn.'
-related_articles:
-- articles/talking-with-singers-kate-lindsey.md
-- articles/pacific-opera-victorias-steampunkmeetsfantasy-rinaldo.md
-related_companies:
-- scene/companies/wiener-staatsoper.md
-related_people:
-- scene/people/kate-lindsey.md
-short_description: 'Instead, composer Olga Neuwirth chose Woolf’s Orlando, her often
-  funny faux-autobiography about a young nobleman in the court of Elizabeth I who
-  awakens one morning as a woman and proceeds to roam about time and space for the
-  next 300 years. '
-slug: orlando-gender-bending-and-the-sound-of-androgyny-in-vienna
-title: 'Orlando: gender bending and the sound of androgyny in Vienna'
-youtube_url: ""
----
++++
+author = ["authors/john-hohmann.md"]
+categories = "Review"
+date = 2020-04-27T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1588074808/media/2020/04/sq16_Orlando_125412_LINDSEY_po9w8p.jpg"
+primary_image_credit = "Mezzo-soprano Kate Lindsey as Orlando as a man bathed in red in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn."
+related_articles = ["articles/talking-with-singers-kate-lindsey.md", "articles/pacific-opera-victorias-steampunkmeetsfantasy-rinaldo.md"]
+related_companies = ["scene/companies/wiener-staatsoper.md"]
+related_people = ["scene/people/kate-lindsey.md"]
+short_description = "Instead, composer Olga Neuwirth chose Woolf’s Orlando, her often funny faux-autobiography about a young nobleman in the court of Elizabeth I who awakens one morning as a woman and proceeds to roam about time and space for the next 300 years. "
+slug = "orlando-gender-bending-and-the-sound-of-androgyny-in-vienna"
+title = "Orlando: gender bending and the sound of androgyny in Vienna"
+youtube_url = ""
+
++++
 Mrs. Dalloway would have been my bet for an opera based on a work by Bloomsbury modernist, Virginia Woof. That-stream-of-consciousness treatise tracking the inner thoughts of a London society matron as she shops for a dinner party fairly yearns for languid arias linked with moist recitative and perhaps even an introspective monologue.
 
 Instead, composer Olga Neuwirth chose Woolf’s _Orlando_, her often funny faux-autobiography about a young nobleman in the court of Elizabeth I who awakens one morning as a woman and proceeds to roam about time and space for the next 300 years. _Orlando_, along with _Flush_, Woolf’s subtle criticism of urban life disguised as a biography of a cocker spaniel belonging to Elizabeth Barrett Browning, serves as a gateway to the renowned writer’s more esoteric works.
 
 But Neuwirth wasn’t looking for a gateway to the esoteric. She sought a platform to launch an opera that is thoroughly unconventional in thought, sight, sound and certainly linear storytelling, one that would catapult the driving issue— the recognition of androgyny in both gender and sound. _Orlando_ landed on one of Europe’s most grand if conservative stages, the Vienna State Opera. It is the first work produced by a woman in the company’s 150 year history.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1588074946/media/2020/04/07_Orlando_125264_MELROSE_LINDSEY_kcnmox.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588074946/media/2020/04/07_Orlando_125264_MELROSE_LINDSEY_kcnmox.jpg){{% /md %}}
 
 <figcaption>Baritone Leigh Melrose as Orlando’s husband Shelmerdine and mezzo-soprano Kate Lindsey as Orlando after becoming a woman in the Vienna State Opera production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn.</figcaption>
 
@@ -44,9 +33,7 @@ Such was the storm that swept through the opera house this past December when _O
 
 The curtain has barely risen on _Orlando_ and suddenly the orchestra in the pit is sharing space and music making with electronic instruments and recorded samples. At times one legitimately wonders where the sounds are coming from and what or who is making them. Second violins are tuned a tad lower than the first and what sounds like a classic English boys’ choir on stage is met with shivering electronic sounds before it becomes immersed in the dissonance of a competing choir located in a space above the auditorium. _Orlando_ is filled with musical moments like these, some fleeting, others nearing thematic status which reinforce Neuwirth’s stance on androgyny and makes the orchestral writing so compelling.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1588074970/media/2020/04/19_Orlando_124976_KOEHLDORFER_NIGGLI_FOERST_b5nett.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588074970/media/2020/04/19_Orlando_124976_KOEHLDORFER_NIGGLI_FOERST_b5nett.jpg){{% /md %}}
 
 <figcaption>An on stage rock band in an environment of mass consumerism in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn.</figcaption>
 
@@ -56,9 +43,7 @@ In harnessing Neuwirth’s score, contemporary music leader Matthias Pintscher c
 
 Polly Graham who assumed direction only seven weeks before the opera’s opening, is sleekly in sync with Pintscher and with the cascade of video that Duke has designed. Graham, the artistic director of the Longborough Festival Opera and the socially and politically progressive Loud Crowd opera company possesses the directorial attitude for which Neuwirth and the Vienna State Opera were surely looking.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1588074990/media/2020/04/22_Orlando_124922_SZENE_jf4rdy.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588074990/media/2020/04/22_Orlando_124922_SZENE_jf4rdy.jpg){{% /md %}}
 
 <figcaption>The video design depicting the Great Frost by Will Duke for the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn.</figcaption>
 
@@ -68,9 +53,7 @@ But after everything _Orlando_ has too much plot. Woolf’s book ends on October
 
 What Woolf and Neuwirth make exceedingly clear is that Orlando’s sudden change from male to female brings about an abrupt lowering of her status. That should be enough to carry Neuwirth’s message on androgyny forward. Instead we get a litany that fails to reach us with the exception of the advent of World War II and the projection of the names of Holocaust victims. At this moment the score appropriates a recording of the slow movement of Bach’s double violin concerto played by Arnold Rose and his daughter Alma, who perished at Birkenau in 1944.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1588075018/media/2020/04/23_Orlando_125336_BOND_HAUMAN_ENSEMBLE_aumxxq.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588075018/media/2020/04/23_Orlando_125336_BOND_HAUMAN_ENSEMBLE_aumxxq.jpg){{% /md %}}
 
 <figcaption>Queer cabaret star Justin Vivian Bond and soprano Constance Hauman in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn.</figcaption>
 
@@ -86,9 +69,7 @@ But I wonder, if Orlando is truly androgynous and the opera’s androgynous spir
 
 When speeding along full-throttle, Orlando is populated by a remarkable group of characters. The queer cabaret artist Justin Vivian Bond, clad in a sheer black Comme des Garcons gown plays Orlando’s child, a character that does not appear in the book. While not an operatic performer in any sense, Mx. (gender neutral honorific preferred) Bond is a distinct presence who positions attitude like a laser. If this star of cabaret is uncomfortable on the operatic stage, it doesn’t show.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1588075036/media/2020/04/26_Orlando_125371_CLEMENTI_LINDSEY_vuqf0x.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1588075036/media/2020/04/26_Orlando_125371_CLEMENTI_LINDSEY_vuqf0x.jpg){{% /md %}}
 
 <figcaption>Mezzo-soprano Kate Lindsey as Orlando who, still a man, decides to become a poet and write "The Oak Tree" in the Vienna State Opera’s production of Olga Neuwirth’s Orlando. Photo: Wiener Staatsoper / Michael Pöhn.</figcaption>
 

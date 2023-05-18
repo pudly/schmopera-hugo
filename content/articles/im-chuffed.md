@@ -1,30 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Editorial
-date: "2014-01-16T12:12:00-05:00"
-lastmod: "2015-04-28T22:39:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430275041267/AtG1.jpg.jpg
-publishDate: "2014-01-16T12:12:00-05:00"
-related_articles:
-- articles/atg-in-banff-2015.md
-- articles/more-atg-in-banff-2015.md
-- articles/banff-and-new-buddies.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/the-banff-centre.md
-related_people:
-- scene/people/christopher-mokrzewski.md
-- scene/people/joel-ivany.md
-short_description: Did you hear? Against the Grain Theatre is partnering with the
-  Banff Centre for the Arts and the Canadian Opera Company to premiere a new opera
-  training program! Led by AtG&#039;s artistic director Joel Ivany and music director
-  Christopher Mokrzewski, eight singers will have the chance to workshop operatic
-  skills in an innovative way.
-slug: im-chuffed
-title: '&quot;I&#039;m chuffed!&quot;'
----
++++
+author = ["authors/jenna.md"]
+categories = "Editorial"
+date = "2014-01-16T12:12:00-05:00"
+lastmod = "2015-04-28T22:39:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430275041267/AtG1.jpg.jpg"
+publishDate = "2014-01-16T12:12:00-05:00"
+related_articles = ["articles/atg-in-banff-2015.md","articles/more-atg-in-banff-2015.md","articles/banff-and-new-buddies.md"]
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
+related_people = ["scene/people/christopher-mokrzewski.md","scene/people/joel-ivany.md"]
+short_description = "Did you hear? Against the Grain Theatre is partnering with the Banff Centre for the Arts and the Canadian Opera Company to premiere a new opera training program! Led by AtG&#039;s artistic director Joel Ivany and music director Christopher Mokrzewski, eight singers will have the chance to workshop operatic skills in an innovative way."
+slug = "im-chuffed"
+title = "&quot;I&#039;m chuffed!&quot;"
++++
 
 Did you hear? [Against the Grain Theatre](http://againstthegraintheatre.com/) is partnering with the Banff Centre for the Arts and the Canadian Opera Company to premiere a new opera training program! Led by AtG's artistic director Joel Ivany and music director Christopher Mokrzewski, eight singers will have the chance to workshop operatic skills in an innovative way. They'll collaborative on Mozart's _Don Giovanni_  (with an Against-the-Grain-twist, to be sure), and present it at various venues within the Banff community.
 

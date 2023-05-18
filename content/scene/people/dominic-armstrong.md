@@ -1,28 +1,22 @@
----
-date: "2017-11-18T15:53:00-05:00"
-discipline: Tenor
-lastmod: "2017-11-18T15:53:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511037924021/dominic_armstrong_078-med-21.jpg.jpg
-publishDate: "2017-11-18T15:53:00-05:00"
-related_companies:
-- scene/companies/los-angeles-opera.md
-- scene/companies/opera-philadelphia.md
-- scene/companies/lyric-opera-of-chicago.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/wolf-trap-opera.md
-- scene/companies/american-opera-projects.md
-slug: dominic-armstrong
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/DominicArmstrongTenor
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/tenorarmstrong
-title: Dominic Armstrong
-website: http://www.dominicarmstrong.com/
----
++++
+date = "2017-11-18T15:53:00-05:00"
+discipline = "Tenor"
+lastmod = "2017-11-18T15:53:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511037924021/dominic_armstrong_078-med-21.jpg.jpg"
+publishDate = "2017-11-18T15:53:00-05:00"
+related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/opera-philadelphia.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/wolf-trap-opera.md","scene/companies/american-opera-projects.md"]
+slug = "dominic-armstrong"
+title = "Dominic Armstrong"
+website = "http://www.dominicarmstrong.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/DominicArmstrongTenor"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/tenorarmstrong"
++++
 
 Dominic Armstrong has quickly established himself internationally as an artist of superb and distinguished musicality and characterization. He is a winner of the 2013 George London Foundation Vocal Competition.
 

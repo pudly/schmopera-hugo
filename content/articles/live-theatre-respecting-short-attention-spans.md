@@ -1,26 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-11-11T21:29:00-05:00"
-lastmod: "2015-11-12T14:10:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447355213658/2015-11-12%20-%20Attention%20Span.jpg.jpg
-publishDate: "2015-11-12T14:10:00-05:00"
-related_articles:
-- articles/shhdont-tell-them-its-opera.md
-related_companies:
-- scene/companies/tapestry-opera.md
-- scene/companies/indie-opera-to.md
-- scene/companies/the-bicycle-opera-project.md
-short_description: The other day, I was witness to the stunning brevity of a first-grader&#039;s
-  attention span. I spent a couple of days playing opera for kids, and I remembered
-  how easy it was to lose an audience of young listeners; any lulls in the action,
-  in the drama, any slow-ish music that goes on for just a bit too long, these are
-  opportunities for kids to get bored during the show, and instead spot something
-  fascinating on the opposite wall, or on the bottom of their shoes.
-slug: live-theatre-respecting-short-attention-spans
-title: Live theatre &amp; respecting short attention spans
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-11-11T21:29:00-05:00"
+lastmod = "2015-11-12T14:10:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447355213658/2015-11-12%20-%20Attention%20Span.jpg.jpg"
+publishDate = "2015-11-12T14:10:00-05:00"
+related_articles = ["articles/shhdont-tell-them-its-opera.md"]
+related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md","scene/companies/the-bicycle-opera-project.md"]
+short_description = "The other day, I was witness to the stunning brevity of a first-grader&#039;s attention span. I spent a couple of days playing opera for kids, and I remembered how easy it was to lose an audience of young listeners; any lulls in the action, in the drama, any slow-ish music that goes on for just a bit too long, these are opportunities for kids to get bored during the show, and instead spot something fascinating on the opposite wall, or on the bottom of their shoes."
+slug = "live-theatre-respecting-short-attention-spans"
+title = "Live theatre &amp; respecting short attention spans"
++++
 
 The other day, I was witness to the stunning brevity of a first-grader's attention span.
 

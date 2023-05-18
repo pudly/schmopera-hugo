@@ -1,26 +1,18 @@
----
-author:
-- authors/michelle-telford.md
-categories: Editorial
-date: "2015-04-10T21:20:00-04:00"
-lastmod: "2015-04-12T18:57:00-04:00"
-preamble: |
-  This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. "Seeing is for suckers, and sleep is for the weak." - Michelle.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715008105/4-Thats-Better.jpg.jpg
-primary_image_credit: Michelle Telford
-publishDate: "2015-03-25T09:20:00-04:00"
-related_articles:
-- articles/tales-from-stage-management.md
-- articles/problems-we-didnt-know-we-had-surtitles.md
-- articles/vera-causa-opera-opera-for-all.md
-related_companies:
-- scene/companies/saskatoon-opera.md
-short_description: This is a guest post by Michelle Telford, custom surtitlist with
-  Saskatoon Opera. &quot;Seeing is for suckers, and sleep is for the weak.&quot; -
-  Michelle.
-slug: michelle-telford
-title: Michelle Telford, Creating Custom Surtitles for Opera Today
----
++++
+author = ["authors/michelle-telford.md"]
+categories = "Editorial"
+date = "2015-04-10T21:20:00-04:00"
+lastmod = "2015-04-12T18:57:00-04:00"
+preamble = "This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. \"Seeing is for suckers, and sleep is for the weak.\" - Michelle.\n"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715008105/4-Thats-Better.jpg.jpg"
+primary_image_credit = "Michelle Telford"
+publishDate = "2015-03-25T09:20:00-04:00"
+related_articles = ["articles/tales-from-stage-management.md","articles/problems-we-didnt-know-we-had-surtitles.md","articles/vera-causa-opera-opera-for-all.md"]
+related_companies = ["scene/companies/saskatoon-opera.md"]
+short_description = "This is a guest post by Michelle Telford, custom surtitlist with Saskatoon Opera. &quot;Seeing is for suckers, and sleep is for the weak.&quot; - Michelle."
+slug = "michelle-telford"
+title = "Michelle Telford, Creating Custom Surtitles for Opera Today"
++++
 
 In the English-speaking world of non-English language opera, a surtitlist's work is vital - some wouldn't agree, but every day a surtitlist has to wake up and ignore the haters. Surtitles have had their share of critique from the snob-pera folks (not that I'm against any form of opera, from the purest of the purists to Fat Mike's new "Home Street Home") but for many companies, they're essential to the success of a production by providing a more universal accessibility. 
 
@@ -30,9 +22,7 @@ A surtitlist is their own beast; we are not production, tech, crew, pit or cast,
 
 A day in my life as a surtitlist begins normally: I wake up and complain heartily about waking up, like most sane people. Then I go to work, and come home to write surtitles and work on cueing my score. It's painstaking and a bit tedious, especially when rehearsals begin and the director's notes are full of redirections and cuts, but it has to be done and it has to be done very accurately. 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715187766/MichelleCollage-1024x531.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715187766/MichelleCollage-1024x531.jpg.jpg)
 <figcaption>This is what detail-obsessive face looks like in gel lighting.</figcaption>
 </figure>
 
@@ -46,9 +36,7 @@ Custom surtitle work has to subtly reflect what's happening onstage. Marilyn Gro
 
 I write all of my titles fresh for every production - I don't believe in getting anything out of the can, because it feels like cheating, and my company deserves better. Every company deserves better! I've seen some good titles and terrible titles, but I'm going to go out on a limb and say that anything they can do, I can do better. I want every slide to look as good as the carefully-crafted sets and costumes. I want them to match the actors' portrayals and support their individual characters. I want to keep opera moving forward and help it stay relevant - it's an art that won't quit 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715149564/2-Emoji-Carmen.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428715149564/2-Emoji-Carmen.jpg.jpg)
 <figcaption>I'm terrified that emoji will eventually put me out of a job.</figcaption>
 </figure>
 

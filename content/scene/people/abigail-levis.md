@@ -1,29 +1,27 @@
----
-date: "2016-12-21T03:00:00+00:00"
-discipline: Mezzo-soprano
-lastmod: "2017-03-15T10:53:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489575191844/2017-03-15---Abigail-Levis.jpg.jpg
-primary_image_credit: Courtesy of Dean Artists Management
-publishDate: "2016-12-21T03:00:00+00:00"
-related_companies:
-- scene/companies/toronto-symphony-orchestra.md
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/wolf-trap-opera.md
-slug: abigail-levis
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/abigaillevismezzo/
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/abigaillevis
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/tessitourist/
-title: Abigail Levis
-website: http://www.abigaillevis.com/
----
++++
+date = "2016-12-21T03:00:00+00:00"
+discipline = "Mezzo-soprano"
+lastmod = "2017-03-15T10:53:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489575191844/2017-03-15---Abigail-Levis.jpg.jpg"
+primary_image_credit = "Courtesy of Dean Artists Management"
+publishDate = "2016-12-21T03:00:00+00:00"
+related_companies = ["scene/companies/toronto-symphony-orchestra.md","scene/companies/deutsche-oper-berlin.md","scene/companies/wolf-trap-opera.md"]
+slug = "abigail-levis"
+title = "Abigail Levis"
+website = "http://www.abigaillevis.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/abigaillevismezzo/"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/abigaillevis"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/tessitourist/"
++++
 
 As one of only two winners of the Opera Foundation’s Curt Engelhorn Competition, lyric mezzo-soprano Abigail Levis joins the Deutsche Oper Berlin for the 2016/17 season, in such roles as Mercedes in *Carmen*, the title role in *Hirsch* and Purcell’s *Dido*, Bersi in *Chenier* and Tebaldo in *Don Carlo*. She returned to North America in December to sing *Messiah* with the Toronto Symphony Orchestra and Portland Baroque. As an alumna of the Utah Opera young artists program, where she debuted the role of Despina in *Cosi fan tutte*, Ms. Levis returned twice as a guest artist during the 2015/16 season in the title role of *L’Enfant et les Sortilèges* and Cherubino in *Le nozze di Figaro*. She returns to Utah Opera in the 2018 season for Orlofsky in *Die Fledermaus*. Other season highlights include debuts with Opera Philadelphia as Testo in *Il combattimento di Tancredi e Clorinda* and Flora in *La Traviata* with Dallas Opera.
 

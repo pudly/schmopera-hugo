@@ -1,26 +1,22 @@
----
-date: "2015-04-12T11:10:00-04:00"
-discipline: Tenor
-lastmod: "2015-04-12T11:12:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851329488/20131105_michael-schade-3-credit-harald-hoffmann-hires.jpg.jpg
-primary_image_credit: Harald Hoffmann
-publishDate: "2015-04-12T11:10:00-04:00"
-related_companies:
-- scene/companies/canadian-opera-company.md
-- scene/companies/bayerische-staatsoper.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/the-metropolitan-opera.md
-slug: michael-schade
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/tenormichaelschade?fref=ts
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/tenorschade
-title: Michael Schade
----
++++
+date = "2015-04-12T11:10:00-04:00"
+discipline = "Tenor"
+lastmod = "2015-04-12T11:12:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851329488/20131105_michael-schade-3-credit-harald-hoffmann-hires.jpg.jpg"
+primary_image_credit = "Harald Hoffmann"
+publishDate = "2015-04-12T11:10:00-04:00"
+related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md","scene/companies/teatro-alla-scala.md","scene/companies/the-metropolitan-opera.md"]
+slug = "michael-schade"
+title = "Michael Schade"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/tenormichaelschade?fref=ts"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/tenorschade"
++++
 
 <p>
 	Hailed as one of the world's leading tenors of our time, the German-Canadians have a close cooperation with the Vienna State Opera, where he in a new production of <em>Idomeneo</em> (Leading Team: Christoph Eschenbach, Kasper Holten) in the fall of 2014 to take over the title character. Previously, he was at the Burgtheater in all of Mozart and Strauss roles in his field experience, including as Tito in a new production and <em>Capriccio</em> with Renée Fleming, also last as a prince in a new production of RUSALKA. He is also a regular guest at the Metropolitan Opera, the Hamburg State Opera, Canadian Opera Company, and was heard among others at the Bavarian State Opera, La Scala in Milan, at the Liceu Barcelona, at the Royal Opera House Covent Garden and the Paris Opéra Bastille. In Hamburg, the artist his role debut in November 2013 as the Peter Grimes. His last role debuts as Eisenstein / THE BAT in Toronto and as Florestan / <em>Fidelio</em> under Nikolaus Harnoncourt at the Theater an der Wien were acclaimed by public and press. Other highlights of the recent past were Painters &amp; Negroes in Berg's Lulu under Fabio Luisi at the Met, Aschenbach / DEATH IN VENICE in Hamburg, and the title role in Mozart's Idomeneo in Amsterdam. When Don Ottavio / DON GIOVANNI he will return next season in a new production at the Canadian Opera Company in Toronto. At the Salzburg Festival, the artist is a regular guest for many years, inter alia, in new productions such as Mozart's La Clemenza di Tito, Purcell's King Arthur, Mozart's Magic Flute, Haydn's Armida, Cherubini's Medea and of Winters THE LABYRINTH as well as on the concert and recital stage, most recently 2013, Haydn's Creation and SEASONS under Harnoncourt and Schubert BEAUTIFUL MÜLLERIN with Rudolf Buchbinder at the piano. 2008 to 2010 he was in charge here as creative director he initiated the Young Singers Project. 2014 he will be experienced in a new production of Schubert Fierrabras in the title role with the Vienna Philharmonic under Ingo Metzmacher and directed by Peter Stein.

@@ -1,29 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-05-15T19:42:00-04:00"
-lastmod: "2017-05-23T07:21:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495062736369/2017-05-15---Craig-Colclough.jpg.jpg
-primary_image_credit: 'Photo: Chris Gloag.'
-publishDate: "2017-05-22T21:45:00-04:00"
-related_articles:
-- articles/don-pasquale-a-colorful-season-starter-at-minnesota-opera.md
-- articles/a-great-loss-hvorostovsky-passes-at-55.md
-- articles/in-review-falstaff-man-of-faults.md
-related_companies:
-- scene/companies/canadian-opera-company.md
-related_people:
-- scene/people/craig-colclough.md
-short_description: Immaturity may not seem like it goes hand-in-hand with an artist
-  who is serious about his work, but Colclough makes a great point. &quot;If you get
-  too serious or too full of yourself or too jaded,&quot; he says, &quot;you start
-  cutting off emotional parts of yourself that you need to use onstage.&quot; It&#039;s
-  part of what&#039;s scary about singing or acting, to be an open, vulnerable person,
-  in life as well as at work.
-slug: talking-with-singers-craig-colclough
-title: 'Talking with singers: Craig Colclough'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-05-15T19:42:00-04:00"
+lastmod = "2017-05-23T07:21:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495062736369/2017-05-15---Craig-Colclough.jpg.jpg"
+primary_image_credit = "Photo: Chris Gloag."
+publishDate = "2017-05-22T21:45:00-04:00"
+related_articles = ["articles/don-pasquale-a-colorful-season-starter-at-minnesota-opera.md","articles/a-great-loss-hvorostovsky-passes-at-55.md","articles/in-review-falstaff-man-of-faults.md"]
+related_companies = ["scene/companies/canadian-opera-company.md"]
+related_people = ["scene/people/craig-colclough.md"]
+short_description = "Immaturity may not seem like it goes hand-in-hand with an artist who is serious about his work, but Colclough makes a great point. &quot;If you get too serious or too full of yourself or too jaded,&quot; he says, &quot;you start cutting off emotional parts of yourself that you need to use onstage.&quot; It&#039;s part of what&#039;s scary about singing or acting, to be an open, vulnerable person, in life as well as at work."
+slug = "talking-with-singers-craig-colclough"
+title = "Talking with singers: Craig Colclough"
++++
 
 "It's like a mountain," says American bass-baritone [Craig Colclough](/scene/people/craig-colclough/) of his pursuit of singing. "Why the hell do people climb mountains?"
 
@@ -37,9 +26,7 @@ One point of career comparison is in Colclough's younger brother, who also happe
 
 "My wife and I have a deal, that if at any point, it gets too painful, we're out," says Colclough. He's careful not to make big decisions based on short-lived frustrations; "right now, we just keep walking forward."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495396499264/2017-05-21---Tosca-MC-1550.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495396499264/2017-05-21---Tosca-MC-1550.jpg.jpg)
 <figcaption>Keri Alkema as Tosca and Craig Colclough as Scarpia in the Canadian Opera Company's production of *Tosca*, 2017, photo: Michael Cooper.</figcaption>
 </figure>
 
@@ -53,9 +40,7 @@ Falstaff, on the other hand, is a vessel for the ever-curious singer to practice
 
 "It's very important for me not to let the career callous the immaturity and youthfulness that is very essential to being an actor."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494891895811/2017-05-15---Colclough-2.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494891895811/2017-05-15---Colclough-2.jpg.jpg)
 <figcaption>Craig Colclough, bass-baritone. Photo: Chris Gloag.</figcaption>
 </figure>
 
@@ -65,9 +50,7 @@ Vulnerability an element to the craft that not all artists master; Colclough has
 
 "The thing I appreciate about [Paul [Curran]](/talking-with-directors-paul-curran/)," he says of his *Tosca* director at the COC, "is he could tell you something was shit, without making it personal." For Colclough, a good director is one who can "foster an environment where there's positivity and safety, emotionally." Yet there's a responsibility on the singer's side, to listen to feedback without assuming an underlying personal attack. "If you can't take criticism, this is not the job for you."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495396533702/2017-05-21---ENO-Tristan-and-Isolde-Stuart-Skelton-and-Craig-Colclough-Catherine-Ashmore.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495396533702/2017-05-21---ENO-Tristan-and-Isolde-Stuart-Skelton-and-Craig-Colclough-Catherine-Ashmore.jpg.jpg)
 <figcaption>Stuart Skelton (right) as Tristan and Craig Colclough as Kurwenal in ENO's production of *Tristan and Isolde*. Photo: Catherine Ashmore.</figcaption>
 </figure>
 
@@ -77,9 +60,7 @@ Content as he is in his work that is "so inconsistent and so sloppy, in a way," 
 
 "Instead of saying something grandiose, like 'if you can do anything else with your life, do that,'" he prefers more specificity about what a singer will find hard to come by. "Did you grow up in a household? Did you go to school in the same place every day? Do you like having a friend that you hang out with once a month? Do you like having a spouse?" 
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495396543168/2017-05-21---Colclough-Figaro-Atlanta.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495396543168/2017-05-21---Colclough-Figaro-Atlanta.jpg.jpg)
 <figcaption>Lauren Snouffer as Susanna and Craig Colclough as Figaro in *Le nozze di Figaro*, The Atlanta Opera. Photo: Jeff Roffman.</figcaption>
 </figure>
 

@@ -1,35 +1,27 @@
----
-author:
-- authors/andrew-schneider.md
-categories: Review
-date: "2020-03-25T04:00:00Z"
-disclaimer: ""
-image_gallery: []
-postamble: ""
-preamble: ""
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1584931378/media/2020/03/sqABOCRinaldoimage0_ixibv7.jpg
-primary_image_credit: 'Rinaldo, American Baroque Opera Co., 2020. Photo: Karen Almond.'
-related_articles:
-- articles/la-traviata-shows-houston-how-to-arise.md
-- articles/montezuma.md
-related_companies:
-- scene/companies/american-baroque-opera-co.md
-related_people: []
-short_description: I felt like I was actually in a garden surrounded by drooping blossoms,
-  or actually at the opening of a cavernous hole. Throughout I got the sense that
-  this was a production that put a great deal of effort into engaging the senses all
-  at once and imparting an aura of wonderment.
-slug: a-case-for-relatable-handel-abocs-rinaldo
-title: 'A case for relatable Handel: ABOC''s Rinaldo'
-youtube_url: ""
----
++++
+author = ["authors/andrew-schneider.md"]
+categories = "Review"
+date = 2020-03-25T04:00:00Z
+disclaimer = ""
+image_gallery = []
+postamble = ""
+preamble = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1584931378/media/2020/03/sqABOCRinaldoimage0_ixibv7.jpg"
+primary_image_credit = "Rinaldo, American Baroque Opera Co., 2020. Photo: Karen Almond."
+related_articles = ["articles/la-traviata-shows-houston-how-to-arise.md", "articles/montezuma.md"]
+related_companies = ["scene/companies/american-baroque-opera-co.md"]
+related_people = []
+short_description = "I felt like I was actually in a garden surrounded by drooping blossoms, or actually at the opening of a cavernous hole. Throughout I got the sense that this was a production that put a great deal of effort into engaging the senses all at once and imparting an aura of wonderment."
+slug = "a-case-for-relatable-handel-abocs-rinaldo"
+title = "A case for relatable Handel: ABOC's Rinaldo"
+youtube_url = ""
+
++++
 In their short yet consequential rise in the world of early music ensembles, American Baroque Opera Company have made their name on a relatable presentation of Baroque operas, and their staging of Handel’s _Rinaldo_ in Irving was no exception. However, this was the first time that I have seen them perform in a theatre with a particularly large stage, so it was interesting to see how the company would live up to the challenges posed. The production would have to make the case for the authentic Baroque spirit in highly modern theatrical surroundings, and it did so with gusto.
 
 This production, directed by Rebecca Choate Beasley, who takes a great interest in Baroque gestures, made the most of the task. The most profound difficulty would be in figuring out just how to fill the expanse, as there was not an excess of props. Fortunately, Handel’s keen instinct for filling in musical gaps in arias was sufficient to guide the singers’ imaginations to make well-placed and –timed dramatic choices. The scenery was often suggested by extremely vivid projections, made especially lifelike and engaging by just the right amount of contrast in the editing of photos. I felt like I was actually in a garden surrounded by drooping blossoms, or actually at the opening of a cavernous hole. Throughout I got the sense that this was a production that put a great deal of effort into engaging the senses all at once and imparting an aura of wonderment.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1584931538/media/2020/03/ABOCRinaldoimage1_fdzvuf.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1584931538/media/2020/03/ABOCRinaldoimage1_fdzvuf.jpg){{% /md %}}
 
 <figcaption>Rinaldo, American Baroque Opera Co., 2020. Photo: Karen Almond.</figcaption>  
 </figure>
@@ -44,9 +36,7 @@ As Almirena, Jendi Tarde was impressive as she is routinely with lyric soprano r
 
 Goffredo (Janna Critz) and Eustazio (Kayla Nanto) were shown to be politicians who have perfected the art of diplomacy. Their interactions struck me as very “good cop/bad cop.”  Goffredo always had a very stern expression, partly the product of an ingenious use of makeup which kept the Crusader leader’s face extremely fixed; this served well for expressions of pride in having such a brave son-in-law as Rinaldo, but also for inscrutable expressions of shrewdness. This made me very interested to see what Critz would to give her arias expressively to combat this uncompromising front, and she did not disappoint. Her treatment of the arias was very ornate and ably showcased her high mezzo tessitura. Eustazio would invariably be around to soften his brother’s rather moralistic tone, and Nanto’s intimate lower register was very welcome indeed for this purpose to accompany her requisite nods.
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1584931559/media/2020/03/ABOCRinaldoimage2_sjzlpw.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1584931559/media/2020/03/ABOCRinaldoimage2_sjzlpw.jpg){{% /md %}}
 
 <figcaption>Rinaldo, American Baroque Opera Co., 2020. Photo: Karen Almond.</figcaption>  
 </figure>

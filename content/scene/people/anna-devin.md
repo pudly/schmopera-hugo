@@ -1,32 +1,27 @@
----
-date: "2016-04-04T19:59:00+01:00"
-discipline: Soprano
-lastmod: "2016-04-04T19:59:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459796094694/2016-04-04---Anna-Devin-Headshot.jpg.jpg
-primary_image_credit: Photo via imgartists.com.
-publishDate: "2016-04-04T19:59:00+01:00"
-related_companies:
-- scene/companies/royal-opera-house.md
-- scene/companies/welsh-national-opera.md
-- scene/companies/salzburg-festival.md
-- scene/companies/glyndebourne.md
-- scene/companies/teatro-alla-scala.md
-- scene/companies/scottish-opera.md
-slug: anna-devin
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/pages/Anna-Devin-Soprano/1461712490741299
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/annadevin
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/anna.devin/
-title: Anna Devin
-website: http://www.annadevin.com/
----
++++
+date = "2016-04-04T19:59:00+01:00"
+discipline = "Soprano"
+lastmod = "2016-04-04T19:59:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459796094694/2016-04-04---Anna-Devin-Headshot.jpg.jpg"
+primary_image_credit = "Photo via imgartists.com."
+publishDate = "2016-04-04T19:59:00+01:00"
+related_companies = ["scene/companies/royal-opera-house.md","scene/companies/welsh-national-opera.md","scene/companies/salzburg-festival.md","scene/companies/glyndebourne.md","scene/companies/teatro-alla-scala.md","scene/companies/scottish-opera.md"]
+slug = "anna-devin"
+title = "Anna Devin"
+website = "http://www.annadevin.com/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/pages/Anna-Devin-Soprano/1461712490741299"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/annadevin"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/anna.devin/"
++++
 
 Widely acknowledged as one of today’s brightest young sopranos for her vocal versatility and strong stage presence, Anna Devin has established an international career since graduating from the Royal Opera House’s Jette Parker Young Artist programme in 2012. The 2014/15 season culminated in Anna receiving a prestigious Helpman Award for ‘Best Supporting female in an opera” for her portrayal of Clotilde in Handel’s *Faramondo* at Brisbane Baroque
 

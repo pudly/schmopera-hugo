@@ -1,30 +1,16 @@
----
-author:
-- authors/jenna.md
-categories: News
-date: "2016-06-26T15:49:00-06:00"
-lastmod: "2016-06-27T15:17:00-06:00"
-preamble: In the wake of disbelief following the United Kingdom's vote to leave the
-  European Union, we are saddened and stunned for the British and Northern Irish people.
-  Among the industries that will surely feel the effects of an independent UK are
-  the arts. We'd like to share a statement by Ian Smith, Head of Music at [Creative
-  Scotland](http://www.creativescotland.com/who-we-are/our-people/specialism-leads/ian-smith),
-  and Chair & President of the [European Music Council](http://www.emc-imc.org/).
-  Many thanks to Ann Summer Dossena of the [International Resource Centre for Performing
-  Arts](http://ircpa.net/) for sharing Mr. Smith's statement with us.
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466979692954/2016-06-26---EU.jpg.jpg
-publishDate: "2016-06-26T23:55:00-06:00"
-related_articles:
-- articles/being-a-nice-person-why-art-really-really-matters.md
-- articles/things-more-important-than-opera.md
-short_description: 'In the wake of disbelief following the United Kingdom&#039;s vote
-  to leave the European Union, we are saddened and stunned for the British and Northern
-  Irish people. Among the industries that will surely feel the effects of an independent
-  UK are the arts. We&#039;d like to share a statement by Ian Smith, Head of Music
-  at Creative Scotland, and Chair &amp; President of the European Music Council. '
-slug: ian-smith-of-the-emc-we-unite-through-the-common-language-of-music
-title: 'Ian Smith of the EMC: &quot;We unite through the common language of music&quot;'
----
++++
+author = ["authors/jenna.md"]
+categories = "News"
+date = "2016-06-26T15:49:00-06:00"
+lastmod = "2016-06-27T15:17:00-06:00"
+preamble = "In the wake of disbelief following the United Kingdom's vote to leave the European Union, we are saddened and stunned for the British and Northern Irish people. Among the industries that will surely feel the effects of an independent UK are the arts. We'd like to share a statement by Ian Smith, Head of Music at [Creative Scotland](http://www.creativescotland.com/who-we-are/our-people/specialism-leads/ian-smith), and Chair & President of the [European Music Council](http://www.emc-imc.org/). Many thanks to Ann Summer Dossena of the [International Resource Centre for Performing Arts](http://ircpa.net/) for sharing Mr. Smith's statement with us."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466979692954/2016-06-26---EU.jpg.jpg"
+publishDate = "2016-06-26T23:55:00-06:00"
+related_articles = ["articles/being-a-nice-person-why-art-really-really-matters.md","articles/things-more-important-than-opera.md"]
+short_description = "In the wake of disbelief following the United Kingdom&#039;s vote to leave the European Union, we are saddened and stunned for the British and Northern Irish people. Among the industries that will surely feel the effects of an independent UK are the arts. We&#039;d like to share a statement by Ian Smith, Head of Music at Creative Scotland, and Chair &amp; President of the European Music Council. "
+slug = "ian-smith-of-the-emc-we-unite-through-the-common-language-of-music"
+title = "Ian Smith of the EMC: &quot;We unite through the common language of music&quot;"
++++
 
 "Dear members and friends of the European Music Council,
 

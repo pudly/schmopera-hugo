@@ -1,21 +1,14 @@
----
-_template: people_single
-discipline: Baritone
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557326408/media/2019/05/JooWonKang.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/minnesota-opera.md
-- scene/companies/opera-theatre-of-st-louis.md
-- scene/companies/arizona-opera.md
-- scene/companies/wolf-trap-opera.md
-- scene/companies/san-francisco-opera.md
-- scene/companies/seattle-opera.md
-- scene/companies/merola-opera-program.md
-slug: joo-won-kang
-social_media: []
-title: Joo Won Kang
-website: ""
----
++++
+discipline = "Baritone"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557326408/media/2019/05/JooWonKang.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/arizona-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/seattle-opera.md", "scene/companies/merola-opera-program.md"]
+slug = "joo-won-kang"
+social_media = []
+title = "Joo Won Kang"
+website = ""
+
++++
 South Korean baritone Joo Won Kang continues to establish himself as one of the most talented baritones today, popular both with audience and critics.
 
 As the 2017-2018 season commences, Mr. Kang returns to San Francisco Opera, as Ping in the company’s opening-night production of _Turandot_. A member of the 2011 Merola Opera Program, he was later an Adler Fellow and appeared onstage at SFO in various roles, including Captain Gardiner in Jake Heggie’s _Moby Dick_, which was televised nationally on PBS and released on DVD. Later this season will mark Mr. Kang’s company debuts with Arizona Opera (Figaro in _Il Barbiere di Siviglia_) and Opera Theatre of St. Louis (Germont in _La Traviata_).

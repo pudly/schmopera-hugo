@@ -1,37 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Op-ed
-date: "2015-07-08T06:31:00+01:00"
-lastmod: "2016-08-10T08:36:00+01:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470814473002/2016-08-10---Cosi.jpg.jpg
-publishDate: "2015-07-09T17:21:00+01:00"
-related_articles:
-- articles/atg-in-banff-2015.md
-- articles/meet-the-contestants-of-a-little-too-cozy.md
-- articles/familiar-exotic-a-brief-history-of-bellinis-norma.md
-- articles/summer-of-love-bampton-opera-presents-the-school-of-jealousy.md
-- articles/chauvinism-cynicism-great-singing-cos-fan-tutte.md
-- articles/stay-warm-with-opera-mariposas-tropical-cos-fan-tutte.md
-related_companies:
-- scene/companies/against-the-grain-theatre.md
-- scene/companies/the-banff-centre.md
-related_people:
-- scene/people/caitlin-wood.md
-- scene/people/shantelle-przybylo.md
-- scene/people/pascale-spinney.md
-- scene/people/brent-calis.md
-- scene/people/aaron-sheppard.md
-- scene/people/cairan-ryan.md
-- scene/people/joel-ivany.md
-- scene/people/christopher-mokrzewski.md
-short_description: The other day I was fortunate to hear Graham Forst speak about
-  Così fan tutte. If Graham&#039;s last name sounds familiar, it&#039;s because his
-  wife is the formidable mezzo-soprano Judith Forst; they&#039;re both gracing The
-  Banff Centre with their presences, she to teach, and he to get our minds a-spinning.
-slug: cosi-fan-tutte-misogynist-unreasonable
-title: 'Così fan tutte: misogynist, or just unreasonable?'
----
++++
+author = ["authors/jenna.md"]
+categories = "Op-ed"
+date = "2015-07-08T06:31:00+01:00"
+lastmod = "2016-08-10T08:36:00+01:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1470814473002/2016-08-10---Cosi.jpg.jpg"
+publishDate = "2015-07-09T17:21:00+01:00"
+related_articles = ["articles/atg-in-banff-2015.md","articles/meet-the-contestants-of-a-little-too-cozy.md","articles/familiar-exotic-a-brief-history-of-bellinis-norma.md","articles/summer-of-love-bampton-opera-presents-the-school-of-jealousy.md","articles/chauvinism-cynicism-great-singing-cos-fan-tutte.md","articles/stay-warm-with-opera-mariposas-tropical-cos-fan-tutte.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-banff-centre.md"]
+related_people = ["scene/people/caitlin-wood.md","scene/people/shantelle-przybylo.md","scene/people/pascale-spinney.md","scene/people/brent-calis.md","scene/people/aaron-sheppard.md","scene/people/cairan-ryan.md","scene/people/joel-ivany.md","scene/people/christopher-mokrzewski.md"]
+short_description = "The other day I was fortunate to hear Graham Forst speak about Così fan tutte. If Graham&#039;s last name sounds familiar, it&#039;s because his wife is the formidable mezzo-soprano Judith Forst; they&#039;re both gracing The Banff Centre with their presences, she to teach, and he to get our minds a-spinning."
+slug = "cosi-fan-tutte-misogynist-unreasonable"
+title = "Così fan tutte: misogynist, or just unreasonable?"
++++
 
 The other day I was fortunate to hear [Graham Forst](https://www.sfu.ca/continuing-studies/instructors/e-h/graham-forst.html) speak about *Così fan tutte*. If Graham's last name sounds familiar, it's because his wife is the formidable mezzo-soprano [Judith Forst](http://music.cbc.ca/#!/artists/Judith-Forst); they're both gracing The Banff Centre with their presences, she to teach, and he to get our minds a-spinning.
 

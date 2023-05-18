@@ -1,27 +1,16 @@
----
-author:
-- authors/jessica-lane.md
-categories: Op-ed
-date: "2015-06-16T10:12:00-04:00"
-lastmod: "2015-06-16T10:42:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434464790018/spiral-staircase.jpg.jpg
-publishDate: "2015-06-16T10:39:00-04:00"
-related_articles:
-- articles/in-defence-of-singers.md
-- articles/why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company.md
-- articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md
-related_people:
-- scene/people/jessica-lane.md
-short_description: When you want something like this so badly, you will do pretty
-  near anything to keep going. It makes you feel crazy, sure! But is it crazier to
-  deny yourself what you love, or is it crazier to keep going when there&#039;s no
-  end in sight? I wish I was here to bring you some hope and be all, “Here is a solution
-  to all your problems! And here, 10 points for Griffindor!” Unfortunately, however,
-  I am not a wizard and cannot wave a wand, say a little charm, do a little dance
-  and have the circle stop and re-order itself into a tidy, chronological line.
-slug: breaking-into-the-industry-a-vicious-cycle
-title: 'Breaking into the industry: a vicious cycle?'
----
++++
+author = ["authors/jessica-lane.md"]
+categories = "Op-ed"
+date = "2015-06-16T10:12:00-04:00"
+lastmod = "2015-06-16T10:42:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1434464790018/spiral-staircase.jpg.jpg"
+publishDate = "2015-06-16T10:39:00-04:00"
+related_articles = ["articles/in-defence-of-singers.md","articles/why-this-opera-singer-took-a-nonsinging-job-at-an-opera-company.md","articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md"]
+related_people = ["scene/people/jessica-lane.md"]
+short_description = "When you want something like this so badly, you will do pretty near anything to keep going. It makes you feel crazy, sure! But is it crazier to deny yourself what you love, or is it crazier to keep going when there&#039;s no end in sight? I wish I was here to bring you some hope and be all, “Here is a solution to all your problems! And here, 10 points for Griffindor!” Unfortunately, however, I am not a wizard and cannot wave a wand, say a little charm, do a little dance and have the circle stop and re-order itself into a tidy, chronological line."
+slug = "breaking-into-the-industry-a-vicious-cycle"
+title = "Breaking into the industry: a vicious cycle?"
++++
 
 You know what's crazy? I mean, even crazier than choosing this career [re:singing]?
 

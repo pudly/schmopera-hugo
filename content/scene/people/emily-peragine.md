@@ -1,22 +1,21 @@
----
-date: "2015-06-10T21:37:00-04:00"
-discipline: Soprano
-lastmod: "2015-06-10T21:37:00-04:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433986396289/Updated_Headshot_Emilyperagine_1.jpg.jpg
-publishDate: "2015-06-10T21:37:00-04:00"
-related_companies:
-- scene/companies/oberlin-college-and-conservatory.md
-slug: emily-peragine
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/emilyloowho
-- _template: people_single
-  platform: Twitter
-  template: social-media
-  url: https://twitter.com/emilyperagine
-title: Emily Peragine
----
++++
+date = "2015-06-10T21:37:00-04:00"
+discipline = "Soprano"
+lastmod = "2015-06-10T21:37:00-04:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433986396289/Updated_Headshot_Emilyperagine_1.jpg.jpg"
+publishDate = "2015-06-10T21:37:00-04:00"
+related_companies = ["scene/companies/oberlin-college-and-conservatory.md"]
+slug = "emily-peragine"
+title = "Emily Peragine"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/emilyloowho"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/emilyperagine"
++++
 
 Emily Peragine is a 20-something soprano from Missoula, Montana. She has recently graduated from the Oberlin Conservatory of Music, and is now moving to the Big Apple to pursue her dreams. She's obsessed with cats, breweries, and loves to go out dancing, especially when it's "90's night."  
 

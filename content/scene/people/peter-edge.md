@@ -1,31 +1,33 @@
----
-discipline: Baritone
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601056712/media/2020/09/PeterEdge_zwllza.jpg
-primary_image_credit: ""
-related_companies:
-- scene/companies/opera-north.md
-- scene/companies/tete-a-tete.md
-slug: peter-edge
-social_media:
-- platform: Facebook
-  template: social-media
-  url: https://www.facebook.com/peter.edge.5
-- platform: Twitter
-  template: social-media
-  url: https://twitter.com/_peteredge
-- platform: Soundcloud
-  template: social-media
-  url: https://soundcloud.com/edge-peter
-- platform: Youtube
-  template: social-media
-  url: https://www.youtube.com/user/MrPeteredge
-- _template: people_single
-  platform: Instagram
-  template: social-media
-  url: https://www.instagram.com/peteredge/
-title: Peter Edge
-website: https://www.peteredgebaritone.co.uk/
----
++++
+discipline = "Baritone"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601056712/media/2020/09/PeterEdge_zwllza.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/opera-north.md", "scene/companies/tete-a-tete.md"]
+slug = "peter-edge"
+title = "Peter Edge"
+website = "https://www.peteredgebaritone.co.uk/"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/peter.edge.5"
+[[social_media]]
+platform = "Twitter"
+template = "social-media"
+url = "https://twitter.com/_peteredge"
+[[social_media]]
+platform = "Soundcloud"
+template = "social-media"
+url = "https://soundcloud.com/edge-peter"
+[[social_media]]
+platform = "Youtube"
+template = "social-media"
+url = "https://www.youtube.com/user/MrPeteredge"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/peteredge/"
+
++++
 Baritone Peter Edge graduated from the Royal College of Music, London, as a Master of Music in Vocal Performance with Distinction, where he was supported by the Walker Trust.
 
 Competition successes include the International Medal at the Llangollen International Eisteddfod and the Chris Treglown Memorial Award. Peter is delighted to be a Concordia 2019/2020 featured artist.

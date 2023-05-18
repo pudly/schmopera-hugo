@@ -1,28 +1,18 @@
----
-author:
-- authors/jenna.md
-categories: Interview
-date: "2017-02-15T14:55:00+00:00"
-lastmod: "2017-02-23T11:27:00+00:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487344060465/2017-02-15---Robin-Johannsen---Tatjana_Dachsel.jpg.jpg
-primary_image_credit: 'Photo: Tajana Dachsel.'
-publishDate: "2017-02-23T10:21:00+00:00"
-related_articles:
-- articles/talking-with-singers-luca-pisaroni.md
-- articles/talking-with-singers-othalie-graham.md
-related_companies:
-- scene/companies/deutsche-oper-berlin.md
-- scene/companies/bayerische-staatsoper.md
-related_people:
-- scene/people/robin-johannsen.md
-short_description: '&quot;It&#039;s like a burning desire to connect with people,&quot;
-  says Johannsen of her pursuit of opera. &quot;I think I do it because there&#039;s
-  unfortunately nothing else that I can find that makes me have that feeling that
-  I&#039;m doing what I&#039;m supposed to be doing.&quot; Not everyone finds a career
-  that&#039;s fulfilling, let alone one &quot;where you really feel alive.&quot;'
-slug: talking-with-singers-robin-johannsen
-title: 'Talking with singers: Robin Johannsen'
----
++++
+author = ["authors/jenna.md"]
+categories = "Interview"
+date = "2017-02-15T14:55:00+00:00"
+lastmod = "2017-02-23T11:27:00+00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487344060465/2017-02-15---Robin-Johannsen---Tatjana_Dachsel.jpg.jpg"
+primary_image_credit = "Photo: Tajana Dachsel."
+publishDate = "2017-02-23T10:21:00+00:00"
+related_articles = ["articles/talking-with-singers-luca-pisaroni.md","articles/talking-with-singers-othalie-graham.md"]
+related_companies = ["scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md"]
+related_people = ["scene/people/robin-johannsen.md"]
+short_description = "&quot;It&#039;s like a burning desire to connect with people,&quot; says Johannsen of her pursuit of opera. &quot;I think I do it because there&#039;s unfortunately nothing else that I can find that makes me have that feeling that I&#039;m doing what I&#039;m supposed to be doing.&quot; Not everyone finds a career that&#039;s fulfilling, let alone one &quot;where you really feel alive.&quot;"
+slug = "talking-with-singers-robin-johannsen"
+title = "Talking with singers: Robin Johannsen"
++++
 
 "I originally wanted to sing all those Puccini roles, those Verdi roles," says Philadelphia-born soprano [Robin Johannsen](/scene/people/robin-johannsen/) of her early years with opera. As she gained professional experience, most notably at the [Deutsche Oper Berlin](/scene/companies/deutsche-oper-berlin/), Johannsen had a taste of the standard operatic roles for a young soprano; all the while, she received encouragement about how her voice would be well-suited to Baroque music.
 
@@ -32,9 +22,7 @@ Johannsen paid attention to the feedback from her colleagues, and as she tried o
 
 Aware that Baroque music is a niche market within the already niche market of classical music, Johannsen likens early music to anything else that requires some effort to understand. Now, she's grateful for the gentle nudges towards Handel, Purcell, and Rameau, and she has grown to love the music she sings. "I think it fits so well with my voice," she says. "If [early music is] something that fits so well, that makes me so happy to do, and that when I'm singing it I'm thinking, 'gosh, thank you for letting me sing this music, this feels so right', then why would I instead try to convince everybody that I'm a Gilda?"
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487601267449/2017-02-20---Die-Zauberflote---Vlaamse-Opera-pc-Annemie-Augustijns.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487601267449/2017-02-20---Die-Zauberflote---Vlaamse-Opera-pc-Annemie-Augustijns.jpg.jpg)
 <figcaption>Robin Johannsen in *Die Zauberflöte* at the Vlaamse Opera. Photo: Annemie Augustijns.</figcaption>
 </figure>
 
@@ -46,9 +34,7 @@ Similarly, Johannsen finds that "Baroque fans are really passionate." Part of he
 
 Johannsen finds freedom in those obscure works, revelling in the challenge of having no recordings or performance history from which to draw ideas. "If it doesn't exist, then you're really on your own with your team," she says. And with enthusiastic fans, the payoff for being a present-day pioneer of centuries-old music is very real. "They'll be thrilled to hear something - if it's great music - that they've never heard before."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487601281007/2017-02-20---Romolo-ed-Ersilia-%E2%80%93-Innsbruck-Festival-of-Early-Music-pc-Maurice-Korbel.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487601281007/2017-02-20---Romolo-ed-Ersilia-%E2%80%93-Innsbruck-Festival-of-Early-Music-pc-Maurice-Korbel.jpg.jpg)
 <figcaption>Robin Johannes in *Romolo ed Ersilia*, Innsbruck Festival of Early Music. Photo by Maurice Korbel.</figcaption>
 </figure>
 
@@ -70,9 +56,7 @@ Johannsen records her work in rehearsal, which helps her find a balance between 
 
 Feedback is another opportunity for Johannsen to raise the bar of her own craft. "I've found that some of the greatest conductors are also very strict," she says. "They want it how they want it, And if you really believe in their talents and in their ability to bring out the best in you, you have to do things that feel like they're impossible to do. You figure out a way to do them anyway when you're working with someone really great."
 
-<figure data-type="image">
-
-![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487601302900/2017-02-20---Almira-%E2%80%93-Hamburgische-Staatsoper-pc-Jorn-Kipping.jpg.jpg)
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487601302900/2017-02-20---Almira-%E2%80%93-Hamburgische-Staatsoper-pc-Jorn-Kipping.jpg.jpg)
 <figcaption>Robin Johannsen in *Almira* at the Hamburg State Opera. Photo: Jörn Kipping.</figcaption>
 </figure>
 

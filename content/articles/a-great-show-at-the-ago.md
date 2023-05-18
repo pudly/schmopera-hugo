@@ -1,28 +1,17 @@
----
-author:
-- authors/jenna.md
-categories: Review
-date: "2015-11-14T14:06:00-05:00"
-lastmod: "2015-11-14T14:50:00-05:00"
-primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447528207616/2015-11-14%20-%20AGO%20Concert.jpg.jpg
-publishDate: "2015-11-14T14:48:00-05:00"
-related_articles:
-- articles/the-ago-now-with-more-music.md
-- articles/gregs-first-thursday-at-the-ago.md
-- articles/ago-friday-nights-nostalgia-and-newchoir.md
-related_companies:
-- scene/companies/tapestry-opera.md
-related_people:
-- scene/people/marion-newman.md
-- scene/people/adam-sherkin.md
-short_description: Last night I went to the Art Gallery of Ontario for their AGO Friday
-  Nights series; this month, Friday Nights includes a little music with your art.
-  Complementing the AGO&#039;s current exhibition of works by J.M.W. Turner (1775-1851),
-  Painting Set Free, is a series of concerts curated by Tapestry Opera&#039;s artistic
-  director, Michael Mori, entitled Music Set Free.
-slug: a-great-show-at-the-ago
-title: A great show at the AGO
----
++++
+author = ["authors/jenna.md"]
+categories = "Review"
+date = "2015-11-14T14:06:00-05:00"
+lastmod = "2015-11-14T14:50:00-05:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447528207616/2015-11-14%20-%20AGO%20Concert.jpg.jpg"
+publishDate = "2015-11-14T14:48:00-05:00"
+related_articles = ["articles/the-ago-now-with-more-music.md","articles/gregs-first-thursday-at-the-ago.md","articles/ago-friday-nights-nostalgia-and-newchoir.md"]
+related_companies = ["scene/companies/tapestry-opera.md"]
+related_people = ["scene/people/marion-newman.md","scene/people/adam-sherkin.md"]
+short_description = "Last night I went to the Art Gallery of Ontario for their AGO Friday Nights series; this month, Friday Nights includes a little music with your art. Complementing the AGO&#039;s current exhibition of works by J.M.W. Turner (1775-1851), Painting Set Free, is a series of concerts curated by Tapestry Opera&#039;s artistic director, Michael Mori, entitled Music Set Free."
+slug = "a-great-show-at-the-ago"
+title = "A great show at the AGO"
++++
 
 Last night I went to the Art Gallery of Ontario for their [AGO Friday Nights](http://www.ago.net/fridaynights) series; this month, Friday Nights include a little music with your art. Complementing the AGO's current exhibition of works by [J.M.W. Turner (1775-1851), *Painting Set Free*](http://www.ago.net/j-m-w-turner-painting-set-free), is a series of concerts curated by Tapestry Opera's artistic director, [Michael Mori](/scene/people/michael-mori/), entitled *Music Set Free*. Mori selected a constantly interested programme of music, to be presented by pianist and composer [Adam Sherkin](/scene/people/adam-sherkin/) and mezzo-soprano [Marion Newman](/scene/people/marion-newman/). 
 
