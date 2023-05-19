@@ -21,7 +21,7 @@ Abrupt casting changes due to injury can always bring a strange energy to a perf
 
 Thus, we come to [Boston Baroque](/scene/companies/boston-baroque/)'s production of Gluck's _Iphigénie en Tauride_, which had originally cast Wendy Bryn Harmer in the title role. I personally was quite looking forward to this, right up until she had to pull out of performances at the last minute due to an injury. Boston Baroque ended up hiring Soula Parassidis into the role, fresh off a different production in Athens. I do rather like Miss Harmer, so I was bracing myself for disappointment.
 
-<figure data-type=”image”>{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1684459335/BostonBaroque_Iphigenie_Soula_Parassidis_as_Iphig%C3%A9nie.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1684459335/BostonBaroque_Iphigenie_Soula_Parassidis_as_Iphig%C3%A9nie.jpg){{% /md %}}
 
 
 <figcaption>Soula Parassidis as Iphigénie in Boston Baroque's production of Iphigénie en Tauride, 2023. Photo: Sam Brewer.</figcaption>
@@ -31,7 +31,7 @@ What I got ended up blowing me away, and for all of the right reasons: Parassidi
 
 Vocally, however, she was a powerhouse. Her voice had a very lovely tone, but it was almost shocking to me that her voice was able to cut through the orchestra even at the half-whisper she adopted on a few notes. And man, was it an amazing half-whisper: she was always purposeful when employing this half-whisper, and this even more than the times that Gluck asks the singer to sing loudly showed the distress of Iphigénie as a character. She also engaged with the text she was singing in ways I have never heard an opera singer connect with such text.
 
-<figure data-type=”image”>{{% md %}}https://res.cloudinary.com/schmopera/image/upload/v1684459335/BostonBaroque_Iphigenie_Jesse_Blumberg_as_Oreste_and_William_Burden_as_Pylade.jpg{{% /md %}}
+<figure data-type="image">{{% md %}}https://res.cloudinary.com/schmopera/image/upload/v1684459335/BostonBaroque_Iphigenie_Jesse_Blumberg_as_Oreste_and_William_Burden_as_Pylade.jpg{{% /md %}}
 
 <figcaption>Jesse Blumberg as Oreste and William Burden as Pylade in Boston Baroque's production of Iphigénie en Tauride, 2023. Photo: Sam Brewer.</figcaption>
 </figure>
@@ -40,7 +40,7 @@ Honestly, it was one of those performances where absolutely every note was right
 
 It brings to mind something mentioned in the program about Gluck requiring extreme sensitivity and activation in performance. Something about this feels completely correct: Gluck's music in _Iphigénie en Tauride_ tends towards the simple, and while he has a very good sense of text painting and an unusually good sense of pace for pre-1800's opera there is still a lot the singer needs to fill in. Parassidis met the challenge head-on: every aspect of her performance injected life into the music, and even the less dramatically interesting moments felt like the most important thing in the world.
 
-<figure data-type=”image”>{{% md %}}https://res.cloudinary.com/schmopera/image/upload/v1684459334/BostonBaroque_Iphigenie__Founding_Music_Director_Martin_Pearlman_the_Boston_Baroque_Orchestra.jpg{{% /md %}}
+<figure data-type="image">{{% md %}}https://res.cloudinary.com/schmopera/image/upload/v1684459334/BostonBaroque_Iphigenie__Founding_Music_Director_Martin_Pearlman_the_Boston_Baroque_Orchestra.jpg{{% /md %}}
 
 <figcaption>Founding Music Director Martin Pearlman & the Boston Baroque Orchestra in Boston Baroque's production of Iphigénie en Tauride, 2023. Photo: Sam Brewer.</figcaption>
 </figure>
@@ -49,7 +49,7 @@ In my estimation, Parassidis gave what has to be one of my top five great opera 
 
 The supporting cast she worked with at least left a good impression, even if none of them could successfully match the energy Parassidis threw at the wall. David McFerrin's Thoas was perhaps a bit too paternal for what his main antagonistic character needed to bring to the table, but he still acted a part that really does not appear all that often and made it at least memorable. William Burden's Pylade left quite an impression as well: he had an absolutely beautiful lyric tenor that soared without ever seeming strained in any way. Jesse Blumberg's Oreste was also quite a good performance, and in my estimation he came the closest to matching Parassidis' energy with his own incredibly well-acted performance.
 
-<figure data-type=”image”>{{% md %}}https://res.cloudinary.com/schmopera/image/upload/v1684459335/BostonBaroque_Iphigenie_Angela_Yam_as_Diana.jpg{{% /md %}}
+<figure data-type="image">{{% md %}}https://res.cloudinary.com/schmopera/image/upload/v1684459335/BostonBaroque_Iphigenie_Angela_Yam_as_Diana.jpg{{% /md %}}
 
 <figcaption>Angela Yam as Diana in Boston Baroque's production of Iphigénie en Tauride, 2023. Photo: Sam Brewer.</figcaption>
 </figure>
@@ -58,7 +58,7 @@ Where it perhaps falls apart slightly is in the chorus: the choral singing was c
 
 The rest of the staging, at least, was quite competently delivered. The projections on the screens around the stage were quite interesting: notable moments for this were the storm scene that opened the show, which was accompanied by lighting cues and images of a knife to illustrate Iphigénie's fears. Oreste's dream sequence with the furies in Act II was also a high point of the projection work, with silhouettes of the rest of the house of Agamemnon filling in blanks that the rest of the production could not fill. The costuming of the central characters was also quite interesting: I liked that Oreste and Iphigénie were costumed in matching clothes and a splotch of red on the hand: in a production where there was visually little else to connect the characters, the costuming here was much appreciated. There was not much else to comment on considering how simple the production was otherwise.
 
-<figure data-type=”image”>{{% md %}}https://res.cloudinary.com/schmopera/image/upload/v1684459335/BostonBaroque_Iphigenie_Soula_Parassidis_as_Iphig%C3%A9nie_Angela_Yam_as_Diana_Jesse_Blumberg_as_Oreste_and_William_Burden_as_Pylad.jpg{{% /md %}}
+<figure data-type="image">{{% md %}}https://res.cloudinary.com/schmopera/image/upload/v1684459335/BostonBaroque_Iphigenie_Soula_Parassidis_as_Iphig%C3%A9nie_Angela_Yam_as_Diana_Jesse_Blumberg_as_Oreste_and_William_Burden_as_Pylad.jpg{{% /md %}}
 
 <figcaption>Soula Parassidis as Iphigénie, Angela Yam as Diana, Jesse Blumberg as Oreste, and William Burden as Pylade in Boston Baroque's production of Iphigénie en Tauride, 2023. Photo: Sam Brewer.</figcaption>
 </figure>
