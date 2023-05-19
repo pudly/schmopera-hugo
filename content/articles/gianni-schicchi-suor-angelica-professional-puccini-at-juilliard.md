@@ -11,8 +11,8 @@ primary_image_credit = "Joseph Parrish as Gianni Schicchi in Juilliard Opera's d
 related_articles = ["articles/in-review-tosca-at-the-coc.md", "articles/wno-tosca.md", "articles/tosca-at-heartbeat-opera-art-to-the-point-of-distraction.md"]
 related_companies = ["scene/companies/the-juilliard-school.md"]
 related_people = []
-short_description = "Puccini considered _Suor Angelica_ his favorite work; it was also his most personal, inspired by his sister who was an actual nun. The music is all pleasingly lyrical but it’s all a slow set-up for the eventual entrance of La Zia Principessa (as mentioned, portrayed here by the highly talented Ms. Lewis.)"
-slug = "heartbeat-opera-dial-lady-m-for-murder"
+short_description = "Puccini considered Suor Angelica his favorite work; it was also his most personal, inspired by his sister who was an actual nun. The music is all pleasingly lyrical but it's all a slow set-up for the eventual entrance of La Zia Principessa (as mentioned, portrayed here by the highly talented Ms. Lewis.)"
+slug = "gianni-schicchi-suor-angelica-professional-puccini-at-juilliard"
 title = "Gianni Schicchi & Suor Angelica: professional Puccini at Juilliard"
 youtube_url = ""
 
