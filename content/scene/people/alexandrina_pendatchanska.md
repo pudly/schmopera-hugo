@@ -8,15 +8,6 @@ publishDate = "2023-05-01T08:41:00-04:00"
 related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/staatsoper-berlin.md", "scene/companies/la-monnaie.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/washington-national-opera.md"]
 slug = "alexandrina-pendatchanska"
 title = "Alexandrina Pendatchanska"
-website = ""
-[[social_media]]
-platform = ""
-template = "social-media"
-url = ""
-[[social_media]]
-platform = ""
-template = "social-media"
-url = ""
 
 +++
 Alexandrina Pendatchanska was born in Sofia in a family of renowned Bulgarian musicians. At the age of 19 she had won important singing competitions and had her international breakthrough with her debut as Lucia/_Lucia di Lammermoor_ in Bilbao. Alex Penda quickly established herself in the international opera scene and is regular guest at the world's famoust opera houses such as Vienna State Opera, Bavarian State Opera, Hamburg State Opera, Berlin State Opera, German Opera Berlin, Festspielhaus Baden-Baden, Theatre La Monnaie Brussels, Boshoi Theatre Moscow, Teatro San Carlo Naples, Théâtre des Champs-Élysées Paris, Lincoln Center New York, Opera Houston, Santa Fé Opera as well as Washington Opera.
