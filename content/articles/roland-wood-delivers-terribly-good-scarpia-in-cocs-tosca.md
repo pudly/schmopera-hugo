@@ -7,7 +7,7 @@ image_gallery = []
 postamble = ""
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1684503308/sqCOC_Tosca_22-23-06-MC-D-1353.jpg"
-primary_image_credit = "Roland Wood as Scarpia and Sinéad Campbell-Wallace as Tosca in the Canadian Opera Company’s production of Tosca, 2023, photo: Michael Cooper."
+primary_image_credit = "Roland Wood as Scarpia and Sinéad Campbell-Wallace as Tosca in the Canadian Opera Company's production of Tosca, 2023, photo: Michael Cooper."
 related_articles = ["articles/talking-with-directors-paul-curran.md", "articles/of-the-sea-a-beautiful-overdue-story-that-lingers.md", "articles/brilliant-a-compassionate-bluebeard-and-a-comforting-castle.md"]
 related_companies = []
 related_people = []
@@ -67,4 +67,4 @@ Despite the darkness of what Scarpia is actually doing with Cavaradossi and Tosc
 
 I want to send a personal note to the director, Mr. Curran: Thank you so much for your treatment of Act I - that is how one ends an act! True theatre. Bravo!
 
-And Bravi tutti! The show runs until May 27, and you can [get tickets here](https://www.coc.ca/productions/23501). Trust me, if you want to see a true _oepra_ opera, go see COC's _Tosca_ before it closes. 
+And _bravi tutti_! The show runs until May 27, and you can [get tickets here](https://www.coc.ca/productions/23501). Trust me, if you want to see a true _opera_ opera, go see COC's _Tosca_ before it closes. 
