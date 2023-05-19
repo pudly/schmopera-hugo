@@ -17,7 +17,7 @@ title = "Roland Wood delivers terribly good Scarpia in COC's Tosca"
 youtube_url = ""
 
 +++
-Hello Schmop-Tops! 
+Hello, Schmop-Tops! 
 
 It's Friday night and I'm back home again from another opening night at the Canadian Opera Company. This time it was none other than one of the quintessential works of our genre - Puccini's _Tosca_. 
 
