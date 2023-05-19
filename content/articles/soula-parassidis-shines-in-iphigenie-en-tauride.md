@@ -21,7 +21,7 @@ Abrupt casting changes due to injury can always bring a strange energy to a perf
 
 Thus, we come to [Boston Baroque](/scene/companies/boston-baroque/)’s production of Gluck’s _Iphigénie en Tauride_, which had originally cast Wendy Bryn Harmer in the title role. I personally was quite looking forward to this, right up until she had to pull out of performances at the last minute due to an injury. Boston Baroque ended up hiring Soula Parassidis into the role, fresh off a different production in Athens. I do rather like Miss Harmer, so I was bracing myself for disappointment.
 
-<figure data-type=”image”>{{% md %}}https://res.cloudinary.com/schmopera/image/upload/v1684459335/BostonBaroque_Iphigenie_Soula_Parassidis_as_Iphig%C3%A9nie.jpg{{% /md %}}
+<figure data-type=”image”>{{% md %}}![Soula Parassidis as Iphigénie in Boston Baroque’s production of Iphigénie en Tauride, 2023. Photo: Sam Brewer.](https://res.cloudinary.com/schmopera/image/upload/v1684459335/BostonBaroque_Iphigenie_Soula_Parassidis_as_Iphig%C3%A9nie.jpg){{% /md %}}
 
 
 <figcaption>Soula Parassidis as Iphigénie in Boston Baroque’s production of Iphigénie en Tauride, 2023. Photo: Sam Brewer.</figcaption>
