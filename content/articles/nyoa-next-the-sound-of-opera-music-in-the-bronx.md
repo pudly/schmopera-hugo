@@ -23,7 +23,7 @@ The most propitious teaser was from the upcoming production by the little OPERA 
 
 Soprano Victoria Davis performed an aria from _Highway 1, U.S.A_ and then she was joined by tenor James Reginald Hopkins III for a duet from the same piece. It proved to be an impressive preview. Both singers were in splendid voice and gave performances above and beyond the concert format. They appeared ready to "open," even though the actual production isn't for another month. One hopes that the [little OPERA theatre of ny](little-opera-theatre-of-ny/) has found another rare gem. They did a fine job with the seldom-seen Benjamin Britten opera _Owen Wingrave_ ([reviewed here](https://www.schmopera.com/hearing-the-seldom-seen/)). More [information here](https://www.lotny.org/).
 
-<figure data-type="image">{{ %md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1684459570/BronxOpera_IMG_1205.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1684459570/BronxOpera_IMG_1205.jpg){{% /md %}}
 
 <figcaption>Photo courtesy of NYOA.</figcaption>
 </figure>
