@@ -1,15 +1,22 @@
-+++
-author = ["authors/kimberly-barber.md"]
-categories = "Op-ed"
-date = "2018-11-14T16:08:00-05:00"
-lastmod = "2018-11-14T20:31:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542241838101/sqmagnify.jpg.jpg"
-publishDate = "2018-11-14T16:58:00-05:00"
-related_articles = ["articles/when-art-is-not-enough-opera-activism.md","articles/art-is-not-action.md"]
-short_description = "It becomes an important responsibility of artists to comment on the topics of the day, no matter how messy or fraught. It can no longer stand for us present a particular historic piece of theatre art &quot;as-is&quot; and to satisfy ourselves with platitudes about how &quot;that&#039;s how it was written, it&#039;s just of its time&quot;."
-slug = "wherefore-art-thou-opera"
-title = "Wherefore art thou, opera?"
-+++
+---
+author:
+- authors/kimberly-barber.md
+categories: Op-ed
+date: "2018-11-14T16:08:00-05:00"
+lastmod: "2018-11-14T20:31:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542241838101/sqmagnify.jpg.jpg
+publishDate: "2018-11-14T16:58:00-05:00"
+related_articles:
+- articles/when-art-is-not-enough-opera-activism.md
+- articles/art-is-not-action.md
+short_description: It becomes an important responsibility of artists to comment on
+  the topics of the day, no matter how messy or fraught. It can no longer stand for
+  us present a particular historic piece of theatre art &quot;as-is&quot; and to satisfy
+  ourselves with platitudes about how &quot;that&#039;s how it was written, it&#039;s
+  just of its time&quot;.
+slug: wherefore-art-thou-opera
+title: Wherefore art thou, opera?
+---
 
 Opera: dead or alive?
 
@@ -42,13 +49,17 @@ A few cases in point: Peter Hinton's recent COC production of [*Louis Riel*](/di
 
 Yep. That's it in a nutshell. The work has tremendous moments, whether musically or dramatically, and then there are the blind spots, those tone-deaf moments where you just can't believe what you are seeing and hearing.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229688976/2017-04-27---LouisRiel-MC-0679.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229688976/2017-04-27---LouisRiel-MC-0679.jpg.jpg)
 <figcaption>(centre) Justin Many Fingers (Mii-Sum-Ma-Nis-Kim) as The Buffalo Dancer in a scene from the Canadian Opera Company's new production of *Louis Riel*, 2017, photo: Michael Cooper.</figcaption>
 </figure>
  
 And now we come to *Rigoletto*. Two recent productions — at the COC last season and in Montréal this season — served up this toxic patriarchal soup with differing results. [Christopher Alden's COC production](/great-music-distracting-sexuality-rigoletto/) at least attempted to point out the unpleasant "boy's club" nature of Rigoletto's court, causing us to examine what kind of society it is when men can quietly sit in plush leather armchairs in an oak-paneled room reading the paper while nasty goings-on with women ensue. The use of Giovanna as a procurer for the Duke rather than as a protector of Gilda was an interesting touch, but I wondered — why choose to present women as intriguing and conspiring against one another?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229698680/17-18-03-MC-D-0096.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1542229698680/17-18-03-MC-D-0096.jpg.jpg)
 <figcaption>A scene from the Canadian Opera Company's production of *Rigoletto*, 2018. Photo: Michael Cooper.</figcaption>
 </figure>
 

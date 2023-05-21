@@ -1,25 +1,24 @@
-+++
-date = "2015-10-06T10:35:00-04:00"
-discipline = "Conductor, Music Director, Esprit Orchestra"
-lastmod = "2015-10-06T10:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444142415627/ND3_6932-Alex-Pauk-ConductorSquare.jpg.jpg"
-publishDate = "2015-10-06T10:41:00-04:00"
-slug = "alex-pauk"
-title = "Alex Pauk"
-website = "http://www.espritorchestra.com/aboutus/alexpauk.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/EspritOrchestra/timeline/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/espritorchestra"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/EspritOrchestra"
-+++
+---
+date: "2015-10-06T10:35:00-04:00"
+discipline: Conductor, Music Director, Esprit Orchestra
+lastmod: "2015-10-06T10:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444142415627/ND3_6932-Alex-Pauk-ConductorSquare.jpg.jpg
+publishDate: "2015-10-06T10:41:00-04:00"
+slug: alex-pauk
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/EspritOrchestra/timeline/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/espritorchestra
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/EspritOrchestra
+title: Alex Pauk
+website: http://www.espritorchestra.com/aboutus/alexpauk.html
+---
 
 Alex Pauk, composer, conductor, educator, entrepreneur, had much to do with revitalizing Canadian orchestral musical life for composers by founding Esprit Orchestra in 1983 as Canada’s only orchestra devoted to new music. Esprit, with a core of 50 of Canada’s best new music instrumentalists and an annual subscription series in Toronto, encourages composers from across Canada to take bold new
 directions.

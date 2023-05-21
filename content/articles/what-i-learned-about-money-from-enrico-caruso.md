@@ -1,15 +1,24 @@
-+++
-author = ["authors/christopher-enns.md"]
-categories = "Op-ed"
-date = "2016-12-12T20:04:00+00:00"
-lastmod = "2016-12-13T12:47:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573639438/2016-12-12---Caruso.jpg.jpg"
-publishDate = "2016-12-13T12:47:00+00:00"
-related_articles = ["articles/what-crippling-stage-fright-taught-me-about-money.md","articles/stop-letting-audition-season-destroy-your-bank-account.md","articles/singers-its-the-annual-tax-season-conundrum.md"]
-short_description = "The voice in my head wants me to be a brilliant actor, an incredible singer, the best blogger, a life changing financial planner, and everyone&#039;s favourite friend. I want all the things. You see… I&#039;m not the kind of guy who can do just &#039;one thing&#039;. I like having multiple focuses… focusi? And so I&#039;m constantly in conflict with my want to do all of things, and my want to be great at all those things. The smaller the focus, the larger the voice."
-slug = "what-i-learned-about-money-from-enrico-caruso"
-title = "What I learned about money from Enrico Caruso"
-+++
+---
+author:
+- authors/christopher-enns.md
+categories: Op-ed
+date: "2016-12-12T20:04:00+00:00"
+lastmod: "2016-12-13T12:47:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573639438/2016-12-12---Caruso.jpg.jpg
+publishDate: "2016-12-13T12:47:00+00:00"
+related_articles:
+- articles/what-crippling-stage-fright-taught-me-about-money.md
+- articles/stop-letting-audition-season-destroy-your-bank-account.md
+- articles/singers-its-the-annual-tax-season-conundrum.md
+short_description: The voice in my head wants me to be a brilliant actor, an incredible
+  singer, the best blogger, a life changing financial planner, and everyone&#039;s
+  favourite friend. I want all the things. You see… I&#039;m not the kind of guy who
+  can do just &#039;one thing&#039;. I like having multiple focuses… focusi? And so
+  I&#039;m constantly in conflict with my want to do all of things, and my want to
+  be great at all those things. The smaller the focus, the larger the voice.
+slug: what-i-learned-about-money-from-enrico-caruso
+title: What I learned about money from Enrico Caruso
+---
 
 "You can do it all!! You don’t have to choose!!!"
 
@@ -51,14 +60,18 @@ And on the surface that diversification seems great, like a wonderful rich life�
 
 The problem comes in when I see my expectations for that diversification: 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573287801/2016-12-12---Focus-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573287801/2016-12-12---Focus-1.jpg.jpg)
 </figure>
 
 You don't have to be good at math to see that even giving 110% won't get me close to meeting those expectations…
 
 So this is what usually happens:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573319962/2016-12-12---Focus.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573319962/2016-12-12---Focus.jpg.jpg)
 </figure>
 
 I overwork on Monday trying to do too much. I spread myself so thin that it never feels like I'm making progress in any one area, and I end up at the end of the week really frustrated. 
@@ -83,14 +96,18 @@ Maybe you want to pay off debt, save for retirement AND invest in your business.
 
 If you want to do it all at once, it might look like this: 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573452392/2016-12-12---Focus-3.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573452392/2016-12-12---Focus-3.jpg.jpg)
 </figure>
 
 Which is fine, but it's all going to go slower. 
 
 Or you could shrink your focus: 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573466627/2016-12-12---Focus-4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481573466627/2016-12-12---Focus-4.jpg.jpg)
 </figure>
 
 Things happen much faster, but you can’t complain about not having enough money for auditions and supplies. 

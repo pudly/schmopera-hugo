@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-11-13T15:09:00-05:00"
-lastmod = "2017-11-14T19:28:00-05:00"
-preamble = "London-based pianist [James Cheung](/scene/people/james-cheung/)'s collaborations with singers have taken him to stages from Moscow to Banff, recitaling with the likes of Ian Bostridgr, Miriam Khalil, and Joan Rodgers. This month he begins a recital tour with baritone [Christian Gerhaher](/scene/people/christisn-gerhaher/), stopping at the [Tonhalle in Düsseldorf](http://www.tonhalle.de/reihen/reihe/Kammermusik/Christian-Gerhaher/), Amsterdam's [Concertgebouw](https://www.concertgebouw.nl/en/concerts/christian-gerhaher-sings-schubert-and-brahms/17-11-2017), the [Peterhouse Theatre in Cambridge](http://www.cameratamusica.org.uk/future-concerts/), and London's [Wigmore Hall](https://wigmore-hall.org.uk/whats-on/christian-gerhaher-james-cheung-201711231300).\n\nWe spoke with Cheung about the mutual learning that happens between pianist and singer, and the unlikely similarities between Nirvana and Lieder."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510604597832/2017-11-12---james_5-copy.jpg.jpg"
-publishDate = "2017-11-14T19:28:00-05:00"
-related_articles = ["articles/how-to-lead-your-pianist.md","articles/how-to-play-for-singers.md"]
-related_people = ["scene/people/christian-gerhaher.md","scene/people/james-cheung.md"]
-short_description = "&quot;Playing the piano alongside and merging with a living, breathing instrument makes this the most intimate way of making music I&#039;ve experienced and that kind of intimacy is something I sought for a long time in music.&quot;"
-slug = "talking-with-pianists-james-cheung"
-title = "Talking with pianists: James Cheung"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-11-13T15:09:00-05:00"
+lastmod: "2017-11-14T19:28:00-05:00"
+preamble: |-
+  London-based pianist [James Cheung](/scene/people/james-cheung/)'s collaborations with singers have taken him to stages from Moscow to Banff, recitaling with the likes of Ian Bostridgr, Miriam Khalil, and Joan Rodgers. This month he begins a recital tour with baritone [Christian Gerhaher](/scene/people/christisn-gerhaher/), stopping at the [Tonhalle in Düsseldorf](http://www.tonhalle.de/reihen/reihe/Kammermusik/Christian-Gerhaher/), Amsterdam's [Concertgebouw](https://www.concertgebouw.nl/en/concerts/christian-gerhaher-sings-schubert-and-brahms/17-11-2017), the [Peterhouse Theatre in Cambridge](http://www.cameratamusica.org.uk/future-concerts/), and London's [Wigmore Hall](https://wigmore-hall.org.uk/whats-on/christian-gerhaher-james-cheung-201711231300).
+
+  We spoke with Cheung about the mutual learning that happens between pianist and singer, and the unlikely similarities between Nirvana and Lieder.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510604597832/2017-11-12---james_5-copy.jpg.jpg
+publishDate: "2017-11-14T19:28:00-05:00"
+related_articles:
+- articles/how-to-lead-your-pianist.md
+- articles/how-to-play-for-singers.md
+related_people:
+- scene/people/christian-gerhaher.md
+- scene/people/james-cheung.md
+short_description: '&quot;Playing the piano alongside and merging with a living, breathing
+  instrument makes this the most intimate way of making music I&#039;ve experienced
+  and that kind of intimacy is something I sought for a long time in music.&quot;'
+slug: talking-with-pianists-james-cheung
+title: 'Talking with pianists: James Cheung'
+---
 
 ## What can pianists learn from singers, and vice versa?
 

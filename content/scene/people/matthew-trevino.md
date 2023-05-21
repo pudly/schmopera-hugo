@@ -1,26 +1,32 @@
-+++
-date = "2016-09-15T14:41:00+01:00"
-discipline = "Bass"
-lastmod = "2016-09-15T15:24:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473946839599/2016-09-14---Trevino.jpg.jpg"
-publishDate = "2016-09-15T14:45:00+01:00"
-related_companies = ["scene/companies/nashville-opera.md","scene/companies/brooklyn-academy-of-music.md","scene/companies/palm-beach-opera.md","scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md","scene/companies/arizona-opera.md","scene/companies/lyric-opera-of-kansas-city.md"]
-slug = "matthew-trevino"
-title = "Matthew Treviño"
-website = "http://www.matthewtrevino.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/trevinobass"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/bassotrevino"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCN4-9bKSikN0EQLhwXGOtxg?spfreload=10"
-+++
+---
+date: "2016-09-15T14:41:00+01:00"
+discipline: Bass
+lastmod: "2016-09-15T15:24:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473946839599/2016-09-14---Trevino.jpg.jpg
+publishDate: "2016-09-15T14:45:00+01:00"
+related_companies:
+- scene/companies/nashville-opera.md
+- scene/companies/brooklyn-academy-of-music.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+slug: matthew-trevino
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/trevinobass
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/bassotrevino
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCN4-9bKSikN0EQLhwXGOtxg?spfreload=10
+title: Matthew Treviño
+website: http://www.matthewtrevino.com/
+---
 
 A former member of the San Francisco Opera’s prestigious Merola Opera Program and recipient of the "Best Singer Award" by the 2011 Austin Critics’ Table for his performance in *The Man Who Mistook His Wife for a Hat*, Matthew Treviño is proving to be one of today’s most sought-after young basses. The *San Francisco Chronicle* described his recent performances as Don Basilio (*Il barbiere di Siviglia*) as "sonorous and neatly malevolent" with *The New York Times* praising his "delightfully unctuous portrayal."  
 

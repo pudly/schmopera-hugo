@@ -1,23 +1,30 @@
-+++
-date = "2017-02-03T12:58:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-02-03T13:01:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486126434627/2017-02-02---Angela_Gheorgiu_pc_Cosmin_Gogu.jpg.jpg"
-primary_image_credit = "Cosmin Gogu"
-publishDate = "2017-02-03T13:01:00+00:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/san-francisco-opera.md"]
-slug = "angela-gheorghiu"
-title = "Angela Gheorghiu"
-website = "http://www.angelagheorghiu.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/angelagheorghiuofficial/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/angelagheorghiu"
-+++
+---
+date: "2017-02-03T12:58:00+00:00"
+discipline: Soprano
+lastmod: "2017-02-03T13:01:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486126434627/2017-02-02---Angela_Gheorgiu_pc_Cosmin_Gogu.jpg.jpg
+primary_image_credit: Cosmin Gogu
+publishDate: "2017-02-03T13:01:00+00:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/salzburg-festival.md
+- scene/companies/san-francisco-opera.md
+slug: angela-gheorghiu
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/angelagheorghiuofficial/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/angelagheorghiu
+title: Angela Gheorghiu
+website: http://www.angelagheorghiu.com/
+---
 
 Superstar Angela Gheorghiu, the most glamorous and gifted opera singer of our time, was born in the small Romanian town Adjud. From early childhood it was obvious that she will become a singer, her destiny was the music. She attended the Music School in Bucharest and graduated the National University of Music Bucharest, where she studied with the remarkable music teacher Mia Barbu. Ms. Gheorghiu’s magnificent voice and dazzling stage presence have established her as a unique international opera superstar.
 

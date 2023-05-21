@@ -1,19 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-08T13:43:00-04:00"
-lastmod = "2017-07-13T13:39:00-04:00"
-preamble = "Canadian composer [Andrew Staniland](/scene/people/andrew-staniland/) is currently a faculty member at Memorial University in St. John's, NL; there, he founded MEARL (Memorial ElectroAcoustic Research Lab), where his research team developed the - very cool - [Mune](http://munemusic.com/) digital instrument. Staniland's oratorio, *Dark Star Requiem*, earned him two Juno Award nominations in 2017; it was the \"Beautymark Aria\" from *Dark Star Requiem* that first caught our attention, at [Tapestry Opera's *Songbook VI*](/he-saidshe-said-songbook-vi/) in early 2016.\n\nIn our latest composer profile, Staniland chats about his past life as a heavy metal guitarist, and the ill-fitting stereotype of a \"tortured artist\".\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499536350029/2017-07-08---Andrew-Staniland.jpg.jpg"
-primary_image_credit = "Photo by Bo Huang."
-publishDate = "2017-07-13T12:40:00-04:00"
-related_articles = ["articles/talking-with-composers-david-t-little.md"]
-related_companies = ["scene/companies/tapestry-opera.md"]
-related_people = ["scene/people/andrew-staniland.md"]
-short_description = "&quot;There is nothing like the feeling of music that appears to write itself. It is a total rush – like the whole earth is vibrating just right to make the sounds, totally in the moment. However, in my experience, these moments are made possible only by nurturing a deep discipline.&quot;"
-slug = "talking-with-composers-andrew-staniland"
-title = "Talking with composers: Andrew Staniland"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-08T13:43:00-04:00"
+lastmod: "2017-07-13T13:39:00-04:00"
+preamble: |+
+  Canadian composer [Andrew Staniland](/scene/people/andrew-staniland/) is currently a faculty member at Memorial University in St. John's, NL; there, he founded MEARL (Memorial ElectroAcoustic Research Lab), where his research team developed the - very cool - [Mune](http://munemusic.com/) digital instrument. Staniland's oratorio, *Dark Star Requiem*, earned him two Juno Award nominations in 2017; it was the "Beautymark Aria" from *Dark Star Requiem* that first caught our attention, at [Tapestry Opera's *Songbook VI*](/he-saidshe-said-songbook-vi/) in early 2016.
+
+  In our latest composer profile, Staniland chats about his past life as a heavy metal guitarist, and the ill-fitting stereotype of a "tortured artist".
+
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499536350029/2017-07-08---Andrew-Staniland.jpg.jpg
+primary_image_credit: Photo by Bo Huang.
+publishDate: "2017-07-13T12:40:00-04:00"
+related_articles:
+- articles/talking-with-composers-david-t-little.md
+related_companies:
+- scene/companies/tapestry-opera.md
+related_people:
+- scene/people/andrew-staniland.md
+short_description: '&quot;There is nothing like the feeling of music that appears
+  to write itself. It is a total rush – like the whole earth is vibrating just right
+  to make the sounds, totally in the moment. However, in my experience, these moments
+  are made possible only by nurturing a deep discipline.&quot;'
+slug: talking-with-composers-andrew-staniland
+title: 'Talking with composers: Andrew Staniland'
+---
 
 ## How would you describe your musical aesthetic? How have you heard it described by others?
 
@@ -29,7 +40,9 @@ I think my favorite description of my music by another was by Joseph So, who wro
 
 My music has been reviewed quite a bit. Here is a word mosaic I made just for Schmopera featuring are some of my favorite descriptions in the press:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499536113953/Screen%20Shot%202017-07-08%20at%2011.46.08%20AM.png)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499536113953/Screen%20Shot%202017-07-08%20at%2011.46.08%20AM.png)
 </figure>
 
 ## How do you write music when you're not feeling particularly inspired (yet)?

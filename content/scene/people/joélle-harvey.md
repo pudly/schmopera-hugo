@@ -1,22 +1,33 @@
-+++
-date = "2019-04-22T01:08:17+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555894740/media/2019/04/JoelleHarvey.jpg"
-primary_image_credit = "Arielle Doneson."
-related_companies = ["scene/companies/washington-national-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/utah-opera.md", "scene/companies/arizona-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/portland-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/merola-opera-program.md", "scene/companies/san-francisco-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/glyndebourne.md"]
-slug = "joelle-harvey"
-title = "Joélle Harvey"
-website = "http://www.joelleharvey.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/joelle_harvey"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/JoelleHarveySoprano"
-
-+++
+---
+date: "2019-04-22T01:08:17+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1555894740/media/2019/04/JoelleHarvey.jpg
+primary_image_credit: Arielle Doneson.
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/utah-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/portland-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/glyndebourne.md
+slug: joelle-harvey
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/joelle_harvey
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/JoelleHarveySoprano
+title: Joélle Harvey
+website: http://www.joelleharvey.com/
+---
 A native of Bolivar, New York, soprano Joélle Harvey has established herself over the past decade as a noted interpreter of a broad range of repertoire, specializing in Handel, Mozart, and new music.
 
 During the 2020-2021 season, Ms. Harvey was to make her company debut with the Opernhaus Zürich as Aristea in Pergolesi’s _L’Olimpiade_. Additionally, she filmed a performance of Villa-Lobos’ _Bachianas Brasilieras No. 5_ with The Cleveland Orchestra as part of their re-configured season, and was to appear with the Orchestre de la Suisse Romande and conductor Leonardo García Alarcón for a program of Handel. Other originally scheduled events include Pat Nixon in _Nixon in China_ with Washington National Opera (cancelled) and Los Angeles Philharmonic (cancelled), Kansas City Symphony for their Messiah (cancelled), _L’oca del cairo_ with Mozartwoche Salzburg (postponed), a Schubert concert with Chamber Music Society of Lincoln Center(postponed), the Brahms _Ein Deutsches Requiem_ with San Diego Symphony and Edo de Waart, and Mahler’s 2nd Symphony with the Baltimore Symphony Orchestra (cancelled). Future seasons include returns to the Royal Opera House – Covent Garden, the Metropolitan Opera, and the Glyndebourne Festival, and her debut with the Chicago Symphony Orchestra.

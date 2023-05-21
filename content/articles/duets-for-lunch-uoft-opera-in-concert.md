@@ -1,17 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-10-11T10:40:00-04:00"
-lastmod = "2017-10-12T10:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507737954381/20171010_115751_HDR.jpg.jpg"
-publishDate = "2017-10-12T09:50:00-04:00"
-related_articles = ["articles/she-saidhe-said-centre-stage-2015.md","articles/in-review-albert-herring-at-uoft-opera.md"]
-related_companies = ["scene/companies/university-of-toronto-opera.md"]
-related_people = ["scene/people/joel-allison.md"]
-short_description = "Hearing pre-professional singers is always fascinating, at least for me. It&#039;s a chance to hear new voices, in a context that allows for the in-flux status of their vocal development. Personal opinion: voices that are settling and sorting themselves out are one of the world&#039;s most interesting things."
-slug = "duets-for-lunch-uoft-opera-in-concert"
-title = "Duets for lunch: UofT Opera in concert"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-10-11T10:40:00-04:00"
+lastmod: "2017-10-12T10:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507737954381/20171010_115751_HDR.jpg.jpg
+publishDate: "2017-10-12T09:50:00-04:00"
+related_articles:
+- articles/she-saidhe-said-centre-stage-2015.md
+- articles/in-review-albert-herring-at-uoft-opera.md
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+related_people:
+- scene/people/joel-allison.md
+short_description: 'Hearing pre-professional singers is always fascinating, at least
+  for me. It&#039;s a chance to hear new voices, in a context that allows for the
+  in-flux status of their vocal development. Personal opinion: voices that are settling
+  and sorting themselves out are one of the world&#039;s most interesting things.'
+slug: duets-for-lunch-uoft-opera-in-concert
+title: 'Duets for lunch: UofT Opera in concert'
+---
 
 As part of this week's line-up of the Free Concert Series in the Richard Bradshaw Amphitheatre, young singers and pianists of the University of Toronto Opera School offered a programme of operatic duets. The repertoire ran the gamut of picks that are "stretch pieces" (like scenes from *La traviata* and *Les contes d'Hoffmann*) and works that are indicative of what these singers are ready to do in the present (like the duets from *La Cenerentola* and *Don Pasquale*).
 

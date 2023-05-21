@@ -1,18 +1,49 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-04-12T11:05:00+01:00"
-lastmod = "2016-04-12T16:34:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460455467935/2016-04-12---Jamie-Barton.jpg.jpg"
-primary_image_credit = "Photo: Stacey Bode."
-publishDate = "2016-04-12T11:38:00+01:00"
-related_articles = ["articles/talking-with-singers-christine-goerke.md","articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-elizabeth-deshong.md","articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-melody-moore.md","articles/talking-with-singers-bryan-register.md","articles/spotlight-on-samantha-pickett.md","articles/singing-tso1617-renee-jamie-weill.md","articles/talking-with-singers-elza-van-den-heever.md","articles/album-review-all-who-wander.md","articles/talking-with-singers-sondra-radvanovsky.md","articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md","articles/talking-with-singers-angela-gheorghiu.md","articles/talking-with-singers-angela-meade.md","articles/spotlight-on-rihab-chaieb.md","articles/spotlight-on-emma-char.md","articles/talking-with-singers-lisette-oropesa.md","articles/simone-osborne.md","articles/barton-leads-fantasy-cast-in-wnos-don-carlo.md"]
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md"]
-related_people = ["scene/people/jamie-barton.md"]
-short_description = "&quot;This seems a bit cliché in terms of mezzo roles, but dude, throw me a Carmen. I would love to sing a Carmen. I think I would sing the pants off of her. And she&#039;s also, once again, a character who is so fascinating to me, psychologically.&quot; Barton is eager to portray opera&#039;s infamous, hedonistic femme-fatale as &quot;someone who is not the typical body type. I think that is an envelope I would love to try and push, given the right director and the right production.&quot;"
-slug = "talking-with-singers-jamie-barton"
-title = "Talking with singers: Jamie Barton"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-04-12T11:05:00+01:00"
+lastmod: "2016-04-12T16:34:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460455467935/2016-04-12---Jamie-Barton.jpg.jpg
+primary_image_credit: 'Photo: Stacey Bode.'
+publishDate: "2016-04-12T11:38:00+01:00"
+related_articles:
+- articles/talking-with-singers-christine-goerke.md
+- articles/talking-with-singers-nicole-cabell.md
+- articles/talking-with-singers-elizabeth-deshong.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-melody-moore.md
+- articles/talking-with-singers-bryan-register.md
+- articles/spotlight-on-samantha-pickett.md
+- articles/singing-tso1617-renee-jamie-weill.md
+- articles/talking-with-singers-elza-van-den-heever.md
+- articles/album-review-all-who-wander.md
+- articles/talking-with-singers-sondra-radvanovsky.md
+- articles/the-ride-of-the-dragkyries-how-to-name-an-opera-drag-queen.md
+- articles/talking-with-singers-angela-gheorghiu.md
+- articles/talking-with-singers-angela-meade.md
+- articles/spotlight-on-rihab-chaieb.md
+- articles/spotlight-on-emma-char.md
+- articles/talking-with-singers-lisette-oropesa.md
+- articles/simone-osborne.md
+- articles/barton-leads-fantasy-cast-in-wnos-don-carlo.md
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/los-angeles-opera.md
+related_people:
+- scene/people/jamie-barton.md
+short_description: '&quot;This seems a bit cliché in terms of mezzo roles, but dude,
+  throw me a Carmen. I would love to sing a Carmen. I think I would sing the pants
+  off of her. And she&#039;s also, once again, a character who is so fascinating to
+  me, psychologically.&quot; Barton is eager to portray opera&#039;s infamous, hedonistic
+  femme-fatale as &quot;someone who is not the typical body type. I think that is
+  an envelope I would love to try and push, given the right director and the right
+  production.&quot;'
+slug: talking-with-singers-jamie-barton
+title: 'Talking with singers: Jamie Barton'
+---
 
 We had the chance to talk with American mezzo-soprano [Jamie Barton](/scene/people/jamie-barton/) between rehearsals for [Washington National Opera](/scene/companies/washington-national-opera/)'s upcoming [*Ring Cycle*](http://web.kennedy-center.org/Marketing/Ring/Landing), where she'll be singing Waltraute in *Götterdämmerung*, and covering Fricka in *Die Walküre*. She has been in Washington for about two weeks, prepping for the *Cycle*'s April 30th opening. "I'm just now in cover stagings for Fricka," says Barton. "We were doing the first scene of Wotan and Fricka this morning. I think tomorrow is *Valkyries*. There's a lot of German happening right now!"
 
@@ -22,7 +53,9 @@ In her mid-30s, Barton is familiar with the gamble that can be found in singing 
 
 In contrast to the conscious care required in Bellini and Donizetti, Barton relishes the smart vocal writing in Wagner's music. "It's really an Italianate kind of composition, very very smart," she says. The common impression is that Wagnerian singers are constantly working to be heard over huge amounts of sound coming from the orchestra. Barton notes that "for all the bombasticness of the composer, that happens *around* the vocal singing, not so much *with* the vocal singing." Singers who find comfort in this music tend to ride comfortably, without the need for extra muscle. "You don't have to push, you don't have to manipulate to sing over an 80-piece orchestra, because for most of the time you're not, at all."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460475257648/JamieBartonCreditStaceyBode4.jpg.jpg)<figcaption>Photo by Stacey Bode.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460475257648/JamieBartonCreditStaceyBode4.jpg.jpg)<figcaption>Photo by Stacey Bode.</figcaption>
 </figure>
 
 ## "I think mezzos have it good."
@@ -35,7 +68,9 @@ It's one of the tough parts of a singer's career, to grow familiar enough with a
 
 We had to ask: how difficult is that balance, to shift her ideas of a character that have come from her own intensive work on the score? "It's difficult when both parties are unmovable," says Barton, smiling. "Even when I have very strong opinions about something, if you can convince me within the context of a production of a completely opposite view, then I will leap for you onstage, I will do what I need to do. If I can't be convinced, then I can't convince the audience. It's a team effort."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460475235844/JamieBartonCreditStaceyBode2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460475235844/JamieBartonCreditStaceyBode2.jpg.jpg)
 <figcaption>Photo by Stacey Bode.</figcaption>
 </figure>
 

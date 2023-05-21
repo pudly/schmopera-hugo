@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2014-09-02T14:00:00-04:00"
-lastmod = "2015-04-16T15:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429213312316/hspink01a.jpg.jpg"
-publishDate = "2014-09-02T14:00:00-04:00"
-related_articles = ["articles/what-oscarssowhite-can-learn-from-opera.md","articles/being-a-nice-person-why-art-really-really-matters.md"]
-short_description = "Are we a forgiving bunch, us opera-lovers?  There&#039;s a curious phenomenon of forgiving outdated social mores (racism, for example) in works of theatre and opera that we really like. It seems like fans of opera and musical theatre will look at plenty of bad onstage behaviour in their favourite show, and chalk it up to metaphor or &quot;the way it was back then&quot;. It&#039;s oddly forgiving in a world which feeds largely upon criticism."
-slug = "forgiving-racism-onstage"
-title = "Forgiving Racism Onstage"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2014-09-02T14:00:00-04:00"
+lastmod: "2015-04-16T15:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429213312316/hspink01a.jpg.jpg
+publishDate: "2014-09-02T14:00:00-04:00"
+related_articles:
+- articles/what-oscarssowhite-can-learn-from-opera.md
+- articles/being-a-nice-person-why-art-really-really-matters.md
+short_description: Are we a forgiving bunch, us opera-lovers?  There&#039;s a curious
+  phenomenon of forgiving outdated social mores (racism, for example) in works of
+  theatre and opera that we really like. It seems like fans of opera and musical theatre
+  will look at plenty of bad onstage behaviour in their favourite show, and chalk
+  it up to metaphor or &quot;the way it was back then&quot;. It&#039;s oddly forgiving
+  in a world which feeds largely upon criticism.
+slug: forgiving-racism-onstage
+title: Forgiving Racism Onstage
+---
 
 Are we a forgiving bunch, us opera-lovers? There's a curious phenomenon of forgiving outdated social mores (racism, for example) in works of theatre and opera that we really like. It seems like fans of opera and musical theatre will look at plenty of bad onstage behaviour in their favourite show, and chalk it up to metaphor or "the way it was back then". It's oddly forgiving in a world which feeds largely upon criticism.
 

@@ -1,22 +1,31 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2018-04-27T16:18:00-04:00"
-lastmod = "2018-04-27T16:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524859651430/sqRebeccaB.jpg.jpg"
-primary_image_credit = "Photo: Lottie Bowater."
-publishDate = "2018-04-27T16:18:00-04:00"
-related_articles = ["articles/lore-lixenberg-is-the-mother.md","articles/6-new-works-presented-at-various-stages-2017.md"]
-related_companies = ["scene/companies/mahogany-opera-group.md"]
-related_people = ["scene/people/frederic-wakewalker.md"]
-short_description = "I would place Merz and Osborn&#039;s opera somewhere in the middle of absurdist and literalist. They attempt to explore the psychological relationship of mother and son through repetitive material and an assertive musical language."
-slug = "uncomfortable-premieres-the-mother"
-title = "Uncomfortable premieres: The Mother"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2018-04-27T16:18:00-04:00"
+lastmod: "2018-04-27T16:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524859651430/sqRebeccaB.jpg.jpg
+primary_image_credit: 'Photo: Lottie Bowater.'
+publishDate: "2018-04-27T16:18:00-04:00"
+related_articles:
+- articles/lore-lixenberg-is-the-mother.md
+- articles/6-new-works-presented-at-various-stages-2017.md
+related_companies:
+- scene/companies/mahogany-opera-group.md
+related_people:
+- scene/people/frederic-wakewalker.md
+short_description: I would place Merz and Osborn&#039;s opera somewhere in the middle
+  of absurdist and literalist. They attempt to explore the psychological relationship
+  of mother and son through repetitive material and an assertive musical language.
+slug: uncomfortable-premieres-the-mother
+title: 'Uncomfortable premieres: The Mother'
+---
 
 This week saw the world premiere of *The Mother*, an opera commissioned by [Mahogany Opera Group](/scene/people/mahogany-opera-group/) with music by Laurence Osborn and text by Theo Merz. Set in a small town in 1920s Poland, The Mother wastes away the days knitting, drinking, and taking morphine while providing for her son, Leon, who dreams of becoming a radical philosopher. After he gives a lecture that sparks riot in his local theatre, Leon must pay for damages he caused, and relies upon his mother to do so. Later in the opera, Leon becomes a pimp - he is joined by a high class escort and two noblemen who introduce Leon and his mother to cocaine. His mother dies, and all that's left in the opera is an epilogue in the form of a dream sequence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524860281835/GasmaskA.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524860281835/GasmaskA.jpg.jpg)
 <figcaption>Photo: Lottie Bowater.</figcaption>
 </figure>
 
@@ -26,7 +35,9 @@ I would place Merz and Osborn's opera somewhere in the middle of absurdist and l
 
 A director's note from Frederic Wake-Walker remarks on opera, as a genre, being obsessed with death, as well as the mortality of this art form. Unfortunately this production seemed to highlight the death of funding for opera and contemporary music. Although the premiere of *The Mother* boasts a commission and grant funding from numerous foundations and trusts, the only thing I could think while watching this piece was how low the budget must have been to put on this one night. The result of this was something less than a finished product - watching performers dressed in all black awkwardly move about a messy stage didn't transport me into any world other than our own venue of the Polish Social and Cultural Association.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524860288749/woolA.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524860288749/woolA.jpg.jpg)
 <figcaption>Photo: Lottie Bowater.</figcaption>
 </figure>
 

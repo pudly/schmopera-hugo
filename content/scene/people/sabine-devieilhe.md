@@ -1,15 +1,20 @@
-+++
-date = "2017-09-13T09:51:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-13T09:51:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505310576525/rubon14.png.png"
-primary_image_credit = "Ouistiti"
-publishDate = "2017-09-13T09:51:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md","scene/companies/glyndebourne.md","scene/companies/la-monnaie.md"]
-slug = "sabine-devieilhe"
-title = "Sabine Devieilhe"
-website = "http://www.sabinedevieilhe.com/"
-+++
+---
+_template: people_single
+date: "2017-09-13T09:51:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-13T09:51:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505310576525/rubon14.png.png
+primary_image_credit: Ouistiti
+publishDate: "2017-09-13T09:51:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/glyndebourne.md
+- scene/companies/la-monnaie.md
+slug: sabine-devieilhe
+title: Sabine Devieilhe
+website: http://www.sabinedevieilhe.com/
+---
 
 After cello and musicology studies, Sabine Devieilhe followed the teachings of Jocelyne Chamonin, Martine Surais, Pierre Mervant, Malcolm Walker or Kenneth Weiss, Anne Le Bozec, Susan Manoff, Olivier Reboul and Elène Golgevit. She received the First Price unanimously with the congratulations of the jury of the Paris Conservatoire National Supérieur de Musique et de Danse in 2011. Parallel to her studies she starts a close collaboration with ensembles like Pygmalion (cond. Raphaël Pichon) and Les Cris de Paris (cond. Geoffroy Jourdain) and performs a large repertory from ancient music to contemporary music, while she approachs the baroque repertory from Bach to Rameau with Jean-Claude Malgoire and Alexis Kossenko and while the Orchestre National d’Ile de France (L’enfant et les sortilèges, cond. David Levi) and the Orchestre de Paris give her access to other stages. She also performs in concert with Les Arts Florissants, Marc Minkowski and Les Musiciens du Louvre, Hervé Niquet and Le Concert Spirituel…
 

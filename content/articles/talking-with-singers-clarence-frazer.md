@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-12-12T14:21:00-05:00"
-lastmod = "2017-12-13T04:49:00-05:00"
-preamble = "Baritone [Clarence Frazer](/scene/people/clarence-frazer/) strikes a fine balance between singing staple roles like Figaro in *Il barbiere di Siviglia* and Guglielmo in *Così fan tutte*, and taking on the more contemporary, like Sam in Rolfe's [*Crush*](http://calgaryherald.com/entertainment/music/opera-review-my-crush-on-rolfe-and-chattertons-latest-success) and Jean in the North American premiere of Boesman's [*Julie*](/in-review-julie/).\n\nHe is the recipient of this year's [IRCPA](http://ircpa.net/) Career Blueprint Award; he'll spend three days at National Opera Center, provided with new professional photographs, website consultation, video and audio recordings, and mentoring with professionals.\n\nIt was great to chat with Frazer about the rush he gets from working on something as collective as opera, and the special kind of patience that many young baritones need to have."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513106040682/2017-12-12---Clarence-Frazer.jpg.jpg"
-publishDate = "2017-12-12T20:35:00-05:00"
-related_articles = ["articles/talking-with-singers-zachary-nelson.md","articles/talking-with-singers-craig-irvin.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/calgary-opera-emerging-artist-development-program.md","scene/companies/opra-de-qubec.md"]
-related_people = ["scene/people/clarence-frazer.md"]
-short_description = "&quot;Only if you are 100% prepared can you make art, can you make music. This is where the fun is. This is where the passion is. This where the reward is. It&#039;s amazing when you know something so well, how rewarding the rehearsal and performance process will be, the discoveries you&#039;ll make, in the music, with your colleagues and with yourself.&quot;"
-slug = "talking-with-singers-clarence-frazer"
-title = "Talking with singers: Clarence Frazer"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-12-12T14:21:00-05:00"
+lastmod: "2017-12-13T04:49:00-05:00"
+preamble: |-
+  Baritone [Clarence Frazer](/scene/people/clarence-frazer/) strikes a fine balance between singing staple roles like Figaro in *Il barbiere di Siviglia* and Guglielmo in *Così fan tutte*, and taking on the more contemporary, like Sam in Rolfe's [*Crush*](http://calgaryherald.com/entertainment/music/opera-review-my-crush-on-rolfe-and-chattertons-latest-success) and Jean in the North American premiere of Boesman's [*Julie*](/in-review-julie/).
+
+  He is the recipient of this year's [IRCPA](http://ircpa.net/) Career Blueprint Award; he'll spend three days at National Opera Center, provided with new professional photographs, website consultation, video and audio recordings, and mentoring with professionals.
+
+  It was great to chat with Frazer about the rush he gets from working on something as collective as opera, and the special kind of patience that many young baritones need to have.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513106040682/2017-12-12---Clarence-Frazer.jpg.jpg
+publishDate: "2017-12-12T20:35:00-05:00"
+related_articles:
+- articles/talking-with-singers-zachary-nelson.md
+- articles/talking-with-singers-craig-irvin.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/calgary-opera-emerging-artist-development-program.md
+- scene/companies/opra-de-qubec.md
+related_people:
+- scene/people/clarence-frazer.md
+short_description: '&quot;Only if you are 100% prepared can you make art, can you
+  make music. This is where the fun is. This is where the passion is. This where the
+  reward is. It&#039;s amazing when you know something so well, how rewarding the
+  rehearsal and performance process will be, the discoveries you&#039;ll make, in
+  the music, with your colleagues and with yourself.&quot;'
+slug: talking-with-singers-clarence-frazer
+title: 'Talking with singers: Clarence Frazer'
+---
 
 ## Why do you sing professionally?
 
@@ -38,7 +54,9 @@ Only if you are 100% prepared can you make art, can you make music. This is wher
 
 To my younger self and any young singer out there: do yourself a favour, and be 100% prepared on day one. Trust me, you'll enjoy it!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513116961503/BarberES-MC-3225.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513116961503/BarberES-MC-3225.jpg.jpg)
 <figcaption>Iain MacNeil (left) as Bartolo and Clarence Frazer as Figaro in the COC Ensemble Studio performance of *Il barbiere di Siviglia*, Canadian Opera Company, 2015. Photo by Michael Cooper.</figcaption>
 </figure>
 

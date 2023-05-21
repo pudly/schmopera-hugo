@@ -1,19 +1,43 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-04-27T13:11:00-04:00"
-lastmod = "2015-04-28T10:39:00-04:00"
-preamble = "The Bicycle Opera Project has [announced its 2015 season](http://bicycleopera.com/2015-season-announcement), which will take them from Toronto to Cape Breton, and back again. I'm so thrilled for BOP, who have a packed season of new Canadian works, including a couple of premieres. \n\nThey'll be heading out to Cape Breton to workshop Dean Burry and Lorna MacDonald's opera *The Bells of Baddeck*, on top of appearing at the Royal Conservatory's 21C Music Festival ([May 21st, 10pm, Mazzoleni Hall](http://performance.rcmusic.ca/event/21C/after_hours_1)), and touring their new production, *shadow box*, a collection of Canadian operas. Of course, they'll do all of this by bicycle, which I think is pretty rad. This season's BOP artists include:\n\n* Liza Balkan, stage director\n* Larissa Koniuk, soprano\n* Stephanie Tritchew, mezzo-soprano\n* Graham Thomson, tenor\n* Alexander Dobson\n* Christopher Enns, tenor\n* Geoffrey Sirett, baritone\n* Wesley Shen, piano\n* Ilana Waniuk, violin\n* Erika Nielsen, cello\n* Sonja Rainey, set designer/projectionist\n\nI had the chance to chat with soprano and Bicycle Opera Project co-founder [Larissa Koniuk](http://bicycleopera.com/artists/co-founders/) about their exciting season, and all those kilometres the team will cover this summer."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430154575919/BOP1.jpg.jpg"
-primary_image_credit = "Photo by Gary Lloyd-Rees"
-publishDate = "2015-04-28T10:29:00-04:00"
-related_articles = ["articles/the-case-for-nomadic-opera.md","articles/the-bicycle-opera-project-at-21c.md"]
-related_companies = ["scene/companies/the-bicycle-opera-project.md"]
-related_people = ["scene/people/larissa-koniuk.md","scene/people/geoffrey-sirett.md","scene/people/christopher-enns.md","scene/people/dean-burry.md"]
-short_description = "The Bicycle Opera Project has announced its 2015 season, which will take them from Toronto to Cape Breton, and back again. I&#039;m so thrilled for BOP, who have a packed season of new Canadian works, including a couple of premieres."
-slug = "chatting-with-the-bicycle-opera-project"
-title = "Chatting with the Bicycle Opera Project"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-04-27T13:11:00-04:00"
+lastmod: "2015-04-28T10:39:00-04:00"
+preamble: "The Bicycle Opera Project has [announced its 2015 season](http://bicycleopera.com/2015-season-announcement),
+  which will take them from Toronto to Cape Breton, and back again. I'm so thrilled
+  for BOP, who have a packed season of new Canadian works, including a couple of premieres.
+  \n\nThey'll be heading out to Cape Breton to workshop Dean Burry and Lorna MacDonald's
+  opera *The Bells of Baddeck*, on top of appearing at the Royal Conservatory's 21C
+  Music Festival ([May 21st, 10pm, Mazzoleni Hall](http://performance.rcmusic.ca/event/21C/after_hours_1)),
+  and touring their new production, *shadow box*, a collection of Canadian operas.
+  Of course, they'll do all of this by bicycle, which I think is pretty rad. This
+  season's BOP artists include:\n\n* Liza Balkan, stage director\n* Larissa Koniuk,
+  soprano\n* Stephanie Tritchew, mezzo-soprano\n* Graham Thomson, tenor\n* Alexander
+  Dobson\n* Christopher Enns, tenor\n* Geoffrey Sirett, baritone\n* Wesley Shen, piano\n*
+  Ilana Waniuk, violin\n* Erika Nielsen, cello\n* Sonja Rainey, set designer/projectionist\n\nI
+  had the chance to chat with soprano and Bicycle Opera Project co-founder [Larissa
+  Koniuk](http://bicycleopera.com/artists/co-founders/) about their exciting season,
+  and all those kilometres the team will cover this summer."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430154575919/BOP1.jpg.jpg
+primary_image_credit: Photo by Gary Lloyd-Rees
+publishDate: "2015-04-28T10:29:00-04:00"
+related_articles:
+- articles/the-case-for-nomadic-opera.md
+- articles/the-bicycle-opera-project-at-21c.md
+related_companies:
+- scene/companies/the-bicycle-opera-project.md
+related_people:
+- scene/people/larissa-koniuk.md
+- scene/people/geoffrey-sirett.md
+- scene/people/christopher-enns.md
+- scene/people/dean-burry.md
+short_description: The Bicycle Opera Project has announced its 2015 season, which
+  will take them from Toronto to Cape Breton, and back again. I&#039;m so thrilled
+  for BOP, who have a packed season of new Canadian works, including a couple of premieres.
+slug: chatting-with-the-bicycle-opera-project
+title: Chatting with the Bicycle Opera Project
+---
 
 ### 1. Can you tell us any details about what audiences will hear from BOP this summer?
 
@@ -26,7 +50,9 @@ Back by popular demand, our program would not be complete without *Bianchi: A f
 
 And finally, we are pleased to be premiering a brand new Bicycle Opera commission: *Ride of the Bicycle Bells*, a miniature piece by Chris Thornborrow for 11 bicycle bells and one bike horn!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430155855338/14515384548_8696c9b9dd_o.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430155855338/14515384548_8696c9b9dd_o.jpg.jpg)
 <figcaption>Photo by Gary Lloyd-Rees</figcaption>
 </figure>
 
@@ -44,7 +70,9 @@ Bicycle Opera is taking advantage of our residence in Baddeck to embark on our o
 
 We create minimalist sets and staging to ensure that we can tour exclusively by bicycle. Typically cast members pack their personal stuff into two panniers/saddle bags that are carried on bike, and two bicycle trailers are used which are packed with props, costumes, and instruments. Sonja is creating a set and costume design that is based on economy, utilizing bicycle gear that we will be bringing along anyway. While we will always stay true to our pared down approach, adding set and projection art elements for shadow box means we will have to expand from a two-trailer show to four! (Well, actually this is still up for debate. Geoff thinks three trailers will be plenty after consulting the Google maps altitude graph for Nova Scotia.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430156000088/14679046396_4a4e557a9e_o.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430156000088/14679046396_4a4e557a9e_o.jpg.jpg)
 <figcaption>Photo by Gary Lloyd-Rees</figcaption>
 </figure>
 

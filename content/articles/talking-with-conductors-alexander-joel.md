@@ -1,18 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-12-29T21:05:00-05:00"
-lastmod = "2018-01-01T19:53:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514599352183/2017-12-29---Alex_Joel_credit-Julia-Wesely-9467.jpg.jpg"
-primary_image_credit = "Photo: Julia Wesely."
-publishDate = "2018-01-01T19:53:00-05:00"
-related_articles = ["articles/talking-with-conductors-harry-bicket.md","articles/gordon-gerrard-music-doesnt-really-work-without-breath.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/alexander-joel.md"]
-short_description = "&quot;I actually started off by doing only operetta,&quot; Joel notes, insistent that learning to lead operas with a lot of rubato is the best way into the technique of conducting. &quot;You have to know how to really control the orchestra with singers, to feel where they&#039;re going to move.&quot;"
-slug = "talking-with-conductors-alexander-joel"
-title = "Talking with conductors: Alexander Joel"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-12-29T21:05:00-05:00"
+lastmod: "2018-01-01T19:53:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514599352183/2017-12-29---Alex_Joel_credit-Julia-Wesely-9467.jpg.jpg
+primary_image_credit: 'Photo: Julia Wesely.'
+publishDate: "2018-01-01T19:53:00-05:00"
+related_articles:
+- articles/talking-with-conductors-harry-bicket.md
+- articles/gordon-gerrard-music-doesnt-really-work-without-breath.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/alexander-joel.md
+short_description: '&quot;I actually started off by doing only operetta,&quot; Joel
+  notes, insistent that learning to lead operas with a lot of rubato is the best way
+  into the technique of conducting. &quot;You have to know how to really control the
+  orchestra with singers, to feel where they&#039;re going to move.&quot;'
+slug: talking-with-conductors-alexander-joel
+title: 'Talking with conductors: Alexander Joel'
+---
 
 "I think it's brilliant," says maestro [Alexander Joel](/scene/people/alexander-joel/) of David McVicar's production of *Rigoletto*, currently [onstage at the Royal Opera House](http://www.roh.org.uk/productions/rigoletto-by-david-mcvicar). "Probably the best production of *Rigoletto* I've ever conducted."
 
@@ -22,7 +30,9 @@ The production reminds its audience of the disparity between Rigoletto's world, 
 
 "He has to make fun of all the people in the Duke's court, so he retains the favour of the Duke. In doing so, he provokes their wrath." Be it unconsciously, or the result of a malicious decision, the Duke essentially forces Rigoletto to be an outcast. "He knows he has to be horrible to keep working, to feed his daughter." Of course, the final nail comes when the Duke decides to seduce the naïve, sheltered Gilda - Rigoletto's only living family. "He's desperately scared of losing her."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514599380636/2017-12-20---SOFIA-FOMINA-AS-GILDA%252C-DIMITIRI-PLATANIAS-AS-RIGOLETTO-ROH.-PHOTO-BY-MARK-DOUET_31B2293.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514599380636/2017-12-20---SOFIA-FOMINA-AS-GILDA%252C-DIMITIRI-PLATANIAS-AS-RIGOLETTO-ROH.-PHOTO-BY-MARK-DOUET_31B2293.jpg.jpg)
 <figcaption>Sofia Fomina (Gilda) and Dimitri Platanias (Rigoletto) in Rigoletto, ROH, 2017. Photo: Mark Douet.</figcaption>
 </figure>
 
@@ -38,7 +48,9 @@ Still, Joel knows well that working in opera is inevitably a collaborative, co-o
 
 Joel's conducting career began as many have traditionally done, from the piano bench as an operatic coach and répétiteur. "You have to really know how to accompany a singer: lead a singer, help a singer, feel a singer. What voice is he in tonight? Shall I do the tempo slightly faster, slightly slower?" The ability to make these decisions comes out of working closely with singers - in the way that coaches do - which is why perhaps until a few decades ago, "careers used to be made" at the piano.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514599407175/2017-12-29---Alex_Joel_credit-Julia-Wesely-9633.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1514599407175/2017-12-29---Alex_Joel_credit-Julia-Wesely-9633.jpg.jpg)
 <figcaption>Alexander Joel, conductor. Photo by Julia Wesely.</figcaption>
 </figure>
 

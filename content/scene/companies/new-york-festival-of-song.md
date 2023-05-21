@@ -1,26 +1,26 @@
-+++
-date = "2016-10-26T12:33:00+01:00"
-lastmod = "2016-10-26T12:37:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477481696703/Logo---NYFOS.jpg.jpg"
-publishDate = "2016-10-26T12:37:00+01:00"
-related_people = ["scene/people/benjamin-dickerson.md"]
-slug = "new-york-festival-of-song"
-title = "New York Festival of Song"
-type_of_company = "Recital series"
-website = "http://nyfos.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/NYFOSonFB"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/NYFOS_tweet"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/nyfostv"
-+++
+---
+date: "2016-10-26T12:33:00+01:00"
+lastmod: "2016-10-26T12:37:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477481696703/Logo---NYFOS.jpg.jpg
+publishDate: "2016-10-26T12:37:00+01:00"
+related_people:
+- scene/people/benjamin-dickerson.md
+slug: new-york-festival-of-song
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/NYFOSonFB
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/NYFOS_tweet
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/nyfostv
+title: New York Festival of Song
+type_of_company: Recital series
+website: http://nyfos.org/
+---
 
 ### Our Vision
 

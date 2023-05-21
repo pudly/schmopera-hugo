@@ -1,22 +1,29 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-05-09T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Boston Lyric Opera's production of [_The Handmaid's Tale_](https://blo.org/handmaids/) runs through May 12. "
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557423805/media/2019/05/sqBLO2019-HMT-9445.jpg"
-primary_image_credit = "Jennifer Johnson Cado (Offred) in The Handmaid's Tale, Boston Lyric Opera, 2019. Photo: Liza Voll."
-related_articles = ["articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md"]
-related_companies = ["scene/companies/boston-lyric-opera.md"]
-related_people = ["scene/people/jennifer-johnson-cano.md"]
-short_description = "There is so much to like musically because Ruders stays true to Atwood's novel while finding time to let the music tell the drama on its own that it is indeed a good thing that it has finally found its cultural moment."
-slug = "installation-handmaids-tale-a-dramatic-chilling-staging"
-title = "Installation Handmaid's Tale a dramatic, chilling staging"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-05-09T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: 'Boston Lyric Opera''s production of [_The Handmaid''s Tale_](https://blo.org/handmaids/)
+  runs through May 12. '
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557423805/media/2019/05/sqBLO2019-HMT-9445.jpg
+primary_image_credit: 'Jennifer Johnson Cado (Offred) in The Handmaid''s Tale, Boston
+  Lyric Opera, 2019. Photo: Liza Voll.'
+related_articles:
+- articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md
+related_companies:
+- scene/companies/boston-lyric-opera.md
+related_people:
+- scene/people/jennifer-johnson-cano.md
+short_description: There is so much to like musically because Ruders stays true to
+  Atwood's novel while finding time to let the music tell the drama on its own that
+  it is indeed a good thing that it has finally found its cultural moment.
+slug: installation-handmaids-tale-a-dramatic-chilling-staging
+title: Installation Handmaid's Tale a dramatic, chilling staging
+youtube_url: ""
+---
 Whenever an opera is presented outside of the typical proscenium format, I think it is often required to ask oneself the effect this would have on the performance. Even if the work does not specifically address the audience, any production presented with decreased distance from the audience will beg for a different kind of engagement from its audience. Sometimes, this can work to an opera's disadvantage, for it leaves the singers very few places to hide and can expose holes in a not-so-worthy piece. But sometimes, this works beautifully, and nowhere have I seen such a great example of this than Boston Lyric Opera's production of Poul Ruder's opera [_The Handmaid's Tale_](https://blo.org/handmaids/).
 
 This production of _Handmaid's Tale_ was staged in a basketball court, stylized with an arena-style seating arrangement which stared on the action from three different angles. (The only remaining angle was where the rather large orchestra was situated.) The effect, as with BLO's recent production of _Rape of Lucretia_, was to focus the action on everything happening in the center of the whole affair.
@@ -25,7 +32,9 @@ This production of _Handmaid's Tale_ was staged in a basketball court, stylized 
 
 However, unlike _Lucretia_, this production of _Handmaid's Tale_ had no height above the audience, and all of the action played out in a rather small rectangle in the center of the venue which was surrounded on all four sides by chest-high walls. This kind of tight, arena-style staging amplified the themes present in Margaret Atwood's dystopian novel to a new, incredibly visceral level: the arena seating brought a voyeuristic feel to the whole affair, and the result made the action in the center of the arena claustrophobic and stifling in a way that would have been lost in a traditional proscenium staging.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557424522/media/2019/05/BLO2019-HMT-9199.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557424522/media/2019/05/BLO2019-HMT-9199.jpg)
 
 <figcaption>Jennifer Johnson Cano (Offred) in The Handmaid's Tale, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
@@ -45,7 +54,9 @@ Ruders' choice of musical identity for each part of the story also adds to the w
 
 Even the way Ruders sets the text honors Atwood's themes: the singers often fly right up to their highest registers with a nervous energy no doubt borne out of their circumstances, and lest you think it is a weird idiosyncrasy of Ruders' style it is worth pointing out how fitting it is that Commander Fred, the character with the most power and thus the most leeway to do whatever he wants, is both a bass and the character whose vocal writing flies into the stratosphere the least out of everyone else in the opera.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557424540/media/2019/05/BLO2019-HMT-9258.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557424540/media/2019/05/BLO2019-HMT-9258.jpg)
 
 <figcaption>Caroline Worra (Aunt Lydia) in The Handmaid's Tale, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
@@ -59,7 +70,9 @@ Overall, there is so much to like musically because Ruders stays true to Atwood'
 
 And of course, tying this all together is Offred herself. I cannot imagine that preparing for a role such as Offred is particularly easy by any stretch of the imagination: in this production, the only time she ever left the stage was to facilitate a quick change after Commander Fred takes her to an illicit sex party, and she spends a good chunk of this time absolutely singing her face off. It is a role that easily rivals roles like Elektra and Brünnhilde in terms of the demands on the singer's voice, but it also adds the challenge of having to embody a character who spends the entire work dealing with trauma while also living under patriarchal oppression, a characterization demand which would no doubt wear at the nerves of even the most steel-hearted woman.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557424556/media/2019/05/BLO2019-HMT-9388.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557424556/media/2019/05/BLO2019-HMT-9388.jpg)
 
 <figcaption>Michelle Trainor (Ofglen) and Jennifer Johnson Cano (Offred) in The Handmaid's Tale, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 
@@ -71,7 +84,9 @@ And here, mezzo-soprano [Jennifer Johnson Cano](/scene/people/jennifer-johnson-c
 
 Any faults with a production like this essentially came down to nitpicks. Perhaps the staging of the climactic final quartet between Offred, the Commander, Serena Joy, and the household's Martha could have been done in a way that gave all four voices a chance to balance more evenly to the sides of the house as well as the front. Perhaps Ruders should have started a scene where Offred and the Commander play a game of Scrabble at a slower tempo and sped up into Offred's victory. Perhaps the projections on the walls should have taken a touch more attention to not look rather Photoshopped when it came to displaying images of hanged people that are left as visible reminders of what could happen to the characters should they choose to step outside of Gilead's societal norms. But when you have to nitpick to find fault with a production like this, it only stands as a testament to its quality.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557424583/media/2019/05/BLO2019-HMT-9539.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557424583/media/2019/05/BLO2019-HMT-9539.jpg)
 
 <figcaption>Jennifer Johnson Cano (Offred) and David Cushing (Commander) in The Handmaid's Tale, Boston Lyric Opera, 2019. Photo: Liza Voll.</figcaption>
 

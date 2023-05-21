@@ -1,17 +1,30 @@
-+++
-author = ["authors/adam-iannetta.md"]
-categories = "Op-ed"
-date = "2016-08-24T13:47:00+01:00"
-lastmod = "2016-08-25T09:09:00+01:00"
-preamble = "This is a guest post by baritone [Adam Iannetta](/scene/people/adam-iannetta/), who recently launched [The Savvy Singer](http://thesavvysinger.com/) blog with soprano [Brianna DeSantis](/scene/people/brianna-desantis/)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472112546816/2016-08-26---Lightbulb.jpg.jpg"
-publishDate = "2016-08-25T09:09:00+01:00"
-related_articles = ["articles/mark-morris-clarity.md","articles/concert-etiquette-or-put-down-your-phone.md","articles/dont-miss-rhiannon-giddens-at-merkin-concert-hall.md","articles/tenors-redemption-at-an-historic-grey-cup-in-toronto.md"]
-related_people = ["scene/people/adam-iannetta.md","scene/people/brianna-desantis.md"]
-short_description = "So, the next time you get hit with a flash of &quot;inspiration&quot; to change something during the middle of a live show, STOP! Take a moment to consider the consequences of your potential actions as well as who they might impact. Nine times out of ten, you&#039;ll put more than just your own career at risk; ten times out of ten, you’ll always put your own career at risk. "
-slug = "united-we-stand-divided-we-fall"
-title = "United we stand, divided we fall"
-+++
+---
+author:
+- authors/adam-iannetta.md
+categories: Op-ed
+date: "2016-08-24T13:47:00+01:00"
+lastmod: "2016-08-25T09:09:00+01:00"
+preamble: This is a guest post by baritone [Adam Iannetta](/scene/people/adam-iannetta/),
+  who recently launched [The Savvy Singer](http://thesavvysinger.com/) blog with soprano
+  [Brianna DeSantis](/scene/people/brianna-desantis/).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472112546816/2016-08-26---Lightbulb.jpg.jpg
+publishDate: "2016-08-25T09:09:00+01:00"
+related_articles:
+- articles/mark-morris-clarity.md
+- articles/concert-etiquette-or-put-down-your-phone.md
+- articles/dont-miss-rhiannon-giddens-at-merkin-concert-hall.md
+- articles/tenors-redemption-at-an-historic-grey-cup-in-toronto.md
+related_people:
+- scene/people/adam-iannetta.md
+- scene/people/brianna-desantis.md
+short_description: 'So, the next time you get hit with a flash of &quot;inspiration&quot;
+  to change something during the middle of a live show, STOP! Take a moment to consider
+  the consequences of your potential actions as well as who they might impact. Nine
+  times out of ten, you&#039;ll put more than just your own career at risk; ten times
+  out of ten, you’ll always put your own career at risk. '
+slug: united-we-stand-divided-we-fall
+title: United we stand, divided we fall
+---
 
 I was inspired to write this article following the events of the MLB All-star game, where Canadian quartet, The Tenors, left sports fans strikingly disenthralled on the upcoming baseball game. It was during the pre-game performance of the Canadian national anthem that group member, Remigio Pereira, decided to alter the original lyrics of the anthem: "We're all brothers and sisters, all lives matter to the great," in place of "With glowing hearts we see thee rise, the True North strong and free." 
 

@@ -1,18 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-10T22:31:00-04:00"
-lastmod = "2015-04-10T22:31:00-04:00"
-preamble = "<p>\n\tMusicians come in many kinds, and most work with a fascinating balance of pragmatism and imagination. We, like other artists, get a reputation for having our heads in the clouds, for making decisions based on emotion instead of reason. We are artsy-fartsy. I know as well as any other musician that we also have stunning moments of reason and logic (think: memorizing music). I tend to favour logic in my everyday life, but during a recent practice session, it occurred to me that there are major logical fallacies that musicians commit every single day. Bear with me:\n</p>"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549337402/media/2019/02/sqLogic.jpg"
-primary_image_credit = ""
-publishDate = "2015-03-14T10:31:00-04:00"
-related_articles = ["articles/4-ways-that-opera-really-is-life.md"]
-short_description = "Musicians come in many kinds, and most work with a fascinating balance of pragmatism and imagination. We, like other artists, get a reputation for having our heads in the clouds, for making decisions based on emotion instead of reason. We are artsy-fartsy. "
-slug = "proof-that-music-is-simply-unreasonable"
-title = "Proof that Music is Simply Unreasonable"
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-10T22:31:00-04:00"
+lastmod: "2015-04-10T22:31:00-04:00"
+preamble: "<p>\n\tMusicians come in many kinds, and most work with a fascinating balance
+  of pragmatism and imagination. We, like other artists, get a reputation for having
+  our heads in the clouds, for making decisions based on emotion instead of reason.
+  We are artsy-fartsy. I know as well as any other musician that we also have stunning
+  moments of reason and logic (think: memorizing music). I tend to favour logic in
+  my everyday life, but during a recent practice session, it occurred to me that there
+  are major logical fallacies that musicians commit every single day. Bear with me:\n</p>"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549337402/media/2019/02/sqLogic.jpg
+primary_image_credit: ""
+publishDate: "2015-03-14T10:31:00-04:00"
+related_articles:
+- articles/4-ways-that-opera-really-is-life.md
+short_description: 'Musicians come in many kinds, and most work with a fascinating
+  balance of pragmatism and imagination. We, like other artists, get a reputation
+  for having our heads in the clouds, for making decisions based on emotion instead
+  of reason. We are artsy-fartsy. '
+slug: proof-that-music-is-simply-unreasonable
+title: Proof that Music is Simply Unreasonable
+---
 <h2>Appealing to Authority and Tradition</h2>
 <p>
 	<a href="http://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" data-mce-href="http://en.wikipedia.org/wiki/Argument_from_authority">Appealing to authority</a> means that you believe something is true because of the authority of the person asserting it. Anyone who owns books like Pierre Bernac's <em>The Interpretation of French Song</em>, or the Ricci <em>Variations, Cadenzas and Traditions for Singing,</em> knows what I mean. Singers read Bernac for their French rep, the <em>Fischer-Dieskau Book of Lieder</em> for their German, and consult Ricci for ornaments and cadenzas in Italian opera. If it's not authority, it's <a href="http://en.wikipedia.org/wiki/Appeal_to_tradition" target="_blank" data-mce-href="http://en.wikipedia.org/wiki/Appeal_to_tradition">Tradition</a>, meaning that because singers have <em>always</em> sung a <em>subito pianissimo</em> on that note, it must be the right thing to do. It's not necessarily that singers can't imagine any of these things for themselves, but it's true that they could get criticized (and perhaps not re-hired) if they don't appeal to biggies like Bernac and Ricci and the Historically Informed Performance scene. Interestingly, people like Ricci and Bernac have become seen as authorities because of the <a href="http://en.wikipedia.org/wiki/Appeal_to_tradition" target="_blank" data-mce-href="http://en.wikipedia.org/wiki/Appeal_to_tradition">Appeal to Tradition</a> logical fallacy.

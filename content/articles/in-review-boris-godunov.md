@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-03-19T10:32:00+00:00"
-lastmod = "2016-03-19T15:05:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458398140443/Square---BRYN-TERFEL-AS-BORIS-GODUNOV-ROH-PHOTOGRAPH-BY-CATHERINE-ASHMORE.jpg.jpg"
-primary_image_credit = "Bryn Terfel as Boris Godunov. Copyright: ROH. Photo by Catherine Ashmore."
-publishDate = "2016-03-19T14:50:00+00:00"
-related_articles = ["articles/in-review-il-trittico-at-roh.md","articles/in-review-jenufa-czech-philharmonic.md","articles/in-review-tannhauser-at-roh.md","articles/in-review-cosi-fan-tutte-at-roh.md","articles/hibla-gerzmava-danielle-akta-with-the-moscow-virtuosi.md","articles/overdue-for-a-chicago-performance-the-haunted-manor.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/bryn-terfel.md","scene/people/ain-anger.md","scene/people/david-butt-philip.md"]
-short_description = "Richard Jones makes much of this incessant guilt, exaggerating the unjustness of Boris&#039; actions with childish images of colourful spinning tops and a cherub-like mask on the silent Dmitry. Jones carries the image through the final tableau, driving home the sacrifices of the young and innocent, when men seek political power."
-slug = "in-review-boris-godunov"
-title = "In review: Boris Godunov"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-03-19T10:32:00+00:00"
+lastmod: "2016-03-19T15:05:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458398140443/Square---BRYN-TERFEL-AS-BORIS-GODUNOV-ROH-PHOTOGRAPH-BY-CATHERINE-ASHMORE.jpg.jpg
+primary_image_credit: 'Bryn Terfel as Boris Godunov. Copyright: ROH. Photo by Catherine
+  Ashmore.'
+publishDate: "2016-03-19T14:50:00+00:00"
+related_articles:
+- articles/in-review-il-trittico-at-roh.md
+- articles/in-review-jenufa-czech-philharmonic.md
+- articles/in-review-tannhauser-at-roh.md
+- articles/in-review-cosi-fan-tutte-at-roh.md
+- articles/hibla-gerzmava-danielle-akta-with-the-moscow-virtuosi.md
+- articles/overdue-for-a-chicago-performance-the-haunted-manor.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/bryn-terfel.md
+- scene/people/ain-anger.md
+- scene/people/david-butt-philip.md
+short_description: Richard Jones makes much of this incessant guilt, exaggerating
+  the unjustness of Boris&#039; actions with childish images of colourful spinning
+  tops and a cherub-like mask on the silent Dmitry. Jones carries the image through
+  the final tableau, driving home the sacrifices of the young and innocent, when men
+  seek political power.
+slug: in-review-boris-godunov
+title: 'In review: Boris Godunov'
+---
 
 Last night's *Boris Godunov* at the [Royal Opera House](/scene/companies/royal-opera-house/) was an exciting time. [Bryn Terfel](/scene/people/bryn-terfel.) had his second performance in the title role, a new one for him, and Music Director Anthony Pappano took the podium to conduct this new production by Richard Jones. The ROH presents, for the first time, the rarely heard [1869 version](https://en.wikipedia.org/wiki/Boris_Godunov_(opera)#Versions) of Musorgsky's score, slimmer in scenes and truer to Pushkin's drama. There was no interval for the production, and the story unfolded uncomfortably and relentlessly as a result, putting the audience in shoes similar to those of Tsar Boris himself.
 
@@ -24,7 +40,9 @@ Boris gains his place as Tsar of Russian, after murdering Dmitry, the young, tru
 
 Pappano pulled enormous, rich sound from the orchestra, chorus, and soloists; Musorgsky's score is daunting, reminding us of huge buildings and loud bells and large systems of political power. Miriam Buether's sets mirrored the wide scope of the music, creating spaces that loomed large, often filled with Kremlin-reminiscent colour through Nicky Gillibrand's stunning costumes. It all looked quite Russian, in perhaps a stereotypical way; yet there was truth to this *Boris Godunov*, helped by a strong cast of singers.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458398645820/BRYN-TERFEL-AS-BORIS-GODUNOV-BEN-KNIGHT-AS-FYODOR-ROH-PHOTOGRAPH-BY-CATHERINE-ASHMORE.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458398645820/BRYN-TERFEL-AS-BORIS-GODUNOV-BEN-KNIGHT-AS-FYODOR-ROH-PHOTOGRAPH-BY-CATHERINE-ASHMORE.jpg.jpg)
 <figcaption>Bryn Terfel as Boris Godunov, Ben Knight as Fyodor. Copyright: ROH. Photograph by Catherine Ashmore.</figcaption>
 </figure>
 

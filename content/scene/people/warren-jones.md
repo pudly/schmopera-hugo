@@ -1,14 +1,20 @@
-+++
-date = "2015-05-25T18:08:00+01:00"
-discipline = "Pianist, conductor"
-lastmod = "2016-11-24T14:11:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479996113999/2016-11-24---WarrenJones.jpg.jpg"
-publishDate = "2015-05-25T18:33:00+01:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/the-juilliard-school.md","scene/companies/manhattan-school-of-music.md","scene/companies/music-academy-of-the-west-voice-program.md"]
-slug = "warren-jones"
-title = "Warren Jones"
-website = "http://www.warrenjones.com/home.html"
-+++
+---
+_template: people_single
+date: "2015-05-25T18:08:00+01:00"
+discipline: Pianist, conductor
+lastmod: "2016-11-24T14:11:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479996113999/2016-11-24---WarrenJones.jpg.jpg
+publishDate: "2015-05-25T18:33:00+01:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/manhattan-school-of-music.md
+- scene/companies/music-academy-of-the-west-voice-program.md
+slug: warren-jones
+title: Warren Jones
+website: http://www.warrenjones.com/home.html
+---
 
 Warren Jones has recently been named as "Collaborative Pianist of the Year" for 2010 by the publication Musical America. He performs with many of today’s best-known artists, including Stephanie Blythe, Denyce Graves, Dame Kiri Te Kanawa, Anthony Dean Griffey, Ruth Ann Swenson, Bo Skovhus, Samuel Ramey, James Morris, John Relyea, Joseph Alessi, and Richard “Yongjae” O’Neill—and is Principal Pianist for the exciting California-based chamber music group Camerata Pacifica. In the past he has partnered such great performers as Marilyn Horne, Håkan Hagegård, Kathleen Battle, Barbara Bonney, Carol Vaness, Judith Blegen, Tatiana Troyanos and Martti Talvela. His collaborations have earned consistently high praise from many publications: *The Boston Globe* termed him "flawless" and "utterly ravishing"; *The New York Times*, "exquisite"; and *The San Francisco Chronicle* said simply, "He is the single finest accompanist now working."
 

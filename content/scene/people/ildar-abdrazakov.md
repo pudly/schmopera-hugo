@@ -1,25 +1,32 @@
-+++
-discipline = "Bass"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1587928711/media/2020/04/IldarAbdrazakov-AntonWelt_ish0mk.png"
-primary_image_credit = "Anton Welt"
-related_companies = ["scene/companies/gran-teatre-del-liceu.md", "scene/companies/washington-national-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/staatsoper-berlin.md", "scene/companies/opra-national-de-paris.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "ildar-abdrazakov"
-title = "Ildar Abdrazakov"
-website = "http://ildarabdrazakov.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/abdrazakov/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/IldarAbdrazakov/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCI93cBbQ_t_Fm6jU_BBvO9g"
-
-+++
+---
+discipline: Bass
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1587928711/media/2020/04/IldarAbdrazakov-AntonWelt_ish0mk.png
+primary_image_credit: Anton Welt
+related_companies:
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/washington-national-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/the-metropolitan-opera.md
+slug: ildar-abdrazakov
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/abdrazakov/
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/IldarAbdrazakov/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCI93cBbQ_t_Fm6jU_BBvO9g
+title: Ildar Abdrazakov
+website: http://ildarabdrazakov.com/
+---
 Ildar Abdrazakov has established himself as one of opera’s most sought-after basses. Since making his debut at the Teatro alla Scala in Milan in 2001 at 25, the Russian native has become a mainstay at leading houses worldwide, including New York’s Metropolitan Opera, Paris National Opera, the Vienna State Opera and Munich’s Bavarian State Opera. His powerful yet refined voice coupled with his compelling stage presence have prompted critics to hail him as a “sensational bass … who has just about everything – imposing sound, beautiful legato, oodles of finesse” (_The Independent_). Being also an active concert artist, he has performed at London’s BBC Proms and at New York’s Carnegie Hall, as well as with leading international orchestras, including the Chicago Symphony Orchestra and the Vienna Philharmonic.
 
 Ildar Abdrazakov kicks off the 19-20 season as Banquo in Verdi’s **_Macbeth_** at the Metropolitan Opera, where he also returns later to sing Mephistopheles at concert version of Berlioz’s **_La Damnation de Faust_**. In Europe he can be heard as Filippo II in Verdi’s **_Don Carlo_** at Bavarian State Opera and in the co-production of Salzburg Easter Festival and Semperoper Dresden, alongside Anna Netrebko as Elisabetta. On the concert stage, Ildar Abdrazakov is singing solo-recital with Bordeaux National Opera and joins stage in a recital with Rolando Villazón at Vienna State Opera. Moreover, he has a concert with Olga Peretyatko in Saint-Petersburg’s Tinkoff Arena.

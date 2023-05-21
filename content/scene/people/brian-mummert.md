@@ -1,22 +1,23 @@
-+++
-date = "2016-06-13T20:24:00-06:00"
-discipline = "Baritone"
-lastmod = "2016-06-13T20:24:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465870945962/2016-06-14---Brian-Mummert.jpg.jpg"
-publishDate = "2016-06-13T20:24:00-06:00"
-related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md"]
-slug = "brian-mummert"
-title = "Brian Mummert"
-website = "http://brian-mummert.squarespace.com/#about-1"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/newconsort/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/NewConsort"
-+++
+---
+date: "2016-06-13T20:24:00-06:00"
+discipline: Baritone
+lastmod: "2016-06-13T20:24:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465870945962/2016-06-14---Brian-Mummert.jpg.jpg
+publishDate: "2016-06-13T20:24:00-06:00"
+related_companies:
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+slug: brian-mummert
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/newconsort/?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/NewConsort
+title: Brian Mummert
+website: http://brian-mummert.squarespace.com/#about-1
+---
 
 A charismatic and versatile musician, baritone & conductor Brian Mummert adapts easily to a wide variety of musical genres and eras. He has appeared as a soloist at the American Bach Soloists Festival, with the New York Pops at Carnegie Hall, with Spire Chamber Ensemble, as a Colburn Fellow at SongFest, and in the world premiere of Georgi Andreev’s *A Melancholy Beaut*, at Avery Fisher Hall and the Kennedy Center, and has directed a variety of vocal ensembles in venues spanning six continents, including American Prize-winning ensemble The New Consort. 
 

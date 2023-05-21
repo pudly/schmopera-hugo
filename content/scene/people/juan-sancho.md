@@ -1,26 +1,29 @@
-+++
-date = "2017-10-27T17:20:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-10-27T17:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509138968326/portrait3.jpg.jpg"
-publishDate = "2017-10-27T17:20:00-04:00"
-related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/the-metropolitan-opera.md","scene/companies/english-national-opera.md","scene/companies/salzburg-festival.md"]
-slug = "juan-sancho"
-title = "Juan Sancho"
-website = "https://www.juan-sancho.com/index.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Juan-Sancho-204894596331587/?ref=hl"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/_juansancho_"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/_juansancho_/"
-+++
+---
+date: "2017-10-27T17:20:00-04:00"
+discipline: Tenor
+lastmod: "2017-10-27T17:20:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1509138968326/portrait3.jpg.jpg
+publishDate: "2017-10-27T17:20:00-04:00"
+related_companies:
+- scene/companies/teatro-alla-scala.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/salzburg-festival.md
+slug: juan-sancho
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Juan-Sancho-204894596331587/?ref=hl
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/_juansancho_
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/_juansancho_/
+title: Juan Sancho
+website: https://www.juan-sancho.com/index.html
+---
 
 Born in Seville (Spain), tenor Juan Sancho initially trained as a pianist before entering the Escola Superior de Música de Catalunya (Barcelona) to study voice in the Early Music department with Lambert Climent, also receiving tuition from Monsterrat Figueras. Later he studied with Raphaël Sikorski (Laboratoire de la Voix, Paris), Raúl Giménez (Barcelona) and also received appreciated advice from Alessandro Corbelli.
 

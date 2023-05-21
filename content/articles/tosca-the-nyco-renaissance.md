@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-01-13T11:38:00-05:00"
-lastmod = "2016-01-14T12:52:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452704220242/2016-01-14---NYC.jpg.jpg"
-publishDate = "2016-01-14T12:23:00-05:00"
-related_articles = ["articles/opera-lyra-and-the-five-stages-of-grief.md","articles/bills-and-business-models.md","articles/artists-administration-reputations.md"]
-related_companies = ["scene/companies/nyc-opera-renaissance.md"]
-short_description = "NYCO Renaissance&#039;s general director is Michael Capasso, who previously ran Dicapo Opera Theatre, a small New York-based company that has since &quot;disbanded&quot;, and which was sued in 2013 by the musicians&#039; unions for failure to pay their artists. Capasso is &quot;thrilled&quot; about directing the revived company, despite any questions of his ability to keep it financially afloat."
-slug = "tosca-the-nyco-renaissance"
-title = "Tosca &amp; the NYCO Renaissance"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-01-13T11:38:00-05:00"
+lastmod: "2016-01-14T12:52:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452704220242/2016-01-14---NYC.jpg.jpg
+publishDate: "2016-01-14T12:23:00-05:00"
+related_articles:
+- articles/opera-lyra-and-the-five-stages-of-grief.md
+- articles/bills-and-business-models.md
+- articles/artists-administration-reputations.md
+related_companies:
+- scene/companies/nyc-opera-renaissance.md
+short_description: NYCO Renaissance&#039;s general director is Michael Capasso, who
+  previously ran Dicapo Opera Theatre, a small New York-based company that has since
+  &quot;disbanded&quot;, and which was sued in 2013 by the musicians&#039; unions
+  for failure to pay their artists. Capasso is &quot;thrilled&quot; about directing
+  the revived company, despite any questions of his ability to keep it financially
+  afloat.
+slug: tosca-the-nyco-renaissance
+title: Tosca &amp; the NYCO Renaissance
+---
 
 The rebirth of New York City Opera seems to be [upon us](http://www.nytimes.com/2016/01/13/arts/music/new-york-city-opera-will-return-and-soon-under-reorganization-plan.html), at least for the moment.
 

@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-04-18T13:59:00-04:00"
-lastmod = "2017-04-25T09:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492542568990/2017-04-19---Square---SASHA_COOKE_pc_Dario_Acosta.jpg.jpg"
-primary_image_credit = "Photo by Dario Acosta."
-publishDate = "2017-04-25T09:39:00-04:00"
-related_articles = ["articles/spotlight-on-danielle-buonaiuto.md","articles/young-singers-in-santa-fe-adelaide-boedecker.md","articles/left-wanting-more-enos-marnie.md"]
-related_companies = ["scene/companies/the-santa-fe-opera.md"]
-related_people = ["scene/people/sasha-cooke.md"]
-short_description = "Hers is a career that proves the value of working well with one&#039;s contemporaries, be they professional or academic. &quot;You don&#039;t realize when you&#039;re young that everyone around you will continue to be around you. Treat people well, be grateful.&quot; Cooke knows well that no musician is an island, and &quot;in a way, being a musician is a perfect heightened example of being human. We are all dependent on one another.&quot;"
-slug = "talking-with-singers-sasha-cooke"
-title = "Talking with singers: Sasha Cooke"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-04-18T13:59:00-04:00"
+lastmod: "2017-04-25T09:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492542568990/2017-04-19---Square---SASHA_COOKE_pc_Dario_Acosta.jpg.jpg
+primary_image_credit: Photo by Dario Acosta.
+publishDate: "2017-04-25T09:39:00-04:00"
+related_articles:
+- articles/spotlight-on-danielle-buonaiuto.md
+- articles/young-singers-in-santa-fe-adelaide-boedecker.md
+- articles/left-wanting-more-enos-marnie.md
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+related_people:
+- scene/people/sasha-cooke.md
+short_description: Hers is a career that proves the value of working well with one&#039;s
+  contemporaries, be they professional or academic. &quot;You don&#039;t realize when
+  you&#039;re young that everyone around you will continue to be around you. Treat
+  people well, be grateful.&quot; Cooke knows well that no musician is an island,
+  and &quot;in a way, being a musician is a perfect heightened example of being human.
+  We are all dependent on one another.&quot;
+slug: talking-with-singers-sasha-cooke
+title: 'Talking with singers: Sasha Cooke'
+---
 
 "I can't imagine anyone who wouldn't be interested in it," says American mezzo-soprano [Sasha Cooke](/scene/people/sasha-cooke/) about the highly anticipated world premiere of [*The (R)evolution of Steve Jobs* at Santa Fe Opera](https://www.santafeopera.org/operas-and-ticketing/the-revolution-of-steve-jobs). She calls *Steve Jobs* a "family project" of sorts, a working environment where she knows well the opera's composer, Mason Bates, and most of the creative team, which includes her husband, baritone Kelly Markgraf. 
 
@@ -24,7 +35,9 @@ In the context of Bates' opera, Laurene Jobs is one of those strong women who, p
 
 The story of the relationship between Steve and Laurene is something that Cooke admires in the libretto by Mark Campbell (*Silent Night*, *The Shining*). "You feel as though it's *your* story happening on stage. He makes it very universal," she explains. "There's a poetic simplicity to his writing. It's immediately accessible, but you keep thinking about it when the show's over." It's a style that suits Bates' aesthetic for *The (R)evolution of Steve Jobs*, an opera which is "almost like a play. It's really not about a long high note, it's about clear text and clear communication."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492541179914/2017-04-18---Cooke-Atomic-ENO.jpg.jpg)<figcaption>Cooke in *Doctor Atomic*, English National Opera, 2009.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492541179914/2017-04-18---Cooke-Atomic-ENO.jpg.jpg)<figcaption>Cooke in *Doctor Atomic*, English National Opera, 2009.</figcaption>
 </figure>
 
 ## "I never would have imagined I would be somebody who does world premieres."
@@ -37,7 +50,9 @@ Yet the perks are appealing, too. "One of the great benefits of concert work is 
 
 Cooke confesses that learning repertoire quickly - and learning it well - hasn't always come to her easily, yet you wouldn't guess it based on her packed calendar. She likens her constant workload to preparing Thanksgiving dinner: "you have to put a lot of dishes in the oven, and everything has a different cooking time, but there's one oven. You just think it through."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492541197288/2017-04-19---Cooke-Hansel-Seattle.jpg.jpg)<figcaption>Cooke (left) *Hänsel and Gretel*, Seattle Opera, 2016. Photo by Philip Newton.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492541197288/2017-04-19---Cooke-Hansel-Seattle.jpg.jpg)<figcaption>Cooke (left) *Hänsel and Gretel*, Seattle Opera, 2016. Photo by Philip Newton.</figcaption>
 </figure>
 
 She often works with young singers, and the importance of preparation is a constant when she is asked for professional advice. "When you're not prepared, and then you add to that anxiety or nerves or a torn dress or rainy weather or you're late to the hall, it just compounds everything," she says. First impressions in the rehearsal room can be difficult to undo, and Cooke sees preparation as a way to "be a master of all the things you *can* master."
@@ -50,7 +65,9 @@ Cooke has found herself a specialist of sorts in contemporary music, a trend tha
 
 Hers is a career that proves the value of working well with one's contemporaries, be they professional or academic. "You don't realize when you're young that everyone around you will continue to be around you. Treat people well, be grateful." Cooke knows well that no musician is an island, and "in a way, being a musician is a perfect heightened example of being human. We are all dependent on one another."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492541188190/2017-04-19---Cooke-Magdalene-SFO.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492541188190/2017-04-19---Cooke-Magdalene-SFO.jpg.jpg)
 <figcaption>Cooke in *The Gospel of Mary Magdalene* at San Francisco Opera, 2013. Photo by Cory Weaver.</figcaption>
 </figure>
 
@@ -66,7 +83,9 @@ At the same time, gut instincts shouldn't get in the way of trying new things. "
 
 Absolutely, it's another reason that it's tough to be a singer, and Cooke agrees. "If you don't get crazy, awesome, spiritual happiness from performing, it just isn't worth it," she says, "because it's hard. And it only gets harder."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492727361060/2017-04-19---Sasha-Cooke---Acosta.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1492727361060/2017-04-19---Sasha-Cooke---Acosta.jpg.jpg)
 <figcaption>Sasha Cooke, mezzo-soprano. Photo by Dario Acosta.</figcaption>
 </figure>
 

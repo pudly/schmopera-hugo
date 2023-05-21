@@ -1,17 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-01-06T09:00:00-05:00"
-lastmod = "2015-04-12T11:26:00-04:00"
-preamble = "<p>\n\tIt's a good thing that Canadian soprano Kira Braun loves music; growing up in the Braun family could have gotten pretty loud, pretty quickly. Kira spent her life in music; her mother, Eleanor, worked as a professional flautist and her cousins <a href=\"http://www.adibraun.com/#/\" target=\"_blank\">Adi</a> and <a href=\"http://www.russellbraun.com/\" target=\"_blank\">Russell Braun</a> are well-known names for music-loving Canadians. While she never stopped singing, Kira is newly inspired to find more opportunities to hop onstage. She has recorded <a href=\"http://www.cdbaby.com/Artist/KiraBraunSoprano\" target=\"_blank\">two albums</a> with pianist <a href=\"http://www.akcanada.com/about.cfm\" target=\"_blank\">Peter Krochak</a>, and you can hear her next month as Oscar in Opera By Request's upcoming performance of <em>Un ballo in maschera</em>. I asked Kira about her life as part of a majorly musical family, and how she carves out her own niche as a singer.\n</p>"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851449772/KiraBraun.jpg.jpg"
-publishDate = "2015-01-06T09:00:00-05:00"
-related_articles = ["articles/kira-braun-so-much-music-so-little-time.md"]
-related_people = ["scene/people/kira-braun.md"]
-short_description = "It’s a good thing that Canadian soprano Kira Braun loves music; growing up in the Braun family could have gotten pretty loud, pretty quickly. Kira spent her life in music; her mother, Eleanor, worked as a professional flautist and her cousins Adi and Russell Braun are well-known names for music-loving Canadians. While she never stopped singing, Kira is newly inspired to find more opportunities to hop onstage."
-slug = "kira-braun-im-happiest-when-im-singing"
-title = "Kira Braun: &quot;I&#039;m happiest when I&#039;m singing.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-01-06T09:00:00-05:00"
+lastmod: "2015-04-12T11:26:00-04:00"
+preamble: "<p>\n\tIt's a good thing that Canadian soprano Kira Braun loves music;
+  growing up in the Braun family could have gotten pretty loud, pretty quickly. Kira
+  spent her life in music; her mother, Eleanor, worked as a professional flautist
+  and her cousins <a href=\"http://www.adibraun.com/#/\" target=\"_blank\">Adi</a>
+  and <a href=\"http://www.russellbraun.com/\" target=\"_blank\">Russell Braun</a>
+  are well-known names for music-loving Canadians. While she never stopped singing,
+  Kira is newly inspired to find more opportunities to hop onstage. She has recorded
+  <a href=\"http://www.cdbaby.com/Artist/KiraBraunSoprano\" target=\"_blank\">two
+  albums</a> with pianist <a href=\"http://www.akcanada.com/about.cfm\" target=\"_blank\">Peter
+  Krochak</a>, and you can hear her next month as Oscar in Opera By Request's upcoming
+  performance of <em>Un ballo in maschera</em>. I asked Kira about her life as part
+  of a majorly musical family, and how she carves out her own niche as a singer.\n</p>"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428851449772/KiraBraun.jpg.jpg
+publishDate: "2015-01-06T09:00:00-05:00"
+related_articles:
+- articles/kira-braun-so-much-music-so-little-time.md
+related_people:
+- scene/people/kira-braun.md
+short_description: It’s a good thing that Canadian soprano Kira Braun loves music;
+  growing up in the Braun family could have gotten pretty loud, pretty quickly. Kira
+  spent her life in music; her mother, Eleanor, worked as a professional flautist
+  and her cousins Adi and Russell Braun are well-known names for music-loving Canadians.
+  While she never stopped singing, Kira is newly inspired to find more opportunities
+  to hop onstage.
+slug: kira-braun-im-happiest-when-im-singing
+title: 'Kira Braun: &quot;I&#039;m happiest when I&#039;m singing.&quot;'
+---
 
 <h3>1. What's it like to be a Braun?<br>
 </h3>

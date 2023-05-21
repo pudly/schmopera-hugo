@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-01-18T13:06:00-05:00"
-lastmod = "2016-01-20T09:54:00-05:00"
-preamble = "Veronika Roux is a photographer and opera enthusiast, and she's currently combining her passions in the form of her [exhibit](http://www.operafacesandwords.com/index) at the Four Seasons Centre for the Performing Arts, home to the Canadian Opera Company. The photography project is called [*Opera Faces & Words*](http://www.operafacesandwords.com/index), and Roux pairs portraits of opera singers with the texts of arias that are particularly important to each artist. The work is ongoing, and Roux plans to re-capture the singers in 5 years time, \"presenting not only their growth as humans but showing their growth within the art form as singers and as bodies of knowledge of the operatic content.\"\n\nRoux spoke with us about *Opera Faces & Words*, at the Four Seasons Centre until February 27th, and the task of capturing a moving art form in still images."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155121856/ROUX---201601---January-exibit---5---resized.jpg.jpg"
-publishDate = "2016-01-20T09:40:00-05:00"
-related_articles = ["articles/photographing-the-opera-singer.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/jacqueline-woodley.md","scene/people/gregory-dahl.md"]
-short_description = "Veronika Roux is a photographer and opera enthusiast, and she&#039;s currently combining her passions in the form of her exhibit at the Four Seasons Centre for the Performing Arts, home to the Canadian Opera Company. The photography project is called Opera Faces &amp; Words, and Roux pairs portraits of opera singers with the texts of arias that are particularly important to each artist. "
-slug = "veronika-roux-opera-in-photographs"
-title = "Veronika Roux: opera in photographs"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-01-18T13:06:00-05:00"
+lastmod: "2016-01-20T09:54:00-05:00"
+preamble: |-
+  Veronika Roux is a photographer and opera enthusiast, and she's currently combining her passions in the form of her [exhibit](http://www.operafacesandwords.com/index) at the Four Seasons Centre for the Performing Arts, home to the Canadian Opera Company. The photography project is called [*Opera Faces & Words*](http://www.operafacesandwords.com/index), and Roux pairs portraits of opera singers with the texts of arias that are particularly important to each artist. The work is ongoing, and Roux plans to re-capture the singers in 5 years time, "presenting not only their growth as humans but showing their growth within the art form as singers and as bodies of knowledge of the operatic content."
+
+  Roux spoke with us about *Opera Faces & Words*, at the Four Seasons Centre until February 27th, and the task of capturing a moving art form in still images.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1453155121856/ROUX---201601---January-exibit---5---resized.jpg.jpg
+publishDate: "2016-01-20T09:40:00-05:00"
+related_articles:
+- articles/photographing-the-opera-singer.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/jacqueline-woodley.md
+- scene/people/gregory-dahl.md
+short_description: 'Veronika Roux is a photographer and opera enthusiast, and she&#039;s
+  currently combining her passions in the form of her exhibit at the Four Seasons
+  Centre for the Performing Arts, home to the Canadian Opera Company. The photography
+  project is called Opera Faces &amp; Words, and Roux pairs portraits of opera singers
+  with the texts of arias that are particularly important to each artist. '
+slug: veronika-roux-opera-in-photographs
+title: 'Veronika Roux: opera in photographs'
+---
 
 ## Why is opera a passion of yours?
 

@@ -1,18 +1,23 @@
-+++
-date = "2015-09-30T09:25:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-09-30T09:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443619366964/Berti.JPG.JPG"
-primary_image_credit = "Photo: Gianluca Dangerio"
-publishDate = "2015-09-30T09:25:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/royal-conservatory-of-music.md"]
-slug = "marco-berti"
-title = "Marco Berti"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/BertiMarco"
-+++
+---
+date: "2015-09-30T09:25:00-04:00"
+discipline: Tenor
+lastmod: "2015-09-30T09:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443619366964/Berti.JPG.JPG
+primary_image_credit: 'Photo: Gianluca Dangerio'
+publishDate: "2015-09-30T09:25:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/royal-conservatory-of-music.md
+slug: marco-berti
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/BertiMarco
+title: Marco Berti
+---
 
 Marco Berti is the Italian tenor currently most sought-after by the world’s major opera houses, where he is appreciated for the splendid quality of his voice, his timbre “all’italiana”, the force of his high register, his innate musicality, his stage presence and artistic accomplishment.
 

@@ -1,13 +1,22 @@
-+++
-date = "2017-10-09T12:02:00-04:00"
-discipline = "Bass"
-lastmod = "2017-10-09T12:02:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507564947880/CliveBayley.jpg.jpg"
-publishDate = "2017-10-09T12:02:00-04:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/grange-park-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/opera-north.md","scene/companies/welsh-national-opera.md"]
-slug = "clive-bayley"
-title = "Clive Bayley"
-+++
+---
+_template: people_single
+date: "2017-10-09T12:02:00-04:00"
+discipline: Bass
+lastmod: "2017-10-09T12:02:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507564947880/CliveBayley.jpg.jpg
+publishDate: "2017-10-09T12:02:00-04:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+- scene/companies/grange-park-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opera-north.md
+- scene/companies/welsh-national-opera.md
+slug: clive-bayley
+title: Clive Bayley
+---
 
 Born in Manchester, Clive Bayley sings regularly with the major opera companies in a diverse repertoire spanning Monteverdi, Mozart, Verdi, Puccini, Alban Berg, Benjamin Britten, Birtwistle, Richard Wagner and Ligeti. 
 

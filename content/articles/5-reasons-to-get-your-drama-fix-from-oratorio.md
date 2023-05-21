@@ -1,15 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-04-09T13:37:00+01:00"
-lastmod = "2017-04-10T13:02:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491823120482/2017-04-10---Church.jpg.jpg"
-publishDate = "2017-04-10T12:20:00+01:00"
-related_articles = ["articles/back-to-school-opera-a-practical-glossary.md","articles/but-why-didnt-they-write-opera.md","articles/rehearsing-a-messiah-that-moves.md","articles/palpable-chamber-music-haymarket-operas-lenten-oratorio.md"]
-short_description = "Leave it to Krzysztof Penderecki, the Polish composer known for writing terrifying music, to bring to life every detail of the Passion according to the Gospel St. Luke. His St. Luke Passion is an eerie, uncomfortable, atonal setting; it&#039;s scored for three choruses, a boys chorus, three soloists, a narrator, and a huge orchestra that includes odd instruments like saxophones, vibraphones, and a harmonium."
-slug = "5-reasons-to-get-your-drama-fix-from-oratorio"
-title = "5 reasons to get your drama fix from oratorio"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-04-09T13:37:00+01:00"
+lastmod: "2017-04-10T13:02:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491823120482/2017-04-10---Church.jpg.jpg
+publishDate: "2017-04-10T12:20:00+01:00"
+related_articles:
+- articles/back-to-school-opera-a-practical-glossary.md
+- articles/but-why-didnt-they-write-opera.md
+- articles/rehearsing-a-messiah-that-moves.md
+- articles/palpable-chamber-music-haymarket-operas-lenten-oratorio.md
+short_description: Leave it to Krzysztof Penderecki, the Polish composer known for
+  writing terrifying music, to bring to life every detail of the Passion according
+  to the Gospel St. Luke. His St. Luke Passion is an eerie, uncomfortable, atonal
+  setting; it&#039;s scored for three choruses, a boys chorus, three soloists, a narrator,
+  and a huge orchestra that includes odd instruments like saxophones, vibraphones,
+  and a harmonium.
+slug: 5-reasons-to-get-your-drama-fix-from-oratorio
+title: 5 reasons to get your drama fix from oratorio
+---
 
 It's the week of palm cross sightings and store fronts that tend towards pastel colours and egg-shaped advertising campaigns (quite the crass contrast, if you think on it much about). Whether you're someone who's well aware of the Christian calendar, or you're one of the many singers who hold a regular gig singing in church services, you know it's Holy Week, which leads up to Easter Sunday on April 16, 2017. 
 

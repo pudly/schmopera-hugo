@@ -1,16 +1,39 @@
-+++
-author = ["authors/greg.md"]
-categories = "Op-ed"
-date = "2014-07-14T06:00:00-04:00"
-lastmod = "2015-04-23T14:46:00-04:00"
-preamble = "This is a guest post by singer and Schmopera contributor [Gregory Finney.](https://twitter.com/gregory_finney) He has written for us before, [to much success](http://schmopera.com/how-i-acted-my-way-into-an-opera-career/). Catch him onstage later this summer with [LooseTEA Music Theatre](http://looseteamusictheatre.com/current-productionautocorrect-operas/)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429814655560/GregElitism.jpg.jpg"
-publishDate = "2014-07-14T06:00:00-04:00"
-related_articles = ["articles/schmopera-is-one.md","articles/and-i-know-things-now.md","articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md","articles/the-life-of-a-comprimario-or-oh-youre-that-guy.md","articles/dillon-parmer-mozarts-masonic-journey.md","articles/grease-live-a-rant.md","articles/organizing-your-scores-a-serious-business.md","articles/in-review-isis-and-osiris.md","articles/be-in-on-the-secret-confidential-opera-project.md","articles/what-the-eff-is-a-zarzuela-anyway.md","articles/why-we-all-love-florence-foster-jenkins.md","articles/yannick-nezet-seguin-musicals-and-great-timing.md","articles/new-works-the-imaginings.md","articles/when-lost-find-roots.md","articles/oh-look-its-the-elitist-argument-again.md","articles/its-beginning-to-look-a-lot-like-sub-needed.md","articles/sweeney-todd-demon-of-disguise.md"]
-short_description = "Guys, maybe we are a little elitist...\n\nSo. On quartz.com recently there was a piece by a young soprano named Chelsea Feltman entitled &quot;Don&#039;t Ask a Young Opera Singer These Three Questions&quot;. This piece has kinda been written before, but that&#039;s fine, and there were some pretty funny animations done about it from a stage actor&#039;s perspective circling around about four years ago."
-slug = "elitism-irony-and-the-phantom-of-the-opera"
-title = "Elitism, Irony, and The Phantom of the Opera"
-+++
+---
+author:
+- authors/greg.md
+categories: Op-ed
+date: "2014-07-14T06:00:00-04:00"
+lastmod: "2015-04-23T14:46:00-04:00"
+preamble: This is a guest post by singer and Schmopera contributor [Gregory Finney.](https://twitter.com/gregory_finney)
+  He has written for us before, [to much success](http://schmopera.com/how-i-acted-my-way-into-an-opera-career/).
+  Catch him onstage later this summer with [LooseTEA Music Theatre](http://looseteamusictheatre.com/current-productionautocorrect-operas/).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429814655560/GregElitism.jpg.jpg
+publishDate: "2014-07-14T06:00:00-04:00"
+related_articles:
+- articles/schmopera-is-one.md
+- articles/and-i-know-things-now.md
+- articles/bocelli-grande-could-be-an-opera-duo-except-theyre-really-really-not.md
+- articles/the-life-of-a-comprimario-or-oh-youre-that-guy.md
+- articles/dillon-parmer-mozarts-masonic-journey.md
+- articles/grease-live-a-rant.md
+- articles/organizing-your-scores-a-serious-business.md
+- articles/in-review-isis-and-osiris.md
+- articles/be-in-on-the-secret-confidential-opera-project.md
+- articles/what-the-eff-is-a-zarzuela-anyway.md
+- articles/why-we-all-love-florence-foster-jenkins.md
+- articles/yannick-nezet-seguin-musicals-and-great-timing.md
+- articles/new-works-the-imaginings.md
+- articles/when-lost-find-roots.md
+- articles/oh-look-its-the-elitist-argument-again.md
+- articles/its-beginning-to-look-a-lot-like-sub-needed.md
+- articles/sweeney-todd-demon-of-disguise.md
+short_description: |-
+  Guys, maybe we are a little elitist...
+
+  So. On quartz.com recently there was a piece by a young soprano named Chelsea Feltman entitled &quot;Don&#039;t Ask a Young Opera Singer These Three Questions&quot;. This piece has kinda been written before, but that&#039;s fine, and there were some pretty funny animations done about it from a stage actor&#039;s perspective circling around about four years ago.
+slug: elitism-irony-and-the-phantom-of-the-opera
+title: Elitism, Irony, and The Phantom of the Opera
+---
 
 Guys, maybe we are a little elitist...
 

@@ -1,21 +1,21 @@
-+++
-date = "2016-08-20T12:46:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-08-20T12:46:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471693490894/2016-08-20---Zachary-Mendez---Devon-Cass.jpg.jpg"
-publishDate = "2016-08-20T12:46:00+01:00"
-slug = "zachary-mendez"
-title = "Zachary Mendez"
-website = "http://www.zmendez.com/#zachmendez"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/thezachmendez/?ref=aymt_homepage_panel"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/zacharyamendez/"
-+++
+---
+date: "2016-08-20T12:46:00+01:00"
+discipline: Tenor
+lastmod: "2016-08-20T12:46:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471693490894/2016-08-20---Zachary-Mendez---Devon-Cass.jpg.jpg
+publishDate: "2016-08-20T12:46:00+01:00"
+slug: zachary-mendez
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/thezachmendez/?ref=aymt_homepage_panel
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/zacharyamendez/
+title: Zachary Mendez
+website: http://www.zmendez.com/#zachmendez
+---
 
 American tenor Zachary Mendez is currently a MM/DMA candidate for voice and opera at the University of California Santa Barbara, studying with renowned tenor Benjamin Brecher. Most recently, Mr. Mendez spent the month of June in Los Angeles as a Young Artist at SongFest where he had the opportunity to work with leading musicians such as Roger Vignoles, Margo Garrett, John Musto, Jake Heggie, Anthony Dean Griffey, and Susanne Mentzer. Recent engagements have included roles with Opera Santa Barbara and the California Opera Association. 
 

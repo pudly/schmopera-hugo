@@ -1,16 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-07-22T13:08:00-04:00"
-lastmod = "2015-07-24T08:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437699999002/elephants.jpg.jpg"
-publishDate = "2015-07-24T08:00:00-04:00"
-related_articles = ["articles/what-comes-first-the-union-or-the-gig.md","articles/mutiny-at-the-met.md","articles/curiosity-and-the-met.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/calgary-opera.md","scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md","scene/companies/opera-atelier.md","scene/companies/manitoba-opera.md","scene/companies/pacific-opera-victoria.md"]
-short_description = "I&#039;ll never be quoted as saying that artists deserve to be paid less than they already do. They work incredibly hard in a specialized set of skills. I think it&#039;s important, though, to be self-aware in an industry that&#039;s ubiquitously almost out of money. Will the unions be the first to adapt to a contemporary opera economy, or should contemporary artists be the ones to take the bold steps for the sake of the industry (perhaps martyring themselves along the way)?"
-slug = "idealism-questions-unions"
-title = "Idealism &amp; questions about unions"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-07-22T13:08:00-04:00"
+lastmod: "2015-07-24T08:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437699999002/elephants.jpg.jpg
+publishDate: "2015-07-24T08:00:00-04:00"
+related_articles:
+- articles/what-comes-first-the-union-or-the-gig.md
+- articles/mutiny-at-the-met.md
+- articles/curiosity-and-the-met.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/calgary-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/opera-atelier.md
+- scene/companies/manitoba-opera.md
+- scene/companies/pacific-opera-victoria.md
+short_description: I&#039;ll never be quoted as saying that artists deserve to be
+  paid less than they already do. They work incredibly hard in a specialized set of
+  skills. I think it&#039;s important, though, to be self-aware in an industry that&#039;s
+  ubiquitously almost out of money. Will the unions be the first to adapt to a contemporary
+  opera economy, or should contemporary artists be the ones to take the bold steps
+  for the sake of the industry (perhaps martyring themselves along the way)?
+slug: idealism-questions-unions
+title: Idealism &amp; questions about unions
+---
 
 About a year ago, when the Metropolitan Opera was in the middle of [nightmarish talks](http://www.wsj.com/articles/metropolitan-opera-general-manager-peter-gelb-warns-union-employees-of-august-1-of-lockout-1406144068) with its unions, spurred on by a proposed 17% wage cut for its artists (click [here](http://parterre.com/wp-content/uploads/2014/08/met-agma_memo_agreement.pdf) to read the final agreement between the American Guild of Musical Artists and The Metropolitan Opera, courtesy of [Parterre](http://parterre.com/)). 
 

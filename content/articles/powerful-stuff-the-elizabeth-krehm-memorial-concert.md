@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-11-17T09:53:00-05:00"
-lastmod = "2015-11-20T11:08:00-05:00"
-preamble = "To send your donations in Elizabeth Krehm's name to the St. Michael's Hospital Intensive Care Unit, [click here](https://goo.gl/adPXDH)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448035711436/2015-11-17%20-%20KrehmConcert.jpg.jpg"
-publishDate = "2015-11-17T11:27:00-05:00"
-related_articles = ["articles/mahlers-2nd-in-memory-of-elizabeth-krehm.md","articles/in-review-nashville-symphonys-season-opener.md"]
-related_companies = ["scene/companies/opera-5.md"]
-related_people = ["scene/people/rachel-krehm.md","scene/people/michle-bogdanowicz.md","scene/people/evan-mitchell.md"]
-short_description = "Last night&#039;s Elizabeth Krehm Memorial Concert at Metropolitan United Church was a grand, cathartic experience. Elizabeth Krehm passed away in 2012, after spending a month in St. Michael&#039;s Hospital Intensive Care Unit; since 2013, the Krehm family has been holding benefit concerts, donating 100% of the money raised to the ICU in Elizabeth Krehm&#039;s name. This year was Mahler&#039;s 2nd, his &quot;Resurrection&quot; Symphony, with Evan Mitchell leading the Canzona Chamber Players Orchestra, the Pax Christi Chorale, and soloists Michèle Bogdanowicz and Rachel Krehm."
-slug = "powerful-stuff-the-elizabeth-krehm-memorial-concert"
-title = "Powerful stuff: the Elizabeth Krehm Memorial Concert"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-11-17T09:53:00-05:00"
+lastmod: "2015-11-20T11:08:00-05:00"
+preamble: To send your donations in Elizabeth Krehm's name to the St. Michael's Hospital
+  Intensive Care Unit, [click here](https://goo.gl/adPXDH).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448035711436/2015-11-17%20-%20KrehmConcert.jpg.jpg
+publishDate: "2015-11-17T11:27:00-05:00"
+related_articles:
+- articles/mahlers-2nd-in-memory-of-elizabeth-krehm.md
+- articles/in-review-nashville-symphonys-season-opener.md
+related_companies:
+- scene/companies/opera-5.md
+related_people:
+- scene/people/rachel-krehm.md
+- scene/people/michle-bogdanowicz.md
+- scene/people/evan-mitchell.md
+short_description: Last night&#039;s Elizabeth Krehm Memorial Concert at Metropolitan
+  United Church was a grand, cathartic experience. Elizabeth Krehm passed away in
+  2012, after spending a month in St. Michael&#039;s Hospital Intensive Care Unit;
+  since 2013, the Krehm family has been holding benefit concerts, donating 100% of
+  the money raised to the ICU in Elizabeth Krehm&#039;s name. This year was Mahler&#039;s
+  2nd, his &quot;Resurrection&quot; Symphony, with Evan Mitchell leading the Canzona
+  Chamber Players Orchestra, the Pax Christi Chorale, and soloists Michèle Bogdanowicz
+  and Rachel Krehm.
+slug: powerful-stuff-the-elizabeth-krehm-memorial-concert
+title: 'Powerful stuff: the Elizabeth Krehm Memorial Concert'
+---
 
 Last night's Elizabeth Krehm Memorial Concert at Metropolitan United Church was a grand, cathartic experience. Elizabeth Krehm passed away in 2012, after spending a month in St. Michael's Hospital Intensive Care Unit; since 2013, the Krehm family has been holding benefit concerts, donating 100% of the money raised to the ICU in Elizabeth Krehm's name. This year was Mahler's 2nd, his "Resurrection" Symphony, with Evan Mitchell leading the Canzona Chamber Players Orchestra, the Pax Christi Chorale, and soloists Michèle Bogdanowicz and Rachel Krehm.
 

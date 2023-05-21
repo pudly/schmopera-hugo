@@ -1,16 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-08-28T09:00:00-04:00"
-lastmod = "2015-04-16T16:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429214474257/xd92vqnc9k2b8klx.jpg.jpg"
-primary_image_credit = "Photo by Sam Javanrouh"
-publishDate = "2014-08-28T09:00:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md"]
-short_description = "This fall at the Canadian Opera Company, the stars come out. First to open on October 3rd will be that great last work of Giuseppe Verdi&#039;s, Falstaff. It&#039;s a co-pro with The Royal Opera House (Covent Garden), Teatro alla Scala, the Metropolitan Opera and Dutch National Opera; and because it&#039;s by Robert Carsen, it means we&#039;ll see stark visuals and a stripped-bare style of storytelling."
-slug = "coming-up-on-the-big-stage"
-title = "Coming up on the big stage"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-08-28T09:00:00-04:00"
+lastmod: "2015-04-16T16:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429214474257/xd92vqnc9k2b8klx.jpg.jpg
+primary_image_credit: Photo by Sam Javanrouh
+publishDate: "2014-08-28T09:00:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+short_description: This fall at the Canadian Opera Company, the stars come out. First
+  to open on October 3rd will be that great last work of Giuseppe Verdi&#039;s, Falstaff.
+  It&#039;s a co-pro with The Royal Opera House (Covent Garden), Teatro alla Scala,
+  the Metropolitan Opera and Dutch National Opera; and because it&#039;s by Robert
+  Carsen, it means we&#039;ll see stark visuals and a stripped-bare style of storytelling.
+slug: coming-up-on-the-big-stage
+title: Coming up on the big stage
+---
 
 [This fall at the Canadian Opera Company](http://www.coc.ca/PerformancesAndTickets/1415Season.aspx), the stars come out. First to open on October 3rd will be that great last work of Giuseppe Verdi's, _Falstaff_. It's a co-pro with The Royal Opera House (Covent Garden), Teatro alla Scala, the Metropolitan Opera and Dutch National Opera; and because it's by [Robert Carsen](http://en.wikipedia.org/wiki/Robert_Carsen), it means we'll see stark visuals and a stripped-bare style of storytelling. Canadian bass-baritone [Gerald Finley ](https://twitter.com/GeraldFinley)will be in town to sing the title role; I'm personally super curious to hear him as the notoriously comedic Sir John Falstaff, since it's a step in a different direction from his usual offerings of Mozart and John Adams roles. I'm just excited to hear him sing live. Fellow Canadians [Russell Braun](http://www.russellbraun.com/), [Simone Osborne](https://twitter.com/SimoneOsborne), [Marie-Nicole Lemieux](http://en.wikipedia.org/wiki/Marie-Nicole_Lemieux) and [Lauren Segal](http://www.laurensegal.com/) will join Gerald onstage for what I'm sure will be some spectacular singing from Canada's best. [_Falstaff_](http://www.coc.ca/PerformancesAndTickets/1415Season/Falstaff.aspx) will be conducted by the COC's Musical Director, Johannes Debus; it plays for seven performances from October 3rd-November 1st at the Four Seasons Centre in Toronto. [Click here ](http://www.coc.ca/PerformancesAndTickets/1415Season/Falstaff.aspx)for details and tickets.
 

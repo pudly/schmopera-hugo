@@ -1,15 +1,24 @@
-+++
-date = "2015-04-06T21:49:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-06T21:49:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428371043825/AnnaChristy-pc-DarioAcosta.jpg.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2015-04-06T21:49:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/english-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/dayton-opera.md"]
-slug = "anna-christy"
-title = "Anna Christy"
-website = "http://www.annachristy.com/Home.html"
-+++
+---
+_template: people_single
+date: "2015-04-06T21:49:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-06T21:49:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428371043825/AnnaChristy-pc-DarioAcosta.jpg.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2015-04-06T21:49:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/english-national-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/dayton-opera.md
+slug: anna-christy
+title: Anna Christy
+website: http://www.annachristy.com/Home.html
+---
 
 <p>
 	raised by the New York Times as "nimble of voice, body and spirit", soprano Anna Christy continues to impress and delight audiences with an extraordinary blend of sparkling voice, powerful stage presence and innate musicality.

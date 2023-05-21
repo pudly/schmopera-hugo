@@ -1,15 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-11-25T11:34:00+00:00"
-lastmod = "2016-11-25T16:48:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480078918785/2016-11-25---Summer.jpg.jpg"
-publishDate = "2016-11-25T16:48:00+00:00"
-related_companies = ["scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-short_description = "Your colleagues are not competition. Along with you, the motivated young artist, the singers and pianists that are learning beside you are the ones who, in a handful of years, will become founders of opera companies and concert series; they&#039;ll become assistant conductors and directors, and they may eventually end up in a position to hire someone like you. "
-slug = "the-real-value-of-summer-programs"
-title = "The real value of summer programs"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-11-25T11:34:00+00:00"
+lastmod: "2016-11-25T16:48:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1480078918785/2016-11-25---Summer.jpg.jpg
+publishDate: "2016-11-25T16:48:00+00:00"
+related_companies:
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+short_description: 'Your colleagues are not competition. Along with you, the motivated
+  young artist, the singers and pianists that are learning beside you are the ones
+  who, in a handful of years, will become founders of opera companies and concert
+  series; they&#039;ll become assistant conductors and directors, and they may eventually
+  end up in a position to hire someone like you. '
+slug: the-real-value-of-summer-programs
+title: The real value of summer programs
+---
 
 For young artists who are straddling the line between training and professional experience, it can seem as though there are nothing but costs along the way to becoming a real-deal opera singer, conductor, or director. They pay for audition recordings, headshots, website design, flights to New York, packable-yet-flattering performance wardrobe, and they certainly pay for their training; if it's not tuition at a university or a conservatory, young artists pay by the hour for lessons and coachings.
 

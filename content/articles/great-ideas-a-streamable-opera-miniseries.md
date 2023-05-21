@@ -1,15 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2016-05-28T17:56:00+01:00"
-lastmod = "2016-05-29T10:28:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464461238466/Vireo.jpg.jpg"
-publishDate = "2016-05-29T09:47:00+01:00"
-related_articles = ["articles/netflix-why-not-opera.md","articles/theres-still-no-opera-on-netflix.md","articles/the-brief-history-of-madefortv-opera.md"]
-short_description = "Remember how we complained about how there&#039;s no opera on Netflix? Well, there still isn&#039;t. But we&#039;ve discovered Vireo: The Spiritual Biography of a Witch&#039;s Accuser, a project that will hopefully inspire more like it. Composer Lisa Bielawa and librettist Erik Ehn are in the midst of creating Vireo, a series of operatic episodes, two of which are now available to stream online."
-slug = "great-ideas-a-streamable-opera-miniseries"
-title = "Great ideas: a streamable opera miniseries"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2016-05-28T17:56:00+01:00"
+lastmod: "2016-05-29T10:28:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1464461238466/Vireo.jpg.jpg
+publishDate: "2016-05-29T09:47:00+01:00"
+related_articles:
+- articles/netflix-why-not-opera.md
+- articles/theres-still-no-opera-on-netflix.md
+- articles/the-brief-history-of-madefortv-opera.md
+short_description: 'Remember how we complained about how there&#039;s no opera on
+  Netflix? Well, there still isn&#039;t. But we&#039;ve discovered Vireo: The Spiritual
+  Biography of a Witch&#039;s Accuser, a project that will hopefully inspire more
+  like it. Composer Lisa Bielawa and librettist Erik Ehn are in the midst of creating
+  Vireo, a series of operatic episodes, two of which are now available to stream online.'
+slug: great-ideas-a-streamable-opera-miniseries
+title: 'Great ideas: a streamable opera miniseries'
+---
 
 Remember how we complained about how there's no opera on Netflix?
 

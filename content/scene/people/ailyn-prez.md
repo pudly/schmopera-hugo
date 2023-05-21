@@ -1,24 +1,31 @@
-+++
-date = "2015-04-06T13:31:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-06T13:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428341313580/025_Ailyn_Perez_by_Paul_Marc_Mitchell_PMM_1929RR.jpg.jpg"
-primary_image_credit = "Paul Marc Mitchell"
-publishDate = "2015-04-06T13:31:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/royal-opera-house.md", "scene/companies/glyndebourne.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/opernhaus-zurich.md"]
-slug = "ailyn-pérez"
-title = "Ailyn Pérez"
-website = "http://ailynperez.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/AilynPerezSoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AilynPerez1"
-
-+++
+---
+date: "2015-04-06T13:31:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-06T13:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428341313580/025_Ailyn_Perez_by_Paul_Marc_Mitchell_PMM_1929RR.jpg.jpg
+primary_image_credit: Paul Marc Mitchell
+publishDate: "2015-04-06T13:31:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/royal-opera-house.md
+- scene/companies/glyndebourne.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opernhaus-zurich.md
+slug: ailyn-pérez
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/AilynPerezSoprano
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/AilynPerez1
+title: Ailyn Pérez
+website: http://ailynperez.com/
+---
 <p>
 	Hailed by the <i>New York Times</i> as "a beautiful woman who commands the stage" and "a major soprano," Ailyn Pérez is increasingly in demand at the world's leading opera houses and cultural capitals. She has won both the 15th annual Plácido Domingo Award and the 2012 Richard Tucker Award, thereby becoming the only Hispanic recipient in the award's 35-year history. As <i>Opera News</i> observes, "The phrase 'an embarrassment of riches' might have been invented to describe the combination of talents that belong to Ailyn Pérez…who truly seems to have it all."
 </p>

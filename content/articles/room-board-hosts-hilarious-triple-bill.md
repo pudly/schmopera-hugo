@@ -1,22 +1,29 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2019-11-11T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573507369/media/2019/11/sqBOCFriend030916-2941_asffeb.jpg"
-primary_image_credit = "Lindsay Conrad in Naomi in the Living Room, Boston Opera Collaborative, 2019. Photo: Dan Busler."
-related_articles = ["articles/chemistry-sizzles-onstage-in-paride-ed-elena.md", "articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md"]
-related_companies = ["scene/companies/boston-opera-collaborative.md"]
-related_people = []
-short_description = "And yet, something about the confines of the store were perfect for producing the triple-bill of short operas by Jonathan Bailey Holland that graced Room & Board, courtesy of Boston Opera Collaborative, and it led to a very entertaining, and frequently hilarious, night at the opera."
-slug = "room-board-hosts-hilarious-triple-bill"
-title = "Room & Board hosts hilarious triple-bill"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-11-11T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573507369/media/2019/11/sqBOCFriend030916-2941_asffeb.jpg
+primary_image_credit: 'Lindsay Conrad in Naomi in the Living Room, Boston Opera Collaborative,
+  2019. Photo: Dan Busler.'
+related_articles:
+- articles/chemistry-sizzles-onstage-in-paride-ed-elena.md
+- articles/blo-s-electrifying-rape-of-lucretia-a-revelation.md
+related_companies:
+- scene/companies/boston-opera-collaborative.md
+related_people: []
+short_description: And yet, something about the confines of the store were perfect
+  for producing the triple-bill of short operas by Jonathan Bailey Holland that graced
+  Room & Board, courtesy of Boston Opera Collaborative, and it led to a very entertaining,
+  and frequently hilarious, night at the opera.
+slug: room-board-hosts-hilarious-triple-bill
+title: Room & Board hosts hilarious triple-bill
+youtube_url: ""
+---
 As [my faithful readers](/authors/arturo-fernandez/) at Schmopera will likely be able to tell by now, the Boston opera scene is chock full of companies exploring possibilities in staging opera in unusual venues, in everything from basketball courts to brewery rooms and ice skating rinks, all with mixed results.
 
 Of all of these experimentations, however, the last place I would have ever expected a series of three short operas, staged was a furniture store. Such a venue is almost antithetical to any kind of theatrical performance, never mind an opera: with most of the seating and setpieces available for sale, and with many of the spaces somewhat confined, one would be easily led to believe that one would be hard-pressed to make a performance work in a furniture store.
@@ -35,7 +42,9 @@ Instead, Wes Hunter and Carley DeFranco's younger couple danced around the same 
 
 It was a very effective staging of an already excellent piece, and I must say that it is wonderful to see stage director Ingrid Oslund redeem herself after her questionably thought out _Silla_ earlier this year.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1573507553/media/2019/11/BOC2_gdajmn.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1573507553/media/2019/11/BOC2_gdajmn.jpg)
 
 <figcaption>Lindsay Conrad in Naomi in the Living Room, Boston Opera Collaborative, 2019. Photo: Dan Busler.</figcaption>  
 </figure>

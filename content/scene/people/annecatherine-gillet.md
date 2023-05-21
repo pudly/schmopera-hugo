@@ -1,23 +1,24 @@
-+++
-date = "2016-08-20T14:12:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-08-20T14:12:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471698653834/2016-08-20---Anne-Catherine-Gillet.jpg.jpg"
-publishDate = "2016-08-20T14:12:00+01:00"
-related_companies = ["scene/companies/glyndebourne.md", "scene/companies/opra-national-de-paris.md"]
-slug = "anne-catherine-gillet"
-title = "Anne-Catherine Gillet"
-website = "http://www.annecatherinegillet.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Anne-Catherine-Gillet"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/annecatherinegillet"
-
-+++
+---
+date: "2016-08-20T14:12:00+01:00"
+discipline: Soprano
+lastmod: "2016-08-20T14:12:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471698653834/2016-08-20---Anne-Catherine-Gillet.jpg.jpg
+publishDate: "2016-08-20T14:12:00+01:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/opra-national-de-paris.md
+slug: anne-catherine-gillet
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Anne-Catherine-Gillet
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/annecatherinegillet
+title: Anne-Catherine Gillet
+website: http://www.annecatherinegillet.com/
+---
 Anne-Catherine Gillet was born in Belgium. At a very young age, she was being spotted by the direction of Opéra Royal de Wallonie, Liège who offered her a position amongst their resident singers, enabling her to take her earliest operatic roles.
 
 From 2003 she began an on going relationship with the Théâtre du Capitole in Toulouse, where she is continually invited for leading roles.

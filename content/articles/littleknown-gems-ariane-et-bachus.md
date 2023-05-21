@@ -1,20 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-09-21T12:01:00-04:00"
-lastmod = "2017-09-23T11:48:00-04:00"
-preamble = "Late this month, Haymarket Opera Company opens its run of [*Ariane et Bachus*](http://www.haymarketopera.org/arianeetbachus), a rare take on a tale that opera lovers know well. First performed in Paris, 1696, under the reign of Louis XIV, the opera by Marin Marais, famed composer and virtuoso gamba player  tells the story of Ariadne and Bacchus, with enough surprising plot twists in the libretto by Saint-Jean to keep Greek mythology experts on their toes.\n\n[*Ariane et Bachus*](http://www.haymarketopera.org/arianeetbachus) runs at the Studebaker Theater in Chicago, **September 30, October 1 & 3, 2017**. We spoke with music director Craig Trompeter and stage director/choreographer Sarah Edgar about Haymarket Opera's first foray into French *tragédie en musique*, the strong focus on dance and design, and their favourite parts of Marais' opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115072812/2017-09-22---pc-mkusumosurarso-coverhaymarket-2.jpg.jpg"
-primary_image_credit = "Image: Martin Kusumosurarso Photography Inc."
-publishDate = "2017-09-23T11:48:00-04:00"
-related_articles = ["articles/ian-page-mozart-imagination.md", "articles/ariodante-or-the-hebridean-handel.md", "articles/overdue-for-the-stage-haymarket-opera-companys-ariane-et-bachus.md", "articles/three-cities-lots-of-options-coming-up-in-march.md"]
-related_companies = ["scene/companies/haymarket-opera-company.md"]
-related_people = ["scene/people/nathalie-colas.md"]
-short_description = "&quot;I have to admit that I am partial to demons, having portrayed a dancing fury a few times myself. After carefully embodying good taste in the noble characters, the evil characters get to break all the rules. Plus, in hell you get to play with snakes, wands, and torches.&quot;"
-slug = "little-known-gems-ariane-et-bachus"
-title = "&quot;Little-known gems&quot;: Ariane et Bachus"
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-09-21T12:01:00-04:00"
+lastmod: "2017-09-23T11:48:00-04:00"
+preamble: |-
+  Late this month, Haymarket Opera Company opens its run of [*Ariane et Bachus*](http://www.haymarketopera.org/arianeetbachus), a rare take on a tale that opera lovers know well. First performed in Paris, 1696, under the reign of Louis XIV, the opera by Marin Marais, famed composer and virtuoso gamba player  tells the story of Ariadne and Bacchus, with enough surprising plot twists in the libretto by Saint-Jean to keep Greek mythology experts on their toes.
 
-+++
+  [*Ariane et Bachus*](http://www.haymarketopera.org/arianeetbachus) runs at the Studebaker Theater in Chicago, **September 30, October 1 & 3, 2017**. We spoke with music director Craig Trompeter and stage director/choreographer Sarah Edgar about Haymarket Opera's first foray into French *tragédie en musique*, the strong focus on dance and design, and their favourite parts of Marais' opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115072812/2017-09-22---pc-mkusumosurarso-coverhaymarket-2.jpg.jpg
+primary_image_credit: 'Image: Martin Kusumosurarso Photography Inc.'
+publishDate: "2017-09-23T11:48:00-04:00"
+related_articles:
+- articles/ian-page-mozart-imagination.md
+- articles/ariodante-or-the-hebridean-handel.md
+- articles/overdue-for-the-stage-haymarket-opera-companys-ariane-et-bachus.md
+- articles/three-cities-lots-of-options-coming-up-in-march.md
+related_companies:
+- scene/companies/haymarket-opera-company.md
+related_people:
+- scene/people/nathalie-colas.md
+short_description: '&quot;I have to admit that I am partial to demons, having portrayed
+  a dancing fury a few times myself. After carefully embodying good taste in the noble
+  characters, the evil characters get to break all the rules. Plus, in hell you get
+  to play with snakes, wands, and torches.&quot;'
+slug: little-known-gems-ariane-et-bachus
+title: '&quot;Little-known gems&quot;: Ariane et Bachus'
+---
 ## What do you find is unique about Marais' setting of the Ariadne myth? 
 
 **Craig**: This presentation of the Ariadne/Bacchus myth includes several colorful plot twists which serve to draw out the original myth story: Juno appears to warn King Aenarus not to welcome and honor Bacchus because Bacchus is the bastard son of Jupiter and Semele; Juno collaborates with Prince Adraste (the would-be lover of Ariadne) to turn Ariadne against Bacchus. At first Juno disguises herself as Dircée, the jilted lover of Adraste, who then makes a false claim to have received advances from Bacchus with the hope of turning Ariadne against him . Cupid thwarts the plan by telling Ariadne that it is all a deception by Juno. Plan B involves Adraste appealing to his sorcerer sidekick Géralde to use magic to fight against Bacchus. The demons refuse to combat the god, saying that he has no fear of the underworld. All in all, there is much intrigue!
@@ -31,7 +43,9 @@ The costumes are as authentically 17th-century as Meriem Bahri can make them. Sh
 
 The costumes by Meriem Bahri are breathtakingly beautiful and breathtakingly historical. However, the costumes also function as a way for the 21st-century performers to fully inhabit the 17th-century world that Marais created. The corset demands an upright and noble carriage of the body, and it also exposes the upper chest as an important site for expressive movement. The carriage of the arms and the acting gestures of the period truly make sense when one is wearing a 17th-century costume.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115102095/2017-09-22---Ariane.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115102095/2017-09-22---Ariane.jpg.jpg)
 <figcaption>Costume sketch for Ariane by Meriem Bahri.</figcaption>
 </figure>
 
@@ -47,7 +61,9 @@ The costumes by Meriem Bahri are breathtakingly beautiful and breathtakingly his
 
 **Sarah**: I have to admit that I am partial to demons, having portrayed a dancing fury a few times myself. After carefully embodying good taste in the noble characters, the evil characters get to break all the rules. Plus, in hell you get to play with snakes, wands, and torches.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115146137/2017-09-22---Craig-Trompter.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506115146137/2017-09-22---Craig-Trompter.jpg.jpg)
 </figure>
 
 >Haymarket Opera Company presents [Ariane et Bachus](http://www.haymarketopera.org/arianeetbachus), September 30 to October 3. For details and ticket information, follow our box office links below.

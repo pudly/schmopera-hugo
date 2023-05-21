@@ -1,28 +1,32 @@
-+++
-date = "2015-12-13T18:39:00-05:00"
-discipline = "Countertenor"
-lastmod = "2015-12-13T19:35:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631800228/media/2021/09/AnthonyRothCostanzo_ihitcc.jpg"
-primary_image_credit = "Matthu Placek"
-publishDate = "2015-12-13T18:39:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/glyndebourne.md", "scene/companies/seattle-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/english-national-opera.md"]
-slug = "anthony-roth-costanzo"
-title = "Anthony Roth Costanzo"
-website = "http://anthonyrothcostanzo.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/AnthonyRothCostanzo"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/A_R_Costanzo"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/arcostanzo/"
-
-+++
+---
+date: "2015-12-13T18:39:00-05:00"
+discipline: Countertenor
+lastmod: "2015-12-13T19:35:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1631800228/media/2021/09/AnthonyRothCostanzo_ihitcc.jpg
+primary_image_credit: Matthu Placek
+publishDate: "2015-12-13T18:39:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/seattle-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/english-national-opera.md
+slug: anthony-roth-costanzo
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/AnthonyRothCostanzo
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/A_R_Costanzo
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/arcostanzo/
+title: Anthony Roth Costanzo
+website: http://anthonyrothcostanzo.com/
+---
 Countertenor Anthony Roth Costanzo began performing professionally at the age of 11 and has since appeared in opera, concert, recital, film, and on Broadway. He is a recipient of the 2020 _Beverly Sills Award_ from the Metropolitan Opera, and a winner of the 2020 _Opera News_ Award.
 
 Mr. Costanzo has been named The Mary and James G. Wallach Artist-in-Residence for the New York Philharmonic’s 2021–22 with the centerpieces of his activities being _Authentic Selves: The Beauty Within_, two consecutive weeks of programming he co-curated to reflect on questions of identity. This season he also returns to the Metropolitan Opera in his acclaimed performance of the title role in _Akhnaten_ (seen at the Met in the fall of 2019 and in the Met’s _Live in HD_ series, with a CD and DVD forthcoming) and as Unulfo in _Rodelina,_ to the Teatro Real in Madrid in _Partenope,_ and to Boston Baroque with performances of _Amadigi di Gaula._ He also appears in recital in Cincinnati, Kansas City, and Estonia.

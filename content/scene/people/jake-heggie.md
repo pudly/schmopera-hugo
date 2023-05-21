@@ -1,15 +1,21 @@
-+++
-date = "2016-03-09T20:13:00+00:00"
-discipline = "Composer, pianist"
-lastmod = "2016-03-09T20:13:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457554067220/Jake-Heggie-by-Ellen-Appel.jpg.jpg"
-primary_image_credit = "Ellen Appel"
-publishDate = "2016-03-09T20:13:00+00:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-dallas-opera.md","scene/companies/lopra-de-montral.md","scene/companies/calgary-opera.md","scene/companies/the-atlanta-opera.md"]
-slug = "jake-heggie"
-title = "Jake Heggie"
-website = "http://jakeheggie.com/"
-+++
+---
+_template: people_single
+date: "2016-03-09T20:13:00+00:00"
+discipline: Composer, pianist
+lastmod: "2016-03-09T20:13:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457554067220/Jake-Heggie-by-Ellen-Appel.jpg.jpg
+primary_image_credit: Ellen Appel
+publishDate: "2016-03-09T20:13:00+00:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/calgary-opera.md
+- scene/companies/the-atlanta-opera.md
+slug: jake-heggie
+title: Jake Heggie
+website: http://jakeheggie.com/
+---
 
 Jake Heggie is the American composer of the operas *Dead Man Walking* (libretto by Terrence McNally), *Moby-Dick* (libretto by Gene Scheer), *Great Scott* (McNally), *Three Decembers* (Scheer), *To Hell and Back* (Scheer), *Out of Darkness* (Scheer), *At the Statue of Venus* (McNally) and *The Radio Hour: A Choral Opera* (Scheer). He is currently at work on an opera based on the classic Frank Capra movie, *It’s A Wonderful Life*, with librettist Gene Scheer. The work is set to have its premiere December 2, 2016 at the Houston Grand Opera, conducted by Patrick Summers and directed by Leonard Foglia. Heggie has also composed more than 250 art songs, as well as concerti, chamber music, choral and orchestral works, including his recent *Ahab Symphony*.
 

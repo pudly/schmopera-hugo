@@ -1,18 +1,29 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-11-17T17:56:00+00:00"
-lastmod = "2016-12-07T22:49:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406128527/2016-11-16---Square---NaomisRoad-photobyDahliaKatz-9125.jpg.jpg"
-primary_image_credit = "Photo by Dahlia Katz."
-publishDate = "2016-11-18T10:58:00+00:00"
-related_articles = ["articles/oksana-g-its-so-out-of-this-world-and-yet-so-realistic.md","articles/tough-to-watch-oksana-g.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/erica-iris.md"]
-short_description = "As Canadians, we pride ourselves on our acceptance of others, our inclusivity, and our concern for the well-being of others - but our record is not unblemished. There have been many missteps and atrocities committed by Canadians from which we can&#039;t shy away. Especially now, when we see who&#039;s running for the leadership of one of Canada&#039;s major political parties. We can not let ourselves go back to a time when stories like the one I saw tonight were happening."
-slug = "in-review-naomis-road"
-title = "In review: Naomi&#039;s Road"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-11-17T17:56:00+00:00"
+lastmod: "2016-12-07T22:49:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406128527/2016-11-16---Square---NaomisRoad-photobyDahliaKatz-9125.jpg.jpg
+primary_image_credit: Photo by Dahlia Katz.
+publishDate: "2016-11-18T10:58:00+00:00"
+related_articles:
+- articles/oksana-g-its-so-out-of-this-world-and-yet-so-realistic.md
+- articles/tough-to-watch-oksana-g.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/erica-iris.md
+short_description: As Canadians, we pride ourselves on our acceptance of others, our
+  inclusivity, and our concern for the well-being of others - but our record is not
+  unblemished. There have been many missteps and atrocities committed by Canadians
+  from which we can&#039;t shy away. Especially now, when we see who&#039;s running
+  for the leadership of one of Canada&#039;s major political parties. We can not let
+  ourselves go back to a time when stories like the one I saw tonight were happening.
+slug: in-review-naomis-road
+title: 'In review: Naomi&#039;s Road'
+---
 
 On Wednesday, November 16th, 2016 my eyes were opened. It's already been a pretty stellar season for opera here in Toronto every company is pulling out all the stops. Tonight, however, I found myself being told a story that I should have been told long ago - a story I should have learned in school and a story that should be talked about and addressed more in today's society. 
 
@@ -20,7 +31,9 @@ As Canadians, we pride ourselves on our acceptance of others, our inclusivity, a
 
 Joy Kogawa penned her novel, *Naomi's Road*, and it was published in 1986. It tells the story of a Japanese-Canadian family and their experiences with racism, segregation, and persecution at the hands of the Canadian government during WWII. Most of us may be aware of this epidemic of Japanese internment camps across the states due to the activism of TV star George Takei, and his subsequent Broadway show [*Allegiance*](http://allegiancemusical.com/). What we're painfully unaware of is that this xenophobia towards the Japanese after the events of Pearl Harbour was widespread across Canada at that time as well. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406388581/2016-11-16---NaomisRoad-photobyDahliaKatz-9222.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406388581/2016-11-16---NaomisRoad-photobyDahliaKatz-9222.jpg.jpg)
 <figcaption>*Naomi's Road*, Tapestry Opera, 2016. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -28,7 +41,9 @@ In *Naomi's Road*, Naomi's family is torn apart. Mom goes back to Japan to care 
 
 We then see Naomi and her brother Stephen experience racism from all angles, mixed with the fear of the unknown, and the fear of the war and confusion over their lost father. Then Naomi suddenly befriends Mitzi, a white girl, and thus the seeds of hope are planted. The show ends with the children and Obasan reunited with the Father and off to start a new life now that the war is over. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406396812/2016-11-16---NaomisRoad-photobyDahliaKatz-9138.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406396812/2016-11-16---NaomisRoad-photobyDahliaKatz-9138.jpg.jpg)
 <figcaption>*Naomi's Road*, Tapestry Opera, 2016. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -36,7 +51,9 @@ As Naomi, soprano Hiather Darnel-Kadonga sang with an easy, free, and accessible
 
 Tenor Sam Chung sang the role of Stephen, Naomi's brother. This is a voice I'd really like to hear more of. Crisp diction and a firm vocal line while never sacrificing character or physicality. The bloom over the top of his register was quite exciting. His voice mixed very will with that of Naomi, to the point they could have actually been a real-life brother/sister duo. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406354269/2016-11-16---NaomisRoad-photobyDahliaKatz-9181.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406354269/2016-11-16---NaomisRoad-photobyDahliaKatz-9181.jpg.jpg)
 <figcaption>*Naomi's Road*, Tapestry Opera, 2016. Photo by Dahlia Katz.</figcaption>
 </figure>
 
@@ -44,7 +61,9 @@ As Daddy, The Bully, Rough Lock Bill, and Trainmaster, baritone Sung Taek Chung 
 
 [Erica Iris](/scene/people/erica-iris/) as Mother, Mitzi, and Obasan walked away with the show last night. Like Sung Taek Chung, she too had many quick changes that you didn't even notice. She was gentle, charming, and warm throughout the whole production. Her honey-dripped mezzo sounded lush and comforting as it rang through the church. I have to say, her characterization of Mitzi may have been the highlight of the night for me. There was a truth to every character she played. There were layers and each one was on a journey. It would have been very easy to stick to archetypes and caricatures (and it would have totally jived with the aesthetic of the whole show) but Erica's choices brought us three-dimensional women and girls at all times.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406174107/2016-11-16---NaomisRoad-photobyDahliaKatz-9144.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479406174107/2016-11-16---NaomisRoad-photobyDahliaKatz-9144.jpg.jpg)
 <figcaption>*Naomi's Road*, Tapestry Opera, 2016. Photo by Dahlia Katz.</figcaption>
 </figure>
 

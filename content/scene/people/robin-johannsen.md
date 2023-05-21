@@ -1,23 +1,24 @@
-+++
-date = "2017-02-15T14:59:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-02-15T15:00:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487170754237/2017-02-15---Robin-Johannsen---Tatjana_Dachsel.jpg.jpg"
-primary_image_credit = "Tatjana Dachsel"
-publishDate = "2017-02-15T15:00:00+00:00"
-related_companies = ["scene/companies/deutsche-oper-berlin.md"]
-slug = "robin-johannsen"
-title = "Robin Johannsen"
-website = "http://www.robinjohannsen.com/index.php"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/robinjohannsenopera"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/robin_johannsen?lang=en"
-+++
+---
+date: "2017-02-15T14:59:00+00:00"
+discipline: Soprano
+lastmod: "2017-02-15T15:00:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487170754237/2017-02-15---Robin-Johannsen---Tatjana_Dachsel.jpg.jpg
+primary_image_credit: Tatjana Dachsel
+publishDate: "2017-02-15T15:00:00+00:00"
+related_companies:
+- scene/companies/deutsche-oper-berlin.md
+slug: robin-johannsen
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/robinjohannsenopera
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/robin_johannsen?lang=en
+title: Robin Johannsen
+website: http://www.robinjohannsen.com/index.php
+---
 
 American soprano Robin Johannsen came to Europe as a young artist with the Deutsche Oper Berlin and joined the company soon after as a soloist. Her roles there included Susanna (*Le nozze di Figaro*), Norina (*Don Pasquale*), Oscar (*Un ballo in maschera*), and Soeur Constance (*Les dialogues des Carmélites*). After two more years with Oper Leipzig (Gretel, Marzelline, Blonde, Susanna, and Pamina), she began her freelance career in 2008 with a special affinity for the baroque and classical repertoires.
 

@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2016-04-14T15:32:00+01:00"
-lastmod = "2016-04-15T14:59:00+01:00"
-preamble = "We write plenty about the shows we see, but sometimes the best little anecdotes happen before the downbeat. In [monologue](/the-opera-party-monologue/) format, we want to give you an exemplary taste of the pre-opera adventures we have, en route to the main event."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460728575509/2016-04-15---Theatre.jpg.jpg"
-publishDate = "2016-04-15T14:59:00+01:00"
-related_articles = ["articles/the-opera-party-monologue.md"]
-short_description = "Ok, shrug off the coat, and find your phone. Do-not-disturb setting, don&#039;t fail me now. 1 minute left! Time for an anticipatory show-related Tweet. Sir to my left, I see you eyeing my phone and drawing conclusions related to my lack of grey hair; don&#039;t you worry, though, I will not live up to your stereotype of mid-show texters. Tweet sent! Double check volume is off, and let&#039;s add airplane mode for good measure. See, sir to my left, phone is going into the purse."
-slug = "the-preshow-monologue"
-title = "The pre-show monologue"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2016-04-14T15:32:00+01:00"
+lastmod: "2016-04-15T14:59:00+01:00"
+preamble: We write plenty about the shows we see, but sometimes the best little anecdotes
+  happen before the downbeat. In [monologue](/the-opera-party-monologue/) format,
+  we want to give you an exemplary taste of the pre-opera adventures we have, en route
+  to the main event.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460728575509/2016-04-15---Theatre.jpg.jpg
+publishDate: "2016-04-15T14:59:00+01:00"
+related_articles:
+- articles/the-opera-party-monologue.md
+short_description: Ok, shrug off the coat, and find your phone. Do-not-disturb setting,
+  don&#039;t fail me now. 1 minute left! Time for an anticipatory show-related Tweet.
+  Sir to my left, I see you eyeing my phone and drawing conclusions related to my
+  lack of grey hair; don&#039;t you worry, though, I will not live up to your stereotype
+  of mid-show texters. Tweet sent! Double check volume is off, and let&#039;s add
+  airplane mode for good measure. See, sir to my left, phone is going into the purse.
+slug: the-preshow-monologue
+title: The pre-show monologue
+---
 
 *Thanks, Google Maps! Would never have found the theatre without you. Ok, which door? This one...nope, fake door. Ok, how about this...ah, it's a pull, not a push. Pardon me, elderly couple on my heels, the door opens outwards! Your enthusiasm is admirable, though. Those are still my heels, by the way. Alright, box office, box office...why doesn't the box office look like a box or an office? Hello, Mr. Box Office! Yes, I am aware that this line is for press only. It's fortunate that I am press! The ticket should be under Douglas?...I SAID, DOUGLAS...YES, JENNA...WITH A J LIKE JOHN OR JEHOVAH...OKAY, THANK YOU!*
 

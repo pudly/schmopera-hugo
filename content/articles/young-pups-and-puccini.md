@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2014-01-09T19:55:00-05:00"
-lastmod = "2015-04-28T23:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430276448472/ChildOperaSinger_Fotor.jpg.jpg"
-publishDate = "2014-01-09T19:55:00-05:00"
-related_articles = ["articles/rarities-opera-stage-parents.md","articles/baby-opera-singers-getting-angry-for-the-right-reasons.md","articles/the-flip-side-of-the-baby-opera-singer-coin.md","articles/young-singing-done-right-aksel-rykkvin.md"]
-short_description = "George Carlin said on playing the blues, &quot;I&#039;ll tell you a little secret about the blues: it&#039;s not enough to know which notes to play, you have to know why they need to be played.&quot;"
-slug = "young-pups-and-puccini"
-title = "Young Pups and Puccini"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2014-01-09T19:55:00-05:00"
+lastmod: "2015-04-28T23:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430276448472/ChildOperaSinger_Fotor.jpg.jpg
+publishDate: "2014-01-09T19:55:00-05:00"
+related_articles:
+- articles/rarities-opera-stage-parents.md
+- articles/baby-opera-singers-getting-angry-for-the-right-reasons.md
+- articles/the-flip-side-of-the-baby-opera-singer-coin.md
+- articles/young-singing-done-right-aksel-rykkvin.md
+short_description: 'George Carlin said on playing the blues, &quot;I&#039;ll tell
+  you a little secret about the blues: it&#039;s not enough to know which notes to
+  play, you have to know why they need to be played.&quot;'
+slug: young-pups-and-puccini
+title: Young Pups and Puccini
+---
 
 George Carlin said on playing the blues, "I'll tell you a little secret about the blues: it's not enough to know which notes to play, you have to know why they need to be played."
 

@@ -1,18 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-02-26T12:11:00+00:00"
-lastmod = "2017-03-01T10:22:00+00:00"
-preamble = "[Classical Opera](scene/companies/classical-opera/) is in the third year of [MOZART 250](http://www.classicalopera.co.uk/mozart-250/), a 27-year project chronologically celebrating the works of W.A. Mozart in the 250th anniversary of their composition. On **March 21-22**, they present a fully staged production of Mozart's first dramatic work, [*The First Commandment*](http://www.classicalopera.co.uk/performances/mozart-first-commandment/), written when the composer was only 11 years old. \"In spite of its title, The First Commandment is not an overtly religious work but unfolds rather like a musical mystery play, following the story of a young drifter who sleeps off his latest bout of hedonism, as the Spirit of Christianity pleads with Justice and Compassion to save his soul and help him find deeper meaning in his life.\"\n\nClassical Opera welcomes tenor [Alessandro Fisher](/scene/people/alessandro-fisher/) in his company debut, to sing Christian in *The First Commandment*. We spoke with Fisher about his young career, his long wish list of roles to sing, and his secret passion for proper *focaccia*.\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488111119496/2017-02-10---Alessandro-Fisher.jpg.jpg"
-publishDate = "2017-03-01T09:51:00+00:00"
-related_articles = ["articles/ian-page-mozart-imagination.md","articles/spotlight-on-beth-hagerman.md","articles/spotlight-on-william-ford.md"]
-related_companies = ["scene/companies/classical-opera.md"]
-related_people = ["scene/people/alessandro-fisher.md"]
-short_description = "&quot;This is my first project with them, however I&#039;ve been wanting to work with them for ages because I&#039;ve not only loved their productions and recordings, but have also only ever heard positive things about the rehearsal and production process. It’s all very well putting on a beautiful piece of music, but the atmosphere that is created in the rehearsal room is absolutely crucial in developing a positive, friendly working environment.&quot;"
-slug = "talking-with-singers-alessandro-fisher"
-title = "Talking with singers: Alessandro Fisher"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-02-26T12:11:00+00:00"
+lastmod: "2017-03-01T10:22:00+00:00"
+preamble: |
+  [Classical Opera](scene/companies/classical-opera/) is in the third year of [MOZART 250](http://www.classicalopera.co.uk/mozart-250/), a 27-year project chronologically celebrating the works of W.A. Mozart in the 250th anniversary of their composition. On **March 21-22**, they present a fully staged production of Mozart's first dramatic work, [*The First Commandment*](http://www.classicalopera.co.uk/performances/mozart-first-commandment/), written when the composer was only 11 years old. "In spite of its title, The First Commandment is not an overtly religious work but unfolds rather like a musical mystery play, following the story of a young drifter who sleeps off his latest bout of hedonism, as the Spirit of Christianity pleads with Justice and Compassion to save his soul and help him find deeper meaning in his life."
+
+  Classical Opera welcomes tenor [Alessandro Fisher](/scene/people/alessandro-fisher/) in his company debut, to sing Christian in *The First Commandment*. We spoke with Fisher about his young career, his long wish list of roles to sing, and his secret passion for proper *focaccia*.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1488111119496/2017-02-10---Alessandro-Fisher.jpg.jpg
+publishDate: "2017-03-01T09:51:00+00:00"
+related_articles:
+- articles/ian-page-mozart-imagination.md
+- articles/spotlight-on-beth-hagerman.md
+- articles/spotlight-on-william-ford.md
+related_companies:
+- scene/companies/classical-opera.md
+related_people:
+- scene/people/alessandro-fisher.md
+short_description: '&quot;This is my first project with them, however I&#039;ve been
+  wanting to work with them for ages because I&#039;ve not only loved their productions
+  and recordings, but have also only ever heard positive things about the rehearsal
+  and production process. It’s all very well putting on a beautiful piece of music,
+  but the atmosphere that is created in the rehearsal room is absolutely crucial in
+  developing a positive, friendly working environment.&quot;'
+slug: talking-with-singers-alessandro-fisher
+title: 'Talking with singers: Alessandro Fisher'
+---
 
 ## Why do you sing professionally?
 

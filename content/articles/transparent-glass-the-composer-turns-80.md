@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2017-01-29T11:02:00+00:00"
-lastmod = "2017-01-30T10:45:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485693112326/2017-01-29---Glass.jpg.jpg"
-primary_image_credit = "Philip Glass. Photo courtesy of philipglass.com."
-publishDate = "2017-01-30T10:35:00+00:00"
-related_articles = ["articles/a-test-of-endurance-satyagraha-at-eno.md","articles/a-warhorse-for-operas-new-world.md"]
-short_description = "Alsop met Glass when she was a young violinist, and perhaps it was that familiarity with the composer and his work that allowed her to conduct the BBC Orchestra and Chorus with a focused, efficient hand. There was a settled ease to her posture that emanated into the orchestra, a physical representation of how Glass&#039; music works, which is to simply stay out of its way."
-slug = "transparent-glass-the-composer-turns-80"
-title = "Transparent Glass: the composer turns 80"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2017-01-29T11:02:00+00:00"
+lastmod: "2017-01-30T10:45:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485693112326/2017-01-29---Glass.jpg.jpg
+primary_image_credit: Philip Glass. Photo courtesy of philipglass.com.
+publishDate: "2017-01-30T10:35:00+00:00"
+related_articles:
+- articles/a-test-of-endurance-satyagraha-at-eno.md
+- articles/a-warhorse-for-operas-new-world.md
+short_description: Alsop met Glass when she was a young violinist, and perhaps it
+  was that familiarity with the composer and his work that allowed her to conduct
+  the BBC Orchestra and Chorus with a focused, efficient hand. There was a settled
+  ease to her posture that emanated into the orchestra, a physical representation
+  of how Glass&#039; music works, which is to simply stay out of its way.
+slug: transparent-glass-the-composer-turns-80
+title: 'Transparent Glass: the composer turns 80'
+---
 
 On January 31st, 2017, Philip Glass will turn 80. The BBC Symphony Orchestra & Chorus, helped him celebrate in the only appropriate way for the famed composer of epic, trance-inducing minimalist music, by stretching the festivities over several days. Housed at London's Barbican Centre on Saturday was a day-long celebration, *Total Immersion: Philip Glass at 80*, featuring conversations and concerts of his music, and that of his contemporaries like Terry Riley, Michael Nyman, and Nico Muhly. On Glass' actual 80th, it's the Bruckner Orchestra Linz that will sing a "Happy Birthday" of sorts, by [premiering his Symphony No. 11 at Carnegie Hall](http://www.carnegiehall.org/Calendar/2017/1/31/0730/PM/Bruckner-Orchestra-Linz/).
 

@@ -1,17 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-05-23T14:38:00-04:00"
-lastmod = "2015-05-25T09:05:00-04:00"
-preamble = "Good operas and good productions often make me think about the characters after the curtain closes. When that happens, I end up imagining the operatic spin-offs, sequels, and prequels that could be. Since our [last instalment](/what-about-schaunard-and-other-opera-spin-offs/) was such fun, I'll share a few of my imaginings once again; readers, leave your ideas in the comments below!"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432439786594/Escamillo.jpg.jpg"
-primary_image_credit = "Paul Szot as Escamillo in San Francisco Opera's 2011 Carmen."
-publishDate = "2015-05-25T09:05:00-04:00"
-related_articles = ["articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md","articles/4-opera-scenes-that-should-have-happened.md","articles/5-books-that-should-be-operas.md","articles/hello-papagena.md","articles/lost-history-operas-most-famous-premieres.md","articles/3-tv-opera-references-with-great-meaning-maybe.md","articles/mildly-amusing-the-wiki-opera-game.md","articles/lohengrin-redux-an-opera-fanfic-contest.md"]
-short_description = "Good operas and good productions often make me think about the characters after the curtain closes. When that happens, I end up imagining the operatic spin-offs, sequels, and prequels that could be. Since our last instalment was such fun, I&#039;ll share a few of my imaginings once again; readers, leave your ideas in the comments below!"
-slug = "opera-spinoffs-round-two"
-title = "Opera spin-offs, round two"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-05-23T14:38:00-04:00"
+lastmod: "2015-05-25T09:05:00-04:00"
+preamble: Good operas and good productions often make me think about the characters
+  after the curtain closes. When that happens, I end up imagining the operatic spin-offs,
+  sequels, and prequels that could be. Since our [last instalment](/what-about-schaunard-and-other-opera-spin-offs/)
+  was such fun, I'll share a few of my imaginings once again; readers, leave your
+  ideas in the comments below!
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432439786594/Escamillo.jpg.jpg
+primary_image_credit: Paul Szot as Escamillo in San Francisco Opera's 2011 Carmen.
+publishDate: "2015-05-25T09:05:00-04:00"
+related_articles:
+- articles/opera-culprits-the-villain-who-thinks-hes-doing-good.md
+- articles/4-opera-scenes-that-should-have-happened.md
+- articles/5-books-that-should-be-operas.md
+- articles/hello-papagena.md
+- articles/lost-history-operas-most-famous-premieres.md
+- articles/3-tv-opera-references-with-great-meaning-maybe.md
+- articles/mildly-amusing-the-wiki-opera-game.md
+- articles/lohengrin-redux-an-opera-fanfic-contest.md
+short_description: Good operas and good productions often make me think about the
+  characters after the curtain closes. When that happens, I end up imagining the operatic
+  spin-offs, sequels, and prequels that could be. Since our last instalment was such
+  fun, I&#039;ll share a few of my imaginings once again; readers, leave your ideas
+  in the comments below!
+slug: opera-spinoffs-round-two
+title: Opera spin-offs, round two
+---
 
 ### After *Carmen*: Escamillo
 

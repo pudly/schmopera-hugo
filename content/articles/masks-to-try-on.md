@@ -1,17 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-01-21T12:29:00-05:00"
-lastmod = "2015-04-28T22:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430274473721/Masks.jpg.jpg"
-publishDate = "2014-01-21T12:29:00-05:00"
-related_articles = ["articles/in-review-the-cocs-a-masked-ball.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/adrianne-pieczonka.md"]
-short_description = "I&#039;m getting myself in the mood for the COC&#039;s fast-approaching production of Verdi&#039;s Un ballo in maschera. So I&#039;m Masked-Ball-hopping, watching about three different versions at once at the moment. In the foreground is the classic Moshinsky production from the Met in 1980, with Pavarotti, Ricciarelli, Berini, and Canada&#039;s beloved Louis Quilico as Renato."
-slug = "masks-to-try-on"
-title = "Masks to Try On"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-01-21T12:29:00-05:00"
+lastmod: "2015-04-28T22:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430274473721/Masks.jpg.jpg
+publishDate: "2014-01-21T12:29:00-05:00"
+related_articles:
+- articles/in-review-the-cocs-a-masked-ball.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/adrianne-pieczonka.md
+short_description: I&#039;m getting myself in the mood for the COC&#039;s fast-approaching
+  production of Verdi&#039;s Un ballo in maschera. So I&#039;m Masked-Ball-hopping,
+  watching about three different versions at once at the moment. In the foreground
+  is the classic Moshinsky production from the Met in 1980, with Pavarotti, Ricciarelli,
+  Berini, and Canada&#039;s beloved Louis Quilico as Renato.
+slug: masks-to-try-on
+title: Masks to Try On
+---
 
 I'm getting myself in the mood for the COC's fast-approaching production of Verdi's[ _Un ballo in maschera_](http://www.coc.ca/PerformancesAndTickets/1314Season/UnBalloInMaschera/CastAndCreativeTeam.aspx). So I'm _Masked-Ball_-hopping, watching about three different versions at once at the moment. In the foreground is the classic Moshinsky production from the Met in 1980, with Pavarotti, Ricciarelli, Berini, and Canada's beloved Louis Quilico as Renato. Here he is being a Verdi baritone:
 

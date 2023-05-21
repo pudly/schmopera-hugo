@@ -1,18 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-05-12T12:39:00+01:00"
-lastmod = "2016-05-14T17:56:00+01:00"
-preamble = "June 8-11 at Toronto's [918 Bathurst](http://www.918bathurst.com/), [Opera 5](/scene/companies/opera-5/) presents [*Die Fledermaus*](http://opera5.ca/project/die-fledermaus/), that beloved, waltz-tastic tale of parties and blackmail. [Rachel Krehm](/scene/people/rachel-krehm/) and [Michael Barrett](/scene/people/michael-barrett/) star as Rosalinde and Eisenstein, sharing the stage with [Julie Ludwig](/scene/people/julie-ludwig/) as Adele, [Keith Lam](/scene/people/keith-lam/) as Falke, and [Erin Lawson](/scene/people/erin-lawson/) as the heiress Oksana Orlofsky. Of course, in Opera 5 fashion, this *Die Fledermaus* is updated, interactive, and audiences will meet a very special guest, by the name of [Pearle Harbour](https://www.facebook.com/thepearleharbour/).\n\nWe spoke with director [Aria Umezawa](/scene/people/aria-umezawa/), who works alongside co-director [Jessica Derventzis](/scene/companies/stujess-productions/), about the fun of \"theoretical\" staging, and how Opera 5 stays outside the box, even with go-to classics like *Die Fledermaus*."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463227860718/2016-05-14---Aria-Umezawa.jpg.jpg"
-publishDate = "2016-05-14T14:01:00+01:00"
-related_articles = ["articles/check-out-opera-5.md","articles/the-future-of-opera-is-indie.md","articles/updating-operas-why-stop-at-the-libretto.md","articles/die-fledermaus-die-flederfabulous.md","articles/opera-5-new-faces-new-show.md"]
-related_companies = ["scene/companies/opera-5.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/aria-umezawa.md","scene/people/rachel-krehm.md","scene/people/julie-ludwig.md","scene/people/michael-barrett.md","scene/people/keith-lam.md","scene/people/erin-lawson.md"]
-short_description = "June 8-11 at Toronto&#039;s 918 Bathurst, Opera 5 presents Die Fledermaus, that beloved, waltz-tastic tale of parties and blackmail. Rachel Krehm and Michael Barrett star as Rosalinde and Eisenstein, sharing the stage with Julie Ludwig as Adele, Keith Lam as Falke, and Erin Lawson as the heiress Oksana Orlofsky. Of course, in Opera 5 fashion, this Die Fledermaus is updated, interactive, and audiences will meet a very special guest, by the name of Pearle Harbour."
-slug = "aria-umezawa-opera-5s-die-fledermaus-with-surprises"
-title = "Aria Umezawa: Opera 5&#039;s Die Fledermaus, with surprises"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-05-12T12:39:00+01:00"
+lastmod: "2016-05-14T17:56:00+01:00"
+preamble: |-
+  June 8-11 at Toronto's [918 Bathurst](http://www.918bathurst.com/), [Opera 5](/scene/companies/opera-5/) presents [*Die Fledermaus*](http://opera5.ca/project/die-fledermaus/), that beloved, waltz-tastic tale of parties and blackmail. [Rachel Krehm](/scene/people/rachel-krehm/) and [Michael Barrett](/scene/people/michael-barrett/) star as Rosalinde and Eisenstein, sharing the stage with [Julie Ludwig](/scene/people/julie-ludwig/) as Adele, [Keith Lam](/scene/people/keith-lam/) as Falke, and [Erin Lawson](/scene/people/erin-lawson/) as the heiress Oksana Orlofsky. Of course, in Opera 5 fashion, this *Die Fledermaus* is updated, interactive, and audiences will meet a very special guest, by the name of [Pearle Harbour](https://www.facebook.com/thepearleharbour/).
+
+  We spoke with director [Aria Umezawa](/scene/people/aria-umezawa/), who works alongside co-director [Jessica Derventzis](/scene/companies/stujess-productions/), about the fun of "theoretical" staging, and how Opera 5 stays outside the box, even with go-to classics like *Die Fledermaus*.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463227860718/2016-05-14---Aria-Umezawa.jpg.jpg
+publishDate: "2016-05-14T14:01:00+01:00"
+related_articles:
+- articles/check-out-opera-5.md
+- articles/the-future-of-opera-is-indie.md
+- articles/updating-operas-why-stop-at-the-libretto.md
+- articles/die-fledermaus-die-flederfabulous.md
+- articles/opera-5-new-faces-new-show.md
+related_companies:
+- scene/companies/opera-5.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/aria-umezawa.md
+- scene/people/rachel-krehm.md
+- scene/people/julie-ludwig.md
+- scene/people/michael-barrett.md
+- scene/people/keith-lam.md
+- scene/people/erin-lawson.md
+short_description: June 8-11 at Toronto&#039;s 918 Bathurst, Opera 5 presents Die
+  Fledermaus, that beloved, waltz-tastic tale of parties and blackmail. Rachel Krehm
+  and Michael Barrett star as Rosalinde and Eisenstein, sharing the stage with Julie
+  Ludwig as Adele, Keith Lam as Falke, and Erin Lawson as the heiress Oksana Orlofsky.
+  Of course, in Opera 5 fashion, this Die Fledermaus is updated, interactive, and
+  audiences will meet a very special guest, by the name of Pearle Harbour.
+slug: aria-umezawa-opera-5s-die-fledermaus-with-surprises
+title: 'Aria Umezawa: Opera 5&#039;s Die Fledermaus, with surprises'
+---
 
 ## What can we expect from your new, updated script for *Die Fledermaus*? Any surprises you can tempt us with?
 
@@ -30,7 +52,7 @@ A lot of our rehearsal has to be somewhat theoretical because we don't have pack
 
 In the original script, there is a character named Yvan who acts as Orlofsky's valet. He mostly just enters the scene to announce the arrival of a new character, then leaves. When it came to approaching Pearle about being in the show, I thought to myself: Orlofsky is the type of person who likes to be outrageous. She's one step ahead of the curve, and is perpetually bored despite being surrounded by the craziest things, and the best people. It made sense to me that she would have a drag queen as part of her entourage. So Pearle replaced Yvan, and we expanded the role. If you've ever seen Pearle's work, you know that she is sweet with a dark undertone. You can expect that she'll make a few astute and cutting remarks, she'll tell things as they are, and she'll delight in seeing these characters embarrass themselves. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463238699316/2016-05-14---Pearle-Harbour.jpg.jpg)<figcaption>Pearle Harbour, playing Yvan in Opera 5's *Die Fledermaus*.</figcaption>
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463238699316/2016-05-14---Pearle-Harbour.jpg.jpg)<figcaption>Pearle Harbour, playing Yvan in Opera 5's *Die Fledermaus*.</figcaption>
 </figure>
 
 ## Do you have any favourite tunes from the score?

@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-10-25T17:19:00-04:00"
-lastmod = "2015-10-28T09:17:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445809842532/StMike.jpg.jpg"
-publishDate = "2015-10-28T08:21:00-04:00"
-related_articles = ["articles/powerful-stuff-the-elizabeth-krehm-memorial-concert.md","articles/one-voice-orlando-after-pulse.md"]
-related_companies = ["scene/companies/opera-5.md"]
-related_people = ["scene/people/rachel-krehm.md","scene/people/michle-bogdanowicz.md","scene/people/evan-mitchell.md"]
-short_description = "Opera 5 Artistic Director Rachel Krehm and her family present a benefit concert to raise funds for St. Michael&#039;s Hospital, where Rachel&#039;s sister Elizabeth passed away on November 17, 2012 at the age of 22. The concert is part of an annual series started by the Krehm family in 2013, in honour of Elizabeth and of the wonderful care she received from the doctors and nurses of St. Michael&#039;s Hospital."
-slug = "mahlers-2nd-in-memory-of-elizabeth-krehm"
-title = "Mahler&#039;s 2nd: in memory of Elizabeth Krehm"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-10-25T17:19:00-04:00"
+lastmod: "2015-10-28T09:17:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1445809842532/StMike.jpg.jpg
+publishDate: "2015-10-28T08:21:00-04:00"
+related_articles:
+- articles/powerful-stuff-the-elizabeth-krehm-memorial-concert.md
+- articles/one-voice-orlando-after-pulse.md
+related_companies:
+- scene/companies/opera-5.md
+related_people:
+- scene/people/rachel-krehm.md
+- scene/people/michle-bogdanowicz.md
+- scene/people/evan-mitchell.md
+short_description: Opera 5 Artistic Director Rachel Krehm and her family present a
+  benefit concert to raise funds for St. Michael&#039;s Hospital, where Rachel&#039;s
+  sister Elizabeth passed away on November 17, 2012 at the age of 22. The concert
+  is part of an annual series started by the Krehm family in 2013, in honour of Elizabeth
+  and of the wonderful care she received from the doctors and nurses of St. Michael&#039;s
+  Hospital.
+slug: mahlers-2nd-in-memory-of-elizabeth-krehm
+title: 'Mahler&#039;s 2nd: in memory of Elizabeth Krehm'
+---
 
 Next month in Toronto, you can hear some spectacular music while supporting a great cause.
 

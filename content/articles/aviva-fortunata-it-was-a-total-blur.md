@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-02-19T22:15:00+00:00"
-lastmod = "2017-02-20T16:21:00+00:00"
-preamble = "Earlier this month, Canadian soprano [Aviva Fortunata](/scene/people/aviva-fortunata/) got one of those phone calls that's equal parts exciting and horrifying for any understudy. With about 30 minutes notice, Fortunata stepped in for an ailing [Ileana Montalbetti](/scene/people/ileana-montalbetti/) to sing the roles of Gutrune and Third Norn in *Götterdämmerung* at the [Canadian Opera Company](/scene/companies/canadian-opera-company/). \n\nWe asked Fortunata about all of it, from warming up in her Uber ride to the theatre, to the onstage teamwork with her brand new castmates."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487586872615/2017-02-20---Aviva-Fortunata.jpg.jpg"
-publishDate = "2017-02-20T16:07:00+00:00"
-related_articles = ["articles/mireille-asselins-phone-call-from-the-met.md","articles/in-review-gotterdammerung-at-the-coc.md"]
-related_companies = ["scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/aviva-fortunata.md"]
-short_description = "&quot;There wasn&#039;t time for much but to put on my costume and have a quick chat with the other Norns about all the rope action. The next thing I remember is the curtain opening and then the scene ending, it was a total blur! After that, I had 16 minutes to change into my first Gutrune costume. There were at least four ladies waiting to get me ready, it was a real team effort, to say the least.&quot;"
-slug = "aviva-fortunata-it-was-a-total-blur"
-title = "Aviva Fortunata: &quot;It was a total blur!&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-02-19T22:15:00+00:00"
+lastmod: "2017-02-20T16:21:00+00:00"
+preamble: "Earlier this month, Canadian soprano [Aviva Fortunata](/scene/people/aviva-fortunata/)
+  got one of those phone calls that's equal parts exciting and horrifying for any
+  understudy. With about 30 minutes notice, Fortunata stepped in for an ailing [Ileana
+  Montalbetti](/scene/people/ileana-montalbetti/) to sing the roles of Gutrune and
+  Third Norn in *Götterdämmerung* at the [Canadian Opera Company](/scene/companies/canadian-opera-company/).
+  \n\nWe asked Fortunata about all of it, from warming up in her Uber ride to the
+  theatre, to the onstage teamwork with her brand new castmates."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487586872615/2017-02-20---Aviva-Fortunata.jpg.jpg
+publishDate: "2017-02-20T16:07:00+00:00"
+related_articles:
+- articles/mireille-asselins-phone-call-from-the-met.md
+- articles/in-review-gotterdammerung-at-the-coc.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/aviva-fortunata.md
+short_description: '&quot;There wasn&#039;t time for much but to put on my costume
+  and have a quick chat with the other Norns about all the rope action. The next thing
+  I remember is the curtain opening and then the scene ending, it was a total blur!
+  After that, I had 16 minutes to change into my first Gutrune costume. There were
+  at least four ladies waiting to get me ready, it was a real team effort, to say
+  the least.&quot;'
+slug: aviva-fortunata-it-was-a-total-blur
+title: 'Aviva Fortunata: &quot;It was a total blur!&quot;'
+---
 
 ## What were your first thoughts when you got the call?
 
@@ -28,7 +44,7 @@ There wasn't time for much but to put on my costume and have a quick chat with t
 
 I had a few sessions to walk through the staging, but no matter how many times you run it with a chair playing Brünnhilde and a magazine playing Siegfried, it feels really different on stage. What filled the gaps were the amazingly kind and friendly colleagues I mostly met for the first time onstage. If I wasn't in the right place, I would be gently guided there before I even really knew what happened. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487607676128/2017-02-20---Aviva-Curtain-Call.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1487607676128/2017-02-20---Aviva-Curtain-Call.jpg.jpg)
 <figcaption>Aviva Fortunata taking a curtain call after *Götterdämmerung* at the Canadian Opera Company.</figcaption>
 </figure>
 

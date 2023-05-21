@@ -1,19 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-12-20T15:53:00-05:00"
-lastmod = "2016-12-21T17:14:00-05:00"
-preamble = "Greek mezzo-soprano [Karolina Pilou](/scene/people/karolina-pilou/) is gearing up for a milestone in her career, kicking off 2017 with a debut at [The Metropolitan Opera](/scene/companies/the-metropolitan-opera/) as Berta in Rossini's *Il barbiere di Siviglia*. Pilou spoke eloquently about what a Met debut means to her, about the small and mighty opera companies that make up New York's scene, and working within a contemporary - and visually focused - opera industry."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482267696265/2016-12-20---Karolina-Pilou.jpg.jpg"
-primary_image_credit = "Photo by Etrange-Amour."
-publishDate = "2016-12-21T15:36:00-05:00"
-related_articles = ["articles/bronx-opera-50-years-counting.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/loftopera.md"]
-related_people = ["scene/people/karolina-pilou.md"]
-short_description = "&quot;The idea that one person doing the casting can assess what the thousands of people from different cultures and walks of life in a diverse audience will find attractive or not, is still a puzzle to me. We tell the most fascinating and outrageous stories to audiences, but don&#039;t give them enough credit that they can believe a short and overweight tenor or a plus size soprano can be the object of desire in many given opera productions.&quot;"
-slug = "talking-with-singers-karolina-pilou"
-title = "Talking with singers: Karolina Pilou"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-12-20T15:53:00-05:00"
+lastmod: "2016-12-21T17:14:00-05:00"
+preamble: Greek mezzo-soprano [Karolina Pilou](/scene/people/karolina-pilou/) is gearing
+  up for a milestone in her career, kicking off 2017 with a debut at [The Metropolitan
+  Opera](/scene/companies/the-metropolitan-opera/) as Berta in Rossini's *Il barbiere
+  di Siviglia*. Pilou spoke eloquently about what a Met debut means to her, about
+  the small and mighty opera companies that make up New York's scene, and working
+  within a contemporary - and visually focused - opera industry.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482267696265/2016-12-20---Karolina-Pilou.jpg.jpg
+primary_image_credit: Photo by Etrange-Amour.
+publishDate: "2016-12-21T15:36:00-05:00"
+related_articles:
+- articles/bronx-opera-50-years-counting.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/loftopera.md
+related_people:
+- scene/people/karolina-pilou.md
+short_description: '&quot;The idea that one person doing the casting can assess what
+  the thousands of people from different cultures and walks of life in a diverse audience
+  will find attractive or not, is still a puzzle to me. We tell the most fascinating
+  and outrageous stories to audiences, but don&#039;t give them enough credit that
+  they can believe a short and overweight tenor or a plus size soprano can be the
+  object of desire in many given opera productions.&quot;'
+slug: talking-with-singers-karolina-pilou
+title: 'Talking with singers: Karolina Pilou'
+---
 
 ## What do you anticipate most about your debut at the Met?
 
@@ -37,7 +52,9 @@ Don't lose track of why you do it. You sing (I hope) because you love it. Being 
 
 That kind of love that one gives and receives from their family and friends is what makes this journey possible. What would be the point of achieving all of your professional goals and having your dreams come true if you have no one to celebrate them with?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482267772881/2016-12-20---Pilou.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482267772881/2016-12-20---Pilou.jpg.jpg)
 <figcaption>Photo by Etrange-Amour.</figcaption>
 </figure>
 

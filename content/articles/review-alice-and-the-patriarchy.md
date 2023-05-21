@@ -1,16 +1,24 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Review"
-date = "2018-03-21T20:11:00-04:00"
-lastmod = "2018-03-21T20:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677311730/sq---ALICE_Adela-Wagner-1.jpg.jpg"
-primary_image_credit = "Composer Mary Prescott in dress rehearsal for ALICE. (l-r) Hannah Kurth, Blake Burroughs, Augusta Caso, Mary Kate Vom Lehn, Sara Noble, Mary Prescott, Katie Zaffrann, Cara Search, Kannan Vasudevan. Photo credit: Adela Wagner."
-publishDate = "2018-03-21T20:11:00-04:00"
-related_articles = ["articles/review-new-music-quartet-entertains-and-bores.md","articles/spotlight-on-jeremy-hirsch.md"]
-short_description = "The gallery setting served Prescott&#039;s creation. The piece thrives on intimacy. The audience benefits from the freedom to wander around, whisper to their neighbor, and collectively figuring out how to behave in and interact in the brightly lit environment."
-slug = "review-alice-and-the-patriarchy"
-title = "Review: ALICE and the Patriarchy"
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Review
+date: "2018-03-21T20:11:00-04:00"
+lastmod: "2018-03-21T20:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677311730/sq---ALICE_Adela-Wagner-1.jpg.jpg
+primary_image_credit: 'Composer Mary Prescott in dress rehearsal for ALICE. (l-r)
+  Hannah Kurth, Blake Burroughs, Augusta Caso, Mary Kate Vom Lehn, Sara Noble, Mary
+  Prescott, Katie Zaffrann, Cara Search, Kannan Vasudevan. Photo credit: Adela Wagner.'
+publishDate: "2018-03-21T20:11:00-04:00"
+related_articles:
+- articles/review-new-music-quartet-entertains-and-bores.md
+- articles/spotlight-on-jeremy-hirsch.md
+short_description: The gallery setting served Prescott&#039;s creation. The piece
+  thrives on intimacy. The audience benefits from the freedom to wander around, whisper
+  to their neighbor, and collectively figuring out how to behave in and interact in
+  the brightly lit environment.
+slug: review-alice-and-the-patriarchy
+title: 'Review: ALICE and the Patriarchy'
+---
 
 Composer Mary Prescott is easy to root for. Spend a few afternoons churning through [*Where We Go When*](http://mary-prescott.com/wherewegowhen/?offset=1314062220000), and you'll see what I mean.
 
@@ -20,7 +28,9 @@ ALICE (Jeanai La Vita), dressed in white, sits in the center of a small room, he
 
 The women are given a strip of colored cloth and a mantra to repeat ("We all fall down", "Snip, snap, cut if off", "You are not your own"). They bring their cloth strips to ALICE and wrap them around her in accumulating layers. The women repeat these actions until ALICE is up to her neck in fabric.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677399856/ALICE-performance-photo_Mary-Prescott.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677399856/ALICE-performance-photo_Mary-Prescott.jpg.jpg)
 <figcaption>Five Alices: (l-r) Sara Noble, Mary Kate Vom Lehn, Jeanai La Vita, Katie Zaffrann, Cara Search. Photo credit: Mary Prescott.</figcaption>
 </figure>
 
@@ -28,7 +38,9 @@ Then everyone gathers around ALICE, who begins to chant in long, unadorned lines
 
 Opera singers tend to learn the unfortunate stage habit of speaking in an overly-resonated, sustained, quasi-legato voice that sounds totally unlike normal human conversation. There was a lot of that going on. One problem with this grand rhetorical style is that intimate dialogue becomes melodramatic, particularly when the lines have a poetic quality (Prescott culled texts from The Brothers Grimm, the Bible, Neruda, and her own writing).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677427317/ALICE_Adela-Wagner-2.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521677427317/ALICE_Adela-Wagner-2.jpg.jpg)
 <figcaption>Composer Mary Prescott in rehearsal for ALICE: (l-r) Mary Prescott, Jeanai La Vita, Sara Noble. Photo credit: Adela Wagner.</figcaption>
 </figure>
 

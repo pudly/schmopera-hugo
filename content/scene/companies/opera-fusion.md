@@ -1,28 +1,28 @@
-+++
-address = ""
-date = "2019-02-20T01:56:05+00:00"
-email = "info@operafusion.org"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550627611/media/2019/02/LogoOperaFusion.jpg"
-primary_image_credit = ""
-related_people = ["scene/people/paul-la-rosa.md", "scene/people/laura-león.md"]
-slug = "opera-fusion"
-title = "Opera Fusion"
-type_of_company = "Opera Company"
-website = "http://www.operafusion.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/operafusionfl/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/OperaFusionInc"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCu4CfRzV-bG2o2V5PqXZR2w"
-
-+++
+---
+address: ""
+date: "2019-02-20T01:56:05+00:00"
+email: info@operafusion.org
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550627611/media/2019/02/LogoOperaFusion.jpg
+primary_image_credit: ""
+related_people:
+- scene/people/paul-la-rosa.md
+- scene/people/laura-león.md
+slug: opera-fusion
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/operafusionfl/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/OperaFusionInc
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCu4CfRzV-bG2o2V5PqXZR2w
+title: Opera Fusion
+type_of_company: Opera Company
+website: http://www.operafusion.org/
+---
 ### Our mission
 
 * To build new audiences for, and to introduce new generations to, the operatic art form;

@@ -1,14 +1,27 @@
-+++
-date = "2017-01-11T20:08:00+00:00"
-discipline = "Contralto"
-lastmod = "2017-01-11T20:10:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484165028041/2017-01-11---Meredith-Arwardy.jpg.jpg"
-primary_image_credit = "Simon Pauly"
-publishDate = "2017-01-11T20:08:00+00:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/canadian-opera-company.md","scene/companies/opera-philadelphia.md","scene/companies/the-dallas-opera.md","scene/companies/english-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/houston-grand-opera.md","scene/companies/merola-opera-program.md","scene/companies/los-angeles-opera.md","scene/companies/oper-frankfurt.md"]
-slug = "meredith-arwardy"
-title = "Meredith Arwardy"
-+++
+---
+_template: people_single
+date: "2017-01-11T20:08:00+00:00"
+discipline: Contralto
+lastmod: "2017-01-11T20:10:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484165028041/2017-01-11---Meredith-Arwardy.jpg.jpg
+primary_image_credit: Simon Pauly
+publishDate: "2017-01-11T20:08:00+00:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/oper-frankfurt.md
+slug: meredith-arwardy
+title: Meredith Arwardy
+---
 
 Hailed by critics as a "rarity" and "a genuine contralto," Meredith Arwady continues to delight audiences in the United States and abroad with rich vocal intensity and captivating stage presence. 
 

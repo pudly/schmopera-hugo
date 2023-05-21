@@ -1,18 +1,21 @@
-+++
-date = "2015-04-06T14:44:00-04:00"
-discipline = "Composer"
-lastmod = "2015-04-06T14:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428345713352/AlexinaLouie.jpg.jpg"
-publishDate = "2015-04-06T14:44:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md"]
-slug = "alexina-louie"
-title = "Alexina Louie"
-website = "http://www.alexinalouie.ca/home"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Alexina-Louie/108011175918879"
-+++
+---
+date: "2015-04-06T14:44:00-04:00"
+discipline: Composer
+lastmod: "2015-04-06T14:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428345713352/AlexinaLouie.jpg.jpg
+publishDate: "2015-04-06T14:44:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+slug: alexina-louie
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Alexina-Louie/108011175918879
+title: Alexina Louie
+website: http://www.alexinalouie.ca/home
+---
 
 <p>
 	One of Canadaʼs most sought after composers, Alexina Louie has written for many of<br>

@@ -1,19 +1,22 @@
-+++
-date = "2017-09-06T21:52:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-09-06T21:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504749131622/Julian_Melearts_promo-900x626.jpg.jpg"
-primary_image_credit = "Diana Roberts"
-publishDate = "2017-09-06T21:52:00-04:00"
-related_companies = ["scene/companies/mahogany-opera-group.md","scene/companies/opera-holland-park.md"]
-slug = "julien-van-mellaerts"
-title = "Julien Van Mellaerts"
-website = "https://www.julienvanmellaerts.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/julienvmnz"
-+++
+---
+date: "2017-09-06T21:52:00-04:00"
+discipline: Baritone
+lastmod: "2017-09-06T21:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504749131622/Julian_Melearts_promo-900x626.jpg.jpg
+primary_image_credit: Diana Roberts
+publishDate: "2017-09-06T21:52:00-04:00"
+related_companies:
+- scene/companies/mahogany-opera-group.md
+- scene/companies/opera-holland-park.md
+slug: julien-van-mellaerts
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/julienvmnz
+title: Julien Van Mellaerts
+website: https://www.julienvanmellaerts.com/
+---
 
 Winner of the 2017 Kathleen Ferrier Awards, awarded a 2016 Kiwi Music Scholarship, a 2016 Countess of Munster Award, Winner of the 2016 Brooks-van der Pump English Song Competition, the 2016 Joan Chissell Schumann Prize and Winner of the 2015 Maureen Lehane Vocal Arts Award, British / New Zealand baritone Julien Van Mellaerts studied at the University of Otago, before joining the International Opera School of the Royal College of Music. His studies have been supported by the Josephine Baker Trust, Janet Bolton O’Sullivan Scholarship, the Hunn Trust, an Alex Templeton Award, a Laing Award and the Wates Foundation Trust and he graduated in Summer 2017, having been a Fishmongers Company Scholar, supported by a Thomas Weinberger Award studying with Russell Smythe. On Graduation, he was awarded the Tagore Gold Medal.
 

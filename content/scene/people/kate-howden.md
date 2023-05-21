@@ -1,18 +1,21 @@
-+++
-date = "2016-11-05T16:40:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-11-05T16:40:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478363930366/kate-howden-2.jpg.jpg"
-publishDate = "2016-11-05T16:40:00+00:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/shadwell-opera.md"]
-slug = "kate-howden"
-title = "Kate Howden"
-website = "http://www.katehowden.co.uk/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/katehowden"
-+++
+---
+date: "2016-11-05T16:40:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2016-11-05T16:40:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1478363930366/kate-howden-2.jpg.jpg
+publishDate: "2016-11-05T16:40:00+00:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/shadwell-opera.md
+slug: kate-howden
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/katehowden
+title: Kate Howden
+website: http://www.katehowden.co.uk/
+---
 
 Australian mezzo-soprano Kate Howden studied at Trinity Laban with Ameral Gunson, the Royal Academy of Music with Elizabeth Ritchie and Jonathan Papp, and the National Opera Studio, London. She currently studies privately with Susan Roberts.
 

@@ -1,25 +1,28 @@
-+++
-date = "2017-11-27T18:22:00-05:00"
-discipline = "Tenor"
-lastmod = "2017-11-27T18:22:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511824709659/KCP_20150424_IanMcEuen_FinalSelect_2195.jpg.jpg"
-publishDate = "2017-11-27T18:22:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/songfest.md","scene/companies/nashville-opera.md","scene/companies/washington-national-opera.md"]
-slug = "ian-mceuen"
-title = "Ian McEuen"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/IanMceuen/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/imceuen"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/imceuen/"
-+++
+---
+date: "2017-11-27T18:22:00-05:00"
+discipline: Tenor
+lastmod: "2017-11-27T18:22:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511824709659/KCP_20150424_IanMcEuen_FinalSelect_2195.jpg.jpg
+publishDate: "2017-11-27T18:22:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/songfest.md
+- scene/companies/nashville-opera.md
+- scene/companies/washington-national-opera.md
+slug: ian-mceuen
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/IanMceuen/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/imceuen
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/imceuen/
+title: Ian McEuen
+---
 
 oung tenor Ian McEuen has been praised for his versatility as a performer, impressing audiences with his "sweet lyric tone" and "gravitas on the stage,“ as well as his ability to evoke laughter "just for walking across the stage." Mr. McEuen began the 2016-17 season with his role and company debuts as Oliver Sacks in the UrbanArias production of *The Man who Mistook his Wife for a Hat*. In a turn of events rare in the opera world, he immediately reprised the role in a new production with Quantum Theatre. Most recently, he made his role and house debuts as Tobias Ragg in *Sweeney Todd* with New Orleans Opera. Next, Mr. McEuen will appear as Pang for his company and role debuts in Virginia Opera's *Turandot*. He will finish the season with his Kennedy Center Opera House debut as Goro in Jun Kaneko's production of *Madame Butterfly* at Washington National Opera.
 

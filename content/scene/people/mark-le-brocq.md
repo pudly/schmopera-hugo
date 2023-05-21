@@ -1,13 +1,21 @@
-+++
-date = "2017-07-26T22:57:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-07-26T22:57:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501124165221/Colour-Publicity-A.jpg.jpg"
-publishDate = "2017-07-26T22:57:00-04:00"
-related_companies = ["scene/companies/welsh-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/northern-ireland-opera.md","scene/companies/opera-north.md","scene/companies/opera-holland-park.md","scene/companies/garsington-opera.md","scene/companies/english-national-opera.md"]
-slug = "mark-le-brocq"
-title = "Mark Le Brocq"
-+++
+---
+_template: people_single
+date: "2017-07-26T22:57:00-04:00"
+discipline: Tenor
+lastmod: "2017-07-26T22:57:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501124165221/Colour-Publicity-A.jpg.jpg
+publishDate: "2017-07-26T22:57:00-04:00"
+related_companies:
+- scene/companies/welsh-national-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/northern-ireland-opera.md
+- scene/companies/opera-north.md
+- scene/companies/opera-holland-park.md
+- scene/companies/garsington-opera.md
+- scene/companies/english-national-opera.md
+slug: mark-le-brocq
+title: Mark Le Brocq
+---
 
 Mark Le Brocq held a choral scholarship at St. Catharine’s College, Cambridge where he read English. He studied at the Royal Academy of Music with Kenneth Bowen and later continued at the National Opera Studio where he was sponsored by The Friends of English National Opera.
 

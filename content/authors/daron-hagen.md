@@ -1,21 +1,23 @@
-+++
-date = "2017-07-14T14:13:00-04:00"
-lastmod = "2017-07-14T14:13:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500055971887/2017-07-14---Daron_Hagen_full_by_Karen_Pearson.jpg.jpg"
-publishDate = "2017-07-14T14:13:00-04:00"
-short_bio = "Daron Hagen is a prolific composer of acoustic and electro-acoustic music for the concert hall and stage. He is also a stage director, conductor, librettist, essayist, clinician, and collaborative pianist. Described as a “composer born to write operas” (*Chicago Tribune*) whose music is “dazzling, unsettling, exuberant, and heroic” (*The New Yorker*), his opera Amelia was described as “one of the 20 best operas of the 21st century” by *Opera News*. Hagen’s work often includes collaborations with both mainstream and cutting-edge filmmakers, directors, conductors, choreographers, and musicians worldwide.\n\nPhoto: Karen Pearson."
-slug = "daron-hagen"
-title = "Daron Hagen"
-website = "http://www.daronhagen.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/DaronHagenOfficial"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/burningsled"
-+++
+---
+date: "2017-07-14T14:13:00-04:00"
+lastmod: "2017-07-14T14:13:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500055971887/2017-07-14---Daron_Hagen_full_by_Karen_Pearson.jpg.jpg
+publishDate: "2017-07-14T14:13:00-04:00"
+short_bio: |-
+  Daron Hagen is a prolific composer of acoustic and electro-acoustic music for the concert hall and stage. He is also a stage director, conductor, librettist, essayist, clinician, and collaborative pianist. Described as a “composer born to write operas” (*Chicago Tribune*) whose music is “dazzling, unsettling, exuberant, and heroic” (*The New Yorker*), his opera Amelia was described as “one of the 20 best operas of the 21st century” by *Opera News*. Hagen’s work often includes collaborations with both mainstream and cutting-edge filmmakers, directors, conductors, choreographers, and musicians worldwide.
+
+  Photo: Karen Pearson.
+slug: daron-hagen
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/DaronHagenOfficial
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/burningsled
+title: Daron Hagen
+website: http://www.daronhagen.com/
+---
 
 Daron Hagen (b. 1961, Milwaukee, WI) writes music, libretti, and essays, records and performs as pianist and conductor, stage directs, and has run foundations and music festivals. He has worked with orchestras, opera companies, and musicians at every level -- from the New York Philharmonic and Seattle Opera to the Youth Orchestra of San Antonio and high school choruses. His catalogue of over 300 compositions includes works in every genre. His work has received an American Academy of Arts and Letters Academy Award, the Guggenheim Fellowship, the Kennedy Center Frieheim Prize, and two Rockefeller Foundation Bellagio Fellowships. He currently lives in Upstate New York with his wife and two young sons.
 

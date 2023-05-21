@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-04-29T12:10:00+01:00"
-lastmod = "2016-04-29T14:03:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461932677954/2016-04-29---Cadogan-Hall.jpg.jpg"
-primary_image_credit = "Cadogan Hall."
-publishDate = "2016-04-29T13:55:00+01:00"
-related_articles = ["articles/in-review-rowan-pierce-the-london-handel-players.md","articles/a-warm-introduction-the-mozartists-at-wigmore-hall.md","articles/a-very-happy-20th-birthday-for-classical-opera.md"]
-related_companies = ["scene/companies/classical-opera.md"]
-related_people = ["scene/people/ian-page.md","scene/people/rachel-kelly.md","scene/people/angela-simkin.md"]
-short_description = "Perhaps it&#039;s true that Jommelli will not be remembered as one of the great composers of his time, but Il Vologeso is a great opera. It&#039;s full of love and lust, neglected and abused women, political differences, pride, and just endings. Under Ian Page, the Orchestra of Classical Opera started with a burst of energy that stayed present throughout the night; no two phrases were alike, and the orchestra were main players in the drama alongside the singers."
-slug = "in-review-classical-operas-il-vologeso"
-title = "In review: Classical Opera&#039;s Il Vologeso"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-04-29T12:10:00+01:00"
+lastmod: "2016-04-29T14:03:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461932677954/2016-04-29---Cadogan-Hall.jpg.jpg
+primary_image_credit: Cadogan Hall.
+publishDate: "2016-04-29T13:55:00+01:00"
+related_articles:
+- articles/in-review-rowan-pierce-the-london-handel-players.md
+- articles/a-warm-introduction-the-mozartists-at-wigmore-hall.md
+- articles/a-very-happy-20th-birthday-for-classical-opera.md
+related_companies:
+- scene/companies/classical-opera.md
+related_people:
+- scene/people/ian-page.md
+- scene/people/rachel-kelly.md
+- scene/people/angela-simkin.md
+short_description: Perhaps it&#039;s true that Jommelli will not be remembered as
+  one of the great composers of his time, but Il Vologeso is a great opera. It&#039;s
+  full of love and lust, neglected and abused women, political differences, pride,
+  and just endings. Under Ian Page, the Orchestra of Classical Opera started with
+  a burst of energy that stayed present throughout the night; no two phrases were
+  alike, and the orchestra were main players in the drama alongside the singers.
+slug: in-review-classical-operas-il-vologeso
+title: 'In review: Classical Opera&#039;s Il Vologeso'
+---
 
 When we spoke with [Ian Page](/ian-page-mozart-imagination/), conductor and Artistic Director of [Classical Opera](/scene/companies/classical-opera/), he was passionate about the musical fun, play, and imagination that can come out of paying attention to detail. Period instruments and tuning, and extensive study of old scores can often result in not much more than tomes of trivia and perhaps a satisfying amount of historical accuracy. Instead, Page and the Classical Opera ensemble take what's native and contemporary about their 18th-century repertoire, and hand it fully and proudly back to the audience. In other words, they prove that respect for the old can illuminate why this music is inspiring, both for Mozart and for 21st-century audiences.
 

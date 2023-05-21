@@ -1,20 +1,25 @@
-+++
-date = "2017-01-28T10:02:00+00:00"
-discipline = "Countertenor"
-lastmod = "2017-01-28T10:02:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546829792/media/2019/01/JordanRutter.jpg"
-primary_image_credit = "Chris Fain"
-publishDate = "2017-01-28T10:02:00+00:00"
-related_companies = ["scene/companies/opera-on-the-avalon.md", "scene/companies/nashville-opera.md", "scene/companies/brooklyn-academy-of-music.md", "scene/companies/manhattan-school-of-music.md", "scene/companies/american-opera-projects.md"]
-slug = "jordan-rutter"
-title = "Jordan Rutter"
-website = "http://www.jordanrutter.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jordanrutternyc"
-
-+++
+---
+date: "2017-01-28T10:02:00+00:00"
+discipline: Countertenor
+lastmod: "2017-01-28T10:02:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546829792/media/2019/01/JordanRutter.jpg
+primary_image_credit: Chris Fain
+publishDate: "2017-01-28T10:02:00+00:00"
+related_companies:
+- scene/companies/opera-on-the-avalon.md
+- scene/companies/nashville-opera.md
+- scene/companies/brooklyn-academy-of-music.md
+- scene/companies/manhattan-school-of-music.md
+- scene/companies/american-opera-projects.md
+slug: jordan-rutter
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/jordanrutternyc
+title: Jordan Rutter
+website: http://www.jordanrutter.com/
+---
 New York City-based countertenor Jordan Rutter enjoys a young career embracing opera, concert repertoire, and contemporary work. Highlights of his operatic activity include Oberon in *A Midsummer Night's Dream* with Opera on the Avalon, the Sorceress in *Dido and Aeneas* with the Hawaii Performing Arts Festival, and creating the role of Le fils de Macduff in the American French-language premiere of Ernest Bloch's *Macbeth*, a performance which earned Mr. Rutter praise from both Opera News and Gay City News.
 
 Mr. Rutter’s oratorio credits include Pergolesi’s *Stabat Mater*, Handel’s *Messiah*, Mozart’s *Requiem* and Bernstein’s *Chichester Psalms*. He has also performed the cantatas for alto solo Bach BWV 35 Geist und Seele wird verwirret and Haydn’s *Arianna a Naxos*.

@@ -1,17 +1,27 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-06-01T15:41:00-04:00"
-lastmod = "2015-06-02T16:32:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433270355896/TwoBirds.jpg.jpg"
-publishDate = "2015-06-02T14:41:00-04:00"
-related_articles = ["articles/opera-in-spring.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/krisztina-szab.md","scene/people/stephen-hegedus.md","scene/people/christopher-mokrzewski.md"]
-short_description = "It&#039;s not hard to see why Harawi is a good partner to Die Schöne Müllerin. Love, seemingly one-sided. results in the complete spectrum between ecstasy and death. I was curious to know more, so I sat down with pianist, Messaien enthusiast, and Against the Grain Theatre Music Director, Topher Mokrzewski."
-slug = "harawi-whats-that"
-title = "Harawi? What&#039;s that?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-06-01T15:41:00-04:00"
+lastmod: "2015-06-02T16:32:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433270355896/TwoBirds.jpg.jpg
+publishDate: "2015-06-02T14:41:00-04:00"
+related_articles:
+- articles/opera-in-spring.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/krisztina-szab.md
+- scene/people/stephen-hegedus.md
+- scene/people/christopher-mokrzewski.md
+short_description: It&#039;s not hard to see why Harawi is a good partner to Die Schöne
+  Müllerin. Love, seemingly one-sided. results in the complete spectrum between ecstasy
+  and death. I was curious to know more, so I sat down with pianist, Messaien enthusiast,
+  and Against the Grain Theatre Music Director, Topher Mokrzewski.
+slug: harawi-whats-that
+title: Harawi? What&#039;s that?
+---
 
 Olivier Messaien isn't known for his opera (he wrote just one, the 5-hour, heavily Catholic *St. Francois d'Assise*), but he's certainly known for lofty subjects. Against the Grain Theatre opens [*Death & Desire*](http://againstthegraintheatre.com/shows/deathanddesire) tonight, which combines Schubert's *Die schöne Müllerin* with Messaien's *Harawi*, shuffling them together "like a deck of cards," to quote Artistic Director Joel Ivany. Perhaps it's not surprising that, compared to the tomes written about Schubert and his famous song cycle, there is little to say about *Harawi* that can't be deduced from the score. While that didn't stop me from trying to find out more, I concluded early on that the dearth of contextual information about *Harawi* is indicative of how the audiences experiences the piece. 
 

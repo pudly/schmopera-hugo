@@ -1,17 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-09-09T10:51:00-04:00"
-lastmod = "2015-09-09T13:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441810124816/Bugs3Square.jpg.jpg"
-publishDate = "2015-09-09T12:05:00-04:00"
-related_articles = []
-related_companies = ["scene/companies/opera-lyra-ottawa.md"]
-related_people = ["scene/people/joshua-hopkins.md","scene/people/marion-newman.md"]
-short_description = "Opera Lyra Ottawa&#039;s production of The Barber of Seville opens September 26th, and not only will baritone Joshua Hopkins sing the title role (Torontonians caught him in the COC&#039;s Barber last spring), he&#039;ll be getting a lesson in the tonsorial arts (#wordoftheday!) from House of Barons Barber Shop."
-slug = "ottawas-barber-is-brushing-up-his-skills"
-title = "Ottawa&#039;s Barber is brushing up his skills"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-09-09T10:51:00-04:00"
+lastmod: "2015-09-09T13:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441810124816/Bugs3Square.jpg.jpg
+publishDate: "2015-09-09T12:05:00-04:00"
+related_articles: []
+related_companies:
+- scene/companies/opera-lyra-ottawa.md
+related_people:
+- scene/people/joshua-hopkins.md
+- scene/people/marion-newman.md
+short_description: Opera Lyra Ottawa&#039;s production of The Barber of Seville opens
+  September 26th, and not only will baritone Joshua Hopkins sing the title role (Torontonians
+  caught him in the COC&#039;s Barber last spring), he&#039;ll be getting a lesson
+  in the tonsorial arts (#wordoftheday!) from House of Barons Barber Shop.
+slug: ottawas-barber-is-brushing-up-his-skills
+title: Ottawa&#039;s Barber is brushing up his skills
+---
 
 Ottawans, do you love opera? Do you love a good haircut? Head over to Byward Market Square tomorrow to find out more about both.
 

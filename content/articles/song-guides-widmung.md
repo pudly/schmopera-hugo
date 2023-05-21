@@ -1,19 +1,41 @@
-+++
-author = ["authors/megan-moore.md"]
-categories = "How-to"
-date = "2015-12-12T12:34:00-05:00"
-lastmod = "2015-12-17T12:15:00-05:00"
-preamble = "We're continuing our [Song Guides](/song-guides-die-nacht/) series with another guest post by mezzo-soprano and founding member of the art song initiative [Lynx Project](/scene/companies/lynx-project/), [Megan Moore](/scene/people/megan-moore/). \"Widmung\" is one of many songs Robert Schumann wrote for his wife, Clara. Interesting history is the fun part, and to get there, singers need to master things like singing legato in German, and pulling off a successful two-against-three. Moore helps her fellow Lieder lovers through this beauty of German Romanticism. The text, as translated by Emily Ezust on [lieder.net](http://www.lieder.net/lieder/get_text.html?TextId=14028):\n\nYou my soul, you my heart,\nyou my bliss, o you my pain,\nyou the world in which I live;\nyou my heaven, in which I float,\no you my grave, into which \nI eternally cast my grief.\nYou are rest, you are peace,\nyou are bestowed upon me from heaven.\nThat you love me gives me my worth;\nyour gaze transfigures me;\nyou raise me lovingly above myself,\nmy good spirit, my better self!"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450370548794/2015-12-17---Clara.jpg.jpg"
-primary_image_credit = "Clara Schumann, née Clara Wieck."
-publishDate = "2015-12-17T12:12:00-05:00"
-related_articles = ["articles/song-guides-die-nacht.md","articles/aria-guides-quando-men-vo.md"]
-related_companies = ["scene/companies/lynx-project.md"]
-related_people = ["scene/people/megan-moore.md","scene/people/caitleen-kahn.md"]
-short_description = "We&#039;re continuing our Song Guides series with another guest post by mezzo-soprano and founding member of the art song initiative Lynx Project, Megan Moore. Schumann&#039;s &quot;Widmung&quot; is one of many songs Robert Schumann wrote for his wife, Clara. That&#039;s the fun part, and to get there, singers need to master things like singing legato in German, and pulling off a successful two-against-three."
-slug = "song-guides-widmung"
-title = "Song guides: Widmung"
-+++
+---
+author:
+- authors/megan-moore.md
+categories: How-to
+date: "2015-12-12T12:34:00-05:00"
+lastmod: "2015-12-17T12:15:00-05:00"
+preamble: "We're continuing our [Song Guides](/song-guides-die-nacht/) series with
+  another guest post by mezzo-soprano and founding member of the art song initiative
+  [Lynx Project](/scene/companies/lynx-project/), [Megan Moore](/scene/people/megan-moore/).
+  \"Widmung\" is one of many songs Robert Schumann wrote for his wife, Clara. Interesting
+  history is the fun part, and to get there, singers need to master things like singing
+  legato in German, and pulling off a successful two-against-three. Moore helps her
+  fellow Lieder lovers through this beauty of German Romanticism. The text, as translated
+  by Emily Ezust on [lieder.net](http://www.lieder.net/lieder/get_text.html?TextId=14028):\n\nYou
+  my soul, you my heart,\nyou my bliss, o you my pain,\nyou the world in which I live;\nyou
+  my heaven, in which I float,\no you my grave, into which \nI eternally cast my grief.\nYou
+  are rest, you are peace,\nyou are bestowed upon me from heaven.\nThat you love me
+  gives me my worth;\nyour gaze transfigures me;\nyou raise me lovingly above myself,\nmy
+  good spirit, my better self!"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450370548794/2015-12-17---Clara.jpg.jpg
+primary_image_credit: Clara Schumann, née Clara Wieck.
+publishDate: "2015-12-17T12:12:00-05:00"
+related_articles:
+- articles/song-guides-die-nacht.md
+- articles/aria-guides-quando-men-vo.md
+related_companies:
+- scene/companies/lynx-project.md
+related_people:
+- scene/people/megan-moore.md
+- scene/people/caitleen-kahn.md
+short_description: We&#039;re continuing our Song Guides series with another guest
+  post by mezzo-soprano and founding member of the art song initiative Lynx Project,
+  Megan Moore. Schumann&#039;s &quot;Widmung&quot; is one of many songs Robert Schumann
+  wrote for his wife, Clara. That&#039;s the fun part, and to get there, singers need
+  to master things like singing legato in German, and pulling off a successful two-against-three.
+slug: song-guides-widmung
+title: 'Song guides: Widmung'
+---
 
 ## So what is the correct tempo, anyway?
 
@@ -41,7 +63,9 @@ integrity of the legato line through "schwebe". In such an instance, this breath
 
 <figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450370350575/Song-Guide---Widmung---L.jpg.jpg)</figure>6. Really stretch this *ritardando* across the bar line. Create added anticipation by enjoying the articulation of the [l] in “liebend”, almost as if it to double it. This will intensify the delicious modulation back to tonic.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450370285274/Song-Guide---Widmung---ritard.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450370285274/Song-Guide---Widmung---ritard.jpg.jpg)
 </figure>7. Think of tenuto markings over "mein guter Geist". This will give energy to the 
 ritardando, and new emphasis as the text repeats for the final time.
 

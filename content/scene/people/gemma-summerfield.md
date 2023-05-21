@@ -1,18 +1,21 @@
-+++
-date = "2016-04-29T13:32:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-04-29T13:32:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461933117011/2016-04-29---Gemma-Summerfield.jpg.jpg"
-publishDate = "2016-04-29T13:32:00+01:00"
-related_companies = ["scene/companies/classical-opera.md","scene/companies/scottish-opera.md"]
-slug = "gemma-summerfield"
-title = "Gemma Summerfield"
-website = "http://www.gemmaloissummerfieldsoprano.co.uk/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/GemmaLois1"
-+++
+---
+date: "2016-04-29T13:32:00+01:00"
+discipline: Soprano
+lastmod: "2016-04-29T13:32:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461933117011/2016-04-29---Gemma-Summerfield.jpg.jpg
+publishDate: "2016-04-29T13:32:00+01:00"
+related_companies:
+- scene/companies/classical-opera.md
+- scene/companies/scottish-opera.md
+slug: gemma-summerfield
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/GemmaLois1
+title: Gemma Summerfield
+website: http://www.gemmaloissummerfieldsoprano.co.uk/
+---
 
 At the 2015 Kathleen Ferrier Awards soprano Gemma Lois Summerfield 'swept the board' winning both the prestigious 1st prize and the Loveday Song Prize for her performance of Sibelius's 'Flickan kom ifrån sin älsklings möte'. These awards were gratefully received by Gemma in full recognition of the efforts exhibited by Duo Partner, Sebastian Wybrew; Teacher, Rosa Mannion; and Coach, Simon Lepper.
  

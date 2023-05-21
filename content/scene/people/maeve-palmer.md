@@ -1,14 +1,18 @@
-+++
-date = "2015-07-24T01:18:00+02:00"
-discipline = "Soprano"
-lastmod = "2015-08-24T17:19:00+02:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437693372148/MP193Square.jpg.jpg"
-publishDate = "2015-07-24T01:18:00+02:00"
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/royal-conservatory-of-music.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-slug = "maeve-palmer"
-title = "Maeve Palmer"
-website = "http://www.maevepalmer.com/home.html"
-+++
+---
+_template: people_single
+date: "2015-07-24T01:18:00+02:00"
+discipline: Soprano
+lastmod: "2015-08-24T17:19:00+02:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437693372148/MP193Square.jpg.jpg
+publishDate: "2015-07-24T01:18:00+02:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/royal-conservatory-of-music.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+slug: maeve-palmer
+title: Maeve Palmer
+website: http://www.maevepalmer.com/home.html
+---
 
 Maeve Palmer is a soprano in her Masters of Music in voice performance at the University of Toronto under the direction of Mary Morrison, O.C.  This year Maeve is the recipient of the Richard March Graduate Fellowship (U of T), and will be singing as a Sidgwick Scholar with the Orpheus Choir of Toronto under the direction of Robert Cooper.
 

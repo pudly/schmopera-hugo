@@ -1,17 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-05-10T10:15:00+01:00"
-lastmod = "2016-05-10T11:42:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462875191528/2016-05-10---Kronos-Quartet.jpg.jpg"
-primary_image_credit = "The Kronos Quartet. (l-r) John Sherba, Sunny Yang, Hank Dutt, and David Harrington. Photo: Jay Blakesberrg."
-publishDate = "2016-05-10T11:42:00+01:00"
-related_articles = ["articles/music-as-theatre-a-chamber-concert-in-banff.md"]
-related_companies = ["scene/companies/kronos-quartet.md"]
-short_description = "Though not surprising, based on the Quartet&#039;s history, their concert was one that reminded us that there still exist new sounds, new ways of playing these very old instruments. That included the &quot;show&quot; aspect of a string quartet performance; now a staple element of the music they perform, theirs is an organic use of amplification, helped by sound designer Scott Fraser, and effective lighting design, by Brian H. Scott."
-slug = "constantly-new-the-kronos-quartet"
-title = "Constantly new: the Kronos Quartet"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-05-10T10:15:00+01:00"
+lastmod: "2016-05-10T11:42:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462875191528/2016-05-10---Kronos-Quartet.jpg.jpg
+primary_image_credit: 'The Kronos Quartet. (l-r) John Sherba, Sunny Yang, Hank Dutt,
+  and David Harrington. Photo: Jay Blakesberrg.'
+publishDate: "2016-05-10T11:42:00+01:00"
+related_articles:
+- articles/music-as-theatre-a-chamber-concert-in-banff.md
+related_companies:
+- scene/companies/kronos-quartet.md
+short_description: Though not surprising, based on the Quartet&#039;s history, their
+  concert was one that reminded us that there still exist new sounds, new ways of
+  playing these very old instruments. That included the &quot;show&quot; aspect of
+  a string quartet performance; now a staple element of the music they perform, theirs
+  is an organic use of amplification, helped by sound designer Scott Fraser, and effective
+  lighting design, by Brian H. Scott.
+slug: constantly-new-the-kronos-quartet
+title: 'Constantly new: the Kronos Quartet'
+---
 
 Last night's concert at the Barbican Centre was a dense, tangible reminder of why the [Kronos Quartet](http://kronosquartet.org/home) is a leading ensemble in contemporary music. After over 40 years together, Kronos has had over 750 pieces of music written for them; their collaborations reach across borders and genres, including music by Terry Riley, Henryk Górecki, Philip Glass, Wu Man, Alim Qasimov, and Asha Bhosle, and they have shared the stage with everyone from Paul McCartney to Tom Waits to David Bowie.
 

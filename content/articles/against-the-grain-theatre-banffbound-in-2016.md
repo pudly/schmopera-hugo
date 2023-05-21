@@ -1,17 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2015-12-15T10:12:00-05:00"
-lastmod = "2015-12-15T14:03:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450198037187/2015-12-15---Banff.jpg.jpg"
-publishDate = "2015-12-15T12:34:00-05:00"
-related_articles = ["articles/banff-diaries-a-postlude.md","articles/despina-in-banff.md","articles/banff-diaries-day-0.md","articles/atg-in-banff-2015.md","articles/more-atg-in-banff-2015.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/the-banff-centre.md"]
-related_people = ["scene/people/joel-ivany.md","scene/people/amiel-gladstone.md","scene/people/christopher-mokrzewski.md","scene/people/russell-braun.md","scene/people/alexander-neef.md","scene/people/adrianne-pieczonka.md"]
-short_description = "Open Space is noticeably forward-thinking in its approach to training young artists. 13 young singers, 1 assistant director, and 1 assistant répétiteur will be selected for 5 weeks of music and staging rehearsals, lessons, coachings, and performance opportunities within the Banff community. &quot;The focus of Open Space is to impart the skills of tomorrow to the young opera professionals of today.&quot;"
-slug = "against-the-grain-theatre-banffbound-in-2016"
-title = "Against the Grain Theatre: Banff-bound in 2016"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2015-12-15T10:12:00-05:00"
+lastmod: "2015-12-15T14:03:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1450198037187/2015-12-15---Banff.jpg.jpg
+publishDate: "2015-12-15T12:34:00-05:00"
+related_articles:
+- articles/banff-diaries-a-postlude.md
+- articles/despina-in-banff.md
+- articles/banff-diaries-day-0.md
+- articles/atg-in-banff-2015.md
+- articles/more-atg-in-banff-2015.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-banff-centre.md
+related_people:
+- scene/people/joel-ivany.md
+- scene/people/amiel-gladstone.md
+- scene/people/christopher-mokrzewski.md
+- scene/people/russell-braun.md
+- scene/people/alexander-neef.md
+- scene/people/adrianne-pieczonka.md
+short_description: Open Space is noticeably forward-thinking in its approach to training
+  young artists. 13 young singers, 1 assistant director, and 1 assistant répétiteur
+  will be selected for 5 weeks of music and staging rehearsals, lessons, coachings,
+  and performance opportunities within the Banff community. &quot;The focus of Open
+  Space is to impart the skills of tomorrow to the young opera professionals of today.&quot;
+slug: against-the-grain-theatre-banffbound-in-2016
+title: 'Against the Grain Theatre: Banff-bound in 2016'
+---
 
 The [announcement](https://www.banffcentre.ca/programs/open-space-opera-21st-century) is out, and it's official: [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/) will spend a third summer at [The Banff Centre](/scene/companies/the-banff-centre/), for [*Open Space: Opera in the 21st Century*](https://www.banffcentre.ca/programs/open-space-opera-21st-century), a program in partnership with the [Canadian Opera Company](/scene/companies/canadian-opera-company/). 
 

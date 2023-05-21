@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2016-01-18T11:46:00-05:00"
-lastmod = "2016-01-28T20:25:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454030634731/DeathtoStock_London9Resized.jpg.jpg"
-publishDate = "2016-01-29T09:00:00-05:00"
-related_articles = ["articles/the-heart-and-the-art.md","articles/teeoh-eh.md"]
-related_companies = ["scene/companies/the-bicycle-opera-project.md","scene/companies/against-the-grain-theatre.md","scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/krisztina-szab.md"]
-short_description = "A question often lingers: would I love all of this stuff as much if you didn&#039;t already know half of the creative team? In an interesting experiment in journalistic bias, London is a place where there&#039;s no shortage of excellent music and theatre, yet in comparison to writing about Toronto, I&#039;ll have little personal connection to the artists onstage. Basically, the art that London has to offer will speak for itself, at least to me."
-slug = "shes-leaving-home"
-title = "She&#039;s leaving home"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2016-01-18T11:46:00-05:00"
+lastmod: "2016-01-28T20:25:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1454030634731/DeathtoStock_London9Resized.jpg.jpg
+publishDate: "2016-01-29T09:00:00-05:00"
+related_articles:
+- articles/the-heart-and-the-art.md
+- articles/teeoh-eh.md
+related_companies:
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/krisztina-szab.md
+short_description: 'A question often lingers: would I love all of this stuff as much
+  if you didn&#039;t already know half of the creative team? In an interesting experiment
+  in journalistic bias, London is a place where there&#039;s no shortage of excellent
+  music and theatre, yet in comparison to writing about Toronto, I&#039;ll have little
+  personal connection to the artists onstage. Basically, the art that London has to
+  offer will speak for itself, at least to me.'
+slug: shes-leaving-home
+title: She&#039;s leaving home
+---
 
 Last week I was sitting in Roy Thomson Hall, listening to the TSO play Mozart's *Requiem*, and taking in Joel Ivany's subtle and inclusive staging; one visual constant in this *Requiem* was the use of white index cards, which in the context of this piece about death and grieving, held the names of people that had been lost. Somewhere around the "Benedictus", I remembered the fleeting confusion I had when I was given my programme, along with a blank white card. I'm not sure why it took me until mid-way through the piece to really put that together, but when I did, my reaction surprised me. The inclusive gesture of giving me, little old me, an index card of my own felt so touching; on top of the overwhelming music and beautiful artists, this blank white card was a sort of straw that broke the camel's back of tugging at my heartstrings.
 

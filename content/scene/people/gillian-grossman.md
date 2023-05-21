@@ -1,14 +1,16 @@
-+++
-date = "2017-07-29T20:50:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-07-29T20:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501375704791/Gillian_G_Red.jpg.jpg"
-publishDate = "2017-07-29T20:50:00-04:00"
-related_companies = ["scene/companies/shoestring-opera.md"]
-slug = "gillian-grossman"
-title = "Gillian Grossman"
-website = "http://www.gilliangrossman.ca/"
-+++
+---
+_template: people_single
+date: "2017-07-29T20:50:00-04:00"
+discipline: Soprano
+lastmod: "2017-07-29T20:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501375704791/Gillian_G_Red.jpg.jpg
+publishDate: "2017-07-29T20:50:00-04:00"
+related_companies:
+- scene/companies/shoestring-opera.md
+slug: gillian-grossman
+title: Gillian Grossman
+website: http://www.gilliangrossman.ca/
+---
 
 Praised for her charming stage presence and vibrant vocal timbre, soprano Gillian Grossman has earned success both at home and abroad. This season she will make her debut with the Georgian Bay Concert Choir as the soprano soloist in Mendelssohn’s *Elijah*. On the concert stage, Gillian was most recently featured as the soprano soloist in Fauré’s *Requiem* with Masterworks of Oakville, under the baton of Charles Demuynck. She has appeared as the guest soloist with the Bluebridge Festival, Ardeleana, Aradia Ensemble, Etobicoke Centennial Choir, Arcady, the Boris Brott Festival, and La Chorale Cantabile.
 

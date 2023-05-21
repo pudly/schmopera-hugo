@@ -1,26 +1,27 @@
-+++
-date = "2015-10-02T12:36:00-04:00"
-discipline = "Composer"
-lastmod = "2015-10-02T12:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443803666907/6rlzVn2j.jpeg.jpeg"
-publishDate = "2015-10-02T12:36:00-04:00"
-related_companies = ["scene/companies/vancouver-opera.md","scene/companies/halifax-summer-opera-festival.md"]
-slug = "neil-weisensel"
-title = "Neil Weisensel"
-website = "http://www.neilmusic.com/live/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/neilmusic"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/neilmusic"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/squitch88"
-+++
+---
+date: "2015-10-02T12:36:00-04:00"
+discipline: Composer
+lastmod: "2015-10-02T12:36:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443803666907/6rlzVn2j.jpeg.jpeg
+publishDate: "2015-10-02T12:36:00-04:00"
+related_companies:
+- scene/companies/vancouver-opera.md
+- scene/companies/halifax-summer-opera-festival.md
+slug: neil-weisensel
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/neilmusic
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/neilmusic
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/squitch88
+title: Neil Weisensel
+website: http://www.neilmusic.com/live/
+---
 
 Neil Weisensel is a composer based in Winnipeg, Canada. His seven operas, which have been critically and popularly acclaimed, have been performed across Canada and in the US, and he receives commissions, awards and prizes from performing arts organizations in Canada and the U.S. He has composed and arranged music for feature films, stage works, documentaries, and animation for networks including the CBC, *Bravo!*, and CTV.
 

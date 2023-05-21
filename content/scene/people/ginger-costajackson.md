@@ -1,27 +1,30 @@
-+++
-date = "2017-04-03T10:51:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-04-03T10:51:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491212992933/2017-04-03---Ginger-Costa-Jackson.jpg.jpg"
-publishDate = "2017-04-03T10:51:00+01:00"
-related_companies = ["scene/companies/nashville-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/glimmerglass-festival.md"]
-slug = "ginger-costa-jackson"
-title = "Ginger Costa-Jackson"
-website = "http://gingercostajackson.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/gingercostaj"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/gingercostaj"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCvdtI7Vg6rpFdY1J3JYJSEA"
-
-+++
+---
+date: "2017-04-03T10:51:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2017-04-03T10:51:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491212992933/2017-04-03---Ginger-Costa-Jackson.jpg.jpg
+publishDate: "2017-04-03T10:51:00+01:00"
+related_companies:
+- scene/companies/nashville-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/glimmerglass-festival.md
+slug: ginger-costa-jackson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/gingercostaj
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/gingercostaj
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCvdtI7Vg6rpFdY1J3JYJSEA
+title: Ginger Costa-Jackson
+website: http://gingercostajackson.com/
+---
 Ginger Costa-Jackson is one of the most exciting and versatile artists of her generation. She has regularly performed at the world’s leading opera houses including the Metropolitan Opera, San Francisco Opera, Opéra National de Paris, La Monnaie/De Munt, and the Gran Teatre del Liceu.
 
 Ginger’s upcoming and most recent performances include a return to A Coruna Opera as Preziosilla, the title role of _Carmen_ for MasterVoices in New York, Opéra Royal de Wallonie-Liège, Lyric Opera of Kansas City, and the English National Opera, Charlotte in _Werther_ for Grange Park, Musetta in _La Boheme_ for Seattle Opera and Musica Viva Hong Kong, Bradamante in _Alcina_ with Seattle Opera, Donna Elvira for Teatro Petruzzelli, Giulietta in _Les contes d’Hoffmann_ for Gran Teatre del Liceu, Dorabella in _Cosi fan tutte_ and Cherubino in _Le Nozze de Figaro_ for La Monnaie De Munt, Angelina in _La Cenerentola_ for Seattle Opera, and Despina in _Cosi fan tutte_ for Opéra National de Paris conducted by Philippe Jordan.

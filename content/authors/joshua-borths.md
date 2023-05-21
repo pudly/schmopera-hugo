@@ -1,22 +1,26 @@
-+++
-date = "2015-06-05T22:35:00-04:00"
-email = "joshuaborths@gmail.com"
-lastmod = "2015-06-05T22:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433558093332/JoshuaBorths.jpg.jpg"
-publishDate = "2015-06-05T22:35:00-04:00"
-short_bio = "Originally from Cincinnati, Ohio, director/writer Joshua Borths is known for his innovative and thought-provoking productions.\n\nBorths is currently on the staff of Arizona Opera where he stage directs, serves as house dramaturg, and runs the department of education and community engagement.\n\nThis past winter, Borths made his directorial debut at Opera Memphis with a new, acclaimed production of *Hansel and Gretel*."
-slug = "joshua-borths"
-title = "Joshua Borths"
-website = "http://joshua-borths.squarespace.com/menu/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/joshua.borths?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/borthsj"
-+++
+---
+date: "2015-06-05T22:35:00-04:00"
+email: joshuaborths@gmail.com
+lastmod: "2015-06-05T22:35:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433558093332/JoshuaBorths.jpg.jpg
+publishDate: "2015-06-05T22:35:00-04:00"
+short_bio: |-
+  Originally from Cincinnati, Ohio, director/writer Joshua Borths is known for his innovative and thought-provoking productions.
+
+  Borths is currently on the staff of Arizona Opera where he stage directs, serves as house dramaturg, and runs the department of education and community engagement.
+
+  This past winter, Borths made his directorial debut at Opera Memphis with a new, acclaimed production of *Hansel and Gretel*.
+slug: joshua-borths
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/joshua.borths?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/borthsj
+title: Joshua Borths
+website: http://joshua-borths.squarespace.com/menu/
+---
 
 Originally from Cincinnati, Ohio, director/writer Joshua Borths is known for his innovative and thought-provoking productions.
 

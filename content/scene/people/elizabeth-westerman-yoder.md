@@ -1,16 +1,17 @@
-+++
-date = "2016-09-13T09:56:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-09-13T09:56:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473756931667/2016-09-13---Elizabeth-Westerman-Headshot.jpg.jpg"
-publishDate = "2016-09-13T09:56:00+01:00"
-slug = "elizabeth-westerman-yoder"
-title = "Elizabeth Westerman Yoder"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SopranoCurlyLiz"
-+++
+---
+date: "2016-09-13T09:56:00+01:00"
+discipline: Soprano
+lastmod: "2016-09-13T09:56:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473756931667/2016-09-13---Elizabeth-Westerman-Headshot.jpg.jpg
+publishDate: "2016-09-13T09:56:00+01:00"
+slug: elizabeth-westerman-yoder
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/SopranoCurlyLiz
+title: Elizabeth Westerman Yoder
+---
 
 Hailed as a “soaring, vibrant sound”, soprano Elizabeth Westerman is recognized as a versatile singing actress with thrilling high notes and a strong commitment to character.  An active recitalist, the 2016-2017 season presents the soprano in recital in New York City, North Carolina, Ohio and Florida performing the repertoire of Bach, Strauss, and Barber.  Most recently, Elizabeth was seen as Juno and Spring in Purcell’s *Fairy Queen* with Dell’Arte Opera (2014).  Before that she covered the roles of Zerbinetta and Marie at Fort Worth Opera during their 2013 season.
 

@@ -1,14 +1,26 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572812932/media/2019/11/KeithJamesonFullRes-7_uqz4ua.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/opera-saratoga.md", "scene/companies/washington-national-opera.md", "scene/companies/seattle-opera.md", "scene/companies/arizona-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/the-atlanta-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/houston-grand-opera.md"]
-slug = "keith-jameson"
-social_media = []
-title = "Keith Jameson"
-website = "http://keithjameson.org/"
-
-+++
+---
+_template: people_single
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572812932/media/2019/11/KeithJamesonFullRes-7_uqz4ua.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/opera-saratoga.md
+- scene/companies/washington-national-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+slug: keith-jameson
+social_media: []
+title: Keith Jameson
+website: http://keithjameson.org/
+---
 Keith Jameson, tenor, a native of South Carolina, returned to The Metropolitan Opera as Bardolfo in _Falstaff_ during the 2018-19 season. He recently made his San Francisco Opera debut as Uncle Billy in _It’s A Wonderful Life_ (Heggie/Scheer), and sang JB Williams in the world premier of the one-man opera _Why Is Eartha Kitt Trying to Kill Me?: A Love Story_ (Smith/Johnston) with Urban Arias in Washington, DC. He made his Opera di Roma debut in 2018 as the Novice in the acclaimed Deborah Warner production of _Billy Budd_.
 
 He returned to Lyric Opera of Chicago for Pong in _Turandot;_ and as Gherardo in _Gianni Schicchi_ and the Tea Pot/Little Old Man/Frog in _L’Enfant et les Sortileges_ in Tokyo and Kyoto with the Seiji Ozawa Music Academy (Ongaku-Juku). He debuted in 2017 at the Teatro Massimo in Palermo, Sicily as Flute/Thisbe in _A Midsummer Night’s Dream_. During the 2016-17 season, he sang Sancho Panza in _Man of La Mancha_ at Utah Opera and Triquet in _Eugene Onegin_ at Lyric Opera of Chicago. He sang Ali in _Zemire et Azor_ and Harry Druggist in _The Cradle Will Rock_ (Live cd recording) with Opera Saratoga. He was seen at the Hollywood Bowl as Spoletta in _Tosca_ with the Los Angeles Philharmonic and Maestro Gustavo Dudamel, and as the tenor soloist in Beethoven’s _Symphony No. 9_ with Brevard Music Center and Maestro Keith Lockhart. Keith also debuted in with Washington National Opera at the Kennedy Center singing Basilio in _Le nozze di Figaro_.

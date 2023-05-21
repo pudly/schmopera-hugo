@@ -1,23 +1,24 @@
-+++
-date = "2017-09-24T10:10:00-04:00"
-discipline = "Pianist"
-lastmod = "2017-09-24T10:10:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506262212684/JL_Holger-Hage_lowres3-1030x685.png.png"
-primary_image_credit = "Holger Hage"
-publishDate = "2017-09-24T10:10:00-04:00"
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-slug = "jan-lisiecki"
-title = "Jan Lisiecki"
-website = "http://www.janlisiecki.com/Jan_Lisiecki___Classical_Piano.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/lisieckipiano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/janlisiecki"
-+++
+---
+date: "2017-09-24T10:10:00-04:00"
+discipline: Pianist
+lastmod: "2017-09-24T10:10:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506262212684/JL_Holger-Hage_lowres3-1030x685.png.png
+primary_image_credit: Holger Hage
+publishDate: "2017-09-24T10:10:00-04:00"
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+slug: jan-lisiecki
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/lisieckipiano
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/janlisiecki
+title: Jan Lisiecki
+website: http://www.janlisiecki.com/Jan_Lisiecki___Classical_Piano.html
+---
 
 Just 22, Canadian pianist Jan Lisiecki has won acclaim for his extraordinary interpretive maturity, distinctive sound, and poetic sensibility. The New York Times has called him “a pianist who makes every note count”. Lisiecki’s insightful interpretations, refined technique, and natural affinity for art give him a musical voice that belies his age.
 

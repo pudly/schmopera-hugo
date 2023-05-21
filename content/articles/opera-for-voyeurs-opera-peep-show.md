@@ -1,19 +1,37 @@
-+++
-author = ["authors/greg.md"]
-categories = "Interview"
-date = "2016-04-18T10:58:00+01:00"
-lastmod = "2016-04-18T14:20:00+01:00"
-preamble = "From [April 28-30](http://operapeepshow.brownpapertickets.com/) at Toronto's Campbell House Museum, the ladies of [Liederwölfe](/scene/companies/liederwolfe/) are serving up [Opera Peep Show](http://www.operapeepshow.com/opera-peep-show/), a completely innovative way to experience opera. The premise is simple: show up to a cocktail party and grab a beverage, then have a look at the night's operatic menu. You choose the opera bite you want to taste, and with small pay-as-you-go fees, you'll get a key to a room in the Museum, where you'll walk right into an ongoing opera scene, presented by Liederwölfe and Toronto-based indie opera companies [Essential Opera](/check-out-essential-opera/), [Urbanvessel](/check-out-urbanvessel/), and re:Naissance.\n\nGreg Finney spoke with Artistic Director Lindsay Michael and General Manager Francesca Perez, about *Opera Peep Show*, and Liederwölfe's Montréal beginnings as \"a giant classical music troll\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460974877868/2016-04-18---liederwolf1.jpg.jpg"
-primary_image_credit = "Photo: Marilis Cardinal"
-publishDate = "2016-04-18T14:16:00+01:00"
-related_articles = ["articles/check-out-liederwolfe.md","articles/the-future-of-opera-is-indie.md","articles/great-ideas-portland-opera-a-la-cart.md"]
-related_companies = ["scene/companies/liederwolfe-opera-collective.md","scene/companies/essential-opera.md","scene/companies/urbanvessel.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/lindsay-michael.md","scene/people/francesca-perez.md"]
-short_description = "Opera Peep Show begins with a cocktail party in the bar, where the audience can choose different opera scenes from a menu. When they pick a scene, they pay a fee and are given a room key. They then walk into an opera scene happening in one of the museum’s rooms, already in progress. Each scene is presented by a different Toronto-based indie opera company. Opera Peep Show experiments with pay-as-you-go micro-payments for the audience."
-slug = "opera-for-voyeurs-opera-peep-show"
-title = "Opera for voyeurs: Opera Peep Show"
-+++
+---
+author:
+- authors/greg.md
+categories: Interview
+date: "2016-04-18T10:58:00+01:00"
+lastmod: "2016-04-18T14:20:00+01:00"
+preamble: |-
+  From [April 28-30](http://operapeepshow.brownpapertickets.com/) at Toronto's Campbell House Museum, the ladies of [Liederwölfe](/scene/companies/liederwolfe/) are serving up [Opera Peep Show](http://www.operapeepshow.com/opera-peep-show/), a completely innovative way to experience opera. The premise is simple: show up to a cocktail party and grab a beverage, then have a look at the night's operatic menu. You choose the opera bite you want to taste, and with small pay-as-you-go fees, you'll get a key to a room in the Museum, where you'll walk right into an ongoing opera scene, presented by Liederwölfe and Toronto-based indie opera companies [Essential Opera](/check-out-essential-opera/), [Urbanvessel](/check-out-urbanvessel/), and re:Naissance.
+
+  Greg Finney spoke with Artistic Director Lindsay Michael and General Manager Francesca Perez, about *Opera Peep Show*, and Liederwölfe's Montréal beginnings as "a giant classical music troll".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1460974877868/2016-04-18---liederwolf1.jpg.jpg
+primary_image_credit: 'Photo: Marilis Cardinal'
+publishDate: "2016-04-18T14:16:00+01:00"
+related_articles:
+- articles/check-out-liederwolfe.md
+- articles/the-future-of-opera-is-indie.md
+- articles/great-ideas-portland-opera-a-la-cart.md
+related_companies:
+- scene/companies/liederwolfe-opera-collective.md
+- scene/companies/essential-opera.md
+- scene/companies/urbanvessel.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/lindsay-michael.md
+- scene/people/francesca-perez.md
+short_description: Opera Peep Show begins with a cocktail party in the bar, where
+  the audience can choose different opera scenes from a menu. When they pick a scene,
+  they pay a fee and are given a room key. They then walk into an opera scene happening
+  in one of the museum’s rooms, already in progress. Each scene is presented by a
+  different Toronto-based indie opera company. Opera Peep Show experiments with pay-as-you-go
+  micro-payments for the audience.
+slug: opera-for-voyeurs-opera-peep-show
+title: 'Opera for voyeurs: Opera Peep Show'
+---
 
 ## Can you give us the "Cole's Notes" version of the history of Liederwölfe Opera? How did you come up with the name? 
 

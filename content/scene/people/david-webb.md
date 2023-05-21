@@ -1,26 +1,27 @@
-+++
-date = "2017-02-10T13:04:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-02-10T13:04:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486731784463/2017-02-10---David-WEbb.jpg.jpg"
-primary_image_credit = "Leo Holden"
-publishDate = "2017-02-10T13:04:00+00:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/glyndebourne.md"]
-slug = "david-webb"
-title = "David Webb"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/DavidWebbTenor/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/@DavidPWebb"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/davidpwebb/"
-+++
+---
+date: "2017-02-10T13:04:00+00:00"
+discipline: Tenor
+lastmod: "2017-02-10T13:04:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486731784463/2017-02-10---David-WEbb.jpg.jpg
+primary_image_credit: Leo Holden
+publishDate: "2017-02-10T13:04:00+00:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/glyndebourne.md
+slug: david-webb
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/DavidWebbTenor/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/@DavidPWebb
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/davidpwebb/
+title: David Webb
+---
 
 ritish tenor David Webb is a graduate of the Royal College of Music International Opera School and a Harewood Artist at the English National Opera. 
 

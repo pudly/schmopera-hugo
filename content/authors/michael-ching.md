@@ -1,21 +1,26 @@
-+++
-date = "2015-09-07T22:05:00-04:00"
-lastmod = "2018-01-09T19:48:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441677917710/MichaelChingSquare.jpg.jpg"
-publishDate = "2015-09-07T22:05:00-04:00"
-short_bio = "Michael Ching is the composer/librettist of [*SPEED DATING TONIGHT!*](https://www.youtube.com/watch?v=Q0nhqsKRG8c) and [*BUOSO&#039;S GHOST*](https://ecspublishing.com/opera/buosos-ghost). He is Opera Consultant for [E. C. Schirmer Music Publishers](https://ecspublishing.com/), Composer-in-Residence at [Savannah Voice Festival](http://savannahvoicefestival.org/), and Music Director of Amarillo Opera. SpDT! has been done over sixty times since its 2013 premiere. He is currently working on new operas for Cedar Rapids Opera Theater and the Palm Springs Opera Guild."
-slug = "michael-ching"
-title = "Michael Ching"
-website = "http://operaandbeyond.blogspot.ca/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/michael.ching.5667"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MrBillow"
-+++
+---
+date: "2015-09-07T22:05:00-04:00"
+lastmod: "2018-01-09T19:48:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441677917710/MichaelChingSquare.jpg.jpg
+publishDate: "2015-09-07T22:05:00-04:00"
+short_bio: Michael Ching is the composer/librettist of [*SPEED DATING TONIGHT!*](https://www.youtube.com/watch?v=Q0nhqsKRG8c)
+  and [*BUOSO&#039;S GHOST*](https://ecspublishing.com/opera/buosos-ghost). He is
+  Opera Consultant for [E. C. Schirmer Music Publishers](https://ecspublishing.com/),
+  Composer-in-Residence at [Savannah Voice Festival](http://savannahvoicefestival.org/),
+  and Music Director of Amarillo Opera. SpDT! has been done over sixty times since
+  its 2013 premiere. He is currently working on new operas for Cedar Rapids Opera
+  Theater and the Palm Springs Opera Guild.
+slug: michael-ching
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/michael.ching.5667
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/MrBillow
+title: Michael Ching
+website: http://operaandbeyond.blogspot.ca/
+---
 
 Ching began his career as a National Opera Institute apprentice 1980–1981 at the Houston Grand Opera Studio, where he was involved in the company's productions and continued his composition studies with composer Carlisle Floyd. From 1981–1985 he held increasingly responsible positions at the Greater Miami Opera/Florida Grand Opera. He subsequently held conductor and executive director positions at venues including Texas Opera Theatre, Chautauqua Opera, and Triangle Music Theater.
 

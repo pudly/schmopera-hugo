@@ -1,21 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2019-01-07T16:24:29+00:00"
-disclaimer = ""
-image_gallery = []
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1547088115/media/2019/01/sqFuture.jpg"
-primary_image_credit = ""
-related_articles = ["articles/4-opera-scenes-that-should-have-happened.md", "articles/opera-spin-off.md"]
-related_companies = []
-related_people = []
-short_description = "Or! Don Carlo, with Plácido Domingo's hologram in the title role, and the real-life Plácido Domingo as Rodrigo? Add a little Jamie Barton as Eboli, and Nicolai Ghiaurov as Philip II? Delicious."
-slug = "the-future-of-opera-holograms-dream-casts"
-title = "The future of opera? Holograms & dream casts"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2019-01-07T16:24:29+00:00"
+disclaimer: ""
+image_gallery: []
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1547088115/media/2019/01/sqFuture.jpg
+primary_image_credit: ""
+related_articles:
+- articles/4-opera-scenes-that-should-have-happened.md
+- articles/opera-spin-off.md
+related_companies: []
+related_people: []
+short_description: Or! Don Carlo, with Plácido Domingo's hologram in the title role,
+  and the real-life Plácido Domingo as Rodrigo? Add a little Jamie Barton as Eboli,
+  and Nicolai Ghiaurov as Philip II? Delicious.
+slug: the-future-of-opera-holograms-dream-casts
+title: The future of opera? Holograms & dream casts
+youtube_url: ""
+---
 Readers, the future now, and it's apparently been now for years. I guess it happens more and more with age: you look away for what seems like a second, and all of a sudden the world has changed. As in, there are holograms giving concerts. _Holograms_, people. They're out there, singing posthumous live (?) performances that seem to touch the nerves of both fandom and nostalgia. "Elvis", "Tupac", and "Nat King Cole" have all resurrected themselves for a latest swan song for a packed crowd; just this year, ["Roy Orbison"](https://noisey.vice.com/en_au/article/wj37ab/hologram-concerts-dont-suck-youre-just-a-hater) went on an international tour, as did opera's very own ["Maria Callas"](http://operawire.com/bringing-maria-callas-back-to-life-the-team-behind-callas-in-concert-on-creating-a-hologram-of-la-divina/).
 
 Opera fans are famous for digging in their heels and resisting the new stuff, so I'm sure there are folks out there who are fundamentally, ideologically opposed to the idea of hearing a hologram sing an aria. If that's the hill an opera fanatic wants to die on - and perhaps come back as a hologram and denounce it some more - so be it.

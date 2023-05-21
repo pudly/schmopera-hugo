@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2014-01-13T19:36:00-05:00"
-lastmod = "2015-04-28T22:48:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430275669426/Isabel-1024x640.png"
-publishDate = "2014-01-13T19:36:00-05:00"
-related_articles = ["articles/in-review-tsmfs-night-at-the-opera.md"]
-related_people = ["scene/people/isabel-leonard.md","scene/people/angela-meade.md","scene/people/ailyn-prez.md","scene/people/stephen-costello.md"]
-short_description = "On Friday night, PBS aired Richard Tucker at 100: An Opera Celebration. The performance was recorded on November 17, 2013, in time to honour the centennial of late American tenor Richard Tucker. As of Sunday, the event has been etched into Internet stone, and even a Canadian can watch it."
-slug = "i-love-a-gala"
-title = "I Love a Gala"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2014-01-13T19:36:00-05:00"
+lastmod: "2015-04-28T22:48:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430275669426/Isabel-1024x640.png
+publishDate: "2014-01-13T19:36:00-05:00"
+related_articles:
+- articles/in-review-tsmfs-night-at-the-opera.md
+related_people:
+- scene/people/isabel-leonard.md
+- scene/people/angela-meade.md
+- scene/people/ailyn-prez.md
+- scene/people/stephen-costello.md
+short_description: 'On Friday night, PBS aired Richard Tucker at 100: An Opera Celebration.
+  The performance was recorded on November 17, 2013, in time to honour the centennial
+  of late American tenor Richard Tucker. As of Sunday, the event has been etched into
+  Internet stone, and even a Canadian can watch it.'
+slug: i-love-a-gala
+title: I Love a Gala
+---
 
 On Friday night, PBS aired _Richard Tucker at 100: An Opera Celebration._ The performance was recorded on November 17, 2013, in time to honour the centennial of late American tenor [Richard Tucker](http://en.wikipedia.org/wiki/Richard_Tucker). As of Sunday, the event has been etched into Internet stone, and even a Canadian can [watch it](http://video.pbs.org/video/2365143463/).
 

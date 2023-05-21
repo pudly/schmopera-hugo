@@ -1,27 +1,35 @@
-+++
-author = ["authors/loren-lester.md"]
-categories = "Review"
-date = 2023-01-18T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1673808959/media/2023/01/sq_Trade_Mary_Motorhead_Baranova-7347_dgub6p.jpg"
-primary_image_credit = "Naomi Louisa O'Connell in Trade/Mary Motorhead, Prototype Festival, 2023. Photo: Richard Termine."
-related_articles = ["articles/angel-s-bone.md", "articles/note-to-a-friend-matters-of-life-and-death.md"]
-related_companies = ["scene/companies/beth-morrison-projects.md"]
-related_people = []
-short_description = "Their interaction is so believable that we feel as if we are peering through the keyhole of the motel room where they've met for their illicit encounter. We forget we're watching something on a stage."
-slug = "trade-mary-motorhead-music-in-the-background"
-title = "Trade/Mary Motorhead: music in the background"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/loren-lester.md
+categories: Review
+date: "2023-01-18T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1673808959/media/2023/01/sq_Trade_Mary_Motorhead_Baranova-7347_dgub6p.jpg
+primary_image_credit: 'Naomi Louisa O''Connell in Trade/Mary Motorhead, Prototype
+  Festival, 2023. Photo: Richard Termine.'
+related_articles:
+- articles/angel-s-bone.md
+- articles/note-to-a-friend-matters-of-life-and-death.md
+related_companies:
+- scene/companies/beth-morrison-projects.md
+related_people: []
+short_description: Their interaction is so believable that we feel as if we are peering
+  through the keyhole of the motel room where they've met for their illicit encounter.
+  We forget we're watching something on a stage.
+slug: trade-mary-motorhead-music-in-the-background
+title: 'Trade/Mary Motorhead: music in the background'
+youtube_url: ""
+---
 When are operas more like plays with music? Answer: the double-bill _Trade/Mary Motorhead_ by Irish composer Emma O'Halloran, presented as part of the [Prototype Festival](https://prototypefestival.org/shows/trade/). The two one-act plays have compelling stories and while both are billed as operas, and both are sung-through, the music doesn't add much. In fact, in the one-person opener, the monodrama _Mary Motorhead_, the musical elements push things overboard, and in the two-hander _Trade_, even the singing feels like underscoring. It's no surprise that both pieces were originally well-written plays (by Emma's writer-uncle Mark O'Halloran) and so they form strong libretti.
 
 What an extraordinary talent is Naomi Louisa O’Connell, who plays the titular Mary Motorhead. Her sonorous soprano and acting skills demand our attention for the entire half-hour running time of the piece. But it’s the performance and the story, the direction by Tom Creed and the co-starring lighting design by Christopher Kuhl that sell the proceedings. (The exact same thing can be said for _Trade_.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1673809324/media/2023/01/Trade_Mary_Motorhead_Baranova-3400_i7ztvh.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1673809324/media/2023/01/Trade_Mary_Motorhead_Baranova-3400_i7ztvh.jpg)
 
 <figcaption>Naomi Louisa O'Connell in Trade/Mary Motorhead, Prototype Festival, 2023. Photo: Richard Termine.</figcaption>  
 </figure>
@@ -32,7 +40,9 @@ Although the entire action takes place against a cell wall, Christopher Kuhl's l
 
 It's all very theatrical. We get it from the words and we feel it. We don't need the relentlessly dramatic vocal music to help us get there. And where is the orchestra driving us? Ms. O'Connell has already driven us there. Some softened interludes  would certainly help – especially moments where Mary expresses sad regret. But the only respite we get in the score is a complete break from live music that gives way to electronic sampling that seems to go on forever, completely diminishing the murderous climax of her life story.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1673809351/media/2023/01/Trade_Mary_Motorhead_Baranova-7250_aclra2.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1673809351/media/2023/01/Trade_Mary_Motorhead_Baranova-7250_aclra2.jpg)
 
 <figcaption>Naomi Louisa O'Connell in Trade/Mary Motorhead, Prototype Festival, 2023. Photo: Richard Termine.</figcaption>  
 </figure>
@@ -41,14 +51,18 @@ _Trade_ is another well-crafted play from Mark O'Halloran, this time brought to 
 
 Mr. Kudisch is a Tony-nominated Broadway actor with a baritone worthy of an operatic stage. Mr. Bielfield boasts the punch of a superlative operatic tenor. But they are much more than that. It's one of those rare occasions when the talents run through the entirety of  the principal performers. Their interaction is so believable that we feel as if we are peering through the keyhole of the motel room where they've met for their illicit encounter. We forget we're watching something on a stage.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1673809332/media/2023/01/Trade_Mary_Motorhead_Baranova-3600_ur1yph.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1673809332/media/2023/01/Trade_Mary_Motorhead_Baranova-3600_ur1yph.jpg)
 
 <figcaption>Kyle Bielfield in Trade/Mary Motorhead, Prototype Festival, 2023. Photo: Richard Termine.</figcaption>  
 </figure>
 
 Unfortunately, we also forget about the music because it's all one-long recitative. Ms. O'Halloran reminds us about the music when the monotony is broken by a sudden loud or high note. But it takes us out of the storyline. When Mr. Bielfield bursts into the higher part of his range on a phrase like "I'm alright" we're impressed at the virtuosity but it's so jarring it makes his character seem mentally rather than emotionally disturbed. The orchestra is no help, either, with the left hand of the piano reminding us, too literally, that there is something potentially heart-breaking underneath the casual conversation.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1673809339/media/2023/01/Trade_Mary_Motorhead_Baranova-3715_wo75wv.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1673809339/media/2023/01/Trade_Mary_Motorhead_Baranova-3715_wo75wv.jpg)
 
 <figcaption>Marc Kudisch (left) and Kyle Bielfield in Trade/Mary Motorhead, Prototype Festival, 2023. Photo: Richard Termine.</figcaption>  
 </figure>

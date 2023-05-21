@@ -1,17 +1,19 @@
-+++
-date = "2015-04-11T20:20:00-04:00"
-discipline = "General Director, Canadian Opera Company"
-lastmod = "2015-04-11T20:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428797868625/alexander-neef.jpg.jpg"
-publishDate = "2015-04-11T20:20:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md"]
-slug = "alexander-neef"
-title = "Alexander Neef"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/alexanderncoc"
-+++
+---
+date: "2015-04-11T20:20:00-04:00"
+discipline: General Director, Canadian Opera Company
+lastmod: "2015-04-11T20:20:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428797868625/alexander-neef.jpg.jpg
+publishDate: "2015-04-11T20:20:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+slug: alexander-neef
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/alexanderncoc
+title: Alexander Neef
+---
 
 <p>
 	Alexander Neef, appointed General Director of the Canadian Opera Company in June 2008, has worked with some of the most prestigious arts organizations in the world.

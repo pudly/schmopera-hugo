@@ -1,17 +1,20 @@
-+++
-date = "2015-04-22T23:11:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-04-22T23:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429758447585/Sean_Clarke_Headshot_COL.jpg.jpg"
-publishDate = "2015-04-22T23:11:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/soundstreams.md"]
-slug = "sean-clark"
-title = "Sean Clark"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SeanClarkTenor"
-+++
+---
+date: "2015-04-22T23:11:00-04:00"
+discipline: Tenor
+lastmod: "2015-04-22T23:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429758447585/Sean_Clarke_Headshot_COL.jpg.jpg
+publishDate: "2015-04-22T23:11:00-04:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/soundstreams.md
+slug: sean-clark
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/SeanClarkTenor
+title: Sean Clark
+---
 
 Sean Clark is quickly becoming established as one of Canada’s most promising young tenors. A graduate of the Opera Diploma program at the University of Toronto, Sean holds an Undergraduate degree from Ithaca College and a Masters degree from Arizona State University.
 

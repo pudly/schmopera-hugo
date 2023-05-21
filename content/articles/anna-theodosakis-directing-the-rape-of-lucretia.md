@@ -1,18 +1,40 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-04-06T13:37:00+01:00"
-lastmod = "2016-04-06T15:39:00+01:00"
-preamble = "April 29th to May 1st, [MYOpera](/scene/companies/myopera/) presents Benjamin Britten's [*The Rape of Lucretia*](https://www.myopera.ca/lucretia2016/) at Toronto's Aki Studio, Daniels Spectrum. We were lucky to chat with the production's director, [Anna Theodosakis](/scene/people/anna-theodosakis/) about approaching this difficult opera, which holds an unfortunate amount of contemporary relevance. She speaks eloquently about this piece about women, and how Britten and librettist Ronald Duncan \"intended to illuminate the fact that women are held to a very different standard than men and suffer a great deal of inequity.\""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459947478011/2016-04-06---Anna-Theodosakis.jpg.jpg"
-publishDate = "2016-04-06T15:12:00+01:00"
-related_articles = ["articles/dont-miss-in-conversation-with-myopera.md","articles/metro-youth-operas-kate-applin-on-MYOBeaBen.md","articles/in-review-the-telephone-the-medium.md","articles/in-review-the-rape-of-lucretia.md","articles/in-review-the-rape-of-lucretia-at-tsmf.md","articles/italian-girl-rossini-feminist.md"]
-related_companies = ["scene/companies/myopera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/kate-applin.md","scene/people/christina-campsall.md","scene/people/anna-theodosakis.md"]
-short_description = "&quot;While The Rape of Lucretia deals specifically with the story a woman, I believe it expresses the struggle of the individual against the confines of a corrupt society. I hope it can lend a voice to survivors who find themselves silenced, gender notwithstanding.&quot;"
-slug = "anna-theodosakis-directing-the-rape-of-lucretia"
-title = "Anna Theodosakis: directing The Rape of Lucretia"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-04-06T13:37:00+01:00"
+lastmod: "2016-04-06T15:39:00+01:00"
+preamble: April 29th to May 1st, [MYOpera](/scene/companies/myopera/) presents Benjamin
+  Britten's [*The Rape of Lucretia*](https://www.myopera.ca/lucretia2016/) at Toronto's
+  Aki Studio, Daniels Spectrum. We were lucky to chat with the production's director,
+  [Anna Theodosakis](/scene/people/anna-theodosakis/) about approaching this difficult
+  opera, which holds an unfortunate amount of contemporary relevance. She speaks eloquently
+  about this piece about women, and how Britten and librettist Ronald Duncan "intended
+  to illuminate the fact that women are held to a very different standard than men
+  and suffer a great deal of inequity."
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459947478011/2016-04-06---Anna-Theodosakis.jpg.jpg
+publishDate: "2016-04-06T15:12:00+01:00"
+related_articles:
+- articles/dont-miss-in-conversation-with-myopera.md
+- articles/metro-youth-operas-kate-applin-on-MYOBeaBen.md
+- articles/in-review-the-telephone-the-medium.md
+- articles/in-review-the-rape-of-lucretia.md
+- articles/in-review-the-rape-of-lucretia-at-tsmf.md
+- articles/italian-girl-rossini-feminist.md
+related_companies:
+- scene/companies/myopera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/kate-applin.md
+- scene/people/christina-campsall.md
+- scene/people/anna-theodosakis.md
+short_description: '&quot;While The Rape of Lucretia deals specifically with the story
+  a woman, I believe it expresses the struggle of the individual against the confines
+  of a corrupt society. I hope it can lend a voice to survivors who find themselves
+  silenced, gender notwithstanding.&quot;'
+slug: anna-theodosakis-directing-the-rape-of-lucretia
+title: 'Anna Theodosakis: directing The Rape of Lucretia'
+---
 
 ## For you, what do you think this opera has to say about women? Is there anything significant about its being written by men?
  
@@ -22,7 +44,7 @@ When it comes specifically to women, composer Britten and librettist Duncan focu
  
 While *The Rape of Lucretia* deals specifically with the story a woman, I believe it expresses the struggle of the individual against the confines of a corrupt society. I hope it can lend a voice to survivors who find themselves silenced, gender notwithstanding.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459951188747/2016-04-06---Lucretia-Image-.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459951188747/2016-04-06---Lucretia-Image-.jpg.jpg)
 </figure>
  
 ## Does the opera pose any unique challenges to you as a director?
@@ -33,7 +55,7 @@ One of the challenges for any opera director is often retaining relevance to pie
  
 It was MYOpera’s number one goal not to present something gratuitous or to capitalize on survivors. We immediately began an on going partnership with sex-positive advocate Sophie Delancey to ensure our marketing was appropriate and my approach to directing the depictions of sexual assault were thoughtful. I am blessed that Britten and Duncan did not lean towards shock value in the score itself. Their choice of timing proves very sensitive and by following their guidelines I was easily able to shape the scenes of violence so the point came across free from unwarranted exploitation.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459951230932/2016-04-06---Cast---Lucretia.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459951230932/2016-04-06---Cast---Lucretia.jpg.jpg)
 <figcaption>Mezzo-soprano Christina Campsall, singing the title role in MYOpera's production of *The Rape of Lucretia*. Photo by Daniel Denino, Self Limited Photography.</figcaption>
 </figure>
  

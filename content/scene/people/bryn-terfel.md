@@ -1,21 +1,29 @@
-+++
-date = "2016-01-06T12:13:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2016-01-06T12:13:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452100233598/2016-01-05---Bryn-Terfel.jpg.jpg"
-publishDate = "2016-01-06T12:13:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/opra-national-de-paris.md"]
-slug = "bryn-terfel"
-title = "Bryn Terfel"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/brynterfel/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Bryn_Terfel"
-+++
+---
+date: "2016-01-06T12:13:00-05:00"
+discipline: Bass-baritone
+lastmod: "2016-01-06T12:13:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452100233598/2016-01-05---Bryn-Terfel.jpg.jpg
+publishDate: "2016-01-06T12:13:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/english-national-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/opra-national-de-paris.md
+slug: bryn-terfel
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/brynterfel/?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Bryn_Terfel
+title: Bryn Terfel
+---
 
 The Welsh bass-baritone Bryn Terfel has performed in all the great houses of the world, and is especially recognised for his portrayals of Figaro, Falstaff and Wotan. He made his operatic début in 1990 as Guglielmo in *Così fan tutte* for Welsh National Opera. His international operatic career began in 1991 when he sang the Speaker in Mozart's *Die Zauberflöte* at the Théâtre de la Monnaie in Brussels and in the same year he made his United States début as Figaro at the Santa Fe Opera. Other roles performed during his career include Holländer in *Der fliegende Holländer*, Méphistophélès in *Faust*, both the Title Role and Leporello in *Don Giovanni*, Jochannan in *Salome*, Scarpia in *Tosca*, the Title Role in *Gianni Schicchi*, Nick Shadow in *The Rake's Progress*, Wolfram in *Tannhäuser*, Balstrode in *Peter Grimes*, Four Villains in *Les contes d'Hoffmann*, Dulcamara in *L'Elisir d'Amore* and the Title Role in *Sweeney Todd*.
 

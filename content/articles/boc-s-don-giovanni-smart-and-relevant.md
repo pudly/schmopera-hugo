@@ -1,27 +1,44 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = "2019-03-31T22:39:58+00:00"
-disclaimer = "Content Warning: A real-life experience with sexual assault is discussed in this review. Permission was granted from the victim to discuss the assault in question. Reader discretion is heavily advised."
-image_gallery = []
-postamble = "Boston Opera Collaborative's production of _Don Giovanni_ runs through April 6. For details and ticket information, [click here](https://www.bostonoperacollaborative.org/don-giovanni-march-19)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554072100/media/2019/03/sqBOCDonG032619-2964.jpg"
-primary_image_credit = "Junhan Choi (Don Giovanni) in Boston Opera Collaborative's production of Don Giovanni, 2019. Photo: Dan Busler."
-related_articles = ["articles/in-review-tcherniakovs-don-giovanni.md", "articles/when-don-giovanni-is-the-don.md", "articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md"]
-related_companies = ["scene/companies/boston-opera-collaborative.md"]
-related_people = ["scene/people/jessica-jane-jacobs.md", "scene/people/fran-rogers.md", "scene/people/john-bitsas.md", "scene/people/junhan-choi.md"]
-short_description = "From the beginning, the production ensures that you do not forget this is about the Me Too movement: the show begins with a slideshow of people like Harvey Weinstein and others that is prefaced with Trump's now-infamous \"grab them by the pussy\" comments. "
-slug = "bocs-don-giovanni-smart-and-relevant"
-title = "BOC's Don Giovanni smart and relevant"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2019-03-31T22:39:58+00:00"
+disclaimer: 'Content Warning: A real-life experience with sexual assault is discussed
+  in this review. Permission was granted from the victim to discuss the assault in
+  question. Reader discretion is heavily advised.'
+image_gallery: []
+postamble: Boston Opera Collaborative's production of _Don Giovanni_ runs through
+  April 6. For details and ticket information, [click here](https://www.bostonoperacollaborative.org/don-giovanni-march-19).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554072100/media/2019/03/sqBOCDonG032619-2964.jpg
+primary_image_credit: 'Junhan Choi (Don Giovanni) in Boston Opera Collaborative''s
+  production of Don Giovanni, 2019. Photo: Dan Busler.'
+related_articles:
+- articles/in-review-tcherniakovs-don-giovanni.md
+- articles/when-don-giovanni-is-the-don.md
+- articles/rehearsing-trauma-how-working-on-an-opera-helped-me-heal.md
+related_companies:
+- scene/companies/boston-opera-collaborative.md
+related_people:
+- scene/people/jessica-jane-jacobs.md
+- scene/people/fran-rogers.md
+- scene/people/john-bitsas.md
+- scene/people/junhan-choi.md
+short_description: 'From the beginning, the production ensures that you do not forget
+  this is about the Me Too movement: the show begins with a slideshow of people like
+  Harvey Weinstein and others that is prefaced with Trump''s now-infamous "grab them
+  by the pussy" comments. '
+slug: bocs-don-giovanni-smart-and-relevant
+title: BOC's Don Giovanni smart and relevant
+youtube_url: ""
+---
 It is a very common thread in present-day opera performance that directors will often try to mold a classic of the operatic repertoire in a way that comments on themes and topics relevant to the modern day and not necessarily to the time of the opera's origin. Frequently, this is met with disastrous results, as the works typically do not have the plasticity necessary to stand up to such a treatment. However, some parts of the operatic repertory do stand up to reinvention better than others: of these, perhaps the likeliest candidates for reinterpretation are Wolfgang Amadeus Mozart's collaborations with Lorenzo da Ponte: after all, these are works whose gender politics have had to be constantly reinterpreted as time has marched on.
 
 Thus, we come to [Boston Opera Collaborative](/scene/companies/boston-opera-collaborative/)'s production of _Don Giovanni_, which is presently playing in the Ben Franklin Institute of Technology. _Don Giovanni_ in particular has such strong themes surrounding gender politics and sexual violence that producing it today will brush up with the #MeToo movement in some way. Perhaps realizing that a production of an opera about a serial womanizer which begins with an off-stage rape would engage with #MeToo no matter how it's played, stage co-directors Patricia-Maria Weinmann and Greg Smucker choose to completely embrace the #MeToo element in practically every part of the production, and it does so in ways that are surprising and incredibly smart in a way that ties into Mozart and Da Ponte's work beautifully.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554072510/media/2019/03/BOCDonG032619-2859.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554072510/media/2019/03/BOCDonG032619-2859.jpg)
 
 <figcaption>Junhan Choi (Don Giovanni), Andrew Miller (Leporello), and Ensemble in Boston Opera Collaborative's production of Don Giovanni, 2019. Photo: Dan Busler.</figcaption>
 
@@ -33,7 +50,9 @@ From the beginning, the production ensures that you do not forget this is about 
 
 But of course, it all comes down to Don Giovanni himself, and in this production he is nothing short of a complete snake. Here, he is played as a famous photography artist, whose oeuvre is implied to consist of photographs of women thanks to projections on the two screens that stood on either side of the main performing area. Junhan Choi adds a touch of menace in how he characterizes the Don, both in his smug countenance as he manipulates his way into these women's hearts, the violence with which he acts when things don't entirely go his way (and even when they do), and how he curls his voice around the character's various turns. He is equal parts menacing and charming. Perhaps no part of the show was more indicative of this than how the production played the famous duet "Là ci darem la mano", in which Don Giovanni seduces the dearling Zerlina. Here, Don G works by using Masetto's previously mentioned anger at Zerlina to his advantage: Don G manages to turn Masetto's behavior into a tool with which he paints himself as a better option, and it is in this way that Giovanni works his way into Zerlina's dress despite her protests. The duet here serves to cement this by letting Choi engage his smooth, lyrical voice to pull Zerlina in the rest of the way that his cool, collected mannerisms did elsewhere.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554072525/media/2019/03/BOCDonG032619-2748.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554072525/media/2019/03/BOCDonG032619-2748.jpg)
 
 <figcaption>Jessica Jacobs (Donna Anna), Francis Rogers (Don Ottavio) in Boston Opera Collaborative's production of Don Giovanni, 2019. Photo: Dan Busler.</figcaption>
 
@@ -43,7 +62,9 @@ Some people may dismiss this as an example of typical operatic excess staged by 
 
 I thus had an extremely visceral reaction to the way the scene played out that stayed with me long after I left the Ben Franklin Institute of Technology. This is no mere operatic hyperbole: this is Smucker and Weinmann recognizing that sexual assault is as much a form of psychological violence as it is a physical one. Because of this one small facet, and the fact that they both lean into the undercurrent already present in Mozart and Da Ponte, it lends an honesty to the production's intentions that cannot - and should not - be ignored.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554072535/media/2019/03/BOCDonG032619-2712.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554072535/media/2019/03/BOCDonG032619-2712.jpg)
 
 <figcaption>Sarah Cooper (Zerlina), Junhan Choi (Don Giovanni) in Boston Opera Collaborative's production of Don Giovanni, 2019. Photo: Dan Busler.</figcaption>
 
@@ -55,7 +76,9 @@ There is an additional far-reaching decision that amplifies the production's the
 
 Of course, to bring this story to life the way it has here also requires a cast who meets the demands of this production. As always, in this Boston Opera Collaborative delivered. I have already spoken of [Junhan Choi](/scene/people/junhan-choi/), but mention must also be given to Andrew Miller's Leporello: it is not a very easy thing to play Leporello as anything other than the quirky tool that accompanies Don Giovanni on his misadventures, but Miller manages to find something in the character's pathetic nature that does allow the audience to feel some amount of sympathy for him. [John Bitsas](/scene/people/john-bitsas/) did a great job playing a more forceful Masetto than usual, and [Francis Rogers](/scene/people/fran-rogers/) fleshed out the normally thankless role of Don Ottavio with a kind of disbelief that permeates the character. The women also had some great singers as well: Isabelle Zeledón's Donna Elvira was played with a fire that burned without ever flaming out, [Jessica Jacobs](/scene/people/jessica-jane-jacobs/) provided a spurned Donna Anna who was simply trying to deal with what happened to her in the only way she can think of, Shannon Grace's Commendatrice proved authoritative to the degree that left me comfortable with the gender flip of the role, and Sarah Cooper's Zerlina provided some much needed levity and playfulness to the show, especially in her interactions with Masetto.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1554072563/media/2019/03/BOCDonG032619-2688.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1554072563/media/2019/03/BOCDonG032619-2688.jpg)
 
 <figcaption>Andrew Miller (Leporello), Felisha Trundle (Assistant), John Bitsas (Masetto), Sarah Cooper (Zerlina) in Boston Opera Collaborative's production of Don Giovanni, 2019. Photo: Dan Busler.</figcaption>
 

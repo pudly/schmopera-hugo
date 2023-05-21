@@ -1,26 +1,36 @@
-+++
-date = "2017-10-09T10:46:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-09T10:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507560079944/MACHAIDZE-Nino-Wilson-Santinelli1-886x1030.jpg.jpg"
-primary_image_credit = "Wilson Santinelli"
-publishDate = "2017-10-09T10:46:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/la-monnaie.md","scene/companies/teatro-alla-scala.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md"]
-slug = "nino-machaidze"
-title = "Nino Machaidze"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ninomachaidzeofficial/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Nino_Machaidze"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/nino_machaidze/"
-+++
+---
+date: "2017-10-09T10:46:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-09T10:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507560079944/MACHAIDZE-Nino-Wilson-Santinelli1-886x1030.jpg.jpg
+primary_image_credit: Wilson Santinelli
+publishDate: "2017-10-09T10:46:00-04:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/la-monnaie.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/royal-opera-house.md
+- scene/companies/wiener-staatsoper.md
+slug: nino-machaidze
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ninomachaidzeofficial/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/Nino_Machaidze
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/nino_machaidze/
+title: Nino Machaidze
+---
 
 Born in Tbilisi, Georgia, Nino Machaidze is one of today’s most brilliant artists, having made important international debuts at such theaters as the Royal Opera House – Covent Garden, Metropolitan Opera, Opera National de Paris, Bavarian State Opera in Munich, Berlin State Opera, Deutsche Oper Berlin, Teatro alla Scala in Milan, Teatro Real in Madrid, Vienna State Opera, Gran Teatre del Liceu in Barcelona, Theatre Royale de la Monnaie in Brussels, Palau de les Arts in Valencia, Arena di Verona and Los Angeles Opera. Engagements for the 2016/17 season include Mimi in *La boheme* at the Grand Théâtre de Genève, Juliette in *Romeo et Juliette* at the Royal Opera House of Muscat, Desdemona in *Otello* at the Teatro di San Carlo in Naples, the title role in Thaïs at the Gran Teatre del Liceu in Barcelona, Contessa di Folleville in *Il viaggio a Reims* at the Royal Danish Opera in Copenhagen, and Gilda in *Rigoletto* for her debut at the San Francisco Opera. She also returns to the festival in Pesaro for *Le siège de Corinthe*. Future engagements include Machaidze’s role debut as Nedda in *Pagliacci* at the Grand-Théâtre de Genève, Leïla in *The Pearl Fishers* at the Los Angeles Opera, and Violetta in *La traviata* at the Teatro di San Carlo in Naples.
 

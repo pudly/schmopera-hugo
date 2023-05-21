@@ -1,20 +1,24 @@
-+++
-date = "2015-04-07T17:33:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2017-05-27T11:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554826776/media/2019/04/GilesTomkins-GeneWu.jpg"
-primary_image_credit = "Gene Wu"
-publishDate = "2015-04-07T17:33:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/scottish-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/pacific-opera-victoria.md"]
-slug = "giles-tomkins"
-title = "Giles Tomkins"
-website = "http://www.gilestomkins.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/TomkinsGiles"
-
-+++
+---
+date: "2015-04-07T17:33:00-04:00"
+discipline: Bass-baritone
+lastmod: "2017-05-27T11:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554826776/media/2019/04/GilesTomkins-GeneWu.jpg
+primary_image_credit: Gene Wu
+publishDate: "2015-04-07T17:33:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/scottish-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/pacific-opera-victoria.md
+slug: giles-tomkins
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/TomkinsGiles
+title: Giles Tomkins
+website: http://www.gilestomkins.com/
+---
 Canadian/British bass-baritone Giles Tomkins is widely praised for his vocal virtuosity and lyricism in an impressive range of repertoire. His rich, resonant voice brings “authority and power” to the concert and operatic stage.
 
 Upcoming concert engagements in 2017/18 include Handel’s _Dettingem Te Deum_ with Karen Schuessler Singers in London Ontario, Bach’s Peasant Cantata with Toronto Masque Theatre and Messiah with London Symphonia. Giles joins the cast of _The Overcoat_, a 2018 world premiere of James Rolfe’s new opera, co-produced by Tapestry Opera, Canadian Stage Company and Vancouver Opera, directed by Morris Panych. Giles is delighted to sing the role of Dr. Grenvil next season with Edmonton Opera and Pacific Opera Victoria in their productions of _La Traviata_.

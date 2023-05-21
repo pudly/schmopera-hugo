@@ -1,25 +1,23 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601164886/media/2020/09/AnnaMagdalenaHofmann_hqwdlj.jpg"
-primary_image_credit = ""
-related_companies = []
-slug = "magdalena-anna-hofmann"
-title = "Magdalena Anna Hofmann"
-website = "http://magdalenaannahofmann.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/magdalenaannahofmann"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mahofmannsopran"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/MagdalenaAnnaHofmann"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601164886/media/2020/09/AnnaMagdalenaHofmann_hqwdlj.jpg
+primary_image_credit: ""
+related_companies: []
+slug: magdalena-anna-hofmann
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/magdalenaannahofmann
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/mahofmannsopran
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/MagdalenaAnnaHofmann
+title: Magdalena Anna Hofmann
+website: http://magdalenaannahofmann.com/
+---
 Acclaimed as an “intense, concentrated artist” (_Opera News_) with a voice of “dark beauty and lustrous tone” (_Birmingham Post_), Magdalena Anna Hofmann has been celebrated at many of the world’s most important opera houses, festivals and concert halls. Her repertoire spans some of the great heroines of the German and Slavic repertoire as well as Mozart roles, operetta and modern music.
 
 Scheduled for the next few months are Isolde in Tristan und Isolde at the Staatsoper Hannover and in a new production at the Prague National Theatre.

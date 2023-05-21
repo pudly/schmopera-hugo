@@ -1,22 +1,26 @@
-+++
-date = "2017-09-15T20:45:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-09-15T20:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505522450925/2858%2BTheo%2BHoffman%2BHI%2BRES%2BART%2Bversion.jpg.jpg"
-publishDate = "2017-09-15T20:45:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-juilliard-school.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/lyric-opera-of-kansas-city.md"]
-slug = "theo-hoffman"
-title = "Theo Hoffman"
-website = "http://www.theohoffmanbaritone.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Theohoffmanbaritone/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/talesofhoffmann"
-+++
+---
+date: "2017-09-15T20:45:00-04:00"
+discipline: Baritone
+lastmod: "2017-09-15T20:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505522450925/2858%2BTheo%2BHoffman%2BHI%2BRES%2BART%2Bversion.jpg.jpg
+publishDate: "2017-09-15T20:45:00-04:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/lyric-opera-of-kansas-city.md
+slug: theo-hoffman
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Theohoffmanbaritone/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/talesofhoffmann
+title: Theo Hoffman
+website: http://www.theohoffmanbaritone.com/
+---
 
 Theo Hoffman is among the most versatile and refined young singers of his generation. Mr. Hoffman will perform Josef K. in the American Premier of *The Trial* by Philip Glass at Opera Theatre of Saint Louis in 2017. Mr. Hoffman will be presented in recital at the Kennedy Center in the 2017-18 season by Vocal Arts DC as the Gerald Perlman Emerging Artist. In 2016, he began his residency with the Marlboro Music Festival, where he gave the first Marlboro performance of Othmar Schoeck's *Notturno*. Mr. Hoffman will return to Marlboro Music in 2017. 
 

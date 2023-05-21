@@ -1,19 +1,30 @@
-+++
-date = "2017-01-18T21:23:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-01-18T21:23:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484774442129/2017-01-18---Kim-Barber.jpg.jpg"
-primary_image_credit = "Helen Tansey, Sundari Photography"
-publishDate = "2017-01-18T21:23:00+00:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/pacific-opera-victoria.md","scene/companies/opra-national-de-paris.md","scene/companies/seattle-opera.md","scene/companies/english-national-opera.md","scene/companies/oper-frankfurt.md","scene/companies/tapestry-opera.md","scene/companies/calgary-opera.md","scene/companies/toronto-masque-theatre.md","scene/companies/lopra-de-montral.md"]
-slug = "kimberly-barber"
-title = "Kimberly Barber"
-website = "http://www.kimberlybarber.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/thislandcanada"
-+++
+---
+date: "2017-01-18T21:23:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2017-01-18T21:23:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484774442129/2017-01-18---Kim-Barber.jpg.jpg
+primary_image_credit: Helen Tansey, Sundari Photography
+publishDate: "2017-01-18T21:23:00+00:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/seattle-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/tapestry-opera.md
+- scene/companies/calgary-opera.md
+- scene/companies/toronto-masque-theatre.md
+- scene/companies/lopra-de-montral.md
+slug: kimberly-barber
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/thislandcanada
+title: Kimberly Barber
+website: http://www.kimberlybarber.com/
+---
 
 If childhood pursuits were any indication, it would have been obvious that Kimberly Barber would have a bright future on world stages and in the hallowed halls of academe. Favourite early roles were Catwoman and alter ego (strongly modelled on “It” girls of the day, Lulu and Petula Clark) Lynn Warner, played out to excess in her suburban Willowdale basement. A close second in the make-believe sweepstakes was the role of teacher, probably because she was so bossy.  
 A brief sojourn as a courier for a large Toronto law firm revealed that it was the drama of the courtroom that captured her imagination rather than the reading of masses of casebooks and studying of legal precedents. Thus, rather than following in her father’s legal footsteps, she decamped to U of T’s Faculty of Music, forging her way through theory and skills courses to land on the operatic stages which soon became her stomping grounds.

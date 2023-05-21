@@ -1,19 +1,50 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-07-04T23:38:00-06:00"
-lastmod = "2015-07-07T14:46:00-06:00"
-preamble = "I first met mezzo-soprano Danielle MacMillan during the Canadian Opera Company's 2013 production of *Peter Grimes*, where she was one of the sassy Nieces keeping the Boar Pub interesting. Versatile like all good mezzos, Danielle is also preparing to sing Cherubino at [Highlands Opera Studio](/scene/companies/highlands-opera-studio/)'s production of *Le nozze di Figaro*, this August/September. Danielle talks about staying well-rounded, and how \"I just don't want to do anything else."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436075260577/DanielleVeronikaRoux.jpg.jpg"
-primary_image_credit = "Veronika Roux"
-publishDate = "2015-07-07T12:30:00-06:00"
-related_articles = ["articles/spotlight-on-kelsey-vicary.md","articles/spotlight-on-christopher-james-ray.md","articles/spotlight-on-emily-peragine.md","articles/spotlight-on-charlotte-knight.md","articles/spotlight-on-lida-szkwarek.md","articles/spotlight-on-maikai-nash.md","articles/spotlight-on-peter-bass.md","articles/spotlight-on-michelle-siemens.md","articles/spotlight-on-julia-dawson.md","articles/spotlight-on-william-ford.md","articles/spotlight-on-kimberleyann-bartczak.md","articles/spotlight-on-laurelle-jade-froese.md","articles/spotlight-on-jeremy-hirsch.md","articles/spotlight-on-maeve-palmer.md","articles/spotlight-on-keith-lam.md","articles/spotlight-on-cairan-ryan.md","articles/spotlight-on-jeremy-bowes.md","articles/spotlight-on-lara-ciekiewicz.md"]
-related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/danielle-macmillan.md"]
-short_description = "I first met mezzo-soprano Danielle MacMillan during the Canadian Opera Company&#039;s 2013 production of Peter Grimes, where she was one of the sassy Nieces keeping the Boar Pub interesting. Versatile like all good mezzos, Danielle is also preparing to sing Cherubino at Highlands Opera Studio&#039;s production of Le nozze di Figaro, this August/September."
-slug = "spotlight-on-danielle-macmillan"
-title = "Spotlight on: Danielle MacMillan"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-07-04T23:38:00-06:00"
+lastmod: "2015-07-07T14:46:00-06:00"
+preamble: I first met mezzo-soprano Danielle MacMillan during the Canadian Opera Company's
+  2013 production of *Peter Grimes*, where she was one of the sassy Nieces keeping
+  the Boar Pub interesting. Versatile like all good mezzos, Danielle is also preparing
+  to sing Cherubino at [Highlands Opera Studio](/scene/companies/highlands-opera-studio/)'s
+  production of *Le nozze di Figaro*, this August/September. Danielle talks about
+  staying well-rounded, and how "I just don't want to do anything else.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436075260577/DanielleVeronikaRoux.jpg.jpg
+primary_image_credit: Veronika Roux
+publishDate: "2015-07-07T12:30:00-06:00"
+related_articles:
+- articles/spotlight-on-kelsey-vicary.md
+- articles/spotlight-on-christopher-james-ray.md
+- articles/spotlight-on-emily-peragine.md
+- articles/spotlight-on-charlotte-knight.md
+- articles/spotlight-on-lida-szkwarek.md
+- articles/spotlight-on-maikai-nash.md
+- articles/spotlight-on-peter-bass.md
+- articles/spotlight-on-michelle-siemens.md
+- articles/spotlight-on-julia-dawson.md
+- articles/spotlight-on-william-ford.md
+- articles/spotlight-on-kimberleyann-bartczak.md
+- articles/spotlight-on-laurelle-jade-froese.md
+- articles/spotlight-on-jeremy-hirsch.md
+- articles/spotlight-on-maeve-palmer.md
+- articles/spotlight-on-keith-lam.md
+- articles/spotlight-on-cairan-ryan.md
+- articles/spotlight-on-jeremy-bowes.md
+- articles/spotlight-on-lara-ciekiewicz.md
+related_companies:
+- scene/companies/highlands-opera-studio.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/danielle-macmillan.md
+short_description: I first met mezzo-soprano Danielle MacMillan during the Canadian
+  Opera Company&#039;s 2013 production of Peter Grimes, where she was one of the sassy
+  Nieces keeping the Boar Pub interesting. Versatile like all good mezzos, Danielle
+  is also preparing to sing Cherubino at Highlands Opera Studio&#039;s production
+  of Le nozze di Figaro, this August/September.
+slug: spotlight-on-danielle-macmillan
+title: 'Spotlight on: Danielle MacMillan'
+---
 
 ### 1. Why do you sing, and why are you pursuing it professionally?
 

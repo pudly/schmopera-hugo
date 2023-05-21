@@ -1,19 +1,26 @@
-+++
-date = "2018-10-21T20:54:00-04:00"
-discipline = "Tenor"
-lastmod = "2018-10-21T20:54:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169590876/_JMR2167JeremyReed.jpg.jpg"
-primary_image_credit = "Jeremy Reed"
-publishDate = "2018-10-21T20:54:00-04:00"
-related_companies = ["scene/companies/boston-lyric-opera.md","scene/companies/welsh-national-opera.md","scene/companies/nashville-opera.md","scene/companies/florida-grand-opera.md","scene/companies/palm-beach-opera.md","scene/companies/opera-omaha.md"]
-slug = "jonathan-burton"
-title = "Jonathan Burton"
-website = "http://jburtontenor.com/index.asp"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jburtontenor"
-+++
+---
+date: "2018-10-21T20:54:00-04:00"
+discipline: Tenor
+lastmod: "2018-10-21T20:54:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169590876/_JMR2167JeremyReed.jpg.jpg
+primary_image_credit: Jeremy Reed
+publishDate: "2018-10-21T20:54:00-04:00"
+related_companies:
+- scene/companies/boston-lyric-opera.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/nashville-opera.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/opera-omaha.md
+slug: jonathan-burton
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/jburtontenor
+title: Jonathan Burton
+website: http://jburtontenor.com/index.asp
+---
 
 American tenor Jonathan Burton has been praised for having “thrilling power and beauty” (Baltimore Sun) and for being “an engaging all-around singer with a powerful, full-bodied sound.” (Opera News) For his recent turn as Calaf in *Turandot*, (Opera News) proclaimed that he “produced a wonderfully shaded ‘Nessun Dorma’ that included brilliant top notes” and the (Herald Tribune) raved “a tenor who can add substantial flesh to Calaf as well as deliver the most famous aria of Italian grand opera to satisfaction is a rare find...Burton hit the jackpot with his delivery of ‘Nessun dorma’ that could stand confidently next to our worn recordings of Corelli, Domingo and Pavarotti.”  
 

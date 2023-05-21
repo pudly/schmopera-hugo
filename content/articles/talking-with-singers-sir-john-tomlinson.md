@@ -1,18 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-03-07T06:10:00-05:00"
-lastmod = "2017-10-02T21:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489058833158/2017-03-09---Sir-John-Tomlinson-Photo-credit-Robert-Workman-(1).jpg.jpg"
-primary_image_credit = "Photo: Robert Workman."
-publishDate = "2017-03-16T06:34:00-04:00"
-related_articles = ["articles/talking-with-singers-john-fanning.md","articles/talking-with-singers-stephanie-blythe.md"]
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md"]
-related_people = ["scene/people/sir-john-tomlinson.md"]
-short_description = "&quot;They&#039;re the most important years of my working life,&quot; he says, proud of the legacy of live performances and recordings, particularly from his time at the Bayreuth Festival. There, in the late 1980s, Sir John sang his first Wotans, along with fellow first-timer Daniel Barenboim at the podium. In his 18 years at Bayreuth, he recalls, &quot;I&#039;ve never answered so much fan mail in my whole life.&quot; The cast would sign autographs in the mornings following performances, &quot;and it would be a two-hour long session with endless people.&quot;"
-slug = "talking-with-singers-sir-john-tomlinson"
-title = "Talking with singers: Sir John Tomlinson"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-03-07T06:10:00-05:00"
+lastmod: "2017-10-02T21:00:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489058833158/2017-03-09---Sir-John-Tomlinson-Photo-credit-Robert-Workman-(1).jpg.jpg
+primary_image_credit: 'Photo: Robert Workman.'
+publishDate: "2017-03-16T06:34:00-04:00"
+related_articles:
+- articles/talking-with-singers-john-fanning.md
+- articles/talking-with-singers-stephanie-blythe.md
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+related_people:
+- scene/people/sir-john-tomlinson.md
+short_description: '&quot;They&#039;re the most important years of my working life,&quot;
+  he says, proud of the legacy of live performances and recordings, particularly from
+  his time at the Bayreuth Festival. There, in the late 1980s, Sir John sang his first
+  Wotans, along with fellow first-timer Daniel Barenboim at the podium. In his 18
+  years at Bayreuth, he recalls, &quot;I&#039;ve never answered so much fan mail in
+  my whole life.&quot; The cast would sign autographs in the mornings following performances,
+  &quot;and it would be a two-hour long session with endless people.&quot;'
+slug: talking-with-singers-sir-john-tomlinson
+title: 'Talking with singers: Sir John Tomlinson'
+---
 
 "It feels quite good, actually," laughs Sir John Tomlinson of his particularly honourable title, which he received when he was knighted in the 2005 Queen's Birthday Honours list in recognition of his exception operatic career. "It's a huge honour, and I'm still slightly bemused that I received it."
 
@@ -34,7 +47,9 @@ Though he broke up the Wagner years with other delicious roles like Baron Ochs (
 
 "The Northern European mythology, I identify with. For me, it was part of my bones," he explains. "[Wagner's operas] express the human conditon, they express joy, and everything we're terrified of. The whole of life's experience is in those operas, in the most powerful way."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581832847/2017-03-15---Tomlinson-Wotan-Walkure.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581832847/2017-03-15---Tomlinson-Wotan-Walkure.jpg.jpg)
 <figcaption>Sir John Tomlinson as Wotan in Wagner's *Die Walküre*.</figcaption>
 </figure>
 
@@ -58,7 +73,9 @@ He is aware of the risks of "stretch repertoire", but he's equally wary of singe
 
 "Nothing must be overdone, but at the same time, you have to be always moving on. Playing safe and singing things which are absolutely in the middle of your range, which are not developing you at all, doesn't get you anywere."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581875182/2017-03-15---Tomlinson-Minotaur.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581875182/2017-03-15---Tomlinson-Minotaur.jpg.jpg)
 <figcaption>Sir John Tomlinson in the title role of Harrison Birtwistle's *The Minotaur*.</figcaption>
 </figure>
 
@@ -76,7 +93,9 @@ A recent example comes in David Sanderson's [article for *The Times*](http://www
 
 "So, one has to talk it *up*, rather than talk it *down*," he reasons. Though there indeed exist problems within the industry, its champions have a responsibility to lead with the positive, especially considering most companies' mission to attract new audiences and new supporters. "If you're a potential donor thinking, 'I love opera, I want to help an opera company,' and then you read something in a newspaper where an artist or singer is slagging off a national opera company, you're not going to support that company."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581933652/2017-03-15---Tomlinson-Bluebeard.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489581933652/2017-03-15---Tomlinson-Bluebeard.jpg.jpg)
 <figcaption>Sir John Tomlinson in the title role of Bartók's *Bluebeard's Castle*.</figcaption>
 </figure>
 
@@ -94,7 +113,9 @@ He started singing in a sort of "experimental" way, that experiment soon turning
 
 He adds with a laugh, "easier said than done."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506992435331/2017-10-02---Tomlinson-RBC.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506992435331/2017-10-02---Tomlinson-RBC.jpg.jpg)
 <figcaption>Sir John Tomlinson, after being made an Honourary Fellow at Rose Bruford College.</figcaption>
 </figure>
 

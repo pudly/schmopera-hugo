@@ -1,19 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-07-13T11:30:00-04:00"
-lastmod = "2017-07-15T11:36:00-04:00"
-preamble = "Alumna of the Royal Opera House's Jette Parker Young Artists Programme (2013-2015) and Finalist of the 2017 BBC Cardiff Singer of the World Competition, Armenian soprano [Anush Hovhannisyan](/scene/people/anush-hovhannisyan/) kicks off the coming season on August 6 at the BBC Proms, singing Emma in [Mussorgsky's *Khovanshchina*](https://www.bbc.co.uk/events/epxbp6). She'll then head to to Florence to sing Adina in *L'elisir d'amore* at the [New Generations Festival](https://www.newgenerationfestival.org/home), before taking on the title role in David McVicar's production of [*La traviata* with Scottish Opera](https://www.scottishopera.org.uk/shows/la-traviata/).\n\nHovhannisyan's love of her work is hard to miss; in our latest Spotlight interview, she talks about her long-term love affair with Rossini, and the \"important tool of every (young) singer's arsenal\"."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499960797109/2017-07-13---Square---Anush_Hovhannisyan-Robert-Koloyan.jpg.jpg"
-primary_image_credit = "Photo: Robert Koloyan."
-publishDate = "2017-07-14T13:47:00-04:00"
-related_articles = ["articles/spotlight-on-danielle-buonaiuto.md","articles/spotlight-on-amanda-majeski.md"]
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/scottish-opera.md"]
-related_people = ["scene/people/anush-hovhannisyan.md"]
-short_description = "&quot;I like portraying ladies with character, people who made a mark in history, who had strong will and great belief. I like portraying queens or characters who had gone through biggest challenges driven by their belief, not necessarily religious belief. I see many parallels in my own personality and those strong characters and it helps me to translate them well... I also LOVE comedy, so anything silly is my thing!&quot;"
-slug = "spotlight-on-anush-hovhannisyan"
-title = "Spotlight on: Anush Hovhannisyan"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-07-13T11:30:00-04:00"
+lastmod: "2017-07-15T11:36:00-04:00"
+preamble: |-
+  Alumna of the Royal Opera House's Jette Parker Young Artists Programme (2013-2015) and Finalist of the 2017 BBC Cardiff Singer of the World Competition, Armenian soprano [Anush Hovhannisyan](/scene/people/anush-hovhannisyan/) kicks off the coming season on August 6 at the BBC Proms, singing Emma in [Mussorgsky's *Khovanshchina*](https://www.bbc.co.uk/events/epxbp6). She'll then head to to Florence to sing Adina in *L'elisir d'amore* at the [New Generations Festival](https://www.newgenerationfestival.org/home), before taking on the title role in David McVicar's production of [*La traviata* with Scottish Opera](https://www.scottishopera.org.uk/shows/la-traviata/).
+
+  Hovhannisyan's love of her work is hard to miss; in our latest Spotlight interview, she talks about her long-term love affair with Rossini, and the "important tool of every (young) singer's arsenal".
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499960797109/2017-07-13---Square---Anush_Hovhannisyan-Robert-Koloyan.jpg.jpg
+primary_image_credit: 'Photo: Robert Koloyan.'
+publishDate: "2017-07-14T13:47:00-04:00"
+related_articles:
+- articles/spotlight-on-danielle-buonaiuto.md
+- articles/spotlight-on-amanda-majeski.md
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/scottish-opera.md
+related_people:
+- scene/people/anush-hovhannisyan.md
+short_description: '&quot;I like portraying ladies with character, people who made
+  a mark in history, who had strong will and great belief. I like portraying queens
+  or characters who had gone through biggest challenges driven by their belief, not
+  necessarily religious belief. I see many parallels in my own personality and those
+  strong characters and it helps me to translate them well... I also LOVE comedy,
+  so anything silly is my thing!&quot;'
+slug: spotlight-on-anush-hovhannisyan
+title: 'Spotlight on: Anush Hovhannisyan'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 
@@ -23,7 +37,9 @@ It happened that I was born into a musical family and having a stage director fa
 
 A career in music was inevitable for me, but I studied viola for 10 years at a professional music school and never thought of pursuing a career as a singer before 17 years old. Growing up I felt the urge to connect with people on a deeper level and share my message. For me singing is establishing a connection with other poeple and it is all I cherish in my life! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499963478546/2017-07-13---Anush---Donna-Elvira-foto-di-Fabio-Parenzan.jpg.jpg)<figcaption>Hovhannisyan as Donna Elvira in *Don Giovanni*, Teatro Verdi di Trieste. Photo: Fabio Parenzan.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499963478546/2017-07-13---Anush---Donna-Elvira-foto-di-Fabio-Parenzan.jpg.jpg)<figcaption>Hovhannisyan as Donna Elvira in *Don Giovanni*, Teatro Verdi di Trieste. Photo: Fabio Parenzan.</figcaption>
 </figure>
 
 ## What does "good singing" mean to you? What does it feel like when you achieve it?
@@ -34,7 +50,9 @@ Good singing for me happens when the audience starts vibrating on the same energ
 
 When I was still training I was obsessed with getting my notes right, keeping the postion, thinking about the support and breath control; now I am blessed with telling the story and sharing my experience, making others experience something else. That's a truly magical moment when this connection happens and suddenly the entire room/hall starts breathing in the same pace. It's such an elecrifying beautiful sensation, when energy is being born within one person, then it makes a boomerang movement going through the audience and back to the performers. There is nothing like that feeling anywhere else in the world!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499960838925/2017-07-13---Anush_Hovhannisyan-Robert-Koloyan.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499960838925/2017-07-13---Anush_Hovhannisyan-Robert-Koloyan.jpg.jpg)
 <figcaption>Anush Hovhannisyan. Photo by Robert Koloyan.</figcaption>
 </figure>
 
@@ -52,7 +70,9 @@ I would have loved to sing Don Bartolo in *Il barbiere di Siviglia*, but, alas, 
 
 I like portraying ladies with character, people who made a mark in history, who had strong will and great belief. I like portraying queens or characters who had gone through biggest challenges driven by their belief, not necessarily religious belief. I see many parallels in my own personality and those strong characters and it helps me to translate them well... I also LOVE comedy, so anything silly is my thing! 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499960828647/2017-07-13---Anush---El-gato-con-botas_-Catherine-Ashmore.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499960828647/2017-07-13---Anush---El-gato-con-botas_-Catherine-Ashmore.jpg.jpg)
 <figcaption>Anush Hovhannisyan in *El gato con botas*, ROH. Photo: Catherine Ashmore.</figcaption>
 </figure>
 

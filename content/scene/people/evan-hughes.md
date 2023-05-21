@@ -1,23 +1,28 @@
-+++
-date = "2018-10-16T20:42:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2018-10-16T20:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539736711434/hughes-headshot-icon.jpg.jpg"
-primary_image_credit = "Matthu Placek"
-publishDate = "2018-10-16T20:44:00-04:00"
-related_companies = ["scene/companies/san-diego-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/opera-philadelphia.md","scene/companies/semperoper-dresden.md","scene/companies/the-santa-fe-opera.md"]
-slug = "evan-hughes"
-title = "Evan Hughes"
-website = "https://www.evanhughesbassbaritone.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/evanhughesbassbaritone"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/evanbenhughes/"
-+++
+---
+date: "2018-10-16T20:42:00-04:00"
+discipline: Bass-baritone
+lastmod: "2018-10-16T20:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539736711434/hughes-headshot-icon.jpg.jpg
+primary_image_credit: Matthu Placek
+publishDate: "2018-10-16T20:44:00-04:00"
+related_companies:
+- scene/companies/san-diego-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/the-santa-fe-opera.md
+slug: evan-hughes
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/evanhughesbassbaritone
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/evanbenhughes/
+title: Evan Hughes
+website: https://www.evanhughesbassbaritone.com/
+---
 
 American Bass-Baritone Evan Hughes has been praised for his “appealing clarity and emotional heft” (*NY Times*) and his “burnished tone” (*Opera News*). 
 

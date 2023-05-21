@@ -1,18 +1,30 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2016-09-23T09:02:00+01:00"
-lastmod = "2016-09-23T12:30:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474617919367/2016-09-23---TSO_Renee-Fleming-2-credit-Dale-Wilcox.jpg.jpg"
-primary_image_credit = "Soprano Renée Fleming with the TSO. Dale Wilcox."
-publishDate = "2016-09-23T09:12:00+01:00"
-related_articles = ["articles/in-review-dmitri-hvorostovsky-at-koerner-hall.md","articles/in-review-sondra-radvanovsky-at-koerner-hall.md","articles/in-review-jamie-barton-leaves-you-wanting-more.md","articles/in-review-nashville-symphonys-season-opener.md","articles/thrilling-nights-szymanowski-orff-with-the-tso.md"]
-related_companies = ["scene/companies/toronto-symphony-orchestra.md"]
-related_people = ["scene/people/renee-fleming.md"]
-short_description = "After three encores that included a sing-along of &quot;I Could Have Danced All Night&quot; and &quot;Summertime&quot;, her third encore closed the show with a touching and soaring rendition of &quot;O mio babbino caro&quot;. The ovation went on for what seemed like several minutes and people were reluctant to leave their seats. "
-slug = "renee-fleming-tso"
-title = "In review: Renée Fleming joins opening night at the TSO"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2016-09-23T09:02:00+01:00"
+lastmod: "2016-09-23T12:30:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474617919367/2016-09-23---TSO_Renee-Fleming-2-credit-Dale-Wilcox.jpg.jpg
+primary_image_credit: Soprano Renée Fleming with the TSO. Dale Wilcox.
+publishDate: "2016-09-23T09:12:00+01:00"
+related_articles:
+- articles/in-review-dmitri-hvorostovsky-at-koerner-hall.md
+- articles/in-review-sondra-radvanovsky-at-koerner-hall.md
+- articles/in-review-jamie-barton-leaves-you-wanting-more.md
+- articles/in-review-nashville-symphonys-season-opener.md
+- articles/thrilling-nights-szymanowski-orff-with-the-tso.md
+related_companies:
+- scene/companies/toronto-symphony-orchestra.md
+related_people:
+- scene/people/renee-fleming.md
+short_description: 'After three encores that included a sing-along of &quot;I Could
+  Have Danced All Night&quot; and &quot;Summertime&quot;, her third encore closed
+  the show with a touching and soaring rendition of &quot;O mio babbino caro&quot;.
+  The ovation went on for what seemed like several minutes and people were reluctant
+  to leave their seats. '
+slug: renee-fleming-tso
+title: 'In review: Renée Fleming joins opening night at the TSO'
+---
 
 Hey Schmop-Tops!
 
@@ -26,7 +38,9 @@ Fleming took the stage for more Ravel, and brought us *Shéhérazade*. It was a 
 
 After intermission we came back to some rousing Rossini with TSO ripping up the overture to Rossini's *La scala di seta*. Their agility and accuracy were on full display in this romp of a number. You could see and feel the audience sprung into full attention and remained riveted by the great music to come for the rest of the night. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474618259768/2016-09-23---TSO_Renee-Fleming-credit-Dale-Wilcox.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1474618259768/2016-09-23---TSO_Renee-Fleming-credit-Dale-Wilcox.jpg.jpg)
 <figcaption>Renée Fleming with the Toronto Symphony Orchestra. Photo: Dale Wilcox.</figcaption>
 </figure>
 

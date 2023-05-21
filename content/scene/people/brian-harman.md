@@ -1,18 +1,19 @@
-+++
-date = "2017-07-10T21:08:00-04:00"
-discipline = "Composer"
-draft = true
-lastmod = "2017-07-10T21:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499735212308/2017-07-08---Brian-Harman.jpg.jpg"
-primary_image_credit = "Tor Sandberg."
-slug = "brian-harman"
-title = "Brian Harman"
-website = "http://www.brianharman.ca/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Composerbrian"
-+++
+---
+date: "2017-07-10T21:08:00-04:00"
+discipline: Composer
+draft: true
+lastmod: "2017-07-10T21:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499735212308/2017-07-08---Brian-Harman.jpg.jpg
+primary_image_credit: Tor Sandberg.
+slug: brian-harman
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Composerbrian
+title: Brian Harman
+website: http://www.brianharman.ca/
+---
 
 Brian Harman (b. 1981) is a Canadian composer, teacher and writer, and is currently the president of the Canadian League of Composers. His music has been described as “three-dimensional, maybe four-dimensional” (Arthur Kaptainis, The Gazette) and “effective and chilling” (Richard Todd, Ottawa Citizen). Harman’s music is frequently inspired by extra-musical elements, such as architecture, human speech, modern dance, technology and concepts of ritual. He has collaborated extensively with artists in other disciplines (performance artist Nina Arsenault, choreographer/dancer Geneviève Bolla, visual artist Danilo Ursini), and has written for a wide variety of media: orchestra, wind ensemble, choir, chamber ensembles, song cycle, opera, solo piano, theatre, modern dance, film and live electronics.
 

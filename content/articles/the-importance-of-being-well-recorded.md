@@ -1,22 +1,38 @@
-+++
-author = ["authors/arturo-fernandez.md"]
-categories = "Review"
-date = 2020-01-17T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "Odyssey Opera's recording of [_The Importance of Being Earnest_](https://www.odysseyopera.org/recordings/) is available for [online purchase](https://www.amazon.com/Mario-Castelnuovo-Tedesco-Importance-Being-Earnest/dp/B0833WXCHH), or by calling 617-826-1626."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1579204273/media/2020/01/OdysseyOpera-AlbumCover_ly1rps.png"
-primary_image_credit = ""
-related_articles = ["articles/in-review-baby-kintyre.md", "articles/8-contemporary-roles-to-covet.md", "articles/in-review-earnest-the-importance-of-being.md"]
-related_companies = ["scene/companies/odyssey-opera.md"]
-related_people = ["scene/people/neal-ferreira.md", "scene/people/claudia-waite.md", "scene/people/rachele-schmiege.md", "scene/people/stefan-barner.md", "scene/people/jeni-houser.md"]
-short_description = "And ultimately, it's indicative of Castelnuovo-Tedesco's approach: he chooses to supplement the wordplay already present in the source, and when it works the result is delightfully cheeky in the best way. One need look no further than the way the music swells with the punchlines, the subversively domestic sounds he gets from his orchestra of two pianos and percussion, and the text setting that remains declamatory almost to a fault. "
-slug = "the-importance-of-being-well-recorded"
-title = "The Importance of Being Well-Recorded"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/arturo-fernandez.md
+categories: Review
+date: "2020-01-17T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: Odyssey Opera's recording of [_The Importance of Being Earnest_](https://www.odysseyopera.org/recordings/)
+  is available for [online purchase](https://www.amazon.com/Mario-Castelnuovo-Tedesco-Importance-Being-Earnest/dp/B0833WXCHH),
+  or by calling 617-826-1626.
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1579204273/media/2020/01/OdysseyOpera-AlbumCover_ly1rps.png
+primary_image_credit: ""
+related_articles:
+- articles/in-review-baby-kintyre.md
+- articles/8-contemporary-roles-to-covet.md
+- articles/in-review-earnest-the-importance-of-being.md
+related_companies:
+- scene/companies/odyssey-opera.md
+related_people:
+- scene/people/neal-ferreira.md
+- scene/people/claudia-waite.md
+- scene/people/rachele-schmiege.md
+- scene/people/stefan-barner.md
+- scene/people/jeni-houser.md
+short_description: 'And ultimately, it''s indicative of Castelnuovo-Tedesco''s approach:
+  he chooses to supplement the wordplay already present in the source, and when it
+  works the result is delightfully cheeky in the best way. One need look no further
+  than the way the music swells with the punchlines, the subversively domestic sounds
+  he gets from his orchestra of two pianos and percussion, and the text setting that
+  remains declamatory almost to a fault. '
+slug: the-importance-of-being-well-recorded
+title: The Importance of Being Well-Recorded
+youtube_url: ""
+---
 Oscar Wilde was known in life for a few things: searing poetry, and witty wordplay. The latter in particular is what most people tend to focus on, as his wit in works such as _The Importance of Being Earnest_ proves. Unfortunately, this provides a rather difficult conundrum for anyone who decides to set Oscar Wilde's text to music: retaining the witticism which is integral to the success of his comedies would require one to keep the text as it is, and how much can the music really add when it is caged in such a way by the text?
 
 Mario Castelnuovo-Tedesco attempted to answer this question in 1961 with his operatic treatment of [_The Importance of Being Earnest_](https://www.odysseyopera.org/recordings/), set in English with a bit of a less modern edge. It is this treatment which Odyssey Opera has elected to use for its latest album release, in yet another of its series tackling opera written within the last century or so. As with everything they have done, it is certainly an interesting experiment, and in this case it has struck somewhere between silver and copper, in a sense.

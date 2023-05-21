@@ -1,22 +1,31 @@
-+++
-author = ["authors/carly-gordon.md"]
-categories = "Review"
-date = "2018-10-02T13:27:00-04:00"
-lastmod = "2018-10-02T13:38:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538501765644/sqDSC_0083.jpg.jpg"
-primary_image_credit = "Palm Beach Opera's Summer Opera Nights, September 2018. Photo courtesy of Palm Beach Opera."
-publishDate = "2018-10-02T13:38:00-04:00"
-related_companies = ["scene/companies/palm-beach-opera.md"]
-short_description = "With PBO&#039;s Young Artists away for the summer, the September 28 event starred South Florida mainstays: bass-baritone Neil Nelson – a familiar face from past PBO productions – and soprano Robyn Marie Lamp. The duo were joined by PBO rehearsal pianist and coach Cassie Makeeff, who heroically made the most of an electric keyboard."
-slug = "summer-opera-nights-in-palm-beach"
-title = "Summer Opera Nights in Palm Beach"
-+++
+---
+author:
+- authors/carly-gordon.md
+categories: Review
+date: "2018-10-02T13:27:00-04:00"
+lastmod: "2018-10-02T13:38:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538501765644/sqDSC_0083.jpg.jpg
+primary_image_credit: Palm Beach Opera's Summer Opera Nights, September 2018. Photo
+  courtesy of Palm Beach Opera.
+publishDate: "2018-10-02T13:38:00-04:00"
+related_companies:
+- scene/companies/palm-beach-opera.md
+short_description: 'With PBO&#039;s Young Artists away for the summer, the September
+  28 event starred South Florida mainstays: bass-baritone Neil Nelson – a familiar
+  face from past PBO productions – and soprano Robyn Marie Lamp. The duo were joined
+  by PBO rehearsal pianist and coach Cassie Makeeff, who heroically made the most
+  of an electric keyboard.'
+slug: summer-opera-nights-in-palm-beach
+title: Summer Opera Nights in Palm Beach
+---
 
 Floridians often jokingly attest that the weather in their home state offers only two seasons: summer, and hurricane. It was fitting, then, that [Palm Beach Opera](/scene/companies/palm-beach-opera/) fans and newcomers alike gathered on a hot, humid evening in late September to enjoy the final installment of the company's newest community outreach series, [Summer Opera Nights](https://pbopera.org/event/operanights/).
 
 Starting in July, the three-concert series took place at Elizabeth Ave Station, a trendy local arts marketplace-cum-events venue situated in West Palm Beach's recently gentrified Warehouse District. Guests could peruse a hipster's paradise of vintage vinyl records and handmade jewelry while sipping a free drink (included with admission) and listening to local opera soloists take on classic arias – not to mention a show tune or two.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538501753141/DSC_0048_c.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538501753141/DSC_0048_c.jpg.jpg)
 <figcaption>Palm Beach Opera's Summer Opera Nights, September 2018. Photo courtesy of Palm Beach Opera.</figcaption>
 </figure>
 
@@ -26,7 +35,9 @@ Repertoire ran the gamut from "Io son l'umile ancella" and the Toreador Song (of
 
 Interspersed between fifteen-minute musical sets were rounds of opera-themed trivia, led with crowd-pleasing enthusiasm by PBO's Education & Community Engagement Associate, Abbey Ward. Using a mobile app, the crowd keyed in their answers to questions ranging from tidbits about PBO's upcoming season to lighthearted musical minutiae. Did you know that Rossini once referred to truffles as "the Mozart of mushrooms"?
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538501742687/GordonIMG_20180928_195910.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538501742687/GordonIMG_20180928_195910.jpg.jpg)
 <figcaption>Palm Beach Opera's Summer Opera Nights, September 2018. Photo courtesy of Carly Gordon.</figcaption>
 </figure>
 
@@ -34,7 +45,9 @@ Palm Beach Opera is hardly the first opera company to attempt dressed-down Carme
 
 Notably, PBO's on-site marketing push didn't hound attendees with season subscription sales, but rather nudged the crowd to consider purchasing single tickets – an audience retention tactic modeled with quantifiable success by the California Symphony. It was clear that the goal of the evening wasn't to meet a sales quota, nor to convert a roomful of opera first-timers into opera die-hards. Instead, the Summer Opera Nights could be enjoyed at face value – a laid-back evening of music and camaraderie on a sweltering September night.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538501730192/GordonIMG_20180928_205256.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1538501730192/GordonIMG_20180928_205256.jpg.jpg)
 <figcaption>Palm Beach Opera's Summer Opera Nights, September 2018. Photo courtesy of Carly Gordon.</figcaption>
 </figure>
 

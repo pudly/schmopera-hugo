@@ -1,5 +1,5 @@
 ---
-title: "Invite us"
+title: Invite us
 ---
 
 ## We love crashing your party!

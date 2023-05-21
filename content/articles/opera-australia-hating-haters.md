@@ -1,18 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-01-06T15:52:00-05:00"
-lastmod = "2015-04-12T11:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428849970212/Lyndon.jpg.jpg"
-primary_image_credit = "Nicole Cleary"
-publishDate = "2015-01-06T15:52:00-05:00"
-related_articles = ["articles/freedom-of-press-journalistic-integrity.md"]
-related_companies = ["scene/companies/opera-australia.md"]
-related_people = ["scene/people/lyndon-terracini.md"]
-short_description = "Well, it&#039;s been a weird week for critics. After opera critic Paolo Isotta, of the Italian newspaper Corriere della Sera, got himself blacklisted from receiving free media tickets from La Scala, new management has lifted his ban. Although Corriere has since decided to refuse free ticket offers from La Scala in the future, Artistic and music directors Alexander Pereira and Riccardo Chailly have said that they won&#039;t ban any critics from requesting media seats (including Paolo Isotta). How progressive."
-slug = "opera-australia-hating-haters"
-title = "Opera Australia: hating haters?"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-01-06T15:52:00-05:00"
+lastmod: "2015-04-12T11:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428849970212/Lyndon.jpg.jpg
+primary_image_credit: Nicole Cleary
+publishDate: "2015-01-06T15:52:00-05:00"
+related_articles:
+- articles/freedom-of-press-journalistic-integrity.md
+related_companies:
+- scene/companies/opera-australia.md
+related_people:
+- scene/people/lyndon-terracini.md
+short_description: Well, it&#039;s been a weird week for critics. After opera critic
+  Paolo Isotta, of the Italian newspaper Corriere della Sera, got himself blacklisted
+  from receiving free media tickets from La Scala, new management has lifted his ban.
+  Although Corriere has since decided to refuse free ticket offers from La Scala in
+  the future, Artistic and music directors Alexander Pereira and Riccardo Chailly
+  have said that they won&#039;t ban any critics from requesting media seats (including
+  Paolo Isotta). How progressive.
+slug: opera-australia-hating-haters
+title: 'Opera Australia: hating haters?'
+---
 
 <p class="intro">
 	Well, it's been a weird week for critics. After opera critic Paolo Isotta, of the Italian newspaper <em>Corriere della Sera</em>, got himself blacklisted from receiving free media tickets from La Scala, new management has lifted his ban. Although <em>Corriere </em>has since decided to refuse free ticket offers from La Scala in the future, Artistic and music directors Alexander Pereira and Riccardo Chailly have said that <a href="http://slippedisc.com/2015/01/exclusive-la-scala-lifts-its-ban-on-newspaper-critic/" target="_blank">they won't ban any critics</a> from requesting media seats (including Paolo Isotta). How progressive.<br>

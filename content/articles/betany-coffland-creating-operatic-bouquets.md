@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-03-06T21:26:00+00:00"
-lastmod = "2016-03-08T11:42:00+00:00"
-preamble = "American mezzo-soprano [Betany Coffland](/scene/people/betany-coffland/) has some of opera's juiciest roles under her belt, like Carmen, Rosina, Dorabella, and Elle in *La voix humaine*. She recently started her own floral design business, [Chloris Floral](http://www.chlorisfloral.com/#home), where she even designs bouquets based on her favourite pieces of classical music and [operatic characters](http://blog.chlorisfloral.com/index.php/2015/09/19/mozarts-zerlina-says-i-do/). \n\nBetany chats with us about stepping outside of singing in order to find artistic fulfilment, about the curious practice of [floriography](https://en.wikipedia.org/wiki/Language_of_flowers), and creating a *Pierrot Lunaire*-inspired bouquet.\n\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457432930883/2016-03-08---Betany---Paige_Green_film_photo.jpg.jpg"
-primary_image_credit = "Photo by Paige Green."
-publishDate = "2016-03-08T11:39:00+00:00"
-related_people = ["scene/people/betany-coffland.md"]
-short_description = "It’s funny what happens when you let go and put out your truth to the world. Good things happen. So, I recommend for all singers at whatever stage of their career, look for passion. Passion is cultivating, inspiring and uplifting and it will only enhance your life and therefore, your art."
-slug = "betany-coffland-creating-operatic-bouquets"
-title = "Betany Coffland: creating operatic bouquets"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-03-06T21:26:00+00:00"
+lastmod: "2016-03-08T11:42:00+00:00"
+preamble: "American mezzo-soprano [Betany Coffland](/scene/people/betany-coffland/)
+  has some of opera's juiciest roles under her belt, like Carmen, Rosina, Dorabella,
+  and Elle in *La voix humaine*. She recently started her own floral design business,
+  [Chloris Floral](http://www.chlorisfloral.com/#home), where she even designs bouquets
+  based on her favourite pieces of classical music and [operatic characters](http://blog.chlorisfloral.com/index.php/2015/09/19/mozarts-zerlina-says-i-do/).
+  \n\nBetany chats with us about stepping outside of singing in order to find artistic
+  fulfilment, about the curious practice of [floriography](https://en.wikipedia.org/wiki/Language_of_flowers),
+  and creating a *Pierrot Lunaire*-inspired bouquet.\n\n"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457432930883/2016-03-08---Betany---Paige_Green_film_photo.jpg.jpg
+primary_image_credit: Photo by Paige Green.
+publishDate: "2016-03-08T11:39:00+00:00"
+related_people:
+- scene/people/betany-coffland.md
+short_description: It’s funny what happens when you let go and put out your truth
+  to the world. Good things happen. So, I recommend for all singers at whatever stage
+  of their career, look for passion. Passion is cultivating, inspiring and uplifting
+  and it will only enhance your life and therefore, your art.
+slug: betany-coffland-creating-operatic-bouquets
+title: 'Betany Coffland: creating operatic bouquets'
+---
 
 ## What inspired you to work with floral design, on top of your already busy singing schedule?
 
@@ -25,7 +37,7 @@ For a year now, I’ve been doing the musically inspired floral bouquets and I s
 
 The local flowers movement, also known as Slow Flowers, is revolutionizing the domestic flower industry. Currently about 80% of our flowers in the US are imported. The worst part is many of these flowers, being transported by planes, are sprayed with noxious chemicals that unsuspecting customers ingest when smelling and touching these flowers. There is also a hidden history of these big flower companies stealing precious water resources from small villages. It’s a practice that needs to be changed through education and believe me, when someone sees and smells the difference of a locally grown bouquet of blooms from the farm down the lane, there’s no turning back.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457433266800/2016-03-08%20-%20Zerlina%20bouquet.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457433266800/2016-03-08%20-%20Zerlina%20bouquet.jpg.jpg)
 <figcaption>The "Zerlina bouquet". Photo by Jessica Sue Layton.</figcaption>
 </figure>
 

@@ -1,72 +1,123 @@
-<!doctype html>
+<!DOCTYPE html>
 <html class="no-js __dontnag" lang="en-CA">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{- block "page_title" . -}}{{.Title | htmlUnescape }}{{- end -}}</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>
+      {{- block "page_title" . -}}{{.Title | htmlUnescape }}{{- end -}}
+    </title>
     {{ if .Params.short_description -}}
-    <meta name="description" content='{{ .Params.short_description }}'>
+    <meta name="description" content="{{ .Params.short_description }}" />
     {{- else if .Summary -}}
-    <meta name="description" content='{{ .Summary | plainify }}'>
+    <meta name="description" content="{{ .Summary | plainify }}" />
     {{- else -}}
-    <meta name="description" content='Schmopera exists because opera is a current and evolving art, and the people that make it happen have plenty to say about it. Singers, conductors, stage managers and pianists will all bring their skills and ideas to the rehearsal, and Schmopera wants to make those ideas accessible to the opera-loving public. Our contributors are professionals in the operatic world, and we&#39;re using our insider information to talk about what&#39;s working about the industry, and what isn&#39;t.'>
+    <meta
+      name="description"
+      content="Schmopera exists because opera is a current and evolving art, and the people that make it happen have plenty to say about it. Singers, conductors, stage managers and pianists will all bring their skills and ideas to the rehearsal, and Schmopera wants to make those ideas accessible to the opera-loving public. Our contributors are professionals in the operatic world, and we&#39;re using our insider information to talk about what&#39;s working about the industry, and what isn&#39;t."
+    />
     {{- end }}
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="theme-color" content="#00a9e0">
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#00a9e0" />
 
-    <meta property="og:site_name" content="Schmopera">
-    <meta property="og:title" content='{{- block "og_title" . -}}Schmopera.com{{- end -}}'>
-    <meta property="og:type" content='{{- block "og_type" . -}}website{{- end -}}'>
-    <meta property="og:url" content='{{- .Permalink -}}'>
-    <meta property="og:image" content='{{- block "og_image" . -}}/images/logo.png{{- end -}}'>
-    <meta property="og:description" content='{{- block "og_description" . -}}Schmopera exists because opera is a current and evolving art, and the people that make it happen have plenty to say about it. Singers, conductors, stage managers and pianists will all bring their skills and ideas to the rehearsal, and Schmopera wants to make those ideas accessible to the opera-loving public. Our contributors are professionals in the operatic world, and we&#39;re using our insider information to talk about what&#39;s working about the industry, and what isn&#39;t.{{- end -}}'>
-    
-    <link rel="canonical" href="{{- .Permalink -}}">
-    
-    <link rel="shortcut icon" href="/images/favicon.png">
-    <link rel="apple-touch-icon" href="/images/touch-icon.png">
+    <meta property="og:site_name" content="Schmopera" />
+    <meta
+      property="og:title"
+      content='{{- block "og_title" . -}}Schmopera.com{{- end -}}'
+    />
+    <meta
+      property="og:type"
+      content='{{- block "og_type" . -}}website{{- end -}}'
+    />
+    <meta property="og:url" content="{{- .Permalink -}}" />
+    <meta
+      property="og:image"
+      content='{{- block "og_image" . -}}/images/logo.png{{- end -}}'
+    />
+    <meta
+      property="og:description"
+      content='{{- block "og_description" . -}}Schmopera exists because opera is a current and evolving art, and the people that make it happen have plenty to say about it. Singers, conductors, stage managers and pianists will all bring their skills and ideas to the rehearsal, and Schmopera wants to make those ideas accessible to the opera-loving public. Our contributors are professionals in the operatic world, and we&#39;re using our insider information to talk about what&#39;s working about the industry, and what isn&#39;t.{{- end -}}'
+    />
 
-    {{- $style := resources.Get "sass/schmopera.scss" | toCSS | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    <link rel="canonical" href="{{- .Permalink -}}" />
+
+    <link rel="shortcut icon" href="/images/favicon.png" />
+    <link rel="apple-touch-icon" href="/images/touch-icon.png" />
+
+    {{- $style := resources.Get "sass/schmopera.scss" | toCSS | minify |
+    fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}" />
+
+    {{/* decap cms */}}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
+    <div id="main" class="container m-scene">
+      {{- partialCached "header.html" . -}}
 
-      <div id="main" class="container m-scene">
-        {{- partialCached "header.html" . -}}
-
-        <div class="content--main">
-          {{ block "main" . -}}{{- end -}}
-          {{- partialCached "newsletter.html" . }}
-        </div>
+      <div class="content--main">
+        {{ block "main" . -}}{{- end -}} {{- partialCached "newsletter.html" .
+        }}
       </div>
+    </div>
 
-      {{- partialCached "footer.html" . -}}
+    {{- partialCached "footer.html" . -}} {{- $lazyload := resources.Get
+    "/javascript/lazyload.js" -}} {{- $fastclick := resources.Get
+    "/javascript/fastclick.js" -}} {{- $lightbox := resources.Get
+    "/javascript/lightbox.js" -}} {{- $main := resources.Get
+    "/javascript/main.js" -}} {{- $autotrack := resources.Get
+    "/javascript/autotrack.js" -}} {{- $jscookie := resources.Get
+    "/javascript/js-cookie.js" -}} {{- $js := slice $lazyload $fastclick
+    $lightbox $main $autotrack $jscookie | resources.Concat "js/main.js" |
+    minify | fingerprint }}
 
-      {{- $lazyload := resources.Get "/javascript/lazyload.js" -}}
-      {{- $fastclick := resources.Get "/javascript/fastclick.js" -}}
-      {{- $lightbox := resources.Get "/javascript/lightbox.js" -}}
-      {{- $main := resources.Get "/javascript/main.js" -}}
-      {{- $autotrack := resources.Get "/javascript/autotrack.js" -}}
-      {{- $jscookie := resources.Get "/javascript/js-cookie.js" -}}
-      {{- $js := slice $lazyload $fastclick $lightbox $main $autotrack $jscookie | resources.Concat "js/main.js" | minify | fingerprint }}
+    <script src="{{ $js.Permalink }}"></script>
 
-      <script src="{{ $js.Permalink }}"></script>
-      
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      
-        ga('create', 'UA-46647120-1', 'schmopera.com');
-        ga('require', 'displayfeatures');
-        ga('require', 'eventTracker');
-        ga('require', 'outboundLinkTracker');
-        ga('require', 'urlChangeTracker');
-      
-        ga('send', 'pageview');
-      </script>      
+    <script>
+      (function (i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+          i[r] ||
+          function () {
+            (i[r].q = i[r].q || []).push(arguments);
+          }),
+          (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+      })(
+        window,
+        document,
+        "script",
+        "//www.google-analytics.com/analytics.js",
+        "ga"
+      );
+
+      ga("create", "UA-46647120-1", "schmopera.com");
+      ga("require", "displayfeatures");
+      ga("require", "eventTracker");
+      ga("require", "outboundLinkTracker");
+      ga("require", "urlChangeTracker");
+
+      ga("send", "pageview");
+    </script>
+
+    {{/* decap cms */}}
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>

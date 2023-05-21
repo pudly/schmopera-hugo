@@ -1,30 +1,34 @@
-+++
-date = "2017-04-04T14:14:00+01:00"
-discipline = "Tenor"
-lastmod = "2017-04-04T14:17:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491311587247/MAGRI-Ivan3-672x1030.jpg.jpg"
-publishDate = "2017-04-04T14:17:00+01:00"
-related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/royal-opera-house.md","scene/companies/staatsoper-berlin.md","scene/companies/salzburg-festival.md","scene/companies/semperoper-dresden.md"]
-slug = "ivan-magri"
-title = "Ivan Magrì"
-website = "https://www.ivanmagri.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ivanmagritenor/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ivan_magri"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/ivanmagritenor/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC1fXyUv9aCmesLakILgRIlA"
-+++
+---
+date: "2017-04-04T14:14:00+01:00"
+discipline: Tenor
+lastmod: "2017-04-04T14:17:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491311587247/MAGRI-Ivan3-672x1030.jpg.jpg
+publishDate: "2017-04-04T14:17:00+01:00"
+related_companies:
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/royal-opera-house.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/salzburg-festival.md
+- scene/companies/semperoper-dresden.md
+slug: ivan-magri
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ivanmagritenor/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/ivan_magri
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/ivanmagritenor/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC1fXyUv9aCmesLakILgRIlA
+title: Ivan Magrì
+website: https://www.ivanmagri.com/
+---
 
 Ivan Magri is rapidly gaining recognition as a leading tenor at such theaters as the Bayerische Staatsoper in Munich, Staatsoper Berlin, Deutsche Oper Berlin, Teatro dell’Opera di Roma, Opernhaus Zürich, Dutch National Opera in Amsterdam, Teatro Colon in Buenos Aires and Theatro Municipal in São Paulo. This season, he will sing Nemorino in *L’elisir d’amore* at the Royal Opera House – Covent Garden, the title role in *Werther* at the Hungarian State Opera in Budapest, and the Duke in *Rigoletto* at the Staatsoper Stuttgart, Staatsoper Hamburg, Semperoper Dresden and Savonlinna Festival in Finland.
 

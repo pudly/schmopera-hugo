@@ -1,13 +1,17 @@
-+++
-date = "2016-01-06T11:26:00-05:00"
-discipline = "Director"
-lastmod = "2016-01-06T11:26:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452097547591/2016-01-05---Robert-Lepage.jpg.jpg"
-publishDate = "2016-01-06T11:26:00-05:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md"]
-slug = "robert-lepage"
-title = "Robert Lepage"
-+++
+---
+_template: people_single
+date: "2016-01-06T11:26:00-05:00"
+discipline: Director
+lastmod: "2016-01-06T11:26:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1452097547591/2016-01-05---Robert-Lepage.jpg.jpg
+publishDate: "2016-01-06T11:26:00-05:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opra-national-de-paris.md
+slug: robert-lepage
+title: Robert Lepage
+---
 
 Director, designer, actor, dramatist, playwright, creator, born at Quebec City 12 Dec 1957; Diploma (Conservatoire de Musique et d'art dramatique de Québec [CMQ]) 1978, honorary PhD Arts (Laval) 1994, honorary PhD Lit (McGill) and honorary PhD Lit (Toronto) 1997, honorary LLD (Concordia) 1999.
 

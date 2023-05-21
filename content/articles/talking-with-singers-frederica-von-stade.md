@@ -1,22 +1,35 @@
-+++
-author = ["authors/eva-cahen.md"]
-categories = "Interview"
-date = "2019-03-05T18:29:05+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "[_Three Decembers_](https://www.sdopera.org/season/2018-2019-season/three-decembers) runs at San Diego Opera March 8-10. For details and ticket information, [click here](https://www.sdopera.org/season/2018-2019-season/three-decembers)."
-preamble = "[Frederica von Stade](/scene/people/frederica-von-stade/) stars in Jake Heggie's [_Three Decembers_](https://www.sdopera.org/season/2018-2019-season/three-decembers) in a production by the San Diego Opera March 8-10, 2019, directed by Karen Tiller. The opera, based on Terrence McNally's play _Some Christmas Letters_, premiered at Houston Grand Opera in February 2008 and was created with a role for the great mezzo-soprano, Frederica von Stade, who began her career in 1970 with her debut at the Metropolitan Opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551812492/media/2019/03/sqvonStadeRobertMillard.jpg"
-primary_image_credit = "Photo: Robert Millard."
-related_articles = ["articles/talking-with-singers-stephanie-blythe.md", "articles/we-took-a-real-chance-with-great-scott.md"]
-related_companies = ["scene/companies/san-diego-opera.md"]
-related_people = ["scene/people/frederica-von-stade.md"]
-short_description = "\"I've been singing from the time I was three. Singing has always been a great comfort. As a child I had a wild imagination and I was always creating little scenes. If I was playing with leaves, I would make pathways and roads.\""
-slug = "talking-with-singers-frederica-von-stade"
-title = "Talking with singers: Frederica von Stade"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/eva-cahen.md
+categories: Interview
+date: "2019-03-05T18:29:05+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: '[_Three Decembers_](https://www.sdopera.org/season/2018-2019-season/three-decembers)
+  runs at San Diego Opera March 8-10. For details and ticket information, [click here](https://www.sdopera.org/season/2018-2019-season/three-decembers).'
+preamble: '[Frederica von Stade](/scene/people/frederica-von-stade/) stars in Jake
+  Heggie''s [_Three Decembers_](https://www.sdopera.org/season/2018-2019-season/three-decembers)
+  in a production by the San Diego Opera March 8-10, 2019, directed by Karen Tiller.
+  The opera, based on Terrence McNally''s play _Some Christmas Letters_, premiered
+  at Houston Grand Opera in February 2008 and was created with a role for the great
+  mezzo-soprano, Frederica von Stade, who began her career in 1970 with her debut
+  at the Metropolitan Opera.'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551812492/media/2019/03/sqvonStadeRobertMillard.jpg
+primary_image_credit: 'Photo: Robert Millard.'
+related_articles:
+- articles/talking-with-singers-stephanie-blythe.md
+- articles/we-took-a-real-chance-with-great-scott.md
+related_companies:
+- scene/companies/san-diego-opera.md
+related_people:
+- scene/people/frederica-von-stade.md
+short_description: '"I''ve been singing from the time I was three. Singing has always
+  been a great comfort. As a child I had a wild imagination and I was always creating
+  little scenes. If I was playing with leaves, I would make pathways and roads."'
+slug: talking-with-singers-frederica-von-stade
+title: 'Talking with singers: Frederica von Stade'
+youtube_url: ""
+---
 #### On _Three Decembers_
 
 I've been an enormous fan of Jake Heggie's since I met him - as a human being, as a composer, and as a friend. When he asked me to do this I was thrilled.
@@ -41,7 +54,9 @@ Of course, it would have been amazing to work with Mozart like that \[in the roo
 
 The \[composers\] are the ones who are creating it and they know what they want. They're flexible to a point but in a way, we are just the sales girls.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551812622/media/2019/03/vonStadeThreeDecembers.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551812622/media/2019/03/vonStadeThreeDecembers.jpg)
 
 <figcaption>San Diego Opera presents Jake Heggie's chamber opera, Three Decembers, March 8, 9, and 10m, 2019. Part of the Detour Series. Photo courtesy of Hawaii Opera Theatre.</figcaption>
 
@@ -73,7 +88,9 @@ At this point in my life, I really love seeing kids come along and prosper in mu
 
 Now I work with the Young Musicians Choral Orchestra. It's an extraordinary program for children 9 through 18 that does intensive music preparation. They have to sing and also have to play an instrument. Lessons are free and there are weekly rehearsals. There's an intensive 8-week program in the summer from 8 AM till 6 PM. The purpose of it is to get those kids into college. Usually, college would not be in their future because they're from very low-income families. Music gives them great discipline and a great joy.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551812563/media/2019/03/vonStadeTerrenceMcCarthy.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551812563/media/2019/03/vonStadeTerrenceMcCarthy.jpg)
 
 <figcaption>Frederica von Stade. Photo by Terrence McCarthy.</figcaption>
 

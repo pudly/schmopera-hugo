@@ -1,19 +1,25 @@
-+++
-date = "2017-09-19T11:46:00-04:00"
-discipline = "Stage director"
-lastmod = "2017-09-19T11:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835790713/Ted_Huffman_PR_Photo_37.jpg.jpg"
-primary_image_credit = "Michael Hart"
-publishDate = "2017-09-19T11:46:00-04:00"
-related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/royal-opera-house.md","scene/companies/the-santa-fe-opera.md","scene/companies/merola-opera-program.md","scene/companies/glyndebourne.md"]
-slug = "ted-huffman"
-title = "Ted Huffman"
-website = "http://www.tedhuffman.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/tedrhuffman/"
-+++
+---
+date: "2017-09-19T11:46:00-04:00"
+discipline: Stage director
+lastmod: "2017-09-19T11:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505835790713/Ted_Huffman_PR_Photo_37.jpg.jpg
+primary_image_credit: Michael Hart
+publishDate: "2017-09-19T11:46:00-04:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/royal-opera-house.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/glyndebourne.md
+slug: ted-huffman
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/tedrhuffman/
+title: Ted Huffman
+website: http://www.tedhuffman.com/
+---
 
 Director Ted Huffman was recently nominated for an Olivier Award for Best New Opera Production and for an RPS Music Award in Opera for *4.48 Psychosis* at the Royal Opera House, Covent Garden. He is the also recipient of a 2017 MacDowell Fellowship with composer Philip Venables.
 

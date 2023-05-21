@@ -1,26 +1,26 @@
-+++
-date = "2015-09-07T22:12:00-04:00"
-lastmod = "2015-09-07T22:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441678353392/savvoivefest.jpg.jpg"
-publishDate = "2015-09-07T22:12:00-04:00"
-related_people = ["scene/people/sherrill-milnes.md"]
-slug = "savannah-voice-festival"
-title = "Savannah VOICE Festival"
-type_of_company = "Vocal Arts Festival"
-website = "http://savannahvoicefestival.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/SavannahVOICEFestival"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SavannahVOICE"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/results?search_query=Savannah+VOICE+Festival"
-+++
+---
+date: "2015-09-07T22:12:00-04:00"
+lastmod: "2015-09-07T22:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441678353392/savvoivefest.jpg.jpg
+publishDate: "2015-09-07T22:12:00-04:00"
+related_people:
+- scene/people/sherrill-milnes.md
+slug: savannah-voice-festival
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/SavannahVOICEFestival
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/SavannahVOICE
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/results?search_query=Savannah+VOICE+Festival
+title: Savannah VOICE Festival
+type_of_company: Vocal Arts Festival
+website: http://savannahvoicefestival.org/
+---
 
 The Savannah VOICE Festival is a non-profit arts organization that brings classical vocal excellence to the Savannah, Georgia area through a two-week celebration of concerts, events and educational presentations during the month of August and throughout the year.
 

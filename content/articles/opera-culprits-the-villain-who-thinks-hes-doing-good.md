@@ -1,16 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-07-30T20:16:00+02:00"
-lastmod = "2015-08-12T14:49:00+02:00"
-preamble = "Just like in real life, the most terrifying villains are the ones who firmly believe they're doing good. Sure, there are sociopathic/sadistic types, villains who just like to hurt people. The more fascinating, and dramatically challenging villains are the ones who have reasons behind their villainry. Sometimes the reasoning is good enough to pursuade, to make audiences understand where they come from; with bad guys like Dexter Morgan, Walter White, and even fun version of the Devil, audiences are arguably rooting for them to succeed.\n\nPerhaps it's because I like my stories a little twisted, or perhaps it's because villains are objectively more interesting than The Good Guys (they are, everyone knows this, #catharsis), but my favourite characters in opera are some of the most hateful. Whether he's singing outside Rosina's window in *Il barbiere*, or trying to rape the help in *Le nozze*, Count Almaviva creates a subtle sneer on my face without fail. *Tosca*'s Scarpia is a pathetic sort with a frustrating amount of power. He's manipulative, I suppose, but his would-be rape scene always strikes me as noticeably un-powerful. Tosca manages to fend him off for enough time to sing \"Vissi d'arte,\" for chrissakes.\n\nSo, please indulge me as I go through just three of my favourite, favourite villains in opera, starting with the worst of them all:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438375860260/Joker.jpg.jpg"
-publishDate = "2015-08-13T13:00:00+02:00"
-related_articles = ["articles/if-opera-characters-went-to-the-opera.md","articles/opera-spin-off.md","articles/opera-spinoffs-round-two.md","articles/6-tv-shows-that-should-be-operas.md","articles/mewsy-goes-to-the-opera.md","articles/concert-etiquette-or-put-down-your-phone.md","articles/brian-mulligan-singing-jack-torrance.md"]
-short_description = "Just like in real life, the most terrifying villains are the ones who firmly believe they&#039;re doing good. Sure, there are sociopathic/sadistic types, villains who just like to hurt people. The more fascinating, and dramatically challenging villains are the ones who have reasons behind their villainry. Sometimes the reasoning is good enough to pursuade, to make audiences understand where they come from; with bad guys like Dexter Morgan, Walter White, and even fun version of the Devil, audiences are arguably rooting for them to succeed."
-slug = "opera-culprits-the-villain-who-thinks-hes-doing-good"
-title = "Opera culprits: the villain who thinks he&#039;s doing good"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-07-30T20:16:00+02:00"
+lastmod: "2015-08-12T14:49:00+02:00"
+preamble: |-
+  Just like in real life, the most terrifying villains are the ones who firmly believe they're doing good. Sure, there are sociopathic/sadistic types, villains who just like to hurt people. The more fascinating, and dramatically challenging villains are the ones who have reasons behind their villainry. Sometimes the reasoning is good enough to pursuade, to make audiences understand where they come from; with bad guys like Dexter Morgan, Walter White, and even fun version of the Devil, audiences are arguably rooting for them to succeed.
+
+  Perhaps it's because I like my stories a little twisted, or perhaps it's because villains are objectively more interesting than The Good Guys (they are, everyone knows this, #catharsis), but my favourite characters in opera are some of the most hateful. Whether he's singing outside Rosina's window in *Il barbiere*, or trying to rape the help in *Le nozze*, Count Almaviva creates a subtle sneer on my face without fail. *Tosca*'s Scarpia is a pathetic sort with a frustrating amount of power. He's manipulative, I suppose, but his would-be rape scene always strikes me as noticeably un-powerful. Tosca manages to fend him off for enough time to sing "Vissi d'arte," for chrissakes.
+
+  So, please indulge me as I go through just three of my favourite, favourite villains in opera, starting with the worst of them all:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438375860260/Joker.jpg.jpg
+publishDate: "2015-08-13T13:00:00+02:00"
+related_articles:
+- articles/if-opera-characters-went-to-the-opera.md
+- articles/opera-spin-off.md
+- articles/opera-spinoffs-round-two.md
+- articles/6-tv-shows-that-should-be-operas.md
+- articles/mewsy-goes-to-the-opera.md
+- articles/concert-etiquette-or-put-down-your-phone.md
+- articles/brian-mulligan-singing-jack-torrance.md
+short_description: Just like in real life, the most terrifying villains are the ones
+  who firmly believe they&#039;re doing good. Sure, there are sociopathic/sadistic
+  types, villains who just like to hurt people. The more fascinating, and dramatically
+  challenging villains are the ones who have reasons behind their villainry. Sometimes
+  the reasoning is good enough to pursuade, to make audiences understand where they
+  come from; with bad guys like Dexter Morgan, Walter White, and even fun version
+  of the Devil, audiences are arguably rooting for them to succeed.
+slug: opera-culprits-the-villain-who-thinks-hes-doing-good
+title: 'Opera culprits: the villain who thinks he&#039;s doing good'
+---
 
 ### 1. Reverend Olin Blitch (*Susannah*)
 

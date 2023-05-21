@@ -1,18 +1,21 @@
-+++
-date = "2017-10-23T13:00:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-23T13:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508777816398/LaurenFagan-8%20CREDIT%20Victoria%20Cadisch.jpg.jpg"
-primary_image_credit = "Victoria Cadisch"
-publishDate = "2017-10-23T13:00:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/opera-holland-park.md"]
-slug = "lauren-fagan"
-title = "Lauren Fagan"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/laurenashfagan"
-+++
+---
+date: "2017-10-23T13:00:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-23T13:00:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508777816398/LaurenFagan-8%20CREDIT%20Victoria%20Cadisch.jpg.jpg
+primary_image_credit: Victoria Cadisch
+publishDate: "2017-10-23T13:00:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/opera-holland-park.md
+slug: lauren-fagan
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/laurenashfagan
+title: Lauren Fagan
+---
 
 Lauren Fagan has distinguished herself as a young soprano to watch, after a series of acclaimed debuts following her recent graduation from Covent Garden's prestigious Jette Parker Young Artist Programme. In the current season, she joins Sir Antonio Pappano in Rome with the Accademia Nazionale di Santa Cecilia as Roxana in concert performances of Szymanowski's *Krol Roger*, the NHK Symphony Orchestra under Paavo Järvi as Donna Elvira (*Don Giovanni*), and returns to Opera Holland Park as Verdi’s heroine Violetta (*La traviata*), marking her first performance of the role.
 

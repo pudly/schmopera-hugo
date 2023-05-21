@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-06-09T20:45:00-04:00"
-lastmod = "2018-06-11T21:26:00-04:00"
-preamble = "After singing the role in the 2013 Salzburg Festival, Australian soprano [Kiandra Howarth](/scene/people/kiandra-howarth/) is set to reprise Konstanze in [The Grange Festival](/scene/companies/the-grange-festival/)'s upcoming production of [*The Abduction from the Seraglio*](https://thegrangefestival.co.uk/operas/the-abduction-from-the-seraglio/), **June 24 to July 7**. Howarth is an alumna of the young artist programmes at Opera Australia, the Royal Opera House, and the Salzburg Festival Young Singer's Project, and Mozart's soprano roles make up a significant piece of her season calendar.\n\nWe spoke with Howarth about this notoriously challenging role, and the show that firt sparked her love of opera."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528591476748/sq13KiandraHowarthVictoriaCadisch.jpg.jpg"
-primary_image_credit = "Photo: Victoria Cadish."
-publishDate = "2018-06-11T10:46:00-04:00"
-related_articles = ["articles/spotlight-on-amanda-majeski.md","articles/what-weve-learned-by-talking-with-108-opera-singers.md"]
-related_companies = ["scene/companies/the-grange-festival.md"]
-short_description = "&quot;The nomadic lifestyle, whilst extremely exciting can often become tiring especially if you aren&#039;t able to spend time at home with family. I have been quite fortunate over the past few years to have at least one or two jobs which take me back to Australia to spend time with my family. I also like to keep busy with yoga!&quot;"
-slug = "talking-with-singers-kiandra-howarth"
-title = "Talking with singers: Kiandra Howarth"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-06-09T20:45:00-04:00"
+lastmod: "2018-06-11T21:26:00-04:00"
+preamble: |-
+  After singing the role in the 2013 Salzburg Festival, Australian soprano [Kiandra Howarth](/scene/people/kiandra-howarth/) is set to reprise Konstanze in [The Grange Festival](/scene/companies/the-grange-festival/)'s upcoming production of [*The Abduction from the Seraglio*](https://thegrangefestival.co.uk/operas/the-abduction-from-the-seraglio/), **June 24 to July 7**. Howarth is an alumna of the young artist programmes at Opera Australia, the Royal Opera House, and the Salzburg Festival Young Singer's Project, and Mozart's soprano roles make up a significant piece of her season calendar.
+
+  We spoke with Howarth about this notoriously challenging role, and the show that firt sparked her love of opera.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528591476748/sq13KiandraHowarthVictoriaCadisch.jpg.jpg
+primary_image_credit: 'Photo: Victoria Cadish.'
+publishDate: "2018-06-11T10:46:00-04:00"
+related_articles:
+- articles/spotlight-on-amanda-majeski.md
+- articles/what-weve-learned-by-talking-with-108-opera-singers.md
+related_companies:
+- scene/companies/the-grange-festival.md
+short_description: '&quot;The nomadic lifestyle, whilst extremely exciting can often
+  become tiring especially if you aren&#039;t able to spend time at home with family.
+  I have been quite fortunate over the past few years to have at least one or two
+  jobs which take me back to Australia to spend time with my family. I also like to
+  keep busy with yoga!&quot;'
+slug: talking-with-singers-kiandra-howarth
+title: 'Talking with singers: Kiandra Howarth'
+---
 
 ## Why do you sing professionally?
 
@@ -28,7 +39,9 @@ Focusing primarily on vocal development and learning to wait before attempting t
 
 The nomadic lifestyle, whilst extremely exciting can often become tiring especially if you aren't able to spend time at home with family. I have been quite fortunate over the past few years to have at least one or two jobs which take me back to Australia to spend time with my family. I also like to keep busy with yoga!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528591691733/14KiandraHowarthVictoriaCadisch.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528591691733/14KiandraHowarthVictoriaCadisch.jpg.jpg)
 <figcaption>Photo: Victoria Cadisch.</figcaption>
 </figure>
 

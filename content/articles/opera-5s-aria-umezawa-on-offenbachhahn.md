@@ -1,17 +1,32 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2014-09-15T09:00:00-04:00"
-lastmod = "2015-04-16T15:14:00-04:00"
-preamble = "This weekend, [Opera 5](http://www.operafive.com/season-tickets/) puts up their fall show, a double bill featuring Reynaldo Hahn's _L'île du rêve_ and Jacques Offenbach's _Ba-ta-clan. _Opera 5 is all about combining art forms (including the beloved culinary arts!), and I was curious about this pairing of Hahn's \"idylle polynésienne\" and Offenbach's \"chinoiserie musicale\". Artistic Director Aria Umezawa took the time to chat about the double bill, which plays September 19-21st at the brand new [Alliance Française de Toronto Cultural Centre Theatre](http://www.alliance-francaise.ca/en/cultural-center/concerts/cat.listevents/2014/09/14/-), 24 Spadina Rd. Click [here](https://be-mused.ca/group/opera5#event-list#tab) for details and tickets."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429211485350/Aria_Umezawa_header.jpg%3Fitok%3DvgPMJxww"
-publishDate = "2014-09-15T09:00:00-04:00"
-related_articles = ["articles/in-review-offenbachhahn.md"]
-related_companies = ["scene/companies/opera-5.md"]
-short_description = "This weekend, Opera 5 puts up their fall show, a double bill featuring Reynaldo Hahn&#039;s L&#039;île du rêve and Jacques Offenbach&#039;s Ba-ta-clan.  Opera 5 is all about combining art forms (including the beloved culinary arts!), and I was curious about this pairing of Hahn&#039;s &quot;idylle polynésienne&quot; and Offenbach&#039;s &quot;chinoiserie musicale&quot;. "
-slug = "opera-5s-aria-umezawa-on-offenbachhahn"
-title = "Opera 5&#039;s Aria Umezawa on Offenbach/Hahn"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2014-09-15T09:00:00-04:00"
+lastmod: "2015-04-16T15:14:00-04:00"
+preamble: This weekend, [Opera 5](http://www.operafive.com/season-tickets/) puts up
+  their fall show, a double bill featuring Reynaldo Hahn's _L'île du rêve_ and Jacques
+  Offenbach's _Ba-ta-clan. _Opera 5 is all about combining art forms (including the
+  beloved culinary arts!), and I was curious about this pairing of Hahn's "idylle
+  polynésienne" and Offenbach's "chinoiserie musicale". Artistic Director Aria Umezawa
+  took the time to chat about the double bill, which plays September 19-21st at the
+  brand new [Alliance Française de Toronto Cultural Centre Theatre](http://www.alliance-francaise.ca/en/cultural-center/concerts/cat.listevents/2014/09/14/-),
+  24 Spadina Rd. Click [here](https://be-mused.ca/group/opera5#event-list#tab) for
+  details and tickets.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429211485350/Aria_Umezawa_header.jpg%3Fitok%3DvgPMJxww
+publishDate: "2014-09-15T09:00:00-04:00"
+related_articles:
+- articles/in-review-offenbachhahn.md
+related_companies:
+- scene/companies/opera-5.md
+short_description: 'This weekend, Opera 5 puts up their fall show, a double bill featuring
+  Reynaldo Hahn&#039;s L&#039;île du rêve and Jacques Offenbach&#039;s Ba-ta-clan.  Opera
+  5 is all about combining art forms (including the beloved culinary arts!), and I
+  was curious about this pairing of Hahn&#039;s &quot;idylle polynésienne&quot; and
+  Offenbach&#039;s &quot;chinoiserie musicale&quot;. '
+slug: opera-5s-aria-umezawa-on-offenbachhahn
+title: Opera 5&#039;s Aria Umezawa on Offenbach/Hahn
+---
 
 ### Why pair together _Ba-ta-clan_ and _L'île du rêve_?
 

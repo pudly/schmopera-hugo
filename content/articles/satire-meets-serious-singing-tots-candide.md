@@ -1,18 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2018-01-09T18:23:00-05:00"
-lastmod = "2018-01-09T21:08:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540174570/2018-01-10---Candide-sq.jpg.jpg"
-primary_image_credit = "l-r: Nicholas Borg as Pangloss, Tonatiuh Abrego as Candide and Patrick Bowman as Maximilian in Candide, Toronto Operetta Theatre, 2017. Photo: Gary Beechey."
-publishDate = "2018-01-09T18:35:00-05:00"
-related_articles = ["articles/what-the-eff-is-a-zarzuela-anyway.md","articles/leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it.md"]
-related_companies = ["scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/vania-chan.md","scene/people/tonatiuh-abrego.md","scene/people/nicholas-borg.md"]
-short_description = "There was also the choice for some characters to use dialects - dangerous territory when you&#039;re already dealing with the pitfalls of Mid-Atlantic English pronunciation. I found the inconsistency of the dialects to be a bit distracting in the longer dialogue scenes, but the focus on great singing always brought you back home. "
-slug = "satire-meets-serious-singing-tots-candide"
-title = "Satire meets serious singing: TOT&#039;s Candide"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2018-01-09T18:23:00-05:00"
+lastmod: "2018-01-09T21:08:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540174570/2018-01-10---Candide-sq.jpg.jpg
+primary_image_credit: 'l-r: Nicholas Borg as Pangloss, Tonatiuh Abrego as Candide
+  and Patrick Bowman as Maximilian in Candide, Toronto Operetta Theatre, 2017. Photo:
+  Gary Beechey.'
+publishDate: "2018-01-09T18:35:00-05:00"
+related_articles:
+- articles/what-the-eff-is-a-zarzuela-anyway.md
+- articles/leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it.md
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/vania-chan.md
+- scene/people/tonatiuh-abrego.md
+- scene/people/nicholas-borg.md
+short_description: 'There was also the choice for some characters to use dialects
+  - dangerous territory when you&#039;re already dealing with the pitfalls of Mid-Atlantic
+  English pronunciation. I found the inconsistency of the dialects to be a bit distracting
+  in the longer dialogue scenes, but the focus on great singing always brought you
+  back home. '
+slug: satire-meets-serious-singing-tots-candide
+title: 'Satire meets serious singing: TOT&#039;s Candide'
+---
 
 What better way is there to start of the New Year than with a break in the arctic temperatures and a trip to the St. Lawrence Centre for the Arts to see Toronto Operetta Theatre's annual holiday show? This year General Director Guillermo Silva Marin teamed up with Music Director Derek Bate to bring us Bernstein's *Candide*.
 
@@ -20,7 +33,9 @@ Bernstein himself called *Candide* an operetta and drew the material from Voltai
 
 In his characteristic minimalist style, Silva Marin had a cast that switched characters, and a set that switched locales very frequently - a tough task to accomplish in a space like the Jane Mallett Theatre. This cast attacked the challenge head-on. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540776421/2018-01-10---Beller%2CChan%2C-Abrego.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540776421/2018-01-10---Beller%2CChan%2C-Abrego.jpg.jpg)
 <figcaption>(l-r): Vania Chan (Cunegonde), Elizabeth Beeler (Old Woman) and Tonatiuh Abrego (Candide) in *Candide*, Toronto Operetta Theatre, 2017. Photo: Gary Beechey.</figcaption>
 </figure>
 
@@ -32,7 +47,9 @@ As the narrator Voltaire, Dr. Pangloss, and the Streetsweeper Martin baritone [N
 
 Rounding out the principal cast was Elizabeth Beeler in the role of the Old Woman. A comedic *tour de force*, I love watching Beeler on stage. Her ability to clown around while maintaining an elegance and grace is something I won't tire of seeing any time soon. Her big number "I Am Easily Assimilated" was another showstopper - and hilarious to boot. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540808780/2018-01-10---Beeler-lifted.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540808780/2018-01-10---Beeler-lifted.jpg.jpg)
 <figcaption>Elizabeth Beeler (Old Woman) in *Candide*, Toronto Operetta Theatre, 2017. Photo: Gary Beechey.</figcaption>
 </figure>
 
@@ -42,7 +59,9 @@ I felt that the design was a little at odds with the concept though. A blank sta
 
 One of the pitfalls for *Candide* is the vast number of locales that the story takes place in. In this production, there seemed to be too many complete *a vista* scene changes, which kind of killed the pace for me - though the performers, particularly Borg, were quite adept at picking it back up. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540824988/2018-01-10---Beller%2C-Chan-We-are-Women.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1515540824988/2018-01-10---Beller%2C-Chan-We-are-Women.jpg.jpg)
 <figcaption>(l-r): Elizabeth Beeler (Old Woman) an Vania Chan (Cunegonde) in *Candide*, Toronto Operetta Theatre, 2017. Photo: Gary Beechey.</figcaption>
 </figure>
 

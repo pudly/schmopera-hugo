@@ -1,18 +1,28 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-10-26T19:34:00-04:00"
-lastmod = "2015-10-29T12:24:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446085538390/15-10-29%20-%20PocketConcertsVertical.jpg.jpg"
-primary_image_credit = "Photos by Bo Huang."
-publishDate = "2015-10-29T11:30:00-04:00"
-related_articles = ["articles/pocket-concerts-and-their-worthy-campaign.md"]
-related_companies = ["scene/companies/pocket-concerts.md"]
-related_people = ["scene/people/rory-mcleod.md","scene/people/emily-rho.md"]
-short_description = "The concept of going to someone&#039;s house for some live chamber music might seem strange to anyone who isn&#039;t a big concert goer. But musicians know that house concerts are a common occurrence, that they&#039;re often under-advertised and often private, and that they&#039;re a fantastic way to experience music. The folks from Pocket Concerts are taking the in-home concert model, and making it an experience that anyone can have."
-slug = "meet-the-folks-pocket-concerts"
-title = "Meet the folks: Pocket Concerts"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-10-26T19:34:00-04:00"
+lastmod: "2015-10-29T12:24:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446085538390/15-10-29%20-%20PocketConcertsVertical.jpg.jpg
+primary_image_credit: Photos by Bo Huang.
+publishDate: "2015-10-29T11:30:00-04:00"
+related_articles:
+- articles/pocket-concerts-and-their-worthy-campaign.md
+related_companies:
+- scene/companies/pocket-concerts.md
+related_people:
+- scene/people/rory-mcleod.md
+- scene/people/emily-rho.md
+short_description: The concept of going to someone&#039;s house for some live chamber
+  music might seem strange to anyone who isn&#039;t a big concert goer. But musicians
+  know that house concerts are a common occurrence, that they&#039;re often under-advertised
+  and often private, and that they&#039;re a fantastic way to experience music. The
+  folks from Pocket Concerts are taking the in-home concert model, and making it an
+  experience that anyone can have.
+slug: meet-the-folks-pocket-concerts
+title: 'Meet the folks: Pocket Concerts'
+---
 
 
 The concept of going to someone's house for some live chamber music might seem strange to anyone who isn't a big concert goer. But musicians know that house concerts are a common occurrence, that they're often under-advertised and often private, and that they're a fantastic way to experience music. The folks from [Pocket Concerts](/scene/companies/pocket-concerts/) are taking the in-home concert model, and making it an experience that anyone can have.

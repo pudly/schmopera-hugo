@@ -1,16 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-24T14:44:00-04:00"
-lastmod = "2015-04-25T15:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429903122504/PC-Turina-Quartet-Audience-Photo-by-Chris-Hutcheson-RESIZED.jpg.jpg"
-publishDate = "2015-04-24T15:08:00-04:00"
-related_articles = ["articles/meet-the-folks-pocket-concerts.md","articles/pocket-concerts-loves-classical-music-newbies.md"]
-related_people = ["scene/people/rory-mcleod.md","scene/people/emily-rho.md"]
-short_description = "Toronto&#039;s Pocket Concerts has launched a new Kickstarter campaign for the next 30 days, and it&#039;s a cause that I think is important to share."
-slug = "pocket-concerts-and-their-worthy-campaign"
-title = "Pocket Concerts and their worthy campaign"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-24T14:44:00-04:00"
+lastmod: "2015-04-25T15:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429903122504/PC-Turina-Quartet-Audience-Photo-by-Chris-Hutcheson-RESIZED.jpg.jpg
+publishDate: "2015-04-24T15:08:00-04:00"
+related_articles:
+- articles/meet-the-folks-pocket-concerts.md
+- articles/pocket-concerts-loves-classical-music-newbies.md
+related_people:
+- scene/people/rory-mcleod.md
+- scene/people/emily-rho.md
+short_description: Toronto&#039;s Pocket Concerts has launched a new Kickstarter campaign
+  for the next 30 days, and it&#039;s a cause that I think is important to share.
+slug: pocket-concerts-and-their-worthy-campaign
+title: Pocket Concerts and their worthy campaign
+---
 
 Toronto's [Pocket Concerts](http://www.pocketconcerts.ca/) has launched a new [Kickstarter campaign](https://www.kickstarter.com/projects/pocketconcerts/pocket-concerts-season-3-chamber-music-in-toronto) for the next 30 days, and it's a cause that I think is important to share.
 

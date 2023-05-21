@@ -1,16 +1,27 @@
-+++
-author = ["authors/charlotte-gagnon.md"]
-categories = "Op-ed"
-date = "2016-10-26T11:58:00+01:00"
-lastmod = "2017-03-26T14:36:00+01:00"
-preamble = "This is a post by guest contributor Charlotte Gagnon. If you're interested in contributing to Schmopera.com, get in touch at [contribute@schmopera.com!](mailto:contribute@schmopera.com)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477480666967/2016-10-26---Clarity.jpg.jpg"
-publishDate = "2016-10-27T09:38:00+01:00"
-related_articles = ["articles/audition-season-or-the-annual-festival-of-shattered-dreams.md","articles/psychology-audition.md","articles/the-anxious-singer-10-tips-to-help-with-anxiety.md"]
-short_description = "I cross the street and jump over a huge puddle to get to the sidewalk that leads to my apartment. I look up, and there they are: Mrs. Shame and her good friend Mr. Humiliation. So we greet each other, reluctantly shake hands and pick up our usual conversation where we left it the last time I ran into them: &quot;How can this happen to you? They said they loved your dress! But perhaps, if I you had done this phrase differently... I didn’t want to have to tell you this, but your high C was flat. "
-slug = "i-didnt-get-in-a-short-story-about-clarity"
-title = "&quot;I didn&#039;t get in&quot;: a short story about clarity"
-+++
+---
+author:
+- authors/charlotte-gagnon.md
+categories: Op-ed
+date: "2016-10-26T11:58:00+01:00"
+lastmod: "2017-03-26T14:36:00+01:00"
+preamble: This is a post by guest contributor Charlotte Gagnon. If you're interested
+  in contributing to Schmopera.com, get in touch at [contribute@schmopera.com!](mailto:contribute@schmopera.com)
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477480666967/2016-10-26---Clarity.jpg.jpg
+publishDate: "2016-10-27T09:38:00+01:00"
+related_articles:
+- articles/audition-season-or-the-annual-festival-of-shattered-dreams.md
+- articles/psychology-audition.md
+- articles/the-anxious-singer-10-tips-to-help-with-anxiety.md
+short_description: 'I cross the street and jump over a huge puddle to get to the sidewalk
+  that leads to my apartment. I look up, and there they are: Mrs. Shame and her good
+  friend Mr. Humiliation. So we greet each other, reluctantly shake hands and pick
+  up our usual conversation where we left it the last time I ran into them: &quot;How
+  can this happen to you? They said they loved your dress! But perhaps, if I you had
+  done this phrase differently... I didn’t want to have to tell you this, but your
+  high C was flat. '
+slug: i-didnt-get-in-a-short-story-about-clarity
+title: '&quot;I didn&#039;t get in&quot;: a short story about clarity'
+---
 
 I didn't get in.
 

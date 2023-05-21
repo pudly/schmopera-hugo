@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2016-05-25T05:23:00-04:00"
-lastmod = "2017-09-28T11:28:00-04:00"
-preamble = "There's no faking what opera singers do onstage. It's the result of legitimate hard work, and the staggering skills they show come precisely from not taking shortcuts or band-aid approaches to fixing problems. Real as it is, these artists have their bags of tricks. Singers, please forgive us for outing some of your little secrets..."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506612476636/2017-09-28---Illusion.jpg.jpg"
-publishDate = "2016-05-25T06:53:00-04:00"
-related_articles = ["articles/4-tips-for-when-there-are-too-many-notes.md","articles/5-ways-to-build-your-rhythmic-chops.md"]
-short_description = "There&#039;s no faking what opera singers do onstage. It&#039;s the result of legitimate hard work, and the staggering skills they show come precisely from not taking shortcuts or band-aid approaches to fixing problems. Real as it is, these artists have their bags of tricks. Singers, please forgive us for outing some of your little secrets..."
-slug = "singers-masters-of-illusions"
-title = "Singers: masters of illusions"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2016-05-25T05:23:00-04:00"
+lastmod: "2017-09-28T11:28:00-04:00"
+preamble: There's no faking what opera singers do onstage. It's the result of legitimate
+  hard work, and the staggering skills they show come precisely from not taking shortcuts
+  or band-aid approaches to fixing problems. Real as it is, these artists have their
+  bags of tricks. Singers, please forgive us for outing some of your little secrets...
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506612476636/2017-09-28---Illusion.jpg.jpg
+publishDate: "2016-05-25T06:53:00-04:00"
+related_articles:
+- articles/4-tips-for-when-there-are-too-many-notes.md
+- articles/5-ways-to-build-your-rhythmic-chops.md
+short_description: There&#039;s no faking what opera singers do onstage. It&#039;s
+  the result of legitimate hard work, and the staggering skills they show come precisely
+  from not taking shortcuts or band-aid approaches to fixing problems. Real as it
+  is, these artists have their bags of tricks. Singers, please forgive us for outing
+  some of your little secrets...
+slug: singers-masters-of-illusions
+title: 'Singers: masters of illusions'
+---
 
 ## Vowels are not what they seem
 

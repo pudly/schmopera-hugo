@@ -1,18 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-05-29T07:47:00-06:00"
-lastmod = "2017-06-12T22:15:00-06:00"
-preamble = "Toronto-based mezzo-soprano [Emma Char](/scene/people/emma-char/) earned great praise last season for her work in the title role of Britten's *The Rape of Lucretia*; this year, she's gearing up to join [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) for the Canadian premiere of [*Sweat*](http://bicycleopera.com/upcoming-sweat/), an a cappella opera by Juliet Palmer and Anna Chatterton about the global garment industry.\n\nSoft-spoken yet thoughtful, Char gave us an honest interview about where a singer's energy is best spent, and the important difference between hard work and martyrdom."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496109074081/2017-05-29---Emma-Char.jpg.jpg"
-publishDate = "2017-06-12T21:51:00-06:00"
-related_articles = ["articles/spotlight-on-beth-hagerman.md","articles/talking-with-singers-jamie-barton.md","articles/spotlight-on-abigail-levis.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/the-bicycle-opera-project.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/emma-char.md"]
-short_description = "&quot;Until recently, I thought that if I wasn&#039;t doing everything I could to become a successful opera singer all the time (following all opportunities and constantly working my butt off to the point of exhaustion) that I should feel badly because I wasn&#039;t as completely committed as I thought I should be. Over time, I&#039;ve come to feel that through relaxing a bit everything is actually a lot easier.&quot;"
-slug = "spotlight-on-emma-char"
-title = "Spotlight on: Emma Char"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-05-29T07:47:00-06:00"
+lastmod: "2017-06-12T22:15:00-06:00"
+preamble: |-
+  Toronto-based mezzo-soprano [Emma Char](/scene/people/emma-char/) earned great praise last season for her work in the title role of Britten's *The Rape of Lucretia*; this year, she's gearing up to join [The Bicycle Opera Project](/scene/companies/the-bicycle-opera-project/) for the Canadian premiere of [*Sweat*](http://bicycleopera.com/upcoming-sweat/), an a cappella opera by Juliet Palmer and Anna Chatterton about the global garment industry.
+
+  Soft-spoken yet thoughtful, Char gave us an honest interview about where a singer's energy is best spent, and the important difference between hard work and martyrdom.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1496109074081/2017-05-29---Emma-Char.jpg.jpg
+publishDate: "2017-06-12T21:51:00-06:00"
+related_articles:
+- articles/spotlight-on-beth-hagerman.md
+- articles/talking-with-singers-jamie-barton.md
+- articles/spotlight-on-abigail-levis.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/emma-char.md
+short_description: '&quot;Until recently, I thought that if I wasn&#039;t doing everything
+  I could to become a successful opera singer all the time (following all opportunities
+  and constantly working my butt off to the point of exhaustion) that I should feel
+  badly because I wasn&#039;t as completely committed as I thought I should be. Over
+  time, I&#039;ve come to feel that through relaxing a bit everything is actually
+  a lot easier.&quot;'
+slug: spotlight-on-emma-char
+title: 'Spotlight on: Emma Char'
+---
 
 ## Why do you sing and why are you doing it professionally? 
 
@@ -24,7 +40,9 @@ As for why I am doing it professionally, it's something I have always had a deep
 
 Good singing feels easy. It feels as though all the hours of practicing uncomfortable, awkward technical things hadn't ever happened and that this piece is now so darn easy that all I have to do is be present singing and communicating. When I feel present singing I feel free in a really thrilling way. Technically, I know I'm on the right track when I don't feel vocally tired after a show and feel like I could sing the show again.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497325825531/323uTWtUK6pURZnpidRy8ucWzQfVry0aCFrdETHne54H-06JoWzHZHKPs23dKESezrZtoqrVgQ0mrbM5369uHxgM5v2m%3Dw680-h680-c)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497325825531/323uTWtUK6pURZnpidRy8ucWzQfVry0aCFrdETHne54H-06JoWzHZHKPs23dKESezrZtoqrVgQ0mrbM5369uHxgM5v2m%3Dw680-h680-c)
 <figcaption>Emma Char as Lucretia in Against the Grain Theatre's *The Rape of Lucretia*, TSMF, 2016. Photo by Jorge Chaves.</figcaption>
 </figure>
 

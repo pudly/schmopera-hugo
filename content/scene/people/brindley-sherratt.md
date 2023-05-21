@@ -1,22 +1,32 @@
-+++
-date = "2019-04-26T00:41:12+00:00"
-discipline = "Bass"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1556239015/media/2019/04/BrindleySherratt-pc-SussieAhlburg.jpg"
-primary_image_credit = "Sussie Ahlburg."
-related_companies = ["scene/companies/wiener-staatsoper.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/oper-frankfurt.md", "scene/companies/welsh-national-opera.md", "scene/companies/opera-north.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/english-national-opera.md", "scene/companies/glyndebourne.md", "scene/companies/salzburg-festival.md", "scene/companies/opernhaus-zurich.md", "scene/companies/royal-opera-house.md"]
-slug = "brindley-sherratt"
-title = "Brindley Sherratt"
-website = "https://www.brindleysherratt.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/bassbrinbald"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/brindleysherratt/"
-
-+++
+---
+date: "2019-04-26T00:41:12+00:00"
+discipline: Bass
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1556239015/media/2019/04/BrindleySherratt-pc-SussieAhlburg.jpg
+primary_image_credit: Sussie Ahlburg.
+related_companies:
+- scene/companies/wiener-staatsoper.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/opera-north.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/royal-opera-house.md
+slug: brindley-sherratt
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/bassbrinbald
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/brindleysherratt/
+title: Brindley Sherratt
+website: https://www.brindleysherratt.com/
+---
 Born in Lancashire, bass Brindley Sherratt studied at the Royal Academy of Music, of which he is now a Fellow and Visiting Professor.
 
 Highlights in Brindley Sherratt's 2017/18 season include Ochs _Der Rosenkavalier_ and Arkel in a new production of _Pelléas et Mélisande_ for the Glyndebourne Festival and Rustomji _Satyagraha_ and Ramfis in a new production of _Aida_ for the English National Opera.  His concert engagements include Cadmus & Somnus _Semele_ on tour with the OAE and Ivor Bolton, Verdi’s _Requiem_ with the CBSO and Edward Gardner and Mussorgsky’s _Songs and Dances of Death_ with the Hallé Orchestra and Sir Mark Elder.

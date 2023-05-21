@@ -1,19 +1,23 @@
-+++
-date = "2015-04-07T18:31:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-04-07T18:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445896279/Issachah-Kristin-Hoeberman.jpg.jpg"
-primary_image_credit = "Kristin Hoebermann"
-publishDate = "2015-04-07T18:31:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/merola-opera-program.md","scene/companies/opera-north.md"]
-slug = "issachah-savage"
-title = "Issachah Savage"
-website = "http://issachah.weebly.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/IssachahSavage"
-+++
+---
+date: "2015-04-07T18:31:00-04:00"
+discipline: Tenor
+lastmod: "2015-04-07T18:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428445896279/Issachah-Kristin-Hoeberman.jpg.jpg
+primary_image_credit: Kristin Hoebermann
+publishDate: "2015-04-07T18:31:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/merola-opera-program.md
+- scene/companies/opera-north.md
+slug: issachah-savage
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/IssachahSavage
+title: Issachah Savage
+website: http://issachah.weebly.com/
+---
 
 <p>
 	Dramatic tenor Issachah Savage is garnering acclaim as a "heldentenor par excellence" with "trumpet-like, clear, open-throated, powerful" singing (<em>San Francisco Examiner</em>). Praised for his "impressive natural instrument" (<em>Opera News</em>), Mr. Savage is the winner of the 2014 Seattle International Wagner Competition earning the main prize, audience favorite prize, orchestra favorite prize, and a special honor by Speight Jenkins.

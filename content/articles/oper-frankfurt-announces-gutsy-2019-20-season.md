@@ -1,22 +1,41 @@
-+++
-author = ["authors/jeremy-hirsch.md"]
-categories = "Op-Ed"
-date = "2019-05-12T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "Oper Frankfurt's 2019-20 season also features a new production of _Tristan und Isolde_ (Jan. 25-Jul. 2, 2020) and H.W. Henze's _Der Prinz von Homburg_ (Jun. 7-Jul. 4, 2020), a new concert production of Thomas' _Mignon_ (Apr. 17-19, 2020), and the premiere of a new opera by Lucia Ronchetti, _Inferno_ (Apr. 18-May 9, 2020), a joint production with Schauspiel Frankfurt."
-preamble = "Oper Frankfurt announced its [2019-20 season](https://oper-frankfurt.de/media/pdf/Saisonbroschuere_Netz_19_20.pdf) last week. Here are some highlights:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1557702642/media/2019/05/sqOperFrankfurtAussenansicht-pc-BarbaraAumueller.jpg"
-primary_image_credit = "Photo: Barbara Aumüller."
-related_articles = []
-related_companies = ["scene/companies/oper-frankfurt.md"]
-related_people = ["scene/people/asmik-grigorian.md", "scene/people/christian-gerhaher.md", "scene/people/elizabeth-sutphen.md", "scene/people/lawrence-zazzo.md", "scene/people/gordon-bintner.md", "scene/people/rb-schlather.md", "scene/people/jakub-jozef-orlinski.md", "scene/people/ambur-braid.md", "scene/people/christopher-maltman.md"]
-short_description = "As far as I'm concerned, the more Shostakovich the better. The composer belongs to a group of masters – including Scriabin and Chopin – whose work reaches vocal music devotee's ears far less than it should. Lady Macbeth's explosive score teems with a pathos that lives up to its fascinating offstage history of censorship under Stalin."
-slug = "oper-frankfurt-announces-gutsy-2019-20-season"
-title = "Oper Frankfurt announces gutsy 2019-20 season"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jeremy-hirsch.md
+categories: Op-Ed
+date: "2019-05-12T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: Oper Frankfurt's 2019-20 season also features a new production of _Tristan
+  und Isolde_ (Jan. 25-Jul. 2, 2020) and H.W. Henze's _Der Prinz von Homburg_ (Jun.
+  7-Jul. 4, 2020), a new concert production of Thomas' _Mignon_ (Apr. 17-19, 2020),
+  and the premiere of a new opera by Lucia Ronchetti, _Inferno_ (Apr. 18-May 9, 2020),
+  a joint production with Schauspiel Frankfurt.
+preamble: 'Oper Frankfurt announced its [2019-20 season](https://oper-frankfurt.de/media/pdf/Saisonbroschuere_Netz_19_20.pdf)
+  last week. Here are some highlights:'
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1557702642/media/2019/05/sqOperFrankfurtAussenansicht-pc-BarbaraAumueller.jpg
+primary_image_credit: 'Photo: Barbara Aumüller.'
+related_articles: []
+related_companies:
+- scene/companies/oper-frankfurt.md
+related_people:
+- scene/people/asmik-grigorian.md
+- scene/people/christian-gerhaher.md
+- scene/people/elizabeth-sutphen.md
+- scene/people/lawrence-zazzo.md
+- scene/people/gordon-bintner.md
+- scene/people/rb-schlather.md
+- scene/people/jakub-jozef-orlinski.md
+- scene/people/ambur-braid.md
+- scene/people/christopher-maltman.md
+short_description: As far as I'm concerned, the more Shostakovich the better. The
+  composer belongs to a group of masters – including Scriabin and Chopin – whose work
+  reaches vocal music devotee's ears far less than it should. Lady Macbeth's explosive
+  score teems with a pathos that lives up to its fascinating offstage history of censorship
+  under Stalin.
+slug: oper-frankfurt-announces-gutsy-2019-20-season
+title: Oper Frankfurt announces gutsy 2019-20 season
+youtube_url: ""
+---
 ## New productions
 
 **_Pénèlope_ (G. Fauré) - Dec. 1, 2019-Jan. 23, 2020**
@@ -31,7 +50,9 @@ Fauré is an idiosyncratic, anti-dramatic composer whose work depends on subtlet
 
 Three new productions of unknown Rossini operas in one season? Oh boy. Maybe it's a shot at redemption for last season's _I puritani_ directed by Vincent Boussard, which, despite a loaded cast, was interminable. Now Boussard is out of the picture and Rossini has replaced Bellini. Add to the mix soprano Elizabeth Sutphen and other excellent Frankfurt regulars and it's a trilogy to look forward to.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557701121/media/2019/05/GrigorianAsmik-pc-AlgirdasBakas.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557701121/media/2019/05/GrigorianAsmik-pc-AlgirdasBakas.jpg)
 
 <figcaption>Soprano Askim Grigorian, singing Manon Lescaut at Oper Frankfurt, 2019. Photo: Algirdas Bakas.</figcaption>
 
@@ -51,7 +72,9 @@ Baritone Christopher Maltman has had an ideal career trajectory. After years as 
 
 Barrie Kosky, whose beloved _Carmen_ is back after selling out its entire 2018-19 run, brings a new _Salome_ to Frankfurt, starring Ambur Braid and Maltman. It's surely the most anticipated production of the season.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557701658/media/2019/05/Orlinsky-OperFrankfurt-Rinaldo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557701658/media/2019/05/Orlinsky-OperFrankfurt-Rinaldo.jpg)
 
 <figcaption>Jakub Józef Orliński in the title role of Rinaldo, Oper Frankfurt 2017. Photo: Barbara Aumüller.</figcaption>
 
@@ -71,7 +94,9 @@ It's premature to call it timeless, but Barrie Kosky's _Carmen_ is aging well. I
 
 This stark psychological production debuted with a baritone possessing similar qualities in the title role, the cerebral Christian Gerhaher. Now, Bintner takes the lead (for half of the run) joined by Božidar Smiljanić (Leporello), who demonstrated his startlingly facile instrument in smaller roles last season.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557701377/media/2019/05/KoskyCarmen-pc-BarbaraAumueller.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557701377/media/2019/05/KoskyCarmen-pc-BarbaraAumueller.jpg)
 
 <figcaption>Barrie Kosky's production of Carmen, returning to Oper Frankfurt in 2020. Photo: Barbara Aumüller.</figcaption>
 
@@ -85,7 +110,9 @@ Ernst Křenek was an enormously influential composer Bertolt Brecht, Kurt Weil, 
 
 The beloved score bursts with folkloric verve and heady, gut-tumbling lyricism. Two Americans lead the cast: The exuberant soprano Elizabeth Reiter stars in the title role and mezzo-soprano Kelsey Lauritano as her counterpart.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1557700326/media/2019/05/NagyMichael-pc-MonikaHoefler.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1557700326/media/2019/05/NagyMichael-pc-MonikaHoefler.jpg)
 
 <figcaption>Michael Nagy, singing the Forester in Oper Frankfurt's 2020 production of  Photo: Monika Hoefler.</figcaption>
 

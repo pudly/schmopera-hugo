@@ -1,18 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2017-03-20T10:57:00+00:00"
-lastmod = "2017-03-21T09:22:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490043970715/2017-03-20---Square---170306_1561_meistersinger-BRYN-TERFEL-AS-HANS-SACHS-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg"
-primary_image_credit = "Bryn Terfel as Hans Sachs in Die Meistersinger von Nürnberg. Photo by Clive Barda."
-publishDate = "2017-03-21T08:52:00+00:00"
-related_articles = ["articles/in-review-tannhauser-at-roh.md","articles/in-review-gotterdammerung-at-the-coc.md","articles/talking-with-singers-christine-goerke.md","articles/antoine-wagner-gesamtkunstwerk-in-2018.md","articles/the-flying-dutchman-a-stellar-homecoming-for-hgo.md"]
-related_companies = ["scene/companies/royal-opera-house.md"]
-related_people = ["scene/people/bryn-terfel.md","scene/people/gwyn-hughes-jones.md","scene/people/rachel-willis-sorensen.md","scene/people/hanna-hipp.md","scene/people/allan-clayton.md"]
-short_description = "Die Meistersinger is a story about tradition, and whether or not it&#039;s good for anything; it exposes how people treat tradesman differently from artists, and the contempt that makers of &quot;high art&quot; can have for the opinions of the general public. Holten&#039;s production seems to shine extra light on the tradition of using women as prizes, even complicating the matter with an Eva Pogner who doesn&#039;t even get the chance to manipulate the system to her own advantage."
-slug = "kinder-schafft-neues-die-meistersinger-von-nrnberg"
-title = "&quot;Kinder schafft neues&quot;: Die Meistersinger von Nürnberg"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2017-03-20T10:57:00+00:00"
+lastmod: "2017-03-21T09:22:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490043970715/2017-03-20---Square---170306_1561_meistersinger-BRYN-TERFEL-AS-HANS-SACHS-ROH-PHOTO-BY-CLIVE-BARDA.jpg.jpg
+primary_image_credit: Bryn Terfel as Hans Sachs in Die Meistersinger von Nürnberg.
+  Photo by Clive Barda.
+publishDate: "2017-03-21T08:52:00+00:00"
+related_articles:
+- articles/in-review-tannhauser-at-roh.md
+- articles/in-review-gotterdammerung-at-the-coc.md
+- articles/talking-with-singers-christine-goerke.md
+- articles/antoine-wagner-gesamtkunstwerk-in-2018.md
+- articles/the-flying-dutchman-a-stellar-homecoming-for-hgo.md
+related_companies:
+- scene/companies/royal-opera-house.md
+related_people:
+- scene/people/bryn-terfel.md
+- scene/people/gwyn-hughes-jones.md
+- scene/people/rachel-willis-sorensen.md
+- scene/people/hanna-hipp.md
+- scene/people/allan-clayton.md
+short_description: Die Meistersinger is a story about tradition, and whether or not
+  it&#039;s good for anything; it exposes how people treat tradesman differently from
+  artists, and the contempt that makers of &quot;high art&quot; can have for the opinions
+  of the general public. Holten&#039;s production seems to shine extra light on the
+  tradition of using women as prizes, even complicating the matter with an Eva Pogner
+  who doesn&#039;t even get the chance to manipulate the system to her own advantage.
+slug: kinder-schafft-neues-die-meistersinger-von-nrnberg
+title: '&quot;Kinder schafft neues&quot;: Die Meistersinger von Nürnberg'
+---
 
 Kasper Holten makes his final mark as Director of Opera at The Royal Opera with his new production of [*Die Meistersinger von Nürnberg*](http://www.roh.org.uk/productions/die-meistersinger-von-nurnberg-by-kasper-holten). Wagner's comedy premiered three years after *Tristan und Isolde*, in the middle of the respite he took from writing his *Ring Cycle*. *Die Meistersinger* is on the list of operas for which Wagner is composer and librettist; it's a habit that's particularly interesting, since it creates both a rare level of cohesion between music and text, and an extremely clear, intimate look at how Wagner viewed the world and his art.
 

@@ -1,25 +1,25 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1628102951/media/2021/08/HannahLudwig_q7u2dl.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/portland-opera.md", "scene/companies/the-dallas-opera.md"]
-slug = "hannah-ludwig"
-title = "Hannah Ludwig"
-website = "https://www.hannahludwig.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ludwigmezzo/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mezzoludwig"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/mezzo_ludwig/"
-
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1628102951/media/2021/08/HannahLudwig_q7u2dl.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/portland-opera.md
+- scene/companies/the-dallas-opera.md
+slug: hannah-ludwig
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ludwigmezzo/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/mezzoludwig
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/mezzo_ludwig/
+title: Hannah Ludwig
+website: https://www.hannahludwig.com/
+---
 The New York Times calls mezzo-soprano Hannah Ludwig “best in show” and further exclaims “Her tone chocolaty and large, yet with focus and agility, she captured the integral aspect of bel canto…expression emerging from a long, intelligently shaped musical line.” In the 2020-21 season, she returns to Teatro Nuovo as Rosina in _Il barbiere di Siviglia_ in the first in-person opera production in New York City since the start of the COVID-19 pandemic. She sings the same role earlier in the season in a made-for-digital production with Opera Louisiane and is presented in “Songs from a Distance,” a recital featuring Schubert, Argento, Boyle, and Musto as well as a series of outdoor concerts by Opera Delaware and Baltimore Concert Opera. Among her performances next season are Handel’s _Messiah_ with the Columbus Symphony—originally scheduled for this season—and her debut with Portland Opera as the District Attorney in Davis’ Central Park Five.
 
 Her scheduled performances of Szymanowski’s _Stabat mater_ with Gianandrea Noseda conducting the National Symphony Orchestra have been postponed due to COVID-19 and will be scheduled in a future season, as were a third Rossini role debut with Teatro Nuovo, Calbo in _Maometto II_ and her international debut in a solo program of bel canto repertoire originally written for the castrato fact with the Bochumer Symphoniker.
