@@ -20,7 +20,7 @@ collections:
   - { label: "Title of article", name: "title", widget: "string" }
   - { label: "Slug", name: "slug", widget: "string" }
   - { label: "Date", name: "date", widget: "datetime" }
-  - { label: "Author(s)", name: "author", widget: "list" }
+  - { label: "Author(s)", name: "author", widget: "list", allow_add: true, collapsed: true }
   - { label: "Category", name: "categories", widget: "select", options: ["Editorial", "How-To", "Humour", "Interview", "Meta", "Op-Ed", "Review"] }
   - { label: "Primary Image", name: "primary_image", widget: "image", choose_url: true }
   - { label: "Primary Image Credit", name: "primary_image_credit", widget: "string" }
