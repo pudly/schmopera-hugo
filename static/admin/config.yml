@@ -45,44 +45,17 @@ collections:
   - { label: "Title", name: "title", widget: "string" }
   - { label: "Slug", name: "slug", widget: "string" }
   - { label: "Primary Image", name: "primary_image", widget: "image" }
-  - { label: "Short bio", name: "short_bio", widget: "textarea" }
+  - { label: "Short bio", name: "short_bio", widget: "string" }
   - { label: "Email Address", name: "email", widget: "string" }
   - { label: "Website", name: "website", widget: "string" }
   - { 
       label: "Social Media",
       name: "social_media",
-      widget: "object",
+      widget: "list",
       fields: [
-        { 
-          label: "Platform",
-          name: "platform",
-          widget: "select",
-          options: ["Facebook", "Twitter", "Instagram", "Youtube", "Linkedin", "Soundcloud"]
-        },
-        { 
-          label: "URL",
-          name: "url",
-          widget: "string"
-        }
-      ],
-      templates: [
-        { 
-          label: "Social Media",
-          name: "social_media",
-          fields: [
-            { 
-              label: "Platform",
-              name: "platform",
-              widget: "select",
-              options: ["Facebook", "Twitter", "Instagram", "Youtube", "Linkedin", "Soundcloud"]
-            },
-            { 
-              label: "URL",
-              name: "url",
-              widget: "string"
-            }
-          ]
-        }
+      - { label: "Platform", name: "platform", widget: "string" },
+      - { label: "Template", name: "template", widget: "string", default: "social-media" },
+      - { label: "URL", name: "url", widget: "string" }
       ]
     }
   - { label: "Body of Document", name: "body", widget: "markdown", summary: "This is the markdown body" }
