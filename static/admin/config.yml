@@ -3,7 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 # media
-media_folder: "static/images"
+media_folder: "themes/schmopera/static/images"
 public_folder: "images"
 
 
