@@ -53,8 +53,8 @@ collections:
       name: "social_media",
       widget: "list",
       fields:
-      - { label: "Platform", name: "platform", widget: "string" },
-      - { label: "Template", name: "template", widget: "string", default: "social-media" },
+      - { label: "Platform", name: "platform", widget: "string" }
+      - { label: "Template", name: "template", widget: "string", default: "social-media" }
       - { label: "URL", name: "url", widget: "string" }
     }
   - { label: "Body of Document", name: "body", widget: "markdown", summary: "This is the markdown body" }
