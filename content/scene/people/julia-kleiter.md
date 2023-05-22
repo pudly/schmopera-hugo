@@ -1,14 +1,22 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562204052/media/2019/07/JuliaKleiter.jpg"
-primary_image_credit = "Theodora Richter"
-related_companies = ["scene/companies/staatsoper-berlin.md", "scene/companies/royal-opera-house.md", "scene/companies/teatro-alla-scala.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/salzburg-festival.md", "scene/companies/opra-national-de-paris.md", "scene/companies/opernhaus-zurich.md"]
-slug = "julia-kleiter"
-social_media = []
-title = "Julia Kleiter"
-website = "http://www.juliakleiter.com"
-
-+++
+---
+_template: people_single
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562204052/media/2019/07/JuliaKleiter.jpg
+primary_image_credit: Theodora Richter
+related_companies:
+- scene/companies/staatsoper-berlin.md
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/opernhaus-zurich.md
+slug: julia-kleiter
+social_media: []
+title: Julia Kleiter
+website: http://www.juliakleiter.com
+cms_visible: true
+---
 2019 Julia Kleiter gives her debut performance in the part of Donna Anna in semi-staged performances by _Don Giovanni_ on tour with Basel Chamber Orchestra in Hamburg and Paris. She wants to return to Berlin State Opera as Eva in _The Meistersinger of Nuremberg_ and to Milan for Ilia in _Idomeneo_, she will give her debut at the Royal Opera House at Covent Garden in the Part of Contessa at _Le Nozze di Figaro_.
 
 In Brussels, she will give her debut in the part of Marschallin at _Der Rosenkavalier_ in Zurich, in Zurich in scheduled debuts in the title role of _Arabella_ in 2020 and in the part of Countess in _Capriccio_ in 2021.

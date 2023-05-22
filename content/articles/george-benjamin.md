@@ -1,22 +1,24 @@
-+++
-author = ["authors/alessia-naccarato.md"]
-categories = "Review"
-date = "2019-03-07T17:26:45+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551979382/media/2019/03/sqGeorgeBenjaminJavierdelRealTeatroReal.jpg"
-primary_image_credit = "George Benjamin. Photo: Javier del Real."
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "This was an example of intelligent, thoughtful programming, a wonderful way to showcase Ensemble Modern, and an opportunity to feature the work George Benjamin, a true household name by now."
-slug = "a-new-household-name-george-benjamin"
-title = "A new household name: George Benjamin"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/alessia-naccarato.md
+categories: Review
+date: "2019-03-07T17:26:45+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551979382/media/2019/03/sqGeorgeBenjaminJavierdelRealTeatroReal.jpg
+primary_image_credit: 'George Benjamin. Photo: Javier del Real.'
+related_articles: []
+related_companies: []
+related_people: []
+short_description: This was an example of intelligent, thoughtful programming, a wonderful
+  way to showcase Ensemble Modern, and an opportunity to feature the work George Benjamin,
+  a true household name by now.
+slug: a-new-household-name-george-benjamin
+title: 'A new household name: George Benjamin'
+youtube_url: ""
+---
 It is not unusual for George Benjamin to draw a crowd particularly after the critical acclaim widespread success of his two most recent operas [_Written on Skin_](/in-review-written-on-skin-at-roh/) (2012) and _Lessons in Love and Violence_ (2018). But Wigmore Hall was abuzz with energy and excitement at this first of two back-to-back concerts featuring Benjamin as he heads up the Frankfurt-based Ensemble Modern, one of the world's foremost contemporary music ensembles. Each concert features a major work by Benjamin alongside a carefully curated programme of accompanying selections. This evening we were treated to a UK premiere by Cathy Millikin, ensemble pieces by Christian Mason and Luigi Dallapiccola, and forming the second half of the programme, George Benjamin's first opera _Into the Little Hill_.
 
 >The text has a precision and clarity akin to Benjamin's writing. The two complimented each other beautifully.
@@ -31,7 +33,9 @@ Though I would be very interested in seeing a staged production of this opera, I
 
 The singing was extremely accomplished from both soprano Amu Komsi and contralto Helena Rasker. Komsi, for whom this role was written, had a clear and astonishingly versatile voice. Pushed to the very limits of her range, she gave a performance that was full of charisma and surprise. I did feel however, that she may have pushed the envelope a little too far and could have kept the performance a little more contained; could have sung more as opposed to demonstrating. There was a marked difference in the way Rasker handled the performance though both performers brought their own unique qualities to the stage. In the role of the Minister Rasker was grounded and stoic with a sound that was powerful yet controlled.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1551979917/media/2019/03/GeorgeBenjaminKaiBienert.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1551979917/media/2019/03/GeorgeBenjaminKaiBienert.jpg)
 
 <figcaption>George Benjamin. Photo: Kai Bienert.</figcaption>
 

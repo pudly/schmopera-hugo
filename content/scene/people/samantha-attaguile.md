@@ -1,27 +1,29 @@
-+++
-date = "2017-11-17T16:16:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-11-17T16:16:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510953147481/sam15-1-of-1_3_orig.jpg.jpg"
-primary_image_credit = "Ruby Images"
-publishDate = "2017-11-17T16:16:00-05:00"
-related_companies = ["scene/companies/chicago-fringe-opera.md","scene/companies/opera-on-tap.md"]
-slug = "samantha-attaguile"
-title = "Samantha Attaguile"
-website = "http://www.samanthaattaguile.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/samanthaattaguilemezzo"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/samezzoguile"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/samezzoguile/"
-+++
+---
+date: "2017-11-17T16:16:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2017-11-17T16:16:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510953147481/sam15-1-of-1_3_orig.jpg.jpg
+primary_image_credit: Ruby Images
+publishDate: "2017-11-17T16:16:00-05:00"
+related_companies:
+- scene/companies/chicago-fringe-opera.md
+- scene/companies/opera-on-tap.md
+slug: samantha-attaguile
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/samanthaattaguilemezzo
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/samezzoguile
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/samezzoguile/
+title: Samantha Attaguile
+website: http://www.samanthaattaguile.com/
+cms_visible: true
+---
 
 Praised with an exciting sound, Mezzo-Soprano Samantha Attaguile is quickly establishing herself as a spirited young talent in the modern artistic world. Most recently, Samantha appeared as Lola in Main Street Opera's production of *Cavalleria rusticana*. In November, Samantha will debut with Chicago Fringe Opera, appearing as Hannah after in the Chicago premiere of the critically acclaimed opera *As One*, a chamber piece for two voices and string quartet depicting the experiences of a sole transgender protagonist.
 

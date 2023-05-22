@@ -1,22 +1,27 @@
-+++
-date = "2018-03-17T19:46:00-04:00"
-discipline = "Baritone"
-lastmod = "2018-03-17T19:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521330315931/619C1157152.jpg.jpg"
-publishDate = "2018-03-17T19:46:00-04:00"
-related_companies = ["scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/teatro-alla-scala.md"]
-slug = "franco-vassallo"
-title = "Franco Vassallo"
-website = "http://www.francovassallo.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/francovassallobaritono/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.instagram.com/francovassallobaritono/"
-+++
+---
+date: "2018-03-17T19:46:00-04:00"
+discipline: Baritone
+lastmod: "2018-03-17T19:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521330315931/619C1157152.jpg.jpg
+publishDate: "2018-03-17T19:46:00-04:00"
+related_companies:
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/teatro-alla-scala.md
+slug: franco-vassallo
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/francovassallobaritono/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.instagram.com/francovassallobaritono/
+title: Franco Vassallo
+website: http://www.francovassallo.com/
+cms_visible: true
+---
 
 Franco Vassallo is a native of Milan where at a very early age he discovered his great enthusiasm for Opera and Classical music.
 

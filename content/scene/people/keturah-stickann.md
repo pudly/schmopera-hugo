@@ -1,21 +1,24 @@
-+++
-discipline = "Director, choreographer"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601748336/media/2020/10/KeturahStickann_ely9xy.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/merola-opera-program.md", "scene/companies/virginia-opera.md", "scene/companies/san-diego-opera.md"]
-slug = "keturah-stickann"
-title = "Keturah Stickann"
-website = "https://www.keturahstickann.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/kstickanndirector/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/keturahstickann/"
-
-+++
+---
+discipline: Director, choreographer
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601748336/media/2020/10/KeturahStickann_ely9xy.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/merola-opera-program.md
+- scene/companies/virginia-opera.md
+- scene/companies/san-diego-opera.md
+slug: keturah-stickann
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/kstickanndirector/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/keturahstickann/
+title: Keturah Stickann
+website: https://www.keturahstickann.com/
+cms_visible: true
+---
 Keturah Stickann’s work has been seen in countless opera houses across the United States and Canada, as well as in Chile, Japan, France, Germany, Hungary, and Australia. A champion of new American opera, she has worked extensively with director and librettist, Leonard Foglia, helping to bring new operas to the stage by Ricky Ian Gordon, Jennifer Higdon, Jose “Pepe” Martinez, and Jake Heggie & Gene Scheer. Her work on the premieres of _Moby-Dick_ (2010), and _It’s A Wonderful Life_ (2016) prompted Jake Heggie to ask her to helm the premiere of his newest opera, _If I Were You_ (2019), at the Merola Opera Program. 
 
 In addition, she has directed works by Mr. Gordon (_Orpheus and Euridice_), Laura Kaminsky and Mark Campbell (_As One_), Anthony Davis and Allan Havis (_Lilith_), and Robert Aldridge and Herschel Garfein (_Sister Carrie_).

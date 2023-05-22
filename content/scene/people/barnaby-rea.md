@@ -1,22 +1,28 @@
-+++
-date = "2017-02-03T10:31:00+00:00"
-discipline = "Bass"
-lastmod = "2017-02-03T10:32:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486117731590/2017-02-03---Barnaby-Rea.jpg.jpg"
-primary_image_credit = "Robert Workman"
-publishDate = "2017-02-03T10:31:00+00:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/scottish-opera.md","scene/companies/opera-holland-park.md","scene/companies/opera-north.md","scene/companies/oper-frankfurt.md"]
-slug = "barnaby-rea"
-title = "Barnaby Rea"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/BarnabyReaBass/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/barnabyrea?lang=en"
-+++
+---
+date: "2017-02-03T10:31:00+00:00"
+discipline: Bass
+lastmod: "2017-02-03T10:32:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486117731590/2017-02-03---Barnaby-Rea.jpg.jpg
+primary_image_credit: Robert Workman
+publishDate: "2017-02-03T10:31:00+00:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/scottish-opera.md
+- scene/companies/opera-holland-park.md
+- scene/companies/opera-north.md
+- scene/companies/oper-frankfurt.md
+slug: barnaby-rea
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/BarnabyReaBass/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/barnabyrea?lang=en
+title: Barnaby Rea
+cms_visible: true
+---
 
 British bass Barnaby Rea is a former Harewood Artist at English National Opera (2013-16) who has recently joined the solo ensemble at Oper Frankfurt.
 

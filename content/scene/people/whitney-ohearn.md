@@ -1,18 +1,22 @@
-+++
-date = "2017-05-01T16:27:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-05-01T16:27:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493670324268/2017-05-01---Whitney-O'Hearn-Headshot.jpg.jpg"
-publishDate = "2017-05-01T16:27:00-04:00"
-related_companies = ["scene/companies/talisker-players.md","scene/companies/collectif.md"]
-slug = "whitney-ohearn"
-title = "Whitney O&#039;Hearn"
-website = "http://whitneyohearn.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/whitneyohearn"
-+++
+---
+date: "2017-05-01T16:27:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-05-01T16:27:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493670324268/2017-05-01---Whitney-O'Hearn-Headshot.jpg.jpg
+publishDate: "2017-05-01T16:27:00-04:00"
+related_companies:
+- scene/companies/talisker-players.md
+- scene/companies/collectif.md
+slug: whitney-ohearn
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/whitneyohearn
+title: Whitney O&#039;Hearn
+website: http://whitneyohearn.com/
+cms_visible: true
+---
 
 Praised for her “warm and expressive voice and an amazing sense of line” (Ottawa Citizen), Whitney O’Hearn has already attracted attention in the vocal world. The Ottawa native received her undergraduate and master's degrees at the University of Ottawa, and recently completed further graduate studies at the University of Toronto. She is also an alumni of the National Art Centre’s Summer Music Institute young artist program.
 

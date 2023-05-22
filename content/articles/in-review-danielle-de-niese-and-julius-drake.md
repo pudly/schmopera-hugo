@@ -1,16 +1,23 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-10-30T11:08:00+00:00"
-lastmod = "2016-10-30T12:04:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477825336162/2016-10-30---Danielle-de-Niese-Chris-Dunlop_DECCA.jpg.jpg"
-primary_image_credit = "Photo by Chris Dunlop/Decca."
-publishDate = "2016-10-30T12:02:00+00:00"
-related_people = ["scene/people/danielle-de-niese.md"]
-short_description = "The pair gave us songs by Wolf, Bizet, and Grieg. A personal favourite of ours, the Wolf songs were where Drake sang the most. His playing guided us through these densely packed songs, noting every subtle detail in Wolf&#039;s writing without belabouring. De Niese was funny, touching, and real, and Drake pulled off the &quot;bad violin&quot; gag in &quot;Wie lange schon war immer mein Verlangen&quot; from the Italienisches Liederbuch."
-slug = "in-review-danielle-de-niese-and-julius-drake"
-title = "In review: Danielle de Niese and Julius Drake"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-10-30T11:08:00+00:00"
+lastmod: "2016-10-30T12:04:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477825336162/2016-10-30---Danielle-de-Niese-Chris-Dunlop_DECCA.jpg.jpg
+primary_image_credit: Photo by Chris Dunlop/Decca.
+publishDate: "2016-10-30T12:02:00+00:00"
+related_people:
+- scene/people/danielle-de-niese.md
+short_description: The pair gave us songs by Wolf, Bizet, and Grieg. A personal favourite
+  of ours, the Wolf songs were where Drake sang the most. His playing guided us through
+  these densely packed songs, noting every subtle detail in Wolf&#039;s writing without
+  belabouring. De Niese was funny, touching, and real, and Drake pulled off the &quot;bad
+  violin&quot; gag in &quot;Wie lange schon war immer mein Verlangen&quot; from the
+  Italienisches Liederbuch.
+slug: in-review-danielle-de-niese-and-julius-drake
+title: 'In review: Danielle de Niese and Julius Drake'
+---
 
 For an enthusiastic, loyal audience, [Danielle de Niese](/scene/people/danielle-de-niese/) and [Julius Drake](/scene/people/julius-drake/) gave a recital at the Barbican Centre on Saturday evening. The programme was one that showed de Niese well; she allowed herself to dive straight into the detail-work with two songs by John Dowland, singing with her feminine, gentle sound that seemed to make her listeners lean in.
 

@@ -1,23 +1,26 @@
-+++
-date = "2017-03-22T12:11:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-03-22T12:11:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490184643491/2017-03-22---HelenShermanGreyscale.jpg.jpg"
-primary_image_credit = "Benjamine Harte"
-publishDate = "2017-03-22T12:11:00+00:00"
-related_companies = ["scene/companies/classical-opera.md","scene/companies/opera-north.md"]
-slug = "helen-sherman"
-title = "Helen Sherman"
-website = "http://www.helensherman.net/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Helen-Sherman-Mezzo-soprano-189143407798011/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Helen_Sherman"
-+++
+---
+date: "2017-03-22T12:11:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2017-03-22T12:11:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490184643491/2017-03-22---HelenShermanGreyscale.jpg.jpg
+primary_image_credit: Benjamine Harte
+publishDate: "2017-03-22T12:11:00+00:00"
+related_companies:
+- scene/companies/classical-opera.md
+- scene/companies/opera-north.md
+slug: helen-sherman
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Helen-Sherman-Mezzo-soprano-189143407798011/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Helen_Sherman
+title: Helen Sherman
+website: http://www.helensherman.net/
+cms_visible: true
+---
 
 Born in Australia, mezzo-soprano Helen Sherman studied at the Sydney Conservatorium of Music where she completed a Bachelor of Music and Post Graduate Diploma in opera. Following her success in the 2007 Australian Singing Competition she was awarded a scholarship to take up studies at the Royal Northern College of Music where she was the first student to receive the International Artists Diploma in opera. In 2011 Helen represented Australia at the BBC Cardiff Singer of the World competition. She again represented her country in 2014, when she was the only mezzo selected as a finalist in the Francisco Viñas International Singing Competition, held in Barcelona. In 2013 Helen was awarded 3rd prize in the prestigious Wigmore Hall International Song Competition and in 2014 was invited to sing in the Opening Ceremony of the Tour de France, Le Grand Depart held at Leeds Arena. Helen is a Samling Scholar, an associate artist for Classical Opera Company and YCAT alumnus.
 

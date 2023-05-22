@@ -1,23 +1,33 @@
-+++
-author = ["authors/emma-kelley.md"]
-categories = "Review"
-date = "2018-11-27T19:47:00-05:00"
-lastmod = "2018-11-27T19:53:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366303831/sqLXDNov15-6.jpg.jpg"
-primary_image_credit = "Gabriel DiGennaro and Jesse Lyons in The Long Christmas Dinner, Chicago Fringe Opera, 2018. Photo: Victor LeJeune."
-publishDate = "2018-11-27T19:53:00-05:00"
-related_articles = ["articles/liederwolfe-stuns-in-operapeepshow.md","articles/mrozewski-delight-wonder.md"]
-related_companies = ["scene/companies/chicago-fringe-opera.md"]
-short_description = "Soprano Jessie Lyons went hardly unnoticed as Lucia, who spent most of her time on the winding stage, alongside Jonathan Zeng as Charles, whose charisma and stunning tenor voice required the attention of all attending. The audience also couldn&#039;t ignore Andrew Groble&#039;s thunderous baritone voice that was a delight for the ears, with additional support from Naomi Brigell emotional performance of the slowly deteriorating Genevieve. "
-slug = "bumping-elbows-at-cfos-long-christmas-dinner"
-title = "Bumping elbows at CFO&#039;s Long Christmas Dinner"
-+++
+---
+author:
+- authors/emma-kelley.md
+categories: Review
+date: "2018-11-27T19:47:00-05:00"
+lastmod: "2018-11-27T19:53:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366303831/sqLXDNov15-6.jpg.jpg
+primary_image_credit: 'Gabriel DiGennaro and Jesse Lyons in The Long Christmas Dinner,
+  Chicago Fringe Opera, 2018. Photo: Victor LeJeune.'
+publishDate: "2018-11-27T19:53:00-05:00"
+related_articles:
+- articles/liederwolfe-stuns-in-operapeepshow.md
+- articles/mrozewski-delight-wonder.md
+related_companies:
+- scene/companies/chicago-fringe-opera.md
+short_description: 'Soprano Jessie Lyons went hardly unnoticed as Lucia, who spent
+  most of her time on the winding stage, alongside Jonathan Zeng as Charles, whose
+  charisma and stunning tenor voice required the attention of all attending. The audience
+  also couldn&#039;t ignore Andrew Groble&#039;s thunderous baritone voice that was
+  a delight for the ears, with additional support from Naomi Brigell emotional performance
+  of the slowly deteriorating Genevieve. '
+slug: bumping-elbows-at-cfos-long-christmas-dinner
+title: Bumping elbows at CFO&#039;s Long Christmas Dinner
+---
 
 As the holidays come charging in this time of year as they always do, some of us lucky ones are reminded of our forever dysfunctional families and their baggage (literal and figurative). *The Long Christmas Dinner* holds no exception for troubled families with its dramatic one-act plotline. I was treated to an evening overflowing with emotion and a winding story by the Fringe Opera Company's production of [*The Long Christmas Dinner*](https://www.chicagofringeopera.com/event/the-long-christmas-dinner/) at the Chopin Theatre. 
 
 The first act treated the audience to a series of "parlor songs" from the singers, evoking an environment of Christmas Eve in a 1930's parlor. Each song was punctually different, from the chuckle-inducing "Refrigerator 1957" by Ralph Vaughan Williams sung by mezzo-soprano Naomi Brigell, to the emotional "Sleep" by Ivor Gurney sung by tenor Jonathan Zeng. Another noteworthy performance was the mesmerizing Anatoliy Torchinksiy at the piano for his performance of "Ballad Op 10 No. 1" by Johannes Brahms.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366180731/LXDNov15-1.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366180731/LXDNov15-1.jpg.jpg)
 <figcaption>Gabriel DiGennnaro and Jesse Lyons in *The Long Christmas Dinner*, Chicago Fringe Opera, 2018. Photo: Victor LeJeune.</figcaption>
 </figure>
 
@@ -31,7 +41,7 @@ The cast of the evening provided a delightful handful of talented singers, that 
 
 Our performance date featured Melissa Arning as the mother and cousin Ermengarde who opened and closed the production. The soprano commanded scenes, conjuring a mother pleading to keep her family together as she begins to watch it fall apart.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366189532/LXDNov15-2.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366189532/LXDNov15-2.jpg.jpg)
 <figcaption>Jesse Lyons and Zachary Angus in *The Long Christmas Dinner*, Chicago Fringe Opera, 2018. Photo: Victor LeJeune.</figcaption>
 </figure>
 
@@ -41,7 +51,7 @@ While the production budget was humbled to a Anotoliy Torchinskiy's talent was c
 
 Fringe Opera did right by casting singers who could carry such emotionally saturated scenes. The production is a definite "don't miss" that you would be wonderful to bring a Christmas posse to or, as some of our characters prefer, celebrate alone. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366195887/LXDNov15-5.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1543366195887/LXDNov15-5.jpg.jpg)
 <figcaption>Gabriel DiGennaro in *The Long Christmas Dinner*, Chicago Fringe Opera, 2018. Photo: Victor LeJeune.</figcaption>
 </figure>
 

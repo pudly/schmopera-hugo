@@ -1,22 +1,98 @@
-+++
-date = "2015-09-23T12:45:00-04:00"
-lastmod = "2015-09-23T12:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443026708145/SalzburgFestivalLogo.jpg.jpg"
-publishDate = "2015-09-23T12:45:00-04:00"
-related_people = ["scene/people/johan-botha.md","scene/people/peter-mattei.md","scene/people/daniel-brenna.md","scene/people/johan-reuter.md","scene/people/kristine-opolais.md","scene/people/waltraud-meier.md","scene/people/yannick-nezet-seguin.md","scene/people/thomas-hampson.md","scene/people/andrew-staples.md","scene/people/lydia-teuscher.md","scene/people/richard-croft.md","scene/people/joseph-calleja.md","scene/people/stephen-gadd.md","scene/people/juan-diego-florez.md","scene/people/anna-devin.md","scene/people/sarah-tynan.md","scene/people/ludovic-tezier.md","scene/people/christian-gerhaher.md","scene/people/russell-thomas.md","scene/people/david-soar.md","scene/people/steven-cole.md","scene/people/vito-priante.md","scene/people/daniela-barcellona.md","scene/people/audrey-luna.md","scene/people/angela-brower.md","scene/people/johannes-weisser.md","scene/people/claudia-boyle.md","scene/people/massimo-cavalletti.md","scene/people/simon-shibambu.md","scene/people/ekaterina-semenchuk.md","scene/people/gabor-bretz.md","scene/people/colin-balzer.md","scene/people/sophie-bevan.md","scene/people/tomasz-konieczny.md","scene/people/elena-tsallagova.md","scene/people/vladimir-jurowski.md","scene/people/artur-rucinski.md","scene/people/marienicole-lemieux.md","scene/people/joshua-guerrero.md","scene/people/karen-cargill.md","scene/people/angela-gheorghiu.md","scene/people/ksenia-dudnikova-.md","scene/people/sir-john-tomlinson.md","scene/people/christopher-maltman.md","scene/people/lawrence-brownlee.md","scene/people/ferruccio-furlanetto.md","scene/people/saimir-pirgu.md","scene/people/violeta-urmana.md","scene/people/krassimira-stoyanova.md","scene/people/ivan-magri.md","scene/people/iestyn-davies.md","scene/people/bejun-mehta.md","scene/people/michael-spyres.md","scene/people/annalisa-stroppa.md","scene/people/edith-wiens.md","scene/people/peter-kellner.md","scene/people/dmitry-korchak.md","scene/people/julia-jones.md","scene/people/alan-opie.md","scene/people/rosa-feola.md","scene/people/jane-henschel.md","scene/people/malin-bystrm.md","scene/people/michael-volle.md","scene/people/laurent-naouri.md","scene/people/gino-quilico.md","scene/people/juan-sancho.md","scene/people/tanja-ariane-baumgartner.md","scene/people/elina-garanca.md","scene/people/julien-behr.md","scene/people/wilhelm-schwinghammer.md","scene/people/onay-kose.md","scene/people/francesco-meli.md","scene/people/kostas-smoriginas.md","scene/people/piotr-beczala.md","scene/people/erik-anstine.md"]
-slug = "salzburg-festival"
-title = "Salzburg Festival"
-type_of_company = "Opera Festival"
-website = "http://www.salzburgerfestspiele.at/summer"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/salzburg.festival?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SbgFestival"
-+++
+---
+date: "2015-09-23T12:45:00-04:00"
+lastmod: "2015-09-23T12:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443026708145/SalzburgFestivalLogo.jpg.jpg
+publishDate: "2015-09-23T12:45:00-04:00"
+related_people:
+- scene/people/johan-botha.md
+- scene/people/peter-mattei.md
+- scene/people/daniel-brenna.md
+- scene/people/johan-reuter.md
+- scene/people/kristine-opolais.md
+- scene/people/waltraud-meier.md
+- scene/people/yannick-nezet-seguin.md
+- scene/people/thomas-hampson.md
+- scene/people/andrew-staples.md
+- scene/people/lydia-teuscher.md
+- scene/people/richard-croft.md
+- scene/people/joseph-calleja.md
+- scene/people/stephen-gadd.md
+- scene/people/juan-diego-florez.md
+- scene/people/anna-devin.md
+- scene/people/sarah-tynan.md
+- scene/people/ludovic-tezier.md
+- scene/people/christian-gerhaher.md
+- scene/people/russell-thomas.md
+- scene/people/david-soar.md
+- scene/people/steven-cole.md
+- scene/people/vito-priante.md
+- scene/people/daniela-barcellona.md
+- scene/people/audrey-luna.md
+- scene/people/angela-brower.md
+- scene/people/johannes-weisser.md
+- scene/people/claudia-boyle.md
+- scene/people/massimo-cavalletti.md
+- scene/people/simon-shibambu.md
+- scene/people/ekaterina-semenchuk.md
+- scene/people/gabor-bretz.md
+- scene/people/colin-balzer.md
+- scene/people/sophie-bevan.md
+- scene/people/tomasz-konieczny.md
+- scene/people/elena-tsallagova.md
+- scene/people/vladimir-jurowski.md
+- scene/people/artur-rucinski.md
+- scene/people/marienicole-lemieux.md
+- scene/people/joshua-guerrero.md
+- scene/people/karen-cargill.md
+- scene/people/angela-gheorghiu.md
+- scene/people/ksenia-dudnikova-.md
+- scene/people/sir-john-tomlinson.md
+- scene/people/christopher-maltman.md
+- scene/people/lawrence-brownlee.md
+- scene/people/ferruccio-furlanetto.md
+- scene/people/saimir-pirgu.md
+- scene/people/violeta-urmana.md
+- scene/people/krassimira-stoyanova.md
+- scene/people/ivan-magri.md
+- scene/people/iestyn-davies.md
+- scene/people/bejun-mehta.md
+- scene/people/michael-spyres.md
+- scene/people/annalisa-stroppa.md
+- scene/people/edith-wiens.md
+- scene/people/peter-kellner.md
+- scene/people/dmitry-korchak.md
+- scene/people/julia-jones.md
+- scene/people/alan-opie.md
+- scene/people/rosa-feola.md
+- scene/people/jane-henschel.md
+- scene/people/malin-bystrm.md
+- scene/people/michael-volle.md
+- scene/people/laurent-naouri.md
+- scene/people/gino-quilico.md
+- scene/people/juan-sancho.md
+- scene/people/tanja-ariane-baumgartner.md
+- scene/people/elina-garanca.md
+- scene/people/julien-behr.md
+- scene/people/wilhelm-schwinghammer.md
+- scene/people/onay-kose.md
+- scene/people/francesco-meli.md
+- scene/people/kostas-smoriginas.md
+- scene/people/piotr-beczala.md
+- scene/people/erik-anstine.md
+slug: salzburg-festival
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/salzburg.festival?fref=ts
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/SbgFestival
+title: Salzburg Festival
+type_of_company: Opera Festival
+website: http://www.salzburgerfestspiele.at/summer
+cms_visible: true
+---
 
 The Salzburg Festival was inaugurated on August 22, 1920, when Hugo von Hofmannsthal’s morality play Jedermann was premiered on the Domplatz, directed by Max Reinhardt. Since that time, the Salzburg Festival has established itself as the most important festival for opera, drama and concerts.
 

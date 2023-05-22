@@ -1,14 +1,17 @@
-+++
-date = "2017-01-25T13:18:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-01-25T13:18:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485350151359/8602843_orig.jpg.jpg"
-publishDate = "2017-01-25T13:18:00+00:00"
-related_companies = ["scene/companies/popup-opera.md"]
-slug = "alice-privett"
-title = "Alice Privett"
-website = "http://www.aliceprivett.com/"
-+++
+---
+_template: people_single
+date: "2017-01-25T13:18:00+00:00"
+discipline: Soprano
+lastmod: "2017-01-25T13:18:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485350151359/8602843_orig.jpg.jpg
+publishDate: "2017-01-25T13:18:00+00:00"
+related_companies:
+- scene/companies/popup-opera.md
+slug: alice-privett
+title: Alice Privett
+website: http://www.aliceprivett.com/
+cms_visible: true
+---
 
 British born soprano Alice Privett has performed with professional opera companies from a young age, singing roles such as the page boy Rigoletto (Bermuda Festival Opera) and Second boy *Magic Flute* (Longborough Festival Opera). After studying singing at Chetham's School of Music for sixth form, she studied for her undergraduate degree at the Guildhall School of Music and Drama and graduated in 2011 with a First Class Honours degree and the Concert Recital Diploma.
 

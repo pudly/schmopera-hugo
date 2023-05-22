@@ -1,21 +1,24 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1667352253/media/2022/11/BrittHewitt_kpdcyq.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/american-opera-projects.md", "scene/companies/the-juilliard-school.md", "scene/companies/experiments-in-opera.md"]
-slug = "britt-hewitt"
-title = "Britt Hewitt"
-website = "https://www.britthewitt.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/britt.hew/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=UsvMcM3bS5Q"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1667352253/media/2022/11/BrittHewitt_kpdcyq.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/american-opera-projects.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/experiments-in-opera.md
+slug: britt-hewitt
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/britt.hew/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/watch?v=UsvMcM3bS5Q
+title: Britt Hewitt
+website: https://www.britthewitt.com/
+cms_visible: true
+---
 Britt Hewitt is a New York City based soprano and singer/songwriter. A devoted experimentalist, she can often be found working with composers on new works, writing and producing music of her own, and teaching a small number of students in voice and writing. Hewitt holds a Bachelor of Music from [**The Juilliard School**](https://www.juilliard.edu/), and is a member of the [**New York Songwriters Circle**](https://songwriters-circle.com/).
 
 Hewitt hasn't known a life without music. Her parents recall her penning her own songs at the age of three, and she was always eager to perform from the family coffee table in her hometown of Jacksonville, Florida. She started taking formal lessons in country music singing at the age of eight. By twelve, she was performing for local television, winning competitions, and recording her own music. She was accepted into [**LaVilla Middle School of the Arts**](https://dcps.duvalschools.org/Page/336), where she studied music theory and history, classical and jazz, and musical theatre. Her final year at LaVilla marked her first performance in opera, when the school put together a pastiche program for the Metropolitan Opera's education team.

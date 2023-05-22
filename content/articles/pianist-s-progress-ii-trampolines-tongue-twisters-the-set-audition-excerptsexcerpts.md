@@ -1,22 +1,31 @@
-+++
-author = ["authors/david-todd.md"]
-categories = "How-To"
-date = 2023-03-29T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = "This article is the second in a series that began with [\"The Elton John Act\"](/pianists-progress-i-the-elton-john-act/). These articles try and address the black hole of information out there to help and support early-career répétiteurs who are interested in working in the German-speaking opera world. Here we take a general look at the excerpts that are usually requested at audition."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1679529374/media/2023/03/Pianistseries_gymnast_eo45ip.jpg"
-primary_image_credit = "The ideal répétiteur is like an Olympic-sized trampoline, supporting the other athletes in their work while remaining flexible."
-related_articles = ["articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md", "articles/pianist-s-progress-i-the-elton-john-act.md"]
-related_companies = []
-related_people = []
-short_description = "Sometimes the full-fat beginning of Der Rosenkavalier is also requested. The key here is to pace the excitement in the right way, as on stage a lot of love is being made."
-slug = "the-elton-john-act-ii-trampolines-tongue-twisters-the-set-audition-excerpts"
-title = "The Elton John Act II: Trampolines & tongue-twisters - the set audition excerpts"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/david-todd.md
+categories: How-To
+date: "2023-03-29T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: This article is the second in a series that began with ["The Elton John
+  Act"](/pianists-progress-i-the-elton-john-act/). These articles try and address
+  the black hole of information out there to help and support early-career répétiteurs
+  who are interested in working in the German-speaking opera world. Here we take a
+  general look at the excerpts that are usually requested at audition.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1679529374/media/2023/03/Pianistseries_gymnast_eo45ip.jpg
+primary_image_credit: The ideal répétiteur is like an Olympic-sized trampoline, supporting
+  the other athletes in their work while remaining flexible.
+related_articles:
+- articles/pianist-s-progress-iii-violent-sadistic-utterly-engaging-the-maid-scene-from-elektra.md
+- articles/pianist-s-progress-i-the-elton-john-act.md
+related_companies: []
+related_people: []
+short_description: Sometimes the full-fat beginning of Der Rosenkavalier is also requested.
+  The key here is to pace the excitement in the right way, as on stage a lot of love
+  is being made.
+slug: the-elton-john-act-ii-trampolines-tongue-twisters-the-set-audition-excerpts
+title: 'The Elton John Act II: Trampolines & tongue-twisters - the set audition excerpts'
+youtube_url: ""
+---
 Having established that most auditions require the "Elton John Act", any sane person usually asks "why"? After all, we didn't get into opera because of our beautiful singing voices. I have wondered on more than one occasion whether répétiteur auditions are simply some kind of twisted fun for the panel, who enforce the suffering only because they all had to go through it themselves in their youth.
 
 The answer usually given is that we need to be prepared for rehearsals where one of the singers may be away or ill. In theory when this happens, the répétiteur should be prepared to "sing in" the vocal lines of the singer who is indisposed. In my experience the conductor is actually the one who often likes to do this, leaving a slightly disgruntled répétiteur rueing the hours they spent preparing the vocal lines using a singing voice which their mother still says "sounds nice". It is of course also completely unrealistic that you will ever have to sing every vocal line while playing as you do in an audition, because if the singers are all sick, the management will most likely cancel the rehearsal completely, unless they are hinting to you that you need more practice. As a result, you may well think it pointless that répétiteurs are asked to perform this extravaganza of a one- man or woman show.
@@ -31,7 +40,9 @@ Getting a répétiteur to sing and play at the same time is actually a very good
 
 If the ideal répétiteur is like an Olympic-sized trampoline, supporting the other athletes in their work while remaining flexible, this insular kind of pianist is more like a concrete block. Sure, it may support you quite well up to a point, but after a few minutes of jumping, things are going to get quite uncomfortable.  As I mentioned above, whether the person is a trampoline or concrete block unfortunately becomes pretty clear after the first few lines of music that they play.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679529759/media/2023/03/Pianistseries_pianoguy_lzy5uf.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1679529759/media/2023/03/Pianistseries_pianoguy_lzy5uf.jpg)
 
 <figcaption>If you work on your own singing, maybe even your neighbours will thank you for it!</figcaption>  
 </figure>
@@ -48,7 +59,9 @@ My advice would be to practise away from the keyboard almost as much as you prac
 
 The traditional audition repertoire in the German-speaking world provides you with plenty of drama and the chance to show a range of operatic styles and the main three operatic languages, though unfortunately Baroque and contemporary music are glaringly absent. The piano parts are very difficult, though after a few auditions you will get used to them, and after a few years they will become like old friends that you are happy to see and reminisce with about all those awkward, difficult and sometimes successful times you have been through together!
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1679529746/media/2023/03/Pianistseries_Rosenkavalier_czywvt.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1679529746/media/2023/03/Pianistseries_Rosenkavalier_czywvt.jpg)
 
 <figcaption>Sometimes the full-fat beginning of Der Rosenkavalier is requested as a set excerpt. Photo: Robert Workman.</figcaption></figure>
 

@@ -1,17 +1,25 @@
-+++
-author = ["authors/jenna.md","authors/christopher-enns.md"]
-categories = "Op-ed"
-date = "2015-04-11T20:35:00-04:00"
-lastmod = "2015-04-11T20:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798799143/LatteArt.jpg.jpg"
-primary_image_credit = "Latte Art by Yeung Yiu-fai. Carlo Allegri/Reuters"
-publishDate = "2015-02-06T09:34:00-05:00"
-related_articles = ["articles/the-number-one-financial-thing-i-wish-everyone-would-know.md","articles/managing-the-unexpected.md","articles/tshirts-and-tender-artists.md"]
-related_people = ["scene/people/christopher-enns.md"]
-short_description = "In the last few weeks, a recurring topic has come up among my artist friends. The crux of the issue can actually be boiled down to one question: are you still an artist if you can’t survive on your artist income?"
-slug = "how-much-money-makes-an-artist"
-title = "How Much Money Makes an Artist?"
-+++
+---
+author:
+- authors/jenna.md
+- authors/christopher-enns.md
+categories: Op-ed
+date: "2015-04-11T20:35:00-04:00"
+lastmod: "2015-04-11T20:35:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428798799143/LatteArt.jpg.jpg
+primary_image_credit: Latte Art by Yeung Yiu-fai. Carlo Allegri/Reuters
+publishDate: "2015-02-06T09:34:00-05:00"
+related_articles:
+- articles/the-number-one-financial-thing-i-wish-everyone-would-know.md
+- articles/managing-the-unexpected.md
+- articles/tshirts-and-tender-artists.md
+related_people:
+- scene/people/christopher-enns.md
+short_description: 'In the last few weeks, a recurring topic has come up among my
+  artist friends. The crux of the issue can actually be boiled down to one question:
+  are you still an artist if you can’t survive on your artist income?'
+slug: how-much-money-makes-an-artist
+title: How Much Money Makes an Artist?
+---
 
 <p>
 	In the last few weeks, a recurring topic has come up among my artist friends. The crux of the issue can actually be boiled down to one question: are you still an artist if you can't survive on your artist income?

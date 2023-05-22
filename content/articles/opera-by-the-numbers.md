@@ -1,16 +1,26 @@
-+++
-author = ["authors/ashley-pearson.md"]
-categories = "Op-ed"
-date = "2017-01-10T13:41:00+00:00"
-lastmod = "2017-01-12T15:45:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484060491260/2017-01-10---Numbers.jpg.jpg"
-publishDate = "2017-01-12T10:04:00+00:00"
-related_articles = ["articles/missing-the-point-the-mets-201516-season.md","articles/can-opera-make-money.md"]
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/garsington-opera.md","scene/companies/opera-holland-park.md"]
-short_description = "If you’re anything like me, you&#039;re already dreaming about fresh strawberries and Prosecco, long summer evenings, and outdoor opera. While a chilly fog settles over London once again, I&#039;m getting curious about upcoming shows and trends, so here&#039;s a breakdown of what we&#039;ve got to look forward to at 2017&#039;s UK summer festivals."
-slug = "opera-by-the-numbers"
-title = "Opera by the numbers"
-+++
+---
+author:
+- authors/ashley-pearson.md
+categories: Op-ed
+date: "2017-01-10T13:41:00+00:00"
+lastmod: "2017-01-12T15:45:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484060491260/2017-01-10---Numbers.jpg.jpg
+publishDate: "2017-01-12T10:04:00+00:00"
+related_articles:
+- articles/missing-the-point-the-mets-201516-season.md
+- articles/can-opera-make-money.md
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/garsington-opera.md
+- scene/companies/opera-holland-park.md
+short_description: If you’re anything like me, you&#039;re already dreaming about
+  fresh strawberries and Prosecco, long summer evenings, and outdoor opera. While
+  a chilly fog settles over London once again, I&#039;m getting curious about upcoming
+  shows and trends, so here&#039;s a breakdown of what we&#039;ve got to look forward
+  to at 2017&#039;s UK summer festivals.
+slug: opera-by-the-numbers
+title: Opera by the numbers
+---
 
 If you’re anything like me, you're already dreaming about fresh strawberries and Prosecco, long summer evenings, and outdoor opera. While a chilly fog settles over London once again, I'm getting curious about upcoming shows and trends, so here's a breakdown of what we've got to look forward to at 2017's UK summer festivals.
 

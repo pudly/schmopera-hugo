@@ -1,31 +1,34 @@
-+++
-date = "2017-09-22T18:22:00-04:00"
-lastmod = "2017-09-22T18:22:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546479895/media/2019/01/Logo-HaymarketOperaCompany.jpg"
-publishDate = "2017-09-22T18:22:00-04:00"
-related_people = ["scene/people/scott-brunscheen.md", "scene/people/david-govertsen.md", "scene/people/nathalie-colas.md", "scene/people/kristin-knutson.md", "scene/people/ryan-de-ryke.md"]
-slug = "haymarket-opera-company"
-title = "Haymarket Opera Company"
-type_of_company = "Opera Company"
-website = "http://www.haymarketopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/HaymarketOpera"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/HaymarketOpera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/haymarketopera/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/HaymarketOpera"
-
-+++
+---
+date: "2017-09-22T18:22:00-04:00"
+lastmod: "2017-09-22T18:22:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546479895/media/2019/01/Logo-HaymarketOperaCompany.jpg
+publishDate: "2017-09-22T18:22:00-04:00"
+related_people:
+- scene/people/scott-brunscheen.md
+- scene/people/david-govertsen.md
+- scene/people/nathalie-colas.md
+- scene/people/kristin-knutson.md
+- scene/people/ryan-de-ryke.md
+slug: haymarket-opera-company
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/HaymarketOpera
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/HaymarketOpera
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/haymarketopera/
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/HaymarketOpera
+title: Haymarket Opera Company
+type_of_company: Opera Company
+website: http://www.haymarketopera.org/
+cms_visible: true
+---
 Haymarket Opera Company enriches the musical community of Chicago and the Midwest with performances of 17th- and 18th-century music. HOC is the most active early opera company in the United States, using period instruments and historically-informed vocal practices and staging conventions. We seek to engage audiences of all ages with passionate performances of both familiar and neglected works. 
 
 Our name reflects a dual commitment to the city of Chicago and to the music of the Enlightenment era. HOC's name derives from two historical sources: Chicago's 1886 Haymarket Riot and the establishment of the King's Theatre in London's Haymarket district in 1705. 

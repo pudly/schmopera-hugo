@@ -1,17 +1,27 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Op-ed"
-date = "2018-10-25T16:10:00-04:00"
-lastmod = "2018-10-25T22:34:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540521244866/sqMacbeth_0419-s.jpg.jpg"
-primary_image_credit = "Anna Netrebko as Lady Macbeth in Verdi's Macbeth, Metropolitan Opera, 2014. Photo: Marty Sohl/Metropolitan Opera."
-publishDate = "2018-10-25T22:34:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-related_people = ["scene/people/anna-netrebko.md","scene/people/lawrence-brownlee.md","scene/people/christopher-maltman.md"]
-short_description = "With no lines or a prescribed opening time the Summer HD Festival has been a welcoming presence since its inception. Entering off Broadway, people first encounter a table with volunteers from the Metropolitan Opera Guild, providing information about the Guild&#039;s programs and benefits of membership as well as complementary issues of its publication, Opera News."
-slug = "summer-nights-at-the-opera-an-observation"
-title = "Summer Nights at the Opera: an observation"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Op-ed
+date: "2018-10-25T16:10:00-04:00"
+lastmod: "2018-10-25T22:34:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540521244866/sqMacbeth_0419-s.jpg.jpg
+primary_image_credit: 'Anna Netrebko as Lady Macbeth in Verdi''s Macbeth, Metropolitan
+  Opera, 2014. Photo: Marty Sohl/Metropolitan Opera.'
+publishDate: "2018-10-25T22:34:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+related_people:
+- scene/people/anna-netrebko.md
+- scene/people/lawrence-brownlee.md
+- scene/people/christopher-maltman.md
+short_description: With no lines or a prescribed opening time the Summer HD Festival
+  has been a welcoming presence since its inception. Entering off Broadway, people
+  first encounter a table with volunteers from the Metropolitan Opera Guild, providing
+  information about the Guild&#039;s programs and benefits of membership as well as
+  complementary issues of its publication, Opera News.
+slug: summer-nights-at-the-opera-an-observation
+title: 'Summer Nights at the Opera: an observation'
+---
 
 Over its ten-year history the Metropolitan Opera's Summer HD Festival opened with films that in one way or another, evoked the world of opera - or at least Lincoln Center, whose plaza it annually transforms into a 3000-seat outdoor opera house. This transformation takes place in late August and runs through the Labor Day weekend when an impressively sharp projection and sound system erected near the plaza fountain and a giant screen mounted atop the Grand Tier level of opera house take over.
 
@@ -19,7 +29,9 @@ The romantic comedy *Moonstruck*, showing off the cultural compound - not to men
 
 So it seemed fitting when it was announced that the 2018 festival would open with *A Night At The Opera*, the sublime 1935 Marx Brothers comedy. Opera, in this relentlessly funny and ever fresh film, is viewed as little more than a bauble dangled before a wealthy matron whose social aspirations are as high as her checkbook is deep. With dazzling agility and dialogue that had to have been born in spontaneity, Groucho and his brothers not only settle the score as it were, but also launch the careers of two neglected young singers. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540497924851/NightattheOpera.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540497924851/NightattheOpera.jpg.jpg)
 <figcaption>Kitty Carlisle and Groucho Marx in *A Night at the Opera*, 1935. Photo via IMDB.com.</figcaption>
 </figure>
 
@@ -31,7 +43,9 @@ This year's roster isn't so much about striking balances, though it does, as it 
 
 *Norma*, *L'elisir d'amore*, and *Il barbiere di Siviglia* - three bel canto classics - warm what might be perceived as the chill of *Lulu* and *Elektra* and even the new production of *Der Rosenkavalier*. Classic tragedy, the kind that is widely regarded as the exclusive purview of opera, was represented by *Roméo et Juliette*, *Un ballo in maschera*, and *Madama Butterfly*. And then there was *Rusalka*, a production so visually spectacular that it literally floats on HD technology.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540498010799/ROM_0686a.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540498010799/ROM_0686a.jpg.jpg)
 <figcaption>Ailyn Pérez as Juliette in Gounod's *Roméo et Juliette*, Metropolitan Opera, 2017. Photo by Ken Howard/Metropolitan Opera.</figcaption>
 </figure>
 
@@ -41,7 +55,9 @@ During the same season, Philip Glass' *Satyagraha* wrought a wholly unexpected a
 
 The outdoors has not always intervened with full moons and acoustical richness. Sometimes its gifts seemed more like challenges. Twice they involved Anna Netrebko, a singer for whom most audiences would gladly endure whatever twists and turns that nature had to offer. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540498019684/Macbeth_0966-s.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540498019684/Macbeth_0966-s.jpg.jpg)
 <figcaption>Anna Netrebko as Lady Macbeth and Željko Lučić in the title role of Verdi's *Macbeth*, Metropolitan Opera, 2014. Photo: Marty Sohl/Metropolitan Opera.</figcaption>
 </figure>
 
@@ -49,7 +65,9 @@ In 2015 the broadcast of Verdi's *Macbeth* featuring Željko Lučić and Netrebk
 
 2017's *Eugene Onegin*, again featuring Netrebko, wasn't so fortunate. Only those equipped for a driving rainstorm, the kind in which umbrellas and summer rainwear are pointless, remained after the first act. With a cold and damp tinge of guilt I descended into the subway for the journey home to discover that my DVR had captured the PBS broadcast where the second act awaited.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540498028119/BARB14_0480a.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540498028119/BARB14_0480a.jpg.jpg)
 <figcaption>Christopher Maltman as Figaro and Lawrence Brownlee as Count Almaviva in Rossini's *Il Barbiere di Siviglia*, Metropolitan Opera, 2014. Photo: Ken Howard/Metropolitan Opera.</figcaption>
 </figure>
 
@@ -59,7 +77,9 @@ MET volunteers staff a sales table offering recordings and DVDs of the evening's
 
 The only aspect of this blissfully unregulated environment that has the potential to cause a stir is the practice of excessive seat saving. Seat savers arrive early, often with a bag of clothing, usually old sport coats, to claim, by this observer's count, up to ten seats. Others are less obvious, utilizing the program books or, most brazenly, those free issues of *Opera News*.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540498034984/RUS_7977a.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540498034984/RUS_7977a.jpg.jpg)
 <figcaption>Jamie Barton as Ježibaba in Dvořák's *Rusalka*, Metropolitan Opera, 2017. Photo by Ken Howard/ Metropolitan Opera.</figcaption>
 </figure>
 

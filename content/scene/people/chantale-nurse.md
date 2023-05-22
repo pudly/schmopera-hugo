@@ -1,22 +1,26 @@
-+++
-date = "2015-04-06T22:56:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-06T22:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375296748/Chantale-Nurse-Headshot.jpg.jpg"
-publishDate = "2015-04-06T22:56:00-04:00"
-related_companies = ["scene/companies/highlands-opera-studio.md","scene/companies/lopra-de-montral.md","scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
-slug = "chantale-nurse"
-title = "Chantale Nurse"
-website = "http://chantalenurse.com/Chantale_Nurse,_soprano/Home.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Chantale-Nurse-soprano/165259413492100"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ChantaleNurse"
-+++
+---
+date: "2015-04-06T22:56:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-06T22:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375296748/Chantale-Nurse-Headshot.jpg.jpg
+publishDate: "2015-04-06T22:56:00-04:00"
+related_companies:
+- scene/companies/highlands-opera-studio.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+slug: chantale-nurse
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Chantale-Nurse-soprano/165259413492100
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ChantaleNurse
+title: Chantale Nurse
+website: http://chantalenurse.com/Chantale_Nurse,_soprano/Home.html
+cms_visible: true
+---
 
 <p>
 	Known for her commanding stage presence, compelling performances and effortless musicality, soprano Chantale Nurse, a native Montrealer of Guyanese descent, was a member of the Atelier lyrique de l'Opéra de Montréal for two seasons.<br>

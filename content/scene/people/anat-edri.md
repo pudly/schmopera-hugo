@@ -1,14 +1,17 @@
-+++
-date = "2017-12-19T19:08:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-12-19T19:08:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513728405319/IMG_0098-1-e1485662455130.jpg.jpg"
-publishDate = "2017-12-19T19:08:00-05:00"
-related_companies = ["scene/companies/vlaamse-opera.md"]
-slug = "anat-edri"
-title = "Anat Edri"
-website = "http://anatedri.com/"
-+++
+---
+_template: people_single
+date: "2017-12-19T19:08:00-05:00"
+discipline: Soprano
+lastmod: "2017-12-19T19:08:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513728405319/IMG_0098-1-e1485662455130.jpg.jpg
+publishDate: "2017-12-19T19:08:00-05:00"
+related_companies:
+- scene/companies/vlaamse-opera.md
+slug: anat-edri
+title: Anat Edri
+website: http://anatedri.com/
+cms_visible: true
+---
 
 This Summer Anat Edri made her role debut of Susanna in LE NOZZE DI FIGARO in Bregenzer Festspiele 2017 under the direction of Jörg Lichtenstein and conductor Hartmut Keil.  Anat will also sing the role of Susanna in Oper Leipzig under the wand of Matthias Foremny and Gewandhaus Orchestra.
 

@@ -1,22 +1,31 @@
-+++
-date = "2016-05-19T11:07:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-05-19T11:07:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463652472063/2016-05-19---Rena-Harms.jpg.jpg"
-publishDate = "2016-05-19T11:07:00+01:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/arizona-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/merola-opera-program.md","scene/companies/the-metropolitan-opera.md","scene/companies/music-academy-of-the-west-voice-program.md","scene/companies/manhattan-school-of-music.md"]
-slug = "rena-harms"
-title = "Rena Harms"
-website = "http://www.renaharms.com/Welcome.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Rena-Harms-soprano/270198469690660"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/RenaHarms"
-+++
+---
+date: "2016-05-19T11:07:00+01:00"
+discipline: Soprano
+lastmod: "2016-05-19T11:07:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463652472063/2016-05-19---Rena-Harms.jpg.jpg
+publishDate: "2016-05-19T11:07:00+01:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/merola-opera-program.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/music-academy-of-the-west-voice-program.md
+- scene/companies/manhattan-school-of-music.md
+slug: rena-harms
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Rena-Harms-soprano/270198469690660
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/RenaHarms
+title: Rena Harms
+website: http://www.renaharms.com/Welcome.html
+cms_visible: true
+---
 
 Future engagements of Rena Harms include a return to English National Opera as Madama Butterfly (title role debut), AMELIA *Simon Boccanegra* Opéra National de Bordeaux, BEA Heggie’s *Three Decembers* Florentine Opera, DONNA ELVIRA *Don Giovanni* Opera Santa Barbara and *Madama Butterfly* (title role) Arizona Opera and Opera Theatre St. Louis.
 

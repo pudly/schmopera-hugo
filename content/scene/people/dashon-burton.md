@@ -1,17 +1,19 @@
-+++
-discipline = "Bass-baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1675134208/media/2023/01/DashonBurton_TatianaDaubek_poodr0.jpg"
-primary_image_credit = "Tatiana Daubek."
-related_companies = ["scene/companies/salzburg-festival.md"]
-slug = "dashon-burton"
-title = "Dashon Burton"
-website = "https://www.dashonburton.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/dashonburton"
-
-+++
+---
+discipline: Bass-baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1675134208/media/2023/01/DashonBurton_TatianaDaubek_poodr0.jpg
+primary_image_credit: Tatiana Daubek.
+related_companies:
+- scene/companies/salzburg-festival.md
+slug: dashon-burton
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/dashonburton
+title: Dashon Burton
+website: https://www.dashonburton.com/
+cms_visible: true
+---
 Bass-baritone Dashon Burton has established a vibrant career appearing regularly throughout the US and Europe in favorite pieces, including Bach’s _St. John_ and _St. Matthew Passions_ and the _Mass in B Minor_, Mendelssohn’s _Elijah_, Beethoven’s Symphony no. 9, Brahms’ _Ein Deutsches Requiem_, Handel’s _Messiah_, and Mozart’s _Requiem_.  
   
 He opened the 2021–22 season with the Handel & Haydn Society of Boston led by Marin Alsop for Beethoven’s Symphony no. 9 which he will repeat later this season with the Nashville Symphony and Giancarlo Guerrero. Throughout the season he makes several notable orchestral debuts, including with the Chicago Symphony in Handel’s _Messiah_ led by Nicholas McGegan, with the Los Angeles Philharmonic with Michael Tilson Thomas for the maestro’s new song cycle _Meditations on Rilke_, with the Pittsburgh Symphony performing Dvořák’s _Te Deum_ as led by Manfred Honeck, and Verdi’s _Requiem_ with the Seattle Symphony and Thomas Dausgaard.  

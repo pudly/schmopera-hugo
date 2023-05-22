@@ -1,34 +1,37 @@
-+++
-date = "2017-11-13T14:48:00-05:00"
-discipline = "Tenor"
-lastmod = "2017-11-13T14:48:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510602336950/Jesus-Leon-Headshot-2014-Web.jpg.jpg"
-publishDate = "2017-11-13T14:48:00-05:00"
-related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/scottish-opera.md","scene/companies/garsington-opera.md","scene/companies/los-angeles-opera.md","scene/companies/the-atlanta-opera.md"]
-slug = "jesus-leon"
-title = "Jesús León"
-website = "http://www.jesusleon.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/tenorJesusLeon?ref=hl"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JesusLeonTenor"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/jesusleon46/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCoBUTg7camwpZ3mbUoXtLkQ"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/jesus-leon-1"
-+++
+---
+date: "2017-11-13T14:48:00-05:00"
+discipline: Tenor
+lastmod: "2017-11-13T14:48:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510602336950/Jesus-Leon-Headshot-2014-Web.jpg.jpg
+publishDate: "2017-11-13T14:48:00-05:00"
+related_companies:
+- scene/companies/florida-grand-opera.md
+- scene/companies/scottish-opera.md
+- scene/companies/garsington-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-atlanta-opera.md
+slug: jesus-leon
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/tenorJesusLeon?ref=hl
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/JesusLeonTenor
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/jesusleon46/
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCoBUTg7camwpZ3mbUoXtLkQ
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/jesus-leon-1
+title: Jesús León
+website: http://www.jesusleon.com/
+cms_visible: true
+---
 
 Mexican tenor Jesús León started his vocal studies with the Cuban tenor Jesús Li. He was a student of the UCLA Opera Studio, the Solti Accademia di bel Canto, the Boston Opera Institute and the Domingo-Thornton Young Artist Program at Los Angeles Opera. In Italy he trained for two years under the guidance of the legendary soprano Mirella Freni, who granted him the Nicolai Ghiaurov scholarship.
 

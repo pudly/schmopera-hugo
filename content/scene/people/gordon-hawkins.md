@@ -1,14 +1,26 @@
-+++
-date = "2017-09-17T15:33:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-09-17T15:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505676492449/Hawkins.G.Headshot.jpg.jpg"
-publishDate = "2017-09-17T15:33:00-04:00"
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/deutsche-oper-berlin.md","scene/companies/lopra-de-montral.md","scene/companies/the-metropolitan-opera.md","scene/companies/seattle-opera.md","scene/companies/the-dallas-opera.md","scene/companies/houston-grand-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/manitoba-opera.md"]
-slug = "gordon-hawkins"
-title = "Gordon Hawkins"
-website = "http://gordon-hawkins-baritone.com/"
-+++
+---
+_template: people_single
+date: "2017-09-17T15:33:00-04:00"
+discipline: Baritone
+lastmod: "2017-09-17T15:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505676492449/Hawkins.G.Headshot.jpg.jpg
+publishDate: "2017-09-17T15:33:00-04:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/manitoba-opera.md
+slug: gordon-hawkins
+title: Gordon Hawkins
+website: http://gordon-hawkins-baritone.com/
+cms_visible: true
+---
 
 Gordon Hawkins is critically acclaimed throughout the world for his in-depth interpretations and lush baritone voice. A dramatic baritone with an international reputation as a “Rigoletto specialist,” Mr. Hawkins has delighted audiences as the tragic Verdi underdog in more than 200 performances, most recently with the Deutsche Oper am Rhein, Vancouver Opera, Washington National Opera, Arizona Opera, and Opera Colorado. He is now earning critical acclaim as a Wagner specialist: “Alberich was superbly realized by baritone Gordon Hawkins, in his [Los Angeles Opera] début. Despite wearing a grotesque puppet head and clunky boots that hobbled his movements, Hawkins delivered a sterling vocal characterization of the power-mad Nibelung.” (Opera News). He has been engaged as Alberich in Wagner’s *Der Ring des Nibelungen* at esteemed international companies including: San Francisco Opera, Los Angeles Opera, Seattle Opera, Washington National Opera, Deutsche Oper Berlin, Teatro de la Maestranza de Sevilla, and the BBC Orchestra at Royal Albert Hall in London. This season, Mr. Hawkins performs the role of Amonasro in *Aïda* with Washington National Opera and Seattle Opera; Scarpia in *Tosca* with Arizona Opera; and in concert sings the baritone solo in Mahler’s *Lieder eines fahrenden Gesellen* and Daniel Bernard Roumain’s *Harvest* with ASU Symphony Orchestra.
 

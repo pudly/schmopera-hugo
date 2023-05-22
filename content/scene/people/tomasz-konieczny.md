@@ -1,29 +1,34 @@
-+++
-date = "2017-01-11T16:53:00+00:00"
-discipline = "Bass-baritone"
-lastmod = "2017-01-11T17:04:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484153340434/2017-01-11---Tomasz-Konieczny.jpg.jpg"
-publishDate = "2017-01-11T17:04:00+00:00"
-related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/canadian-opera-company.md","scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/semperoper-dresden.md"]
-slug = "tomasz-konieczny"
-title = "Tomasz Konieczny"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/tomaszkonieczny.eu/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/tomkonieczny"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/tomasz.konieczny/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCt89uedReka90rNS5J_SXfg"
-+++
+---
+date: "2017-01-11T16:53:00+00:00"
+discipline: Bass-baritone
+lastmod: "2017-01-11T17:04:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484153340434/2017-01-11---Tomasz-Konieczny.jpg.jpg
+publishDate: "2017-01-11T17:04:00+00:00"
+related_companies:
+- scene/companies/opra-national-de-paris.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/salzburg-festival.md
+- scene/companies/semperoper-dresden.md
+slug: tomasz-konieczny
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/tomaszkonieczny.eu/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/tomkonieczny
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/tomasz.konieczny/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCt89uedReka90rNS5J_SXfg
+title: Tomasz Konieczny
+cms_visible: true
+---
 
 With his sensational success as Alberich at the Vienna State Opera and now also as Jochanaan, Wotan/Wanderer and Telramund Tomasz Konieczny has established himself at the forefront of outstanding dramatic Bass-Baritones of his generation. Besides Wotan in the Ring, Vienna has invited him to sing Mandryka, Jack Rance, Amfortas, Holländer, Scarpia, Cardillac, Pizarro, Kurwenal.
 

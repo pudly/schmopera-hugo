@@ -1,21 +1,21 @@
-+++
-discipline = "Conductor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1558744878/media/2019/05/JosephMechavich.jpg"
-primary_image_credit = ""
-related_companies = []
-slug = "joseph-mechavich"
-title = "Joseph Mechavich"
-website = ""
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Joseph-Mechavich-conductor-138355879677450"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mojoemech"
-
-+++
+---
+discipline: Conductor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1558744878/media/2019/05/JosephMechavich.jpg
+primary_image_credit: ""
+related_companies: []
+slug: joseph-mechavich
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Joseph-Mechavich-conductor-138355879677450
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/mojoemech
+title: Joseph Mechavich
+website: ""
+cms_visible: true
+---
 Conductor Joseph Mechavich’s passion and commitment to excellence in the art form has helped to forge strong personal and career-defining relationships with a number of opera companies and orchestras in the United States and abroad. Maestro Mechavich has presided over productions of _Porgy and Bess_ for Deutsche Oper Berlin, _Nixon in China_ for Auckland Philharmonia/New Zealand Opera, _Il barbiere di Siviglia_ for The Washington National Opera, _Madama Butterfly_ for New York City Opera, _Riders of the Purple Sage_ for Arizona Opera and _Roméo et Juliette_ for Florida Grand Opera. “One of the best things about this production \[Roméo et Juliette\] is the conducting of Joseph Mechavich, who led the proceedings superbly...You rarely hear this score with the kind of big-boned force with which Gounod wrote it, but Mechavich let it rip, with first rate results.” (Palm Beach Artspaper). 
 
 The 2018-19 season includes _Werther_ with Florida Grand Opera, _Dead Man Walking_ with The Atlanta Opera, _Silent Night_ with Arizona Opera, _Die Fledermaus_ with Opera Tampa, _Cavalleria rusticana/Pagliacci_ with Madison Opera, and _Die Zauberflöte_ with Kentucky Opera. Future seasons include engagements with Kentucky Opera, Minnesota Opera, Austin Opera, Arizona Opera, North Carolina Opera, and Florentine Opera.

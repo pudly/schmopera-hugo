@@ -1,27 +1,28 @@
-+++
-address = ""
-email = "info@teatronuovo.org"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1628103088/media/2021/08/Logo_TeatroNuovo_t0ovth.png"
-primary_image_credit = ""
-related_people = ["scene/people/hannah-ludwig.md", "scene/people/hans-tashjian.md"]
-slug = "teatro-nuovo"
-title = "Teatro Nuovo"
-type_of_company = "Opera Company"
-website = "https://www.teatronuovo.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/TeatroNuovoNY/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/TeatroNuovoNY"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/teatronuovony/"
-
-+++
+---
+address: ""
+email: info@teatronuovo.org
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1628103088/media/2021/08/Logo_TeatroNuovo_t0ovth.png
+primary_image_credit: ""
+related_people:
+- scene/people/hannah-ludwig.md
+- scene/people/hans-tashjian.md
+slug: teatro-nuovo
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/TeatroNuovoNY/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/TeatroNuovoNY
+- _template: company_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/teatronuovony/
+title: Teatro Nuovo
+type_of_company: Opera Company
+website: https://www.teatronuovo.org/
+cms_visible: true
+---
 Teatro Nuovo is a new organization devoted to cutting-edge interpretation of classic Italian opera. Our mission is threefold: First, to offer exciting revivals of neglected Bel Canto masterworks alongside freshly re-studied interpretations of familiar ones.  Second, to ally virtuoso singing at the highest level with historically-informed performing styles and orchestral instruments of the era. Third, to train young musicians in the special skills required to bring this thrilling repertory to life.
 
 The ensemble is being created to continue and expand the work of “Bel Canto at Caramoor,” a program that from 1997 to 2017 won steady international acclaim for its revivals of Rossini, Donizetti, Bellini, and Verdi, while also training over 500 young singers, many of them now prominent on stages worldwide.

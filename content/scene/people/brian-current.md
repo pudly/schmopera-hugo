@@ -1,18 +1,23 @@
-+++
-date = "2015-04-06T22:44:00-04:00"
-discipline = "Composer"
-lastmod = "2015-04-06T22:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374572822/BrianCurrent.jpg.jpg"
-publishDate = "2015-04-06T22:44:00-04:00"
-related_companies = ["scene/companies/soundstreams.md","scene/companies/the-bicycle-opera-project.md","scene/companies/tapestry-opera.md"]
-slug = "brian-current"
-title = "Brian Current"
-website = "http://www.briancurrent.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/bcurrent"
-+++
+---
+date: "2015-04-06T22:44:00-04:00"
+discipline: Composer
+lastmod: "2015-04-06T22:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374572822/BrianCurrent.jpg.jpg
+publishDate: "2015-04-06T22:44:00-04:00"
+related_companies:
+- scene/companies/soundstreams.md
+- scene/companies/the-bicycle-opera-project.md
+- scene/companies/tapestry-opera.md
+slug: brian-current
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/bcurrent
+title: Brian Current
+website: http://www.briancurrent.com/
+cms_visible: true
+---
 
 <p>
 	A graduate of McGill University in Montreal and U. C. Berkeley, Brian Current writes music that is brimming with energy – sometimes with the propulsive rhythms of so-called minimalist music, sometimes with a more delicate sense of flux, but almost always with a sense of motion and playfulness about the treatment of time and texture. These features have won him numerous honors, including a Guggenheim Fellowship, the Barlow Prize for Orchestral Music, and Italy's Premio Fedora for his new chamber opera <em>Airline Icarus</em>.

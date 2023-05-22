@@ -1,14 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-date = "2014-03-10T10:56:00-04:00"
-lastmod = "2015-04-26T11:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021874234/Toronto-Skyline-Photography-Wallpaper-3497.jpg.jpg"
-publishDate = "2014-03-10T10:56:00-04:00"
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/myopera.md","scene/companies/essential-opera.md","scene/companies/canadian-opera-company.md"]
-short_description = "Alright, it&#039;s Monday, and we&#039;re going to jump right in with a personal list of things to catch in Toronto as the weather warms up over the next little while."
-slug = "coming-up-in-toronto"
-title = "Coming up in Toronto"
-+++
+---
+author:
+- authors/jenna.md
+date: "2014-03-10T10:56:00-04:00"
+lastmod: "2015-04-26T11:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021874234/Toronto-Skyline-Photography-Wallpaper-3497.jpg.jpg
+publishDate: "2014-03-10T10:56:00-04:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/myopera.md
+- scene/companies/essential-opera.md
+- scene/companies/canadian-opera-company.md
+short_description: Alright, it&#039;s Monday, and we&#039;re going to jump right in
+  with a personal list of things to catch in Toronto as the weather warms up over
+  the next little while.
+slug: coming-up-in-toronto
+title: Coming up in Toronto
+---
 
 Alright, it's Monday, and we're going to jump right in with a personal list of things to catch in Toronto as the weather warms up over the next little while.
 

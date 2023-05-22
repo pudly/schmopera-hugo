@@ -1,22 +1,26 @@
-+++
-date = "2016-03-01T14:50:00+00:00"
-discipline = "Soprano"
-lastmod = "2016-03-01T14:50:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456843804220/2016-03-01---Maria-Agresta.jpg.jpg"
-publishDate = "2016-03-01T14:50:00+00:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md"]
-slug = "maria-agresta"
-title = "Maria Agresta"
-website = "http://www.mariaagresta.com/welcome/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/maria.agresta"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Maria_Agresta"
-+++
+---
+date: "2016-03-01T14:50:00+00:00"
+discipline: Soprano
+lastmod: "2016-03-01T14:50:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1456843804220/2016-03-01---Maria-Agresta.jpg.jpg
+publishDate: "2016-03-01T14:50:00+00:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/bayerische-staatsoper.md
+slug: maria-agresta
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/maria.agresta
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Maria_Agresta
+title: Maria Agresta
+website: http://www.mariaagresta.com/welcome/
+cms_visible: true
+---
 
 A winner of several music competitions, she made her debut in 2007.
 

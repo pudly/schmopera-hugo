@@ -1,19 +1,28 @@
-+++
-date = "2018-10-21T21:01:00-04:00"
-discipline = "Baritone"
-lastmod = "2018-10-21T21:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169992254/Thomas.T.Headshot.jpg.jpg"
-publishDate = "2018-10-21T21:01:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md", "scene/companies/florida-grand-opera.md", "scene/companies/the-atlanta-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/manitoba-opera.md", "scene/companies/palm-beach-opera.md", "scene/companies/nashville-opera.md", "scene/companies/opera-omaha.md"]
-slug = "todd-thomas"
-title = "Todd Thomas"
-website = "http://toddthomasbaritone.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/toddthomasbaritone/"
-
-+++
+---
+date: "2018-10-21T21:01:00-04:00"
+discipline: Baritone
+lastmod: "2018-10-21T21:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169992254/Thomas.T.Headshot.jpg.jpg
+publishDate: "2018-10-21T21:01:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/manitoba-opera.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/nashville-opera.md
+- scene/companies/opera-omaha.md
+slug: todd-thomas
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/toddthomasbaritone/
+title: Todd Thomas
+website: http://toddthomasbaritone.com/
+cms_visible: true
+---
 Recognized by opera companies and critics alike as one of the true Verdi baritones gracing stages today, Todd Thomas continues his tenure as one of America’s most sought-after artists. In the title role of **_Macbeth_**, Opera News depicted his performance as “warm and centered in his tone with subtle phrasing that emphasized the introspective, almost poetic quality of the tormented king.” Performing the role of Iago in Lyric Opera of Chicago’s season opening performance of Verdi’s **_Otello_**, “earned him deservedly the largest ovation at the end of the night from the glittery opening night audience.” (The Chicago Classical)
 
 Last season, Mr. Thomas performed the title role in **_Nabucco_** with Theater Erfurt in Germany, the title role of **_Rigoletto_** for both Florentine Opera and Florida Grand Opera, and Michele in **_Il Tabarro_** with Opera Santa Barbara. In concert, Todd performed with the North American Festival of Wales and the Bel Canto Center for the Performing Arts. This season, Thomas is invited back to the Shanghai Opera House for his captivating portrayal of **_Der fliegende Holländer_**, and perform the role of Scarpia with Florida Grand Opera, Opera Memphis, Opera on the James, and Charlottesville Opera, as well as Amonasro in Tulsa Opera’s **_Aïda_**. Additionally, Todd will be seen in concert at Opera Southwest and with Maryland Opera.

@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-04-21T20:33:00-04:00"
-lastmod = "2017-05-03T10:01:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493751481295/2017-05-02---LINDSEY-kate.jpg.jpg"
-primary_image_credit = "Baptiste Trotignon & Kate Lindsey. Photo by Richard Dumas/Alpha Classics."
-publishDate = "2017-05-03T09:44:00-04:00"
-related_people = ["scene/people/kate-lindsey.md"]
-short_description = "Listening to Thousands of Miles is a complete treat. Lindsey&#039;s clear, warm mezzo is certainly versatile, but she has also chosen her repertoire wisely. It&#039;s the sound of the Weill songs that seems to inform the rest of the music on this album; though the songs by Zemlinsky, Korngold, and Alma Mahler can easily fall in the world of late-Romantic German Lieder, there&#039;s a delicious flavour in the way Lindsey and Trotignon perform them."
-slug = "thousands-of-miles-its-raw"
-title = "Thousands of Miles: &quot;It&#039;s raw.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-04-21T20:33:00-04:00"
+lastmod: "2017-05-03T10:01:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493751481295/2017-05-02---LINDSEY-kate.jpg.jpg
+primary_image_credit: Baptiste Trotignon & Kate Lindsey. Photo by Richard Dumas/Alpha
+  Classics.
+publishDate: "2017-05-03T09:44:00-04:00"
+related_people:
+- scene/people/kate-lindsey.md
+short_description: Listening to Thousands of Miles is a complete treat. Lindsey&#039;s
+  clear, warm mezzo is certainly versatile, but she has also chosen her repertoire
+  wisely. It&#039;s the sound of the Weill songs that seems to inform the rest of
+  the music on this album; though the songs by Zemlinsky, Korngold, and Alma Mahler
+  can easily fall in the world of late-Romantic German Lieder, there&#039;s a delicious
+  flavour in the way Lindsey and Trotignon perform them.
+slug: thousands-of-miles-its-raw
+title: 'Thousands of Miles: &quot;It&#039;s raw.&quot;'
+---
 
 "We were really, really coming from two different worlds," says mezzo-soprano [Kate Lindsey](/talking-with-singers-kate-lindsey/) about working with jazz pianist [Baptiste Trotignon](http://www.baptistetrotignon.com/) to create her new album, [*Thousands of Miles*](https://www.amazon.co.uk/Thousands-Miles-Kate-Lindsey/dp/B06Y5T4BWJ/ref=sr_1_1?s=music&ie=UTF8&qid=1492278601&sr=1-1&keywords=thousands+of+miles), available **May 19th**.
 
@@ -22,7 +30,9 @@ With her early background in musical theatre, and her professional experience as
 
 "He would say, 'I think these things fit together nicely,' because as a jazz pianist, he could feel the emergence of jazz in the classical pieces." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493751533039/2017-05-02---Kate2016a--c-Richard-Dumas_Alpha-Classics.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493751533039/2017-05-02---Kate2016a--c-Richard-Dumas_Alpha-Classics.jpg.jpg)
 <figcaption>Kate Lindsey. Photo by Richard Dumas/Alpha Classics.</figcaption>
 </figure>
 

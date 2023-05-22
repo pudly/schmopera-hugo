@@ -1,21 +1,29 @@
-+++
-date = "2015-04-06T22:27:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-04-06T22:27:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428373148809/BenHeppner3-gallery-thumb-638xauto-318742.jpg.jpg"
-publishDate = "2015-04-06T22:27:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/opra-national-de-paris.md","scene/companies/royal-opera-house.md"]
-slug = "ben-heppner"
-title = "Ben Heppner"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Ben-Heppner/186631898048768"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/benheppner"
-+++
+---
+date: "2015-04-06T22:27:00-04:00"
+discipline: Tenor
+lastmod: "2015-04-06T22:27:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428373148809/BenHeppner3-gallery-thumb-638xauto-318742.jpg.jpg
+publishDate: "2015-04-06T22:27:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/royal-opera-house.md
+slug: ben-heppner
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Ben-Heppner/186631898048768
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/benheppner
+title: Ben Heppner
+cms_visible: true
+---
 
 <p>
 	Ben Heppner is a Canadian tenor, and current host of <em>Saturday Afternoon at the Opera</em> on CBC Radio 2.

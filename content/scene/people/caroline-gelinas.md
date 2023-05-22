@@ -1,15 +1,18 @@
-+++
-date = "2015-10-31T15:28:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-10-31T15:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446319670726/2015-10-31---Atelier---CarolineGelinas---Square.jpg.jpg"
-primary_image_credit = "Photo by Brent Calis"
-publishDate = "2015-10-31T15:30:00-04:00"
-related_companies = ["scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
-slug = "caroline-gelinas"
-title = "Caroline Gélinas"
-website = "http://carolinegelinas.com/"
-+++
+---
+_template: people_single
+date: "2015-10-31T15:28:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-10-31T15:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446319670726/2015-10-31---Atelier---CarolineGelinas---Square.jpg.jpg
+primary_image_credit: Photo by Brent Calis
+publishDate: "2015-10-31T15:30:00-04:00"
+related_companies:
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+slug: caroline-gelinas
+title: Caroline Gélinas
+website: http://carolinegelinas.com/
+cms_visible: true
+---
 
 An artist in residence at the Atelier Lyrique of the Opéra de Montreal, mezzo-soprano Caroline Gélinas is a of Abitibi-Témiscamingue. Since 2012, she has been heard in the Mozart's *Requiem*, Rossini's *La petite messe solennelle* and the Handel's *Messiah* with the Conservatory Chorus and Orchestra and the Polyphonic Choir of Montreal under the direction of Louis Lavigueur. She also gave several concerts in her hometown including a concert at the Théâtre du cuivre with Jeunesses Musicales du Canada. 
 

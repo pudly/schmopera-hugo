@@ -1,18 +1,29 @@
-+++
-date = "2017-09-15T22:11:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-09-15T22:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505527828855/Brenton_Ryan_noPC_d_300dpi.jpg.jpg"
-publishDate = "2017-09-15T22:11:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/wolf-trap-opera.md","scene/companies/houston-grand-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-dallas-opera.md","scene/companies/the-santa-fe-opera.md"]
-slug = "brenton-ryan"
-title = "Brenton Ryan"
-website = "http://brentonryan.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/brenton_tenor"
-+++
+---
+date: "2017-09-15T22:11:00-04:00"
+discipline: Tenor
+lastmod: "2017-09-15T22:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505527828855/Brenton_Ryan_noPC_d_300dpi.jpg.jpg
+publishDate: "2017-09-15T22:11:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/the-santa-fe-opera.md
+slug: brenton-ryan
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/brenton_tenor
+title: Brenton Ryan
+website: http://brentonryan.com/
+cms_visible: true
+---
 
 Winner of the Birgit Nilsson prize at the 2016 Operalia competition, tenor Brenton Ryan is hailed by Opera News for his “remarkable tonal suavity and refined phrasing,” and is quickly establishing himself as a singer of great vocal diversity and dramatic depth. The 2017-18 season sees Mr. Ryan’s return to the Metropolitan Opera as ‘Spoletta’ in a new production of *Tosca* directed by Sir David McVicar, conducted by James Levine, which will be broadcast to theatres around the world as part of the Met’s Live in HD program. Mr. Ryan also makes his house debut with Opera Philadelphia as ‘Monostatos’ in the Barrie Kosky production of *Die Zauberflöte*, and his house debut with Santa Fe Opera singing the role of ‘Dancing Master’ in *Ariadne auf Naxos*, and covering the role of ‘Goro’ in *Madama Butterfly*. Additional engagements include his house debut with Dallas Opera singing both ‘Gastone’ in *La Traviata* and ‘Florian’ in *Der ring des Polykrates*, as well as a return to LA Opera singing ‘John Wormley’ in a concert performance of Matthew Aucoin’s *The Crossing*.  
 

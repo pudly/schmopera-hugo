@@ -1,17 +1,19 @@
-+++
-date = "2015-04-07T22:53:00-04:00"
-discipline = "Composer"
-lastmod = "2015-04-07T22:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428461565887/Screen-Shot-2015-02-24-at-10.05.16-AM.png.png"
-publishDate = "2015-04-07T22:53:00-04:00"
-slug = "kieren-macmillan"
-title = "Kieren MacMillan"
-website = "http://kierenmacmillan.info/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/KMac_Composer"
-+++
+---
+date: "2015-04-07T22:53:00-04:00"
+discipline: Composer
+lastmod: "2015-04-07T22:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428461565887/Screen-Shot-2015-02-24-at-10.05.16-AM.png.png
+publishDate: "2015-04-07T22:53:00-04:00"
+slug: kieren-macmillan
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/KMac_Composer
+title: Kieren MacMillan
+website: http://kierenmacmillan.info/
+cms_visible: true
+---
 
 <p>
 	Kieren enjoys an active musical career on both sides of the score.

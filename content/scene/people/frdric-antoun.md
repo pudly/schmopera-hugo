@@ -1,13 +1,22 @@
-+++
-date = "2015-12-30T15:58:00-05:00"
-discipline = "Tenor"
-lastmod = "2015-12-30T16:00:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451508943746/2015-12-30---Frederic-Antoun.jpg.jpg"
-publishDate = "2015-12-30T15:58:00-05:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/lopra-de-montral.md","scene/companies/royal-opera-house.md","scene/companies/la-monnaie.md","scene/companies/florida-grand-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/the-metropolitan-opera.md"]
-slug = "frdric-antoun"
-title = "Frédéric Antoun"
-+++
+---
+_template: people_single
+date: "2015-12-30T15:58:00-05:00"
+discipline: Tenor
+lastmod: "2015-12-30T16:00:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451508943746/2015-12-30---Frederic-Antoun.jpg.jpg
+publishDate: "2015-12-30T15:58:00-05:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/royal-opera-house.md
+- scene/companies/la-monnaie.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/the-metropolitan-opera.md
+slug: frdric-antoun
+title: Frédéric Antoun
+cms_visible: true
+---
 
 A native of Quebec, Frédéric Antoun studied singing at the prestigious Curtis Institute of Music, Philadelphia.
 

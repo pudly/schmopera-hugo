@@ -1,15 +1,20 @@
-+++
-date = "2015-04-12T12:39:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-04-12T17:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428856601342/Celine%2520Portrait.jpg.jpg"
-primary_image_credit = "Pierre-Etienne Bergeron"
-publishDate = "2015-04-12T12:39:00-04:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/lopra-de-montral.md","scene/companies/opera-atelier.md"]
-slug = "mireille-lebel"
-title = "Mireille Lebel"
-website = "http://www.mireillelebel.com/"
-+++
+---
+_template: people_single
+date: "2015-04-12T12:39:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-04-12T17:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428856601342/Celine%2520Portrait.jpg.jpg
+primary_image_credit: Pierre-Etienne Bergeron
+publishDate: "2015-04-12T12:39:00-04:00"
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/opera-atelier.md
+slug: mireille-lebel
+title: Mireille Lebel
+website: http://www.mireillelebel.com/
+cms_visible: true
+---
 
 <p>
 	Canadian mezzo−soprano Mireille Lebel grew up in Vancouver and studied music at the University of Toronto and the University of Montreal. Following her studies she was awarded major grants by the Canada Council and the Jacqueline Desmarais Foundation and furthered her artistic training as a member of the Atelier Lyrique de l'Opéra de Montréal. In 2009, she was a winner of the Jeunes Ambassadeurs Lyriques Competition that earned her an invitation to join the Ensemble of Theater Erfurt. Throughout her time in the Ensemble, she sang leading roles in the lyric mezzo <em>fach</em>. She is now making critically successful debuts with opera companies and orchestras in Europe and North America.

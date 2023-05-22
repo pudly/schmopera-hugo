@@ -1,17 +1,19 @@
-+++
-date = "2017-02-03T10:41:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-02-03T10:45:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486118466796/2017-02-03---Madeleine-Shaw.jpg.jpg"
-primary_image_credit = "Zoe Barling"
-publishDate = "2017-02-03T10:41:00+00:00"
-slug = "madeleine-shaw"
-title = "Madeleine Shaw"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/maudalicious"
-+++
+---
+date: "2017-02-03T10:41:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2017-02-03T10:45:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486118466796/2017-02-03---Madeleine-Shaw.jpg.jpg
+primary_image_credit: Zoe Barling
+publishDate: "2017-02-03T10:41:00+00:00"
+slug: madeleine-shaw
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/maudalicious
+title: Madeleine Shaw
+cms_visible: true
+---
 
 Samling Artist Madeleine Shaw studied at the RSAMD and the National Opera Studio supported by English National Opera. Madeleine was subsequently part of the Young Singers Programme at ENO.
 

@@ -1,15 +1,23 @@
-+++
-date = "2016-04-27T10:59:00+01:00"
-discipline = "Baritone"
-lastmod = "2016-04-27T10:59:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461751159646/2016-04-27---Christian-Gerhaher.jpg.jpg"
-primary_image_credit = "Jim Rakete for Sony Classical"
-publishDate = "2016-04-27T10:59:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/salzburg-festival.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/staatsoper-berlin.md"]
-slug = "christian-gerhaher"
-title = "Christian Gerhaher"
-website = "http://www.gerhaher.de/index.php/en/"
-+++
+---
+_template: people_single
+date: "2016-04-27T10:59:00+01:00"
+discipline: Baritone
+lastmod: "2016-04-27T10:59:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1461751159646/2016-04-27---Christian-Gerhaher.jpg.jpg
+primary_image_credit: Jim Rakete for Sony Classical
+publishDate: "2016-04-27T10:59:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/salzburg-festival.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/staatsoper-berlin.md
+slug: christian-gerhaher
+title: Christian Gerhaher
+website: http://www.gerhaher.de/index.php/en/
+cms_visible: true
+---
 
 During his studies under Paul Kuen and Raimund Grumbach, German baritone Christian Gerhaher attended the Opera School of the Academy of Music in Munich and, together with his regular piano partner Gerold Huber, studied lied interpretation with Friedemann Berger. While completing his medical studies Christian Gerhaher perfected his vocal training in master-classes given by Dietrich Fischer-Dieskau, Elisabeth Schwarzkopf and Inge Borkh. At present Christian Gerhaher himself teaches in select master-classes and is an honorary professor at the Academy of Music in Munich. He holds the Bavarian Maximilian Order for Science and Art.
 

@@ -1,17 +1,31 @@
-+++
-author = ["authors/christopher-enns.md"]
-categories = "Op-ed"
-date = "2016-11-15T13:28:00+00:00"
-lastmod = "2016-11-16T10:05:00+00:00"
-preamble = "This is the first in a series of posts written by Christopher Enns, Canadian tenor and financial planner/coach. His work is all about \"money help for artists,\" and for more writing and resources, head over to his blog, [Rags to Reasonable.](http://www.ragstoreasonable.com/)"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479222976820/2016-11-16---Money.jpg.jpg"
-publishDate = "2016-11-16T10:05:00+00:00"
-related_articles = ["articles/rags-to-reasonables-personal-finance-holy-grail.md","articles/why-mezza-voce-and-budgets-really-dont-matter.md","articles/what-i-learned-about-money-from-enrico-caruso.md","articles/what-are-your-irrational-stage-fears.md"]
-related_people = ["scene/people/christopher-enns.md"]
-short_description = "A money technique is built in the same way, by investing hours of time into building solid fundamentals. Instead of breath, it&#039;s cashflow (the daily ins and outs of your money), instead of onsets it&#039;s deliberate decision making (learning to stop making default money decisions and make the ones you really want), and instead of working with someone to lift your soft palette, you work with someone to find one of a thousand little ways you can make your money life easier (by building a safety net, learning to save, and eliminating debt)."
-slug = "what-crippling-stage-fright-taught-me-about-money"
-title = "What crippling stage fright taught me about money"
-+++
+---
+author:
+- authors/christopher-enns.md
+categories: Op-ed
+date: "2016-11-15T13:28:00+00:00"
+lastmod: "2016-11-16T10:05:00+00:00"
+preamble: This is the first in a series of posts written by Christopher Enns, Canadian
+  tenor and financial planner/coach. His work is all about "money help for artists,"
+  and for more writing and resources, head over to his blog, [Rags to Reasonable.](http://www.ragstoreasonable.com/)
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479222976820/2016-11-16---Money.jpg.jpg
+publishDate: "2016-11-16T10:05:00+00:00"
+related_articles:
+- articles/rags-to-reasonables-personal-finance-holy-grail.md
+- articles/why-mezza-voce-and-budgets-really-dont-matter.md
+- articles/what-i-learned-about-money-from-enrico-caruso.md
+- articles/what-are-your-irrational-stage-fears.md
+related_people:
+- scene/people/christopher-enns.md
+short_description: A money technique is built in the same way, by investing hours
+  of time into building solid fundamentals. Instead of breath, it&#039;s cashflow
+  (the daily ins and outs of your money), instead of onsets it&#039;s deliberate decision
+  making (learning to stop making default money decisions and make the ones you really
+  want), and instead of working with someone to lift your soft palette, you work with
+  someone to find one of a thousand little ways you can make your money life easier
+  (by building a safety net, learning to save, and eliminating debt).
+slug: what-crippling-stage-fright-taught-me-about-money
+title: What crippling stage fright taught me about money
+---
 
 For the last 5 years I've been battling some fairly serious stage fright. 
 
@@ -35,7 +49,9 @@ I couldn't leave this thing that used to bring me so much joy… at least not li
 
 So. I found a new teacher and we got to work - by painstakingly building up my technique and my shattered confidence.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479221132217/2016-11-16---Stage-Fright-1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479221132217/2016-11-16---Stage-Fright-1.jpg.jpg)
 </figure>
 
 **Technique is a funny thing.**

@@ -1,22 +1,26 @@
-+++
-date = "2016-06-14T22:31:00-06:00"
-discipline = "Soprano"
-lastmod = "2016-06-14T22:31:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465964977439/2016-06-14---Fenlon.jpg.jpg"
-publishDate = "2016-06-14T22:31:00-06:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md","scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-slug = "rachel-fenlon"
-title = "Rachel Fenlon"
-website = "http://www.rachelfenlonsoprano.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/rfenlon"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/rfenlon/"
-+++
+---
+date: "2016-06-14T22:31:00-06:00"
+discipline: Soprano
+lastmod: "2016-06-14T22:31:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465964977439/2016-06-14---Fenlon.jpg.jpg
+publishDate: "2016-06-14T22:31:00-06:00"
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/vancouver-operas-yulanda-m-faris-young-artists-program.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+slug: rachel-fenlon
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/rfenlon
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/rfenlon/
+title: Rachel Fenlon
+website: http://www.rachelfenlonsoprano.com/
+cms_visible: true
+---
 
 Berlin-based soprano, Rachel Fenlon, is an artist on the rise. Quickly establishing herself in the operatic repertoire of Mozart, Handel, and Rossini; in the vast lied repertoire, from French and German to contemporary English works, and in demand as an oratorio soloist, Rachel enjoys a diverse and uniquely varied solo career. 
  

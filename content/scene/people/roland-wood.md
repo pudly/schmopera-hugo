@@ -1,13 +1,21 @@
-+++
-date = "2018-02-05T12:04:00-05:00"
-discipline = "Baritone"
-lastmod = "2018-02-05T12:04:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517850174972/wood-20aug08-052_700x650.jpg.jpg"
-publishDate = "2018-02-05T12:04:00-05:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/glyndebourne.md","scene/companies/scottish-opera.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/the-santa-fe-opera.md"]
-slug = "roland-wood"
-title = "Roland Wood"
-+++
+---
+_template: people_single
+date: "2018-02-05T12:04:00-05:00"
+discipline: Baritone
+lastmod: "2018-02-05T12:04:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517850174972/wood-20aug08-052_700x650.jpg.jpg
+publishDate: "2018-02-05T12:04:00-05:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/glyndebourne.md
+- scene/companies/scottish-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/english-national-opera.md
+- scene/companies/the-santa-fe-opera.md
+slug: roland-wood
+title: Roland Wood
+cms_visible: true
+---
 
 Roland Wood was born in Berkshire and studied at the Royal Northern College of Music with Patrick McGuigan and Robert Alderson, then at the National Opera Studio. He was the winner of the 1998 Webster Booth Prize and the 1999 Frederick Cox Award, and was also awarded Second Prize in the 2000 Kathleen Ferrier Memorial Awards.
 

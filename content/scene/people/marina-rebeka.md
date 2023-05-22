@@ -1,23 +1,30 @@
-+++
-date = "2016-10-21T12:42:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-10-21T12:44:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049624542/2016-10-21---Marina-Rebeka-Janis-Deinats.jpg.jpg"
-primary_image_credit = "Jãnis Deinats"
-publishDate = "2016-10-21T12:42:00+01:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/opernhaus-zurich.md","scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md"]
-slug = "marina-rebeka"
-title = "Marina Rebeka"
-website = "http://marinarebeka.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/marinarebekasoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/marinarebeka"
-+++
+---
+date: "2016-10-21T12:42:00+01:00"
+discipline: Soprano
+lastmod: "2016-10-21T12:44:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477049624542/2016-10-21---Marina-Rebeka-Janis-Deinats.jpg.jpg
+primary_image_credit: Jãnis Deinats
+publishDate: "2016-10-21T12:42:00+01:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/wiener-staatsoper.md
+slug: marina-rebeka
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/marinarebekasoprano
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/marinarebeka
+title: Marina Rebeka
+website: http://marinarebeka.com/
+cms_visible: true
+---
 
 Latvian soprano Marina Rebeka is widely regarded as one of the most exceptional artists of our time. Her performances as Violetta in Verdi's *La traviata* are heralded as definitive portrayals of the role, and she is frequently lauded as a leading Rossini and Mozart singer of her generation.
 

@@ -1,27 +1,34 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = 2022-01-29T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1643292055/media/2022/01/sqBLO-2022-Svadba_jzlfxx.jpg"
-primary_image_credit = ""
-related_articles = ["articles/kristin-hoffs-love-songs.md"]
-related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/boston-lyric-opera-1.md"]
-related_people = []
-short_description = "I have a special spot in my heart for this 2011 opera, often billed as Svadba-Wedding. I saw it in what I believe was it's earliest stages, in rehearsals for the first performance with Queen of Puddings Theatre in Toronto."
-slug = "canadian-pride-bostons-svadba-looks-like-a-must-watch"
-title = "Canadian pride: Boston's Svadba looks like a must-watch"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2022-01-29T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1643292055/media/2022/01/sqBLO-2022-Svadba_jzlfxx.jpg
+primary_image_credit: ""
+related_articles:
+- articles/kristin-hoffs-love-songs.md
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/boston-lyric-opera-1.md
+related_people: []
+short_description: I have a special spot in my heart for this 2011 opera, often billed
+  as Svadba-Wedding. I saw it in what I believe was it's earliest stages, in rehearsals
+  for the first performance with Queen of Puddings Theatre in Toronto.
+slug: canadian-pride-bostons-svadba-looks-like-a-must-watch
+title: 'Canadian pride: Boston''s Svadba looks like a must-watch'
+youtube_url: ""
+---
 Now out on operabox.tv is [Boston Lyric Opera](/scene/companies/boston-lyric-opera/)'s production of [_Svadba_](https://blo.org/operaboxtv/), the _a cappella_ opera for six women by Serbian-Canadian composer Ana Sokolović - and it's a must-see.
 
 The trailer for this digital production is out now, and it looks like a beautiful take on this piece:
 
-<figure data-type="video">{{% md %}}<iframe width="997" height="561" src="https://www.youtube.com/embed/_TA8hCUnXMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{% /md %}}
+<figure data-type="video">
+
+<iframe width="997" height="561" src="https://www.youtube.com/embed/_TA8hCUnXMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </figure>
 

@@ -1,27 +1,37 @@
-+++
-date = "2017-05-02T13:21:00-04:00"
-discipline = "Countertenor"
-lastmod = "2017-05-02T13:23:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493745454770/2017-05-02---Iestyn-Davies-1.jpg.jpg"
-primary_image_credit = "Marco Borggreve"
-publishDate = "2017-05-02T13:21:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/glyndebourne.md","scene/companies/opernhaus-zurich.md","scene/companies/the-metropolitan-opera.md","scene/companies/welsh-national-opera.md","scene/companies/english-national-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/salzburg-festival.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md"]
-slug = "iestyn-davies"
-title = "Iestyn Davies"
-website = "http://www.iestyndavies.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/iestyndaviescountertenor/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/iestyn_davies"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCV4ajzjU8aQwCdEdWUcP-gA"
-+++
+---
+date: "2017-05-02T13:21:00-04:00"
+discipline: Countertenor
+lastmod: "2017-05-02T13:23:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493745454770/2017-05-02---Iestyn-Davies-1.jpg.jpg
+primary_image_credit: Marco Borggreve
+publishDate: "2017-05-02T13:21:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/glyndebourne.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/salzburg-festival.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+slug: iestyn-davies
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/iestyndaviescountertenor/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/iestyn_davies
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCV4ajzjU8aQwCdEdWUcP-gA
+title: Iestyn Davies
+website: http://www.iestyndavies.com/
+cms_visible: true
+---
 
 After graduating in Archaeology and Anthropology from St John’s College, Cambridge Iestyn Davies studied at the Royal Academy of Music, London.
 

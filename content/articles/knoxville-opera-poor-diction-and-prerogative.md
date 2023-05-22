@@ -1,14 +1,21 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2015-12-02T21:04:00-05:00"
-lastmod = "2015-12-10T10:43:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449760789153/2015-12-09---Bijou.jpg.jpg"
-publishDate = "2015-12-10T10:35:00-05:00"
-short_description = "There are assumptions being made about the phrase, &quot;age appropriate, attractive artists,&quot; the first of which is that it&#039;s synonymous with saying, &quot;no ugly, old singers allowed.&quot; Age appropriate can mean not too old to pass for a character in La bohème (including Benoit, I figure), or not too young to sing Rodolfo right to the end. &quot;Attractive&quot; could mean a lot of things, but Knoxville Opera didn&#039;t specify what; they also didn&#039;t say that they were planning to prioritize physical attractiveness over vocal. "
-slug = "knoxville-opera-poor-diction-and-prerogative"
-title = "Knoxville Opera, poor diction, and prerogative"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2015-12-02T21:04:00-05:00"
+lastmod: "2015-12-10T10:43:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449760789153/2015-12-09---Bijou.jpg.jpg
+publishDate: "2015-12-10T10:35:00-05:00"
+short_description: 'There are assumptions being made about the phrase, &quot;age appropriate,
+  attractive artists,&quot; the first of which is that it&#039;s synonymous with saying,
+  &quot;no ugly, old singers allowed.&quot; Age appropriate can mean not too old to
+  pass for a character in La bohème (including Benoit, I figure), or not too young
+  to sing Rodolfo right to the end. &quot;Attractive&quot; could mean a lot of things,
+  but Knoxville Opera didn&#039;t specify what; they also didn&#039;t say that they
+  were planning to prioritize physical attractiveness over vocal. '
+slug: knoxville-opera-poor-diction-and-prerogative
+title: Knoxville Opera, poor diction, and prerogative
+---
 
 Singers reacted boldly to the [YAP Tracker posting](http://slippedisc.com/2015/12/ugly-old-singers-need-not-apply/) by Knoxville opera last week, which mentioned in their audition call, "Knoxville Opera will cast age appropriate, attractive artists in these roles."
 

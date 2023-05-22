@@ -1,14 +1,18 @@
-+++
-date = "2018-10-22T12:30:00-04:00"
-discipline = "Tenor"
-lastmod = "2018-10-22T12:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540225728152/DSC_5185.jpg.jpg"
-publishDate = "2018-10-22T12:30:00-04:00"
-related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/edmonton-opera.md"]
-slug = "jason-bridges"
-title = "Jason Bridges"
-website = "http://www.jasonbridges.com/"
-+++
+---
+_template: people_single
+date: "2018-10-22T12:30:00-04:00"
+discipline: Tenor
+lastmod: "2018-10-22T12:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540225728152/DSC_5185.jpg.jpg
+publishDate: "2018-10-22T12:30:00-04:00"
+related_companies:
+- scene/companies/opra-national-de-paris.md
+- scene/companies/edmonton-opera.md
+slug: jason-bridges
+title: Jason Bridges
+website: http://www.jasonbridges.com/
+cms_visible: true
+---
 
 Jason is establishing himself as an internationally renowned young tenor. Born in Pennsylvania, he began his musical training at the Eastman School of Music in Rochester, NY. He continued his education at the Royal Conservatoire of Scotland in Glasgow on the MMus Opera Masters program. There, Jason was awarded the International Scholarship for Opera Singers. Vocal instructors throughout his studies include Seth McCoy, Dale Moore, Peter Alexander Wilson and Nicolai Gedda.
 

@@ -1,19 +1,36 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2015-11-20T09:34:00-05:00"
-lastmod = "2015-11-20T12:47:00-05:00"
-preamble = "Contributor [Greg Finney](/scene/people/gregory-finney/) and I went to Tapestry Opera's opening of Tap:Ex Metallurgy last night. It was one of those shows where one review didn't seem to do it justice. So, here's our She said/He said account of one of the coolest operatic events we'd ever seen."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448034556710/2015-11-20---TapEx---square---David-Pomeroy%2C-Krisztina-Szab%C3%B3-and-Mike-Haliechuk-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz.jpg.jpg"
-primary_image_credit = "David Pomeroy, Krisztina Szabó, and Mike Haliechuk in Tap:Ex Metallurgy. Photo by Dahlia Katz."
-publishDate = "2015-11-20T12:46:00-05:00"
-related_articles = ["articles/the-positive-impact-of-community-created-performances.md","articles/dont-miss-tapex-forbidden-we-are-tough-and-resilient.md","articles/a-wellexecuted-mashup-tapex-forbidden.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/krisztina-szab.md","scene/people/david-pomeroy.md","scene/people/michael-mori.md"]
-short_description = "Contributor Greg Finney and I went to Tapestry Opera&#039;s opening of Tap:Ex Metallurgy last night. It was one of those shows where one review didn&#039;t seem to do it justice. So, here&#039;s our She said/He said account of one of the coolest operatic events we&#039;d ever seen."
-slug = "he-saidshe-said-tapex-metallurgy"
-title = "He said/she said: Tap:Ex Metallurgy"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2015-11-20T09:34:00-05:00"
+lastmod: "2015-11-20T12:47:00-05:00"
+preamble: Contributor [Greg Finney](/scene/people/gregory-finney/) and I went to Tapestry
+  Opera's opening of Tap:Ex Metallurgy last night. It was one of those shows where
+  one review didn't seem to do it justice. So, here's our She said/He said account
+  of one of the coolest operatic events we'd ever seen.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448034556710/2015-11-20---TapEx---square---David-Pomeroy%2C-Krisztina-Szab%C3%B3-and-Mike-Haliechuk-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz.jpg.jpg
+primary_image_credit: David Pomeroy, Krisztina Szabó, and Mike Haliechuk in Tap:Ex
+  Metallurgy. Photo by Dahlia Katz.
+publishDate: "2015-11-20T12:46:00-05:00"
+related_articles:
+- articles/the-positive-impact-of-community-created-performances.md
+- articles/dont-miss-tapex-forbidden-we-are-tough-and-resilient.md
+- articles/a-wellexecuted-mashup-tapex-forbidden.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/krisztina-szab.md
+- scene/people/david-pomeroy.md
+- scene/people/michael-mori.md
+short_description: Contributor Greg Finney and I went to Tapestry Opera&#039;s opening
+  of Tap:Ex Metallurgy last night. It was one of those shows where one review didn&#039;t
+  seem to do it justice. So, here&#039;s our She said/He said account of one of the
+  coolest operatic events we&#039;d ever seen.
+slug: he-saidshe-said-tapex-metallurgy
+title: 'He said/she said: Tap:Ex Metallurgy'
+---
 
 ## She said:
 
@@ -23,7 +40,9 @@ Tapestry's studio in the Distillery District had new white walls, but a familiar
 
 The whole night had a crazy feeling of naturalism about it, heightened by the awesome lighting design (kudos to production designer David DeGrow), flashing saturated colours that felt retro in a great way. *Metallurgy A* is the story of a couple dealing with the loss of a child; they grieve, argue, and they miss their daughter. It's all the stuff of opera, of course, plus a few microphones and more guitars. Falco and Haliechuk must have been inspired by the sounds of Szabó and Pomeroy; they wrote heroic lines for both of them to sing, using the most exciting parts of their voices. Pomeroy's stuff could have been out of *Otello* or *Werther*, and Szabó was playing the dramatic soprano for the night. It seemed like this music was the culmination of imagination and major skill; punk rockers aren't known for their acoustic vocal power, and I could hear their reverence of what these opera singers could do.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448039891849/2015-11-20---TapEx---resized---Krisztina-Szab%C3%B3-and-Mike-Haliechuk-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz.jpg.jpg)<figcaption>Krisztina Szabó and Mike Haliechuk in *Tap:Ex Metallurgy*. Photo by Dahlia Katz.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448039891849/2015-11-20---TapEx---resized---Krisztina-Szab%C3%B3-and-Mike-Haliechuk-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz.jpg.jpg)<figcaption>Krisztina Szabó and Mike Haliechuk in *Tap:Ex Metallurgy*. Photo by Dahlia Katz.</figcaption>
 </figure>
 
 *Metallurgy A* had a timeless, earthy sound to it, with a smart musical arc throughout. One by one, orchestra members stopped playing and calmly left the studio. At the end, Szabó was left with violinist Yoobin Ahn, a picture of a mother and her ghostly daughter. It was thoughtful stuff, but more importantly, it was viscerally affecting. It sounds silly, but the sound of an electric guitar can be nostalgic like nothing else. The same goes for singing with microphones, oddly enough. Pomeroy and Szabó used the mics well, including on the soft end; it felt more real, and more familiar. Listening to it was a series of lightbulb moments in how to solve those pesky questions about opera's relevance.
@@ -34,7 +53,9 @@ It was such a touching show. It was polished and thoughtful, but at the same tim
 
 I'm off to go listen to some [Fucked Up](http://fuckedup.cc/music/), now.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448039965814/2015-11-20---TapEx---Resized---Jordan-de-Souza-in-TAP-EX-METALLURGY-Photo-by-Dahlia-Katz.jpg.jpg)<figcaption>Music Director Jordan de Souza in *Tap:Ex Metallurgy*. Photo by Dahlia Katz.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448039965814/2015-11-20---TapEx---Resized---Jordan-de-Souza-in-TAP-EX-METALLURGY-Photo-by-Dahlia-Katz.jpg.jpg)<figcaption>Music Director Jordan de Souza in *Tap:Ex Metallurgy*. Photo by Dahlia Katz.</figcaption>
 </figure>
 
 ## He said:
@@ -51,7 +72,9 @@ We were greeted by the Tapestry family as we arrived, and brought to our seats c
 
 The show started with a piece created with the members of art-punk band Fucked Up! (the band whose frontman, Damian Abraham, moderated our Toronto Mayor's Arts debate during the "Fall of the Fords" with *astounding* success). Members Mike Haliechuck, Josh Zucker and Jonah Falco (all three earn a resounding #tripleswoontimesinfinity) worked with Michael Mori to create a rather beautiful, lyric piece. The voices of [David Pomeroy](/scene/people/david-pomeroy/) and [Krisztina Szabó](/scene/people/krisztina-szabo/) suited the colour palette perfectly. There were delicious washes of colour and sound, and probably the most intelligent use of synthesizer in classical music that I've seen yet. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448040087356/2015-11-20---resized---Jonah-Falco-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz.jpg.jpg)<figcaption>Jonah Falco in *Tap:Ex Metallurgy*. Photo by Dahlia Katz.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448040087356/2015-11-20---resized---Jonah-Falco-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz.jpg.jpg)<figcaption>Jonah Falco in *Tap:Ex Metallurgy*. Photo by Dahlia Katz.</figcaption>
 </figure>
 
 Coming in at around 30 minutes long, the piece plays almost as sort of a concept album in front of you, with musicians straight-up taking their instruments and leaving the stage during the denouement of the piece. It didn't have a clearly delineated narrative, but I was okay with that. The poetry was a little abstract, but it lent itself wonderfully to the sounds and colours created by these two great singers. The boys in Fucked Up really dove headlong first into this foray and were wildly successful. I'm definitely left thinking there should be WAY more electric guitar in today's opera. 
@@ -60,7 +83,9 @@ The second half was a piece composed by one of my local favourites [Ivan Barboti
 
 As always, Szabó blew my mind. Her instrument is one-of-a-kind and she has cemented herself as a darling of Canadian experimental music and opera, and we really couldn't be luckier. Her sensibility and sensitivity to the material is truly inspiring, and even though she claimed to be under the weather, still sang like a goddess from Seventh Heaven. David Pomeroy, in my opinion a seriously under-rated singer here in town, sang with a free open tone that was both relaxing and invigorating. His command of his middle register, which is always something I watch for with higher voices, was on point. He sang the whole night incredibly well, and I hope he's as stoked about his performance as I was. Bravo, signor. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448040192083/2015-11-20---resized---David-Pomeroy-and-Krisztina-Szab%C3%B3-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz-4.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448040192083/2015-11-20---resized---David-Pomeroy-and-Krisztina-Szab%C3%B3-in-TAP-EX-METALLURGY-photo-by-Dahlia-Katz-4.jpg.jpg)
 <figcaption>David Pomeroy and Krisztina Szabó in *Tap:Ex Metallurgy*. Photo by Dahlia Katz.</figcaption>
 </figure>
 

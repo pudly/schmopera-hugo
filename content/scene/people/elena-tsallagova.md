@@ -1,18 +1,26 @@
-+++
-date = "2017-01-21T11:51:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-01-21T11:55:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484999448540/2017-01-20---Elena_Tsallagova_pc_Allan_Richard_Tobis.jpg.jpg"
-primary_image_credit = "Allan Richard Tobis"
-publishDate = "2017-01-21T11:55:00+00:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/glyndebourne.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md"]
-slug = "elena-tsallagova"
-title = "Elena Tsallagova"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/tsallagovaelena?lang=en"
-+++
+---
+date: "2017-01-21T11:51:00+00:00"
+discipline: Soprano
+lastmod: "2017-01-21T11:55:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484999448540/2017-01-20---Elena_Tsallagova_pc_Allan_Richard_Tobis.jpg.jpg
+primary_image_credit: Allan Richard Tobis
+publishDate: "2017-01-21T11:55:00+00:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/salzburg-festival.md
+- scene/companies/glyndebourne.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/opra-national-de-paris.md
+slug: elena-tsallagova
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/tsallagovaelena?lang=en
+title: Elena Tsallagova
+cms_visible: true
+---
 
 Elena Tsallagova was born in Vladikavkaz, southern Russia.  She was awarded a bursary to attend the famous Saint Petersburg Conservatory and went on to sing several roles at the Mariinsky Theatre (*Le Coq d’Or*, *Suor Angelica*).
 

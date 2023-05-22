@@ -1,24 +1,28 @@
-+++
-date = "2017-12-29T21:01:00-05:00"
-discipline = "Conductor"
-lastmod = "2017-12-29T21:01:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546738228/media/2019/01/AlexanderJoel.jpg"
-primary_image_credit = "Julia Wesely."
-publishDate = "2017-12-29T21:01:00-05:00"
-related_companies = ["scene/companies/vlaamse-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/staatsoper-berlin.md", "scene/companies/deutsche-oper-berlin.md"]
-slug = "alexander-joel"
-title = "Alexander Joel"
-website = "http://www.alexanderjoel.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/alexander.joel1"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/alexjoel100"
-
-+++
+---
+date: "2017-12-29T21:01:00-05:00"
+discipline: Conductor
+lastmod: "2017-12-29T21:01:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546738228/media/2019/01/AlexanderJoel.jpg
+primary_image_credit: Julia Wesely.
+publishDate: "2017-12-29T21:01:00-05:00"
+related_companies:
+- scene/companies/vlaamse-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/deutsche-oper-berlin.md
+slug: alexander-joel
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/alexander.joel1
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/alexjoel100
+title: Alexander Joel
+website: http://www.alexanderjoel.com/
+cms_visible: true
+---
 Alexander Joel is renowned for the great integrity and verisimilitude in his approach to a remarkably varied operatic and symphonic repertoire. His ability to draw rare depth of sound and a vast array of colours from orchestras while enabling passion and loyalty from the players is repeatedly noted. Joel’s talent for inspiring orchestras to achieve great freedom within the context of architectural musical structure has led to his regular guest appearances with the highest level of opera company and symphony orchestra around Europe, including the Royal Opera House, Covent Garden.
 
 Joel’s 2016/17 season started with a highly acclaimed new Andrea Breth production of _Manon Lescaut_ for the Dutch National Opera with Eva-Maria Westbroek and the Netherlands Philharmonic Orchestra, followed by a complete new _Ring cycle_ at the Staatstheater Wiesbaden, directed by Uwe Laufenberg, and a new production of _Simon Boccanegra_ at the Opera Opera Vlaanderen in Antwerp, where in this season he has been appointed Principal Guest Conductor.

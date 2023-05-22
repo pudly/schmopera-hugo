@@ -1,18 +1,20 @@
-+++
-date = "2015-04-18T18:36:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-04-18T18:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429396544316/1df0f6_ee56f8ab56ae4491a3a231239327e1d6.jpg_srz_p_970_903_75_22_0.50_1.20_0.00_jpg_srz"
-primary_image_credit = "Photo by Jessica Lane"
-publishDate = "2015-04-18T18:36:00-04:00"
-slug = "peter-bass"
-title = "Peter Bass"
-website = "http://www.peterbass.ca/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ThePeterBass"
-+++
+---
+date: "2015-04-18T18:36:00-04:00"
+discipline: Baritone
+lastmod: "2015-04-18T18:36:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429396544316/1df0f6_ee56f8ab56ae4491a3a231239327e1d6.jpg_srz_p_970_903_75_22_0.50_1.20_0.00_jpg_srz
+primary_image_credit: Photo by Jessica Lane
+publishDate: "2015-04-18T18:36:00-04:00"
+slug: peter-bass
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ThePeterBass
+title: Peter Bass
+website: http://www.peterbass.ca/
+cms_visible: true
+---
 
 Peter Bass is a baritone based out of Toronto. Originally from Edmonton, Alberta, Peter recently completed his Bachelor of Music in Voice Performance at the University of Toronto. Previous to his university training, Peter completed the Theatre Arts diploma at Grant MacEwan College and proceeded to work as an actor for the next eight years.
  

@@ -1,19 +1,24 @@
-+++
-date = "2016-03-17T12:37:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-03-15T11:55:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489578703202/Allan-Clayton_image1-c_Laura-Harling.JPG.JPG"
-primary_image_credit = "Laura Harling"
-publishDate = "2016-03-17T12:37:00+00:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md"]
-slug = "allan-clayton"
-title = "Allan Clayton"
-website = "http://www.allanclayton.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/fatboyclayton"
-+++
+---
+date: "2016-03-17T12:37:00+00:00"
+discipline: Tenor
+lastmod: "2017-03-15T11:55:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1489578703202/Allan-Clayton_image1-c_Laura-Harling.JPG.JPG
+primary_image_credit: Laura Harling
+publishDate: "2016-03-17T12:37:00+00:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+slug: allan-clayton
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/fatboyclayton
+title: Allan Clayton
+website: http://www.allanclayton.com/
+cms_visible: true
+---
 
 Allan Clayton studied at St John’s College, Cambridge and at the Royal Academy of Music in London. An Associate of the Royal Academy of Music and former BBC New Generation Artist from 2007-2009, his awards also include “The Queen’s Commendation for Excellence” and an inaugural Sir Elton John Scholarship at the RAM, the John Christie Award for his Glyndebourne Festival debut as Albert Herring, and a Borletti-Buitoni Trust Fellowship.
 

@@ -1,13 +1,22 @@
-+++
-date = "2018-02-07T17:09:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2018-02-07T17:09:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518041059545/0L9A0443-Exposure-9.jpg.jpg"
-publishDate = "2018-02-07T17:09:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/washington-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/salzburg-festival.md","scene/companies/la-monnaie.md","scene/companies/the-santa-fe-opera.md","scene/companies/semperoper-dresden.md"]
-slug = "kostas-smoriginas"
-title = "Kostas Smoriginas"
-+++
+---
+_template: people_single
+date: "2018-02-07T17:09:00-05:00"
+discipline: Bass-baritone
+lastmod: "2018-02-07T17:09:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1518041059545/0L9A0443-Exposure-9.jpg.jpg
+publishDate: "2018-02-07T17:09:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/washington-national-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/salzburg-festival.md
+- scene/companies/la-monnaie.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/semperoper-dresden.md
+slug: kostas-smoriginas
+title: Kostas Smoriginas
+cms_visible: true
+---
 
 Kostas Smoriginas is one of the most promising bass-baritones of today. He made his debut at the Deutsche Staatsoper, Berlin as Escamillo *Carmen* and has since performed the role with the Berlin Philharmonic and Sir Simon Rattle (recorded for EMI Classics), the Salzburg Easter Festival, Royal Opera House Covent Garden, Santa Fe Music Festival, Dresden Semperoper, and with Beijing’s National Centre for Performing Arts.
 

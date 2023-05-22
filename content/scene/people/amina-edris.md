@@ -1,25 +1,27 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1652706833/media/2022/05/AminaEdris_CheshireIsaacs_tlqwel.jpg"
-primary_image_credit = "Cheshire Isaacs."
-related_companies = ["scene/companies/opra-national-de-paris.md", "scene/companies/san-francisco-opera.md", "scene/companies/canadian-opera-company.md"]
-slug = "amina-edris"
-title = "Amina Edris"
-website = ""
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/amina_edris/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/amina.edris.soprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Amina_Edris"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1652706833/media/2022/05/AminaEdris_CheshireIsaacs_tlqwel.jpg
+primary_image_credit: Cheshire Isaacs.
+related_companies:
+- scene/companies/opra-national-de-paris.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/canadian-opera-company.md
+slug: amina-edris
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/amina_edris/
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/amina.edris.soprano
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Amina_Edris
+title: Amina Edris
+website: ""
+cms_visible: true
+---
 Soprano Amina Edris has been hailed as a “revelation” (_Forum Opera_) and praised for her “lustrous” tone (_Opera News_). Born in Egypt and raised in New Zealand, she has blended her cultural background to create her own unique artistic identity, making her one of opera's most intriguing young stars. 
 
 Amina's 21-22 season includes four exciting role debuts and several house debuts. She began her season in France with her role debut as Alice (_Robert le diable_) at Opéra national de Bordeaux, followed by her house and role debut at the Opéra du Rhin as Micaëla (_Carmen_). Another role and house debut comes next as she performs Violetta (_La Traviata_) at Opéra de Limoges followed by her house debut in the same role at the Canadian Opera Company. She ends her season with a return to the Opéra de Paris as La Folie (_Platée_). Amina recently “brought the Opera Bastille to their knees thanks to her unparalleled portrayal of the title-role” in Vincent Huguet’s new production of Massenet’s _Manon_ (Forum Opera). 

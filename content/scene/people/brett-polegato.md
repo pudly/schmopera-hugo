@@ -1,22 +1,27 @@
-+++
-date = "2015-04-06T22:42:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-04-06T22:42:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374439996/Brett.jpg.jpg"
-publishDate = "2015-04-06T22:42:00-04:00"
-related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/glyndebourne.md","scene/companies/lyric-opera-of-chicago.md"]
-slug = "brett-polegato"
-title = "Brett Polegato"
-website = "http://www.brettpolegato.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Brett-Polegato/112314102114574"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/BrettPolegato"
-+++
+---
+date: "2015-04-06T22:42:00-04:00"
+discipline: Baritone
+lastmod: "2015-04-06T22:42:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374439996/Brett.jpg.jpg
+publishDate: "2015-04-06T22:42:00-04:00"
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/glyndebourne.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: brett-polegato
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Brett-Polegato/112314102114574
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/BrettPolegato
+title: Brett Polegato
+website: http://www.brettpolegato.com/
+cms_visible: true
+---
 
 <p>
 	<b><strong data-redactor-tag="strong">Brett Polegato's</strong></b> artistic sensibility has earned him the highest praise from audiences and critics: "his is a serious and seductive voice" says <i>The Globe and Mail</i>, and <i>The New York Times</i> has praised him for his "burnished, well-focused voice" which he uses with "considerable intelligence and nuance." He appears regularly on the world's most distinguished stages including those of Lincoln Center, La Scala, the Concertgebouw, the Opéra National de Paris, Glyndebourne Festival Opera, the Lyric Opera of Chicago, Houston Grand Opera, the Teatro Real, Roy Thomson Hall, the Kennedy Center and Carnegie Hall, and has collaborated with conductors such as Yannick Nézet-Séguin, Andris Nelsons, Bernard Haitink, Seiji Ozawa, Jeffrey Tate, Marc Minkowski, and Martyn Brabbins. He can be heard as soloist in the Grammy Awards' Best Classical Recording of 2003 - Vaughan Williams' <strong>A Sea Symphony</strong> (Telarc) with the Atlanta Symphony Orchestra under the baton of Robert Spano.

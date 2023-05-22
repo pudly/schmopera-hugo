@@ -1,19 +1,29 @@
-+++
-date = "2016-09-15T14:38:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-09-15T14:47:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473946697386/2016-09-14---Ryan-MacPherson---Fay.jpg.jpg"
-primary_image_credit = "Rebecca Fay"
-publishDate = "2016-09-15T14:38:00+01:00"
-related_companies = ["scene/companies/nashville-opera.md","scene/companies/central-city-opera.md","scene/companies/portland-opera.md","scene/companies/calgary-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/opra-national-de-paris.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/nyc-opera-renaissance.md"]
-slug = "ryan-macpherson"
-title = "Ryan MacPherson"
-website = "http://www.ryanmacpherson.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/tenorryan"
-+++
+---
+date: "2016-09-15T14:38:00+01:00"
+discipline: Tenor
+lastmod: "2016-09-15T14:47:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473946697386/2016-09-14---Ryan-MacPherson---Fay.jpg.jpg
+primary_image_credit: Rebecca Fay
+publishDate: "2016-09-15T14:38:00+01:00"
+related_companies:
+- scene/companies/nashville-opera.md
+- scene/companies/central-city-opera.md
+- scene/companies/portland-opera.md
+- scene/companies/calgary-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/nyc-opera-renaissance.md
+slug: ryan-macpherson
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/tenorryan
+title: Ryan MacPherson
+website: http://www.ryanmacpherson.com/
+cms_visible: true
+---
 
 With a vast and growing repertoire, Ryan is well known for his captivating stage presence, as well as his expertise in modern and contemporary music. This season he makes his company and role debut as Edward Rochester with the Center for Contemporary Opera in the world premier of Louis Karchin's *Jane Eyre*. He will also make his company debut with the New Jersey Symphony Orchestra as the tenor soloist in Handel's *Messiah* this December.
 

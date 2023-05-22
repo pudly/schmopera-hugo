@@ -1,14 +1,20 @@
-+++
-date = "2016-08-24T18:31:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-08-24T18:31:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472059841119/GANASSI-Sonia-300x409.jpg.jpg"
-primary_image_credit = "Zemsky/Green Artists Management"
-publishDate = "2016-08-24T18:31:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md"]
-slug = "sonia-ganassi"
-title = "Sonia Ganassi"
-+++
+---
+_template: people_single
+date: "2016-08-24T18:31:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2016-08-24T18:31:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1472059841119/GANASSI-Sonia-300x409.jpg.jpg
+primary_image_credit: Zemsky/Green Artists Management
+publishDate: "2016-08-24T18:31:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/bayerische-staatsoper.md
+slug: sonia-ganassi
+title: Sonia Ganassi
+cms_visible: true
+---
 
 Sonia Ganassi, one of the greatest mezzo-sopranos of her generation, is regularly invited in the most prestigious theaters in the world (Metropolitan Opera, Royal Opera House Covent Garden, La Scala in Milan, Teatro Real of Madrid, Barcelona’s Liceu, Bayerisches Staatsoper etc..) collaborating with conductors such as Riccardo Chailly, Riccardo Muti, Myung-Whun Chung, Daniele Gatti, Antonio Pappano, Daniel Barenboim. Thanks to her several successes, in 1999 the Italian music critics awarded her with the Premio Abbiati.
 

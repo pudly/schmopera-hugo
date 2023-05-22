@@ -1,23 +1,27 @@
-+++
-date = "2018-03-18T21:18:00-04:00"
-discipline = "Tenor"
-lastmod = "2018-03-18T21:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521422188240/2690%2BJonas%2BHacker%2BHI%2BRES.jpg.jpg"
-primary_image_credit = "Kristin Hoebermann"
-publishDate = "2018-03-18T21:18:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-dallas-opera.md","scene/companies/wolf-trap-opera.md"]
-slug = "jonas-hacker"
-title = "Jonas Hacker"
-website = "http://www.jonashackertenor.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jonashackertenor/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/tenor_jonasty/"
-+++
+---
+date: "2018-03-18T21:18:00-04:00"
+discipline: Tenor
+lastmod: "2018-03-18T21:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1521422188240/2690%2BJonas%2BHacker%2BHI%2BRES.jpg.jpg
+primary_image_credit: Kristin Hoebermann
+publishDate: "2018-03-18T21:18:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/wolf-trap-opera.md
+slug: jonas-hacker
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/jonashackertenor/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/tenor_jonasty/
+title: Jonas Hacker
+website: http://www.jonashackertenor.com/
+cms_visible: true
+---
 
 A 2016 Grand Finalist of the Metropolitan Opera National Council Auditions, tenor Jonas Hacker regularly receives high praise for his “attractive tenor voice” and his ability to convincingly portray characters across genres from Mozart to Glass. In the 2017-2018 season, Mr. Hacker will make his Lyric Opera of Chicago debut as Timothy Laughlin in Gregory Spears’ *Fellow Travelers* and will also make his company and role debut with Kentucky Opera as Almaviva in a new production of *The Barber of Seville*, directed by Matthew Ozawa. He opens the season returning to Annapolis Opera as Theodore “Laurie” Lawrence in *Little Women*, the company with whom he made his professional debut in 2015 as Ferrando in *Così fan tutte*.
 

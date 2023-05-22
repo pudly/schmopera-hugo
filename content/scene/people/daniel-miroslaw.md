@@ -1,15 +1,19 @@
-+++
-date = "2017-09-19T11:27:00-04:00"
-discipline = "Bass"
-lastmod = "2017-09-19T11:27:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505834760122/Miroslaw_86s.jpg.jpg"
-primary_image_credit = "Barbara Aumüller"
-publishDate = "2017-09-19T11:27:00-04:00"
-related_companies = ["scene/companies/oper-frankfurt.md","scene/companies/glyndebourne.md"]
-slug = "daniel-miroslaw"
-title = "Daniel Miroslaw"
-website = "http://www.danielmiroslaw.com/"
-+++
+---
+_template: people_single
+date: "2017-09-19T11:27:00-04:00"
+discipline: Bass
+lastmod: "2017-09-19T11:27:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505834760122/Miroslaw_86s.jpg.jpg
+primary_image_credit: Barbara Aumüller
+publishDate: "2017-09-19T11:27:00-04:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/glyndebourne.md
+slug: daniel-miroslaw
+title: Daniel Miroslaw
+website: http://www.danielmiroslaw.com/
+cms_visible: true
+---
 
 Daniel Mirosław, born in Warsaw, Poland, started singing at the age of 21.
 

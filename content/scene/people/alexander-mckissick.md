@@ -1,19 +1,24 @@
-+++
-date = "2018-11-11T17:05:00-05:00"
-discipline = "Tenor"
-lastmod = "2018-11-11T17:05:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541973877437/alex%2520headshot%25202%2520-%2520arielle%2520doneson.jpg.jpg"
-primary_image_credit = "Arielle Doneson"
-publishDate = "2018-11-11T17:05:00-05:00"
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-juilliard-school.md"]
-slug = "alexander-mckissick"
-title = "Alexander McKissick"
-website = "https://alexandermckissick.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/alex_mckissick/"
-+++
+---
+date: "2018-11-11T17:05:00-05:00"
+discipline: Tenor
+lastmod: "2018-11-11T17:05:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1541973877437/alex%2520headshot%25202%2520-%2520arielle%2520doneson.jpg.jpg
+primary_image_credit: Arielle Doneson
+publishDate: "2018-11-11T17:05:00-05:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/the-juilliard-school.md
+slug: alexander-mckissick
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/alex_mckissick/
+title: Alexander McKissick
+website: https://alexandermckissick.com/
+cms_visible: true
+---
 
 A native of Madison, Connecticut, tenor Alexander McKissick was recently selected for the Washington National Opera's Domingo-Cafritz Young Artist Program. Roles with WNO include Nikolaus Sprink in *Silent Night*; Joseph/Stagehand in *The Lion, the Unicorn, and Me*; cover of *Faust*, Lamplighter and Drunkard in *The Little Prince*; and Grand Inquisitor in *Candide*. He will be heard as a soloist in "A Concert of Comic Masterpieces," and also was featured in the 2018 American Opera Initiative Festival. 
 

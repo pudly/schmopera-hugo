@@ -1,18 +1,24 @@
-+++
-date = "2015-11-10T21:26:00-05:00"
-discipline = "Baritone"
-lastmod = "2018-12-10T10:30:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447208826062/2015-11-11---Nyby-Square.jpg.jpg"
-publishDate = "2015-11-10T21:27:00-05:00"
-related_companies = ["scene/companies/vancouver-opera.md","scene/companies/edmonton-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/tongue-in-cheek-productions.md"]
-slug = "michael-nyby"
-title = "Michael Nyby"
-website = "http://www.michaelnyby.com/Site/Welcome.html"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/stravadarius/"
-+++
+---
+date: "2015-11-10T21:26:00-05:00"
+discipline: Baritone
+lastmod: "2018-12-10T10:30:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447208826062/2015-11-11---Nyby-Square.jpg.jpg
+publishDate: "2015-11-10T21:27:00-05:00"
+related_companies:
+- scene/companies/vancouver-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/tongue-in-cheek-productions.md
+slug: michael-nyby
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/stravadarius/
+title: Michael Nyby
+website: http://www.michaelnyby.com/Site/Welcome.html
+cms_visible: true
+---
 
 Born in Ontario and raised in New Jersey, Canadian-American baritone Michael Nyby has performed extensively in opera, concert, and theatre throughout Canada and the United States.  Michael is a successful interpreter of new music, and has numerous world premieres to his credit. In recent years, Michael created the role of Brent Colgate in the world premiere of Gregory Vajda’s *Georgia Bottoms* with the Huntsville Symphony Orchestra, the role of William Dale in Minnesota Opera’s world premiere production of Kevin Puts's Pulitzer-Prize-winning *Silent Night*, and the role of Seth in Peter Anthony Togni's *Isis and Osiris* with Toronto's Opera in Concert. Michael’s additional new music credits include the world premiere of Scott Wheeler’s *200 Dreams* from Captivity with the Manitoba Chamber Orchestra, Larysa Kuzmenko's *Golden Harvest* with the Winnipeg Symphony Orchestra, the role of Demetrio in the second performance of Kristin Hevner Wyatt’s *Il Sogno* with Opera Ithaca, and the singing role of the Young Man in the Canadian Premiere of Joe DiPietro’s play *The Last Romance* for Theatre Aquarius.
 

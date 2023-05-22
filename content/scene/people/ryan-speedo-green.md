@@ -1,20 +1,30 @@
-+++
-date = "2015-06-22T21:28:00-06:00"
-discipline = "Bass-baritone"
-lastmod = "2015-06-22T21:29:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1657550306/media/2022/07/Ryan_Speedo_Green_Credit_Dario_Acosta_1_gwcdih.jpg"
-primary_image_credit = "Dario Acosta."
-publishDate = "2015-06-22T21:29:00-06:00"
-related_companies = ["scene/companies/washington-national-opera.md", "scene/companies/fort-worth-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/cardiff-singer-of-the-world-competition.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/wolf-trap-opera.md", "scene/companies/the-juilliard-school.md"]
-slug = "ryan-speedo-green"
-title = "Ryan Speedo Green"
-website = "http://www.ryanspeedogreen.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ryanspeedogreen"
-
-+++
+---
+date: "2015-06-22T21:28:00-06:00"
+discipline: Bass-baritone
+lastmod: "2015-06-22T21:29:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1657550306/media/2022/07/Ryan_Speedo_Green_Credit_Dario_Acosta_1_gwcdih.jpg
+primary_image_credit: Dario Acosta.
+publishDate: "2015-06-22T21:29:00-06:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/fort-worth-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/cardiff-singer-of-the-world-competition.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/the-juilliard-school.md
+slug: ryan-speedo-green
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ryanspeedogreen
+title: Ryan Speedo Green
+website: http://www.ryanspeedogreen.com/
+cms_visible: true
+---
 Grammy Award winning bass-baritone Ryan Speedo Green has quickly established himself as an artist of international demand at the world’s leading opera houses. Mr. Green opens the Metropolitan Opera’s 2021 – 2022 season as Uncle Paul in Terrence Blanchard’s _Fire Shut up in my Bones_, and also reprises his Grammy Award winning role of Jake in _Porgy and Bess_, Colline in _La bohème_, and sings Truffaldino in _Ariadne auf Naxos_ which will be broadcast as part of the Met’s _Live in HD_ series. Mr. Green also makes his house debut with Washington National Opera as Escamillo in _Carmen_, directed by Francesca Zambello and conducted by music director Evan Rogister.
 
 In the 2020 – 2021 season Mr. Green mad his house debut as Jake in _Porgy and Bess_ with Theatre an der Wien, as well as his house debut with Palm Beach Opera singing both Colline in _La bohème_ and Sprecher in _Die Zauberflöte_. Mr. Green also made his debut with Columbus Opera for a digital residency and broadcast of the stage version of his best-selling book: Sing for Your Life. Concert engagements include appearing as featured soloist with San Diego Symphony for the opening of their new outdoor venue, The Shell, an All Star Concert with Isabel Leonard at Austin Opera, which will be broadcast on Austin PBS, a concert of arias with the Virginia Arts Festival conducted by Virginia Opera music director Adam Turner, Beethoven’s Symphony Number 9 with Tulsa Symphony, and an alumni concert of arias with Wolf Trap Opera. Mr. Green was also the first Artist in Residence for the Texas Opera Alliance, where he held masterclasses and community events for Houston Grand Opera, Dallas Opera, Austin Opera, Forth Worth Opera, and Opera San Antonio.

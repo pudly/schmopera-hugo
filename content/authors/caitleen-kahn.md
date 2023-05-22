@@ -1,14 +1,15 @@
-+++
-date = "2015-11-19T14:12:00-05:00"
-email = "caitleen.kahn@gmail.com"
-lastmod = "2015-11-19T14:12:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447960209697/z4cMavpG0mw-UmVweSm4B94ftn_8rwyR3XQX9NfQKtoz0NX4zNKpTAHjtnWMDgvhMnmJGCOcG0gZaoiRPQl1-8pN9ERF%3Ds1595"
-publishDate = "2015-11-19T14:12:00-05:00"
-short_bio = "NYC-based soprano Caitleen Kahn is an active performer of music of all eras, and is equally at home on both opera and recital stages. A passionate and communicative performer, she was most recently seen in Eastman Opera Theater’s *Albert Herring* (Mrs. Herring) and *Dialogues of the Carmelites* (Sister Gertrude and Madame Lidoine, cover). In 2014, she was selected as one of two vocalists to perform in the 25th Anniversary Concert for the Eastman Collaborative Piano Program. Ms. Kahn recently founded the organization Lynx Project  with colleague Megan Moore, as part of their mission to increase the performance of art song in the United States.\n"
-slug = "caitleen-kahn"
-title = "Caitleen Kahn"
-website = "http://caitleenkahn.com/"
-+++
+---
+date: "2015-11-19T14:12:00-05:00"
+email: caitleen.kahn@gmail.com
+lastmod: "2015-11-19T14:12:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1447960209697/z4cMavpG0mw-UmVweSm4B94ftn_8rwyR3XQX9NfQKtoz0NX4zNKpTAHjtnWMDgvhMnmJGCOcG0gZaoiRPQl1-8pN9ERF%3Ds1595
+publishDate: "2015-11-19T14:12:00-05:00"
+short_bio: |
+  NYC-based soprano Caitleen Kahn is an active performer of music of all eras, and is equally at home on both opera and recital stages. A passionate and communicative performer, she was most recently seen in Eastman Opera Theater’s *Albert Herring* (Mrs. Herring) and *Dialogues of the Carmelites* (Sister Gertrude and Madame Lidoine, cover). In 2014, she was selected as one of two vocalists to perform in the 25th Anniversary Concert for the Eastman Collaborative Piano Program. Ms. Kahn recently founded the organization Lynx Project  with colleague Megan Moore, as part of their mission to increase the performance of art song in the United States.
+slug: caitleen-kahn
+title: Caitleen Kahn
+website: http://caitleenkahn.com/
+---
 
 NYC-based soprano Caitleen Kahn is an active performer of music of all eras, and is equally at home on both opera and recital stages. A passionate and communicative performer, she was most recently seen in Eastman Opera Theater’s *Albert Herring* (Mrs. Herring) and *Dialogues of the Carmelites* (Sister Gertrude and Madame Lidoine, cover). In 2014, she was selected as one of two vocalists to perform in the 25th Anniversary Concert for the Eastman Collaborative Piano Program. Ms. Kahn recently founded the organization Lynx Project  with colleague Megan Moore, as part of their mission to increase the performance of art song in the United States.
 

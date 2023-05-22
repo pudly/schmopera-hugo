@@ -1,31 +1,32 @@
-+++
-date = "2016-10-11T10:15:00+01:00"
-discipline = "Baritone"
-lastmod = "2016-10-11T10:15:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476176459891/2016-10-10--Christian-Bowers.jpg.jpg"
-primary_image_credit = "Arielle Doneson"
-publishDate = "2016-10-11T10:15:00+01:00"
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/utah-opera.md"]
-slug = "christian-bowers"
-title = "Christian Bowers"
-website = "http://www.christianbowersbaritone.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/christian.bowers.77"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/BowersBaritone"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/bowers_christian/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/watch?v=sD1bYcS8xqI"
-+++
+---
+date: "2016-10-11T10:15:00+01:00"
+discipline: Baritone
+lastmod: "2016-10-11T10:15:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476176459891/2016-10-10--Christian-Bowers.jpg.jpg
+primary_image_credit: Arielle Doneson
+publishDate: "2016-10-11T10:15:00+01:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/utah-opera.md
+slug: christian-bowers
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/christian.bowers.77
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/BowersBaritone
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/bowers_christian/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/watch?v=sD1bYcS8xqI
+title: Christian Bowers
+website: http://www.christianbowersbaritone.com/
+cms_visible: true
+---
 
 American Baritone Christian Bowers has been hailed by *Opera News* for his "warm well-knit baritone", and  by BroadwayWorld.com for his "strong, clear voice." Mr. Bowers is an alumnus of the Domingo-Cafritz Young Artist Program at Washington National Opera. While with WNO, he performed many roles including Schaunard in *La bohème*, The Pilot in *The Little Prince*, Second Commissioner/ First Officer in *Dialogues of the Carmelites*, The Chirurgo in *La forza del destino*, Dancaïro in *Carmen*, and Stubb in *Moby-Dick* as well as covering Dandini in *La Cenerentola*. 
 

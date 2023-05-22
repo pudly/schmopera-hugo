@@ -1,17 +1,23 @@
-+++
-discipline = "Bass-baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631047666/media/2021/09/KellyMarkgraf_nwikrg.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/the-juilliard-school.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/san-diego-opera.md"]
-slug = "kelly-markgraf"
-title = "Kelly Markgraf"
-website = "https://www.kellymarkgrafbaritone.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/kelly_markgraf/"
-
-+++
+---
+discipline: Bass-baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1631047666/media/2021/09/KellyMarkgraf_nwikrg.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/minnesota-opera.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/san-diego-opera.md
+slug: kelly-markgraf
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/kelly_markgraf/
+title: Kelly Markgraf
+website: https://www.kellymarkgrafbaritone.com/
+cms_visible: true
+---
 Bass-baritone Kelly Markgraf has been hailed by the _New York Times_ for his "heart-stirring" singing and "charismatic" stage presence. Respected as a singing actor of depth and versatility, he has performed music from the Baroque to that composed expressly for him. In the summer of 2017 he created the role of Paul Jobs in Mason Bates’ premiere _The (R)evolution of Steve Jobs_ at the Santa Fe Opera, which later received a 2019 GRAMMY Award for Best Opera Recording.  He also created the role of Hannah-Before in Laura Kaminsky’s transgender opera _As One_, one of the most frequently performed new operas in the United States today. Since its widely acclaimed premiere at BAM, Mr Markgraf has reprised the role many times including recent productions with Opera Colorado and San Diego Opera.
 
 Mr. Markgraf has enjoyed collaboration with some of the world’s most esteemed conductors, including Gustavo Dudamel, Charles Dutoit, Alan Gilbert, Giancarlo Guerrero, Michael Tilson Thomas, David Robertson, Robert Spano, and Edo de Waart. He has performed with the nation’s leading symphony orchestras, including the New York Philharmonic, Boston Symphony, and the Los Angeles Philharmonic. Under the baton of Michael Tilson Thomas, he made his San Francisco Symphony debut as Bernardo in a live concert recording of _West Side Story_ which was later nominated for a GRAMMY Award.​

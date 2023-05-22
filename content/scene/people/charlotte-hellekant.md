@@ -1,17 +1,25 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1680905464/media/2023/04/CharlotteHellekant_MatsB%C3%A4cker_o4qepc.jpg"
-primary_image_credit = "Photo: Mats Bäcker"
-related_companies = ["scene/companies/la-monnaie.md", "scene/companies/opernhaus-zurich.md", "scene/companies/opra-national-de-paris.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/staatsoper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "charlotte-hellekant"
-title = "Charlotte Hellekant"
-website = ""
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/charlottehellekant/"
-
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1680905464/media/2023/04/CharlotteHellekant_MatsB%C3%A4cker_o4qepc.jpg
+primary_image_credit: 'Photo: Mats Bäcker'
+related_companies:
+- scene/companies/la-monnaie.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+slug: charlotte-hellekant
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/charlottehellekant/
+title: Charlotte Hellekant
+website: ""
+cms_visible: true
+---
 A vocally expressive and compelling stage performer with a repertoire ranging from the baroque to contemporary classics, Charlotte Hellekant is one of Scandinavia's leading mezzo-sopranos with a career which is equally successful on both the opera stage and concert platform. She has inspired some of the world’s leading composers to write especially for her. This includes Toshio Hosokawa who created the role of Murasame for her in his acclaimed _Matsukaze_. Subsequently, Hosokawa wrote his monodrama _The Raven_ for her, which she premiered in concert performances with Ensemble Lucilin in Brussels, Amsterdam and Japan. Hellekant also received particular acclaim for her _tour de force_ performance as Sweden’s schizophrenic King Erik XIV - a role also created for her - in Mikko Heiniö’s eponymous opera and most recently she premiered a new work by Stefano Gervasoni, _In die Luft geschrieben_, with Münchner Kammerorchester.
 
 Charlotte Hellekant has made her mark on opera stages on both sides of the Atlantic, most notably at the Metropolitan Opera, Opéra national de Paris and Glyndebourne Festival. Lyric roles include Charlotte (_Werther_) with Deutsche Oper Berlin and _Carmen_ with Royal Swedish Opera, whilst outstanding Handel interpretations include Ino (_Semele_) at the Théâtre des Champs Elysées and Cornelia (_Giulio Cesare_) under Marc Minkowski for Opernhaus Zürich. She appeared as Marguérite in La Fura dels Baus’ spectacular production of _La damnation de Faust_ at Salzburger Festspiele under Sylvain Cambreling and sang the role of Judith in _Duke Bluebeard’s Castle_ in concert at the Bergen Festival under Edward Gardner. 

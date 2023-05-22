@@ -1,15 +1,24 @@
-+++
-date = "2016-05-04T17:33:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-05-04T17:33:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462379466097/2016-05-05---Bruce-Sledge.jpg.jpg"
-primary_image_credit = "Kenneth Dolin"
-publishDate = "2016-05-04T17:33:00+01:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/welsh-national-opera.md","scene/companies/vancouver-opera.md","scene/companies/florida-grand-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opra-national-de-paris.md"]
-slug = "bruce-sledge"
-title = "Bruce Sledge"
-website = "http://www.brucesledge.com/"
-+++
+---
+_template: people_single
+date: "2016-05-04T17:33:00+01:00"
+discipline: Tenor
+lastmod: "2016-05-04T17:33:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1462379466097/2016-05-05---Bruce-Sledge.jpg.jpg
+primary_image_credit: Kenneth Dolin
+publishDate: "2016-05-04T17:33:00+01:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/opra-national-de-paris.md
+slug: bruce-sledge
+title: Bruce Sledge
+website: http://www.brucesledge.com/
+cms_visible: true
+---
 
 Bruce Sledge is one of today’s most in-demand tenori di grazia and sings a wide variety of repertoire with many international houses.
 

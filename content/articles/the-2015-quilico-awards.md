@@ -1,18 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2015-04-11T20:09:00-04:00"
-lastmod = "2015-04-11T20:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428796854690/2015-02-09-COC-Quilico-125_Fotor_Fotor.jpg.jpg"
-primary_image_credit = "Chris Hutcheson"
-publishDate = "2015-02-10T09:09:00-05:00"
-related_articles = ["articles/coc1516-the-new-ensemble-studio.md","articles/go-hear-the-tafelmusik-vocal-competition.md","articles/coc1617.md"]
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/canadian-opera-company-ensemble-studio.md"]
-related_people = ["scene/people/karine-boucher.md","scene/people/gordon-bintner.md","scene/people/charlotte-burrage.md","scene/people/aviva-fortunata.md","scene/people/clarence-frazer.md","scene/people/jeanphilippe-fortierlazure.md"]
-short_description = "Last night the members of the COC Ensemble Studio competed in the Christine and Louis Quilico Awards, in the Richard Bradshaw Amphitheatre at the Four Seasons Centre. From my own experience with the 2013 Quilico Awards, I know that this intra-Ensemble competition can be tough on the singers."
-slug = "the-2015-quilico-awards"
-title = "The 2015 Quilico Awards"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2015-04-11T20:09:00-04:00"
+lastmod: "2015-04-11T20:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428796854690/2015-02-09-COC-Quilico-125_Fotor_Fotor.jpg.jpg
+primary_image_credit: Chris Hutcheson
+publishDate: "2015-02-10T09:09:00-05:00"
+related_articles:
+- articles/coc1516-the-new-ensemble-studio.md
+- articles/go-hear-the-tafelmusik-vocal-competition.md
+- articles/coc1617.md
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/canadian-opera-company-ensemble-studio.md
+related_people:
+- scene/people/karine-boucher.md
+- scene/people/gordon-bintner.md
+- scene/people/charlotte-burrage.md
+- scene/people/aviva-fortunata.md
+- scene/people/clarence-frazer.md
+- scene/people/jeanphilippe-fortierlazure.md
+short_description: Last night the members of the COC Ensemble Studio competed in the
+  Christine and Louis Quilico Awards, in the Richard Bradshaw Amphitheatre at the
+  Four Seasons Centre. From my own experience with the 2013 Quilico Awards, I know
+  that this intra-Ensemble competition can be tough on the singers.
+slug: the-2015-quilico-awards
+title: The 2015 Quilico Awards
+---
 
 <p>
 	Last night the members of the COC Ensemble Studio competed in the <a href="http://files.coc.ca/pdfs/concert150209.pdf" target="_blank">Christine and Louis Quilico Awards</a>, in the Richard Bradshaw Amphitheatre at the Four Seasons Centre. From my own experience with the <a href="https://operaramblings.wordpress.com/2013/05/14/quilico-awards-2013/" target="_blank">2013 Quilico Awards</a>, I know that this intra-Ensemble competition can be tough on the singers. The winter and spring segments of the COC season have a packed schedule; the young artists are rehearsed and coached by day, and singing in the mainstage shows by night. It's inspiring and exhausting work, and it's hard to find the additional focus needed for a competition like this. The Quilico Awards are unique in that the young artist singers compete internally, during some of the most high-paced, high-stakes years of their careers so far. I'm historically terrible at making the call on competitions (I assume if I were a judge on a panel, I'd be the "difficult" one). It's even more of a crapshoot when all the singers competing are in the middle of big technical and professional changes. I know the Ensemble Studio singers are a tough bunch, and they don't need my empathy; my heart does go out to them, though, because they're worked hard and competing against your closest colleagues (and probably friends) is hard.

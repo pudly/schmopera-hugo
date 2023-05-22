@@ -1,19 +1,30 @@
-+++
-date = "2017-01-22T19:21:00+00:00"
-discipline = "Conductor"
-lastmod = "2017-01-22T19:21:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485112755986/2017-01-22---Jurowski_Vladimir---Sheila_Rock.jpg.jpg"
-primary_image_credit = "Sheila Rock"
-publishDate = "2017-01-22T19:21:00+00:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/staatsoper-berlin.md","scene/companies/semperoper-dresden.md","scene/companies/opra-national-de-paris.md","scene/companies/welsh-national-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/glyndebourne.md","scene/companies/salzburg-festival.md"]
-slug = "vladimir-jurowski"
-title = "Vladimir Jurowski"
-website = "http://www.vladimirjurowski.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/vladimirjurowski"
-+++
+---
+date: "2017-01-22T19:21:00+00:00"
+discipline: Conductor
+lastmod: "2017-01-22T19:21:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485112755986/2017-01-22---Jurowski_Vladimir---Sheila_Rock.jpg.jpg
+primary_image_credit: Sheila Rock
+publishDate: "2017-01-22T19:21:00+00:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/glyndebourne.md
+- scene/companies/salzburg-festival.md
+slug: vladimir-jurowski
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/vladimirjurowski
+title: Vladimir Jurowski
+website: http://www.vladimirjurowski.com/
+cms_visible: true
+---
 
 One of today’s most sought-after conductors, acclaimed worldwide for his incisive musicianship and adventurous artistic commitment, Vladimir Jurowski was born in Moscow in 1972, and completed the first part of his musical studies at the Music College of the Moscow Conservatory. In 1990 he relocated with his family to Germany, continuing his studies at the Musikhochschule of Dresden and Berlin, studying conducting with Rolf Reuter and vocal coaching with Semion Skigin. In 1995 he made his international debut at the Wexford Festival conducting Rimsky-Korsakov’s *May Night*, and the same year saw his debut at the Royal Opera House Covent Garden with *Nabucco*.
 

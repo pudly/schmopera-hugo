@@ -1,14 +1,18 @@
-+++
-date = "2017-11-25T09:50:00-05:00"
-discipline = "Soprano"
-lastmod = "2017-11-25T09:50:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511621333953/20091004_anja-518.jpg.jpg"
-publishDate = "2017-11-25T09:50:00-05:00"
-related_companies = ["scene/companies/semperoper-dresden.md","scene/companies/oper-frankfurt.md"]
-slug = "anja-petersen"
-title = "Anja Petersen"
-website = "http://anjapetersen.com/"
-+++
+---
+_template: people_single
+date: "2017-11-25T09:50:00-05:00"
+discipline: Soprano
+lastmod: "2017-11-25T09:50:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511621333953/20091004_anja-518.jpg.jpg
+publishDate: "2017-11-25T09:50:00-05:00"
+related_companies:
+- scene/companies/semperoper-dresden.md
+- scene/companies/oper-frankfurt.md
+slug: anja-petersen
+title: Anja Petersen
+website: http://anjapetersen.com/
+cms_visible: true
+---
 
 The soprano Anja Petersen initially completed studies in violin and music education in Stuttgart before devoting herself entirely to singing, finishing her education in the soloist class with highest marks. While
 still a student, she was a member of the Neue Vocalsolisten Stuttgart and appeared with them in many international concerts.

@@ -1,22 +1,35 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2019-02-05T17:55:01+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "_(La) Voix humaine_ happens February 16, 8pm, at Toronto's Gallery 345, 345 Sorauren Ave. For details and tickets, [click here](http://againstthegraintheatre.com/la-voix-humaine-3/)."
-preamble = "Kicking off [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s new Incubator Initiative is the gender-bent imagination of Poulenc's _La voix humaine_, created and performed by tenor [Jacques Arsenault](/scene/people/jacques-arsenault/). With Music Director Topher Mokrzewski and stage director Aria Umezawa, Arsenault transforms the opera's singular character, Elle, and becomes Lui, the man having a one-sided conversation with an ex-lover. The resulting [_(La) Voix humaine_](http://againstthegraintheatre.com/la-voix-humaine-3/) is a one-night only event on February 16, 8pm, at Gallery 345. \n\nWe spoke with Arsenault about his surprisingly contemporary project:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549389427/media/2019/02/VoixHumaine.jpg"
-primary_image_credit = ""
-related_articles = ["articles/racette-an-unmissable-elle-in-o18s-ne-quittez-pas.md"]
-related_companies = ["scene/companies/against-the-grain-theatre.md"]
-related_people = ["scene/people/jacques-arsenault.md"]
-short_description = "\"In the operatic canon, there's a whole lot of male swagger, seduction, anger, and violence but a notable lack of vulnerability. Dramatically, I'm interested in shame and vulnerability, particularly in the lives of men.\""
-slug = "challenging-operas-male-swagger-in-la-voix-humaine"
-title = "Challenging opera's \"male swagger\" in (La) Voix humaine"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2019-02-05T17:55:01+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: _(La) Voix humaine_ happens February 16, 8pm, at Toronto's Gallery 345,
+  345 Sorauren Ave. For details and tickets, [click here](http://againstthegraintheatre.com/la-voix-humaine-3/).
+preamble: "Kicking off [Against the Grain Theatre](/scene/companies/against-the-grain-theatre/)'s
+  new Incubator Initiative is the gender-bent imagination of Poulenc's _La voix humaine_,
+  created and performed by tenor [Jacques Arsenault](/scene/people/jacques-arsenault/).
+  With Music Director Topher Mokrzewski and stage director Aria Umezawa, Arsenault
+  transforms the opera's singular character, Elle, and becomes Lui, the man having
+  a one-sided conversation with an ex-lover. The resulting [_(La) Voix humaine_](http://againstthegraintheatre.com/la-voix-humaine-3/)
+  is a one-night only event on February 16, 8pm, at Gallery 345. \n\nWe spoke with
+  Arsenault about his surprisingly contemporary project:"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549389427/media/2019/02/VoixHumaine.jpg
+primary_image_credit: ""
+related_articles:
+- articles/racette-an-unmissable-elle-in-o18s-ne-quittez-pas.md
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+related_people:
+- scene/people/jacques-arsenault.md
+short_description: '"In the operatic canon, there''s a whole lot of male swagger,
+  seduction, anger, and violence but a notable lack of vulnerability. Dramatically,
+  I''m interested in shame and vulnerability, particularly in the lives of men."'
+slug: challenging-operas-male-swagger-in-la-voix-humaine
+title: Challenging opera's "male swagger" in (La) Voix humaine
+youtube_url: ""
+---
 ### What inspired you to experiment with Poulenc's _La voix humaine_?
 
 Last year, I saw Groundling Theatre's production of Shakespeare's _Lear,_ in which Seana McKenna played Queen Lear. It blew me away. A simple change, from King to Queen, had a deep effect on our perception of the title character, especially in relation to the others around them and the world they inhabit.
@@ -25,7 +38,9 @@ Last year, I saw Groundling Theatre's production of Shakespeare's _Lear,_ in whi
 
 I wondered why opera companies didn't seem to be following suit with more dramatic gender swaps. That's when I had my idea to experiment with one of my favourite operas: _La voix humaine,_ by composer Francis Poulenc. I grabbed a score and the original play by Cocteau and set to research. Once I read more about the lives of Cocteau and Poulenc and how they dealt with their sexuality (Cocteau was quite out, Poulenc was more secretive), I became fascinated with the echoes between their own biographies and the protagonist of _La voix humaine._ People of all genders and orientations have their hearts broken. Pain and loss are universal. I want to explore what it would be like to peel back the curtain and to see a man, like Cocteau and Poulenc themselves, experiencing this story in 1930s Paris.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1549389566/media/2019/02/JacquesArsenault.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1549389566/media/2019/02/JacquesArsenault.jpg)
 
 <figcaption>Jacques Arsenault, tenor and creator of (La) Voix humaine.</figcaption>
 

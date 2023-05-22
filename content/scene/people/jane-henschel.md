@@ -1,15 +1,26 @@
-+++
-date = "2017-10-09T19:03:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-10-09T19:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546110467/media/2018/12/JaneHenschelBarbaraEichinger.jpg"
-primary_image_credit = "Barbara Eichinger"
-publishDate = "2017-10-09T19:03:00-04:00"
-related_companies = ["scene/companies/oper-frankfurt.md", "scene/companies/semperoper-dresden.md", "scene/companies/royal-opera-house.md", "scene/companies/los-angeles-opera.md", "scene/companies/glyndebourne.md", "scene/companies/wiener-staatsoper.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/salzburg-festival.md"]
-slug = "jane-henschel"
-title = "Jane Henschel"
-
-+++
+---
+_template: people_single
+date: "2017-10-09T19:03:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-10-09T19:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546110467/media/2018/12/JaneHenschelBarbaraEichinger.jpg
+primary_image_credit: Barbara Eichinger
+publishDate: "2017-10-09T19:03:00-04:00"
+related_companies:
+- scene/companies/oper-frankfurt.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/royal-opera-house.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/salzburg-festival.md
+slug: jane-henschel
+title: Jane Henschel
+cms_visible: true
+---
 Jane Henschel was born in Wisconsin, studied at the University of Southern California and subsequently moved to Germany. 
 
 In concert, she has appeared with the Berliner Philharmoniker, New York Philharmonic Orchestra, London Symphony Orchestra, BBC Symphony Orchestra, Philadelphia Orchestra, the Orchestre de la Suisse Romande and the Orchestre de Radio France under Seiji Ozawa, James Conlon, Lorin Maazel, Sir Simon Rattle, Marek Janowski, Sir Colin Davis, Sir Andrew Davis and Michael Schønwandt. Her recordings include Krasa Verlobung im Traum with Lothar Zagrosek (Decca), Baba the Turk in Stravinsky *The Rake's Progress* with Ozawa (Philips Classics), Albeniz Merlin with Placido Domingo (Grammy Award, 2001) and Henry Clifford (both for Decca), Britten *The Turn of the Screw* with Daniel Harding (EMI/Virgin - Gramophone Award 2003) and Mahler’s Symphony No. 8 with the City of Birmingham Symphony Orchestra and Rattle (EMI).

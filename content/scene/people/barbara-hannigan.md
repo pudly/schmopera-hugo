@@ -1,28 +1,33 @@
-+++
-date = "2015-04-06T22:32:00-04:00"
-discipline = "Soprano, conductor"
-lastmod = "2015-04-06T22:32:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549243920/media/2019/02/BarbaraHanniganRaphaelBrand.jpg"
-primary_image_credit = "Raphael Brand"
-publishDate = "2015-04-06T22:32:00-04:00"
-related_companies = ["scene/companies/opra-national-de-paris.md", "scene/companies/royal-opera-house.md", "scene/companies/la-monnaie.md", "scene/companies/glyndebourne.md", "scene/companies/toronto-symphony-orchestra.md", "scene/companies/bayerische-staatsoper.md"]
-slug = "barbara-hannigan"
-title = "Barbara Hannigan"
-website = "http://www.barbarahannigan.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Barbara-Hannigan/132358283507934"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/HanniganBarbara"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/hanniganbarbara"
-
-+++
+---
+date: "2015-04-06T22:32:00-04:00"
+discipline: Soprano, conductor
+lastmod: "2015-04-06T22:32:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549243920/media/2019/02/BarbaraHanniganRaphaelBrand.jpg
+primary_image_credit: Raphael Brand
+publishDate: "2015-04-06T22:32:00-04:00"
+related_companies:
+- scene/companies/opra-national-de-paris.md
+- scene/companies/royal-opera-house.md
+- scene/companies/la-monnaie.md
+- scene/companies/glyndebourne.md
+- scene/companies/toronto-symphony-orchestra.md
+- scene/companies/bayerische-staatsoper.md
+slug: barbara-hannigan
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Barbara-Hannigan/132358283507934
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/HanniganBarbara
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/hanniganbarbara
+title: Barbara Hannigan
+website: http://www.barbarahannigan.com/
+cms_visible: true
+---
 Embodying music with an unparalleled dramatic sensibility, soprano and conductor Barbara Hannigan is an artist at the forefront of creation. Her artistic colleagues include directors and conductors such as Christoph Marthaler, Simon Rattle, Sasha Waltz, Kent Nagano, Vladimir Jurowski, John Zorn, Andreas Kriegenburg, Andris Nelsons, Reinbert de Leeuw, David Zinman, Antonio Pappano, Katie Mitchell, Kirill Petrenko, and Krszysztof Warlikowski.
 
 As a singer, conductor – or both simultaneously – the Canadian musician has shown a profound commitment to the music of our time, and has given the world première performances of over 85 new creations. Hannigan has collaborated extensively with composers including Boulez, Dutilleux, Ligeti, Stockhausen, Sciarrino, Barry, Dusapin, Dean, Benjamin and Abrahamsen.

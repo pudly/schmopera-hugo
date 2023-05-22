@@ -1,22 +1,25 @@
-+++
-date = "2015-07-29T21:46:00-04:00"
-discipline = "Producer, singer"
-lastmod = "2015-07-29T21:46:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438220695966/Friends3.jpg.jpg"
-publishDate = "2015-07-29T21:46:00-04:00"
-related_companies = ["scene/companies/indie-opera-to.md","scene/companies/the-friends-of-gravity.md"]
-slug = "stephanie-conn"
-title = "Stephanie Conn"
-website = "http://stephanieconn.com/performance/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/stephanieconn?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MeezStephanie"
-+++
+---
+date: "2015-07-29T21:46:00-04:00"
+discipline: Producer, singer
+lastmod: "2015-07-29T21:46:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1438220695966/Friends3.jpg.jpg
+publishDate: "2015-07-29T21:46:00-04:00"
+related_companies:
+- scene/companies/indie-opera-to.md
+- scene/companies/the-friends-of-gravity.md
+slug: stephanie-conn
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/stephanieconn?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/MeezStephanie
+title: Stephanie Conn
+website: http://stephanieconn.com/performance/
+cms_visible: true
+---
 
 STEPHANIE CONN is currently the producer and soloist with The Friends of Gravity, debuting with a production of Kurt Weill’s *Seven Deadly Sins*.
 

@@ -1,18 +1,23 @@
-+++
-date = "2017-10-15T19:05:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-15T19:06:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546739676/media/2019/01/MarianneFiset.jpg"
-publishDate = "2017-10-15T19:05:00-04:00"
-related_companies = ["scene/companies/vancouver-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/calgary-opera.md", "scene/companies/toronto-symphony-orchestra.md"]
-slug = "marianne-fiset"
-title = "Marianne Fiset"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/marianne.fiset/"
-
-+++
+---
+date: "2017-10-15T19:05:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-15T19:06:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546739676/media/2019/01/MarianneFiset.jpg
+publishDate: "2017-10-15T19:05:00-04:00"
+related_companies:
+- scene/companies/vancouver-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/calgary-opera.md
+- scene/companies/toronto-symphony-orchestra.md
+slug: marianne-fiset
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/marianne.fiset/
+title: Marianne Fiset
+cms_visible: true
+---
 Known for the warm and rich color of her voice and charismatic stage presence, Marianne Fiset has been hailed by critics and audience alike. Since she was awarded five top prizes in May 2007 from the Montreal International Music Competition, including the First Grand Prize and the People’s Choice Award, she received the “New Artist of the Year” Opus Prize in 2008 and was named Young Soloist by the Public Francophone Radios ( France – Suisse-Romande – Belgique – Canada). She was also awarded the title “Révélation Radio-Canada Musique 2009”.
 
 Marianne’s recent engagements have included her debut at Opera National de Paris – Bastille in the title role of Massenet’s Manon, role that she also sang in Montréal in May 2013, Malwina in Marschner ‘s Der Vampyr at International Festival of Lanaudière, Mimi in La Bohème in Tampa, Vancouver and Calgary, Lalla Roukh’s title role at Opera Lafayette, Donna Elvira in Don Giovanni at l’Opéra Municipal de Marseille as well as Susanna in Le nozze di Figaro at Calgary Opera. She also sang Donna Elvira at Wuppertal Opernhaus, Micaela at Halle Opernhaus and in a concert version with the Montreal Symphony Orchestra and Kent Nagano, and a role debut as Anna Sorensen in the Pulitzer awarded opera Silent Night for Montreal Opera. She gave recitals in London, Paris, Brussels, Geneva, Vancouver, Montreal and Québec City

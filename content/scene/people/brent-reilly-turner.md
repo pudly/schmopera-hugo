@@ -1,30 +1,31 @@
-+++
-date = "2018-10-15T11:02:00-04:00"
-discipline = "Tenor"
-lastmod = "2018-10-15T11:04:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539615702295/Brent%20Reilly%20Turner.png.png"
-publishDate = "2018-10-15T11:04:00-04:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md","scene/companies/heartbeat-opera.md"]
-slug = "brent-reilly-turner"
-title = "Brent Reilly Turner"
-website = "https://www.brentturner.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/BrentReillyTurnerTenor"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/BrentRTurner"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://twitter.com/BrentRTurner"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC-pmTH5tB1MJqHLPtyhzEZQ?view_as=subscriber"
-+++
+---
+date: "2018-10-15T11:02:00-04:00"
+discipline: Tenor
+lastmod: "2018-10-15T11:04:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539615702295/Brent%20Reilly%20Turner.png.png
+publishDate: "2018-10-15T11:04:00-04:00"
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/heartbeat-opera.md
+slug: brent-reilly-turner
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/BrentReillyTurnerTenor
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/BrentRTurner
+- platform: Instagram
+  template: social-media
+  url: https://twitter.com/BrentRTurner
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC-pmTH5tB1MJqHLPtyhzEZQ?view_as=subscriber
+title: Brent Reilly Turner
+website: https://www.brentturner.com/
+cms_visible: true
+---
 
 American tenor Brent Reilly Turner has been critically acclaimed across the United States.  Turner's appearances in opera, concert and recital have been characterized as having a full, dramatic timbre, energetic personality and unique honesty.
 

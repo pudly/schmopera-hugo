@@ -1,15 +1,19 @@
-+++
-author = ["authors/jenna.md"]
-categories = "News"
-date = "2017-08-21T13:43:00-04:00"
-lastmod = "2017-08-25T10:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503611528625/2017-08-24---Nagata-Shachu-2---Copy.jpg.jpg"
-publishDate = "2017-08-25T10:08:00-04:00"
-related_companies = ["scene/companies/esprit-orchestra.md"]
-short_description = "For a pre-season taste, you can hear artists of the Esprit Orchestra and Canadian mezzo-soprano Krisztina Szabó perform Luciano Berio&#039;s Folk Songs at the Free Concert Series in the Richard Bradshaw Amphitheatre, October 3, 12pm."
-slug = "dont-miss-esprit-orchestras-35th-anniversary-season"
-title = "Don&#039;t miss: Esprit Orchestra&#039;s 35th anniversary season"
-+++
+---
+author:
+- authors/jenna.md
+categories: News
+date: "2017-08-21T13:43:00-04:00"
+lastmod: "2017-08-25T10:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503611528625/2017-08-24---Nagata-Shachu-2---Copy.jpg.jpg
+publishDate: "2017-08-25T10:08:00-04:00"
+related_companies:
+- scene/companies/esprit-orchestra.md
+short_description: For a pre-season taste, you can hear artists of the Esprit Orchestra
+  and Canadian mezzo-soprano Krisztina Szabó perform Luciano Berio&#039;s Folk Songs
+  at the Free Concert Series in the Richard Bradshaw Amphitheatre, October 3, 12pm.
+slug: dont-miss-esprit-orchestras-35th-anniversary-season
+title: 'Don&#039;t miss: Esprit Orchestra&#039;s 35th anniversary season'
+---
 
 October 2017 will mark the start of the [Esprit Orchestra](/scene/companies/esprit-orchestra/)'s 35th anniversary season, which continues the ensemble's focus on Canadian content with three world-premiere performances, and five Canadian premieres of works by internationally-acclaimed composers. All four concerts feature pre-concert chats moderated by Canadian composer [Alexina Louie](/talking-with-singers-alexina-louie/).
 
@@ -23,7 +27,9 @@ On **October 15, 2017**, Esprit begins its mainstage line-up with [*Eternal Ligh
 
 Finally, [*Taiko Plus!*](https://www.espritorchestra.com/concert-tickets/concert/taiko-plus/), on **April 15, 2018**, includes the Canadian premieres of Maki Ishii's *Mono-Prism* (1976) and Fuhong Shi's *Concentric Circles* (2009), and the world premieres of new works by Canadian composers Scott Wilson and Chris Paul Harman. The concert also features soprano [Shannon Mercer](/scene/people/shannon-mercer/), and Japanese taiko drumming ensemble Nagata Shachu.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503611567649/shannon%20mercer%20edited.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503611567649/shannon%20mercer%20edited.jpg.jpg)
 <figcaption>Shannon Mercer, soprano. Photo courtesy of Esprit Orchestra.</figcaption>
 </figure>
 

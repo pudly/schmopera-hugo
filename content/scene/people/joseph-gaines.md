@@ -1,27 +1,32 @@
-+++
-date = "2017-09-15T13:31:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-09-15T13:32:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505496693740/0435%2BJoseph%2BGaines_EDITED.jpg.jpg"
-primary_image_credit = "David Bachman"
-publishDate = "2017-09-15T13:31:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/utah-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/san-diego-opera.md"]
-slug = "joseph-gaines"
-title = "Joseph Gaines"
-website = "http://josephgaines.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jgtenor"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/jgtenor/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCKPgmZvqwS_GF6Z_jU-Ndtg"
-+++
+---
+date: "2017-09-15T13:31:00-04:00"
+discipline: Tenor
+lastmod: "2017-09-15T13:32:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505496693740/0435%2BJoseph%2BGaines_EDITED.jpg.jpg
+primary_image_credit: David Bachman
+publishDate: "2017-09-15T13:31:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/utah-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/san-diego-opera.md
+slug: joseph-gaines
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/jgtenor
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/jgtenor/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCKPgmZvqwS_GF6Z_jU-Ndtg
+title: Joseph Gaines
+website: http://josephgaines.com/
+cms_visible: true
+---
 
 Joseph Gaines is a versatile artist who has attracted the attention of opera companies and orchestras and been recognized by audiences and critics for his beautifully sung, well-acted interpretations of character roles.
 

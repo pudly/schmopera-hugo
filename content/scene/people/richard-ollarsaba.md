@@ -1,19 +1,22 @@
-+++
-date = "2017-11-13T17:47:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2017-11-13T17:47:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546739198/media/2019/01/RichardOllarsaba.jpg"
-publishDate = "2017-11-13T17:47:00-05:00"
-related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/lyric-opera-of-chicago.md"]
-slug = "richard-ollarsaba"
-title = "Richard Ollarsaba"
-website = "https://www.richardollarsaba.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/OllarsabaBassBaritone/"
-
-+++
+---
+date: "2017-11-13T17:47:00-05:00"
+discipline: Bass-baritone
+lastmod: "2017-11-13T17:47:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546739198/media/2019/01/RichardOllarsaba.jpg
+publishDate: "2017-11-13T17:47:00-05:00"
+related_companies:
+- scene/companies/minnesota-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: richard-ollarsaba
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/OllarsabaBassBaritone/
+title: Richard Ollarsaba
+website: https://www.richardollarsaba.com/
+cms_visible: true
+---
 Praised	for	his	“expressive, resonant voice" (Sun-Times) and his "powerful,	beautiful	 and	 well	 controlled	 sound,"	 (Opera	 Lively) bass-baritone Richard Ollarsaba	[o-yar-SA-ba],	 is	 quickly gaining	ground	 in	 the	 operatic	and	 concert arenas.	 He	 recently	 finished	 his	 residency	 with the	 Patrick	 G.	 and	 Shirley	 W.	 Ryan	Opera	 Center	at	 the	 Lyric	Opera	 of	 Chicago,	where	he	recently	 stepped	 into	 the	 title	 role	 in	 their	 2014	 production	 of *Don	 Giovanni* as 	 well	 as	 the Major-Domo	 in	 *Capriccio*. Previous	 production	 at LOC	 include *Der	Rosenkavalier*, *Anna	 Bolena*,	 *Tosca*,	 *The	 Passenger*,	 *Otello*,	 *Madama	 Butterfly*, *Parsifal*, *La	traviata* and	the	world-premiere	of *Bel	Canto*. In	his	time	 in	Chicago,	Richard	performed	at the Grant	Park	Music	Festival	and	the	Ravinia	 Festival	 and	 with	 such	 ensembles	 as	 Apollo	 Chorus	 of	 Chicago,	 Elmhurst	 Symphony	Orchestra,	and	Civic	Orchestra	of	Chicago.
 
 Engagements for last season included his return to Lyric Opera of Chicago for productions of *Lucia di Lammermoor*, *Les troyens*, and *Carmen*, covering the role of Timur in *Turandot* with Opera Philadelphia, and returning to Wolf Trap Opera as Luciano in *Bastianello*, Angelotti in *Tosca*, and Asdrubale in *La pietra del paragone*. The 2017-2018 season and beyond includes the title role in *Le nozze di Figaro* with Minnesota Opera, Pistola in *Falstaff* with both Opera Omaha and Intermountain Opera, Raimondo in *Lucia di Lammermoor* with Virginia Opera, Intermountain Opera, and his debut with The Dallas Opera.

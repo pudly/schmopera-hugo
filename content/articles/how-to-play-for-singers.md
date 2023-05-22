@@ -1,16 +1,41 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2015-05-20T20:46:00-04:00"
-lastmod = "2015-05-23T23:00:00-04:00"
-preamble = "Pianists, you're a busy bunch. So how do you learn all that music, and prioritize like a pro? When it comes to playing for singers, pianists are often in one of three situations:\n\n1. They have practice time to learn a song or aria.\n2. They know the song or aria, but they're playing for a new singer.\n3. They don't know the piece, and they don't know the singer.\n\nPianists have their generally great skills in sight-reading at their disposal, and the addition of a singer can easily throw a wrench in your musical plans. Here's a condensed guide to adapting your sight-reading to these three scenarios; singers notice this kind of thing, and they tend to call you back for the next gig."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432313196607/LegoPianoSquare.jpg.jpg"
-publishDate = "2015-05-22T13:02:00-04:00"
-related_articles = ["articles/on-pianists-those-vicarious-opera-singers.md","articles/in-defence-of-pianists.md","articles/pianists-plights-and-opera-fights.md","articles/the-pianists-tech-week-plight.md","articles/how-to-lead-your-pianist.md","articles/5-ways-to-build-your-rhythmic-chops.md","articles/quick-tips-the-rolled-r-test.md","articles/4-steps-to-taking-fixing-notes.md","articles/coaches-voice-teachers-and-the-grey-area-in-between.md","articles/3-life-lessons-that-practice-rooms-can-teach-you.md","articles/how-to-empathize-with-singers.md","articles/what-do-singers-want-in-a-pianist.md","articles/leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it.md","articles/playing-bel-canto-4-tips-for-pianists.md","articles/talking-with-pianists-james-cheung.md"]
-short_description = "Pianists, you&#039;re a busy bunch. So how do you learn all that music, and prioritize like a pro? When it comes to playing for singers, pianists are often in one of three situations:"
-slug = "how-to-play-for-singers"
-title = "How to play for singers"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2015-05-20T20:46:00-04:00"
+lastmod: "2015-05-23T23:00:00-04:00"
+preamble: |-
+  Pianists, you're a busy bunch. So how do you learn all that music, and prioritize like a pro? When it comes to playing for singers, pianists are often in one of three situations:
+
+  1. They have practice time to learn a song or aria.
+  2. They know the song or aria, but they're playing for a new singer.
+  3. They don't know the piece, and they don't know the singer.
+
+  Pianists have their generally great skills in sight-reading at their disposal, and the addition of a singer can easily throw a wrench in your musical plans. Here's a condensed guide to adapting your sight-reading to these three scenarios; singers notice this kind of thing, and they tend to call you back for the next gig.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432313196607/LegoPianoSquare.jpg.jpg
+publishDate: "2015-05-22T13:02:00-04:00"
+related_articles:
+- articles/on-pianists-those-vicarious-opera-singers.md
+- articles/in-defence-of-pianists.md
+- articles/pianists-plights-and-opera-fights.md
+- articles/the-pianists-tech-week-plight.md
+- articles/how-to-lead-your-pianist.md
+- articles/5-ways-to-build-your-rhythmic-chops.md
+- articles/quick-tips-the-rolled-r-test.md
+- articles/4-steps-to-taking-fixing-notes.md
+- articles/coaches-voice-teachers-and-the-grey-area-in-between.md
+- articles/3-life-lessons-that-practice-rooms-can-teach-you.md
+- articles/how-to-empathize-with-singers.md
+- articles/what-do-singers-want-in-a-pianist.md
+- articles/leonard-bernstein-nyfos-i-think-hed-be-pretty-proud-of-it.md
+- articles/playing-bel-canto-4-tips-for-pianists.md
+- articles/talking-with-pianists-james-cheung.md
+short_description: 'Pianists, you&#039;re a busy bunch. So how do you learn all that
+  music, and prioritize like a pro? When it comes to playing for singers, pianists
+  are often in one of three situations:'
+slug: how-to-play-for-singers
+title: How to play for singers
+---
 
 ### When you've got practice time
 

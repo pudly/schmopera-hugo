@@ -1,22 +1,26 @@
-+++
-date = "2017-06-18T18:59:00-06:00"
-discipline = "Soprano"
-lastmod = "2017-06-18T19:01:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497833834861/2017-06-19---HYESANG_PARK_pc_Dario_Acosta.jpg.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2017-06-18T19:01:00-06:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/bayerische-staatsoper.md"]
-slug = "hyesang-park"
-title = "Hyesang Park"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/HyesangParkSoprano/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/hyesang_park_sop/"
-+++
+---
+date: "2017-06-18T18:59:00-06:00"
+discipline: Soprano
+lastmod: "2017-06-18T19:01:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497833834861/2017-06-19---HYESANG_PARK_pc_Dario_Acosta.jpg.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2017-06-18T19:01:00-06:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/bayerische-staatsoper.md
+slug: hyesang-park
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/HyesangParkSoprano/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/hyesang_park_sop/
+title: Hyesang Park
+cms_visible: true
+---
 
 Hailed by *The New York Times* for her "bright, clear voice and impressive coloratura technique," South Korean soprano Hyesang Park is also making a name for herself in international competition circles. In the last year, she has placed in three competitions: she recently won first prize in the April 2016 Gerda Lissner Foundation International Competition, in summer 2015 she won second prize and the Audience Choice Award at the Montreal International Musical Competition, followed the next month by winning second place overall in the women’s division in Placido Domingo's International Operalia competition, as well as taking First Prize in the women's Zarzuela.
 

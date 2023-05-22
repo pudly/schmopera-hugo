@@ -1,22 +1,36 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = 2021-09-13T04:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "[Chicago Opera Theater's _Carmen_](https://chicagooperatheater.org/season/carmen) runs September 16 and 18, 2021."
-preamble = "This week, Chicago Opera Theater drops its [in-concert production of _Carmen_](https://chicagooperatheater.org/season/carmen) - the one already earning proper buzz. Star American mezzo [Jamie Barton](/scene/people/jamie-barton/) takes on the title role; and instead of the usual tenorial tones of a leading man, Don José will be sung by even-bigger-star mezzo [Stephanie Blythe](/scene/people/stephanie-blythe/), in her drag alter ego, [Blythely Oratonio](https://abcnews.go.com/Entertainment/opera-star-stephanie-blythe-starting-performing-drag/story?id=68799896).\n\nWe had to know more. So, we asked Barton herself, and conductor and COT Music Director [Lidiya Yankovskaya](/scene/people/lidiya-yankovskaya/), about a gender-bent _Carmen_ and the problem with a patriarchy:"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631538919/media/2021/09/JamieBarton_BreeAnneClowdus_mgse7y.jpg"
-primary_image_credit = "Bree Anne Clowdus."
-related_articles = ["articles/talking-with-conductors-lidiya-yankovskaya.md", "articles/talking-with-singers-stephanie-blythe.md", "articles/talking-with-singers-jamie-barton.md"]
-related_companies = ["scene/companies/chicago-opera-theater.md"]
-related_people = ["scene/people/lidiya-yankovskaya.md", "scene/people/jamie-barton.md", "scene/people/stephanie-blythe.md"]
-short_description = "\"Women who are independent, strong, and sexually liberated have a long history of receiving society's scorn because they refuse to break themselves in order to fit the approved mold. Carmen is many things, but a slutty, evil temptress? Nope.\""
-slug = "radical-women-drag-don-jose-chicago-opera-theaters-carmen"
-title = "Radical women & drag Don José: Chicago Opera Theater's Carmen"
-youtube_url = ""
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2021-09-13T04:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: '[Chicago Opera Theater''s _Carmen_](https://chicagooperatheater.org/season/carmen)
+  runs September 16 and 18, 2021.'
+preamble: |-
+  This week, Chicago Opera Theater drops its [in-concert production of _Carmen_](https://chicagooperatheater.org/season/carmen) - the one already earning proper buzz. Star American mezzo [Jamie Barton](/scene/people/jamie-barton/) takes on the title role; and instead of the usual tenorial tones of a leading man, Don José will be sung by even-bigger-star mezzo [Stephanie Blythe](/scene/people/stephanie-blythe/), in her drag alter ego, [Blythely Oratonio](https://abcnews.go.com/Entertainment/opera-star-stephanie-blythe-starting-performing-drag/story?id=68799896).
 
-+++
+  We had to know more. So, we asked Barton herself, and conductor and COT Music Director [Lidiya Yankovskaya](/scene/people/lidiya-yankovskaya/), about a gender-bent _Carmen_ and the problem with a patriarchy:
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1631538919/media/2021/09/JamieBarton_BreeAnneClowdus_mgse7y.jpg
+primary_image_credit: Bree Anne Clowdus.
+related_articles:
+- articles/talking-with-conductors-lidiya-yankovskaya.md
+- articles/talking-with-singers-stephanie-blythe.md
+- articles/talking-with-singers-jamie-barton.md
+related_companies:
+- scene/companies/chicago-opera-theater.md
+related_people:
+- scene/people/lidiya-yankovskaya.md
+- scene/people/jamie-barton.md
+- scene/people/stephanie-blythe.md
+short_description: '"Women who are independent, strong, and sexually liberated have
+  a long history of receiving society''s scorn because they refuse to break themselves
+  in order to fit the approved mold. Carmen is many things, but a slutty, evil temptress?
+  Nope."'
+slug: radical-women-drag-don-jose-chicago-opera-theaters-carmen
+title: 'Radical women & drag Don José: Chicago Opera Theater''s Carmen'
+youtube_url: ""
+---
 ## What does gender have to do with the story of Carmen?
 
 **Jamie Barton**: "When it comes to the character of Carmen, I think it has a LOT to do with the story. I can only imagine how radical it must have been in 1875 to see an opera created about a woman who was so radically liberated that she would rather die than submit to the life of subservience. Even now, that's a radical stance in some ways..."
@@ -25,7 +39,9 @@ youtube_url = ""
 
 **Barton**: "I've heard many personal accounts of female friends who have chosen to stay in their dysfunctional (and sometimes abusive) relationships because the idea of being on their own was either untenable, or more frightening than just staying. The story is driven in large part by the fact that Carmen is 'free as the air,' and will not change that part of her personality for anyone. That radical point of view – in the face of toxic masculinity and the patriarchal notion of ownership over women – has held the fascination of audiences for almost 150 years."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631539032/media/2021/09/LidiyaYankovskaya_KateLemmon_zsiotp.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631539032/media/2021/09/LidiyaYankovskaya_KateLemmon_zsiotp.jpg)
 
 <figcaption>Conductor Lidiya Yankovskaya, Music Director of Chicago Opera Theater. Photo: Kate Lemmon.</figcaption>
 
@@ -37,7 +53,9 @@ youtube_url = ""
 
 **Yankovskaya**: "I don't think the story changes at all--it is still a story of a tumultuous relationship, with possessiveness and jealousy that (spoiler alert) leads to murder. However, I do find that each performer--no matter who they are--brings their own experience and perspective to the character. I am sure that as with anyone else singing the role, Stephanie's personal perspective will illuminate Don José in a unique way. Perhaps this casting will also help bring modern audiences closer to the story, as the social stigma encountered by Carmen and Don José has parallels to what queer couples face in contemporary American culture."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631539001/media/2021/09/StephanieBlythe_BlythelyOratonio_iwafs4.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631539001/media/2021/09/StephanieBlythe_BlythelyOratonio_iwafs4.jpg)
 
 <figcaption>Mezzo-soprano Stephanie Blythe as Blythely Oratonio.</figcaption>
 
@@ -51,7 +69,9 @@ youtube_url = ""
 
 **Barton**: "I've always hated the notion that Carmen is a slutty, evil temptress who ruins Don José's life, and I've seen that story told many times across many productions. And yet, it’s not surprising... women who are independent, strong, and sexually liberated have a long history of receiving society's scorn because they refuse to break themselves in order to fit the approved mold. Carmen is many things, but a slutty, evil temptress? Nope – that's a cop-out, and a story perpetuated for ages to keep women away from their own power."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1631539111/media/2021/09/MichaelSumuel_KristinHoebermann_qhhs3r.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1631539111/media/2021/09/MichaelSumuel_KristinHoebermann_qhhs3r.jpg)
 
 <figcaption>Bass-baritone Michael Sumuel, who sings Escamillo in Chicago Opera Theater's production of Carmen, 2021. Photo: Kristin Hoebermann.</figcaption>
 

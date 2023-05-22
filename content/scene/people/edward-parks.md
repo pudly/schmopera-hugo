@@ -1,18 +1,25 @@
-+++
-date = "2017-04-09T11:43:00+01:00"
-discipline = "Baritone"
-lastmod = "2017-04-09T11:45:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491734605511/Edward%20Parks.jpeg.jpeg"
-publishDate = "2017-04-09T11:43:00+01:00"
-related_companies = ["scene/companies/nashville-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/opera-theatre-of-st-louis.md"]
-slug = "edward-parks"
-title = "Edward Parks"
-website = "http://www.edwardparksiii.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Edward_Parks"
-+++
+---
+date: "2017-04-09T11:43:00+01:00"
+discipline: Baritone
+lastmod: "2017-04-09T11:45:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1491734605511/Edward%20Parks.jpeg.jpeg
+publishDate: "2017-04-09T11:43:00+01:00"
+related_companies:
+- scene/companies/nashville-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+slug: edward-parks
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Edward_Parks
+title: Edward Parks
+website: http://www.edwardparksiii.com/
+cms_visible: true
+---
 
 A native of Indiana, Pennsylvania, Mr. Parks received his bachelor of music degree from Oberlin Conservatory and his master of music degree from Yale University. A National Winner of the 2008 Metropolitan Opera National Council Auditions, Mr. Parks was named a first place winner at the 2010 Gerda Lissner Foundation International Vocal Competition and has received awards from the George London Foundation, the Marilyn Horne Foundation, the Fritz and Lavinia Jensen Foundation Competition, the Irma M. Cooper Opera Columbus International Vocal Competition, the Connecticut Opera, the Palm Beach Opera Competition and the Music Academy of the West.
 

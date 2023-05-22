@@ -1,26 +1,26 @@
-+++
-date = "2017-07-26T14:08:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-07-26T14:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501092236644/2017-07-26---Eric-Barry.jpg.jpg"
-primary_image_credit = "Matthew Fried"
-publishDate = "2017-07-26T14:08:00-04:00"
-slug = "eric-barry"
-title = "Eric Barry"
-website = "http://www.eric-barry.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ebtenor"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/EBTenor"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/ebtenor/"
-+++
+---
+date: "2017-07-26T14:08:00-04:00"
+discipline: Tenor
+lastmod: "2017-07-26T14:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1501092236644/2017-07-26---Eric-Barry.jpg.jpg
+primary_image_credit: Matthew Fried
+publishDate: "2017-07-26T14:08:00-04:00"
+slug: eric-barry
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ebtenor
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/EBTenor
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/ebtenor/
+title: Eric Barry
+website: http://www.eric-barry.com/
+cms_visible: true
+---
 
 Winner of the Bel Canto Prize at the 2016 Maryland Lyric Opera Competition, Spanish-American tenor Eric Barry is “making an impressive mark” on opera and concert stages “with a clear timbre, evenness of projection and exceptional sensitivity” (*Opera News*).
 

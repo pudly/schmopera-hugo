@@ -1,15 +1,25 @@
-+++
-date = "2018-01-24T11:31:00-05:00"
-discipline = "Soprano"
-lastmod = "2018-01-24T11:31:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516811189255/DSC_7356_fs.jpg.jpg"
-primary_image_credit = "Diana Karch"
-publishDate = "2018-01-24T11:31:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/deutsche-oper-berlin.md","scene/companies/oper-frankfurt.md","scene/companies/la-monnaie.md","scene/companies/opra-national-de-paris.md","scene/companies/garsington-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md"]
-slug = "juanita-lascarro"
-title = "Juanita Lascarro"
-website = "http://www.juanita-lascarro.de/e_index.htm"
-+++
+---
+_template: people_single
+date: "2018-01-24T11:31:00-05:00"
+discipline: Soprano
+lastmod: "2018-01-24T11:31:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516811189255/DSC_7356_fs.jpg.jpg
+primary_image_credit: Diana Karch
+publishDate: "2018-01-24T11:31:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/la-monnaie.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/garsington-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+slug: juanita-lascarro
+title: Juanita Lascarro
+website: http://www.juanita-lascarro.de/e_index.htm
+cms_visible: true
+---
 
 Colombian born Juanita Lascarro began her studies in biology in Bogotá, before moving to Cologne to pursue her singing career at the Cologne Musikhochschule and the Opera Studio of the Cologne Opera. 
 Notable operatic roles to date include Lulu, Manon, Donna Elvira, Violetta, Pamina, Fiordiligi, Suor Angelica, Daphne, Emma (*Fierrabras*, Schubert), Broucek (Janacek), Zdenka, Musette, Ilia, Susanna, Fiordiligi, Countess Almaviva, Antonia, Daphne, Poppea, Juliette, Manon, Zarfana in the Feen from Wagner, and Agrippina for the Opera Frankfurt, where she is a principal soloist.

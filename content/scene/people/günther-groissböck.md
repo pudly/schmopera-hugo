@@ -1,14 +1,21 @@
-+++
-discipline = "Bass"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1587928938/media/2020/04/GuntherGroissbock_apzltk.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/teatro-alla-scala.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/wiener-staatsoper.md", "scene/companies/opra-national-de-paris.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "gunther-groissbock"
-social_media = []
-title = "Günther Groissböck"
-website = "http://www.guenther-groissboeck.com/"
-
-+++
+---
+_template: people_single
+discipline: Bass
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1587928938/media/2020/04/GuntherGroissbock_apzltk.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/teatro-alla-scala.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/the-metropolitan-opera.md
+slug: gunther-groissbock
+social_media: []
+title: Günther Groissböck
+website: http://www.guenther-groissboeck.com/
+cms_visible: true
+---
 Günther Groissböck studied at the University of Music and Performing Arts in Vienna, first with Robert Holl and later with José van Dam. He is a regular guest at leading venues worldwide, such as the Metropolitan Opera New York, the Milan Scala, the Bavarian State Opera in Munich, the Vienna State Opera, the Opéra de Paris, the State Opera and the Deutsche Oper Berlin, the Salzburg and Bayreuth Festival. His operatic repertoire includes Baron Ochs (_Der Rosenkavalier_), Boris Godunov, Fasolt, Hunding (_Die Walküre_), Landgraf Herrmann (_Tannhäuser_), Veit Pogner (Die Meistersinger von Nürnberg), König Marke (_Tristan und Isolde_), Gurnemanz (_Parsifal_), King Heinrich (_Lohengrin_), Daland (_The Flying Dutchman_), Caspar (_The Freischütz_), Vodník (_Rusalka_), Sarastro (_The Magic Flute_), Kecal (_The Bride Sold_), Rocco (_Fidelio_).
 
 Günther Groissböck is also an active concert artist who performs in the Accademia Nazionale di Santa Cecilia, in the Amsterdam Concertgebouw, in the Leipzig Gewandhaus, in the Munich and Berlin Philharmonic, in the Vienna Musikverein and Konzerthaus, in Carnegie Hall and in the Boston Symphony Hall. Conductors with whom he worked include Philippe Jordan, James Levine, Yannick Nézet-Séguin, Zubin Mehta, John Eliot Gardiner, Antonio Pappano, Kirill Petrenko and Andris Nelsons.

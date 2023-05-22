@@ -1,19 +1,21 @@
-+++
-date = "2017-04-11T13:40:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-04-11T13:51:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546829485/media/2019/01/KittyWhatelyheadshot.gif"
-publishDate = "2017-04-11T13:51:00+01:00"
-related_companies = ["scene/companies/opera-holland-park.md"]
-slug = "kitty-whately"
-title = "Kitty Whately"
-website = "https://www.kittywhately.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/kittywhately"
-
-+++
+---
+date: "2017-04-11T13:40:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2017-04-11T13:51:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546829485/media/2019/01/KittyWhatelyheadshot.gif
+publishDate: "2017-04-11T13:51:00+01:00"
+related_companies:
+- scene/companies/opera-holland-park.md
+slug: kitty-whately
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/kittywhately
+title: Kitty Whately
+website: https://www.kittywhately.com/
+cms_visible: true
+---
 Kitty Whately trained at Chetham’s School of Music, the Guildhall School of Music and Drama, and the Royal College of Music International Opera School.  She won both the Kathleen Ferrier Award and the 59th Royal Overseas League Award in the same year, and was part of the prestigious Verbier Festival Academy where she appeared as Cherubino in *Le Nozze di Figaro* and in Beethoven’s Choral Fantasy.  Kitty was a BBC New Generation Artist from 2013-15, during which time she recorded her debut solo album *This Other Eden*, made recordings with the BBC orchestras, commissioned a new song cycle and made several appearances at the Proms.
 
 Opera highlights include the world premiere of Vasco Mendonça’s *The House Taken Over* directed by Katie Mitchell, with performances in Antwerp, Strasbourg, Luxembourg, Bruges and Lisbon; Rosina *Il barbiere di Siviglia* and Stewardess in Jonathan Dove’s *Flight* (Opera Holland Park); Hermia *A Midsummer Night’s Dream* (Bergen National Opera); Kate *Owen Wingrave* (Opéra National de Lorraine); Dorabella *Cosi fan tutte* (English Touring Opera) and Ippolita / Pallade in Cavalli’s *Elena* in Montpellier and Versailles for the Aix-en-Provence Festival; and Eurydice *Orfeo* with English National Opera at Bristol Old Vic Theatre.

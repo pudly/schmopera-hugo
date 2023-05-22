@@ -1,24 +1,29 @@
-+++
-date = "2015-10-11T10:22:00-04:00"
-discipline = "Countertenor"
-lastmod = "2015-10-11T10:22:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633539141/media/2021/10/DanielCabena_zepp0p.jpg"
-primary_image_credit = ""
-publishDate = "2015-10-11T10:22:00-04:00"
-related_companies = ["scene/companies/edmonton-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/soundstreams.md", "scene/companies/lopra-de-montral.md", "scene/companies/cosi-centre-for-opera-studies-in-italy.md"]
-slug = "daniel-cabena"
-title = "Daniel Cabena"
-website = "http://danielcabena.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/danielcabenacountertenor/timeline/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/danielcabena"
-
-+++
+---
+date: "2015-10-11T10:22:00-04:00"
+discipline: Countertenor
+lastmod: "2015-10-11T10:22:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1633539141/media/2021/10/DanielCabena_zepp0p.jpg
+primary_image_credit: ""
+publishDate: "2015-10-11T10:22:00-04:00"
+related_companies:
+- scene/companies/edmonton-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/soundstreams.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/cosi-centre-for-opera-studies-in-italy.md
+slug: daniel-cabena
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/danielcabenacountertenor/timeline/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/danielcabena
+title: Daniel Cabena
+website: http://danielcabena.com/
+cms_visible: true
+---
 Canadian countertenor Daniel Cabena is highly regarded in both Canada and Europe for prize-winning performances ranging from baroque to contemporary repertoire.
 
 As Lydie-Anne in the world premiere of _Les Feluettes_ (March/Bouchard) with Opera de Montreal, critic Richard Turp declared his performance “both profoundly touching and utterly compelling, his vocal poise and theatrical aplomb constantly rewarding.” Daniel reprised his role with Pacific Opera Victoria and Edmonton Opera.

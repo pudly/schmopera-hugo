@@ -1,19 +1,22 @@
-+++
-date = "2017-09-13T10:06:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-12-13T07:59:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546223746/media/2018/12/sqSiobhanStaggSimonPauly201813.jpg"
-publishDate = "2017-09-13T10:06:00-04:00"
-related_companies = ["scene/companies/staatsoper-berlin.md", "scene/companies/royal-opera-house.md"]
-slug = "siobhan-stagg"
-title = "Siobhan Stagg"
-website = "https://siobhanstagg.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/siobhanstagg"
-
-+++
+---
+date: "2017-09-13T10:06:00-04:00"
+discipline: Soprano
+lastmod: "2018-12-13T07:59:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546223746/media/2018/12/sqSiobhanStaggSimonPauly201813.jpg
+publishDate: "2017-09-13T10:06:00-04:00"
+related_companies:
+- scene/companies/staatsoper-berlin.md
+- scene/companies/royal-opera-house.md
+slug: siobhan-stagg
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/siobhanstagg
+title: Siobhan Stagg
+website: https://siobhanstagg.com/
+cms_visible: true
+---
 Siobhan Stagg is one of the most outstanding young artists to emerge from Australia in recent years. Christa Ludwig has described Siobhan’s voice as “one of the most beautiful I’ve ever heard.”
 
 After finishing her studies in June 2013, Siobhan began her career as a young artist at the Salzburg Festival (2013) and the Deutsche Oper Berlin (2013-2015), where she debuted as Woglinde and the Woodbird in the *Ring cycle* conducted by Sir Simon Rattle. While still a young artist in Berlin, Siobhan debuted at the Hamburg State Opera as Cordelia in Aribert Reimann’s *Lear*, conducted by Simone Young (available on DVD). She sang Dede in Bernstein’s *A Quiet Place* with Kent Nagano and Ensemble Modern and Marzelline in *Fidelio* at the Grand Théâtre de Genève. 

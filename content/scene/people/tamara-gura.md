@@ -1,31 +1,32 @@
-+++
-date = "2018-02-18T21:52:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2018-02-18T21:52:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519008356968/photobluedress_fullres.jpg.jpg"
-primary_image_credit = "Uwe Arens"
-publishDate = "2018-02-18T21:52:00-05:00"
-related_companies = ["scene/companies/semperoper-dresden.md","scene/companies/english-national-opera.md"]
-slug = "tamara-gura"
-title = "Tamara Gura"
-website = "http://www.tamaragura.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/tamara.gura"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/mezzojazz"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/tami727/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/playlist?list=PLHwP4fYgVWvjOBodTNP9P0RkkNPpAv5z0"
-+++
+---
+date: "2018-02-18T21:52:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2018-02-18T21:52:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1519008356968/photobluedress_fullres.jpg.jpg
+primary_image_credit: Uwe Arens
+publishDate: "2018-02-18T21:52:00-05:00"
+related_companies:
+- scene/companies/semperoper-dresden.md
+- scene/companies/english-national-opera.md
+slug: tamara-gura
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/tamara.gura
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/mezzojazz
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/tami727/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/playlist?list=PLHwP4fYgVWvjOBodTNP9P0RkkNPpAv5z0
+title: Tamara Gura
+website: http://www.tamaragura.com/
+cms_visible: true
+---
 
 American mezzo-soprano TAMARA GURA is rapidly establishing herself as one of the most exciting mezzos of her generation, having garnered international attention for her velvety, warm-timbred voice; clear, precise coloratura; and dynamic stage presence.
 

@@ -1,16 +1,24 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2014-09-16T17:00:00-04:00"
-lastmod = "2015-04-16T15:10:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429211300636/Klinghoffer-1.jpg.jpg"
-publishDate = "2014-09-16T17:00:00-04:00"
-related_articles = ["articles/schmopera-is-one.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md"]
-short_description = "I came across an article today that prompted me to weigh in on all the talk about The Death of Klinghoffer. Andrea Peyser at the New York Post just published this piece, stating, &quot;The Met is to present an obscene opera titled &#039;The Death of Klinghoffer&#039; — a musical celebration of the senseless murder by Palestinian monsters of a defenseless, elderly Jewish New Yorker.&quot; Sigh. "
-slug = "the-klinghoffer-example"
-title = "The Klinghoffer Example"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2014-09-16T17:00:00-04:00"
+lastmod: "2015-04-16T15:10:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429211300636/Klinghoffer-1.jpg.jpg
+publishDate: "2014-09-16T17:00:00-04:00"
+related_articles:
+- articles/schmopera-is-one.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+short_description: 'I came across an article today that prompted me to weigh in on
+  all the talk about The Death of Klinghoffer. Andrea Peyser at the New York Post
+  just published this piece, stating, &quot;The Met is to present an obscene opera
+  titled &#039;The Death of Klinghoffer&#039; — a musical celebration of the senseless
+  murder by Palestinian monsters of a defenseless, elderly Jewish New Yorker.&quot;
+  Sigh. '
+slug: the-klinghoffer-example
+title: The Klinghoffer Example
+---
 
 ll the talk about _The Death of Klinghoffer_. Andrea Peyser at the _New York Post_ just published [this piece](http://nypost.com/2014/09/15/the-met-operas-new-musical-celebration-promoting-bigotry/), stating, "The Met is to present an obscene opera titled 'The Death of Klinghoffer' — a musical celebration of the senseless murder by Palestinian monsters of a defenseless, elderly Jewish New Yorker." Sigh. Quick briefing: _Klinghoffer_ is based on the [1985 hijacking](http://en.wikipedia.org/wiki/Achille_Lauro_hijacking) of the cruise ship _Achille Lauro_ by Palestinian terrorists; Leon Klinghoffer was a Jewish, wheelchair-bound passenger on the ship, and the anti-Semitic terrorists shot him and threw his body overboard. John Adams' _The Death of Klinghoffer_ was in the news earlier this year when Peter Gelb decided to cancel its HD broadcast (he ceded to claims of anti-Semitism, including from the Anti-Defamation League's Abraham Foxman, who even admitted he _hadn't seen it_.) Now, the piece is still set to [hit the stage at the Met](http://www.metopera.org/opera/the-death-of-klinghoffer-adams-tickets) starting October 20th, and new protests are scheduled.
 Did you know that there's a [Coalition Against Terror Opera](http://www.bcjewishlink.com/index.php?option=com_content&view=article&id=4771:the-coalition-against-terror-opera-cato-calls-for-protest-at-the-met&catid=150:news&Itemid=562) (CATO)? I know, right? There's also COPMA, or [Citizens Opposed to Propaganda Masquerading as Art](http://www.copma.net/). Now, these organizations make me confused and amused at the same time, but they're loud and organized; "[CATO](http://schmopera.com/wp-admin/CATO%20believes%20that%20incontrovertible%20evidence%20exists%20in%20the%20libretto%20by%20Alice%20Goodman,%20and%20in%20remarks%20made%20by%20Gelb%20and%20the%20composer,%20John%20Adams,%20that%20the%20opera%20supports%20sympathy%20for%20terrorists%20and%20hatred%20for%20Jews%20and%20Israel.) believes that incontrovertible evidence exists in the libretto by Alice Goodman, and in remarks made by Gelb and the composer, John Adams, that the opera supports sympathy for terrorists and hatred for Jews and Israel." And COPMA's latest achievement seems to be [this ad](http://www.copma.net/wp-content/uploads/2014/09/COPMA_Ad_Klinghoffer2.pdf) for the protest they're staging outside Lincoln Center on September 22nd (5pm, in case you're free).

@@ -1,23 +1,33 @@
-+++
-author = ["authors/jenna.md","authors/greg.md"]
-categories = "Review"
-date = "2015-04-10T20:10:00-04:00"
-lastmod = "2015-04-13T16:16:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428711043690/Orpheus_Fotor.jpg.jpg"
-publishDate = "2015-04-10T20:10:00-04:00"
-related_articles = ["articles/in-review-opera-ateliers-armide.md"]
-related_companies = ["scene/companies/opera-atelier.md"]
-related_people = ["scene/people/meghan-lindsay.md","scene/people/peggy-kriha-dye.md","scene/people/mireille-lebel.md"]
-short_description = "A collaborative review with contributor Greg Finney of Opera Atelier production of Orpheus &amp; Eurydice at Opera Atelier."
-slug = "orpheus-eurydice-opera-atelier"
-title = "In review: Orpheus &amp; Eurydice at Opera Atelier"
-+++
+---
+author:
+- authors/jenna.md
+- authors/greg.md
+categories: Review
+date: "2015-04-10T20:10:00-04:00"
+lastmod: "2015-04-13T16:16:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428711043690/Orpheus_Fotor.jpg.jpg
+publishDate: "2015-04-10T20:10:00-04:00"
+related_articles:
+- articles/in-review-opera-ateliers-armide.md
+related_companies:
+- scene/companies/opera-atelier.md
+related_people:
+- scene/people/meghan-lindsay.md
+- scene/people/peggy-kriha-dye.md
+- scene/people/mireille-lebel.md
+short_description: A collaborative review with contributor Greg Finney of Opera Atelier
+  production of Orpheus &amp; Eurydice at Opera Atelier.
+slug: orpheus-eurydice-opera-atelier
+title: 'In review: Orpheus &amp; Eurydice at Opera Atelier'
+---
 
 **Jenna:** Opera Atelier has opened its run of Gluck's [_Orpheus and Eurydice_](http://www.operaatelier.com/season/14-15-season/), set to play until April 19th at the Elgin Theatre. OA presented Berlioz's version of the score, which is one of the company's first dips into 19th-century repertoire, tangental as the dip may be. I'm not hugely familiar with the piece, and so the differences in Berlioz's version weren't apparent to me as a listener; I'd be curious to compare the scores. I do know that Gluck's score has moments of stunning beauty, and really neat orchestra effects (perhaps augmented by Berlioz) that sound ahead of their time.
 
 **Jenna:** The cast of singers is tiny; [Peggy Kriha Dye](https://www.facebook.com/peggykrihadyeofficial) sang a lovely and clear Eurydice, [Meghan Lindsay](http://www.meghanlindsay.com/) flaunted a bright sound and a trouser-role affect as Amour, and mezzo-soprano [Mireille Lebel](http://www.mireillelebel.com/) returned Opera Atelier as Orpheus. Lebel has a sweet sound, making me think of roles like Cherubino and Annio (which are on her résumé); unfortunately, she didn't carry well in the hall. The role seemed very low for her (and most mezzos today, I imagine), and we lost a lot of the affect in Gluck's low writing for Orpheus. Lebel sounded much more comfortable in a higher tessitura, but I was missing the clarity in the coloratura passages. I wouldn't mind hearing Lebel in a different role; I've found that Gluck roles tend to lie in the cracks between the divisions of the voice types of today. Peggy Kriha Dye sang Eurydice with beautiful connection between voice and body. She has a single, extended scene in which she goes from excitement over seeing Orpheus, to suspicion at his lack of eye contact, to despair. I thought she paced it beautifully and always used her voice as her primary tool. Meghan Lindsay was spunky as Amour, and hers was some of the most interesting music of the night. Trouser roles for a soprano are decidedly rare, but Meghan was strutting around with great masculine energy, and full of youth.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428865673577/Orpheus5_Fotor.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428865673577/Orpheus5_Fotor.jpg.jpg)
 <figcaption>Mireille Lebel (Orpheus), Peggy Kriha Dye (Eurydice) and Meghan Lindsay (Amour). Photo by Bruce Zinger.</figcaption>
 </figure>
 
@@ -28,7 +38,9 @@ title = "In review: Orpheus &amp; Eurydice at Opera Atelier"
 
 **Jenna:** The production, I found frustrating. I often struggle with the stylization of Artistic Director [Marshall Pynkoski](http://www.operaatelier.com/about/creative-team/)'s direction, which make use of Baroque gesture and dramatic affectation to tell the story. I think it comes down simply to taste on my end, but I found that this production of _Orpheus_ highlighted my reasons for apprehension. The gestures and poses seemed particularly devoid of motivation; they simply happened in succession, like gesture-by-numbers. The singers were physically committed to their poses, and were always beautiful; but it didn't always feel genuine. I understand what the gestures mean, but the irony here was that the reason for the affectation was covered up by the stylized production. The _human_ parts of this story, like Orpheus' passage through various stages of grief, and Eurydice's very personal insecurities, are what keeps this myth a relevant story. For me, the aesthetic didn't allow for human qualities, and so the expressions of grief or joy seemed disingenuous.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428865853817/Orpheus2_Fotor.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428865853817/Orpheus2_Fotor.jpg.jpg)
 <figcaption>Mireille Lebel (Orpheus) with Artists of Atelier Ballet. Photo by Bruce Zinger.</figcaption>
 </figure>
 
@@ -38,7 +50,9 @@ title = "In review: Orpheus &amp; Eurydice at Opera Atelier"
 
 **Jenna:** The Opera Atelier Ballet were beautiful as always, and they had lots of stage time in this production. Pynkoski mentioned in his pre-show talk that Berlioz had left the final ballet out of his version, stating that he would have kept them, had he the resources to perform them. Artistic Director Jeannette Lajeunesse Zingg gave the task to the Atelier dancers, and it was a great opportunity to show off more of their individual techniques. I'll leave the details to Greg, since he's the one with the dance background.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428865919503/Orpheus3_Fotor.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428865919503/Orpheus3_Fotor.jpg.jpg)
 <figcaption>Artists of Atelier Ballet. Photo by Bruce Zinger.</figcaption>
 </figure>
 

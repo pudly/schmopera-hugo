@@ -1,22 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = 2020-01-18T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = ""
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1579388901/media/2020/01/sqPhilWinterreise_zy6evc.jpg"
-primary_image_credit = ""
-related_articles = []
-related_companies = []
-related_people = []
-short_description = "It was Canadian bass-baritone Philippe Sly, backed by Le Chimera Project - the unusual-for-Lieder band of clarinet, trombone, accordion, and violin - staged by director Roy Rallo. The group of artists seem to have come together precisely to develop this take on Schubert's Winterreise, and to do so from as blank an artistic slate as possible."
-slug = "things-we-didnt-ask-for-winterreise-at-21c"
-title = "Things we didn't ask for: Winterreise at 21C"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2020-01-18T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: ""
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1579388901/media/2020/01/sqPhilWinterreise_zy6evc.jpg
+primary_image_credit: ""
+related_articles: []
+related_companies: []
+related_people: []
+short_description: It was Canadian bass-baritone Philippe Sly, backed by Le Chimera
+  Project - the unusual-for-Lieder band of clarinet, trombone, accordion, and violin
+  - staged by director Roy Rallo. The group of artists seem to have come together
+  precisely to develop this take on Schubert's Winterreise, and to do so from as blank
+  an artistic slate as possible.
+slug: things-we-didnt-ask-for-winterreise-at-21c
+title: 'Things we didn''t ask for: Winterreise at 21C'
+youtube_url: ""
+---
 It wouldn't be a 21st-century music festival without something baffling on the line-up, right?
 
 I was indeed a bit baffled by Friday night's item for this year's 21C Festival, the annual series curated by The Royal Conservatory of Music and dedicated to music from this century. _Winterreise 2020_ was its name, a title that's fairly self-explanatory to anyone who knows of Franz Schubert and his famed 1828 song cycle on poems by Wilhelm Müller.
@@ -29,7 +33,9 @@ I can get behind the motivating theme. _Winterreise_, famously studied and perfo
 
 Rallo writes in his director's notes, "We asked ourselves how this music would sound if it were interpreted by a stranger to that tradition, a kind of outsider, knowing that for us this was no longer possible."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1579379217/media/2020/01/PhilippeSly_crpovz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1579379217/media/2020/01/PhilippeSly_crpovz.jpg)
 
 <figcaption>Philippe Sly, bass-baritone.</figcaption>
 

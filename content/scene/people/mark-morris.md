@@ -1,23 +1,28 @@
-+++
-date = "2015-09-02T16:35:00-04:00"
-discipline = "Choreographer, director, conductor"
-lastmod = "2015-09-02T16:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441225941509/Mark-Morris_Amber-Star-Merkens_2015-selectSquare.jpg.jpg"
-primary_image_credit = "Amber Star Merkens"
-publishDate = "2015-09-02T16:35:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/mark-morris-dance-group.md"]
-slug = "mark-morris"
-title = "Mark Morris"
-website = "http://markmorrisdancegroup.org/the-dance-group/mark-morris"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/MarkMorrisDanceGroup"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MarkMorrisDance"
-+++
+---
+date: "2015-09-02T16:35:00-04:00"
+discipline: Choreographer, director, conductor
+lastmod: "2015-09-02T16:35:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1441225941509/Mark-Morris_Amber-Star-Merkens_2015-selectSquare.jpg.jpg
+primary_image_credit: Amber Star Merkens
+publishDate: "2015-09-02T16:35:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/english-national-opera.md
+- scene/companies/mark-morris-dance-group.md
+slug: mark-morris
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/MarkMorrisDanceGroup
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/MarkMorrisDance
+title: Mark Morris
+website: http://markmorrisdancegroup.org/the-dance-group/mark-morris
+cms_visible: true
+---
 
 MARK MORRIS was born on August 29, 1956, in Seattle, Washington, where he studied with Verla Flowers and Perry Brunson. In the early years of his career, he performed with the companies of Lar Lubovitch, Hannah Kahn, Laura Dean, Eliot Feld, and the Koleda Balkan Dance Ensemble. He formed the Mark Morris Dance Group (MMDG) in 1980 and has since created close to 150 works for the company. From 1988 to 1991, he was Director of Dance at the Théâtre Royal de la Monnaie in Brussels, the national opera house of Belgium. In 1990, he founded the White Oak Dance Project with Mikhail Baryshnikov. Much in demand as a ballet choreographer, Morris has created nineteen ballets since 1986 and his work is in the repertory of companies worldwide. 
 

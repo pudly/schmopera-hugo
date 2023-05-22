@@ -1,22 +1,44 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2019-10-25T04:00:00+00:00"
-disclaimer = ""
-image_gallery = []
-postamble = "If you have a true story of sexual harassment, abuse, or assault within the opera and classical music industries, you can send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com)."
-preamble = "This is one part in a series of personal accounts of harassment, abuse, and assault in the opera and classical music industries. These stories are published as told to me, with names and details withheld at the author's request."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571863310/media/2019/10/TheStories16_f1xivs.jpg"
-primary_image_credit = ""
-related_articles = ["articles/thestories-part-14.md", "articles/thestories-part-13.md", "articles/thestories-part-12.md", "articles/thestories-part-10-1.md", "articles/thestories-part-10-2.md", "articles/thestories-part-9.md", "articles/thestories-part-8.md", "articles/thestories-part-10.md", "articles/thestories-part-6.md", "articles/thestories-part-5.md", "articles/thestories-part-4.md", "articles/thestories-part-3.md", "articles/thestories-part-2.md", "articles/thestories-part-i.md", "articles/metoo-intro.md"]
-related_companies = []
-related_people = []
-short_description = "\"I drifted off, and at some point, I saw a dark figure come into the room, with two more full glasses of wine... and the next thing I knew I was fully naked, and I didn’t know where I was. I eventually just went along and didn't fight it, I was completely incapacitated and drunk, mostly asleep and hours away from home with no available help.\""
-slug = "thestories-part-15"
-title = "#TheStories, part 15"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2019-10-25T04:00:00+00:00"
+disclaimer: ""
+image_gallery: []
+postamble: If you have a true story of sexual harassment, abuse, or assault within
+  the opera and classical music industries, you can send it to me at [jenna@schmopera.com](mailto:jenna@schmopera.com).
+preamble: This is one part in a series of personal accounts of harassment, abuse,
+  and assault in the opera and classical music industries. These stories are published
+  as told to me, with names and details withheld at the author's request.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571863310/media/2019/10/TheStories16_f1xivs.jpg
+primary_image_credit: ""
+related_articles:
+- articles/thestories-part-14.md
+- articles/thestories-part-13.md
+- articles/thestories-part-12.md
+- articles/thestories-part-10-1.md
+- articles/thestories-part-10-2.md
+- articles/thestories-part-9.md
+- articles/thestories-part-8.md
+- articles/thestories-part-10.md
+- articles/thestories-part-6.md
+- articles/thestories-part-5.md
+- articles/thestories-part-4.md
+- articles/thestories-part-3.md
+- articles/thestories-part-2.md
+- articles/thestories-part-i.md
+- articles/metoo-intro.md
+related_companies: []
+related_people: []
+short_description: '"I drifted off, and at some point, I saw a dark figure come into
+  the room, with two more full glasses of wine... and the next thing I knew I was
+  fully naked, and I didn’t know where I was. I eventually just went along and didn''t
+  fight it, I was completely incapacitated and drunk, mostly asleep and hours away
+  from home with no available help."'
+slug: thestories-part-15
+title: '#TheStories, part 15'
+youtube_url: ""
+---
 I was doing a show where a tenor played my romantic opposite on stage. This is a very sexually charged role and show, but not one that I was a stranger to - having performed it already with a bunch of tenors who were lovely, and very professionally behaved colleagues.
 
 The production itself was okay, the tenor in question was about 15 years older than me (and in the twilight of his career it seemed) but he had done this role before and knew the ropes. I had worked with him before when I was a younger singer, doing _comprimario_ roles, and he had not once noticed me or spoke to me. But now that I was his leading lady (and still pretty young) it was different.

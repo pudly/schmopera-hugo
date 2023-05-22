@@ -1,32 +1,38 @@
-+++
-date = "2015-04-07T15:50:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-04-07T15:50:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436112927/colin_ainsworth_c_kevin_clarknr_bio.jpg.jpg"
-primary_image_credit = "Kevin Clark"
-publishDate = "2015-04-07T15:50:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/voicebox-opera-in-concert.md", "scene/companies/brooklyn-academy-of-music.md", "scene/companies/opera-atelier.md", "scene/companies/vancouver-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/calgary-opera.md", "scene/companies/royal-opera-house.md"]
-slug = "colin-ainsworth"
-title = "Colin Ainsworth"
-website = "http://www.colinainsworth.ca/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/colin.ainsworth"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ColinAinsworth"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/colinainsworth_tenor/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCIUbVy4eoBOs-Xy6XXNA02A"
-
-+++
+---
+date: "2015-04-07T15:50:00-04:00"
+discipline: Tenor
+lastmod: "2015-04-07T15:50:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436112927/colin_ainsworth_c_kevin_clarknr_bio.jpg.jpg
+primary_image_credit: Kevin Clark
+publishDate: "2015-04-07T15:50:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/brooklyn-academy-of-music.md
+- scene/companies/opera-atelier.md
+- scene/companies/vancouver-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/calgary-opera.md
+- scene/companies/royal-opera-house.md
+slug: colin-ainsworth
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/colin.ainsworth
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/ColinAinsworth
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/colinainsworth_tenor/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCIUbVy4eoBOs-Xy6XXNA02A
+title: Colin Ainsworth
+website: http://www.colinainsworth.ca/
+cms_visible: true
+---
 Canadian tenor Colin Ainsworth has distinguished himself as an up and coming tenor by his exceptional singing and diverse repertoire. 
 
 Acclaimed for his interpretations of the major Classical and Baroque tenor roles, his many roles have included the title roles in _Orphée et Euridice_, _Pygmalion_, _Castor et Pollux_, _Roberto Devereux_ and _Albert Herring_; Don Ottavio in _Don Giovanni_, Tamino in _Die Zauberflöte_, Almaviva in _Il Barbiere di Siviglia_, Ernesto in _Don Pasquale_, Rinnucio in _Gianni Schicchi_, Fenton in _Falstaff_, Tonio in _La Fille du Régiment_, Nadir in _Les Pêcheurs de Perles_, Pylades in _Iphigénie en Tauride_, Renaud in Lully's _Armide_, Tom Rakewell in _The Rake's Progress_, and Lysander in _A Midsummer Night's Dream_. An avid supporter of new works, he has appeared in the world premieres of John Estacio's _Lillian Alling_ at the Vancouver Opera, Stuart MacRae's _The Assassin Tree_ at the Edinburgh International Festival, Victor Davies' _The Transit of Venus_ with the Manitoba Opera, and Rufus Wainwright's _Prima Donna_ at Sadler's Wells in London and at the Luminato Festival. Other past opera engagements have included appearances with the Canadian Opera Company, Chicago Opera Theatre, Seattle Opera, Glimmerglass Opera, L'Opéra de Français, Opera Atelier, Pacific Opera Victoria, Edmonton Opera, and the Greek National Opera.  

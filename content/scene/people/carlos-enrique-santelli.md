@@ -1,21 +1,25 @@
-+++
-date = "2017-07-18T16:20:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-07-18T16:20:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500409081901/SANTELLI.jpg.jpg"
-publishDate = "2017-07-18T16:20:00-04:00"
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md","scene/companies/the-santa-fe-opera.md","scene/companies/los-angeles-opera.md"]
-slug = "carlos-enrique-santelli"
-title = "Carlos Enrique Santelli"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Carlos-Enrique-Santelli-46498601314/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/carlosesantelli/"
-+++
+---
+date: "2017-07-18T16:20:00-04:00"
+discipline: Tenor
+lastmod: "2017-07-18T16:20:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500409081901/SANTELLI.jpg.jpg
+publishDate: "2017-07-18T16:20:00-04:00"
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/los-angeles-opera.md
+slug: carlos-enrique-santelli
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Carlos-Enrique-Santelli-46498601314/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/carlosesantelli/
+title: Carlos Enrique Santelli
+cms_visible: true
+---
 
 Carlos Enrique Santelli, a native of Orlando, Florida, holds degrees from the University of Michigan and the Oberlin Conservatory of Music where he studied with Freda Herseth, Salvatore Champagne and Howard Lubin. He has performed numerous lead roles with the University of Michigan and Oberlin Conservatory of Music Opera Theaters. 
 

@@ -1,31 +1,40 @@
-+++
-date = "2015-04-07T16:18:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-04-07T16:18:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649864806/media/2022/04/POMEROY_PHOTO_2016_xd0jcd.jpg"
-publishDate = "2015-04-07T16:18:00-04:00"
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/l-opéra-de-montréal.md", "scene/companies/florida-grand-opera.md", "scene/companies/manitoba-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/opera-lyra-ottawa.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "david-pomeroy"
-title = "David Pomeroy"
-website = "http://www.davidpomeroy.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/David-Pomeroy/185756525537"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/PomeroyTenor"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/davidpomeroy/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/harbourartman"
-
-+++
+---
+date: "2015-04-07T16:18:00-04:00"
+discipline: Tenor
+lastmod: "2015-04-07T16:18:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1649864806/media/2022/04/POMEROY_PHOTO_2016_xd0jcd.jpg
+publishDate: "2015-04-07T16:18:00-04:00"
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/l-opéra-de-montréal.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/manitoba-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/opera-lyra-ottawa.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/vancouver-opera.md
+- scene/companies/calgary-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: david-pomeroy
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/David-Pomeroy/185756525537
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/PomeroyTenor
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/davidpomeroy/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/harbourartman
+title: David Pomeroy
+website: http://www.davidpomeroy.com/
+cms_visible: true
+---
 Canadian tenor David Pomeroy is enjoying a career that is placing him in the spotlight on the world’s most important stages. The Newfoundland native made his Metropolitan Opera debut, portraying the title role of Hoffmann in _Les Contes d’Hoffmann_, opposite soprano Anna Netrebko under the baton of Maestro James Levine. Mr. Pomeroy had sung the title role of _Faust_ with bass James Morris in the annual “Met in the Parks” concert series and later reprised the role on the main stage.  
   
 The 2021 season re-opened in Newfoundland and Labrador, with a recital series with pianist Brian Way and the Atlantic String Quartet. In fall 2021, Pomeroy makes his Gran Teatra del Liceu debut as Bacchus (_Ariadne auf Naxos)_, returning to the international stage in Barcelona, Spain for the first time post-pandemic. In February 2022, David joins the Vancouver Opera for Mascagni’s _Cavalleria rusticana_ in concert, under the baton of Jonathan Darlington.  

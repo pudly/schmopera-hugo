@@ -1,18 +1,23 @@
-+++
-date = "2019-04-07T17:21:15+00:00"
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1554657483/media/2019/04/AndrewOwens.png"
-primary_image_credit = "Wilfried Hösl"
-related_companies = ["scene/companies/opera-saratoga.md", "scene/companies/seattle-opera.md", "scene/companies/manitoba-opera.md", "scene/companies/florida-grand-opera.md"]
-slug = "andrew-owens"
-title = "Andrew Owens"
-website = "http://www.andrewowenstenor.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/PhillyTenor"
-
-+++
+---
+date: "2019-04-07T17:21:15+00:00"
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1554657483/media/2019/04/AndrewOwens.png
+primary_image_credit: Wilfried Hösl
+related_companies:
+- scene/companies/opera-saratoga.md
+- scene/companies/seattle-opera.md
+- scene/companies/manitoba-opera.md
+- scene/companies/florida-grand-opera.md
+slug: andrew-owens
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/PhillyTenor
+title: Andrew Owens
+website: http://www.andrewowenstenor.com/
+cms_visible: true
+---
 Winner of the Zarzuela prize at the 2015 Francisco Viñas International Singing Competition, American tenor Andrew Owens has quickly built a reputation as one of the most promising singers of his generation, exhibiting a beautiful Italianate timbre, soaring top notes, and effortless agility. 
 
 Andrew Owens’ 2015-2016 season begins with his company and role debut with Florida Grand Opera as Count Almaviva in _Il barbiere di Siviglia_, a role he will reprise later in the season for his company debut with North Carolina Opera. He will make his company and role debut with Seattle Opera as Leicester in a new production of _Maria Stuarda_. Mr. Owens also joins Dayton Opera for a double bill performance, pairing the world premiere of Stella Sung's _The Book Collector_ with Orff’s _Carmina Burana_. This summer he debuts with the Caramoor Music Festival as the title role in Rossini's _Aureliano in Palmira_ and as Jaquino in _Fidelio_. Highlights of Mr. Owens’ orchestral engagements this season include his debut with the Bamberger Symphoniker for performances of Beethoven’s Symphony No. 9.

@@ -1,23 +1,33 @@
-+++
-date = "2015-04-07T16:08:00-04:00"
-discipline = "Countertenor"
-lastmod = "2015-04-07T16:12:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428437219977/DavidDaniels-pc-SimonPauly.jpg.jpg"
-primary_image_credit = "Simon Pauly"
-publishDate = "2015-04-07T16:08:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/san-francisco-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/glyndebourne.md","scene/companies/royal-opera-house.md","scene/companies/the-santa-fe-opera.md","scene/companies/opera-philadelphia.md"]
-slug = "david-daniels"
-title = "David Daniels"
-website = "http://www.danielssings.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/David-Daniels/130135030388626"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/danielssings"
-+++
+---
+date: "2015-04-07T16:08:00-04:00"
+discipline: Countertenor
+lastmod: "2015-04-07T16:12:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428437219977/DavidDaniels-pc-SimonPauly.jpg.jpg
+primary_image_credit: Simon Pauly
+publishDate: "2015-04-07T16:08:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/glyndebourne.md
+- scene/companies/royal-opera-house.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/opera-philadelphia.md
+slug: david-daniels
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/David-Daniels/130135030388626
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/danielssings
+title: David Daniels
+website: http://www.danielssings.com/
+cms_visible: true
+---
 
 <p>
 	David Daniels is known for his superlative artistry, magnetic stage presence and a voice of singular warmth and surpassing beauty, which have helped him redefine his voice category for the modern public. The American countertenor has appeared with the world's major opera companies and on its main concert and recital stages. He made history as the first countertenor to give a solo recital in the main auditorium of Carnegie Hall. The <em>Chicago Tribune</em> has called Daniels "today's gold standard among countertenors." <em>Gramophone</em> magazine acknowledged his contribution to recorded excellence as well as his expansion of the repertoire for his voice type by naming him one of the "Top Ten Trailblazers" in classical music today.

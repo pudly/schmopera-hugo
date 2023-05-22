@@ -1,27 +1,33 @@
-+++
-date = "2015-04-08T15:48:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-03-23T18:48:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550515828/media/2019/02/LuciaCesaroni.jpg"
-publishDate = "2015-04-08T15:48:00+01:00"
-related_companies = ["scene/companies/odyssey-opera.md", "scene/companies/saskatoon-opera.md", "scene/companies/tapestry-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/toronto-operetta-theatre.md", "scene/companies/off-centre-music-salon.md"]
-slug = "lucia-cesaroni"
-title = "Lucia Cesaroni"
-website = "http://luciacesaroni.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/luciacee"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/luciasee/"
-[[social_media]]
-platform = "Linkedin"
-template = "social-media"
-url = "https://www.linkedin.com/in/lucia-cesaroni-b4821051/"
-
-+++
+---
+date: "2015-04-08T15:48:00+01:00"
+discipline: Soprano
+lastmod: "2016-03-23T18:48:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550515828/media/2019/02/LuciaCesaroni.jpg
+publishDate: "2015-04-08T15:48:00+01:00"
+related_companies:
+- scene/companies/odyssey-opera.md
+- scene/companies/saskatoon-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/off-centre-music-salon.md
+slug: lucia-cesaroni
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/luciacee
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/luciasee/
+- _template: people_single
+  platform: Linkedin
+  template: social-media
+  url: https://www.linkedin.com/in/lucia-cesaroni-b4821051/
+title: Lucia Cesaroni
+website: http://luciacesaroni.com/
+cms_visible: true
+---
 With her “lush, creamy voice” and “giddy coloratura”, Italian-Canadian soprano Lucia Cesaroni is freshly in demand as some of opera’s most coveted heroines, making new signature roles out of Verdi’s Violetta, Puccini’s Mimì, and Mozart’s Donna Anna. Her rescheduled 2020/21 season sees her debut at North Carolina Opera as Mimì in _La bohème_, Violetta in Saskatoon Opera’s production of _La traviata_, Fiordiligi in Vancouver Opera’s _Così fan tutte_, and Donna Clara in Zemlinsky’s _Der Zwerg_ at the Enescu Festival in Romania. With Tapestry Opera, Ms. Cesaroni sang the role of Ava in the cast recording of the award-winning opera by Gareth Williams and Anna Chatterton, _Rocking Horse Winner_; the album was broadcast in late 2020 on CBC Radio’s _Saturday Afternoon at the Opera_. In the spring of 2021, Ms. Cesaroni performs Joe Hisaishi’s _The East Land Symphony_ with both the Toronto Symphony Orchestra and the Vancouver Symphony Orchestra.
 
 In recent seasons, Ms. Cesaroni made acclaimed role debuts, including Violetta and Mimì at Pacific Opera Victoria’s productions of _La traviata_ and _La bohème_, as Donna Anna in _Don Giovanni_ at the Spoleto Festival under James Conlon, Micaëla in _Carmen_ with Maine’s Bay Chamber Concerts, and Hanna Glawari in Vancouver Opera’s _The Merry Widow_. “Amazingly enough she even manages somehow to revolve about herself, coquettishly swivelling her svelte form in places where the rest of us aren’t even jointed...and then turn around and invest an old chestnut like Lehàr’s Vilja ballade with genuine feeling,” says Lincoln Kaye for _The Vancouver Observer_. A champion of Italian _bel canto_ repertoire, Ms. Cesaroni has joined Boston’s Odyssey Opera in two productions of obscure Donizetti operas, including Mathilde in _Elizabetta, regina d’Inghilterra_, and Eleonora in _L’assedio di Calais_.

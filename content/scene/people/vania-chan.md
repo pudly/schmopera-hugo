@@ -1,18 +1,24 @@
-+++
-date = "2016-12-14T14:22:00+00:00"
-discipline = "Soprano"
-lastmod = "2016-12-14T14:22:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481725143563/2016-12-14---Vania-Chan.jpg.jpg"
-publishDate = "2016-12-14T14:22:00+00:00"
-related_companies = ["scene/companies/toronto-operetta-theatre.md","scene/companies/soundstreams.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/toronto-masque-theatre.md"]
-slug = "vania-chan"
-title = "Vania Chan"
-website = "http://www.vaniachan.com/live/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Vania-Chan-Music-169518456395699/?fref=ts"
-+++
+---
+date: "2016-12-14T14:22:00+00:00"
+discipline: Soprano
+lastmod: "2016-12-14T14:22:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481725143563/2016-12-14---Vania-Chan.jpg.jpg
+publishDate: "2016-12-14T14:22:00+00:00"
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/soundstreams.md
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/toronto-masque-theatre.md
+slug: vania-chan
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Vania-Chan-Music-169518456395699/?fref=ts
+title: Vania Chan
+website: http://www.vaniachan.com/live/
+cms_visible: true
+---
 
 Canadian lyric coloratura soprano Vania Chan received her Master of Music in Classical Voice from the Manhattan School of Music in New York, and graduated Summa Cum Laude from York University, Toronto, receiving a B.F.A. with Specialized Honours in Music. 
 

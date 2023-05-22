@@ -1,15 +1,18 @@
-+++
-date = "2015-04-06T15:09:00-04:00"
-discipline = "Composer"
-lastmod = "2015-04-06T15:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428347276605/AnaSokolovic-pc-AlainLefort.jpg.jpg"
-primary_image_credit = "Alain Lefort"
-publishDate = "2015-04-06T15:09:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md"]
-slug = "ana-sokolovic"
-title = "Ana Sokolovic"
-website = "http://www.anasokolovic.com/en/home"
-+++
+---
+_template: people_single
+date: "2015-04-06T15:09:00-04:00"
+discipline: Composer
+lastmod: "2015-04-06T15:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428347276605/AnaSokolovic-pc-AlainLefort.jpg.jpg
+primary_image_credit: Alain Lefort
+publishDate: "2015-04-06T15:09:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+slug: ana-sokolovic
+title: Ana Sokolovic
+website: http://www.anasokolovic.com/en/home
+cms_visible: true
+---
 
 <p>
 	Serbian-born composer Ana Sokolović, who has lived in Montreal for two decades, has been immersed in the arts all her life. Before taking up theatre and music, she studied classical ballet. She studied composition at university under Dusan Radić in Novi Sad and Zoran Erić in Belgrade, then completed a master's degree under the supervision of José Evangelista at the Université de Montréal in the mid-1990s. Her work is suffused with her fascination for different forms of artistic expression. Both rich and playful, her compositions draw the listener into a vividly imagined world, often inspired by Balkan folk music and its asymmetrical festive rhythms. The winds of change brought by her work quickly vaulted her to a prominent position on the Quebec, Canadian and international contemporary music scenes.

@@ -1,14 +1,32 @@
-+++
-date = "2018-01-21T17:15:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2018-01-21T17:15:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516572816748/Grimsley.G.Headshot.jpg.jpg"
-publishDate = "2018-01-21T17:15:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/houston-grand-opera.md","scene/companies/vancouver-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/deutsche-oper-berlin.md","scene/companies/san-diego-opera.md","scene/companies/los-angeles-opera.md","scene/companies/minnesota-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/seattle-opera.md","scene/companies/portland-opera.md","scene/companies/lopra-de-montral.md","scene/companies/scottish-opera.md","scene/companies/san-francisco-opera.md","scene/companies/the-dallas-opera.md","scene/companies/lyric-opera-of-chicago.md"]
-slug = "greer-grimsley"
-title = "Greer Grimsley"
-website = "http://greergrimsley.com/"
-+++
+---
+_template: people_single
+date: "2018-01-21T17:15:00-05:00"
+discipline: Bass-baritone
+lastmod: "2018-01-21T17:15:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516572816748/Grimsley.G.Headshot.jpg.jpg
+publishDate: "2018-01-21T17:15:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/san-diego-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/minnesota-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/portland-opera.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/scottish-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: greer-grimsley
+title: Greer Grimsley
+website: http://greergrimsley.com/
+cms_visible: true
+---
 
 Greer Grimsley is internationally recognized as an outstanding singing actor and one of the most prominent Wagnerian singers of our day. Continuing his reign as a leading interpreter of the god Wotan, he sang the eminent role for The Metropolitan Opera's *Der Ring des Nibelungen* in Robert Lepage's landmark production, directly followed by Stephen Wadsworth's production for Seattle Opera, his 3rd complete Cycle for the company in the last decade. His interpretation of Wotan has also brought him to multiple esteemed international opera houses; some highlights of this include his portrayal of the role in the entirety of *Der Ring des Nibelungen* with Deutsche Oper Berlin; Teatro Comunale di Bologna, under Gatti's baton; Gran Teatre del Liceu in Barcelona, New National Theatre Tokyo, and the Nikikai Opera Foundation in Tokyo. 
 

@@ -1,13 +1,22 @@
-+++
-date = "2017-09-17T19:07:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2017-09-17T19:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505689497683/Aubrey%2520Allicock%2C%2520bass-baritone.jpg.jpg"
-publishDate = "2017-09-17T19:07:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/washington-national-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/seattle-opera.md","scene/companies/the-juilliard-school.md"]
-slug = "aubrey-allicock"
-title = "Aubrey Allicock"
-+++
+---
+_template: people_single
+date: "2017-09-17T19:07:00-04:00"
+discipline: Bass-baritone
+lastmod: "2017-09-17T19:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505689497683/Aubrey%2520Allicock%2C%2520bass-baritone.jpg.jpg
+publishDate: "2017-09-17T19:07:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/washington-national-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/seattle-opera.md
+- scene/companies/the-juilliard-school.md
+slug: aubrey-allicock
+title: Aubrey Allicock
+cms_visible: true
+---
 
 Hailed by the New York Times as "sturdy", "dynamic", and "excellent", Aubrey Allicock continues to make his mark among important opera companies and symphonies both at home and abroad.
 

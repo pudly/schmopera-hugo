@@ -1,15 +1,22 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2017-02-23T08:49:00-05:00"
-lastmod = "2017-09-22T11:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506094251025/2017-09-22---Letter.jpg.jpg"
-publishDate = "2017-02-24T04:24:00-05:00"
-related_articles = ["articles/4-new-years-resolutions-for-opera-fans.md","articles/concert-etiquette-or-put-down-your-phone.md"]
-short_description = "Maybe you were dragged to the opera against your will. Maybe you were guilted into seeing the show, because you knew someone in it. Maybe you were hangry, or maybe your ass fell asleep. Or maybe Occam&#039;s Razor applies to you and your disruptive crew, and you&#039;re rude, phone-addicted people who can&#039;t read the room."
-slug = "an-open-letter-to-a-rude-bunch-of-operagoers"
-title = "An open letter to a rude bunch of operagoers"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2017-02-23T08:49:00-05:00"
+lastmod: "2017-09-22T11:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1506094251025/2017-09-22---Letter.jpg.jpg
+publishDate: "2017-02-24T04:24:00-05:00"
+related_articles:
+- articles/4-new-years-resolutions-for-opera-fans.md
+- articles/concert-etiquette-or-put-down-your-phone.md
+short_description: Maybe you were dragged to the opera against your will. Maybe you
+  were guilted into seeing the show, because you knew someone in it. Maybe you were
+  hangry, or maybe your ass fell asleep. Or maybe Occam&#039;s Razor applies to you
+  and your disruptive crew, and you&#039;re rude, phone-addicted people who can&#039;t
+  read the room.
+slug: an-open-letter-to-a-rude-bunch-of-operagoers
+title: An open letter to a rude bunch of operagoers
+---
 
 *Dear "listeners",*
 

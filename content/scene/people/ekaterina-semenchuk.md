@@ -1,18 +1,28 @@
-+++
-date = "2016-11-23T11:53:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-11-23T11:56:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479902030059/2016-11-23---SEMENCHUK-Ekaterina_photo-by-Sheila_Rock.jpg.jpg"
-primary_image_credit = "Sheila Rock"
-publishDate = "2016-11-23T11:53:00+00:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/opra-national-de-paris.md"]
-slug = "ekaterina-semenchuk"
-title = "Ekaterina Semenchuk"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ekaterina.semenchuk.mezzo/?fref=ts"
-+++
+---
+date: "2016-11-23T11:53:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2016-11-23T11:56:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479902030059/2016-11-23---SEMENCHUK-Ekaterina_photo-by-Sheila_Rock.jpg.jpg
+primary_image_credit: Sheila Rock
+publishDate: "2016-11-23T11:53:00+00:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opra-national-de-paris.md
+slug: ekaterina-semenchuk
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ekaterina.semenchuk.mezzo/?fref=ts
+title: Ekaterina Semenchuk
+cms_visible: true
+---
 
 Stagecraft and outstanding vocal qualities firmly established the reputation of Ekaterina Semenchuk as a shining star of the opera world. Leading soloist of the famous Mariinsky Theatre, she made her debut on this stage while still studying at the St. Petersburg State Conservatory.
 

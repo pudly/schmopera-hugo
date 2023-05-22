@@ -1,25 +1,25 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571842852/media/2019/10/HGO_Studio_-_Mane_Galoyan_-_Look_1_-_Photographer_Lynn_Lane-10-1_sp1hja.jpg"
-primary_image_credit = "Photo: Lynn Lane."
-related_companies = ["scene/companies/houston-grand-opera.md"]
-slug = "mane-galoyan"
-title = "Mané Galoyan"
-website = "http://www.manegaloyan.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ManeGaloyan"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/manegaloyansoprano/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/galoyanmane/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571842852/media/2019/10/HGO_Studio_-_Mane_Galoyan_-_Look_1_-_Photographer_Lynn_Lane-10-1_sp1hja.jpg
+primary_image_credit: 'Photo: Lynn Lane.'
+related_companies:
+- scene/companies/houston-grand-opera.md
+slug: mane-galoyan
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/ManeGaloyan
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/manegaloyansoprano/
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/galoyanmane/
+title: Mané Galoyan
+website: http://www.manegaloyan.com/
+cms_visible: true
+---
 Armenian soprano Mané Galoyan, whom Classical Source exclaimed, “...is a real find, small in stature but with a compelling presence and able to express feelings as naturally as breathing” in relation to her turn as Violetta in _La traviata_ with the Glyndebourne Festival on tour, is making a splash in the classical music industry.
 
 In the most recent season, Ms. Galoyan makes her Metropolitan Opera debut, singing Prilepa/Chlöe in _Pique Dame_, conducted by Vasily Petrenko. She also returns to Houston Grand Opera to sing Gilda in _Rigoletto_, debuts with Hawaii Opera Theatre as the Countess in _Le Nozze di Figaro_, and finally, performs the role of Giannetta and covers Adina in _L’elisir d’amore_ with Glyndebourne Festival.

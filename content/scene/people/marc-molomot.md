@@ -1,15 +1,17 @@
-+++
-date = "2017-11-18T15:44:00-05:00"
-discipline = "Tenor"
-lastmod = "2017-11-18T15:44:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546120641/media/2018/12/MarcMolomot-pc-JoshuaSouth.jpg"
-primary_image_credit = "Joshua South"
-publishDate = "2017-11-18T15:44:00-05:00"
-related_companies = ["scene/companies/on-site-opera.md"]
-slug = "marc-molomot"
-title = "Marc Molomot"
-
-+++
+---
+_template: people_single
+date: "2017-11-18T15:44:00-05:00"
+discipline: Tenor
+lastmod: "2017-11-18T15:44:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546120641/media/2018/12/MarcMolomot-pc-JoshuaSouth.jpg
+primary_image_credit: Joshua South
+publishDate: "2017-11-18T15:44:00-05:00"
+related_companies:
+- scene/companies/on-site-opera.md
+slug: marc-molomot
+title: Marc Molomot
+cms_visible: true
+---
 Possessed of a rare high-tenor voice and a winning stage persona that comfortably embraces both comedic and dramatic roles, Marc Molomot enjoys an international career in opera and on the concert stage. Originally known for appearances with the world’s leading early music ensembles, and conductors including William Christie, John Eliot Gardiner, Nicholas McGegan, and Andrew Parrott, Mr. Molomot is now praised as “an excellent actor-singer” in repertoire of all eras. 
 
 Recent and upcoming engagements of note include Purcell’s *The Fairy Queen* with Chicago Opera Theater and a COT co-production with Long Beach Opera, his return to the Bard Music Festival for the role of “Truffaldino” in Busoni’s *Turandot*, Berg’s *Wozzeck* with Houston Symphony Orchestra in the role of Der Hauptmann, Bach’s *Magnificat* with Israel Camerata Jerusalem, Beethoven’s Symphony No. 9 with Mobile Symphony Orchestra, Britten’s Serenadewith Omaha Symphony, and the Berkshire Choral Festival.

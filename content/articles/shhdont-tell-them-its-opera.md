@@ -1,16 +1,31 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Op-ed"
-date = "2014-11-17T09:00:00-05:00"
-lastmod = "2015-04-13T23:19:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428981452601/LIBRA.jpg.jpg"
-publishDate = "2014-11-17T09:00:00-05:00"
-related_articles = ["articles/live-theatre-respecting-short-attention-spans.md","articles/playing-the-long-game-fostering-artistic-respect.md","articles/opera-with-a-message-operation-superpower.md","articles/great-ideas-snappy-operas.md","articles/baby-opera-singers-getting-angry-for-the-right-reasons.md","articles/just-in-the-crowdsourced-melody-is-complete.md","articles/why-our-artistic-roots-matter.md","articles/cute-catchy-the-schoolyard-carmen.md","articles/dont-miss-beatrix-potter-at-edinburgh-fringe.md"]
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md"]
-short_description = "I&#039;m spending this month touring around Ontario, putting on opera for kids. We bring a whole set, costumes, props and electric keyboard, to school gyms and perform for hundreds of kids, twice a day. It&#039;s a lot of early mornings, a lot of equipment-schlepping, and a lot of time in the tour van. "
-slug = "shhdont-tell-them-its-opera"
-title = "Shh...Don&#039;t tell them it&#039;s opera!"
-+++
+---
+author:
+- authors/jenna.md
+categories: Op-ed
+date: "2014-11-17T09:00:00-05:00"
+lastmod: "2015-04-13T23:19:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428981452601/LIBRA.jpg.jpg
+publishDate: "2014-11-17T09:00:00-05:00"
+related_articles:
+- articles/live-theatre-respecting-short-attention-spans.md
+- articles/playing-the-long-game-fostering-artistic-respect.md
+- articles/opera-with-a-message-operation-superpower.md
+- articles/great-ideas-snappy-operas.md
+- articles/baby-opera-singers-getting-angry-for-the-right-reasons.md
+- articles/just-in-the-crowdsourced-melody-is-complete.md
+- articles/why-our-artistic-roots-matter.md
+- articles/cute-catchy-the-schoolyard-carmen.md
+- articles/dont-miss-beatrix-potter-at-edinburgh-fringe.md
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+short_description: 'I&#039;m spending this month touring around Ontario, putting on
+  opera for kids. We bring a whole set, costumes, props and electric keyboard, to
+  school gyms and perform for hundreds of kids, twice a day. It&#039;s a lot of early
+  mornings, a lot of equipment-schlepping, and a lot of time in the tour van. '
+slug: shhdont-tell-them-its-opera
+title: Shh...Don&#039;t tell them it&#039;s opera!
+---
 
 I'm spending this month touring around Ontario, [putting on opera for kids](http://www.coc.ca/ExploreAndLearn/Schools/SchoolTour.aspx?agilitychannel=website). We bring a whole set, costumes, props and electric keyboard, to school gyms and perform for hundreds of kids, twice a day. It's a lot of early mornings, a lot of equipment-schlepping, and a lot of time in the tour van. But it's worth it. From where I sit at the piano, I can look out at the sea of kids as they take in live opera, probably for the first time in their lives. There's the usual gamut of reactions, like wide-eyed awe, laughter, terror, and indifference. I love them all, even the blatant hands covering ears when the singers get a bit too close for comfort.
 

@@ -1,14 +1,24 @@
-+++
-date = "2017-10-13T21:46:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-10-13T21:51:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507945589834/Volle_Photographer_credit_-_Wilfried_Hsl.jpg.jpg"
-primary_image_credit = "Wilfried Hösl"
-publishDate = "2017-10-13T21:49:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/salzburg-festival.md","scene/companies/la-monnaie.md","scene/companies/gran-teatre-del-liceu.md"]
-slug = "michael-volle"
-title = "Michael Volle"
-+++
+---
+_template: people_single
+date: "2017-10-13T21:46:00-04:00"
+discipline: Baritone
+lastmod: "2017-10-13T21:51:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507945589834/Volle_Photographer_credit_-_Wilfried_Hsl.jpg.jpg
+primary_image_credit: Wilfried Hösl
+publishDate: "2017-10-13T21:49:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/salzburg-festival.md
+- scene/companies/la-monnaie.md
+- scene/companies/gran-teatre-del-liceu.md
+slug: michael-volle
+title: Michael Volle
+cms_visible: true
+---
 
 Michael Voile has established himself as one of the leading baritones, receiving the important German Theatre Award "Faust" and awarded "Singer of the Year" by the opera magazine "Opernwelt". He studied with Josef Metternich and Rudolf Piernay. 
 

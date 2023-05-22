@@ -1,19 +1,26 @@
-+++
-date = "2015-05-04T17:35:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-05-04T17:35:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1572925072/media/2019/11/Nathan-Keoughan_zac0cz.jpg"
-publishDate = "2015-05-04T17:35:00-04:00"
-related_companies = ["scene/companies/pacific-opera-victoria.md", "scene/companies/vancouver-opera.md", "scene/companies/cincinnati-opera.md", "scene/companies/highlands-opera-studio.md", "scene/companies/cowtown-opera-company.md", "scene/companies/opera-by-request.md"]
-slug = "nathan-keoughan"
-title = "Nathan Keoughan"
-website = "https://www.nathankeoughan.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/nathankeoughan"
-
-+++
+---
+date: "2015-05-04T17:35:00-04:00"
+discipline: Baritone
+lastmod: "2015-05-04T17:35:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1572925072/media/2019/11/Nathan-Keoughan_zac0cz.jpg
+publishDate: "2015-05-04T17:35:00-04:00"
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/vancouver-opera.md
+- scene/companies/cincinnati-opera.md
+- scene/companies/highlands-opera-studio.md
+- scene/companies/cowtown-opera-company.md
+- scene/companies/opera-by-request.md
+slug: nathan-keoughan
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/nathankeoughan
+title: Nathan Keoughan
+website: https://www.nathankeoughan.com/
+cms_visible: true
+---
 Baritone Nathan Keoughan is a rising star to watch, with a budding international career already recognizing him as a dynamic singing actor. Praised for his “booming, rich voice”, Keoughan has been lauded for his “charismatic, frightening, and empathetic” performances (Broadway World). 
 
 Born in the countryside of Prince Edward Island to a musical family, Nathan studied voice at the University of Prince Edward Island before joining the New England Conservatory in Boston. Nathan had his operatic start as an emerging artist in Calgary Opera’s McPhee Artist Development program, followed by two seasons with l’Opéra de Montréal’s Atelier lyrique. Nathan was also a finalist in the Canadian Opera Company Centre Stage Competition.

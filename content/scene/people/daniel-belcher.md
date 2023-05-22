@@ -1,15 +1,22 @@
-+++
-date = "2015-09-25T19:39:00+01:00"
-discipline = "Baritone"
-lastmod = "2017-03-15T10:44:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451330819901/Square.jpg.jpg"
-primary_image_credit = "Christian Steiner"
-publishDate = "2015-09-25T19:43:00+01:00"
-related_companies = ["scene/companies/opera-atelier.md","scene/companies/houston-grand-opera.md","scene/companies/wolf-trap-opera.md","scene/companies/san-francisco-opera.md","scene/companies/utah-opera.md"]
-slug = "daniel-belcher"
-title = "Daniel Belcher"
-website = "http://www.danielbelcherbaritone.com/"
-+++
+---
+_template: people_single
+date: "2015-09-25T19:39:00+01:00"
+discipline: Baritone
+lastmod: "2017-03-15T10:44:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451330819901/Square.jpg.jpg
+primary_image_credit: Christian Steiner
+publishDate: "2015-09-25T19:43:00+01:00"
+related_companies:
+- scene/companies/opera-atelier.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/wolf-trap-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/utah-opera.md
+slug: daniel-belcher
+title: Daniel Belcher
+website: http://www.danielbelcherbaritone.com/
+cms_visible: true
+---
 
 "Vocally and physically agile, bright voiced and moving" (*The New York Times*), Grammy Award-winning baritone Daniel Belcher has been hailed by London’s The Guardian as "possessing the kind of stuff that indicates a star in the making." With a repertoire of more than 65 roles, Belcher has championed roles from the Baroque to those written expressly for him. He has performed with opera houses around the world including San Francisco Opera, Houston Grand Opera, New York City Opera, Opera Philadelphia, Dutch National Opera, Holland Festival, Théâtre du Châtelet, Staatsoper Stuttgart, Grand Théâtre de Genève, Barbican Centre, ABAO-OLBE Bilbao, Opéra de Montpellier, Opéra Royal de Versailles, Stockholm’s Baltic Sea Festival, Berlin’s Maerzmusik Festival, St. Gallen Festspiele, Saito Kinen Festival, Tokyo’s New National Theatre, Seoul National Arts Center, and many other international and North American venues.
  

@@ -1,15 +1,29 @@
-+++
-date = "2019-02-19T00:31:30+00:00"
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1550536129/media/2019/02/ZeljkoLucic.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/lyric-opera-of-chicago.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/teatro-alla-scala.md", "scene/companies/opernhaus-zurich.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/salzburg-festival.md", "scene/companies/wiener-staatsoper.md", "scene/companies/royal-opera-house.md", "scene/companies/opra-national-de-paris.md", "scene/companies/san-francisco-opera.md", "scene/companies/semperoper-dresden.md", "scene/companies/oper-frankfurt.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "zeljko-lucic"
-social_media = []
-title = "Željko Lučić"
-website = ""
-
-+++
+---
+_template: people_single
+date: "2019-02-19T00:31:30+00:00"
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1550536129/media/2019/02/ZeljkoLucic.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/salzburg-festival.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/royal-opera-house.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/semperoper-dresden.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/the-metropolitan-opera.md
+slug: zeljko-lucic
+social_media: []
+title: Željko Lučić
+website: ""
+cms_visible: true
+---
 Serbian baritone, Zeljko Lucic, continues to gain recognition for his performances of the dramatic repertoire in the world’s leading opera houses, including the Metropolitan Opera, Royal Opera House, San Francisco Opera, l’Opéra National de Paris, Teatro alla Scala and the Wiener Staatsoper. For his appearance in _La forza del destino_ with San Francisco Opera, the Financial Times declared, “with this Don Carlo, Zeljko Lucic served notice that he is one of today’s pre-eminent Verdi baritones.”
 
 His many engagements in the 2007-08 season included the Metropolitan Opera, singing the title role in a new production of Verdi’s _Macbeth_ (conducted by James Levine); the Wiener Staatsoper as Germont in _La traviata_; Staatsoper Dresden for the title role in _Rigoletto_; and Oper Frankfurt to reprise the title roles of _Simon Boccanegra_ and _Macbeth_, as Iago in concert performances of _Otello_, and Michele in _Il tabarro_ and the title role of Gianni Schicchi in Puccini’s _Il trittico_.

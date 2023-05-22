@@ -1,22 +1,28 @@
-+++
-author = ["authors/meghan-klinkenborg.md"]
-categories = "Review"
-date = "2018-04-16T12:57:00-04:00"
-lastmod = "2018-04-17T20:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897687427/sqOmahaOne180409ProvingUp4549.jpg.jpg"
-primary_image_credit = "Proving Up, Opera Omaha, 2018. Photo: James Matthew Daniel."
-publishDate = "2018-04-17T20:03:00-04:00"
-related_articles = ["articles/as-one-they-both-took-risks-that-paid-off.md"]
-short_description = "Personally, I felt like The Sodbuster was more of a symbolic spectre of death. Death must have been a powerful presence among settlers. It was an extremely perilous way of life, and people died frequently, often isolated and unknown. "
-slug = "confusing-creepy-proving-up"
-title = "Confusing &amp; creepy: Proving Up"
-+++
+---
+author:
+- authors/meghan-klinkenborg.md
+categories: Review
+date: "2018-04-16T12:57:00-04:00"
+lastmod: "2018-04-17T20:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897687427/sqOmahaOne180409ProvingUp4549.jpg.jpg
+primary_image_credit: 'Proving Up, Opera Omaha, 2018. Photo: James Matthew Daniel.'
+publishDate: "2018-04-17T20:03:00-04:00"
+related_articles:
+- articles/as-one-they-both-took-risks-that-paid-off.md
+short_description: 'Personally, I felt like The Sodbuster was more of a symbolic spectre
+  of death. Death must have been a powerful presence among settlers. It was an extremely
+  perilous way of life, and people died frequently, often isolated and unknown. '
+slug: confusing-creepy-proving-up
+title: 'Confusing &amp; creepy: Proving Up'
+---
 
 *Little House on the Prairie* meets *The Shining*. This phrase truly encapsulated the visceral experience that is Opera Omaha's production of *Proving Up*. Composer Missy Mazzoli and librettist Royce Vavrek have crafted an opera that captures the dark side of the American dream that is so often glossed over. Based on the short story by Karen Russell, *Proving Up* focuses on settlers who struggle against adversity, work hard, and still do not succeed. This goes against the vision of the American West that has been idealized for years, but let's be real. For every pioneer that beat the odds, there had to be countless others that failed miserably. (Hell, I can't even make it through The Oregon Trail game without dying of dysentery!)
 
 The set for *Proving Up* was both intimate and striking. Scenic designer Adam Rigg has constructed a makeshift barn-like structure in the KANEKO art gallery with a long trough of dirt as the stage. It is an appropriate focal point since the plot revolves around the concept of land ownership. Everyone is fighting and struggling for a patch of dirt to call their own, and every member of the cast interacts with the dirt throughout the opera. I can only assume that the entire cast has to hose off after each performance because every single one of them was covered in some combination of dirt, blood, and various beverages by the end of the show.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897751669/OmahaOne180409ProvingUp.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897751669/OmahaOne180409ProvingUp.jpg.jpg)
 <figcaption>*Proving Up*, Opera Omaha, 2018. Photo: James Matthew Daniel.</figcaption>
 </figure>
 
@@ -34,7 +40,9 @@ The older brother, Peter Zegner, played by Sam Shapiro, was a rather thankless r
 
 Miles Zegner is the youngest brother and appears to be the least downtrodden of the family. Michael Slattery sang the role with an air of innocence tainted by uncertainty. It was in the second half of the opera during his journey to deliver the window of glass to some neighbors that the character develops more complexity. Slattery's vocals finally got a chance to shine in his final dramatic scene, facing his own mortality and asking desperately, "What makes a home? Who owns the land?" No one answers him.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897737128/OmahaOne180411ProvingUp6557.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1523897737128/OmahaOne180411ProvingUp6557.jpg.jpg)
 <figcaption>*Proving Up*, Opera Omaha, 2018. Photo: James Matthew Daniel.</figcaption>
 </figure>
 

@@ -1,27 +1,33 @@
-+++
-date = "2015-04-15T22:39:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-04-15T22:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429151705395/0e4e2f_0acaa6cb45c406a692b969cf364d4e5c.jpg_srb_p_600_688_75_22_0.50_1.20_0.00_jpg_srb"
-primary_image_credit = "Pietro Spagnoli"
-publishDate = "2015-04-15T22:39:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md"]
-slug = "serena-malfi"
-title = "Serena Malfi"
-website = "http://www.serenamalfi.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/serenamalfimezzosoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SerenaMalfi"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/malfiserena"
-+++
+---
+date: "2015-04-15T22:39:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-04-15T22:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1429151705395/0e4e2f_0acaa6cb45c406a692b969cf364d4e5c.jpg_srb_p_600_688_75_22_0.50_1.20_0.00_jpg_srb
+primary_image_credit: Pietro Spagnoli
+publishDate: "2015-04-15T22:39:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+slug: serena-malfi
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/serenamalfimezzosoprano
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/SerenaMalfi
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/malfiserena
+title: Serena Malfi
+website: http://www.serenamalfi.com/
+cms_visible: true
+---
 
 Italian mezzo-soprano Serena Malfi studied at the Conservatorio and Accademia di Santa Cecilia in Rome making her debut in Salieri’s La Grotta di Trofonio at the Winterthur Festival in 2009.
 Since this debut she has sung in Zurich, Teatro Comunale Firenze, Jesi Festival, Teatro dell’Opera Roma, Concertegebouw Amsterdam, Palau de les Arts Valencia, Teatro Real Madrid, Opera de Oviedo, Opera National de Paris, Theatre des Champs Elysees ,Teatro Colon Buenos Aires and the Vienna State Opera.

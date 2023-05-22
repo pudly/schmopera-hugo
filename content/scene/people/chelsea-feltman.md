@@ -1,22 +1,25 @@
-+++
-date = "2018-04-29T20:47:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-04-29T20:47:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525049213581/Chelsea%20Feltman%20-%20Headshot.JPG.JPG"
-publishDate = "2018-04-29T20:47:00-04:00"
-related_companies = ["scene/companies/opera-on-tap.md","scene/companies/gramercy-opera.md"]
-slug = "chelsea-feltman"
-title = "Chelsea Feltman"
-website = "https://www.chelseafeltman.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ChelseaFeltman"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/eleanor_of_accutane/"
-+++
+---
+date: "2018-04-29T20:47:00-04:00"
+discipline: Soprano
+lastmod: "2018-04-29T20:47:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525049213581/Chelsea%20Feltman%20-%20Headshot.JPG.JPG
+publishDate: "2018-04-29T20:47:00-04:00"
+related_companies:
+- scene/companies/opera-on-tap.md
+- scene/companies/gramercy-opera.md
+slug: chelsea-feltman
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/ChelseaFeltman
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/eleanor_of_accutane/
+title: Chelsea Feltman
+website: https://www.chelseafeltman.com/
+cms_visible: true
+---
 
 Praised for her “magnetic” stage presence (NY Classical Review), “warm, golden voice” (Classical.Music.NYC), and “glossy high register” (Sundsvalls Tidning), soprano Chelsea Feltman is a dynamic performer whose repertoire spans from the baroque to contemporary periods, including musical theater and the American songbook. She has studied and performed at Tanglewood, Académie International d’Eté in Nice, La Lingua Della Lirica in Novafeltria, Italy, as Gretel in San Jose, Costa Rica, and as Gilda, Lucia, and Blondchen in concert at the Härnösand Summer Opera Festival in Sweden, where she has been a member of the resident ensemble since 2014.
 

@@ -1,25 +1,25 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601057147/media/2020/09/LarsFischer_zisv67.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/tete-a-tete.md"]
-slug = "lars-fischer"
-title = "Lars Fischer"
-website = "https://www.larsfischer.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/LarsFischerTenor/?modal=admin_todo_tour"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/user-101854030"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCXd1rAFOjPXpkw6-AE_57xg"
-
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601057147/media/2020/09/LarsFischer_zisv67.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/tete-a-tete.md
+slug: lars-fischer
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/LarsFischerTenor/?modal=admin_todo_tour
+- platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/user-101854030
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCXd1rAFOjPXpkw6-AE_57xg
+title: Lars Fischer
+website: https://www.larsfischer.com/
+cms_visible: true
+---
 Lars Fischer grew up in Hergiswil (Switzerland) and Djursholm (Sweden). He holds a BLaw from the University of Lucerne (Switzerland, 2012), a BA in Music from the Lucerne School of Music with Prof. Hans-Jürg Rickenbacher (2015) and recently graduated from Trinity Laban Conservatoire of Music and Dance with an MMus with Distinction under the tutelage of Sophie Grimmer and Rob Bottriell.
 
 Most recently, Lars performed the roles of Gronw in _Her Face was of Flowers_ (E. Jones) at Tête-à-tête Opera Festival, Achille in _La Belle Hélène_ (J. Offenbach) with Blackheath Halls Opera, Monostatos in _Die Zauberflöte_ (W. A. Mozart) with Hurn Court Opera, King of the West and Sun in _The Enchanted Pig_ (J. Dove) with Hampstead Garden Opera, Marley’s Ghost in _A Christmas Carol_ (T. Musgrave), King Kaspar in _Amahl and the Night Visitors_ (G. C. Menotti) and Lucano in _L’incoronazione di Poppea_ (C. Monteverdi) with Trinity Laban Opera. In June 2016, he created the role of Tommy in the world premiere of Stephen McNeff’s opera _Banished at Blackheath Halls_ with Jessica Cottis (musical director) and Elaine Kidd (director). Roles performed in scenes include Julien (_Louise_, G. Charpentier), Dr Caius (_Falstaff_, G. Verdi), Chevalier des Grieux (_Manon_, J. Massenet), La Théière (_L’Enfant et les Sortilèges_, M. Ravel), Soldier in _L’incoronazione di Poppea_ and Triquet in _Eugene Onegin_ (P. Tchaikovsky). Lars was also a finalist in the Lilian Ash French Song Duo Competition 2016 with Neus Peris and in the Elisabeth Schumann Lieder Competition 2019 with Andrea Emanuele at Trinity Laban Conservatoire.

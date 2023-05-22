@@ -1,18 +1,22 @@
-+++
-date = "2017-09-15T21:09:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-15T21:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505523918596/woodbury_full-1.jpg.jpg"
-publishDate = "2017-09-15T21:09:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md"]
-slug = "amanda-woodbury"
-title = "Amanda Woodbury"
-website = "http://www.amandawoodbury.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/amandaliciouswoodbury/"
-+++
+---
+date: "2017-09-15T21:09:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-15T21:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505523918596/woodbury_full-1.jpg.jpg
+publishDate: "2017-09-15T21:09:00-04:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: amanda-woodbury
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/amandaliciouswoodbury/
+title: Amanda Woodbury
+website: http://www.amandawoodbury.com/
+cms_visible: true
+---
 
 Soprano Amanda Woodbury is an alumna of the Domingo-Colburn-Stein Young Artist Program.
 Ms. Woodbury was most recently honored with the second place award and an Audience Choice

@@ -1,27 +1,37 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = 2020-12-23T05:00:00Z
-disclaimer = ""
-image_gallery = []
-postamble = "_Confessions_ is available now on [Yarlung Records](https://www.yarlungrecords.com/product/confessions/)."
-preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1608595717/media/2020/12/195448187984_wfxon6.jpg"
-primary_image_credit = "Photo: Arielle Doneson. Album cover design: Jennifer Bruce."
-related_articles = ["articles/la-nilsson-celebrating-birgit-nilsson-at-100.md", "articles/orlando-gender-bending-and-the-sound-of-androgyny-in-vienna.md", "articles/the-medium-opera-as-film-noir.md"]
-related_companies = []
-related_people = ["scene/people/laura-strickling.md"]
-short_description = "When contemplating the content for Confessions, soprano, Laura Strickling's recent recording of contemporary art songs by American composers, all of whom occupy the highest ranks of the genre, she was guided by a keen ear for quality and vocal suitability. She was also guided by a commitment to create, out of these fragile entities, a strong and satisfying musical program."
-slug = "confessions-art-songs-that-are-deeply-personal"
-title = "Confessions: Art Songs That Are Deeply Personal"
-youtube_url = ""
-
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2020-12-23T05:00:00Z"
+disclaimer: ""
+image_gallery: []
+postamble: _Confessions_ is available now on [Yarlung Records](https://www.yarlungrecords.com/product/confessions/).
+preamble: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1608595717/media/2020/12/195448187984_wfxon6.jpg
+primary_image_credit: 'Photo: Arielle Doneson. Album cover design: Jennifer Bruce.'
+related_articles:
+- articles/la-nilsson-celebrating-birgit-nilsson-at-100.md
+- articles/orlando-gender-bending-and-the-sound-of-androgyny-in-vienna.md
+- articles/the-medium-opera-as-film-noir.md
+related_companies: []
+related_people:
+- scene/people/laura-strickling.md
+short_description: When contemplating the content for Confessions, soprano, Laura
+  Strickling's recent recording of contemporary art songs by American composers, all
+  of whom occupy the highest ranks of the genre, she was guided by a keen ear for
+  quality and vocal suitability. She was also guided by a commitment to create, out
+  of these fragile entities, a strong and satisfying musical program.
+slug: confessions-art-songs-that-are-deeply-personal
+title: 'Confessions: Art Songs That Are Deeply Personal'
+youtube_url: ""
+---
 An art song is by nature deeply personal. A poem or a passage of prose ignites the composer, melding with the composition. Eschewing the conventions of popular song, and in relatively free form, it consumes a few moments in which it distills a fleeting and quite particular essence. What emerges is wholly unique in form and content. It is also fragile.
 
 When contemplating the content for [_Confessions_](https://www.yarlungrecords.com/product/confessions/), soprano [Laura Strickling](/scene/people/laura-strickling/)'s recent recording of contemporary art songs by American composers, all of whom occupy the highest ranks of the genre, she was guided by a keen ear for quality and vocal suitability. She was also guided by a commitment to create, out of these fragile entities, a strong and satisfying musical program.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595602/media/2020/12/5H3vPjcg_csosug.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1608595602/media/2020/12/5H3vPjcg_csosug.jpg)
 
 <figcaption>Soprano Laura Strickling and pianist Joy Schreier take time out for a pic during the Confessions recording session. Photo: Laura Strickling.</figcaption>  
 </figure>
@@ -30,7 +40,9 @@ Perhaps Strickling's most influential guide however, was personal experience. Th
 
 The soprano's opening gambit, Clarice Assad’s deceptively comedic three-song cycle, "Confessions," which prompts the recording's title, concerns itself with such things as social manners, ice cream and looking good. With words by Naomi Major, Alissa McLaughlan and Catherine Maxymuk, the songs are edged with insecurity, lack of self-control and the pressures of seeking perfection. Strickling veers from the rollicking to the frenzied with energized flair, keeping the underlying desperation close beside her glib and often funny interpretations.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595763/media/2020/12/p_xm1rqs.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1608595763/media/2020/12/p_xm1rqs.jpg)
 
 <figcaption>Soprano Laura Strickling performing at a recent Friday Morning Music Club gala. Photo: FMMC Inc.</figcaption>  
 </figure>
@@ -39,7 +51,9 @@ The lyrics to Gilda Lyons' "Songs of Lament and Praise," are drawn from Irish te
 
 "A Mother’s Lament," from an anonymous 11th-century source is perhaps the most tragic expression of familial loss set to music since Samuel Barber's "Andromache's Farewell". Singing Barber's seminal piece, the great Martina Arroyo found the nobility in Euripides' verse which is precisely what Strickling does in the Lyons song. It isn't so much a sound, though the ritualistic rhythm Strickling employs is certainly a part of it, but more a haunting feeling inherent in every word she sings that hangs over this emotionally wrenching work. Conversely "An Even-Song", the last in Lyons' cycle, feels close to a lullaby, albeit an intense one. Lyons composes a plea for our better angels or, as Saint Patrick put it, "thy holy angels" to guide us, which Strickland delivers as a beautifully embellished benediction.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595805/media/2020/12/p_1_a64obz.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1608595805/media/2020/12/p_1_a64obz.jpg)
 
 <figcaption>Soprano Laura Strickling performing live in a 2019 WFMT- Chicago radio recital. Photo by Daniel Schlosberg.</figcaption>  
 </figure>
@@ -50,7 +64,9 @@ Cipullo's music is bound by virtually nothing. Its boundlessness makes it contin
 
 "The Pocketbook" shows just how psychologically sound this composer/poet team is, not that there was a doubt, and that they are theatrically inclined as well. Unfolding like an unhinged oratorio it is played to comic heights only to come crashing down to halting reality. Strickling traverses the Cipullo/Kallet terrain with ballet-like precision and utter naturalness. But rather than repeat what she does so well it is simply best to acknowledge that admiration for her voice and interpretative prowess grows as this program moves forward.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595828/media/2020/12/p_2_sq4bhu.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1608595828/media/2020/12/p_2_sq4bhu.jpg)
 
 <figcaption>Soprano Laura Strickling performing at a Brooklyn Art Song Society recital at the Brooklyn Historical Society.  Photo by Harold Levine.</figcaption>  
 </figure>
@@ -61,7 +77,9 @@ Schreier is an indispensable accompanist. She is either preternaturally intuitiv
 
 "I Would Live In Your Love", "Absence", and "Spring Rain", which comprise the cycle, are laced with images of undulating sea-grass, the sounds of insects on a hot night and painful memories spurred by a spring rain. With intense insight they tell stories of love and loss, their messages remaining impeccably clear amid the pervasive imagery. At this point we would expect Strickling and Schreier to do nothing less than capture the essence of each, and they do.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1608595878/media/2020/12/p_3_mcf2wo.jpg){{% /md %}}
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1608595878/media/2020/12/p_3_mcf2wo.jpg)
 
 <figcaption>Soprano Laura Strickling. Photo: courtesy Laura Strickling.</figcaption>  
 </figure>

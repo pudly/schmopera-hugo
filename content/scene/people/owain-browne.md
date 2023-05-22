@@ -1,18 +1,22 @@
-+++
-date = "2017-11-14T17:41:00-05:00"
-discipline = "Baritone"
-lastmod = "2017-11-14T17:41:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510699143227/owain-w338h450.jpg.jpg"
-publishDate = "2017-11-14T17:41:00-05:00"
-related_companies = ["scene/companies/shadwell-opera.md","scene/companies/scottish-opera.md"]
-slug = "owain-browne"
-title = "Owain Browne"
-website = "http://www.owainbrowne.com/index.php"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/owainbrowne"
-+++
+---
+date: "2017-11-14T17:41:00-05:00"
+discipline: Baritone
+lastmod: "2017-11-14T17:41:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510699143227/owain-w338h450.jpg.jpg
+publishDate: "2017-11-14T17:41:00-05:00"
+related_companies:
+- scene/companies/shadwell-opera.md
+- scene/companies/scottish-opera.md
+slug: owain-browne
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/owainbrowne
+title: Owain Browne
+website: http://www.owainbrowne.com/index.php
+cms_visible: true
+---
 
 Baritone Owain Browne is from Suffolk and is a graduate of Magdalene College Cambridge and the Alexander Gibson Opera School at the Royal Scottish Academy of Music and Drama. While there he created the title role of Kaspar Hauser in an opera by Scottish composer Rory Boyle to great critical acclaim.
 

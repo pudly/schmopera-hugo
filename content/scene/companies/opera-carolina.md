@@ -1,30 +1,31 @@
-+++
-date = "2016-10-25T10:53:00+01:00"
-lastmod = "2016-10-25T10:53:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477389086110/OC-Logo.jpg.jpg"
-publishDate = "2016-10-25T10:53:00+01:00"
-related_people = ["scene/people/scott-joiner.md","scene/people/jessica-fishenfeld.md"]
-slug = "opera-carolina"
-title = "Opera Carolina"
-type_of_company = "Opera Company"
-website = "http://www.operacarolina.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/operacarolina"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/operacarolina"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/operacarolina/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/operacarolina"
-+++
+---
+date: "2016-10-25T10:53:00+01:00"
+lastmod: "2016-10-25T10:53:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477389086110/OC-Logo.jpg.jpg
+publishDate: "2016-10-25T10:53:00+01:00"
+related_people:
+- scene/people/scott-joiner.md
+- scene/people/jessica-fishenfeld.md
+slug: opera-carolina
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/operacarolina
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/operacarolina
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/operacarolina/
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/operacarolina
+title: Opera Carolina
+type_of_company: Opera Company
+website: http://www.operacarolina.org/
+cms_visible: true
+---
 
 For sixty-eight years, Opera Carolina has served this region with excellence on our mainstage, in our schools, and throughout the community. Our commitment to enriching the lives of citizens from all walks of life is deeply rooted in the history of our company – and it’s a commitment we take seriously.
 

@@ -1,22 +1,28 @@
-+++
-date = "2019-04-20T14:00:06+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555768665/media/2019/04/KirstenChambers.jpg"
-primary_image_credit = "Dario Acosta"
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/arizona-opera.md", "scene/companies/opera-saratoga.md", "scene/companies/american-opera-projects.md", "scene/companies/bronx-opera.md"]
-slug = "kirsten-chambers"
-title = "Kirsten Chambers"
-website = "https://www.kirsten-chambers.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/kirstenchambersopera/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/kirsten.chambers.73"
-
-+++
+---
+date: "2019-04-20T14:00:06+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1555768665/media/2019/04/KirstenChambers.jpg
+primary_image_credit: Dario Acosta
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/arizona-opera.md
+- scene/companies/opera-saratoga.md
+- scene/companies/american-opera-projects.md
+- scene/companies/bronx-opera.md
+slug: kirsten-chambers
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/kirstenchambersopera/
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/kirsten.chambers.73
+title: Kirsten Chambers
+website: https://www.kirsten-chambers.com/
+cms_visible: true
+---
 Kirsten Chambers made her Metropolitan Opera house debut on short notice in 2016 in the title role of _Salome_.  Her Carnegie Hall debut came on just two days’ notice when she sang the fiendishly difficult role of Maria in Richard Strauss’ _Friedenstag_ with the American Symphony Orchestra.  Her 2016-17 season started when she joined the roster of the Metropolitan Opera for the first time this fall as a cover of Isolde in _Tristan und Isolde_.  
 
 The 2015-16 season she debuted Rusalka at Lyric Opera of Kansas City and Leonore in _Fidelio_ for the grand opening of New Amsterdam Opera.  For her performance at the Lyric Opera of Kansas City, she “sang convincingly as the beautiful, conniving Foreign Princess, without sacrificing great vocal sounds for characterization.” (The Examiner) 

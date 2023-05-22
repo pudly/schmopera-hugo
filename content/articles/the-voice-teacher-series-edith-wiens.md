@@ -1,18 +1,38 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-08-31T14:40:00-04:00"
-lastmod = "2017-09-04T21:31:00-04:00"
-preamble = "The professional career of Canadian soprano [Edith Wiens](/scene/people/edith-wiens/) is one that's truly all-encompassing. She is an Officer of the Order of Canada, a Grammy Award-winner, a lead specialist in the performance and recording of Lieder, and her concert and operatic appearances have taken her to the stages of La Scala, the Santa Fe Opera, the Glyndebourne Festival, the Salzburg Festival, and London's Wigmore Hall.\n\nAs an educator, Wiens is a faculty member at the Juilliard School, and she teaches regularly at The Metropolitan Opera's Lindemann Young Artist Development Program. She is in demand among the students of the Guildhall School of Music and Drama and the Royal College of Music in London, and she has been invited to work with the studios of the Bayerische Staatsoper, Oper Frankfurt, the Zürich Opernhaus, and the Norwegian National Opera. Wiens is the Artistic Director of the [International Meistersinger Akademie](https://meistersingerakademie.com/), which pairs emerging artists with valuable professional contacts.\n\nTo kick off our new interview series focusing on voice teachers, we spoke with Edith Wiens about all things voice: breath support, repertoire choice, and the important link between a student's present and future."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504205235380/2017-08-31---Edith-Wiens.jpg.jpg"
-publishDate = "2017-09-04T20:51:00-04:00"
-related_articles = ["articles/talking-with-voice-docs-dr-paul-e-kwak.md","articles/the-voice-teacher-series-elizabeth-mcdonald.md","articles/the-voice-teacher-series-betsy-bishop.md","articles/the-voice-teacher-series-jennifer-casey-cabot.md"]
-related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies/the-juilliard-school.md","scene/companies/the-metropolitan-opera.md","scene/companies/glyndebourne.md","scene/companies/the-santa-fe-opera.md","scene/companies/salzburg-festival.md","scene/companies/opernhaus-zurich.md"]
-related_people = ["scene/people/edith-wiens.md"]
-short_description = "&quot;&#039;Good singing&#039; is when I hear someone who is passionate in communication, who has something to say, and is true to him- or herself.  It is excellent singing when this is coupled with technical ease.&quot;"
-slug = "the-voice-teacher-series-edith-wiens"
-title = "The voice teacher series: Edith Wiens"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-08-31T14:40:00-04:00"
+lastmod: "2017-09-04T21:31:00-04:00"
+preamble: |-
+  The professional career of Canadian soprano [Edith Wiens](/scene/people/edith-wiens/) is one that's truly all-encompassing. She is an Officer of the Order of Canada, a Grammy Award-winner, a lead specialist in the performance and recording of Lieder, and her concert and operatic appearances have taken her to the stages of La Scala, the Santa Fe Opera, the Glyndebourne Festival, the Salzburg Festival, and London's Wigmore Hall.
+
+  As an educator, Wiens is a faculty member at the Juilliard School, and she teaches regularly at The Metropolitan Opera's Lindemann Young Artist Development Program. She is in demand among the students of the Guildhall School of Music and Drama and the Royal College of Music in London, and she has been invited to work with the studios of the Bayerische Staatsoper, Oper Frankfurt, the Zürich Opernhaus, and the Norwegian National Opera. Wiens is the Artistic Director of the [International Meistersinger Akademie](https://meistersingerakademie.com/), which pairs emerging artists with valuable professional contacts.
+
+  To kick off our new interview series focusing on voice teachers, we spoke with Edith Wiens about all things voice: breath support, repertoire choice, and the important link between a student's present and future.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504205235380/2017-08-31---Edith-Wiens.jpg.jpg
+publishDate: "2017-09-04T20:51:00-04:00"
+related_articles:
+- articles/talking-with-voice-docs-dr-paul-e-kwak.md
+- articles/the-voice-teacher-series-elizabeth-mcdonald.md
+- articles/the-voice-teacher-series-betsy-bishop.md
+- articles/the-voice-teacher-series-jennifer-casey-cabot.md
+related_companies:
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/the-juilliard-school.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opernhaus-zurich.md
+related_people:
+- scene/people/edith-wiens.md
+short_description: '&quot;&#039;Good singing&#039; is when I hear someone who is passionate
+  in communication, who has something to say, and is true to him- or herself.  It
+  is excellent singing when this is coupled with technical ease.&quot;'
+slug: the-voice-teacher-series-edith-wiens
+title: 'The voice teacher series: Edith Wiens'
+---
 
 ## What do you enjoy most about teaching voice?
 

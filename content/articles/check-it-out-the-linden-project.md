@@ -1,16 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2018-10-11T21:24:00-04:00"
-lastmod = "2018-10-13T12:29:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539352221751/LindenTrio.jpg.jpg"
-primary_image_credit = "Clockwise: pianist Trevor Chartrand, soprano Julie Ludwig, and baritone Jeremy Ludwig."
-publishDate = "2018-10-12T20:03:00-04:00"
-related_people = ["scene/people/julie-ludwig.md","scene/people/jeremy-ludwig.md"]
-short_description = "Art song - a broad classical music term to describe a piece written for solo singer and accompaniment, usually by a piano - can feel equal parts vague and exclusive. A song by Schubert and a song by Bernstein are both considered art songs, despite enormous differences in style; conversely, art song carries with it some special qualities, like the conversational relationship between the voice and piano."
-slug = "check-it-out-the-linden-project"
-title = "Check it out: The Linden Project"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2018-10-11T21:24:00-04:00"
+lastmod: "2018-10-13T12:29:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539352221751/LindenTrio.jpg.jpg
+primary_image_credit: 'Clockwise: pianist Trevor Chartrand, soprano Julie Ludwig,
+  and baritone Jeremy Ludwig.'
+publishDate: "2018-10-12T20:03:00-04:00"
+related_people:
+- scene/people/julie-ludwig.md
+- scene/people/jeremy-ludwig.md
+short_description: Art song - a broad classical music term to describe a piece written
+  for solo singer and accompaniment, usually by a piano - can feel equal parts vague
+  and exclusive. A song by Schubert and a song by Bernstein are both considered art
+  songs, despite enormous differences in style; conversely, art song carries with
+  it some special qualities, like the conversational relationship between the voice
+  and piano.
+slug: check-it-out-the-linden-project
+title: 'Check it out: The Linden Project'
+---
 
 These days, opera is getting its fair share of makeovers; companies are shaking off its perceived cobwebs, doing away with the "elitist" hurdles like hours-long run times and stuffy theatres. The 21st century is the time of the slimmed down, newly translated, not-in-an-opera-house opera.
 
@@ -30,7 +39,9 @@ You can [check out the full programme](http://lindenproject.com/wp-content/uploa
 
 It's also worth perusing The Linden Project's [About section](http://lindenproject.com/about/), where you'll find answers to your most pressing questions: ["What is art song?"](http://lindenproject.com/about/#artsong) and ["What's with the tree?"](http://lindenproject.com/about/#tree)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539307431465/Song-Sampler-Poster.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1539307431465/Song-Sampler-Poster.jpg.jpg)
 </figure>
 
 >For details and tickets, [click here.](http://lindenproject.com/ld_schedule-events/tasting-menu/)

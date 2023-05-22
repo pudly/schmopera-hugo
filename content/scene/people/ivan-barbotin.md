@@ -1,22 +1,26 @@
-+++
-date = "2015-11-20T12:32:00-05:00"
-discipline = "Composer"
-lastmod = "2015-11-20T12:32:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448040656780/2015-11-20---Ivan-Barbotin.jpg.jpg"
-publishDate = "2015-11-20T12:32:00-05:00"
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md","scene/companies/the-bicycle-opera-project.md"]
-slug = "ivan-barbotin"
-title = "Ivan Barbotin"
-website = "http://www.barbotin.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Ivan-Barbotin-139704456967/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/BarbotinMusic"
-+++
+---
+date: "2015-11-20T12:32:00-05:00"
+discipline: Composer
+lastmod: "2015-11-20T12:32:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448040656780/2015-11-20---Ivan-Barbotin.jpg.jpg
+publishDate: "2015-11-20T12:32:00-05:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+- scene/companies/the-bicycle-opera-project.md
+slug: ivan-barbotin
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Ivan-Barbotin-139704456967/?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/BarbotinMusic
+title: Ivan Barbotin
+website: http://www.barbotin.com/
+cms_visible: true
+---
 
 Born in St. Petersburg, Russia, Ivan Barbotin began piano studies at the age of 5, guitar at 10. At 13, he became lead guitarist of the rock group Sphinx which soon won the 'Soviet Union's Best Youth Band' competition. At 16, he joined Russia's celebrated rock band Forum as lead guitarist, where he was half the age of the other musicians. With Forum he toured the country to sold-out audiences and became Laureate of the Song of the Year Festival in 1989, a career-launching annual TV event.
 

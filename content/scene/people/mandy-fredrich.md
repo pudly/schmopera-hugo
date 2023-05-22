@@ -1,15 +1,21 @@
-+++
-date = "2019-04-16T01:47:04+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1555378963/media/2019/04/MandyFredrich.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/staatsoper-berlin.md", "scene/companies/wiener-staatsoper.md", "scene/companies/teatro-alla-scala.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/royal-opera-house.md"]
-slug = "mandy-fredrich"
-social_media = []
-title = "Mandy Fredrich"
-website = "https://www.mandyfredrich.de/"
-
-+++
+---
+_template: people_single
+date: "2019-04-16T01:47:04+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1555378963/media/2019/04/MandyFredrich.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/staatsoper-berlin.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/royal-opera-house.md
+slug: mandy-fredrich
+social_media: []
+title: Mandy Fredrich
+website: https://www.mandyfredrich.de/
+cms_visible: true
+---
 2017/18/19
 
 In this season Mandy Fredrich was invited for 3 Gala concerts at the Teatro alla Scala in Milan and gave her house debut at the Vienna State Opera as Marguerite in Ch. Gounod's _Faust_.

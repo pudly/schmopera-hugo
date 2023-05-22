@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2018-03-12T11:38:00-04:00"
-lastmod = "2018-03-13T08:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520890383702/BlytheQuickly.jpg.jpg"
-primary_image_credit = "Stephanie Blythe as Mistress Quickly in Falstaff, The Metropolitan Opera, 2013. Photo: Ken Howard/Metropolitan Opera."
-publishDate = "2018-03-12T22:36:00-04:00"
-related_articles = ["articles/a-bel-canto-winner-atlantas-fille-du-rgiment.md","articles/talking-with-singers-sir-john-tomlinson.md"]
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/the-atlanta-opera.md"]
-related_people = ["scene/people/stephanie-blythe.md"]
-short_description = "Blythe approaches her recital work with a refreshingly casual air, as though she doesn&#039;t confuse her passion with taking it all too seriously. She has even graced the recital stage with her ukulele in hand, a more recent passion-project of hers. &quot;I just did a recital in New York; here we are in Merkin Hall, singing &#039;Don&#039;t Fence Me In&#039; and I was accompanying on ukulele.&quot;"
-slug = "talking-with-singers-stephanie-blythe"
-title = "Talking with singers: Stephanie Blythe"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2018-03-12T11:38:00-04:00"
+lastmod: "2018-03-13T08:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520890383702/BlytheQuickly.jpg.jpg
+primary_image_credit: 'Stephanie Blythe as Mistress Quickly in Falstaff, The Metropolitan
+  Opera, 2013. Photo: Ken Howard/Metropolitan Opera.'
+publishDate: "2018-03-12T22:36:00-04:00"
+related_articles:
+- articles/a-bel-canto-winner-atlantas-fille-du-rgiment.md
+- articles/talking-with-singers-sir-john-tomlinson.md
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/the-atlanta-opera.md
+related_people:
+- scene/people/stephanie-blythe.md
+short_description: Blythe approaches her recital work with a refreshingly casual air,
+  as though she doesn&#039;t confuse her passion with taking it all too seriously.
+  She has even graced the recital stage with her ukulele in hand, a more recent passion-project
+  of hers. &quot;I just did a recital in New York; here we are in Merkin Hall, singing
+  &#039;Don&#039;t Fence Me In&#039; and I was accompanying on ukulele.&quot;
+slug: talking-with-singers-stephanie-blythe
+title: 'Talking with singers: Stephanie Blythe'
+---
 
 "Very early on, I decided I would really be adventurous in my choices of repertoire," says American mezzo-soprano Stephanie Blythe. Her enviable singing career began with a high-profile professional debut in *Parsifal* at the Metropolitan Opera in 1995; since then she has made the conscious decision to "switch it up," scheduling her contracts so that Handel led into Verdi, concert work leading into fully staged opera. "I'm always changing it up."
 
@@ -20,7 +31,9 @@ Blythe recently finished a run of [*La fille du régiment* at The Atlanta Opera]
 
 "Everyone will say this: Comedy is all about timing," Blythe says of the part-funny, part-tragic Marquise. "Even when you're singing big coloratura passages its all about beats and arrival." 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520867140483/JB4A0507.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520867140483/JB4A0507.jpg.jpg)
 <figcaption>Stephanie Blythe (Marquise of Berkenfield) in *La fille du régiment*, The Atlanta Opera, 2018. Photo courtesy of The Atlanta Opera.</figcaption>
 </figure>
 
@@ -46,7 +59,9 @@ Blythe sees an interesting difference in today's "golden age" of vocal compositi
 
 She adds, "That's a great doctoral thesis!"
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520870078424/resized---SB2-Stephanie-Blythe.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520870078424/resized---SB2-Stephanie-Blythe.jpg.jpg)
 <figcaption>Stephanie Blythe, a self-portrait by Stephanie Blythe.</figcaption>
 </figure>
 
@@ -62,7 +77,9 @@ She taught herself to play two years ago, and her curiosity has quickly grown in
 
 "When the three of us sat around playing a C-chord together, I'm telling you, it is heaven. If I'm ever feeling stressed out, I pick up my ukulele, I play a few tunes, and I feel better immediately."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520890899828/Hi-res.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520890899828/Hi-res.jpg.jpg)
 <figcaption>Photo: Stephanie Blythe.</figcaption>
 </figure>
 

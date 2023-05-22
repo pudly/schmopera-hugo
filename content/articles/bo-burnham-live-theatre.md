@@ -1,12 +1,13 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2016-08-29T14:27:00+01:00"
-draft = true
-lastmod = "2016-09-04T11:40:00+01:00"
-slug = "bo-burnham-live-theatre"
-title = "Bo Burnham, live theatre"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2016-08-29T14:27:00+01:00"
+draft: true
+lastmod: "2016-09-04T11:40:00+01:00"
+slug: bo-burnham-live-theatre
+title: Bo Burnham, live theatre
+---
 
 If you've not done it yet, make a point to watch either or both of Bo Burnham's specials, available on Netflix (hopefully, depending on where you live).
 

@@ -1,13 +1,15 @@
-+++
-date = "2015-07-11T21:22:00-06:00"
-discipline = "Composer"
-lastmod = "2015-07-11T21:23:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436671383267/john-metcalf-white-shirt.jpg.jpg"
-publishDate = "2015-07-11T21:23:00-06:00"
-slug = "john-metcalf"
-title = "John Metcalf"
-website = "http://www.johnmetcalf.co.uk/index.php"
-+++
+---
+_template: people_single
+date: "2015-07-11T21:22:00-06:00"
+discipline: Composer
+lastmod: "2015-07-11T21:23:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436671383267/john-metcalf-white-shirt.jpg.jpg
+publishDate: "2015-07-11T21:23:00-06:00"
+slug: john-metcalf
+title: John Metcalf
+website: http://www.johnmetcalf.co.uk/index.php
+cms_visible: true
+---
 
 John Metcalf is a leading Welsh composer who has composed major works in many musical forms. While his cultural roots are in the heart of Wales, his work has a broad international following and is represented in a growing catalogue of recordings.
 

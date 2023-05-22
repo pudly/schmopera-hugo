@@ -1,21 +1,21 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1647395143/media/2022/03/BillieBruley_u0w6rz.jpg"
-primary_image_credit = ""
-related_companies = []
-slug = "billie-bruley"
-title = "Billie Bruley"
-website = "https://www.billebruley.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/billebruley/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCBs6yckg15nuHGIiitqcGqQ"
-
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1647395143/media/2022/03/BillieBruley_u0w6rz.jpg
+primary_image_credit: ""
+related_companies: []
+slug: billie-bruley
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/billebruley/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCBs6yckg15nuHGIiitqcGqQ
+title: Billie Bruley
+website: https://www.billebruley.com/
+cms_visible: true
+---
 Praised by the _Huffington Post_ for his "ringing high notes," Texas-born tenor Bille Bruley has garnered attention for his strength and versatility in operatic repertoire from baroque to contemporary. Highlights of Bille's upcoming 2021-2022 season include a number of rescheduled major house debuts at Austin Opera, Lyric Opera of Kansas City, and Atlanta Opera in the role of Steve Wozniak in Mason Bates’ acclaimed _The (R)evolution of Steve Jobs_. He also makes his return to Arizona Opera as Ferrando in _Cosi fan tutte_. Other upcoming engagements to be rescheduled from COVID-19-related cancellations include a concert debut with the Los Angeles Philharmonic as the Sailor/Shepherd in _The Tristan Project_, as well as his house debut with Opera Theatre of Saint Louis as Sam Polk in a new production of Carlisle Floyd’s _Susannah_. Bille is a recent winner of the William Matheus Sullivan Musical Foundation Award and Career Grant.
 
 Bille is a recent alumnus of the Marion Roose Pullin Arizona Opera Studio, where his role assignments in previous seasons included include Louis Sullivan in _Shining Brow_, Bern Venters in _Riders of the Purple Sage_, and Brighella and Bacchus (cover) in _Ariadne auf Naxos_. In his abridged 2019-2020 season, Bille was engaged at Lyric Opera of Chicago, where he covered Father Grenville and Howard Boucher in Heggie’s _Dead Man Walking_. In the summer of 2019, Bille returned to the Santa Fe Opera as a second-year Apprentice Artist. There, he created the role of Benjamin in the world premiere of Poul Ruders’ _The Thirteenth Child_ and was met with critical acclaim, praised by _Opera Today_ for his “exuberant, substantial tenor” and his “dramatic commitment \[which\] made him an audience favorite.” While at Santa Fe, Bille also covered the role of Laca Klemen in Janacek’s _Jenufa_ and performed as Lennie in scenes from _Of Mice and Men_.

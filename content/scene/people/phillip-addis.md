@@ -1,24 +1,35 @@
-+++
-date = "2015-09-16T18:52:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-09-16T18:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1611881747/media/2021/01/P._Addis_Headshot_xmlkvb.jpg"
-primary_image_credit = "Photo by Kristin Hoebermann."
-publishDate = "2015-09-16T18:58:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/los-angeles-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/opera-atelier.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/edmonton-opera.md", "scene/companies/calgary-opera.md", "scene/companies/latelier-lyrique-de-lopra-de-montral.md", "scene/companies/lopra-de-montral.md", "scene/companies/opra-de-qubec.md", "scene/companies/opra-national-de-paris.md"]
-slug = "phillip-addis"
-title = "Phillip Addis"
-website = "http://www.phillipaddis.com/home.htm"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Phillip-Addis-baritone-195312187172987/timeline/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/PhillipAddis"
-
-+++
+---
+date: "2015-09-16T18:52:00-04:00"
+discipline: Baritone
+lastmod: "2015-09-16T18:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1611881747/media/2021/01/P._Addis_Headshot_xmlkvb.jpg
+primary_image_credit: Photo by Kristin Hoebermann.
+publishDate: "2015-09-16T18:58:00-04:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/opera-atelier.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/edmonton-opera.md
+- scene/companies/calgary-opera.md
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/opra-de-qubec.md
+- scene/companies/opra-national-de-paris.md
+slug: phillip-addis
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Phillip-Addis-baritone-195312187172987/timeline/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/PhillipAddis
+title: Phillip Addis
+website: http://www.phillipaddis.com/home.htm
+cms_visible: true
+---
 “The burnished yet vibrant and agile voice touches all the chords of human emotion… through a path of awareness and responsibility,” says _Connessi all’Opera_ of Phillip Addis’ portrayal of Britten’s Billy Budd, one of the Canadian baritone’s enviable, signature roles. Mr. Addis, known for his “nimble and expressive” sound and “athletic command of the stage” (_Twin Cities Arts Reader_), is established as one of Canada’s leading performers of opera, concert, and recital repertoire. He is acclaimed internationally for his interpretation of Count Almaviva in _Le nozze di Figaro_, where he sings “an impeccable antagonist”, and is recognized as “the ideal Pelléas of his generation” for his “erotically charged” performances of Debussy’s _Pelléas et Mélisande_ in Hamburg, Paris, Luxembourg, Cincinnati, Dresden, as well as at the Ruhrtriennale and the BBC Proms. Mr. Addis has performed on the world’s major stages, including l’Opéra national de Paris, LA Opera, the Canadian Opera Company, Semperoper Dresden, and the Hamburgischen Staatsoper, under the distinguished batons of Sir John Eliot Gardiner, James Conlon, Yannick Nézet-Séguin, Seiji Ozawa, Kent Nagano, Carlo Rizzi, and more.
 
 Mr. Addis’s 2020/21 season began with Laura Kaminsky’s _As One_, where he sang Hannah Before in a livestreamed production with Orchestre classique de Montréal. In 2021 he will sing in a new production of _Pelléas et Mélisande_ by Renaud Doucet and André Barbe, originally set for 2020 but postponed due to COVID-19, with performances in Parma, Modena, and Piacenza. In the fall of 2021, Mr. Addis will sing Il Conte in two upcoming productions of _Le nozze di Figaro_, at Opéra de Lausanne and the Royal Opera of Versailles.

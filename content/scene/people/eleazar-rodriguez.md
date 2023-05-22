@@ -1,27 +1,30 @@
-+++
-date = "2016-10-05T12:50:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-10-05T12:50:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475667963649/2016-10-05---Eleazar-Rodriguez.jpg.jpg"
-primary_image_credit = "Felix Grünschloß"
-publishDate = "2016-10-05T12:50:00+01:00"
-related_companies = ["scene/companies/merola-opera-program.md","scene/companies/san-francisco-opera.md","scene/companies/english-national-opera.md"]
-slug = "eleazar-rodriguez"
-title = "Eleazar Rodríguez"
-website = "http://www.eleazarrodriguez.com.mx/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/EleazaRdz/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/eleazardz"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/eleazardz/"
-+++
+---
+date: "2016-10-05T12:50:00+01:00"
+discipline: Tenor
+lastmod: "2016-10-05T12:50:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475667963649/2016-10-05---Eleazar-Rodriguez.jpg.jpg
+primary_image_credit: Felix Grünschloß
+publishDate: "2016-10-05T12:50:00+01:00"
+related_companies:
+- scene/companies/merola-opera-program.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/english-national-opera.md
+slug: eleazar-rodriguez
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/EleazaRdz/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/eleazardz
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/eleazardz/
+title: Eleazar Rodríguez
+website: http://www.eleazarrodriguez.com.mx/
+cms_visible: true
+---
 
 Mexican tenor Eleazar Rodriguez has received acclaim on both sides of the Atlantic for his vibrant portrayals of leading roles in operas by Donizetti, Rossini, Mozart, Verdi and Wagner.
 

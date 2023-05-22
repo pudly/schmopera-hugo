@@ -1,17 +1,21 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1571621950/media/2019/10/Dorn_gpue8u.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md", "scene/companies/palm-beach-opera.md", "scene/companies/vancouver-opera.md"]
-slug = "emily-dorn"
-title = "Emily Dorn"
-website = "https://www.emilydornsoprano.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/emilydornsoprano/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1571621950/media/2019/10/Dorn_gpue8u.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/vancouver-opera.md
+slug: emily-dorn
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/emilydornsoprano/
+title: Emily Dorn
+website: https://www.emilydornsoprano.com/
+cms_visible: true
+---
 Canadian Soprano Emily Dorn is thrilling audiences with her “warm, rich middle, a shimmering, flexible top, excellent control… and her exquisitely beautiful delivery.” Since joining the Dresden Semperoper in 2013 she has performed Violetta in _La Traviata_, Susanna in _Le Nozze di Figaro_, Adele in _Die Fledermaus_, Gretel in _Hänsel und Gretel_, Fiordiligi in _Cosi fan tutte_, and Micaela in _Carmen_ opposite Marcello Giordani.  She made her Savonlinna Opera Festival debut in 2014 as Micaela and returned there this past summer as Susanna in a new production of _Le Nozze di Figaro_. 
 
 In 2016 she returned to Dresden Staatsoper as Musetta, Susanna in _Le Nozze di Figaro_, Adele in _Die Fledermaus_ and Regina in _Mathis der Mahler_, she also performed concerts with the Jerusalem Symphony and the Israel Philharmonic Orchestra. In 2016-2017 she will join Opera de Lausanne for the role of Mimi in _La Boheme_, and will debut L’opera de Montreal as Donna Anna in Mozart’s _Don Giovanni_, and will also return to Dresden as Micaela in _Carmen_, Musetta, Pamina, and Susanna.

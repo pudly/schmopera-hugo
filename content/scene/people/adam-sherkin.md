@@ -1,29 +1,28 @@
-+++
-date = "2015-11-01T15:50:00+00:00"
-discipline = "Pianist, composer"
-lastmod = "2017-03-15T11:00:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446392950117/2015-11-01---AdamSherkinSquare.jpg.jpg"
-publishDate = "2015-11-01T15:52:00+00:00"
-slug = "adam-sherkin"
-title = "Adam Sherkin"
-website = "http://adamsherkin.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Adam-Sherkin-138799642832970/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/adamsherkin"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/adamsherkinpiano"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/adamsherkin"
-+++
+---
+date: "2015-11-01T15:50:00+00:00"
+discipline: Pianist, composer
+lastmod: "2017-03-15T11:00:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446392950117/2015-11-01---AdamSherkinSquare.jpg.jpg
+publishDate: "2015-11-01T15:52:00+00:00"
+slug: adam-sherkin
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Adam-Sherkin-138799642832970/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/adamsherkin
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/adamsherkinpiano
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/adamsherkin
+title: Adam Sherkin
+website: http://adamsherkin.com/
+cms_visible: true
+---
 
 Composer and pianist Adam Sherkin is a dynamic and versatile musician who commands a multidimensional approach to performance and composition. Noted for innovative programming and
 engaging presentation, Sherkin has worked with a considerable amount of ensembles both in

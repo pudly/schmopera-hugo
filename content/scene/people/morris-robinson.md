@@ -1,31 +1,39 @@
-+++
-date = "2017-10-15T20:41:00-04:00"
-discipline = "Bass"
-lastmod = "2017-10-15T20:41:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508114496038/MRobinson%20Ron%20Cadiz.jpg.jpg"
-primary_image_credit = "Ron Cadiz"
-publishDate = "2017-10-15T20:41:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/the-dallas-opera.md","scene/companies/houston-grand-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/seattle-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opera-philadelphia.md"]
-slug = "morris-robinson"
-title = "Morris Robinson"
-website = "http://morrisrobinson.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Morris-Robinson-Bass-186893621369511/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MorrisDRobinson"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/mdrbass/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/massiveqdawg/videos"
-+++
+---
+date: "2017-10-15T20:41:00-04:00"
+discipline: Bass
+lastmod: "2017-10-15T20:41:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508114496038/MRobinson%20Ron%20Cadiz.jpg.jpg
+primary_image_credit: Ron Cadiz
+publishDate: "2017-10-15T20:41:00-04:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/seattle-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opera-philadelphia.md
+slug: morris-robinson
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Morris-Robinson-Bass-186893621369511/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/MorrisDRobinson
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/mdrbass/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/massiveqdawg/videos
+title: Morris Robinson
+website: http://morrisrobinson.com/
+cms_visible: true
+---
 
 Morris Robinson is considered one the most interesting and sought after basses performing today.
 

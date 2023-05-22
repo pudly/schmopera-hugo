@@ -1,23 +1,34 @@
-+++
-date = "2016-06-10T23:58:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-06-10T23:58:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465599367597/2016-06-10---Stuart-Skelton---Sim_Canetty-Clarke.jpg.jpg"
-primary_image_credit = "Sim Canetty-Clarke"
-publishDate = "2016-06-10T23:58:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/english-national-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/opernhaus-zurich.md","scene/companies/san-francisco-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/deutsche-oper-berlin.md","scene/companies/staatsoper-berlin.md","scene/companies/opera-australia.md"]
-slug = "stuart-skelton"
-title = "Stuart Skelton"
-website = "http://www.stuartskelton.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Stuart-Skelton-111743922234824/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/stuartskelton"
-+++
+---
+date: "2016-06-10T23:58:00+01:00"
+discipline: Tenor
+lastmod: "2016-06-10T23:58:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465599367597/2016-06-10---Stuart-Skelton---Sim_Canetty-Clarke.jpg.jpg
+primary_image_credit: Sim Canetty-Clarke
+publishDate: "2016-06-10T23:58:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/opera-australia.md
+slug: stuart-skelton
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Stuart-Skelton-111743922234824/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/stuartskelton
+title: Stuart Skelton
+website: http://www.stuartskelton.com/
+cms_visible: true
+---
 
 Named Male Singer of the Year at the 2014 International Opera Awards, Stuart Skelton is one of the finest heldentenors on the stage today, critically acclaimed for his outstanding musicianship, tonal beauty, and intensely dramatic portrayals. His repertoire encompasses many of opera’s most challenging roles, from Wagner's Parsifal, Lohengrin, Erik, and Siegmund, to Strauss’s Kaiser, Beethoven’s Florestan, Saint-Saëns’ Samson, Dvořák’s Dimitrij, and Britten’s Peter Grimes.
 

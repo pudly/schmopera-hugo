@@ -1,17 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-10-14T15:54:00+01:00"
-lastmod = "2016-10-15T15:12:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476528660323/2016-10-14---Feet-Square.jpg.jpg"
-primary_image_credit = "Christine Buras performing \"Feet.\" Photo courtesy of Gestalt Arts."
-publishDate = "2016-10-15T12:02:00+01:00"
-related_companies = ["scene/companies/gestalt-arts.md"]
-related_people = ["scene/people/christine-buras.md"]
-short_description = "At the back of the Natural History gallery, soprano Christine Buras was found in pigeon-like garb, curiously inspecting the listeners with twitching movements and unsettling direct eye contact. The story unfolded of a pigeon, whose feet had been cruelly severed by &quot;country folk,&quot; and put &quot;in the pockets of farm boys,&quot; as a good luck charm."
-slug = "a-dove-as-you-know-is-respected"
-title = "&quot;A dove, as you know, is respected.&quot;"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-10-14T15:54:00+01:00"
+lastmod: "2016-10-15T15:12:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476528660323/2016-10-14---Feet-Square.jpg.jpg
+primary_image_credit: Christine Buras performing "Feet." Photo courtesy of Gestalt
+  Arts.
+publishDate: "2016-10-15T12:02:00+01:00"
+related_companies:
+- scene/companies/gestalt-arts.md
+related_people:
+- scene/people/christine-buras.md
+short_description: At the back of the Natural History gallery, soprano Christine Buras
+  was found in pigeon-like garb, curiously inspecting the listeners with twitching
+  movements and unsettling direct eye contact. The story unfolded of a pigeon, whose
+  feet had been cruelly severed by &quot;country folk,&quot; and put &quot;in the
+  pockets of farm boys,&quot; as a good luck charm.
+slug: a-dove-as-you-know-is-respected
+title: '&quot;A dove, as you know, is respected.&quot;'
+---
 
 Our first visit to the gorgeous Horniman Museum & Gardens was to see the new opera installation, "Feet." The piece is by composer [Oliver Leith](http://www.oliverchristopheleith.com/home.html), with text and direction by [Ruth Mariner](http://www.ruthmariner.co.uk/), Artistic Director of [Gestalt Arts](http://www.gestaltarts.co.uk/); it was performed as part of the Museum's [Magic Late](http://www.horniman.ac.uk/visit/events/magic-late) event, an after-hours series of arts and performances throughout the space, all exploring the idea of magic and sorcery.
 
@@ -21,7 +29,7 @@ The piece is a combination of electronic music and acoustic voice, and Buras - w
 
 (Interestingly, it also put an odd perspective on a strange phenomenon we've noticed since our move to London, that the city's pigeons seem to have high rates of foot and leg injuries.)
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476528732864/2016-10-14---Feet.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1476528732864/2016-10-14---Feet.jpg.jpg)
 <figcaption>Christine Buras performing "Feet." Photo courtesy of Gestalt Arts.</figcaption>
 </figure>
 

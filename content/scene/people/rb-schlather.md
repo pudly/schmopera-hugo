@@ -1,23 +1,30 @@
-+++
-date = "2017-09-19T22:26:00-04:00"
-discipline = "Stage director"
-lastmod = "2017-09-19T22:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505874267460/RB_Schlather_Portrait.jpg.jpg"
-primary_image_credit = "Matthew Placek"
-publishDate = "2017-09-19T22:26:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/canadian-opera-company.md","scene/companies/english-national-opera.md","scene/companies/glimmerglass-festival.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/portland-opera.md"]
-slug = "rb-schlather"
-title = "R.B. Schlather"
-website = "http://www.rbschlather.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/rbschlather"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/r_b_schlather/"
-+++
+---
+date: "2017-09-19T22:26:00-04:00"
+discipline: Stage director
+lastmod: "2017-09-19T22:26:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505874267460/RB_Schlather_Portrait.jpg.jpg
+primary_image_credit: Matthew Placek
+publishDate: "2017-09-19T22:26:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/english-national-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/portland-opera.md
+slug: rb-schlather
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/rbschlather
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/r_b_schlather/
+title: R.B. Schlather
+website: http://www.rbschlather.com/
+cms_visible: true
+---
 
 Artist and Opera director R. B. Schlather (b. 1986, Cooperstown, USA) is recognized for his innovations in the presentation of opera performance. His work is increasingly located in fine art spaces in dialogue with larger themes about Opera production, process, and access. He has been described as “having a gift for drawing our vivid performances” (New York Times), and an “ability to demolish the barriers of propriety and politeness that seem to plague much of traditional operatic experience (Opera Today).”
 

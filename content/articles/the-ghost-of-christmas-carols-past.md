@@ -1,16 +1,24 @@
-+++
-author = ["authors/rich-coburn.md"]
-categories = "Op-ed"
-date = "2015-12-26T10:48:00-05:00"
-lastmod = "2015-12-26T10:58:00-05:00"
-preamble = "For more by guest contributor Rich Coburn, be sure to [check out his blog](http://www.richcoburn.com/blog/)!"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451145196554/2015-12-26---Partridge.jpg.jpg"
-publishDate = "2015-12-26T10:58:00-05:00"
-related_articles = ["articles/bach-was-all-about-that-bass.md","articles/seriously-sung-christmas-carols.md"]
-short_description = "People listen to substantially different music at Christmas than during the rest of the year. How different? Consider the information I found in this article in Time, listing the 19 most recorded holiday songs since 1978 (the earliest data they had). Those songs were, on average, around 164 years old, and the newest was 65 years old. They were basically a bunch of older religious songs, and a few secular ones composed around the 1940’s."
-slug = "the-ghost-of-christmas-carols-past"
-title = "The Ghost of Christmas Carols Past"
-+++
+---
+author:
+- authors/rich-coburn.md
+categories: Op-ed
+date: "2015-12-26T10:48:00-05:00"
+lastmod: "2015-12-26T10:58:00-05:00"
+preamble: For more by guest contributor Rich Coburn, be sure to [check out his blog](http://www.richcoburn.com/blog/)!
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451145196554/2015-12-26---Partridge.jpg.jpg
+publishDate: "2015-12-26T10:58:00-05:00"
+related_articles:
+- articles/bach-was-all-about-that-bass.md
+- articles/seriously-sung-christmas-carols.md
+short_description: People listen to substantially different music at Christmas than
+  during the rest of the year. How different? Consider the information I found in
+  this article in Time, listing the 19 most recorded holiday songs since 1978 (the
+  earliest data they had). Those songs were, on average, around 164 years old, and
+  the newest was 65 years old. They were basically a bunch of older religious songs,
+  and a few secular ones composed around the 1940’s.
+slug: the-ghost-of-christmas-carols-past
+title: The Ghost of Christmas Carols Past
+---
 
 As I’ve been coming to terms with the inevitability of my first green Christmas in a long time, as well as the first Christmas ever that I won’t spend with my family, I’ve been putting some extra effort into getting into the Christmas spirit. I’ve watched a couple Christmas movies and had some festive evenings with friends. 
 
@@ -30,7 +38,9 @@ I looked up the top 25 holiday songs this week, and what year they were all writ
 
 For comparison, the top 25 songs this week, holiday-related or no, are on average about two years old. For the record, that's 21 songs from this year, 2 from last year, and 2 Christmas songs from the 90's. Because I’m a nerd, I’ve put this data into a graph:
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451144814821/graph.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451144814821/graph.jpg.jpg)
 </figure>
 
 Clearly, these two lines are not close to the same shape, which demonstrates that the music we consume at Christmas is wildly different than the music we normally consume. I was left with two questions.

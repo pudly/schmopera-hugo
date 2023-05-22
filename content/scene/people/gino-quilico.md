@@ -1,26 +1,35 @@
-+++
-date = "2017-10-23T15:33:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-10-23T15:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508786922181/19467652_1430460600336911_904826533721821760_o.jpg.jpg"
-publishDate = "2017-10-23T15:33:00-04:00"
-related_companies = ["scene/companies/edmonton-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/teatro-alla-scala.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/salzburg-festival.md","scene/companies/staatsoper-berlin.md"]
-slug = "gino-quilico"
-title = "Gino Quilico"
-website = "http://www.ginoquilico.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Gino-Quilico-417796021603379/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/GinoQuilico"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/GQuilico?feature=mhee"
-+++
+---
+date: "2017-10-23T15:33:00-04:00"
+discipline: Baritone
+lastmod: "2017-10-23T15:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508786922181/19467652_1430460600336911_904826533721821760_o.jpg.jpg
+publishDate: "2017-10-23T15:33:00-04:00"
+related_companies:
+- scene/companies/edmonton-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/salzburg-festival.md
+- scene/companies/staatsoper-berlin.md
+slug: gino-quilico
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Gino-Quilico-417796021603379/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/GinoQuilico
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/GQuilico?feature=mhee
+title: Gino Quilico
+website: http://www.ginoquilico.com/
+cms_visible: true
+---
 
 Esteemed as an interpreter of the French and Italian repertoire, lyric baritone Gino Quilico has performed with the world’s major opera companies, including the Metropolitan Opera (New York), La Scala (Milano), The Royal Opera House (London), The Vienna State Opera (Vienna), the Paris Opera, the Bayerische Staatsoper (Munich), The Teatro Colon (Buenos Aires), La Fenice (Venice). 
 

@@ -1,15 +1,18 @@
-+++
-date = "2018-01-16T19:23:00-05:00"
-discipline = "Baritone"
-lastmod = "2018-01-16T19:23:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546624439/media/2019/01/JohannesKammler.jpg"
-publishDate = "2018-01-16T19:23:00-05:00"
-related_companies = ["scene/companies/bayerische-staatsoper.md", "scene/companies/canadian-opera-company.md"]
-slug = "johannes-kammler"
-title = "Johannes Kammler"
-website = "https://www.johanneskammler.com/startseite"
-
-+++
+---
+_template: people_single
+date: "2018-01-16T19:23:00-05:00"
+discipline: Baritone
+lastmod: "2018-01-16T19:23:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546624439/media/2019/01/JohannesKammler.jpg
+publishDate: "2018-01-16T19:23:00-05:00"
+related_companies:
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/canadian-opera-company.md
+slug: johannes-kammler
+title: Johannes Kammler
+website: https://www.johanneskammler.com/startseite
+cms_visible: true
+---
 The German baritone Johannes Kammler is already in demand internationally at renowned addresses and is equally committed to opera, song and concerts.
 
 Johannes Kammler was born in Augsburg and received his first musical education there at the Augsburg Domsingknaben. Later he studied singing in Freiburg im Breisgau, Toronto and at the Guildhall in London. Only in October 2017 he was awarded the 2nd place at the renowned singing competition NEUE STIMMEN.

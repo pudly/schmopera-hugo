@@ -1,26 +1,35 @@
-+++
-date = "2018-10-21T20:52:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-10-21T20:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169314565/Leahblackwhite.jpg.jpg"
-publishDate = "2018-10-21T20:52:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/san-diego-opera.md","scene/companies/opera-philadelphia.md","scene/companies/florida-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/seattle-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/opera-omaha.md"]
-slug = "leah-partridge"
-title = "Leah Partridge"
-website = "https://www.leahpartridge.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/leahoperabird/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/leahoperabird"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/leahoperabird/?hl=en"
-+++
+---
+date: "2018-10-21T20:52:00-04:00"
+discipline: Soprano
+lastmod: "2018-10-21T20:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540169314565/Leahblackwhite.jpg.jpg
+publishDate: "2018-10-21T20:52:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-diego-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/seattle-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/opera-omaha.md
+slug: leah-partridge
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/leahoperabird/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/leahoperabird
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/leahoperabird/?hl=en
+title: Leah Partridge
+website: https://www.leahpartridge.com/
+cms_visible: true
+---
 
 Soprano Leah Partridge has received consistent praise worldwide for her intelligent and compelling interpretations of opera’s most beloved heroines.  Opera Magazine praised her for her “clarity, accuracy, and poise,” and the Detroit Free Press has hailed her for her “lovely presence and shining voice.”  Since making her debut in 2003 as Lucia in *Lucia di Lammermoor*, Ms. Partridge has had a career full of remarkable milestones.  She has performed over 40 leading roles in her short career. Her Metropolitan Opera debut came in 2008 as the First Niece in *Peter Grimes* followed by several return engagements.  She has performed in some of the world’s greatest opera houses such as; Deutche Oper Berlin, Vlaamse Oper Antwerp Belgium, Teatro Colon Buenos Aires, Palau de les Artes Valencia Spain, Opera Philadelphia, Maggio Musicale Florence Italy, Teatro Carlo Felice di Genova Italy, Washington National Opera, Seattle Opera, The Atlanta Opera, Florida Grand Opera, Opera Omaha, and Dresden Semper Oper, among many others.  She has been seen in concert with the Atlanta Symphony Orchestra, Boston Baroque Orchestra, Cleveland Orchestra, and San Diego Symphony. 
 

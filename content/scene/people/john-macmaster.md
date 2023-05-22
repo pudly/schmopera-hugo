@@ -1,14 +1,22 @@
-+++
-date = "2015-11-25T11:23:00-05:00"
-discipline = "Tenor"
-lastmod = "2015-11-25T11:23:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448468478649/2015-11-25---John-MacMaster.jpg.jpg"
-publishDate = "2015-11-25T11:23:00-05:00"
-related_companies = ["scene/companies/glimmerglass-festival.md","scene/companies/canadian-opera-company.md","scene/companies/royal-opera-house.md","scene/companies/edmonton-opera.md","scene/companies/vancouver-opera.md","scene/companies/opra-de-qubec.md"]
-slug = "john-macmaster"
-title = "John MacMaster"
-website = "http://www.johnmacmaster.com/index.html"
-+++
+---
+_template: people_single
+date: "2015-11-25T11:23:00-05:00"
+discipline: Tenor
+lastmod: "2015-11-25T11:23:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1448468478649/2015-11-25---John-MacMaster.jpg.jpg
+publishDate: "2015-11-25T11:23:00-05:00"
+related_companies:
+- scene/companies/glimmerglass-festival.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/royal-opera-house.md
+- scene/companies/edmonton-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/opra-de-qubec.md
+slug: john-macmaster
+title: John MacMaster
+website: http://www.johnmacmaster.com/index.html
+cms_visible: true
+---
 
 Since his astonishing portrayal of Canio in PAGLIACCI at Glimmerglass Opera, John Mac Master has been in demand at the highest international level for the dramatic tenor repertoire. Performances and recording projects include Florestan in FIDELIO with Sir Colin Davis in London, Beethoven’s Symphony No. 9 with Sir Bernard Haitink (both with the London Symphony Orchestra) and his debut at Dresden’s Semper Oper as Calaf in TURANDOT conducted by Fabio Luisi. Mr. Mac Master’s acclaimed Metropolitan Opera début came as Canio in PAGLIACCI in performances that included the Saturday Afternoon ‘Live from the Met’ radio broadcast. Of particular note was his assumption of the role of Tristan in TRISTAN UND ISOLDE for Welsh National Opera conducted by Mark Wigglesworth and a subsequent outing at the Met in this demanding role, with Levine in the pit. His schedule has also included performances of Verdi’s REQUIEM at the National Arts Centre in Ottawa with Zukerman, Aegisth in ELEKTRA for the Canadian Opera Company, Janacek’s GLAGOLITIC MASS with William Eddins and the Edmonton Symphony plus PAGLIACCI and ARIADNE AUF NAXOS (both for Vancouver Opera).
 

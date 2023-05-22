@@ -1,21 +1,25 @@
-+++
-discipline = "Bass"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1628102371/media/2021/08/Hans_Tashjian_Headshot_pjgckw.jpg"
-primary_image_credit = "Lyndon England."
-related_companies = ["scene/companies/american-opera-projects.md", "scene/companies/central-city-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/sarasota-opera.md"]
-slug = "hans-tashjian"
-title = "Hans Tashjian"
-website = "http://www.hanstashjian.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/hansomelydone/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/hanstashjianbass"
-
-+++
+---
+discipline: Bass
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1628102371/media/2021/08/Hans_Tashjian_Headshot_pjgckw.jpg
+primary_image_credit: Lyndon England.
+related_companies:
+- scene/companies/american-opera-projects.md
+- scene/companies/central-city-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/sarasota-opera.md
+slug: hans-tashjian
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/hansomelydone/
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/hanstashjianbass
+title: Hans Tashjian
+website: http://www.hanstashjian.com/
+cms_visible: true
+---
 Hans Tashjian, a bass whose voice has been described as "rumbling and sumptuously lush," and “hauntingly striking,” continues to expand his repertoire with opera companies throughout the country.  During the 2021-2022 season, he joins Teatro Nuovo as the title role in _Il barbiere di Siviglia_, Houston Grand Opera as Billy in the world premiere of _The Snowy Day_, Pacific Symphony as the Herald / Lodovico cover in _Otello_, and as the bass soloist in _The Creation_ with the New Haven Symphony Orchestra.  In the spring of 2021, Mr. Tashjian returned to Sarasota Opera to cover the roles of Batone in _L’inganno Felice_, Uberto in _La Serva padrona_, and Gaudenzio in _Il Signor Bruschino_.
 
 Over the course of the 2019-2020 season, Mr. Tashjian sang the title role of Aleko and el Capitán in _Florencia en el Amazonas_ with Yale Opera, debuted at the Charleston Symphony as the bass soloist in the Messiah, and debuted the role of Enrico in _Anna Bolena_ with Baltimore Concert Opera. In the summer of 2020, Mr. Tashjian was slated to return to Teatro Nuovo in the title role of Rossini’s _Maometto II_ (COVID19 - postponed) and in the fall of 2020 to make his Houston Grand Opera debut as Billy in the world premiere of _The Snowy Day_ (COVID19 - postponed until fall 2021). 

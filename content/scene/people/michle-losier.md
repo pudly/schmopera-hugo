@@ -1,23 +1,32 @@
-+++
-date = "2017-01-27T11:15:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-01-27T11:21:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485515730272/2017-01-27--Michele_Losier.jpg.jpg"
-primary_image_credit = "Courtesy of IMG Artists"
-publishDate = "2017-01-27T11:15:00+00:00"
-related_companies = ["scene/companies/opra-national-de-paris.md","scene/companies/seattle-opera.md","scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/royal-opera-house.md","scene/companies/washington-national-opera.md","scene/companies/la-monnaie.md"]
-slug = "michle-losier"
-title = "Michèle Losier"
-website = "http://www.michelelosier.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/michelelosiermezzosoprano/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/michelelosier"
-+++
+---
+date: "2017-01-27T11:15:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2017-01-27T11:21:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485515730272/2017-01-27--Michele_Losier.jpg.jpg
+primary_image_credit: Courtesy of IMG Artists
+publishDate: "2017-01-27T11:15:00+00:00"
+related_companies:
+- scene/companies/opra-national-de-paris.md
+- scene/companies/seattle-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/royal-opera-house.md
+- scene/companies/washington-national-opera.md
+- scene/companies/la-monnaie.md
+slug: michle-losier
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/michelelosiermezzosoprano/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/michelelosier
+title: Michèle Losier
+website: http://www.michelelosier.com/
+cms_visible: true
+---
 
 Critically acclaimed mezzo-soprano Michèle Losier distinguishes herself on international opera stages with her rich voice, masterful musicality and stupendous stage presence. Recently hailed at the Théâtre des Champs-Élysées for her “great presence“and “brassy voice“ combined in an “impressive Medea“, she appears in the world’s greatest opera houses. The active 2014/15 season included appearances as Phoebe in Castor et Pollux at the Théâtre des Champs-Élysées in Paris, Frank Martin’s *Die Weise von Liebe undTod des Cornets Christoph Rike* at the la Monnaie and Ascanio in *Benvenuto Cellini* with De Nederlandse Opera. Having recently completed an engagement with the Orchestra Symphonique de Montréal in Beethoven’s Missa Solemnis and Bizet’s Carmen. 
 

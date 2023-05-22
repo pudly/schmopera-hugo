@@ -1,13 +1,14 @@
-+++
-date = "2016-05-24T06:28:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-05-24T06:28:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546830445/media/2019/01/MariaGulik.gif"
-publishDate = "2016-05-24T06:28:00-04:00"
-slug = "maria-gulik"
-title = "Maria Gulik"
-
-+++
+---
+_template: people_single
+date: "2016-05-24T06:28:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2016-05-24T06:28:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546830445/media/2019/01/MariaGulik.gif
+publishDate: "2016-05-24T06:28:00-04:00"
+slug: maria-gulik
+title: Maria Gulik
+cms_visible: true
+---
 Maria Gulik was born in 1983 in Kargopol Arhangelsk, a province of Russia.
 After studying at the Academy of Arts Theatre between 2002 and 2007, she devoted herself to singing with Badri Maisuradze and Galina Vishnevskaya at the "Galina Vishnevskaya Opera Centre"
 Since 2007, she is also an actress in the whole "Laboratory of Dmitry Krymov" Russia and participated in the show who wins the Edinburgh International Festival.

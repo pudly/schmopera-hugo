@@ -1,18 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2017-05-01T15:59:00-04:00"
-lastmod = "2017-05-02T08:47:00-04:00"
-preamble = "Toronto-based [Collectìf](/scene/companies/collectif/) is the product of creativity, artistic independence, and musical curiosity. Its core team includes singers [Jennifer Krabbe](/scene/people/jennifer-krabbe/), [Whitney O'Hearn](/scene/people/whitney-ohearn/) and [Danika Lorèn](/scene/people/danika-loren/), and pianist Tom King; using the medium of art song, Collectìf creates original, immersive performances that have our interest officially piqued.\n\nWe spoke with Jennifer, Whitney, and Danika about the creation of Collectìf, the work they're proud of, and their favourite songs (for now, anyway)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493669740389/2017-05-01---CollectifHeadshot.jpg.jpg"
-publishDate = "2017-05-02T08:47:00-04:00"
-related_articles = ["articles/quintus-4-has-no-choice-but-to-have-a-unique-sound.md"]
-related_companies = ["scene/companies/collectif.md"]
-related_people = ["scene/people/whitney-ohearn.md"]
-short_description = "&quot;We were all coming to the end of our academic careers at around the same time. We were looking to create something interesting, and we wanted to be our own bosses. Each of us adds something totally unique to the dynamic of the group, and we are completed by Tom King, who has been out pianist for every show.&quot;"
-slug = "collectif"
-title = "Meet the folks: Collectìf"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2017-05-01T15:59:00-04:00"
+lastmod: "2017-05-02T08:47:00-04:00"
+preamble: |-
+  Toronto-based [Collectìf](/scene/companies/collectif/) is the product of creativity, artistic independence, and musical curiosity. Its core team includes singers [Jennifer Krabbe](/scene/people/jennifer-krabbe/), [Whitney O'Hearn](/scene/people/whitney-ohearn/) and [Danika Lorèn](/scene/people/danika-loren/), and pianist Tom King; using the medium of art song, Collectìf creates original, immersive performances that have our interest officially piqued.
+
+  We spoke with Jennifer, Whitney, and Danika about the creation of Collectìf, the work they're proud of, and their favourite songs (for now, anyway).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493669740389/2017-05-01---CollectifHeadshot.jpg.jpg
+publishDate: "2017-05-02T08:47:00-04:00"
+related_articles:
+- articles/quintus-4-has-no-choice-but-to-have-a-unique-sound.md
+related_companies:
+- scene/companies/collectif.md
+related_people:
+- scene/people/whitney-ohearn.md
+short_description: '&quot;We were all coming to the end of our academic careers at
+  around the same time. We were looking to create something interesting, and we wanted
+  to be our own bosses. Each of us adds something totally unique to the dynamic of
+  the group, and we are completed by Tom King, who has been out pianist for every
+  show.&quot;'
+slug: collectif
+title: 'Meet the folks: Collectìf'
+---
 
 ## How did Collectìf begin?
 
@@ -26,7 +37,9 @@ Every Collectìf show is unique, in part due to our site-specific productions (n
 
 Ultimately our goal is to bring a new audience into the classical music world by breaking down some of the barriers that we feel no longer serve the art form.  But really, the best way to understand what we're about is to come and see one of our shows.   
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493669856517/2017-05-01---Collectif-at-the-RBA.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1493669856517/2017-05-01---Collectif-at-the-RBA.jpg.jpg)
 <figcaption>Collectìf at the Richard Bradshaw Amphitheatre.</figcaption>
 </figure>
 

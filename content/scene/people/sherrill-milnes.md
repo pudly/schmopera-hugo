@@ -1,23 +1,31 @@
-+++
-date = "2015-07-12T16:49:00-06:00"
-discipline = "Baritone"
-lastmod = "2015-07-12T16:49:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436741003761/milnes-acosta.jpg.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2015-07-12T16:49:00-06:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/teatro-alla-scala.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/savannah-voice-festival.md"]
-slug = "sherrill-milnes"
-title = "Sherrill Milnes"
-website = "http://sherrillmilnes.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/SherrillMilnes"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC4bwhBI3n_9DfvnxlASdBFA"
-+++
+---
+date: "2015-07-12T16:49:00-06:00"
+discipline: Baritone
+lastmod: "2015-07-12T16:49:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436741003761/milnes-acosta.jpg.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2015-07-12T16:49:00-06:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/savannah-voice-festival.md
+slug: sherrill-milnes
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/SherrillMilnes
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC4bwhBI3n_9DfvnxlASdBFA
+title: Sherrill Milnes
+website: http://sherrillmilnes.com/
+cms_visible: true
+---
 
 #### Legendary artist, teacher, producer
 

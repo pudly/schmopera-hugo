@@ -1,14 +1,21 @@
-+++
-date = "2017-09-10T11:50:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-09-10T11:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505058563446/2479%20anthony%20clark%20evans%20hi%20res%20drama.jpg.jpg"
-primary_image_credit = "Kristin Hoebermann"
-publishDate = "2017-09-10T11:50:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/san-diego-opera.md"]
-slug = "anthony-clark-evans"
-title = "Anthony Clark Evans"
-+++
+---
+_template: people_single
+date: "2017-09-10T11:50:00-04:00"
+discipline: Baritone
+lastmod: "2017-09-10T11:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505058563446/2479%20anthony%20clark%20evans%20hi%20res%20drama.jpg.jpg
+primary_image_credit: Kristin Hoebermann
+publishDate: "2017-09-10T11:50:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/san-diego-opera.md
+slug: anthony-clark-evans
+title: Anthony Clark Evans
+cms_visible: true
+---
 
 Rising American baritone Anthony Clark Evans makes major debuts in the 2016-2017
 season, firstly as Sharpless in *Madama Butterfly* with the San Francisco Opera. Later in the season, he makes his Metropolitan Opera debut as the Huntsman in *Rusalka* while

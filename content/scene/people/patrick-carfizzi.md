@@ -1,25 +1,36 @@
-+++
-discipline = "Bass-baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1574021391/media/2019/11/PatrickCarfizzi-KenHoward_veb0sb.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/san-diego-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/the-dallas-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/seattle-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "patrick-carfizzi"
-title = "Patrick Carfizzi"
-website = "https://www.patrickcarfizzi.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/patrickcarfizzi/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/patrickcarfizzi"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/PatrickCarfizzi/"
-
-+++
+---
+discipline: Bass-baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1574021391/media/2019/11/PatrickCarfizzi-KenHoward_veb0sb.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/san-diego-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/seattle-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: patrick-carfizzi
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/patrickcarfizzi/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/patrickcarfizzi
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/PatrickCarfizzi/
+title: Patrick Carfizzi
+website: https://www.patrickcarfizzi.com/
+cms_visible: true
+---
 In the 2018-2019 season, American bass-baritone Patrick Carfizzi returns to the Metropolitan Opera as Sacristan in Puccini’s _Tosca_, the Jailer in Poulenc’s _Dialogues des Carmélites_, Betto di Signa in Puccini’s _Gianni Schicchi_, a role debut as Quinault in Cilea’s _Adriana Lecouvreur_, and covers the role of Talpa in Puccini’s _Il Tabarro_.
 
 Mr. Carfizzi will also return to Lyric Opera of Kansas City to reprise the role of Don Alfonso in Mozart’s _Così fan tutte_ under the baton of Jane Glover. On the concert stage, Mr. Carfizzi will sing Beethoven’s Ninth Symphony with the Utah Symphony Orchestra. 

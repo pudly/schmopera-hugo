@@ -1,17 +1,24 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1605193596/media/2020/11/MoniaHuisman_wjwwe5.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/saskatoon-opera.md", "scene/companies/pacific-opera-project.md", "scene/companies/edmonton-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md", "scene/companies/manitoba-opera.md"]
-slug = "monica-huisman"
-title = "Monica Huisman"
-website = "http://www.monicahuisman.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/monica_huisman/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1605193596/media/2020/11/MoniaHuisman_wjwwe5.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/saskatoon-opera.md
+- scene/companies/pacific-opera-project.md
+- scene/companies/edmonton-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/calgary-opera.md
+- scene/companies/manitoba-opera.md
+slug: monica-huisman
+social_media:
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/monica_huisman/
+title: Monica Huisman
+website: http://www.monicahuisman.com/
+cms_visible: true
+---
 Dutch-Canadian Soprano, Monica Huisman has been hailed as possessing a soprano voice that ’embodies both flawless technique and dramatic impact’ (Opera Canada). Ms. Huisman has delighted audiences from Amsterdam’s Concertgebouw to Guatemala City with the reputation of her ‘silken’ voice ‘consistently crafting each note into a work of art’ (Winnipeg Free Press).
 
 She has soared on the stages of Vancouver Opera, Calgary Opera, Edmonton Opera, Pacific Opera Victoria, The Netherlands Opera, Manitoba Opera, Opera Ontario and Saskatoon Opera in productions of _Carmen_, _Marriage of Figaro_, _Cosi Fan Tutte_, _Don Giovanni_, _Cunning Little Vixen_, _La bohème_, _Magic Flute_, _Hansel und Gretel_ and _Lakmé_. Many of these performances have been broadcasted by CBC Radio on _Saturday Afternoon at the Opera_.

@@ -1,24 +1,31 @@
-+++
-date = "2016-05-11T15:17:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-05-11T15:17:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1581276425/media/2020/02/MelodyMoore-Jiyang-Chen-2_yvvv08.jpg"
-primary_image_credit = "Photo: Jiyang Chen."
-publishDate = "2016-05-11T15:17:00+01:00"
-related_companies = ["scene/companies/washington-national-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/english-national-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/glimmerglass-festival.md", "scene/companies/lopra-de-montral.md", "scene/companies/merola-opera-program.md"]
-slug = "melody-moore"
-title = "Melody Moore"
-website = "http://melodymooresoprano.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/melodymooresoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/melodysoprano"
-
-+++
+---
+date: "2016-05-11T15:17:00+01:00"
+discipline: Soprano
+lastmod: "2016-05-11T15:17:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1581276425/media/2020/02/MelodyMoore-Jiyang-Chen-2_yvvv08.jpg
+primary_image_credit: 'Photo: Jiyang Chen.'
+publishDate: "2016-05-11T15:17:00+01:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/english-national-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/merola-opera-program.md
+slug: melody-moore
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/melodymooresoprano
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/melodysoprano
+title: Melody Moore
+website: http://melodymooresoprano.com/
+cms_visible: true
+---
 Soprano Melody Moore is enjoying a thriving career on the world’s leading stages, prompting _Opera News_ to label her “a revelation,” and of her recent sold-out appearance at Carnegie Hall to rave, “As I left the auditorium, I could only think: more of Moore, please.” The current season marks the release of her first solo album entitled _An American Song Album_ with pianist Bradley Moore on Pentatone Records.
 
 In the 2019-2020 season, Ms. Moore will make two notable role debuts: her debut as Amneris in a new production of _Aida_ at the Houston Grand Opera, and following, her role and house debut as the Foreign Princess in _Rusalka_ at Cincinnati Opera. Additionally, Ms. Moore will sing Donna Anna in _Don Giovanni_ at Opera Naples, and will conclude her season as Santuzza in _Cavalleria Rusticana_ at Seattle Opera. Concert highlights include her debut with the Houston Symphony Orchestra in Mahler’s _Das klagende Lied_ under the baton of Music Director Andrés Orozco-Estrada, the title role in Strauss’ _Salome_ at Bard College, and a solo recital and masterclass at Lawrence University. In the summer, she sings Vaughan Williams’ masterful _Sea Symphony_ with the Oregon Symphony, led by Carlos Kalmar.

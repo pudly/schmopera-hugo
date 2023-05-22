@@ -1,18 +1,34 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-01-08T11:37:00+00:00"
-lastmod = "2017-01-08T12:13:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483875485052/2017-01-08---Pirates-Square.jpg.jpg"
-primary_image_credit = "Curtis Sullivan as Major-General Stanley, and Female Chorus in TOT's The Pirates of Penzance. Photo: Emily Ding"
-publishDate = "2017-01-08T12:03:00+00:00"
-related_articles = ["articles/dont-miss-the-pirates-of-penzance-with-tot.md","articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md","articles/in-review-isis-and-osiris.md","articles/dont-miss-the-chocolate-soldier.md"]
-related_companies = ["scene/companies/toronto-operetta-theatre.md"]
-related_people = ["scene/people/colin-ainsworth.md","scene/people/vania-chan.md","scene/people/curtis-sullivan.md","scene/people/janaka-welihinda.md"]
-short_description = "Colin Ainsworth steps out as the hapless, handsome, if somewhat dim-witted Frederic. His bright face matched his clear, sailing tone throughout the house. His protrayal of Frederic&#039;s dim-wittedness was presented less as a sheer stupidity or unintelligence and more as absent-minded thoughtlessness which I thought was a strong choice. His chemistry with Mabel and Ruth was tangible through the whole show."
-slug = "tots-pirates-of-penzance-a-glorious-thing"
-title = "TOT&#039;s Pirates of Penzance: &quot;A glorious thing&quot;"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-01-08T11:37:00+00:00"
+lastmod: "2017-01-08T12:13:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483875485052/2017-01-08---Pirates-Square.jpg.jpg
+primary_image_credit: 'Curtis Sullivan as Major-General Stanley, and Female Chorus
+  in TOT''s The Pirates of Penzance. Photo: Emily Ding'
+publishDate: "2017-01-08T12:03:00+00:00"
+related_articles:
+- articles/dont-miss-the-pirates-of-penzance-with-tot.md
+- articles/in-review-los-gavilanes-at-toronto-operetta-theatre.md
+- articles/in-review-isis-and-osiris.md
+- articles/dont-miss-the-chocolate-soldier.md
+related_companies:
+- scene/companies/toronto-operetta-theatre.md
+related_people:
+- scene/people/colin-ainsworth.md
+- scene/people/vania-chan.md
+- scene/people/curtis-sullivan.md
+- scene/people/janaka-welihinda.md
+short_description: Colin Ainsworth steps out as the hapless, handsome, if somewhat
+  dim-witted Frederic. His bright face matched his clear, sailing tone throughout
+  the house. His protrayal of Frederic&#039;s dim-wittedness was presented less as
+  a sheer stupidity or unintelligence and more as absent-minded thoughtlessness which
+  I thought was a strong choice. His chemistry with Mabel and Ruth was tangible through
+  the whole show.
+slug: tots-pirates-of-penzance-a-glorious-thing
+title: 'TOT&#039;s Pirates of Penzance: &quot;A glorious thing&quot;'
+---
 
 My first outing of 2017 was to head over to my home away from home, the St. Lawrence Centre for the Arts, and check out the latest offering from [Toronto Operetta Theatre](/scene/people/toronto-operetta-theatre/) - Gilbert & Sullivan's *The Pirates of Penzance*, directed by TOT's General Director, Guillermo Silva-Marin and Music Directed by Maestro Derek Bate. TOT was the first company in the classical sphere to hire me and give me my start here in Toronto, so they have a special place with me. 
 
@@ -20,7 +36,9 @@ My first outing of 2017 was to head over to my home away from home, the St. Lawr
 
 It tells the story of a young man, Frederic, who was born on a leap-year, who as an orphan was mistakenly apprenticed to the Pirate King (instead of pilot thanks to the hearing impairment of Ruth.) He's now reached his 21st year and is released from his apprenticeship to the Pirate King. Shortly thereafter he meets Mabel, ward of Major General Stanley, and they fall in love. The Pirate King and Ruth then return to point out the minor technicality that the contract was on his 21st Birthday, not his 21st year, and thus far he's only seen five February 29ths. #HijinxEnsue.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876673218/2017-01-08---Pirates---Dec-2016-5649.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876673218/2017-01-08---Pirates---Dec-2016-5649.jpg.jpg)
 <figcaption>Vania Chan (Mabel) and Colin Ainsworth (Frederic) in TOT's *The Pirate King*. Photo by Emily Ding.</figcaption>
 </figure>
 
@@ -34,7 +52,9 @@ As Major General Stanley, TOT welcomed [Curtis Sullivan](/scene/people/curtis-su
 
 As the Pirate King, young baritone [Janaka Welihinda](/scene/people/janaka-welihinda/) was also incredibly funny. His singing was clean, bright, and present. I quite enjoyed his swagger and bright smile - it made it very easy to understand why all these young orphans would totally surrender their freedom to serve on his ship. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876614825/201-7-01-08---Pirates---Dec-2016-5811.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1483876614825/201-7-01-08---Pirates---Dec-2016-5811.jpg.jpg)
 <figcaption>Elizabeth Beeler as Ruth in TOT's *The Pirates of Penzance*. Photo by Emily Ding.</figcaption>
 </figure>
 

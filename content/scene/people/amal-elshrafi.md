@@ -1,18 +1,22 @@
-+++
-date = "2016-09-11T18:55:00+02:00"
-discipline = "Soprano"
-lastmod = "2016-09-11T18:55:00+02:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473612889247/Amal-El-Shrafi-HS.jpg.jpg"
-publishDate = "2016-09-11T18:55:00+02:00"
-related_companies = ["scene/companies/sarasota-opera.md","scene/companies/new-england-conservatory.md"]
-slug = "amal-elshrafi"
-title = "Amal El-Shrafi"
-website = "http://www.amalelshrafi.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://facebook.com/amalsoprano?_rdr"
-+++
+---
+date: "2016-09-11T18:55:00+02:00"
+discipline: Soprano
+lastmod: "2016-09-11T18:55:00+02:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1473612889247/Amal-El-Shrafi-HS.jpg.jpg
+publishDate: "2016-09-11T18:55:00+02:00"
+related_companies:
+- scene/companies/sarasota-opera.md
+- scene/companies/new-england-conservatory.md
+slug: amal-elshrafi
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://facebook.com/amalsoprano?_rdr
+title: Amal El-Shrafi
+website: http://www.amalelshrafi.com/
+cms_visible: true
+---
 
 Hailed by the Boston Musical Intelligencer as "shining through with a strength and power that matched her character’s presence onstage", Amal El-Shrafi is now an up and coming performer across the United States. This season, Ms. El-Shrafi made her principal artist debut as Nedda in *I Pagliacci* with Mobile Opera, sang as an Apprentice Artist with Sarasota Opera in their completion of the Verdi Cycle and will return to Opera Company of Middlebury as an Apparition in their production of Verdi's *Macbeth*. She also placed as an international semi-finalist in the pretigious Deborah Voigt/ Vero Beach Opera Vocal Competition this past March. 
  

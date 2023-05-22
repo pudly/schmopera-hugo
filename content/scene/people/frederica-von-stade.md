@@ -1,18 +1,31 @@
-+++
-date = "2019-03-05T22:40:00+00:00"
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551825223/media/2019/03/vonStadeRobertMillard.jpg"
-primary_image_credit = "Robert Millard."
-related_companies = ["scene/companies/the-dallas-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/wiener-staatsoper.md", "scene/companies/opra-national-de-paris.md", "scene/companies/teatro-alla-scala.md", "scene/companies/royal-opera-house.md", "scene/companies/san-francisco-opera.md", "scene/companies/arizona-opera.md", "scene/companies/opera-philadelphia.md", "scene/companies/san-diego-opera.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "frederica-von-stade"
-title = "Frederica von Stade"
-website = "http://www.fredericavonstade.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Frederica-Von-Stade-64924287649/"
-
-+++
+---
+date: "2019-03-05T22:40:00+00:00"
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551825223/media/2019/03/vonStadeRobertMillard.jpg
+primary_image_credit: Robert Millard.
+related_companies:
+- scene/companies/the-dallas-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/royal-opera-house.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/san-diego-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: frederica-von-stade
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Frederica-Von-Stade-64924287649/
+title: Frederica von Stade
+website: http://www.fredericavonstade.com/
+cms_visible: true
+---
 Described by the _New York Times_ as “one of America’s finest artists and singers,” Frederica von Stade continues to be extolled as one of the music world’s most beloved figures. Known to family, friends, and fans by her nickname “Flicka,” the mezzo-soprano has enriched the world of classical music for four and a half decades.
 
 Though she retired from full-time performances in 2010, she continues to make appearances across the United States. The 2018-19 season opens with the world premiere of Lembit Beecher’s _Sky on Swings_ at Opera Philadelphia. Also during the fall, she will perform alongside Susan Graham and the Orchestra of St. Luke’s for the DiMenna Center Benefit in New York City. March marks a return to the San Diego Opera as she portrays Madeline in Jake Heggie’s _Three Decembers_, a role she created a decade ago. In 2017, Ms. von Stade opened the Boston Symphony Orchestra’s season with a tribute to Leonard Bernstein conducted by Andris Nelsons. To open the 2016-17 season, Ms. von Stade sang with Tony award-winning Broadway star Liz Callaway, Daniel Rodriguez, and Matthew Lee Robinson in the New York premiere of the 45-minute cantata _Street Requiem_ – composed in 2014 by Australian’s Kathleen McGuire, Andy Payne and Jonathon Welch – at Carnegie Hall. She made her Arizona Opera debut by joining The 45th Anniversary Sapphire Celebration concert celebrating the company. In January, the mezzo-soprano performed on a gala benefit concert with Sarasota Ballet in Florida. The spring found Ms. von Stade singing with Hawaii Opera Theater in _Three Decembers_ – composed by Jake Heggie based on the play by Terrence McNally – before going to Peabody Conservatory to give a master class.

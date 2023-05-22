@@ -1,21 +1,29 @@
-+++
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666912661/media/2022/10/AaronBlake_yczfjj.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/washington-national-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/utah-opera.md", "scene/companies/oper-frankfurt.md", "scene/companies/des-moines-metro-opera.md", "scene/companies/cincinnati-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/vancouver-opera.md"]
-slug = "aaron-blake"
-title = "Aaron Blake"
-website = "https://www.aaronblaketenor.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/tenorblake/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCpgkmcPoJ-MrInkv3-CXKSQ"
-
-+++
+---
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1666912661/media/2022/10/AaronBlake_yczfjj.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/utah-opera.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/cincinnati-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/vancouver-opera.md
+slug: aaron-blake
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/tenorblake/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCpgkmcPoJ-MrInkv3-CXKSQ
+title: Aaron Blake
+website: https://www.aaronblaketenor.com/
+cms_visible: true
+---
 The recipient of a 2017 George London Foundation Award, tenor Aaron Blake has earned international recognition for his performances in repertoire ranging from Martinu to Rossini. In 2022, he was recognized by the recording academy for his role as the High Priest of Amon in The Metropolitan Opera’s Grammy Award Winning Album of Philip Glass’s _Akhnaten_. His creation of the role of Timothy Laughlin in the Cincinnati Opera world premiere of Gregory Spears and Greg Pierce’s _Fellow Travelers_ brought both critical and international acclaim. The live recording of these performances was captured on the Cincinnati Symphony Fanfare Label and was released in 2017 where it was named one of the top 10 classical recordings of the year by New Yorker Magazine. In addition, Mr. Blake made a critically acclaimed debut with New York City Opera in Peter Eötvös’ operatic adaptation of _Angels in America_. During the 2022-23 season, Mr. Blake will make his Canadian debut as Nadir in _Les pêcheurs de perles_ and his Italian debut in recital with pianist Maria Nikitin at Santa Cecilia in Rome. He also covers the role of Henry in _Die Schweigsame Frau_ with Bard Summerscape, performs a concert of arias, songs, and duets at Walt Disney Concert Hall and covers _Don Ottavio_ in the Met’s new production of _Don Giovanni_.
 
 Mr. Blake began his 2021/2022 season with a return to the Cincinnati Opera as Il Conte Almaviva in _The Barber of Seville_, followed by a concert of operatic duets, arias, and Neapolitan Songs with the Los Angeles Symphony. He then returned to The Israeli Opera to open their season as Tamino in Barrie Kosky’s critically acclaimed production of _Die Zauberflöte_ and made his role debut as Alfredo in Verdi’s _La traviata_ with the Jerusalem Opera. He continued his season at the Komische Oper Berlin as Tamino and made his recital debut with the Crystal Valley Recital Series. He also covered Tamino with the Houston Grand Opera, and in the spring of 2022, Mr. Blake made his debut with the Des Moines Metro Opera as Tamino in _Die Zauberflöte_, and returned to the Metropolitan Opera as the High Priest of Amon in _Akhnaten_.

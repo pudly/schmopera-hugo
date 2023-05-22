@@ -1,14 +1,18 @@
-+++
-date = "2017-11-18T15:37:00-05:00"
-discipline = "Bass-baritone"
-lastmod = "2017-11-18T15:37:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511037165852/robertosborne180.jpg.jpg"
-publishDate = "2017-11-18T15:37:00-05:00"
-related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/los-angeles-opera.md"]
-slug = "robert-osborne"
-title = "Robert Osborne"
-website = "http://www.robertosborne.net/"
-+++
+---
+_template: people_single
+date: "2017-11-18T15:37:00-05:00"
+discipline: Bass-baritone
+lastmod: "2017-11-18T15:37:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511037165852/robertosborne180.jpg.jpg
+publishDate: "2017-11-18T15:37:00-05:00"
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/los-angeles-opera.md
+slug: robert-osborne
+title: Robert Osborne
+website: http://www.robertosborne.net/
+cms_visible: true
+---
 
 Bass-baritone Robert Osborne has long been an admired favorite on the American orchestral-concert scene, while establishing himself as a respected operatic artist as well. During his eight city tour of the United States as King George III in Peter Maxwell Davies’ *Eight Songs for a Mad King* the New York Times headlined him as “A Singer Who Goes All the Way” and hailed his “thrilling performance both vocally and dramatically.” He has performed operas in such venues as Carnegie Hall, BAM, Merkin Hall, Théâtre de l’Odéon in Paris, Hubble Theatre in Berlin, and Royce Theatre in Los Angeles, while singing major roles in six premiere CD’s for Albany, ECM, Arabesque, Wergo and Koch. He has performed over forty roles with Santa Fe (Old Prudence in Rochberg’s *The Confidence Man* and Sprecher in Mozart’s *The Magic Flute*); Singapore Symphony (Sam in Bernstein’s *Trouble in Tahiti*); Houston Grand Opera on tour in Paris, Berlin and New York (Old Man of Forest in Meredith Monk’s *Atlas*); Mabou Mines (Father in Torikai’s *Red Beads*); Guthrie Theatre (George Washington in *Soldier’s Naked Revolution*); Vermont Symphony (Death in Ullmann’s *Der Kaiser von Atlantis*); Concert Royal Baroque Opera (Tirtée in Rameau’s *Les Fêtes d’Hébé*); Artek (Lucifer in Stradella’s *Ah, troppo è ver*); Vineyard Opera (Lubino in Martin y Soler’s *Una Cosa Rara*); Rockland Opera (Blansac in Rossini’s La Scala di Seta); Berkshire Opera (Conte Robinson in Cimarosa’s *Il Matrimonio Segreto*); and the Opera Ensemble of New York (Horace Giddens in Blitzstein’s *Regina*). He is engaged to reprise the role of King George III in Davies’ *Eight Songs for a Mad King* in February 2004. In the musical theatre repertoire, he has appeared in four City Center Encore! productions, in the Bernstein at 70! Gala from Tanglewood, and in the BAM Salutes Sondheim Gala.
 

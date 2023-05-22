@@ -1,18 +1,54 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-03-10T15:52:00+00:00"
-lastmod = "2016-03-14T09:48:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457626705916/2016-03-10---Pisaroni.jpg.jpg"
-primary_image_credit = "Photo: Catherine Pisaroni."
-publishDate = "2016-03-14T09:15:00+00:00"
-related_articles = ["articles/talking-with-singers-nicole-cabell.md","articles/talking-with-singers-othalie-graham.md","articles/talking-with-singers-christian-van-horn.md","articles/talking-with-singers-corinne-winters.md","articles/in-review-maometto-ii.md","articles/what-weve-learned-by-talking-with-108-opera-singers.md","articles/talking-with-singers-lise-lindstrom.md","articles/talking-with-singers-russell-thomas.md","articles/talking-with-singers-keri-alkema.md","articles/sidney-outlaw-stairs-success.md","articles/talking-with-singers-eleazar-rodriguez.md","articles/talking-with-singers-christian-bowers.md","articles/talking-with-singers-brian-jagde.md","articles/talking-with-singers-elza-van-den-heever.md","articles/talking-with-singers-george-gagnidze.md","articles/barihunks-jack-michaels-we-are-in-a-golden-age-of-baritones.md","articles/talking-with-singers-scott-hendricks.md","articles/talking-with-singers-angela-gheorghiu.md","articles/talking-with-singers-robin-johannsen.md","articles/talking-with-singers-anna-caterina-antonacci.md","articles/talking-with-singers-zachary-nelson.md","articles/talking-with-singers-giles-tomkins.md","articles/spotlight-on-iain-macneil.md","articles/talking-with-singers-andrea-care.md","articles/talking-with-singers-neil-craighead.md","articles/talking-with-singers-thomas-hampson.md"]
-related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md"]
-related_people = ["scene/people/luca-pisaroni.md"]
-short_description = "Pisaroni is quick to note that, &quot;all operas are difficult to cast.&quot; Still, the coloratura bass-baritone Maometto is a notable departure from Rossini&#039;s fast-moving mezzos and tenors. &quot;I could lie to you and say &#039;oh yeah, I love it, it&#039;s easy&#039;,&quot; he laughs. &quot;It&#039;s very difficult because it requires everything from you. There are low notes, high notes, coloratura, long phrases, legato, it&#039;s really challenging, all of it.&quot;"
-slug = "talking-with-singers-luca-pisaroni"
-title = "Talking with singers: Luca Pisaroni"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-03-10T15:52:00+00:00"
+lastmod: "2016-03-14T09:48:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457626705916/2016-03-10---Pisaroni.jpg.jpg
+primary_image_credit: 'Photo: Catherine Pisaroni.'
+publishDate: "2016-03-14T09:15:00+00:00"
+related_articles:
+- articles/talking-with-singers-nicole-cabell.md
+- articles/talking-with-singers-othalie-graham.md
+- articles/talking-with-singers-christian-van-horn.md
+- articles/talking-with-singers-corinne-winters.md
+- articles/in-review-maometto-ii.md
+- articles/what-weve-learned-by-talking-with-108-opera-singers.md
+- articles/talking-with-singers-lise-lindstrom.md
+- articles/talking-with-singers-russell-thomas.md
+- articles/talking-with-singers-keri-alkema.md
+- articles/sidney-outlaw-stairs-success.md
+- articles/talking-with-singers-eleazar-rodriguez.md
+- articles/talking-with-singers-christian-bowers.md
+- articles/talking-with-singers-brian-jagde.md
+- articles/talking-with-singers-elza-van-den-heever.md
+- articles/talking-with-singers-george-gagnidze.md
+- articles/barihunks-jack-michaels-we-are-in-a-golden-age-of-baritones.md
+- articles/talking-with-singers-scott-hendricks.md
+- articles/talking-with-singers-angela-gheorghiu.md
+- articles/talking-with-singers-robin-johannsen.md
+- articles/talking-with-singers-anna-caterina-antonacci.md
+- articles/talking-with-singers-zachary-nelson.md
+- articles/talking-with-singers-giles-tomkins.md
+- articles/spotlight-on-iain-macneil.md
+- articles/talking-with-singers-andrea-care.md
+- articles/talking-with-singers-neil-craighead.md
+- articles/talking-with-singers-thomas-hampson.md
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/canadian-opera-company.md
+related_people:
+- scene/people/luca-pisaroni.md
+short_description: Pisaroni is quick to note that, &quot;all operas are difficult
+  to cast.&quot; Still, the coloratura bass-baritone Maometto is a notable departure
+  from Rossini&#039;s fast-moving mezzos and tenors. &quot;I could lie to you and
+  say &#039;oh yeah, I love it, it&#039;s easy&#039;,&quot; he laughs. &quot;It&#039;s
+  very difficult because it requires everything from you. There are low notes, high
+  notes, coloratura, long phrases, legato, it&#039;s really challenging, all of it.&quot;
+slug: talking-with-singers-luca-pisaroni
+title: 'Talking with singers: Luca Pisaroni'
+---
 
 Italian bass-baritone Luca Pisaroni knows how to make the most of three days off. After finishing a performance of *Le nozze di Figaro* at The Metropolitan Opera, he grabbed a few hours worth of sleep, and hopped on a plane with his wife, Catherine, and their two dogs, Tristan and Lenny (after Bernstein, of course), for some much-needed rest in Miami. He had been battling an annoying cold for a few weeks, yet he hasn't missed a show. "You know, I'm a bass-baritone, I'd rather die than cancel," he quips.
 
@@ -47,7 +83,9 @@ He hates to show up ill-prepared for a gig, so he finds himself a support system
 
 "So, I have incredibly good coaches. In New York I have people I work with, with Toronto the head coach of *Maometto* is somebody I know, and I'll work on something else." It's not about recruiting help to learn his music, but it's about having an objective set of ears in the practice room. "I always say to young singers, you need somebody to listen to you because what you hear of your own voice is not what the public hears. You need somebody from the outside who judges if it's good or not."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457795889082/2016-03-12---Luca-Dogs.jpg.jpg)<figcaption>Luca Pisaroni with rapt audience Tristan and Lenny.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457795889082/2016-03-12---Luca-Dogs.jpg.jpg)<figcaption>Luca Pisaroni with rapt audience Tristan and Lenny.</figcaption>
 </figure>
 
 ## "The Dog-Walker"
@@ -58,7 +96,9 @@ Of course, an on-the-road routine isn't just about finding time to practice. "Th
 
 Lenny and Tristan  travel with him all the time, much to the delight of his colleagues. "The best is when I can actually take them to the opera house." We wondered if he had asked the Canadian Opera Company about bringing his canine companions to the Four Seasons Centre, and Pisaroni is hopeful. "They are very quiet, and they stay in my dressing room," he vouches. "They love the dressers, the make up artists, they love being around people. When I sang in Chicago they came, and everybody loved having them around. I would come in the stage door, Lenny would make the rounds to every dressing room, saying hi to everybody. It's really fun."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457795803732/2016-03-12---Lenny-Tristan.jpg.jpg)<figcaption>l-r: Lenny and Tristan. Photo by Catherine Pisaroni.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457795803732/2016-03-12---Lenny-Tristan.jpg.jpg)<figcaption>l-r: Lenny and Tristan. Photo by Catherine Pisaroni.</figcaption>
 </figure>
 
 ## The big question
@@ -69,7 +109,9 @@ He calls it "this incredibly twisted thing about my personality", the fact that 
 
 "When people say, 'is opera relevant?' I say, 'hell yeah it is.'" Pisaroni was an "opera nerd" even before he became a singer, but he insists that opera requires no homework or experience for a listener to be amazed. "You don't have to know anything about this art form to be touched, mesmerized, and wowed by it, absolutely not. You just need to be open, to be amazed."
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457795758829/2016-03-12---Maometto-2.jpg.jpg)<figcaption>Luca Pisaroni as Maometto II. Photo from *Maometto II* (Sante Fe Opera, 2012) by Ken Howard.</figcaption>
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1457795758829/2016-03-12---Maometto-2.jpg.jpg)<figcaption>Luca Pisaroni as Maometto II. Photo from *Maometto II* (Sante Fe Opera, 2012) by Ken Howard.</figcaption>
 </figure>
 
 "There's nothing more rewarding than doing something funny onstage and have 3000 people laugh," he says, with a smile in his voice. "That's like a drug for me."

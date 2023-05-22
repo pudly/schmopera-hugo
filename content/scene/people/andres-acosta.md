@@ -1,20 +1,23 @@
-+++
-date = "2017-10-02T13:37:00-04:00"
-discipline = "Tenor"
-lastmod = "2017-10-02T13:37:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546740738/media/2019/01/AndresAcosta.jpg"
-primary_image_credit = "Synthia Steiman"
-publishDate = "2017-10-02T13:37:00-04:00"
-related_companies = ["scene/companies/minnesota-opera.md", "scene/companies/merola-opera-program.md"]
-slug = "andres-acosta"
-title = "Andres Acosta"
-website = "https://www.andresacostatenor.com/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCmwYh4CG0XTOU0Ae4iFuY1w"
-
-+++
+---
+date: "2017-10-02T13:37:00-04:00"
+discipline: Tenor
+lastmod: "2017-10-02T13:37:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546740738/media/2019/01/AndresAcosta.jpg
+primary_image_credit: Synthia Steiman
+publishDate: "2017-10-02T13:37:00-04:00"
+related_companies:
+- scene/companies/minnesota-opera.md
+- scene/companies/merola-opera-program.md
+slug: andres-acosta
+social_media:
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCmwYh4CG0XTOU0Ae4iFuY1w
+title: Andres Acosta
+website: https://www.andresacostatenor.com/
+cms_visible: true
+---
 Cuban American tenor, Andres Acosta, begins the 2017 season with his final Master’s recital at the Jacobs School of Music, where he studied with acclaimed soprano, Carol Vaness. Andres will spend his summer as a part of the Merola Opera Program and will make his San Francisco debut as a part of the Scwabacher Concert.  He will also cover Ramiro in Rossini’s *La Cenerentola* and perform on the Grand Finale Concert.  He will then be a Resident Artist with Minnesota Opera as a part of their 2017-2018 season.
  
 Andres begins the season at Minnesota Opera by covering Ernesto in Donizetti's *Don Pasquale*. He will then perform the role of Don Basilio in Mozart's *Marriage of Figaro*.  Next he will cover the Duke and perform the role of Borsa in Verdi's *Rigoletto*.  Andres closes the season at Minnesota opera covering the role of Nicias in Massenet's *Thaïs*.

@@ -1,23 +1,30 @@
-+++
-date = "2015-05-14T15:06:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-05-14T15:06:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431630195624/Kaufmann.jpg.jpg"
-primary_image_credit = "Gregor Hohenberg/Sony Music"
-publishDate = "2015-05-14T15:06:00-04:00"
-related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/opra-national-de-paris.md","scene/companies/wiener-staatsoper.md","scene/companies/royal-opera-house.md"]
-slug = "jonas-kaufmann"
-title = "Jonas Kaufmann"
-website = "http://www.jonaskaufmann.com/en/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/kaufmannjonas?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/TenorKaufmann"
-+++
+---
+date: "2015-05-14T15:06:00-04:00"
+discipline: Tenor
+lastmod: "2015-05-14T15:06:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1431630195624/Kaufmann.jpg.jpg
+primary_image_credit: Gregor Hohenberg/Sony Music
+publishDate: "2015-05-14T15:06:00-04:00"
+related_companies:
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/royal-opera-house.md
+slug: jonas-kaufmann
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/kaufmannjonas?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/TenorKaufmann
+title: Jonas Kaufmann
+website: http://www.jonaskaufmann.com/en/
+cms_visible: true
+---
 
 Since his sensational début at the Metropolitan Opera in New York in a performance of “La Traviata” in 2006, Jonas Kaufmann has numbered among the top stars on the operatic horizon. The international press has singled him out as the “new king of tenors”. Insiders praise him as the most important German tenor since Fritz Wunderlich.
 

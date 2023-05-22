@@ -1,18 +1,26 @@
-+++
-date = "2015-04-07T20:26:00-06:00"
-discipline = "Founder & Artistic Director, Against the Grain Theatre"
-lastmod = "2015-07-06T00:50:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436165401904/image1.JPG.JPG"
-publishDate = "2015-04-07T20:26:00-06:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/canadian-opera-company.md","scene/companies/vancouver-opera.md","scene/companies/opera-nuova.md","scene/companies/the-banff-centre.md","scene/companies/indie-opera-to.md"]
-slug = "joel-ivany"
-title = "Joel Ivany"
-website = "http://www.joelivany.com/index/welcome.html"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/joelivany"
-+++
+---
+date: "2015-04-07T20:26:00-06:00"
+discipline: Founder & Artistic Director, Against the Grain Theatre
+lastmod: "2015-07-06T00:50:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1436165401904/image1.JPG.JPG
+publishDate: "2015-04-07T20:26:00-06:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/vancouver-opera.md
+- scene/companies/opera-nuova.md
+- scene/companies/the-banff-centre.md
+- scene/companies/indie-opera-to.md
+slug: joel-ivany
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/joelivany
+title: Joel Ivany
+website: http://www.joelivany.com/index/welcome.html
+cms_visible: true
+---
 
 Stage Director Joel Ivany was a recent finalist and prize winner in the 6th European Opera Directing prize for his concept presentation of Bellini's _I Capuleti e i Montecchi_ alongside designers Camellia Koo and Jason Hand. His most recent projects include directing the World Premiere of Gavin Bryars' chamber opera [Marilyn Forever](http://www.joelivany.com/index/Marilyn_Forever.html "Marilyn_Forever.html")_,_ with the Aventa Ensemble in Victoria, directing a new production of [Les Contes D'Hoffmann](http://www.joelivany.com/index/contes_dhoffmann.html "contes_dhoffmann.html") with Edmonton Opera, directing _Macbeth_ for Minnesota Opera, directing _Carmen_ for Vancouver Opera and becoming the sessional artistic director of Opera at the Banff Centre.  
 

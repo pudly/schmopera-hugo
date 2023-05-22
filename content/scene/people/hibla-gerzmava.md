@@ -1,27 +1,30 @@
-+++
-date = "2017-05-16T13:34:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-05-16T13:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494955912521/2017-05-16---GERZMAVA-Hibla-Vlad-Loktev.jpg.jpg"
-primary_image_credit = "Vlad Loktev"
-publishDate = "2017-05-16T13:34:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/the-metropolitan-opera.md"]
-slug = "hibla-gerzmava"
-title = "Hibla Gerzmava"
-website = "http://www.hibla.ru/en/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/hiblagerzmava.fanpage"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/hiblagerzmava/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/GerzmavaHibla"
-+++
+---
+date: "2017-05-16T13:34:00-04:00"
+discipline: Soprano
+lastmod: "2017-05-16T13:36:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494955912521/2017-05-16---GERZMAVA-Hibla-Vlad-Loktev.jpg.jpg
+primary_image_credit: Vlad Loktev
+publishDate: "2017-05-16T13:34:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+slug: hibla-gerzmava
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/hiblagerzmava.fanpage
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/hiblagerzmava/
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/GerzmavaHibla
+title: Hibla Gerzmava
+website: http://www.hibla.ru/en/
+cms_visible: true
+---
 
 Hibla Gerzmava has established herself as one of the most sought after sopranos of her generation, having met critical acclaim at such theaters as the Royal Opera House – Covent Garden, Opéra National de Paris, Vienna State Opera, Rome Opera, Metropolitan Opera, Bavarian State Opera in Munich, Carnegie Hall in New York, and Mariinsky Theatre in St. Petersburg. She has also appeared at the Ludwigsburg Festival in Germany and the BBC Proms. Hailed by the *New York Times* as “the warm-voiced soprano with affecting poise and strong-willed intensity,” Gerzmava will return to the Metropolitan Opera this season as Donna Anna in *Don Giovanni*.
 

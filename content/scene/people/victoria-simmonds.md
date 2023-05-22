@@ -1,21 +1,25 @@
-+++
-date = "2016-03-20T14:48:00+00:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-03-20T14:48:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458485314014/2016-03-20---Victoria-Simmonds.jpg.jpg"
-publishDate = "2016-03-20T14:48:00+00:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/royal-opera-house.md"]
-slug = "victoria-simmonds"
-title = "Victoria Simmonds"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/VictoriaSimmondsMezzoSoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/vickymezzo"
-+++
+---
+date: "2016-03-20T14:48:00+00:00"
+discipline: Mezzo-soprano
+lastmod: "2016-03-20T14:48:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1458485314014/2016-03-20---Victoria-Simmonds.jpg.jpg
+publishDate: "2016-03-20T14:48:00+00:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/royal-opera-house.md
+slug: victoria-simmonds
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/VictoriaSimmondsMezzoSoprano
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/vickymezzo
+title: Victoria Simmonds
+cms_visible: true
+---
 
 Victoria Simmonds studied at the Guildhall School of Music and Drama with David Pollard.  From 2000-2005 she was a company principal at ENO singing roles including Nancy T’ang/*Nixon in China*, Cherubino/*Figaro*, Zaida/*The Turk in Italy*, Pitti-Sing/*The Mikado*, Ascanius/*The Trojans*, Rosina/*The Barber of Seville*, Dorabella/*Così fan tutte*, Hermia/*A Midsummer Night’s Dream* and Zerlina/*Don Giovanni*.
 

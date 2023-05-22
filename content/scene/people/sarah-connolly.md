@@ -1,18 +1,29 @@
-+++
-date = "2019-03-18T22:22:23+00:00"
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1552839420/media/2019/03/sqSarahConnollyJanCapinski.jpg"
-primary_image_credit = "Jan Capinski"
-related_companies = ["scene/companies/english-national-opera.md", "scene/companies/opra-national-de-paris.md", "scene/companies/gran-teatre-del-liceu.md", "scene/companies/teatro-alla-scala.md", "scene/companies/welsh-national-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/glyndebourne.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/royal-opera-house.md"]
-slug = "sarah-connolly"
-title = "Sarah Connolly"
-website = "https://www.sarah-connolly.co.uk/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/spconnolly"
-
-+++
+---
+date: "2019-03-18T22:22:23+00:00"
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1552839420/media/2019/03/sqSarahConnollyJanCapinski.jpg
+primary_image_credit: Jan Capinski
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/glyndebourne.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/royal-opera-house.md
+slug: sarah-connolly
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/spconnolly
+title: Sarah Connolly
+website: https://www.sarah-connolly.co.uk/
+cms_visible: true
+---
 Born in County Durham, Sarah Connolly studied piano and singing at the Royal College of Music, of which she is now a Fellow. She was made a DBE in the 2017 Birthday Honours, having previously been made a CBE in the 2010 New Year’s Honours. In 2011 she was honoured by the Incorporated Society of Musicians and presented with the Distinguished Musician Award. She is the recipient of the Royal Philharmonic Society’s 2012 Singer Award.  
    
 Highlights in her 2017/18 season include her debut at the Wiener Staatsoper in a new production of _Ariodante_, the title role in _Giulio Cesare_ at the Glyndebourne Festival and Brangäne _Tristan und Isolde_ for the Gran Teatro del Liceu.   

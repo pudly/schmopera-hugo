@@ -1,15 +1,18 @@
-+++
-date = "2017-01-27T11:01:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-01-27T11:01:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485514835260/2017-01-27---Karina-Gauvin---Michael-Slobodian.jpg.jpg"
-primary_image_credit = "Michael Slobodian"
-publishDate = "2017-01-27T11:01:00+00:00"
-related_companies = ["scene/companies/opra-national-de-paris.md"]
-slug = "karina-gauvin"
-title = "Karina Gauvin"
-website = "http://karinagauvin.com/"
-+++
+---
+_template: people_single
+date: "2017-01-27T11:01:00+00:00"
+discipline: Soprano
+lastmod: "2017-01-27T11:01:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485514835260/2017-01-27---Karina-Gauvin---Michael-Slobodian.jpg.jpg
+primary_image_credit: Michael Slobodian
+publishDate: "2017-01-27T11:01:00+00:00"
+related_companies:
+- scene/companies/opra-national-de-paris.md
+slug: karina-gauvin
+title: Karina Gauvin
+website: http://karinagauvin.com/
+cms_visible: true
+---
 
 Recognized for her work in the baroque repertoire, Canadian soprano Karina Gauvin sings Bach, Mahler, Britten and the music of the 20th and 21st centuries with equal success. The prestigious distinctions she has received include the title of “Soloist of the Year” awarded by the Communauté internationale des radios publiques de langue française, first prize in the CBC Radio competition for young performers, and the Virginia Parker Prize and Maggie Teyte Memorial Prize in London.
 

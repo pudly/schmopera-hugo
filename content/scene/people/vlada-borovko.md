@@ -1,27 +1,28 @@
-+++
-date = "2016-10-03T11:41:00-04:00"
-discipline = "Soprano"
-lastmod = "2018-10-28T19:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540769209079/red%2011%20anisimova%20natalia.jpg.jpg"
-primary_image_credit = "Natalia Anisimova"
-publishDate = "2016-10-03T11:41:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md"]
-slug = "vlada-borovko"
-title = "Vlada Borovko"
-website = "http://vladaborovko.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/vladasunlight?fref=nf"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/VladaSunlight"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/VladaSunlight"
-+++
+---
+date: "2016-10-03T11:41:00-04:00"
+discipline: Soprano
+lastmod: "2018-10-28T19:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1540769209079/red%2011%20anisimova%20natalia.jpg.jpg
+primary_image_credit: Natalia Anisimova
+publishDate: "2016-10-03T11:41:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+slug: vlada-borovko
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/vladasunlight?fref=nf
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/VladaSunlight
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/VladaSunlight
+title: Vlada Borovko
+website: http://vladaborovko.com/
+cms_visible: true
+---
 
 An alumna of the Jette Parker Young Artists Programme, Russian soprano Vlada Borovko became a member of the programme at the start of the 2015/16 season, immediately upon her graduation from the Kazan State Conservatory.
 Shortly after joining the program, she made an impressive debut as Violetta Valery on the main stage of Royal Opera House, when she was called at the last moment to step in for an ailing colleague. The event marked not only her debut in the role but also her stage debut in a leading role. Since then she has appeared in productions of *Norma*, *L'elisir d'amore* and *Boris Godunov*, as well as taking on the role of Aspasia in Royal Opera House's acclaimed production of *Mitridate, Re di Ponto*.

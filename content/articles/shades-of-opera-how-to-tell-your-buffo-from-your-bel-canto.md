@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "How-to"
-date = "2017-02-08T10:50:00-05:00"
-lastmod = "2018-03-14T10:58:00-04:00"
-preamble = "Opera is opera is opera, right? Lots of singing, some love affairs and some deaths? Well, of course. But within the broad term of \"opera\", there are subgenres which all offer something a bit different.\n\nWhether you're looking for some clarity on the operatic styles, or you're hoping to make an educated choice on an upcoming trip to the opera, we've got a crash course in everything from *opera seria* to *Romantische Oper* - and even a few examples.\n"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486907847979/2017-02-11---Types.jpg.jpg"
-publishDate = "2017-02-13T05:50:00-05:00"
-related_articles = ["articles/a-faq-checklist-for-opera-newbies.md","articles/back-to-school-opera-a-practical-glossary.md","articles/what-the-eff-is-a-zarzuela-anyway.md"]
-related_people = ["scene/people/renee-fleming.md","scene/people/nina-stemme.md"]
-short_description = "Verismo music is decidedly gorgeous, with long, sweeping lines and a thick orchestra. The musical style is a foundation for the film scores of today, and though the impression is powerful, the harmonic structure of many verismo scores is fairly simple; it adds to the audience accessibility, and makes for some beautiful tunes to hum as you leave the theatre."
-slug = "shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto"
-title = "Shades of opera: how to tell your buffo from your bel canto"
-+++
+---
+author:
+- authors/jenna.md
+categories: How-to
+date: "2017-02-08T10:50:00-05:00"
+lastmod: "2018-03-14T10:58:00-04:00"
+preamble: |
+  Opera is opera is opera, right? Lots of singing, some love affairs and some deaths? Well, of course. But within the broad term of "opera", there are subgenres which all offer something a bit different.
+
+  Whether you're looking for some clarity on the operatic styles, or you're hoping to make an educated choice on an upcoming trip to the opera, we've got a crash course in everything from *opera seria* to *Romantische Oper* - and even a few examples.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1486907847979/2017-02-11---Types.jpg.jpg
+publishDate: "2017-02-13T05:50:00-05:00"
+related_articles:
+- articles/a-faq-checklist-for-opera-newbies.md
+- articles/back-to-school-opera-a-practical-glossary.md
+- articles/what-the-eff-is-a-zarzuela-anyway.md
+related_people:
+- scene/people/renee-fleming.md
+- scene/people/nina-stemme.md
+short_description: Verismo music is decidedly gorgeous, with long, sweeping lines
+  and a thick orchestra. The musical style is a foundation for the film scores of
+  today, and though the impression is powerful, the harmonic structure of many verismo
+  scores is fairly simple; it adds to the audience accessibility, and makes for some
+  beautiful tunes to hum as you leave the theatre.
+slug: shades-of-opera-how-to-tell-your-buffo-from-your-bel-canto
+title: 'Shades of opera: how to tell your buffo from your bel canto'
+---
 
 ## *Opera buffa*/*opera seria*
 

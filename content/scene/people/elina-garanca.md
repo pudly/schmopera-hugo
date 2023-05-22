@@ -1,26 +1,33 @@
-+++
-date = "2017-12-04T19:32:00-05:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-12-04T19:32:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512433720447/Garanca_2016_09_STUDIO0582.jpg.jpg"
-publishDate = "2017-12-04T19:32:00-05:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/the-metropolitan-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/wiener-staatsoper.md","scene/companies/oper-frankfurt.md","scene/companies/opra-national-de-paris.md","scene/companies/salzburg-festival.md"]
-slug = "elina-garanca"
-title = "Elīna Garanča"
-website = "http://elinagaranca.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/elinagaranca"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/elinagaranca"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UC6HvUpelGFf7-kdwl4qP1aQ"
-+++
+---
+date: "2017-12-04T19:32:00-05:00"
+discipline: Mezzo-soprano
+lastmod: "2017-12-04T19:32:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512433720447/Garanca_2016_09_STUDIO0582.jpg.jpg
+publishDate: "2017-12-04T19:32:00-05:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/oper-frankfurt.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/salzburg-festival.md
+slug: elina-garanca
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/elinagaranca
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/elinagaranca
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UC6HvUpelGFf7-kdwl4qP1aQ
+title: Elīna Garanča
+website: http://elinagaranca.com/
+cms_visible: true
+---
 
 Elīna Garanča was born into a musical family in Riga, Latvia. She studied at the Latvian Academy of Music with her mother. She won the Mirjam Helin Singing Competition in 1999 and was a finalist in the 2001 BBC Cardiff Singer of the World Competition.
 

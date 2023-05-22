@@ -1,22 +1,28 @@
-+++
-date = "2016-10-25T11:35:00+01:00"
-lastmod = "2016-10-25T11:38:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477391887086/Logo---Shadwell-Opera.jpg.jpg"
-publishDate = "2016-10-25T11:38:00+01:00"
-related_people = ["scene/people/madeleine-pierard.md","scene/people/kate-howden.md","scene/people/paul-curievici.md","scene/people/owain-browne.md","scene/people/pauls-putnins.md"]
-slug = "shadwell-opera"
-title = "Shadwell Opera"
-type_of_company = "Opera Company"
-website = "http://www.shadwellopera.co.uk/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/shadwellopera/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/shadwellopera"
-+++
+---
+date: "2016-10-25T11:35:00+01:00"
+lastmod: "2016-10-25T11:38:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477391887086/Logo---Shadwell-Opera.jpg.jpg
+publishDate: "2016-10-25T11:38:00+01:00"
+related_people:
+- scene/people/madeleine-pierard.md
+- scene/people/kate-howden.md
+- scene/people/paul-curievici.md
+- scene/people/owain-browne.md
+- scene/people/pauls-putnins.md
+slug: shadwell-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/shadwellopera/
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/shadwellopera
+title: Shadwell Opera
+type_of_company: Opera Company
+website: http://www.shadwellopera.co.uk/
+cms_visible: true
+---
 
 Shadwell Opera is one of the UK's leading young opera voices. Since its inception in 2009, the company has brought opera productions to wide-ranging and diverse audiences throughout the country; from the intimacy of sell-out runs in Rosslyn Chapel as part of the Edinburgh Festival, through chamber opera in London's West End, to its partnership with Channel 4's Random Acts which shared two short opera films with 400,000 people nationwide. Throughout this period, Shadwell Opera has garnered regular accolades, including an RBS Herald Angel Award, as well as receiving consistent critical acclaim in the national press.
 

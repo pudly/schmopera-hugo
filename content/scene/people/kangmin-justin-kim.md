@@ -1,25 +1,27 @@
-+++
-discipline = "Countertenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562263007/media/2019/07/KangminJustinKim-pc-JosephFordThompson.jpg"
-primary_image_credit = "Joseph Ford Thompson"
-related_companies = ["scene/companies/salzburg-festival.md", "scene/companies/opra-national-de-paris.md", "scene/companies/royal-opera-house.md"]
-slug = "kangmin-justin-kim"
-title = "Kangmin Justin Kim"
-website = "http://kangminjustinkim.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/kangmin.j.kim/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/kangminjkim"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "http://www.youtube.com/jkimismusic"
-
-+++
+---
+discipline: Countertenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562263007/media/2019/07/KangminJustinKim-pc-JosephFordThompson.jpg
+primary_image_credit: Joseph Ford Thompson
+related_companies:
+- scene/companies/salzburg-festival.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/royal-opera-house.md
+slug: kangmin-justin-kim
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/kangmin.j.kim/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/kangminjkim
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: http://www.youtube.com/jkimismusic
+title: Kangmin Justin Kim
+website: http://kangminjustinkim.com/
+cms_visible: true
+---
 Korean-American Kangmin Justin Kim is one of the most sought-after countertenors of his generation, having earned accolades in roles of the Baroque repertoire, contemporary music and in Mozart’s trouser parts.
 
 Engagements of the 2018/19 season include his Covent Garden debut as Cherubino in _Le nozze di Figaro_ conducted by Sir John Eliot Gardiner, his debut at the Staatsoper Unter den Linden in Berlin as Nerone in _L’incoronazione di Poppea_, Idelberto in a new production of _Lotario_ in Bern, Idamante in a new staging of _Idomeneo_ at Staatstheater Wiesbaden and Megacle in Vivaldi’s _L’Olimpiade_ with the Orchestra La Cetra conducted by Andrea Marcon in Basel and Herne.

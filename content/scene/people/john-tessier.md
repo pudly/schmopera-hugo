@@ -1,15 +1,29 @@
-+++
-date = "2017-11-19T11:53:00-05:00"
-discipline = "Tenor"
-lastmod = "2017-11-19T11:53:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511110105703/John_Tessier_pc_Rozarii_Lynch_a_300dpi.jpg.jpg"
-primary_image_credit = "Rosarii Lynch"
-publishDate = "2017-11-19T11:53:00-05:00"
-related_companies = ["scene/companies/calgary-opera.md","scene/companies/lopra-de-montral.md","scene/companies/seattle-opera.md","scene/companies/royal-opera-house.md","scene/companies/english-national-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/manitoba-opera.md","scene/companies/edmonton-opera.md","scene/companies/minnesota-opera.md","scene/companies/opra-de-qubec.md","scene/companies/washington-national-opera.md","scene/companies/glimmerglass-festival.md"]
-slug = "john-tessier"
-title = "John Tessier"
-website = "http://johnptessier.com/"
-+++
+---
+_template: people_single
+date: "2017-11-19T11:53:00-05:00"
+discipline: Tenor
+lastmod: "2017-11-19T11:53:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511110105703/John_Tessier_pc_Rozarii_Lynch_a_300dpi.jpg.jpg
+primary_image_credit: Rosarii Lynch
+publishDate: "2017-11-19T11:53:00-05:00"
+related_companies:
+- scene/companies/calgary-opera.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/seattle-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/english-national-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/manitoba-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/minnesota-opera.md
+- scene/companies/opra-de-qubec.md
+- scene/companies/washington-national-opera.md
+- scene/companies/glimmerglass-festival.md
+slug: john-tessier
+title: John Tessier
+website: http://johnptessier.com/
+cms_visible: true
+---
 
 On the international stages of opera, concert, and recital, Canadian John Tessier has garnered attention and praise for the beauty and honesty of his voice, for a refined style and creative versatility, and for his handsome, youthful presence in the lyric tenor repertoire.  The Juno Award-winning artist has worked with many of the most notable conductors of our day including David Robertson, Leonard Slatkin, Plácido Domingo, John Nelson, Franz Welser-Möst, Emmanuelle Haïm, Charles Dutoit, Donald Runnicles, Robert Spano, Yannick Nézet-Séguin, and Bernard Labadie. 
 

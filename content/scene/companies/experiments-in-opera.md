@@ -1,26 +1,25 @@
-+++
-date = "2016-11-17T12:34:00+00:00"
-lastmod = "2016-11-17T12:34:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1667353945/media/2022/11/Logo_EiO_10_srwyj2.jpg"
-publishDate = "2016-11-17T12:34:00+00:00"
-slug = "experiments-in-opera"
-title = "Experiments in Opera"
-type_of_company = "Opera Company"
-website = "http://experimentsinopera.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/experimentsinopera"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/expinopera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/experimentsinopera/"
-
-+++
+---
+date: "2016-11-17T12:34:00+00:00"
+lastmod: "2016-11-17T12:34:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1667353945/media/2022/11/Logo_EiO_10_srwyj2.jpg
+publishDate: "2016-11-17T12:34:00+00:00"
+slug: experiments-in-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/experimentsinopera
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/expinopera
+- _template: company_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/experimentsinopera/
+title: Experiments in Opera
+type_of_company: Opera Company
+website: http://experimentsinopera.com/
+cms_visible: true
+---
 ### Our Vision
 
 Experiments in Opera is focused on re-writing the story of opera. We believe that new operas can be adventurous and fun, focused on strong and intimate storytelling, while also challenging notions of what experimental music can be. EiO invites composers, directors, designers and performers to create new work that embraces unconventional mediums, a range of durations and production scales, and explores collaboration between all types of artists working to share their visions. We bring new operas to the stage as quickly as we can, marking the urgency of artists with something important to say and the desire of audiences to be a part of the excitement of risky and rewarding work.

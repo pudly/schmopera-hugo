@@ -1,27 +1,34 @@
-+++
-address = "Boston Lyric Opera\nPO Box 847897\nBoston, Ma 02284-7897"
-email = "boxoffice@blo.org"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1565559213/media/2019/08/Logo_-_BLO_attxbc.jpg"
-primary_image_credit = ""
-related_people = ["scene/people/david-trudgen.md", "scene/people/brandon-cedel.md", "scene/people/jonathan-burton.md", "scene/people/chad-shelton.md", "scene/people/nadine-sierra.md"]
-slug = "boston-lyric-opera"
-title = "Boston Lyric Opera"
-type_of_company = "Opera Company"
-website = "https://blo.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/BostonLyricOpera/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/BostLyricOpera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/bostonlyricopera"
-
-+++
+---
+address: |-
+  Boston Lyric Opera
+  PO Box 847897
+  Boston, Ma 02284-7897
+email: boxoffice@blo.org
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1565559213/media/2019/08/Logo_-_BLO_attxbc.jpg
+primary_image_credit: ""
+related_people:
+- scene/people/david-trudgen.md
+- scene/people/brandon-cedel.md
+- scene/people/jonathan-burton.md
+- scene/people/chad-shelton.md
+- scene/people/nadine-sierra.md
+slug: boston-lyric-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/BostonLyricOpera/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/BostLyricOpera
+- _template: company_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/bostonlyricopera
+title: Boston Lyric Opera
+type_of_company: Opera Company
+website: https://blo.org/
+cms_visible: true
+---
 **The mission of Boston Lyric Opera is to build curiosity, enthusiasm and support for opera by creating musically and theatrically compelling productions, events, and educational resources for the Boston community and beyond.**
 
 Both locally and beyond, Boston Lyric Opera leads the way in celebrating the art of the voice through innovative programming and community engagement initiatives that redefine the opera-going experience. Now in its 43rd Season, BLO is the largest and longest-lived opera company in New England. Since its founding in 1976, the company has staged world premieres, U.S. premieres, co-productions and co-commissions of note with organizations such as The Royal Opera, Covent Garden, Scottish Opera and San Francisco Opera and continues to be a destination for some of the leading artists, conductors, directors and designers from around the world.

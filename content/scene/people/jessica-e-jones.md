@@ -1,22 +1,25 @@
-+++
-date = "2017-07-18T17:33:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-07-18T17:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500413485167/JessicaEJones.jpg.jpg"
-publishDate = "2017-07-18T17:33:00-04:00"
-related_companies = ["scene/companies/the-santa-fe-opera.md","scene/companies/opera-saratoga.md"]
-slug = "jessica-e-jones"
-title = "Jessica E. Jones"
-website = "http://jessicaejones.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jessopranojones"
-[[social_media]]
-platform = "Soundcloud"
-template = "social-media"
-url = "https://soundcloud.com/jessica-e-jones-44550156"
-+++
+---
+date: "2017-07-18T17:33:00-04:00"
+discipline: Soprano
+lastmod: "2017-07-18T17:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500413485167/JessicaEJones.jpg.jpg
+publishDate: "2017-07-18T17:33:00-04:00"
+related_companies:
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/opera-saratoga.md
+slug: jessica-e-jones
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/jessopranojones
+- _template: people_single
+  platform: Soundcloud
+  template: social-media
+  url: https://soundcloud.com/jessica-e-jones-44550156
+title: Jessica E. Jones
+website: http://jessicaejones.com/
+cms_visible: true
+---
 
 "Full of dazzling radiance, soprano Jessica E. Jones lit up the intimate space as virginal Lucia driven mad by unrequited love. She supplied her own thunder and sparks to Donizetti’s vocal fireworks." -*Houston Press*. 
 

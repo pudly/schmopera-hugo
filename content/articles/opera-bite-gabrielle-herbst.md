@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-04-10T23:46:00-04:00"
-lastmod = "2015-04-12T19:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428723850369/Gabrielle-Herbst-PHOTO-1124-720x476.jpg.jpg"
-primary_image_credit = "experimentsinopera.com"
-publishDate = "2015-02-25T09:46:00-05:00"
-short_description = "I stumbled upon a beautifully articulated answer to one of our industry’s biggest questions, in Carena Liptak’s interview for Noisey with Gabrielle Herbst. Gabrielle is a singer and composer; she’s a member of the band GABI, and her first opera, Bodiless, had its premiere last year at New York’s Roulette. The question posted was simple: “How do you deal with making an archaic form accessible?”"
-slug = "opera-bite-gabrielle-herbst"
-title = "Opera Bite: Gabrielle Herbst"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-04-10T23:46:00-04:00"
+lastmod: "2015-04-12T19:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428723850369/Gabrielle-Herbst-PHOTO-1124-720x476.jpg.jpg
+primary_image_credit: experimentsinopera.com
+publishDate: "2015-02-25T09:46:00-05:00"
+short_description: 'I stumbled upon a beautifully articulated answer to one of our
+  industry’s biggest questions, in Carena Liptak’s interview for Noisey with Gabrielle
+  Herbst. Gabrielle is a singer and composer; she’s a member of the band GABI, and
+  her first opera, Bodiless, had its premiere last year at New York’s Roulette. The
+  question posted was simple: “How do you deal with making an archaic form accessible?”'
+slug: opera-bite-gabrielle-herbst
+title: 'Opera Bite: Gabrielle Herbst'
+---
 
 I stumbled upon a beautifully articulated answer to one of our industry's biggest questions, in [Carena Liptak's interview](http://noisey.vice.com/blog/gabi-interview-2015) for _Noisey_ with Gabrielle Herbst. Gabrielle is a singer and composer; she's a member of the band GABI, and her first opera, _Bodiless_, had its premiere last year at New York's [Roulette](http://roulette.org/about/). 
 

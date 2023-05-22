@@ -1,16 +1,39 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-01-05T14:40:00-05:00"
-lastmod = "2015-04-12T11:30:00-04:00"
-preamble = "<p>\n\tBenjamin Britten rarely fails to make me marvel at the art of composing opera. I tend to be a sucker for misunderstood protagonists, and Britten writes operas like <em>The Turn of the Screw</em> and <i>Albert Herring</i> with such understanding that it pulls at my heart. <a href=\"http://www.theguardian.com/music/2013/nov/19/benjamin-britten-1945-introduction-to-peter-grimes\" target=\"_blank\"><em>Peter Grimes</em></a> is the story of a fisherman who hires young boys to help him on his boat, and one of those boys has turned up dead; in a small town like <a href=\"http://www.theguardian.com/books/2013/jun/14/britten-george-crabbe-drowned-voice\" target=\"_blank\">The Borough</a>, Peter is left victim to both a trial and a mob of suspicious townsfolk. Now, Peter isn't good with most people, let alone children; I think he <em>is</em> responsible for the boy's death, by overestimating how much a child could handle on a stormy fishing trip. Even if you disagree with my take on the character of Peter, Britten's sympathy with the scorned fisherman is a deep one. I have a personal adoration for this score, and was lucky enough to work on the <a href=\"http://www.theglobeandmail.com/arts/theatre-and-performance/theatre-reviews/canadian-opera-company-has-a-magnificent-tragedy-in-peter-grimes/article14720625/\" target=\"_blank\">Neil Armfield production of <em>Peter Grimes </em>at the COC in 2013</a>. Here are a few magical spots I found along the way.\n</p>"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428852413473/PeterGrimesFeature.jpg.jpg"
-publishDate = "2015-01-05T14:40:00-05:00"
-related_articles = ["articles/tales-from-the-score-violetta.md","articles/3-ways-to-fight-boredom-at-the-opera.md"]
-short_description = "Benjamin Britten rarely fails to make me marvel at the art of composing opera. I tend to be a sucker for misunderstood protagonists, and Britten writes operas like The Turn of the Screw and Albert Herring with such understanding that it pulls at my heart. Peter Grimes is the story of a fisherman who hires young boys to help him on his boat, and one of those boys has turned up dead; in a small town like The Borough, Peter is left victim to both a trial and a mob of suspicious townsfolk."
-slug = "tales-from-the-score-peter-grimes"
-title = "Tales from the score: Peter Grimes"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-01-05T14:40:00-05:00"
+lastmod: "2015-04-12T11:30:00-04:00"
+preamble: "<p>\n\tBenjamin Britten rarely fails to make me marvel at the art of composing
+  opera. I tend to be a sucker for misunderstood protagonists, and Britten writes
+  operas like <em>The Turn of the Screw</em> and <i>Albert Herring</i> with such understanding
+  that it pulls at my heart. <a href=\"http://www.theguardian.com/music/2013/nov/19/benjamin-britten-1945-introduction-to-peter-grimes\"
+  target=\"_blank\"><em>Peter Grimes</em></a> is the story of a fisherman who hires
+  young boys to help him on his boat, and one of those boys has turned up dead; in
+  a small town like <a href=\"http://www.theguardian.com/books/2013/jun/14/britten-george-crabbe-drowned-voice\"
+  target=\"_blank\">The Borough</a>, Peter is left victim to both a trial and a mob
+  of suspicious townsfolk. Now, Peter isn't good with most people, let alone children;
+  I think he <em>is</em> responsible for the boy's death, by overestimating how much
+  a child could handle on a stormy fishing trip. Even if you disagree with my take
+  on the character of Peter, Britten's sympathy with the scorned fisherman is a deep
+  one. I have a personal adoration for this score, and was lucky enough to work on
+  the <a href=\"http://www.theglobeandmail.com/arts/theatre-and-performance/theatre-reviews/canadian-opera-company-has-a-magnificent-tragedy-in-peter-grimes/article14720625/\"
+  target=\"_blank\">Neil Armfield production of <em>Peter Grimes </em>at the COC in
+  2013</a>. Here are a few magical spots I found along the way.\n</p>"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428852413473/PeterGrimesFeature.jpg.jpg
+publishDate: "2015-01-05T14:40:00-05:00"
+related_articles:
+- articles/tales-from-the-score-violetta.md
+- articles/3-ways-to-fight-boredom-at-the-opera.md
+short_description: Benjamin Britten rarely fails to make me marvel at the art of composing
+  opera. I tend to be a sucker for misunderstood protagonists, and Britten writes
+  operas like The Turn of the Screw and Albert Herring with such understanding that
+  it pulls at my heart. Peter Grimes is the story of a fisherman who hires young boys
+  to help him on his boat, and one of those boys has turned up dead; in a small town
+  like The Borough, Peter is left victim to both a trial and a mob of suspicious townsfolk.
+slug: tales-from-the-score-peter-grimes
+title: 'Tales from the score: Peter Grimes'
+---
 
 <h4>Exhibit A:<br>
 </h4>

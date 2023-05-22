@@ -1,22 +1,25 @@
-+++
-date = "2015-04-06T22:59:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-04-06T22:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375478966/CharlesSy.jpg.jpg"
-publishDate = "2015-04-06T22:59:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/university-of-toronto-opera.md"]
-slug = "charles-sy"
-title = "Charles Sy"
-website = "http://charles-sy.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/charles.sy.tenor"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/TenoreCharChar"
-+++
+---
+date: "2015-04-06T22:59:00-04:00"
+discipline: Tenor
+lastmod: "2015-04-06T22:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428375478966/CharlesSy.jpg.jpg
+publishDate: "2015-04-06T22:59:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/university-of-toronto-opera.md
+slug: charles-sy
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/charles.sy.tenor
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/TenoreCharChar
+title: Charles Sy
+website: http://charles-sy.com/
+cms_visible: true
+---
 
 <p>
 	A recent national champion, Toronto native Charles Sy received both First prize and Audience Choice in the Canadian Opera Company's 2014 Centre Stage Ensemble Studio Competition Gala. He has been recognized locally and nationally as a promising young artist with a "softly lyric sound, a natural sense of phrasing coupled with a rare willingness to project beyond the apron" (<em>National Post</em>). He is described as "vocally and dramatically mature with a delicious dark tenor sound that [stretches] easily into shining high notes" (<em>Schmopera</em>). Currently completing his MMus in Opera Performance, Charles studies with Dr. Darryl Edwards at the University of Toronto where he also completed his BMus in Voice performance in 2013.

@@ -1,23 +1,25 @@
-+++
-date = "2015-04-12T11:26:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-12T11:26:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428852380632/183833_750.jpg.jpg"
-primary_image_credit = "Lisa Mininni"
-publishDate = "2015-04-12T11:26:00-04:00"
-related_companies = ["scene/companies/opera-by-request.md"]
-slug = "kira-braun"
-title = "Kira Braun"
-website = "http://kirabraunsoprano.instantencore.com/web/home.aspx"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Kira-Braun-Soprano/1404908709758180?fref=ts&ref=br_tf"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Kirlchen"
-+++
+---
+date: "2015-04-12T11:26:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-12T11:26:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428852380632/183833_750.jpg.jpg
+primary_image_credit: Lisa Mininni
+publishDate: "2015-04-12T11:26:00-04:00"
+related_companies:
+- scene/companies/opera-by-request.md
+slug: kira-braun
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Kira-Braun-Soprano/1404908709758180?fref=ts&ref=br_tf
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/Kirlchen
+title: Kira Braun
+website: http://kirabraunsoprano.instantencore.com/web/home.aspx
+cms_visible: true
+---
 
 <p>
 	I grew up in a family full of musicians and artists, and have been a singer ever since I can remember. My father, William (Bill) Richard Braun went to Opera School and subsequently sang many comprimario roles with the Canadian Opera Company, and his brother Victor was a world-renowned Baritone. My mother, Eleanor (Smith) Braun, was with the Hamilton Philharmonic, and subsequently the Niagara Symphony, as Principal Flute. How very fortunate, to have such musical roots. I would be remiss not to mention how much I admire my talented cousins, Russell and Adi Braun...I have big footsteps to follow.... and this feeds my desire to learn as much as I can and to improve more and more each year.

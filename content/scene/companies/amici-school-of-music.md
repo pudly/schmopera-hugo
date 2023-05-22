@@ -1,22 +1,25 @@
-+++
-date = "2015-05-06T14:01:00-04:00"
-lastmod = "2015-10-31T13:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446314379400/Logo---Amici.jpg.jpg"
-publishDate = "2015-05-06T14:01:00-04:00"
-related_people = ["scene/people/leighann-allen.md","scene/people/michelle-garlough.md"]
-slug = "amici-school-of-music"
-title = "Amici School of Music"
-type_of_company = "Music School"
-website = "http://amicimusicschool.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Amici-School-of-Music-Music-Together/273016366070247?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AmiciMusicTO"
-+++
+---
+date: "2015-05-06T14:01:00-04:00"
+lastmod: "2015-10-31T13:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1446314379400/Logo---Amici.jpg.jpg
+publishDate: "2015-05-06T14:01:00-04:00"
+related_people:
+- scene/people/leighann-allen.md
+- scene/people/michelle-garlough.md
+slug: amici-school-of-music
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Amici-School-of-Music-Music-Together/273016366070247?fref=ts
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/AmiciMusicTO
+title: Amici School of Music
+type_of_company: Music School
+website: http://amicimusicschool.com/
+cms_visible: true
+---
 
 The Amici School of Music was founded by Leigh Ann Allen and Michelle Garlough, offering private and group lessons for any age. The Amici School offers Music Together® classes, for newbords up to age 5.
 

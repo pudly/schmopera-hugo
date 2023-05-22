@@ -1,21 +1,22 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1664559925/media/2022/09/GUADALUPE-PAZ-PORTRAIT_vooslk.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/san-diego-opera.md"]
-slug = "guadalupe-paz"
-title = "Guadalupe Paz"
-website = "https://guadalupepaz.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/guadalupepazmezzosoprano"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/guadalupepazmezzo/"
-
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1664559925/media/2022/09/GUADALUPE-PAZ-PORTRAIT_vooslk.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/san-diego-opera.md
+slug: guadalupe-paz
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/guadalupepazmezzosoprano
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/guadalupepazmezzo/
+title: Guadalupe Paz
+website: https://guadalupepaz.com/
+cms_visible: true
+---
 Tijuana-born mezzosoprano Guadalupe Paz was a member of a children’s choir committed to the revival of sacred repertoire at the early age of 6 years old. Since then, music and singing marked her life. In 2009 she graduated from the Conservatorio Arrigo Pedrollo in Vicenza, Italy and since her professional debut in 2008, Paz has been an active performer for the National Opera Company of Bellas Artes in Mexico City.
 
 Recent engagements include her debut at the Mainly Mozart Festival in San Diego as well as singing the role of Mercedes in Bizet’s _Carmen_ for the San Diego Opera Company. Other operatic roles in her repertoire include the leading role of Montezuma in _Montezuma_ by Carl H. Graun, Orlofsky in _Die Fledermaus_, Isabella in _L'italiana in Algeri_, Marchesa Melibea in _Il Viaggio a Reims_, Rosina in _Il Barbiere di Siviglia_, Angelina in _La Cenerentola_, Hänsel in _Hänsel und Gretel_, Suzuki in _Madama Butterfly_, Olga in _Eugene Onegin_; Isolier in _Le Comte Ory_, Maddalena and Marchesa Melibea in _Il Viaggio a Reims_, Lucilla in _L’Occasione fa il ladro_, Ernestina in _La Scala di Seta_, La Messaggiera in _L’Orfeo_ and Dorabella in _Cosí fan tutte_.

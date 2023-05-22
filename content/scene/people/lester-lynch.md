@@ -1,19 +1,26 @@
-+++
-date = "2017-07-26T22:40:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-07-26T22:40:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1601146782/media/2020/09/LesterLynch_munukm.jpg"
-publishDate = "2017-07-26T22:40:00-04:00"
-related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/minnesota-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/lopra-de-montral.md", "scene/companies/san-francisco-opera.md"]
-slug = "lester-lynch"
-title = "Lester Lynch"
-website = "http://www.lesterlynch.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/BaritoneLesterLynch"
-
-+++
+---
+date: "2017-07-26T22:40:00-04:00"
+discipline: Baritone
+lastmod: "2017-07-26T22:40:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1601146782/media/2020/09/LesterLynch_munukm.jpg
+publishDate: "2017-07-26T22:40:00-04:00"
+related_companies:
+- scene/companies/welsh-national-opera.md
+- scene/companies/minnesota-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/san-francisco-opera.md
+slug: lester-lynch
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/BaritoneLesterLynch
+title: Lester Lynch
+website: http://www.lesterlynch.com/
+cms_visible: true
+---
 Lester Lynch, an established dramatic baritone, is making his mark in some of the world’s leading opera houses. Known for his charismatic portrayals and commanding voice, he is receiving rave reviews as he masters some of the most important baritone roles from Scarpia to Rigoletto to Count di Luna. Opera Today recently enthused, “It was booming baritone Lester Lynch who served notice that he is now in consideration for admittance to the Scarpia Preferred Pantheon - when he needed to pour it on he had the Puccinian fire power and the dramatic heat to raise the hair on the back of your neck.” The Cincinnati Enquirer wrote, “Lester Lynch made a superb Macbeth, delivering an authoritative performance with a firm, powerful voice and wonderfully communicating both tragedy and madness.”
 
 His most recent performances include Lescaut in Puccini’s *Manon Lescaut* under the baton of Sir Simon Rattle with the Festspielhaus Baden-Baden, Crown in *Porgy and Bess* with the Opéra de Montréal, as Amonasro in Verdi’s *Aida* with Pittsburgh Opera, as Carbon in Cyrano de Begerac with San Francisco Opera, as Herald in *Lohengrin* with Lyric Opera of Chicago, as Gérald in *Andrea Chénier* with the Bregenzer Festspiele, as Nottingham in *Roberto Devereaux* and Count Di Luna in *Il Trovatore* with Minnesota Opera. His latest debuts include a back-to-back engagement with the Fundação Calouste Gulbenkian in Portugal where he was featured as Iago in Verdi’s *Otello* and in the title role of Verdi’s *Falstaff*.

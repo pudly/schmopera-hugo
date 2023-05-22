@@ -1,18 +1,22 @@
-+++
-date = "2016-05-21T23:17:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-05-21T23:17:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463869032940/2016-05-21---Emma-Stannard.jpg.jpg"
-publishDate = "2016-05-21T23:17:00+01:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/opera-north.md"]
-slug = "emma-stannard"
-title = "Emma Stannard"
-website = "http://emmastannard.weebly.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/emma_stannard"
-+++
+---
+date: "2016-05-21T23:17:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2016-05-21T23:17:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1463869032940/2016-05-21---Emma-Stannard.jpg.jpg
+publishDate: "2016-05-21T23:17:00+01:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/opera-north.md
+slug: emma-stannard
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/emma_stannard
+title: Emma Stannard
+website: http://emmastannard.weebly.com/
+cms_visible: true
+---
 
 Mezzo-soprano, Emma Stannard trained at the RNCM gaining a first class BMus (Hons) and a MMus with Distinction under the tutelage of Peter Alexander Wilson. She is now training on the Royal Academy of Music’s Opera Course, studying with Catherine Wyn-Rogers and Joseph Middleton. Most recently she has performed the roles of Hanna, *May Night* (Rimsky Korsakov) and is now preparing Poppea, *L’incoronazione di Poppea* (Monteverdi) for performances in May.
  

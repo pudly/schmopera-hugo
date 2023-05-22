@@ -1,13 +1,22 @@
-+++
-date = "2018-04-18T10:25:00-04:00"
-discipline = "Bass"
-lastmod = "2018-04-18T10:25:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524061442814/EICHELBERGER_HIRESPHOTO.jpg.jpg"
-publishDate = "2018-04-18T10:25:00-04:00"
-related_companies = ["scene/companies/edmonton-opera.md","scene/companies/opera-philadelphia.md","scene/companies/vancouver-opera.md","scene/companies/opera-theatre-of-st-louis.md","scene/companies/lyric-opera-of-kansas-city.md","scene/companies/manitoba-opera.md","scene/companies/the-metropolitan-opera.md"]
-slug = "kirk-eichelberger"
-title = "Kirk Eichelberger"
-+++
+---
+_template: people_single
+date: "2018-04-18T10:25:00-04:00"
+discipline: Bass
+lastmod: "2018-04-18T10:25:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1524061442814/EICHELBERGER_HIRESPHOTO.jpg.jpg
+publishDate: "2018-04-18T10:25:00-04:00"
+related_companies:
+- scene/companies/edmonton-opera.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/vancouver-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/lyric-opera-of-kansas-city.md
+- scene/companies/manitoba-opera.md
+- scene/companies/the-metropolitan-opera.md
+slug: kirk-eichelberger
+title: Kirk Eichelberger
+cms_visible: true
+---
 
 Bass Kirk Eichelberger has been praised for “commanding the stage at every turn” (San Francisco Chronicle) and for his “resonant bass and riveting stage presence.” (Dayton City Paper) During the current season his engagements include Alidoro in *La Cenerentola* with Opéra de Montréal, Zuniga in *Carmen* for the Spokane Symphony and Opera Coeur d’Alene and Commendatore in *Don Giovanni* for the Edmonton Opera.
 

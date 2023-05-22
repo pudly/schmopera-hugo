@@ -1,15 +1,24 @@
-+++
-date = "2017-10-17T19:49:00-04:00"
-discipline = "Baritone"
-lastmod = "2017-10-17T19:51:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546739618/media/2019/01/LaurentNaouri.jpg"
-primary_image_credit = "Bernard Martinez"
-publishDate = "2017-10-17T19:51:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/gran-teatre-del-liceu.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/glyndebourne.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/los-angeles-opera.md", "scene/companies/salzburg-festival.md", "scene/companies/opernhaus-zurich.md"]
-slug = "laurent-naouri"
-title = "Laurent Naouri"
-
-+++
+---
+_template: people_single
+date: "2017-10-17T19:49:00-04:00"
+discipline: Baritone
+lastmod: "2017-10-17T19:51:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546739618/media/2019/01/LaurentNaouri.jpg
+primary_image_credit: Bernard Martinez
+publishDate: "2017-10-17T19:51:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/glyndebourne.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opernhaus-zurich.md
+slug: laurent-naouri
+title: Laurent Naouri
+cms_visible: true
+---
 Laurent Naouri studied at the CNIPAL in Marseille and the Guildhall School of Music and Drama in London.
 
 His broad repertory includes about forty roles, from the early baroque to contemporary opera.

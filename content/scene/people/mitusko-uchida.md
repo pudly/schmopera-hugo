@@ -1,14 +1,16 @@
-+++
-date = "2017-12-12T11:51:00-05:00"
-discipline = "Pianist"
-lastmod = "2017-12-12T11:51:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513097315560/uchida_1_credit_richard_avedon1.jpg.jpg"
-primary_image_credit = "Richard Avedon"
-publishDate = "2017-12-12T11:51:00-05:00"
-slug = "mitusko-uchida"
-title = "Mitusko Uchida"
-website = "http://www.mitsukouchida.com/index.php"
-+++
+---
+_template: people_single
+date: "2017-12-12T11:51:00-05:00"
+discipline: Pianist
+lastmod: "2017-12-12T11:51:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1513097315560/uchida_1_credit_richard_avedon1.jpg.jpg
+primary_image_credit: Richard Avedon
+publishDate: "2017-12-12T11:51:00-05:00"
+slug: mitusko-uchida
+title: Mitusko Uchida
+website: http://www.mitsukouchida.com/index.php
+cms_visible: true
+---
 
 Legendary pianist Mitsuko Uchida brings a deep insight into the music she plays through her own quest for truth and beauty. Renowned for her interpretations of Mozart, Schubert, Schumann and Beethoven, she has also illuminated the music of Berg, Schoenberg, Webern and Boulez for a new generation of listeners.
 

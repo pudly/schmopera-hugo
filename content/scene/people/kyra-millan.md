@@ -1,18 +1,21 @@
-+++
-date = "2015-10-01T08:57:00-04:00"
-discipline = "Performer, artist educator"
-lastmod = "2015-10-01T08:57:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443704044590/redpiano.jpg.jpg"
-publishDate = "2015-10-01T08:57:00-04:00"
-related_companies = ["scene/companies/canadian-childrens-opera-company.md"]
-slug = "kyra-millan"
-title = "Kyra Millan"
-website = "http://kyra-millan.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/KyraMillan"
-+++
+---
+date: "2015-10-01T08:57:00-04:00"
+discipline: Performer, artist educator
+lastmod: "2015-10-01T08:57:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443704044590/redpiano.jpg.jpg
+publishDate: "2015-10-01T08:57:00-04:00"
+related_companies:
+- scene/companies/canadian-childrens-opera-company.md
+slug: kyra-millan
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/KyraMillan
+title: Kyra Millan
+website: http://kyra-millan.com/
+cms_visible: true
+---
 
 Soprano and Artist Educator Kyra Millan started in Arts education 15 years ago facilitating singing workshops for the Canadian Opera Company, and has been working for them ever since as well as for  Workman Arts (CAMH), Opera Atelier, Abilities Arts, Soundstreams Canada and most recently, TIFF.
 

@@ -1,20 +1,26 @@
-+++
-date = "2017-12-30T13:01:00-05:00"
-discipline = "Tenor"
-lastmod = "2017-12-30T13:01:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546738072/media/2019/01/ClayHilley.jpg"
-primary_image_credit = "Bethany Davis Photography"
-publishDate = "2017-12-30T13:01:00-05:00"
-related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/the-dallas-opera.md"]
-slug = "clay-hilley"
-title = "Clay Hilley"
-website = "http://www.clayhilleytenor.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/HilleyClay"
-
-+++
+---
+date: "2017-12-30T13:01:00-05:00"
+discipline: Tenor
+lastmod: "2017-12-30T13:01:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546738072/media/2019/01/ClayHilley.jpg
+primary_image_credit: Bethany Davis Photography
+publishDate: "2017-12-30T13:01:00-05:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/the-dallas-opera.md
+slug: clay-hilley
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/HilleyClay
+title: Clay Hilley
+website: http://www.clayhilleytenor.com/
+cms_visible: true
+---
 American heldentenor Clay Hilley is poised for a prominent international career in the most demanding roles of the operatic repertory.  From Bacchus to Florestan and Canio to Laca, the Georgia native has been acclaimed by _The New York Times_ for his “vocal heft, clarion sound and stamina.”
 
 Honing his repertoire and stage experience at first by covering in the leading international opera houses of North America, engagements have included _Parsifal_ with Yannick Nézet-Séguin at the Metropolitan Opera, _Der Ring des Nibelungen_ (Siegmund and both Siegfrieds) with Donald Runnicles, and _Turandot_ conducted by Nicola Luisotti at San Francisco Opera, _Siegfried_ at the Canadian Opera Company led by Johannes Debus, and _Samson et Dalila_ under the baton of Emmanuel Villaume at The Dallas Opera.

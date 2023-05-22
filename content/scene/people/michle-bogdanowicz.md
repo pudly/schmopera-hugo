@@ -1,23 +1,28 @@
-+++
-date = "2015-05-06T14:07:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-05-06T14:08:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430935435880/Michele_Fotor.jpg.jpg"
-primary_image_credit = "Grant Cole, Top5design"
-publishDate = "2015-05-06T14:07:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/toronto-operetta-theatre.md"]
-slug = "michle-bogdanowicz"
-title = "Michèle Bogdanowicz"
-website = "http://www.michele-bogdanowicz.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/MsMicheleMezzo?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/MsMicheleMezzo"
-+++
+---
+date: "2015-05-06T14:07:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-05-06T14:08:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430935435880/Michele_Fotor.jpg.jpg
+primary_image_credit: Grant Cole, Top5design
+publishDate: "2015-05-06T14:07:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/toronto-operetta-theatre.md
+slug: michle-bogdanowicz
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/MsMicheleMezzo?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/MsMicheleMezzo
+title: Michèle Bogdanowicz
+website: http://www.michele-bogdanowicz.com/
+cms_visible: true
+---
 
 Canadian Michèle Bogdanowicz has taken an important place among the outstanding mezzo-sopranos of her generation. A Fellow at Ravinia’s Steans Institute for Young Artists, she was chosen to present the world premiere of songs "Facing Forward, Looking Back" by American composer Jake Heggie and as a member of the prestigious Merola Program of the San Francisco Opera, she had a resounding success as Susanna in *Le Nozze di Figaro*. She made an important debut as Béatrice in Berlioz' *Béatrice et Bénédict* with the Orquesta Sinfónica de Minería in Mexico City, she also  presented a world premiere of songs composed for her by Canadian composer Norbert Palej at Gallery 345, these songs will be featured on a recording with the Canadian Art Song Project this season.  Also this season, she appears with the Pax Christi Chorale in Bach's *Christmas Oratorio* as well as with the Bach Elgar Choir in *Messiah*. She will be featured in the Recitals at Rosedale series, presenting a world premiere of songs composed by Elizabeth Raum and she sings La mère in Charpentier's *Louise* with Opera in Concert. She sang Mercédès on the Canadian Opera Company’s mainstage as a member of the Ensemble Studio. Other COC roles include New Ofglen in Ruders’ *The Handmaid's Tale*, Hänsel in *Hänsel and Gretel*, Nancy in *Albert Herring* and Papagena in *The Magic Flute*.
 

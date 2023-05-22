@@ -1,35 +1,42 @@
-+++
-date = "2017-07-02T22:11:00-06:00"
-discipline = "Tenor"
-lastmod = "2017-07-02T22:16:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499055095671/2017-07-02---Michael-Spyres.jpg.jpg"
-publishDate = "2017-07-02T22:11:00-06:00"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/teatro-alla-scala.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/gran-teatre-del-liceu.md", "scene/companies/la-monnaie.md", "scene/companies/opera-philadelphia.md", "scene/companies/wiener-staatsoper.md", "scene/companies/opernhaus-zurich.md", "scene/companies/salzburg-festival.md"]
-slug = "michael-spyres"
-title = "Michael Spyres"
-website = "http://www.michaelspyres.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/mspyres"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/spikelmyers"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/playlist?list=PLO98wH1gQQFvC6-QqVi7E-ZQNmD3AaRyR"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/spikelmyers/?hl=en"
-[[social_media]]
-platform = "Linkedin"
-template = "social-media"
-url = "https://www.linkedin.com/in/michael-spyres-343aab1a/"
-
-+++
+---
+date: "2017-07-02T22:11:00-06:00"
+discipline: Tenor
+lastmod: "2017-07-02T22:16:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1499055095671/2017-07-02---Michael-Spyres.jpg.jpg
+publishDate: "2017-07-02T22:11:00-06:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/la-monnaie.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/salzburg-festival.md
+slug: michael-spyres
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/mspyres
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/spikelmyers
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/playlist?list=PLO98wH1gQQFvC6-QqVi7E-ZQNmD3AaRyR
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/spikelmyers/?hl=en
+- _template: people_single
+  platform: Linkedin
+  template: social-media
+  url: https://www.linkedin.com/in/michael-spyres-343aab1a/
+title: Michael Spyres
+website: http://www.michaelspyres.com/
+cms_visible: true
+---
 Michael Spyres is one of the most sought after tenors of his generation and has been celebrated at many of the most prestigious international opera houses, festivals and concert halls. In the widest range of repertoire his career has taken him from the genres of Baroque to Classical to 20th century, while firmly establishing himself as a specialist in the Bel Canto repertoire as well as Rossini and French Grand Opera.
 
 In the 2021/2022 season Michael presented his award winning debut solo album for Warner, _BariTenor._ On the opera stage, he performed Florestan in a new staging of _Fidelio_ at the Opéra Comique de Paris and made his much anticipated role debut as Mozart's Idomeneo at the Festspielhaus Baden-Baden. He also returns to the Houston Grand Opera as Roméo in Gounod's _Roméo et Juliette_ and makes his debut as Canio in Pagliacci with the OLOpera. In summer he returns to the Aix-en-Provence Festival in two new productions, singing Pollione in _Norma_ and the title role of _Idomeneo_. On the concert platform, Michael sang his first Tristan in the second act of _Tristan und Isolde_ at the Opéra de Lyon, made his recital debut with Mathieu Pordoy at the Atelier Lyrique deTourcoing, Théâtre du Capitole Toulouse, Festival Les Volques, and performs two separate recitals in Paris. In 2021/2022, he also starred in concerts with the Ravello Festival, Opera Philadelphia, Strasbourg Philharmonie, Accademia Nazionale di Santa Cecilia , Gran Theatre de Liceu, Theater an der Wien, Théâtre des Champs-Élysees, and Teatro alla Scala.

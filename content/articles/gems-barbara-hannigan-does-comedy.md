@@ -1,19 +1,25 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Humour"
-date = "2015-10-06T09:26:00-04:00"
-lastmod = "2015-10-06T10:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444140060912/Barbara-Hannigan-High-Res-1---credit-Elmer-de-Haas.jpg.jpg"
-primary_image_credit = "Photo: Elmer de Haas"
-publishDate = "2015-10-06T10:11:00-04:00"
-related_articles = []
-related_people = ["scene/people/barbara-hannigan.md","scene/people/doug-macnaughton.md","scene/people/russell-braun.md"]
-short_description = "Canadian soprano, conductor, and general Renaissance woman Barbara Hannigan has been on my mind lately, largely because she&#039;s in Toronto Oct 7th and 8th to conduct and to sing with the Toronto Symphony Orchestra. Hannigan&#039;s website has tons of video gems available to view, one of which stuck out as a must-share."
-slug = "gems-barbara-hannigan-does-comedy"
-title = "Gems: Barbara Hannigan does comedy"
-
-youtube_url ="https://www.youtube.com/watch?v=rSAsn9u3e8U"
-+++
+---
+author:
+- authors/jenna.md
+categories: Humour
+date: "2015-10-06T09:26:00-04:00"
+lastmod: "2015-10-06T10:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444140060912/Barbara-Hannigan-High-Res-1---credit-Elmer-de-Haas.jpg.jpg
+primary_image_credit: 'Photo: Elmer de Haas'
+publishDate: "2015-10-06T10:11:00-04:00"
+related_articles: []
+related_people:
+- scene/people/barbara-hannigan.md
+- scene/people/doug-macnaughton.md
+- scene/people/russell-braun.md
+short_description: Canadian soprano, conductor, and general Renaissance woman Barbara
+  Hannigan has been on my mind lately, largely because she&#039;s in Toronto Oct 7th
+  and 8th to conduct and to sing with the Toronto Symphony Orchestra. Hannigan&#039;s
+  website has tons of video gems available to view, one of which stuck out as a must-share.
+slug: gems-barbara-hannigan-does-comedy
+title: 'Gems: Barbara Hannigan does comedy'
+youtube_url: https://www.youtube.com/watch?v=rSAsn9u3e8U
+---
 
 Canadian soprano, conductor, and general Renaissance woman [Barbara Hannigan](/scene/people/barbara-hannigan/) has been on my mind lately, largely because she's in Toronto [October 7th and 8th](http://www.tso.ca/en-ca/concerts-and-tickets/2015-2016-Season/EventDetails/Barbara-Hannigan-Sings-Conducts.aspx) to conduct and to sing with the Toronto Symphony Orchestra. Hannigan's website has tons of [video gems](http://www.barbarahannigan.com/watch/opera-concert-videos/) available to view, one of which stuck out as a must-share.
 

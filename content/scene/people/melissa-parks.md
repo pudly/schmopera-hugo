@@ -1,14 +1,21 @@
-+++
-date = "2017-09-15T13:52:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2017-09-15T13:52:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505497838502/Crop-Headshot-1.jpg.jpg"
-publishDate = "2017-09-15T13:52:00-04:00"
-related_companies = ["scene/companies/opera-philadelphia.md","scene/companies/utah-opera.md","scene/companies/seattle-opera.md","scene/companies/palm-beach-opera.md","scene/companies/nashville-opera.md"]
-slug = "melissa-parks"
-title = "Melissa Parks"
-website = "http://www.mezzomelissaparks.com/"
-+++
+---
+_template: people_single
+date: "2017-09-15T13:52:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2017-09-15T13:52:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505497838502/Crop-Headshot-1.jpg.jpg
+publishDate: "2017-09-15T13:52:00-04:00"
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/utah-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/nashville-opera.md
+slug: melissa-parks
+title: Melissa Parks
+website: http://www.mezzomelissaparks.com/
+cms_visible: true
+---
 
 American mezzo-soprano Melissa Parks has earned plaudits from the New York Times for her “lush-voiced mezzo-soprano” and from Opera News for being “a fine singing actress” with “spot-on comedic timing”.  Her 2015–2016 season began with her return to Amarillo Opera as both Mama McCourt THE BALLAD OF BABY DOE and Ruth THE PIRATES OF PENZANCE, and will continue as she returns to Utah Opera as Marcellina LE NOZZE DI FIGARO.  She will also develop the role of Doris in Opera Philadelphia’s workshop of ELIZABETH CREE, a new opera by the Pulitzer Prize-winning composer & librettist team of Kevin Puts & Mark Campbell which is planned to receive its world premiere as part of Opera Philadelphia’s exciting new O Urban Opera festival.
 

@@ -1,27 +1,34 @@
-+++
-date = "2016-10-26T12:43:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-10-26T12:49:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477482214829/2016-10-26---Jessica-Pratt-Square.jpg.jpg"
-primary_image_credit = "Luis Condrò"
-publishDate = "2016-10-26T12:44:00+01:00"
-related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/the-metropolitan-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/opernhaus-zurich.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/gran-teatre-del-liceu.md"]
-slug = "jessica-pratt"
-title = "Jessica Pratt"
-website = "http://www.jessicapratt.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jessicaprattsoprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/Soprano_JPratt"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/jprattsoprano"
-+++
+---
+date: "2016-10-26T12:43:00+01:00"
+discipline: Soprano
+lastmod: "2016-10-26T12:49:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477482214829/2016-10-26---Jessica-Pratt-Square.jpg.jpg
+primary_image_credit: Luis Condrò
+publishDate: "2016-10-26T12:44:00+01:00"
+related_companies:
+- scene/companies/teatro-alla-scala.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/royal-opera-house.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/gran-teatre-del-liceu.md
+slug: jessica-pratt
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/jessicaprattsoprano
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/Soprano_JPratt
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/jprattsoprano
+title: Jessica Pratt
+website: http://www.jessicapratt.org/
+cms_visible: true
+---
 
 Hailed by the New York Times as a soprano of "gleaming sound, free and easy high notes, agile coloratura runs and lyrical grace," Jessica Pratt is considered one of today's foremost interpreters of some of bel canto's most challenging repertoire.
 

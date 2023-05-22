@@ -1,13 +1,16 @@
-+++
-date = "2017-06-15T21:30:00-06:00"
-discipline = "Composer"
-lastmod = "2017-06-15T21:30:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497583816643/2017-06-12---Omar-Daniel.jpg.jpg"
-publishDate = "2017-06-15T21:30:00-06:00"
-related_companies = ["scene/companies/tapestry-opera.md"]
-slug = "omar-daniel"
-title = "Omar Daniel"
-+++
+---
+_template: people_single
+date: "2017-06-15T21:30:00-06:00"
+discipline: Composer
+lastmod: "2017-06-15T21:30:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1497583816643/2017-06-12---Omar-Daniel.jpg.jpg
+publishDate: "2017-06-15T21:30:00-06:00"
+related_companies:
+- scene/companies/tapestry-opera.md
+slug: omar-daniel
+title: Omar Daniel
+cms_visible: true
+---
 
 Omar Daniel has composed extensively in solo, chamber, electronic and orchestral idioms, and was the 1997 recipient of the Jules Lger Award for New Chamber Music. Other composition awards include the 2007 K.M. Hunter Arts Award, the SOCAN National Competition for Young Composers and the CBC National Radio Competition for Young Composers.
 

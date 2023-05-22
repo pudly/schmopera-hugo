@@ -1,21 +1,26 @@
-+++
-discipline = "Bass-baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1666913398/media/2022/10/VartanGABRIELIAN_xxyfd9.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/opera-philadelphia.md", "scene/companies/vancouver-opera.md", "scene/companies/l-opéra-de-montréal.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/canadian-opera-company.md"]
-slug = "vartan-gabrielian"
-title = "Vartan Gabrielian"
-website = "https://vartangabrielian.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/vartangabriel"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/vartangabrielian/"
-
-+++
+---
+discipline: Bass-baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1666913398/media/2022/10/VartanGABRIELIAN_xxyfd9.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/opera-philadelphia.md
+- scene/companies/vancouver-opera.md
+- scene/companies/l-opéra-de-montréal.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/canadian-opera-company.md
+slug: vartan-gabrielian
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/vartangabriel
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/vartangabrielian/
+title: Vartan Gabrielian
+website: https://vartangabrielian.com/
+cms_visible: true
+---
 Canadian-Armenian bass-baritone Vartan Gabrielian is a recent graduate of the Canadian Opera Company’s ensemble program and the Santa Fe Apprentice program. While still a student, he made his professional debut with the Opéra de Montréal performing the role of Sparafucile (_Rigoletto_).
 
 Highlights in his upcoming 2022/23 season include his role and house debut as Nourabad (_Les pêcheurs de perles_) at Vancouver Opera. At the Canadian Opera Company, Gabrielian returns to perform Jailer (_Tosca_) and Dottore (_Macbeth_) in addition to covering Figaro (_Le nozze di Figaro_), Banquo (_Macbeth_), and First Nazarene (_Salome_). A sought-after concert performer, Gabrielian will also be performing Verdi’s _Requiem_ under the baton of Francis Choinière.

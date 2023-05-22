@@ -1,21 +1,30 @@
-+++
-discipline = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1668288952/media/2022/11/NmonFord_aklmf4.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/portland-opera.md", "scene/companies/utah-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/los-angeles-opera.md", "scene/companies/virginia-opera.md", "scene/companies/cincinnati-opera.md", "scene/companies/salzburg-festival.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/english-national-opera.md"]
-slug = "nmon-ford"
-title = "Nmon Ford"
-website = "http://www.nmonford.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/nmonford"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/nmonford/"
-
-+++
+---
+discipline: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1668288952/media/2022/11/NmonFord_aklmf4.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/portland-opera.md
+- scene/companies/utah-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/virginia-opera.md
+- scene/companies/cincinnati-opera.md
+- scene/companies/salzburg-festival.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/english-national-opera.md
+slug: nmon-ford
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/nmonford
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/nmonford/
+title: Nmon Ford
+website: http://www.nmonford.com/
+cms_visible: true
+---
 Panamanian-American baritone Nmon Ford begins a new artistic chapter as the composer, librettist, and title-role performer of _House of Orfeus_ (previously _Orfeus, A House Music Opera_), which was scheduled for its world premiere at London’s Young Vic Theatre (postponed due to Covid-19). The show will be presented in 2024 as a co-production with Lincoln Center and Opera Carolina. Nmon has enjoyed success in increasingly challenging and dramatic repertoire, most recently in concert with the Atlanta Symphony Orchestra in excerpts from _Aïda_ (Amonasro). He made his role and company debut as Crown in the English National Opera/Metropolitan Opera co-production of _Porgy and Bess_, preceded by his role and festival debut at Lincoln Center’s Mostly Mozart Festival as The Celebrant in Leonard Bernstein’s _MASS_, Iago (_Otello_) with the Atlanta Symphony, Jochanaan (_Salome_) at Pittsburgh Opera, and the Celebrant (_MASS_) at Salzburg’s Grosses Festspielhaus with the Salzburg Mozarteumorchester. He appeared with the Dallas Symphony in Vaughn Williams’ _Sea Symphony_, Chicago Opera Theater in the title role of a new production of Ernest Bloch's _Macbeth_, Atlanta Symphony at Carnegie Hall (Brahms' Requiem), St. Louis Symphony (_Carmina Burana_), and Milwaukee Symphony (Brahms' Requiem). After performing Mahler's _Lieder eines fahrenden Gesellen_ with Orchestre National des Pays de la Loire (ONPL) conducted by John Axelrod, Nmon was immediately re-engaged by the ONPL for Mahler's _Kindertotenlieder_ and Fauré's Requiem.
 
 Nmon made his Italian debut at Teatro delle Muse in Ancona in the title role of a new production of _The Emperor Jones_ directed by Henning Brockhaus and conducted by Bruno Bartoletti (for which he received the Premio Franco Corelli for the outstanding debut of the season), his company debut with Cincinnati Opera as Riolobo in Francesca Zambello's production of _Florencia en el Amazonas_, and his role debut as The Traveler in a new production of _Death In Venice_ at Hamburg State Opera. He appeared with Michigan Opera Theater as Zurga in Zandra Rhodes' production of _Les pêcheurs de perles_, Teatro Comunale di Bologna in the title role of Pier Luigi Pizzi's production of _Don Giovanni_, and the Szeged Open-Air Festival in Hungary as Escamillo (_Carmen_). Nmon gave his first performances at Italy's Sferisterio Festival in new productions of _Attila_ and _Juditha Triumphans_, preceded by _Don Giovanni_ in Ancona. He debuted the roles of di Luna (_Il trovatore_) with Virginia Opera and Thoas (_Iphigénie en Tauride_) with Hamburg State Opera, and bowed as Mendelssohn's _Elijah_ at Washington National Cathedral with the Cathedral Choral Society conducted by J. Reilly Lewis.

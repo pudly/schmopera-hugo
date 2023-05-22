@@ -1,19 +1,34 @@
-+++
-date = "2017-09-15T20:25:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-15T20:31:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505520897807/Ana_Maria_Martinez_pc_Tom_Specht_c_300dpi.jpg.jpg"
-primary_image_credit = "Tom Specht"
-publishDate = "2017-09-15T20:27:00-04:00"
-related_companies = ["scene/companies/los-angeles-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/royal-opera-house.md","scene/companies/florida-grand-opera.md","scene/companies/houston-grand-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/san-francisco-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/glyndebourne.md","scene/companies/the-dallas-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/bayerische-staatsoper.md","scene/companies/washington-national-opera.md"]
-slug = "ana-maria-martinez"
-title = "Ana Maria Martinez"
-website = "http://anamariamartinez.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/anamariasoprano"
-+++
+---
+date: "2017-09-15T20:25:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-15T20:31:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505520897807/Ana_Maria_Martinez_pc_Tom_Specht_c_300dpi.jpg.jpg
+primary_image_credit: Tom Specht
+publishDate: "2017-09-15T20:27:00-04:00"
+related_companies:
+- scene/companies/los-angeles-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/royal-opera-house.md
+- scene/companies/florida-grand-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/glyndebourne.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/washington-national-opera.md
+slug: ana-maria-martinez
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/anamariasoprano
+title: Ana Maria Martinez
+website: http://anamariamartinez.com/
+cms_visible: true
+---
 
 Grammy Award® winner Ana María Martínezis considered to be one of the foremost sopranos ofthe time, with an international career that spans the world’s most important opera houses and concert halls.  With a repertoire that encompasses opera’s most intriguing and diverse leading ladies, she engages her audiences time and time again with signature roles, spellbinding debuts, and a myriad of captivating recordings.  
 

@@ -1,14 +1,19 @@
-+++
-date = "2017-05-08T10:29:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2017-05-08T10:33:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494253536039/2017-05-08---Markus_Marquardt.jpg.jpg"
-publishDate = "2017-05-08T10:29:00-04:00"
-related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/wiener-staatsoper.md","scene/companies/canadian-opera-company.md"]
-slug = "markus-marquardt"
-title = "Markus Marquardt"
-website = "http://www.markusmarquardt.com/index.htm"
-+++
+---
+_template: people_single
+date: "2017-05-08T10:29:00-04:00"
+discipline: Bass-baritone
+lastmod: "2017-05-08T10:33:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494253536039/2017-05-08---Markus_Marquardt.jpg.jpg
+publishDate: "2017-05-08T10:29:00-04:00"
+related_companies:
+- scene/companies/teatro-alla-scala.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/canadian-opera-company.md
+slug: markus-marquardt
+title: Markus Marquardt
+website: http://www.markusmarquardt.com/index.htm
+cms_visible: true
+---
 
 German bass-baritone Markus Marquardt has established himself in recent years as a sought-after interpreter of both the Italian repertoire and the German Helden-Fach.
 

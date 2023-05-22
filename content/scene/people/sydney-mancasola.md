@@ -1,22 +1,26 @@
-+++
-date = "2016-06-18T01:50:00-06:00"
-discipline = "Soprano"
-lastmod = "2016-06-18T01:50:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466235856310/2016-06-19---Sydney---Hoebermann.jpg.jpg"
-primary_image_credit = "Kristin Hoebermann"
-publishDate = "2016-06-18T01:50:00-06:00"
-related_companies = ["scene/companies/florida-grand-opera.md","scene/companies/the-santa-fe-opera.md","scene/companies/oberlin-college-and-conservatory.md"]
-slug = "sydney-mancasola"
-title = "Sydney Mancasola"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/sydney.mancasola.soprano/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SydneySoprano"
-+++
+---
+date: "2016-06-18T01:50:00-06:00"
+discipline: Soprano
+lastmod: "2016-06-18T01:50:00-06:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466235856310/2016-06-19---Sydney---Hoebermann.jpg.jpg
+primary_image_credit: Kristin Hoebermann
+publishDate: "2016-06-18T01:50:00-06:00"
+related_companies:
+- scene/companies/florida-grand-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/oberlin-college-and-conservatory.md
+slug: sydney-mancasola
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/sydney.mancasola.soprano/?fref=ts
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/SydneySoprano
+title: Sydney Mancasola
+cms_visible: true
+---
 
 A Grand Finals winner of the 2013 Metropolitan Opera National Council Auditions and a graduate of the Academy of Vocal Arts in Philadelphia, soprano Sydney Mancasola has been praised by the New York Times for her “lovely lyric soprano and radiant high notes.” The 2015 – 2016 season will mark Ms. Mancasola’s European debut at the Komische Oper Berlin as the three heroines in *Les Contes d’Hoffmann*, Cleopatra in *Giulio Cesare*, Pamina in the Barrie Kosky production of *Die Zauberflöte*, and Servilia in a concert performance of *Clemenza di Tito*. She will also reprise the title role in Massenet’s *Manon* in a return to Des Moines Metro Opera, conducted by David Neely. Concert work includes her debut with the San Francisco Symphony in Handel's *Messiah*, conducted by Ragnar Bohlin.
 

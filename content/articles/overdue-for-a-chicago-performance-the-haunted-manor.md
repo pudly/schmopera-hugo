@@ -1,15 +1,23 @@
-+++
-author = ["authors/michael-pecak.md"]
-categories = "Review"
-date = "2017-11-08T09:31:00-05:00"
-lastmod = "2017-11-08T09:53:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510151745442/2017-11-08---square---PaSO-Hanted-Manor---Return-of-Hunters.jpg.jpg"
-publishDate = "2017-11-08T09:53:00-05:00"
-related_articles = ["articles/in-review-stiffelio.md","articles/in-review-bluebeards-castle-erwartung.md","articles/in-review-boris-godunov.md"]
-short_description = "I must confess a certain bias on my part for this opera. As both a Chicagoan and fellow Pole, this opera has had a special place in my heart since my childhood. I grew up with its melodies and rhythms and came to appreciate its historical significance in Polish Saturday School. Naturally, I was thrilled to learn of a Chicago production."
-slug = "overdue-for-a-chicago-performance-the-haunted-manor"
-title = "Overdue for a Chicago performance: The Haunted Manor"
-+++
+---
+author:
+- authors/michael-pecak.md
+categories: Review
+date: "2017-11-08T09:31:00-05:00"
+lastmod: "2017-11-08T09:53:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510151745442/2017-11-08---square---PaSO-Hanted-Manor---Return-of-Hunters.jpg.jpg
+publishDate: "2017-11-08T09:53:00-05:00"
+related_articles:
+- articles/in-review-stiffelio.md
+- articles/in-review-bluebeards-castle-erwartung.md
+- articles/in-review-boris-godunov.md
+short_description: I must confess a certain bias on my part for this opera. As both
+  a Chicagoan and fellow Pole, this opera has had a special place in my heart since
+  my childhood. I grew up with its melodies and rhythms and came to appreciate its
+  historical significance in Polish Saturday School. Naturally, I was thrilled to
+  learn of a Chicago production.
+slug: overdue-for-a-chicago-performance-the-haunted-manor
+title: 'Overdue for a Chicago performance: The Haunted Manor'
+---
 
 There are certain opera productions that, once planned and announced, ride a wave of excitement, promotion and hype, promising a magnificent splash on opening night: an event not to be missed. Such was the case with Stanisław Moniuszko's (1819-1872) *Straszny Dwór* (*The Haunted Manor*), put on at Chicago's Copernicus Center by the Paderewski Symphony Orchestra, Chorus, and invited guest singers from Poland. 
 
@@ -19,7 +27,9 @@ That said, the weekend's run of *The Haunted Manor* had all the buzz of a true �
 
 For Polish composers of the nineteenth century, this meant aspiring to compose a "Great" Polish opera, rooted in Polish history, and with a Polish libretto. Fryderyk Chopin famously declined insistent requests by family and colleagues to try his hand at grand opera. But while Chopin preferred to create more intimate and personalized worlds in his piano works, his slightly younger compatriot, Moniuszko, emphatically embraced the theater and came to be recognized as "the father" of Polish national opera with his *The Haunted Manor* hailed as the quintessential Polish work in the genre.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510151794334/2017-11-08---PaSO-Hanted-Manor---Hanna---Anna-Parysz%2C-Stefan---Rafal-Bartminski%2C-Zbigniew---Karol-Skwara%2C-Jadwiga----Katrzyna-Szymkowiak---.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510151794334/2017-11-08---PaSO-Hanted-Manor---Hanna---Anna-Parysz%2C-Stefan---Rafal-Bartminski%2C-Zbigniew---Karol-Skwara%2C-Jadwiga----Katrzyna-Szymkowiak---.jpg.jpg)
 <figcaption>Anna Parysz (Hannah), Rafal Bartminsky (Stefan), Karol Swkara (Zbigniew), and Katrzyna Szymkowiak (Jadwiga) in *The Haunted Manor*, Paderewski Symphony Orchestra and Chorus, 2017. Photo: Krzysztof Babiracki.</figcaption>
 </figure>
  
@@ -29,7 +39,9 @@ The story revolves around two brothers, Zbigniew and Stefan, who, having retired
 
 Of course, things change once they meet the eligible young daughters of their old family friend, Miecznik (the Sword Bearer). Hanna and Jadwiga live with their father in a manor known for its eerie reputation. After a complementary chorus of servant-girls singing about that most perilous of pre-twentieth-century female fates — spinsterhood — the sisters attempt to divine who their future husbands might be by reading the shapes in melted wax.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510152487477/2017-11-08---Hanna---Anna-Parysz%2C-Damazy---Jacek-Ornafa.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510152487477/2017-11-08---Hanna---Anna-Parysz%2C-Damazy---Jacek-Ornafa.jpg.jpg)
 <figcaption>Anna Prysz (Hannah) and Jacek Ornafa (Damazy) in *The Haunted Manor*, Paderewski Symphony Orchestra and Chorus, 2017. Photo: Krzysztof Babiracki.</figcaption>
 </figure>
 
@@ -39,7 +51,9 @@ Suspicious of the two brothers, Aunt Cześnikowa, Damazy, and a slew of supporti
  
 It must be conceded that, for all its fine duets and ensemble numbers, this is a rather man-centric opera with the most important and memorable arias belonging to Stefan and Miecznik. PaSO's production this past weekend featured tenor Rafał Bartmiński in the former role and baritone Leszek Skrla in the latter. For their artistry and experience, both singers were the decided standouts of the show. Both are regulars of Poland's main-stages and veterans of their respective roles in *The Haunted Manor*. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510152506944/2017-11-08---Leszek-Skrla---Miecznik.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510152506944/2017-11-08---Leszek-Skrla---Miecznik.jpg.jpg)
 <figcaption>Leszek Skrla (Miecznik) in *The Haunted Manor*, Paderewski Symphony Orchestra and Chorus, 2017. Photo: Krzysztof Babiracki.</figcaption>
 </figure>
 
@@ -53,13 +67,17 @@ As Miecznik, Skrla commanded the stage with a voice and presence worthy of great
  
 Singing the roles of Hanna and Jadwiga were, respectively, soprano Anna Parysz and mezzo Katarzyna Szymkowiak, both accomplished up-and-comers on Poland's operatic scene. Together they were irresistibly charming as the mischievous sisters, especially in the Act 3 scene where they taunt their unsuspecting love-interests by posing as portraits of themselves. To Hanna's firecracker Act 4 recitative & aria, Parysz brought impressive clarity and shape to the dizzying sixteenth-note passages while never losing the rhythmic crisp so crucial to Polish melodies. Szymkowiak was memorable for her smooth honeyed mezzo in Jadwiga's plaintive Dumka. Keep your eyes and ears on these two — the world's stages will be beckoning.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510152497992/2017-11-08---Marta-Stachyra---Czesnikowa.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510152497992/2017-11-08---Marta-Stachyra---Czesnikowa.jpg.jpg)
 <figcaption>Marta Stachyra (Czesnikowa) in *The Haunted Manor*, Paderewski Symphony Orchestra and Chorus, 2017. Photo: Krzysztof Babiracki.</figcaption>
 </figure>
  
 The remainder of the cast comprised young singers in varying stages of their development. Tenor Jacek Ornafa was a crowd favorite, playing the part of the conniving Damazy with the zeal of a Disney henchman. Mezzo Marta Stachyra, as the machinating Aunt Cześnikowa, was aggravating in all the right ways. Other invited guests for this production included an excellent supporting choir from Warsaw's F. Chopin University of Music (formerly the Warsaw Conservatory) as well as Chicago-based Polish folk-dance companies WICI and Lajkonik. Much like in French Baroque opera, dance is essential to Polish opera (and Polish culture generally). The two troupes combined for this run of *The Haunted Manor* were exquisitely choreographed in the several traditional Polish dances, including the Kujawiak and especially this opera's famous concluding Mazur. The costumes, designed by Barbara Kędzierska and based on traditional nineteenth-century Polish garb, complemented both the aristocratic and the rustic elements of the score. Hunting caps were suitably plumed and skirts twirled in a vibrant kaleidoscope of color.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510152515653/2017-11-08---PaSO-Hanted-Manor---Mazur---WICI-Theatre-of-Dance-and-PaSO-Chorus.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1510152515653/2017-11-08---PaSO-Hanted-Manor---Mazur---WICI-Theatre-of-Dance-and-PaSO-Chorus.jpg.jpg)
 <figcaption>A scene from *The Haunted Manor*, Paderewski Symphony Orchestra and Chorus, 2017. Photo: Krzysztof Babiracki.</figcaption>
 </figure>
  

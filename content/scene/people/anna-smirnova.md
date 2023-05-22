@@ -1,13 +1,20 @@
-+++
-date = "2018-09-23T19:56:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2018-09-23T19:56:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746941948/7ac5265faf2a6e72c239dd3c616ed2cf.JPG.JPG"
-publishDate = "2018-09-23T19:56:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/los-angeles-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/bayerische-staatsoper.md"]
-slug = "anna-smirnova"
-title = "Anna Smirnova"
-+++
+---
+_template: people_single
+date: "2018-09-23T19:56:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2018-09-23T19:56:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1537746941948/7ac5265faf2a6e72c239dd3c616ed2cf.JPG.JPG
+publishDate: "2018-09-23T19:56:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+slug: anna-smirnova
+title: Anna Smirnova
+cms_visible: true
+---
 
 Russian mezzo-soprano Anna Smirnova is one of the most exciting Verdi mezzos on the international scene. She possesses a true dramatic Verdi mezzo-soprano voice, in the tradition of Simionato, Cossotto and the young Obratzsova. Born in Moscow to a family of musicians, she studied at the Tchaikovsky Conservatory in Moscow. She made one of her very first operatic appearances on the stage of the Teatro alla Scala in 2007 as the Principessa in *Adriana Lecouvreur*. Within two years of this debut, Smirnova was engaged to debut in every major opera company in the world.
 

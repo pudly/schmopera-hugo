@@ -1,18 +1,24 @@
-+++
-date = "2015-04-07T18:40:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-04-07T18:41:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428446474747/jane8.jpg.jpg"
-publishDate = "2015-04-07T18:40:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company.md","scene/companies/the-metropolitan-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/bayerische-staatsoper.md"]
-slug = "jane-archibald"
-title = "Jane Archibald"
-website = "http://janearchibald.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ArchibaldJane"
-+++
+---
+date: "2015-04-07T18:40:00-04:00"
+discipline: Soprano
+lastmod: "2015-04-07T18:41:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428446474747/jane8.jpg.jpg
+publishDate: "2015-04-07T18:40:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/bayerische-staatsoper.md
+slug: jane-archibald
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ArchibaldJane
+title: Jane Archibald
+website: http://janearchibald.com/
+cms_visible: true
+---
 
 <p>
 	Jane Archibald's career trajectory, which began in Nova Scotia, Canada, has taken her from Toronto to San Francisco to the Vienna State Opera and beyond. Her artistry generates excitement across Europe and North America with recent engagements including the title role in <em>Lucia di Lammermoor</em> and Konstanze in Zurich, Adele and Ophélie at the Met, Olympia, Zerbinetta and Cleopatra at the Opéra National de Paris, Sophie <em>Der Rosenkavalier</em> at La Scala Milan and in Berlin, Zerbinetta at Baden-Baden Festspielhaus, the Royal Opera House Covent Garden and in Munich, as well as Semele at the Canadian Opera Company.

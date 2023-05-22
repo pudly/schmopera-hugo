@@ -1,27 +1,32 @@
-+++
-date = "2017-10-17T20:00:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-17T20:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508284631117/Hartig%20High-Res%203%E2%88%8F%20Yannis%20Velissaridis.jpg.jpg"
-primary_image_credit = "Yannis Velissaridis"
-publishDate = "2017-10-17T20:00:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/gran-teatre-del-liceu.md"]
-slug = "anita-hartig"
-title = "Anita Hartig"
-website = "http://anitahartig.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/AnitaHartigOfficial/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AnitaHartig"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/anita_hartig/"
-+++
+---
+date: "2017-10-17T20:00:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-17T20:00:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1508284631117/Hartig%20High-Res%203%E2%88%8F%20Yannis%20Velissaridis.jpg.jpg
+primary_image_credit: Yannis Velissaridis
+publishDate: "2017-10-17T20:00:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/gran-teatre-del-liceu.md
+slug: anita-hartig
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/AnitaHartigOfficial/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/AnitaHartig
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/anita_hartig/
+title: Anita Hartig
+website: http://anitahartig.com/
+cms_visible: true
+---
 
 Hailed by the New York Classical Review as having, “a gorgeous instrument with superb dramatic instincts” and possessing a “lovely purity of sound” by the Financial Times, Romanian soprano Anita Hartig is one of the most highly sought-after stars in opera today. During her studies at the Gheorghe Dima Music Academy in Cluj Napoca, she won several national and international vocal competitions, and made her debut as Mimì in La bohème at the Romanian National Opera in 2006.
 

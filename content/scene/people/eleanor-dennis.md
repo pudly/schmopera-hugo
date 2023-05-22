@@ -1,18 +1,23 @@
-+++
-date = "2018-03-02T16:18:00-05:00"
-discipline = "Soprano"
-lastmod = "2018-03-02T16:18:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520025453279/(c)%20Christina%20Raphaelle.jpg.jpg"
-primary_image_credit = "Christina Raphaelle"
-publishDate = "2018-03-02T16:18:00-05:00"
-related_companies = ["scene/companies/english-national-opera.md","scene/companies/scottish-opera.md","scene/companies/classical-opera.md"]
-slug = "eleanor-dennis"
-title = "Eleanor Dennis"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/elliedennis17"
-+++
+---
+date: "2018-03-02T16:18:00-05:00"
+discipline: Soprano
+lastmod: "2018-03-02T16:18:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1520025453279/(c)%20Christina%20Raphaelle.jpg.jpg
+primary_image_credit: Christina Raphaelle
+publishDate: "2018-03-02T16:18:00-05:00"
+related_companies:
+- scene/companies/english-national-opera.md
+- scene/companies/scottish-opera.md
+- scene/companies/classical-opera.md
+slug: eleanor-dennis
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/elliedennis17
+title: Eleanor Dennis
+cms_visible: true
+---
 
 Scottish soprano Eleanor Dennis is a graduate of the Royal College of Music's International Opera School and a Harewood Artist at the English National Opera where her roles have so far included Contessa *Le nozze di Figaro* and Micaela *Carmen*.
 

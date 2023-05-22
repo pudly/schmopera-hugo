@@ -1,19 +1,27 @@
-+++
-date = "2016-10-24T21:49:00+01:00"
-discipline = "Soprano"
-lastmod = "2016-10-24T21:55:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477342067855/2016-10-24---NancyAllenLundy-Square.jpg.jpg"
-primary_image_credit = "Masataka Suemitsu."
-publishDate = "2016-10-24T21:49:00+01:00"
-related_companies = ["scene/companies/houston-grand-opera.md","scene/companies/washington-national-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/english-national-opera.md","scene/companies/portland-opera.md","scene/companies/minnesota-opera.md"]
-slug = "nancy-allen-lundy"
-title = "Nancy Allen Lundy"
-website = "http://www.nancyallenlundy.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/nancy.allenlundy"
-+++
+---
+date: "2016-10-24T21:49:00+01:00"
+discipline: Soprano
+lastmod: "2016-10-24T21:55:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477342067855/2016-10-24---NancyAllenLundy-Square.jpg.jpg
+primary_image_credit: Masataka Suemitsu.
+publishDate: "2016-10-24T21:49:00+01:00"
+related_companies:
+- scene/companies/houston-grand-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/english-national-opera.md
+- scene/companies/portland-opera.md
+- scene/companies/minnesota-opera.md
+slug: nancy-allen-lundy
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/nancy.allenlundy
+title: Nancy Allen Lundy
+website: http://www.nancyallenlundy.com/
+cms_visible: true
+---
 
 Described as, "enthralling" (*Opera News*), Nancy Allen Lundy has earned critical acclaim for her unique vocal beauty, skillful musicianship and theatrical prowess in a variety of classical and contemporary styles.  Engagements with opera companies and festivals include Teatro alla Scala (Milan), English National Opera, Netherlands Opera, New York City Opera, Houston Grand Opera, Washington Opera, Cincinnati Opera, Opera Company of Philadelphia, Hawaii Opera Theater, Minnesota Opera, Opera Theatre of St. Louis, Portland Opera, Spoleto, USA, Teatro Municipal de Santiago (Chile), Bregenzer Festspiele (Austria), Festival Euro Mediterraneo (Rome) Opera de Lyon, and Suntory Hall (Tokyo).  Her operatic repertoire encompasses more than thirty roles, of which she has earned particular acclaim for her portrayals of Curley's Wife in *Of Mice and Men*, Gilda in *Rigoletto*, Musetta in *La Bohème*, Anne Trulove in *The Rake's Progress*, Sophie in *Der Rosenkavalier*, the title role in *Lucia di Lammermoor*, Rosina in *Il Barbiere di Siviglia*, and Cunegonde in *Candide*, to name a few. 
 

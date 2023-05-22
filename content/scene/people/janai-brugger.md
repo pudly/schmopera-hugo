@@ -1,23 +1,31 @@
-+++
-date = "2017-09-10T11:35:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-10T11:36:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505057266458/Janai_Brugger-full_length_portrait_blue_dress_cred_Dario_Acosta.jpg.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2017-09-10T11:35:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/san-francisco-opera.md","scene/companies/merola-opera-program.md","scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/palm-beach-opera.md"]
-slug = "janai-brugger"
-title = "Janai Brugger"
-website = "http://www.janaibrugger.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/JanaiBrugger/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/JanaiBrugger"
-+++
+---
+date: "2017-09-10T11:35:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-10T11:36:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1505057266458/Janai_Brugger-full_length_portrait_blue_dress_cred_Dario_Acosta.jpg.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2017-09-10T11:35:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/merola-opera-program.md
+- scene/companies/royal-opera-house.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/palm-beach-opera.md
+slug: janai-brugger
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/JanaiBrugger/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/JanaiBrugger
+title: Janai Brugger
+website: http://www.janaibrugger.com/
+cms_visible: true
+---
 
 "￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Only one singer inspired me to look forward to a full performance. Janai Brugger sang two lyric soprano standards with poise and style, quiet intensity and superb phrasing... The emotion was in her sound, which projected, with silvery ease, first relaxed but focused bliss in 'Depuis le jour' and then haunting melancholy in the Mozart."  - *New York Times*
 

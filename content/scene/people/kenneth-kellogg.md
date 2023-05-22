@@ -1,23 +1,30 @@
-+++
-date = "2017-05-13T19:03:00-04:00"
-discipline = "Bass"
-lastmod = "2017-05-13T19:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494716398253/Kenneth-Kellogg-Valentina-Sadiul-687x1030.jpg.jpg"
-primary_image_credit = "Valentina Sadiul"
-publishDate = "2017-05-13T19:03:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/washington-national-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/canadian-opera-company.md"]
-slug = "kenneth-kellogg"
-title = "Kenneth Kellogg"
-website = "http://www.kennethkellogg.com/index.html"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/kkellogg79"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/kkelloggbasso/"
-+++
+---
+date: "2017-05-13T19:03:00-04:00"
+discipline: Bass
+lastmod: "2017-05-13T19:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1494716398253/Kenneth-Kellogg-Valentina-Sadiul-687x1030.jpg.jpg
+primary_image_credit: Valentina Sadiul
+publishDate: "2017-05-13T19:03:00-04:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/canadian-opera-company.md
+slug: kenneth-kellogg
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/kkellogg79
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/kkelloggbasso/
+title: Kenneth Kellogg
+website: http://www.kennethkellogg.com/index.html
+cms_visible: true
+---
 
 Praised for his "commanding stage presence" and "rich, resonant bass," Kenneth Kellogg is quickly gaining recognition as a sought after young artist.
 

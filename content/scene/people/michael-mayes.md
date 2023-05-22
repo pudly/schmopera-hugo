@@ -1,14 +1,21 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1562711860/media/2019/07/MichaelMayes.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/washington-national-opera.md", "scene/companies/the-dallas-opera.md", "scene/companies/opera-omaha.md", "scene/companies/san-francisco-opera.md", "scene/companies/nashville-opera.md", "scene/companies/des-moines-metro-opera.md"]
-slug = "michael-mayes"
-social_media = []
-title = "Michael Mayes"
-website = "https://www.michaelmayesbaritone.com/"
-
-+++
+---
+_template: people_single
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1562711860/media/2019/07/MichaelMayes.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/the-dallas-opera.md
+- scene/companies/opera-omaha.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/nashville-opera.md
+- scene/companies/des-moines-metro-opera.md
+slug: michael-mayes
+social_media: []
+title: Michael Mayes
+website: https://www.michaelmayesbaritone.com/
+cms_visible: true
+---
 With a “powerful” voice and an “arresting stage presence”, baritone Michael Mayes is known for his consummate portrayals of modern operatic masterpieces as well as iconic characters in the standard operatic repertoire. Originally from Cut and Shoot, Texas, Mayes has performed with opera companies across the United States including Washington National Opera, Dallas Opera, Nashville Opera, Boston Lyric Opera, Des Moines Metro Opera, Central City Opera, New Orleans Opera, Michigan Opera Theater, and Fort Worth Opera. 
 
 The 2015-2016 season included his debut with Dallas Opera and San Diego Opera in the world premiere of Jake Heggie’s _Great Scott_, Jack Rance in Opera Omaha’s _La fanciulla del West_, Manfred in Heggie’s _Out of the Darkness_ with Music of Remembrance, Scarpia in _Tosca_ with Central City Opera, and _Dead Man Walking_ with New Orleans Opera. In the 2016-2017 season, Mr. Mayes will make his debut with Washington National Opera in his celebrated role of Joseph De Rocher in _Dead Man Walking_ in addition taking his De Rocher to Pensacola Opera and appearing with Boston Lyric Opera as Escamillo in _Carmen_, Nashville Opera as Older Thompson in _Glory Denied_, and returning to Dallas Opera as Doug in _Everest_. 

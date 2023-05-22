@@ -1,15 +1,24 @@
-+++
-date = "2015-09-22T22:02:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-12-30T14:49:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442973607391/VinkeHeadshot.jpg.jpg"
-primary_image_credit = "C.Mosesi"
-publishDate = "2015-09-22T22:02:00-04:00"
-related_companies = ["scene/companies/staatsoper-berlin.md","scene/companies/deutsche-oper-berlin.md","scene/companies/bayerische-staatsoper.md","scene/companies/royal-opera-house.md","scene/companies/canadian-opera-company.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/opra-national-de-paris.md"]
-slug = "stefan-vinke"
-title = "Stefan Vinke"
-website = "http://www.stefanvinke.de/"
-+++
+---
+_template: people_single
+date: "2015-09-22T22:02:00-04:00"
+discipline: Tenor
+lastmod: "2015-12-30T14:49:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1442973607391/VinkeHeadshot.jpg.jpg
+primary_image_credit: C.Mosesi
+publishDate: "2015-09-22T22:02:00-04:00"
+related_companies:
+- scene/companies/staatsoper-berlin.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/royal-opera-house.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/opra-national-de-paris.md
+slug: stefan-vinke
+title: Stefan Vinke
+website: http://www.stefanvinke.de/
+cms_visible: true
+---
 
 Stefan Vinke was first engaged by his Kirchenmusik- pedagogy and vocal studies at the Cologne University of Music in Karlsruhe and Mönchengladbach, before becoming a "teenager heroic tenor" of the "Nationaltheater Mannheim" between 1999-2005.
  

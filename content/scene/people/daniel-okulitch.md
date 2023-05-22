@@ -1,26 +1,26 @@
-+++
-date = "2016-11-18T10:54:00+00:00"
-discipline = "Bass-baritone"
-lastmod = "2016-11-18T10:55:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479466439183/2016-11-18---Daniel-Okulitch.jpg.jpg"
-primary_image_credit = "Rob Daly"
-publishDate = "2016-11-18T10:54:00+00:00"
-slug = "daniel-okulitch"
-title = "Daniel Okulitch"
-website = "http://www.danielokulitch.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/Okulitch/?ref=hl"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/danokulitch"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/danielokulitch/"
-+++
+---
+date: "2016-11-18T10:54:00+00:00"
+discipline: Bass-baritone
+lastmod: "2016-11-18T10:55:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1479466439183/2016-11-18---Daniel-Okulitch.jpg.jpg
+primary_image_credit: Rob Daly
+publishDate: "2016-11-18T10:54:00+00:00"
+slug: daniel-okulitch
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/Okulitch/?ref=hl
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/danokulitch
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/danielokulitch/
+title: Daniel Okulitch
+website: http://www.danielokulitch.com/
+cms_visible: true
+---
 
 Canadian bass-baritone Daniel Okulitch has performed with some of the most prestigious opera companies and orchestras throughout Europe and North America, including Le Chatelet, Teatro alla Scala, Teatro Colon, Dallas, Washington, and Los Angeles. He is lauded as much for his powerful stage presence and dramatic abilities as for his “focused, resonant bass-baritone that he wields with power and sensitivity” (NJ Star-Ledger). His signature roles show a dedication to both traditional and new works, including the title role in Don Giovanni both the Count and Figaro in Le nozze di Figaro, Joseph De Rocher in Dead Man Walking and Olin Blitch in Susannah. “Okulitch was a dynamic and effective stage presence; he almost stopped the show the first time he strode on stage and sang his opening notes (…) by far the most developed and projecting singer in the cast.” ( New Jersey Star-Ledger).
 Engagements in 2015-16 included the title role in a new production of Don Giovanni at Santa Fe Opera and The Lyric Opera of Kansas City and LBJ in the world premiere of JFK with Fort Worth Opera. Prior to that he debuted with L’Opéra de Montréal as Lieutenant Horstmayer in Kevin Putt’s Silent Night, the role of Herman Broder in the world premier of Enemies, a Love Story with Palm Beach Opera, the role of Ennis Del Mar in the world premiere of Brokeback Mountain at Madrid’s Teatro Real, the four villains in Les contes d’Hoffmann with Edmonton Opera, and Creonte in Medea in Geneva. He also joined the cast of the Metropolitan Opera for their production of Don Giovanni, and returned to Santa Fe Opera as the count in Mozart’s Le nozze di Figaro. Future engagements include his San Francisco Opera debut as Sam in Bernstein’s A Quiet Place, his debut in the role of Leporello with L’Opéra de Montréal, his return to Vancouver Opera as Joseph de Rocher in Dead Man Walking, and his debut with New Orleans Opera as Don Giovanni. In concert he recently performed Beethoven’s Symphony No.9 with Indianapolis Symphony and Haydn’s Harmoniemesse at the Grant Park Music Festival, and next season he debuts with the Toronto and Edmonton symphonies with Maestro Nicholas McGegan in Handel’s Messiah. He will also appear for the Toronto Symphony in a new work written for him by Owen Pallett.

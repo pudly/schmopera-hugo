@@ -1,14 +1,19 @@
-+++
-date = "2017-01-10T13:30:00+00:00"
-discipline = "Tenor"
-lastmod = "2017-01-10T13:34:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484055206617/2017-01-10---LA-COLLA-Stefano-Alba-Falchi.jpg.jpg"
-publishDate = "2017-01-10T13:34:00+00:00"
-related_companies = ["scene/companies/teatro-alla-scala.md","scene/companies/deutsche-oper-berlin.md","scene/companies/staatsoper-berlin.md"]
-slug = "stefano-la-colla"
-title = "Stefano La Colla"
-website = "http://www.stefanolacolla.com/"
-+++
+---
+_template: people_single
+date: "2017-01-10T13:30:00+00:00"
+discipline: Tenor
+lastmod: "2017-01-10T13:34:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1484055206617/2017-01-10---LA-COLLA-Stefano-Alba-Falchi.jpg.jpg
+publishDate: "2017-01-10T13:34:00+00:00"
+related_companies:
+- scene/companies/teatro-alla-scala.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/staatsoper-berlin.md
+slug: stefano-la-colla
+title: Stefano La Colla
+website: http://www.stefanolacolla.com/
+cms_visible: true
+---
 
 A competition winner at the Puccini Festival in Torre del Lago, Stefano La Colla studied at the Conservatory Pietro Mascagni in Livorno with bass-baritone G. Polidori. He also studied under the guidance of soprano Luciana Serra and baritone Carlo Meliciani. La Colla’s engagements for the 2016/17 season include des Grieux in *Manon Lescaut* at the Dutch National Opera in Amsterdam, Calaf in *Turandot* at the Bavarian State Opera in Munich, Turiddu in *Cavalleria Rusticana* and Canio in *Pagliacci* at the Opéra National du Rhin in Strasbourg, Turiddu at the Semperoper Dresden, and Radamès in *Aida* at the Macerata Opera Festival.
 

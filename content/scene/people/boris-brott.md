@@ -1,22 +1,25 @@
-+++
-date = "2015-04-06T22:40:00-04:00"
-discipline = "Conductor"
-lastmod = "2015-04-06T22:40:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374345432/BorisBrott.jpg.jpg"
-publishDate = "2015-04-06T22:40:00-04:00"
-related_companies = ["scene/companies/brott-opera.md","scene/companies/opera-mcgill.md"]
-slug = "boris-brott"
-title = "Boris Brott"
-website = "http://borisbrott.com/default.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/pages/Boris-Brott/109490015744290"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/BorisBrott"
-+++
+---
+date: "2015-04-06T22:40:00-04:00"
+discipline: Conductor
+lastmod: "2015-04-06T22:40:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428374345432/BorisBrott.jpg.jpg
+publishDate: "2015-04-06T22:40:00-04:00"
+related_companies:
+- scene/companies/brott-opera.md
+- scene/companies/opera-mcgill.md
+slug: boris-brott
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/pages/Boris-Brott/109490015744290
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/BorisBrott
+title: Boris Brott
+website: http://borisbrott.com/default.html
+cms_visible: true
+---
 
 <p>
 	Boris Brott is one of the most internationally recognized Canadian conductors, holding major posts as music director in Canada and the United States. He enjoys an international career as guest conductor, educator, motivational speaker, and cultural ambassador.

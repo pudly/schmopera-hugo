@@ -1,16 +1,31 @@
-+++
-author = ["authors/john-beckett.md"]
-categories = "Review"
-date = "2017-09-06T16:10:00-04:00"
-lastmod = "2017-09-06T22:14:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504729028973/2017-09-07---Wigmore.jpg.jpg"
-publishDate = "2017-09-06T21:56:00-04:00"
-related_articles = ["articles/in-review-sophisticated-precise-fearlessness-at-wigmore-hall.md"]
-related_people = ["scene/people/marta-fontanalssimmons.md","scene/people/lana-bode.md","scene/people/harriet-burns.md","scene/people/ian-tindale.md","scene/people/peter-kellner.md","scene/people/pedro-costa.md","scene/people/lauren-lodgecampbell.md","scene/people/michael-sikich.md","scene/people/julien-van-mellaerts.md","scene/people/gamal-khamis.md"]
-short_description = "I loved the way all the competitors took care of the transitions between songs, whether waiting to allow a moment to land or to keep the story going as to not drop the ball during a dead silence. It all proves that the silence is just as important as the music."
-slug = "in-review-wigmore-hall-song-competition-semifinals"
-title = "In review: Wigmore Hall Song Competition semi-finals"
-+++
+---
+author:
+- authors/john-beckett.md
+categories: Review
+date: "2017-09-06T16:10:00-04:00"
+lastmod: "2017-09-06T22:14:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504729028973/2017-09-07---Wigmore.jpg.jpg
+publishDate: "2017-09-06T21:56:00-04:00"
+related_articles:
+- articles/in-review-sophisticated-precise-fearlessness-at-wigmore-hall.md
+related_people:
+- scene/people/marta-fontanalssimmons.md
+- scene/people/lana-bode.md
+- scene/people/harriet-burns.md
+- scene/people/ian-tindale.md
+- scene/people/peter-kellner.md
+- scene/people/pedro-costa.md
+- scene/people/lauren-lodgecampbell.md
+- scene/people/michael-sikich.md
+- scene/people/julien-van-mellaerts.md
+- scene/people/gamal-khamis.md
+short_description: I loved the way all the competitors took care of the transitions
+  between songs, whether waiting to allow a moment to land or to keep the story going
+  as to not drop the ball during a dead silence. It all proves that the silence is
+  just as important as the music.
+slug: in-review-wigmore-hall-song-competition-semifinals
+title: 'In review: Wigmore Hall Song Competition semi-finals'
+---
 
 This week in London is the [Wigmore Hall and Kohn Foundation International Song Competition](https://wigmore-hall.org.uk/song-competition/2017-songcompetition). Since this past Sunday, young singer and pianist duos have been performing at London's most famous recital venue while competing for hefty cash prizes.
 

@@ -1,23 +1,31 @@
-+++
-date = "2016-10-26T19:24:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-10-26T19:24:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477506189794/2016-10-26---Kate-Lindsey.jpg.jpg"
-primary_image_credit = "Rosetta Greek"
-publishDate = "2016-10-26T19:24:00+01:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/los-angeles-opera.md","scene/companies/wiener-staatsoper.md","scene/companies/bayerische-staatsoper.md","scene/companies/glyndebourne.md","scene/companies/washington-national-opera.md"]
-slug = "kate-lindsey"
-title = "Kate Lindsey"
-website = "http://katelindsey.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/mezzo.soprano.kate.lindsey/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/kate_mezzo"
-+++
+---
+date: "2016-10-26T19:24:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2016-10-26T19:24:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1477506189794/2016-10-26---Kate-Lindsey.jpg.jpg
+primary_image_credit: Rosetta Greek
+publishDate: "2016-10-26T19:24:00+01:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/glyndebourne.md
+- scene/companies/washington-national-opera.md
+slug: kate-lindsey
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/mezzo.soprano.kate.lindsey/
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/kate_mezzo
+title: Kate Lindsey
+website: http://katelindsey.com/
+cms_visible: true
+---
 
 This season, mezzo-soprano Kate Lindsey makes her role and house debut as Sister Helen Prejean in *Dead Man Walking* at the Washington National Opera and returns to both the Royal Opera House and the Los Angeles Opera as Nicklauss/Muse in *Les Contes d'Hoffmann*, the Vienna State Opera as Cherubino in *Le Nozze di Figaro*, and the Glyndebourne Opera Festival as Sesto in *La Clemenza di Tito*.  She also appears in concert with the Philadelphia Orchestra and the Orchestre de Paris. 
 

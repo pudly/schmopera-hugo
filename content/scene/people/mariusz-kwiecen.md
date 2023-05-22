@@ -1,15 +1,24 @@
-+++
-date = "2015-09-30T09:17:00-04:00"
-discipline = "Baritone"
-lastmod = "2015-09-30T09:17:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443618792765/Mariusz.jpg.jpg"
-primary_image_credit = "Photo: Mikolaj Mikolajczyk"
-publishDate = "2015-09-30T09:17:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/bayerische-staatsoper.md","scene/companies/opra-national-de-paris.md","scene/companies/royal-opera-house.md","scene/companies/wiener-staatsoper.md","scene/companies/lyric-opera-of-chicago.md"]
-slug = "mariusz-kwiecen"
-title = "Mariusz Kwiecen"
-website = "http://www.mariuszkwiecien.com/"
-+++
+---
+_template: people_single
+date: "2015-09-30T09:17:00-04:00"
+discipline: Baritone
+lastmod: "2015-09-30T09:17:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443618792765/Mariusz.jpg.jpg
+primary_image_credit: 'Photo: Mikolaj Mikolajczyk'
+publishDate: "2015-09-30T09:17:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/royal-opera-house.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: mariusz-kwiecen
+title: Mariusz Kwiecen
+website: http://www.mariuszkwiecien.com/
+cms_visible: true
+---
 
 Mariusz Kwiecien is recognized worldwide as one of the leading baritones before the public today. Known for his handsome voice, incisive musicianship and captivating stage presence, he performs with the Metropolitan Opera, Covent Garden, Paris Opera, Vienna State Opera, Lyric Opera of Chicago and Bavarian State Opera, and with many other renowned theaters around the world. He is in demand for his portrayals of the title role in *Don Giovanni*, *King Roger*, and *Eugene Onegin*, as well as for Almaviva in *Le nozze di Figaro*, Malatesta in *Don Pasquale*, Riccardo in *I puritani*, and Rodrigo di Posa in *Don Carlo*.
 

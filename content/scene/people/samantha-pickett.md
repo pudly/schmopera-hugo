@@ -1,26 +1,30 @@
-+++
-date = "2015-10-07T09:47:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-10-07T09:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444225602778/Sam.jpg.jpg"
-publishDate = "2015-10-07T09:47:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/opera-mcgill.md","scene/companies/the-banff-centre.md","scene/companies/canadian-opera-company.md"]
-slug = "samantha-pickett"
-title = "Samantha Pickett"
-website = "http://www.samanthapickett.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/samopicks"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/SamoSoprano"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCoHtBMAQaOnRu0AUl8yhKJQ"
-+++
+---
+date: "2015-10-07T09:47:00-04:00"
+discipline: Soprano
+lastmod: "2015-10-07T09:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1444225602778/Sam.jpg.jpg
+publishDate: "2015-10-07T09:47:00-04:00"
+related_companies:
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/opera-mcgill.md
+- scene/companies/the-banff-centre.md
+- scene/companies/canadian-opera-company.md
+slug: samantha-pickett
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/samopicks
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/SamoSoprano
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCoHtBMAQaOnRu0AUl8yhKJQ
+title: Samantha Pickett
+website: http://www.samanthapickett.com/
+cms_visible: true
+---
 
 Soprano Samantha Pickett is from Kitchener, Ontario and is a recent Masters of Opera and Voice graduate at McGill University (Montreal, QC) under Professor Sanford Sylvan. Miss Pickett is an alumna of Wilfrid Laurier University (Waterloo, ON), where she earned a Bachelor's of Voice Performance (2012) and Opera Diploma (2013), studying with Kimberly Barber. 
 

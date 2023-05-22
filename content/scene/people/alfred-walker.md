@@ -1,14 +1,28 @@
-+++
-date = "2017-09-05T14:53:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2017-09-05T14:53:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504637257318/Alfred%2520Walker%2520Square_o.jpg.jpg"
-primary_image_credit = "Walter Hill"
-publishDate = "2017-09-05T14:53:00-04:00"
-related_companies = ["scene/companies/san-francisco-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/seattle-opera.md","scene/companies/deutsche-oper-berlin.md","scene/companies/teatro-alla-scala.md","scene/companies/los-angeles-opera.md","scene/companies/the-atlanta-opera.md","scene/companies/minnesota-opera.md","scene/companies/utah-opera.md","scene/companies/opera-north.md","scene/companies/san-diego-opera.md","scene/companies/toronto-symphony-orchestra.md"]
-slug = "alfred-walker"
-title = "Alfred Walker"
-+++
+---
+_template: people_single
+date: "2017-09-05T14:53:00-04:00"
+discipline: Bass-baritone
+lastmod: "2017-09-05T14:53:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504637257318/Alfred%2520Walker%2520Square_o.jpg.jpg
+primary_image_credit: Walter Hill
+publishDate: "2017-09-05T14:53:00-04:00"
+related_companies:
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/the-atlanta-opera.md
+- scene/companies/minnesota-opera.md
+- scene/companies/utah-opera.md
+- scene/companies/opera-north.md
+- scene/companies/san-diego-opera.md
+- scene/companies/toronto-symphony-orchestra.md
+slug: alfred-walker
+title: Alfred Walker
+cms_visible: true
+---
 
 Lauded by Opera News for his “inky bass-baritone and clear projection seemed ideally suited to the role, capturing this isolated man's passion with telling grief,” Alfred Walker returns to San Francisco Opera for Orest in *Elektra*, and to the Metropolitan Opera for Titurel in *Parisfal* and the Speaker in *The Magic Flute* in the 2017-18 season. He also joins Seattle Opera for Amonasro in *Aida* and Porgy in *Porgy and Bess*, and Portland Opera for Méphistophélès in *Faust*. Concert performances include excerpts from *Parsifal* with the Baltimore Symphony, Verdi’s *Requiem* with the Sun Valley Summer Symphony, and Beethoven’s Symphony No. 9 with the Orchestra Now. Last season he sang his first performances of Wotan in *Das Rheingold* with North Carolina Opera and Méphistophélès in Berlioz’s *La damnation du Faust* at the Teatro Municipal de Santiago as well as created the title role of Josh Gibson in the world premiere of Sonenberg’s *The Player King* with Pittsburgh Opera. He also sang Porgy in *Porgy and Bess* in his debut with the Sydney Symphony, and Beethoven’s Symphony No. 9 with the Phoenix Symphony. 
 

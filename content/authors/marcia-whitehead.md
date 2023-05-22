@@ -1,16 +1,20 @@
-+++
-email = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1609881261/media/2021/01/marcia_whitehead_headshot5_afhmon.jpg"
-short_bio = "\"I sing. I write. I overthink. That’s about it.\"  Marcia Whitehead is a singer, writer and survivor of one woman show with a plot twist she didn't see coming. A vocal detour landed her the leading role of Patient and Soul Searcher as she worked her way through seven years of doctors and procedures, yoga mats and side hustles until she finally woke up to a new voice and a new mission: Help the singers. And repeat."
-slug = "marcia-whitehead"
-title = "Marcia Whitehead"
-website = ""
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/SingersStoryForum/"
-
-+++
+---
+email: ""
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1609881261/media/2021/01/marcia_whitehead_headshot5_afhmon.jpg
+short_bio: '"I sing. I write. I overthink. That’s about it."  Marcia Whitehead is
+  a singer, writer and survivor of one woman show with a plot twist she didn''t see
+  coming. A vocal detour landed her the leading role of Patient and Soul Searcher
+  as she worked her way through seven years of doctors and procedures, yoga mats and
+  side hustles until she finally woke up to a new voice and a new mission: Help the
+  singers. And repeat.'
+slug: marcia-whitehead
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/SingersStoryForum/
+title: Marcia Whitehead
+website: ""
+---
 "I sing. I write. I overthink. That’s about it."
 
 Marcia Whitehead is a singer, writer and survivor of one woman show with a plot twist she didn't see coming. A vocal detour landed her the leading role of Patient and Soul Searcher as she worked her way through seven years of doctors and procedures, yoga mats and side hustles until she finally woke up to a new voice and a new mission: Help the singers. And repeat.

@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-06-19T16:57:00-06:00"
-lastmod = "2016-06-22T11:16:00-06:00"
-preamble = "Canadian composer [Jeff Smallman](http://www.jeffsmallman.com/)'s chamber opera, [*Pat & Emilia*](http://patandemilia.wix.com/opera), tells a story that cuts to the quick about the lives of artists. Based on the lives of photographer Pat Sturn and opera singer Emilia Cundari, both from Windsor, Ontario, *Pat & Emilia* is the story of two women who make decisions about their artistic careers, and how they find balance between their work and their family life. Pat turned down a marriage proposal in order to focus on her career, while Emilia chose her family over her singing.\n\nThe choice isn't always binary, and we've met plenty of singers who refuse to make an \"either/or\" decision about work and family. Still, it's one of the biggest points of crisis for a working artist, and there's something fascinating and meta about how Smallman's opera, and the singers in it, unpack this familiar story. We had the chance to ask Smallman about the positive reception of *Pat & Emilia*, and what he and the creative team learned from its creation."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466379204824/2016-06-20---Pat-and-Emila-Opera-EVENT-POSTER.jpg.jpg"
-publishDate = "2016-06-21T20:08:00-06:00"
-related_articles = ["articles/childfree-opera-singers-happiness.md","articles/arianna-zukerman-youve-got-to-live-your-truth.md"]
-short_description = "The choice isn&#039;t always binary, and we&#039;ve met plenty of singers who refuse to make an &quot;either/or&quot; decision about work and family. Still, it&#039;s one of the biggest points of crisis for a working artist, and there&#039;s something fascinating and meta about how Smallman&#039;s opera, and the singers in it, unpack this familiar story."
-slug = "art-imitating-life-pat-emilia"
-title = "Art imitating life: Pat &amp; Emilia"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-06-19T16:57:00-06:00"
+lastmod: "2016-06-22T11:16:00-06:00"
+preamble: |-
+  Canadian composer [Jeff Smallman](http://www.jeffsmallman.com/)'s chamber opera, [*Pat & Emilia*](http://patandemilia.wix.com/opera), tells a story that cuts to the quick about the lives of artists. Based on the lives of photographer Pat Sturn and opera singer Emilia Cundari, both from Windsor, Ontario, *Pat & Emilia* is the story of two women who make decisions about their artistic careers, and how they find balance between their work and their family life. Pat turned down a marriage proposal in order to focus on her career, while Emilia chose her family over her singing.
+
+  The choice isn't always binary, and we've met plenty of singers who refuse to make an "either/or" decision about work and family. Still, it's one of the biggest points of crisis for a working artist, and there's something fascinating and meta about how Smallman's opera, and the singers in it, unpack this familiar story. We had the chance to ask Smallman about the positive reception of *Pat & Emilia*, and what he and the creative team learned from its creation.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466379204824/2016-06-20---Pat-and-Emila-Opera-EVENT-POSTER.jpg.jpg
+publishDate: "2016-06-21T20:08:00-06:00"
+related_articles:
+- articles/childfree-opera-singers-happiness.md
+- articles/arianna-zukerman-youve-got-to-live-your-truth.md
+short_description: The choice isn&#039;t always binary, and we&#039;ve met plenty
+  of singers who refuse to make an &quot;either/or&quot; decision about work and family.
+  Still, it&#039;s one of the biggest points of crisis for a working artist, and there&#039;s
+  something fascinating and meta about how Smallman&#039;s opera, and the singers
+  in it, unpack this familiar story.
+slug: art-imitating-life-pat-emilia
+title: 'Art imitating life: Pat &amp; Emilia'
+---
 
 ## Can you tell us about the performance history of *Pat & Emilia*? 
 
@@ -18,7 +28,7 @@ title = "Art imitating life: Pat &amp; Emilia"
 
 The opera was premiered at Willistead Manor in Windsor, ON on March 15, 2015, and then received its US premiere the next day at Marygrove College in Detroit.  Including the premiere, it's been performed 11 times so far, with a good balance between the States and Canada.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466380568300/2016-06-20---pat-n-emilia1.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466380568300/2016-06-20---pat-n-emilia1.jpg.jpg)
 </figure>
 
 ## In writing this opera, what have you discovered about the artist's common challenge of "choosing" career or family?
@@ -27,7 +37,7 @@ That it really is a common challenge!  I know it's not the only one, but making 
 
 Finding a balance between career and family can be tricky.  As a composer, I've tried to find the best times for writing that interfered the least with my "family time."  Even then, there have been the inevitable conflicts.  I would think life as a performer would be even harder.  For some (as with Emilia in the opera) the choice can boil down to a "black & white" question of do I want a career OR a family.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466380590142/2016-06-20---Jeff-Smallman.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466380590142/2016-06-20---Jeff-Smallman.jpg.jpg)
 <figcaption>Composer Jeff Smallman.</figcaption>
 </figure>
 
@@ -41,7 +51,7 @@ It's funny.  The original project was to be a song cycle.  The soprano who was b
 
 The other soprano brought in to sing the role of Pat is Jocelyn Zelasko.  She modelled her portrayal of Pat on her own grandmother.  (Sadly, her grandmother passed away immediately before the premiere.  Jocelyn is a trooper, though, and did an amazing job of performing!)  Jocelyn obviously connected with the character because there have been several people who knew Pat Sturn when she was alive who have commented that they would have believed it was Pat on stage herself.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466380599256/2016-06-20---Pat-n-Emilia2.jpg.jpg)
+<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466380599256/2016-06-20---Pat-n-Emilia2.jpg.jpg)
 </figure>
 
 ## What kind of reception has the opera had so far?

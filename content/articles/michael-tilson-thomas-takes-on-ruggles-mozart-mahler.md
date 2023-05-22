@@ -1,20 +1,28 @@
-+++
-author = ["authors/john-hohmann.md"]
-categories = "Review"
-date = "2018-06-12T12:26:00-04:00"
-lastmod = "2018-06-12T21:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528820643193/sqCH1278384_Original.jpg.jpg"
-primary_image_credit = "Michael Tilson Thomas. Photo: © 2015 Richard Termine."
-publishDate = "2018-06-12T20:23:00-04:00"
-related_articles = ["articles/why-we-all-love-florence-foster-jenkins.md","articles/musicians-of-the-met-orchestra-days-of-their-lives.md"]
-short_description = "Thomas knew Ruggles as well as anyone could get to know this feisty Yankee, prone to being stubborn, cranky and downright disagreeable. Nonetheless, Thomas championed Ruggles, recording his complete music with the Buffalo Philharmonic and including his works with some frequency on programs in San Francisco."
-slug = "michael-tilson-thomas-takes-on-ruggles-mozart-mahler"
-title = "Michael Tilson Thomas takes on Ruggles: Mozart &amp; Mahler"
-+++
+---
+author:
+- authors/john-hohmann.md
+categories: Review
+date: "2018-06-12T12:26:00-04:00"
+lastmod: "2018-06-12T21:03:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528820643193/sqCH1278384_Original.jpg.jpg
+primary_image_credit: 'Michael Tilson Thomas. Photo: © 2015 Richard Termine.'
+publishDate: "2018-06-12T20:23:00-04:00"
+related_articles:
+- articles/why-we-all-love-florence-foster-jenkins.md
+- articles/musicians-of-the-met-orchestra-days-of-their-lives.md
+short_description: Thomas knew Ruggles as well as anyone could get to know this feisty
+  Yankee, prone to being stubborn, cranky and downright disagreeable. Nonetheless,
+  Thomas championed Ruggles, recording his complete music with the Buffalo Philharmonic
+  and including his works with some frequency on programs in San Francisco.
+slug: michael-tilson-thomas-takes-on-ruggles-mozart-mahler
+title: 'Michael Tilson Thomas takes on Ruggles: Mozart &amp; Mahler'
+---
 
 Michael Tilson Thomas, an effective communicator whether with baton or microphone in hand, opened the final concert of the MET Orchestra's series at Carnegie Hall, with fascinating comments on the American composer, Carl Ruggles, who was both an iconoclastic and remote personality.  Thomas knew Ruggles as well as anyone could get to know this feisty Yankee, prone to being stubborn, cranky and downright disagreeable. Nonetheless, Thomas championed Ruggles, recording his complete music with the Buffalo Philharmonic and including his works with some frequency on programs in San Francisco. Despite his disposition, Ruggles earned the respect of Thomas and many other creative people including composer, Charles Ives and the artist, Thomas Hart Benton, who painted his portrait.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528820708235/36-4_Benton-SunTreader_front.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528820708235/36-4_Benton-SunTreader_front.jpg.jpg)
 <figcaption>Thomas Hart Benton, American (1889-1975). *The Sun Treader (Portrait of Carl Ruggles)*, ca. 1934. Tempera with oil on canvas, mounted on panel, 45 x 38 inches (114.3 x 96.5 cm). The Nelson-Atkins Museum of Art, Kansas City, Missouri. Gift of the Friends of Art, 36-4. Photo courtesy Nelson-Atkins Media Services / Jamison Miller. Art © Thomas Hart Benton and Rita P. Benton Testamentary Trusts/UMB Bank Trustee/Licensed by VAGA, New York, NY.</figcaption>
 </figure>
 
@@ -22,7 +30,9 @@ Having set the scene for a discerning audience, it was instructive and genuinely
 
 This thunderous and essential work was followed with an short interval when the orchestra shuffled itself and materialized, reduced in size, ready to take on Mozart's soaring *Exsultate, jubilate*, featuring the brilliant young coloratura, [Pretty Yende](/scene/people/pretty-yende/). With its crisp strings, bright woodwinds and Tilson's brisk pacing, one could be forgiven for thinking that the orchestra was playing on 18th-century instruments. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528820698698/CH1346822_Original.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1528820698698/CH1346822_Original.jpg.jpg)
 <figcaption>Pretty Yende, soprano. Photo: Gregor Hohenberg.</figcaption>
 </figure>
 

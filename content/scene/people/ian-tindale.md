@@ -1,13 +1,15 @@
-+++
-date = "2017-09-06T21:30:00-04:00"
-discipline = "Pianist"
-lastmod = "2017-09-06T21:30:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504747742562/image.jpg.jpg"
-publishDate = "2017-09-06T21:30:00-04:00"
-slug = "ian-tindale"
-title = "Ian Tindale"
-website = "https://www.iantindale.com/"
-+++
+---
+_template: people_single
+date: "2017-09-06T21:30:00-04:00"
+discipline: Pianist
+lastmod: "2017-09-06T21:30:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1504747742562/image.jpg.jpg
+publishDate: "2017-09-06T21:30:00-04:00"
+slug: ian-tindale
+title: Ian Tindale
+website: https://www.iantindale.com/
+cms_visible: true
+---
 
 Ian Tindale is a prize-winning piano accompanist, répétiteur, organist, harpsichordist and orchestral keyboard player. Ian was awarded the Help Musicians UK Accompanist's Prize in the Kathleen Ferrier Awards in April 2015 and the Royal Overseas League Music Competition Accompanist's Prize in June the same year, following performances on both occasions with soprano Soraya Mafi. Previously Ian had been named winner of the Gerald Moore Award, the Help Musicians UK Accompanist’s Prize in the Maggie Teyte Competition, and the Association of English Singers and Speakers Accompanist’s Prize (Courtney Kenny Competition).
  

@@ -1,27 +1,32 @@
-+++
-date = "2017-09-10T12:37:00-04:00"
-lastmod = "2017-09-10T12:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1594146683/media/2020/07/Logo-AOP_oxzljd.jpg"
-publishDate = "2017-09-10T12:37:00-04:00"
-related_people = ["scene/people/david-cote.md", "scene/people/jorell-williams.md", "scene/people/jordan-rutter.md", "scene/people/david-lang.md", "scene/people/dominic-armstrong.md", "scene/people/blythe-gaissert.md"]
-slug = "american-opera-projects"
-title = "The American Opera Project"
-type_of_company = "Opera Company"
-website = "http://aopopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/aopopera"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/AOPopera"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/AmericanOperaProject"
-
-+++
+---
+date: "2017-09-10T12:37:00-04:00"
+lastmod: "2017-09-10T12:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1594146683/media/2020/07/Logo-AOP_oxzljd.jpg
+publishDate: "2017-09-10T12:37:00-04:00"
+related_people:
+- scene/people/david-cote.md
+- scene/people/jorell-williams.md
+- scene/people/jordan-rutter.md
+- scene/people/david-lang.md
+- scene/people/dominic-armstrong.md
+- scene/people/blythe-gaissert.md
+slug: american-opera-projects
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/aopopera
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/AOPopera
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/AmericanOperaProject
+title: The American Opera Project
+type_of_company: Opera Company
+website: http://aopopera.org/
+cms_visible: true
+---
 ### MISSION
 
 AOP’s mission is to develop and present new and innovative works of lyric theater, provide a creative home to emerging and established artists, and engage contemporary communities in a transformative operatic experience.

@@ -1,27 +1,41 @@
-+++
-date = "2015-07-24T12:12:00-04:00"
-discipline = "Tenor, Artistic Director, Highlands Opera Studio"
-lastmod = "2015-07-24T12:15:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437753936712/Richard-MargisonResized.jpg.jpg"
-primary_image_credit = "Sterling Photography"
-publishDate = "2015-07-24T12:15:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/teatro-alla-scala.md","scene/companies/manitoba-opera.md","scene/companies/pacific-opera-victoria.md","scene/companies/canadian-opera-company.md","scene/companies/opra-de-qubec.md","scene/companies/highlands-opera-studio.md","scene/companies/royal-opera-house.md","scene/companies/san-francisco-opera.md","scene/companies/edmonton-opera.md","scene/companies/vancouver-opera.md","scene/companies/staatsoper-berlin.md","scene/companies/lopra-de-montral.md","scene/companies/toronto-symphony-orchestra.md"]
-slug = "richard-margison"
-title = "Richard Margison"
-website = "http://www.richardmargison.com/about/index.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/richard.margison.5"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/highlandsopera"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/RichardMargisonTenor"
-+++
+---
+date: "2015-07-24T12:12:00-04:00"
+discipline: Tenor, Artistic Director, Highlands Opera Studio
+lastmod: "2015-07-24T12:15:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1437753936712/Richard-MargisonResized.jpg.jpg
+primary_image_credit: Sterling Photography
+publishDate: "2015-07-24T12:15:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/manitoba-opera.md
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/opra-de-qubec.md
+- scene/companies/highlands-opera-studio.md
+- scene/companies/royal-opera-house.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/edmonton-opera.md
+- scene/companies/vancouver-opera.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/toronto-symphony-orchestra.md
+slug: richard-margison
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/richard.margison.5
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/highlandsopera
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/RichardMargisonTenor
+title: Richard Margison
+website: http://www.richardmargison.com/about/index.html
+cms_visible: true
+---
 
 Hailed for his ringing top notes and spine-tingling power, Canadian tenor Richard Margison is one of the most critically acclaimed singers on the international stage today. He performs regularly in many of the world’s leading opera houses including the Metropolitan Opera, La Scala, the Canadian Opera Company, the Royal Opera House, Covent Garden, the San Francisco Opera, the Théâtre Royale de la Monnaie in Brussels, the Sydney Opera and the Grand Teatro del Liceu in Barcelona.
 

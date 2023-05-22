@@ -1,13 +1,18 @@
-+++
-date = "2016-09-29T10:56:00+01:00"
-discipline = "Conductor, pianist"
-lastmod = "2016-09-29T10:56:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475142913310/2016-09-28---Fletcher-Nick.jpg.jpg"
-publishDate = "2016-09-29T10:56:00+01:00"
-related_companies = ["scene/companies/royal-opera-house.md","scene/companies/scottish-opera.md","scene/companies/welsh-national-opera.md"]
-slug = "nick-fletcher"
-title = "Nick Fletcher"
-+++
+---
+_template: people_single
+date: "2016-09-29T10:56:00+01:00"
+discipline: Conductor, pianist
+lastmod: "2016-09-29T10:56:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475142913310/2016-09-28---Fletcher-Nick.jpg.jpg
+publishDate: "2016-09-29T10:56:00+01:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/scottish-opera.md
+- scene/companies/welsh-national-opera.md
+slug: nick-fletcher
+title: Nick Fletcher
+cms_visible: true
+---
 
 British répétiteur and conductor Nick Fletcher joins the Jette Parker Young Artists Programme from the start of the 2016/17 Season as Associate Répétiteur. In his first Season he plays the continuo for *Oreste* and joins the music staff for *Der Rosenkavalier*, *Written on Skin*, *Don Carlo*, *La traviata*, *Mitridate, re di Ponto* and the Young Artists’ Summer Performance.
 

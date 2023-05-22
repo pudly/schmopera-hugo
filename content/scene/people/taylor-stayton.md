@@ -1,18 +1,30 @@
-+++
-date = "2018-04-30T21:21:00-04:00"
-discipline = "Tenor"
-lastmod = "2018-04-30T21:21:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525137494175/IMG_1940.jpg.jpg"
-publishDate = "2018-04-30T21:21:00-04:00"
-related_companies = ["scene/companies/washington-national-opera.md","scene/companies/des-moines-metro-opera.md","scene/companies/arizona-opera.md","scene/companies/the-metropolitan-opera.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/deutsche-oper-berlin.md","scene/companies/glyndebourne.md","scene/companies/opera-philadelphia.md","scene/companies/royal-opera-house.md","scene/companies/lyric-opera-of-kansas-city.md"]
-slug = "taylor-stayton"
-title = "Taylor Stayton"
-website = "https://www.taylorstayton.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/taylorstaytontenor/"
-+++
+---
+date: "2018-04-30T21:21:00-04:00"
+discipline: Tenor
+lastmod: "2018-04-30T21:21:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1525137494175/IMG_1940.jpg.jpg
+publishDate: "2018-04-30T21:21:00-04:00"
+related_companies:
+- scene/companies/washington-national-opera.md
+- scene/companies/des-moines-metro-opera.md
+- scene/companies/arizona-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/glyndebourne.md
+- scene/companies/opera-philadelphia.md
+- scene/companies/royal-opera-house.md
+- scene/companies/lyric-opera-of-kansas-city.md
+slug: taylor-stayton
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/taylorstaytontenor/
+title: Taylor Stayton
+website: https://www.taylorstayton.com/
+cms_visible: true
+---
 
 Taylor Stayton's "laser-bright timbre" and "exceptional fluidity above the staff" (Opera News) continue to distinguish him as one of the most sought-after tenors in his repertoire. To begin the 2017-2018 season, Stayton made his debut at the Gran Teatre del Liceu in the role of Belfiore in Rossini's *Viaggio a Reims*. Of his contribution to the production, Opera Travel hailed his "extremely impressive performance," and his signature "superb control in shading at the very top." Later this season, he will return to the Metropolitan Opera in the fall, debuting in the role of Camille de Rosillon in Susan Stroman's production of *The Merry Widow*, conducted by War Stare. This season will also see Stayton bring his acclaimed interpretation of Count Almaviva in Rossini's *Il Barbiere di Siviglia* to yet two more company debuts with the Arizona Opera, and the Washington National Opera. With one more company debut awaiting him in the 2017-2018, Stayton will reprise the role of Fenton in Verdi's *Falstaff* in his first performances with Opera Omaha. Stayton then returns to the Des Moines Metro Opera to close out the season in debut performances of Alfred in Strauss' *Die Fledermaus*.
 

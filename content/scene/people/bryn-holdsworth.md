@@ -1,19 +1,21 @@
-+++
-date = "2017-09-29T18:59:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-09-29T18:59:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546740926/media/2019/01/BrynHoldsworth.jpg"
-publishDate = "2017-09-29T18:59:00-04:00"
-related_companies = ["scene/companies/the-atlanta-opera.md"]
-slug = "bryn-holdsworth"
-title = "Bryn Holdsworth"
-website = "https://www.brynholdsworth.com/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/channel/UCshi43X3Ar6gNNExfRJmKRw"
-
-+++
+---
+date: "2017-09-29T18:59:00-04:00"
+discipline: Soprano
+lastmod: "2017-09-29T18:59:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1546740926/media/2019/01/BrynHoldsworth.jpg
+publishDate: "2017-09-29T18:59:00-04:00"
+related_companies:
+- scene/companies/the-atlanta-opera.md
+slug: bryn-holdsworth
+social_media:
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/channel/UCshi43X3Ar6gNNExfRJmKRw
+title: Bryn Holdsworth
+website: https://www.brynholdsworth.com/
+cms_visible: true
+---
 Praised by the New York Times for her "limpid-tone, articulate soprano", Bryn Holdsworth is already garnering attention on stages throughout the country.
 
 This summer, Ms. Holdsworth joined the Glimmerglass Festival singing Vixen (cover) in _The Cunning Little Vixen_ and Bard 2 in Francesca Zambello's original production of a new youth opera by Ben Moore, _Odyssey_. 

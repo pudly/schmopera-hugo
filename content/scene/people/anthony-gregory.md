@@ -1,17 +1,19 @@
-+++
-date = "2016-08-19T10:23:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-08-19T10:23:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471598597391/2016-08-19---Anthony-Gregory-Natalie-J-Watts.jpg.jpg"
-primary_image_credit = "Natalie J. Watts"
-publishDate = "2016-08-19T10:23:00+01:00"
-slug = "anthony-gregory"
-title = "Anthony Gregory"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/ajgregory_tenor"
-+++
+---
+date: "2016-08-19T10:23:00+01:00"
+discipline: Tenor
+lastmod: "2016-08-19T10:23:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471598597391/2016-08-19---Anthony-Gregory-Natalie-J-Watts.jpg.jpg
+primary_image_credit: Natalie J. Watts
+publishDate: "2016-08-19T10:23:00+01:00"
+slug: anthony-gregory
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/ajgregory_tenor
+title: Anthony Gregory
+cms_visible: true
+---
 
 Currently a Harewood Artist at English National Opera, he was a Jerwood Young Artist for 2010 at Glyndebourne and a trainee of the prestigious National Opera Studio in 2011/12.
 

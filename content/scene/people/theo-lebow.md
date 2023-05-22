@@ -1,15 +1,23 @@
-+++
-date = "2019-03-03T17:55:15+00:00"
-discipline = "Tenor"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1551635697/media/2019/03/TheoLebow.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/odyssey-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/merola-opera-program.md", "scene/companies/san-francisco-opera.md", "scene/companies/the-santa-fe-opera.md", "scene/companies/seattle-opera.md", "scene/companies/oper-frankfurt.md"]
-slug = "theo-lebow"
-social_media = []
-title = "Theo Lebow"
-website = ""
-
-+++
+---
+_template: people_single
+date: "2019-03-03T17:55:15+00:00"
+discipline: Tenor
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1551635697/media/2019/03/TheoLebow.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/odyssey-opera.md
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/merola-opera-program.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-santa-fe-opera.md
+- scene/companies/seattle-opera.md
+- scene/companies/oper-frankfurt.md
+slug: theo-lebow
+social_media: []
+title: Theo Lebow
+website: ""
+cms_visible: true
+---
 Currently based at Frankfurt Opera and with an active career in both North America and Europe, Theo Lebow continues to solidify his reputation as one of the finest young lyric tenors on international stages. His performances reveal exceptional intelligence and musical understanding along with dramatic skill, to complement his technical finesse and beautiful sound. These qualities have enabled him to build a remarkably diverse repertoire from Baroque to contemporary.
 
 A Los Angeles native, now entering his third season as a member of the ensemble at Frankfurt Opera, Theo’s experience there has ranged from Tamino in Mozart’s _Die Zauberflöte_, and Tom Rakewell in Stravinsky’s _TheRake’s Progress_, to the taxing tenor role of Massimo in Gluck’s _Ezio_ (“Theo Lebow is a find as Massimo… his voice has the sound of an heroic Italianate tenor but on a smaller scale well-suited to Baroque opera…” _Stage Door)_

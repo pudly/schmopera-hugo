@@ -1,18 +1,25 @@
-+++
-date = "2015-04-07T16:01:00-04:00"
-discipline = "Tenor"
-lastmod = "2015-04-07T16:05:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436751849/CangelosiHeadshot.jpg.jpg"
-publishDate = "2015-04-07T16:01:00-04:00"
-related_companies = ["scene/companies/lyric-opera-of-chicago.md","scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/san-francisco-opera.md","scene/companies/the-santa-fe-opera.md"]
-slug = "david-cangelosi"
-title = "David Cangelosi"
-website = "http://www.davidcangelosi.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/davidcangelosi"
-+++
+---
+date: "2015-04-07T16:01:00-04:00"
+discipline: Tenor
+lastmod: "2015-04-07T16:05:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428436751849/CangelosiHeadshot.jpg.jpg
+publishDate: "2015-04-07T16:01:00-04:00"
+related_companies:
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-santa-fe-opera.md
+slug: david-cangelosi
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/davidcangelosi
+title: David Cangelosi
+website: http://www.davidcangelosi.com/
+cms_visible: true
+---
 
 <p>
 	David Cangelosi has firmly established himself as an artist who combines both excellent singing and winning characterizations. He is highly acclaimed by all major opera companies and symphony orchestras in the U.S. and abroad. In 2004, Mr. Cangelosi made his Metropolitan Opera debut as Mime in <em>Das Rheingold</em>, conducted by James Levine, and returned in recent seasons for performances of Incredibile in<em> Andrea Chenier</em>, Tinca in <em>Il Tabarro, </em>and Nathanael/Spalanzani in <em>Les Contes d'Hoffmann</em>. Other roles at the Metropolitan Opera include Basilio (<em>Marriage of Figaro</em>), Goro (<em>Madame Butterfly</em>), and Spoletta (<em>Tosca</em>)<em></em>. He returned to San Francisco Opera in 2011 to sing Mime in<em></em> <em>Siegfried </em>and <em>Das Rheingold </em>in a new production of <em>Der Ring des Nibelungen, </em>along with his role debut of Shuisky (<em>Boris Godunov</em>) for Dallas Opera. In 2009, Mr. Cangelosi sang Bob Boles (<em>Peter Grimes)</em>, and Bardolpho (<em>Falstaff</em>) with Washington Opera. A former member of the Lyric Opera Center for American Artists, Mr. Cangelosi made his Lyric Opera of Chicago debut in <em>Salome</em> in 1997. Engagements with the home company have included<em> Madame Butterfly</em>, <em>Ariadne auf Naxos,</em> <em>Die Zauberflöte</em>, <em>Carmen</em> (Dancairo), <em>Turandot</em>, and his internationally acclaimed signature role of Mime (<em>Siegfried</em>). He returned to the Lyric Opera of Chicago in recent seasons to sing Nick in <em>La Fanciulla del West</em>, Dr. Caius in <em>Falstaff</em>, Guillot (<em>Manon</em>), and Goro (<em>Madame Butterfly</em>).

@@ -1,17 +1,30 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Review"
-date = "2016-12-07T10:46:00+00:00"
-lastmod = "2016-12-07T11:33:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481107373188/2016-12-7---Scenes-from-the-End--Heloise-Werner-Square.jpg.jpg"
-primary_image_credit = "Héloïse Werner in Scenes from the End, 2016. Photo by Nick Rutter."
-publishDate = "2016-12-07T11:33:00+00:00"
-related_articles = ["articles/talking-with-singers-heloise-werner.md","articles/in-review-bluebeards-castle-erwartung.md","articles/in-review-death-desire.md","articles/in-review-the-reimagined-winters-tale.md","articles/4-shows-to-perk-up-the-postholiday-blues.md","articles/dont-miss-the-other-side-of-the-sea.md"]
-related_people = ["scene/people/heloise-werner.md"]
-short_description = "&quot;Over the past few years, I have experienced grief. It&#039;s impossible to rationally &#039;describe&#039; your experience of grief because death is absurd,&quot; writes Werner in her performer&#039;s notes. &quot;When you lose someone, you find yourself surrounded by people who never talk to you about it - not in person anyway - because they simply can&#039;t. Or, if they think they can, it quickly becomes unhelpful and patronising, in a weird sort of way.&quot;"
-slug = "in-review-scenes-from-the-end"
-title = "In review: Scenes from the End"
-+++
+---
+author:
+- authors/jenna.md
+categories: Review
+date: "2016-12-07T10:46:00+00:00"
+lastmod: "2016-12-07T11:33:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481107373188/2016-12-7---Scenes-from-the-End--Heloise-Werner-Square.jpg.jpg
+primary_image_credit: Héloïse Werner in Scenes from the End, 2016. Photo by Nick Rutter.
+publishDate: "2016-12-07T11:33:00+00:00"
+related_articles:
+- articles/talking-with-singers-heloise-werner.md
+- articles/in-review-bluebeards-castle-erwartung.md
+- articles/in-review-death-desire.md
+- articles/in-review-the-reimagined-winters-tale.md
+- articles/4-shows-to-perk-up-the-postholiday-blues.md
+- articles/dont-miss-the-other-side-of-the-sea.md
+related_people:
+- scene/people/heloise-werner.md
+short_description: '&quot;Over the past few years, I have experienced grief. It&#039;s
+  impossible to rationally &#039;describe&#039; your experience of grief because death
+  is absurd,&quot; writes Werner in her performer&#039;s notes. &quot;When you lose
+  someone, you find yourself surrounded by people who never talk to you about it -
+  not in person anyway - because they simply can&#039;t. Or, if they think they can,
+  it quickly becomes unhelpful and patronising, in a weird sort of way.&quot;'
+slug: in-review-scenes-from-the-end
+title: 'In review: Scenes from the End'
+---
 
 Watching Héloïse Werner perform *Scenes from the End*, a one-woman opera composed by Jonathan Woolgar and brilliantly directed by Emily Burns, was something we'd been anticipating for some time now. After going up at the Camden and Edinburgh Fringe Festivals, [*Scenes from the End*](https://www.tristanbatestheatre.co.uk/whats-on/scenes-from-the-end) has kicked off its London run, playing at the [Tristan Bates Theatre until December 10.](https://www.tristanbatestheatre.co.uk/whats-on/scenes-from-the-end)
 

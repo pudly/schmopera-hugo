@@ -1,19 +1,24 @@
-+++
-date = "2016-12-21T02:45:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-03-15T12:08:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482287859684/2016-12-20---Amanda-Forsythe.jpg.jpg"
-primary_image_credit = "Arielle Doneson"
-publishDate = "2016-12-21T02:46:00+00:00"
-related_companies = ["scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md"]
-slug = "amanda-forsythe"
-title = "Amanda Forsythe"
-website = "http://www.amandaforsythe.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/amandaforsythesoprano/?fref=ts"
-+++
+---
+date: "2016-12-21T02:45:00+00:00"
+discipline: Soprano
+lastmod: "2017-03-15T12:08:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1482287859684/2016-12-20---Amanda-Forsythe.jpg.jpg
+primary_image_credit: Arielle Doneson
+publishDate: "2016-12-21T02:46:00+00:00"
+related_companies:
+- scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+slug: amanda-forsythe
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/amandaforsythesoprano/?fref=ts
+title: Amanda Forsythe
+website: http://www.amandaforsythe.com/
+cms_visible: true
+---
 
 The American soprano Amanda Forsythe sings Euridice on the recording of Charpentier’s *La descente d'Orphée aux enfers* with Boston Early Music Festival which won the 2015 GRAMMY AWARD for Best Opera Recording.  She has been praised by Opera News for her “light and luster", “wonderful agility and silvery top notes”.  She was a winner of the George London Foundation Awards and was sponsored by them in her New York recital début.  She also received prizes from the Liederkranz Foundation and the Walter W. Naumburg Foundation.
 

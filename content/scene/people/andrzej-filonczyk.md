@@ -1,13 +1,17 @@
-+++
-date = "2018-01-16T19:49:00-05:00"
-discipline = "Baritone"
-lastmod = "2018-01-16T19:49:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516150072561/4_7-1000x1500.jpg.jpg"
-publishDate = "2018-01-16T19:49:00-05:00"
-related_companies = ["scene/companies/opernhaus-zurich.md","scene/companies/canadian-opera-company.md"]
-slug = "andrzej-filonczyk"
-title = "Andrzej Filończyk"
-+++
+---
+_template: people_single
+date: "2018-01-16T19:49:00-05:00"
+discipline: Baritone
+lastmod: "2018-01-16T19:49:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1516150072561/4_7-1000x1500.jpg.jpg
+publishDate: "2018-01-16T19:49:00-05:00"
+related_companies:
+- scene/companies/opernhaus-zurich.md
+- scene/companies/canadian-opera-company.md
+slug: andrzej-filonczyk
+title: Andrzej Filończyk
+cms_visible: true
+---
 
 He began his studies in piano in 2000 under Zdzisława Rychlewska at the Fryderyk Chopin Music School in Oleśnica. He continued studying the piano at the Ryszard Bukowski Music School in Wrocław where he also began singing lessons under Bogdan Makal. From 2009-2011 he attended the School of Ballet and Dance at the Wrocław Opera. He finished singing studies under Bogan Makal at the Wrocław Academy of Music. Since June 2014 he has been studying at the Academy of Opera at the Grand Theatre National Opera in Warsaw with Eytan Pessen. During season 2016/2017   Andrzej was a member of an International Opera Studio in Zurich Opera House. He has had many successes in national and international competitions where he was able to display his distance artistic talents. His most important achievements include: first prize at the International Vocal Competition in Petrovice (Czech Republic July 2013), first place in the Barbara Kostrzewska V National Vocal Competition in Rzeszów (Poland November 2013), Grand Prix, first place and the award for best performance of a Polish aria at the XIII National Vocal Competition in Wrocław (Poland April 2014), first place and award for best performance of Polish song in the Krystyna Jamroz VI National Vocal Competition in Kielce (Poland April 2014), Grand Prix, first place, award for best performance of the songs of the twentieth century and Czech Radio award in the Bohuslav Martinu International Vocal Competitio in Prague (Czech Republic October 2014). He won first price and award for the best polish voice in the Stanisław Moniuszko International Vocal Competition in Warsaw (Poland May 2016).
 

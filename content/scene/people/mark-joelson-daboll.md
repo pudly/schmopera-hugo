@@ -1,25 +1,25 @@
-+++
-date = "2015-12-10T19:39:00-05:00"
-discipline = "Baritone, voice teacher"
-lastmod = "2015-12-10T19:39:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449794325875/71982_photo.jpg.jpg"
-publishDate = "2015-12-10T19:39:00-05:00"
-slug = "mark-joelson-daboll"
-title = "Mark Joelson Daboll"
-website = "http://markjoelson.com/index.html"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/PleaseJudgeMe/?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/_PleaseJudgeMe"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/PleaseJudgeMeMJ"
-+++
+---
+date: "2015-12-10T19:39:00-05:00"
+discipline: Baritone, voice teacher
+lastmod: "2015-12-10T19:39:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1449794325875/71982_photo.jpg.jpg
+publishDate: "2015-12-10T19:39:00-05:00"
+slug: mark-joelson-daboll
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/PleaseJudgeMe/?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/_PleaseJudgeMe
+- _template: people_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/PleaseJudgeMeMJ
+title: Mark Joelson Daboll
+website: http://markjoelson.com/index.html
+cms_visible: true
+---
 
 Mark Joelson Daboll is a music educator and vocal diagnostician. He is also an academically trained vocal coach and professional baritone of classical, cabaret, and music theatre repertoire. His Toronto voice studio specializes in diagnosis and correction of vocal problems, growth and maturation of the voice, and the application of cutting-edge science to perform at the highest level on stage, at the podium, and in the boardroom.  In addition to his private teaching schedule, Mark currently teaches applied voice and graduate vocal pedagogy part-time at the Faculty of Music, University of Toronto.
  

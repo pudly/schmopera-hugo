@@ -1,23 +1,25 @@
-+++
-date = "2017-05-21T17:43:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-05-21T17:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495402898112/corrine-byrne-soprano_orig.jpg.jpg"
-primary_image_credit = "Jessica Osber"
-publishDate = "2017-05-21T17:43:00-04:00"
-related_companies = ["scene/companies/brooklyn-academy-of-music.md"]
-slug = "corrine-byrne"
-title = "Corrine Byrne"
-website = "http://www.corrinebyrne.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/CorrineCByrne"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/corrine_byrne"
-+++
+---
+date: "2017-05-21T17:43:00-04:00"
+discipline: Soprano
+lastmod: "2017-05-21T17:44:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1495402898112/corrine-byrne-soprano_orig.jpg.jpg
+primary_image_credit: Jessica Osber
+publishDate: "2017-05-21T17:43:00-04:00"
+related_companies:
+- scene/companies/brooklyn-academy-of-music.md
+slug: corrine-byrne
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/CorrineCByrne
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/corrine_byrne
+title: Corrine Byrne
+website: http://www.corrinebyrne.com/
+cms_visible: true
+---
 
 Hailed for her "beautiful vocal timbre" (Classical Singer Magazine Competition) , "infectious enthusiasm" (Westchester Oratorio Society), and versatility, New York-based soprano Corrine Byrne has quickly become a sought-after soprano and  interpreter of repertoire from the Medieval to the Baroque era, and music by today's most daring contemporary composers. Byrne's most recent roles include Anna I in *Die Todsünden* by Kurt Weill at the Staller Center for the Arts and the Renee  Weiler Recital Hall, Lady Madeline in *The Fall of The House of Usher* by Felix Jarrar at Marlboro College and The DiMenna Center, Doctor in the workshop previews of *The Scarlet Professor* by Eric Sawyer, Cathy in *The Last Five Years* by Jason Robert Brown at the Staller Center for the Arts and the National Opera Center, the cover for the title role in the North American premiere of Handel's *Almira* with Boston Early Music Festival, Gretel in *Hansel and Gretel* with Stony Brook Opera, and Anima in Hildegard von Bingen's *Ordo Virtutum* with Ensemble Musica Humana. In August of 2014 Byrne was one of 40 soloists in a rare performance of Luciano Berio's major work "Coro" under Berlin Philharmonic conductor Sir Simon Rattle with the Lucerne Festival Academy Orchestra in Lucerne, Switzerland. She has also appeared with the REBEL Baroque Ensemble, One World Symphony, Manhattan School of Music Symphony Orchestra, Plymouth Philharmonic Orchestra, New York Session Symphony, Westchester Oratorio Society, the UMass Bach Festival and Symposium, New Music Miami, Amherst Symphony, and the Carnegie Hall Chamber Chorus with the Tallis Scholars as part of Carnegie Hall's Before Bach series. Byrne also sang with the Lorelei Ensemble for their 2015-2016 season where the group premiered a new arrangement of *love fail* by David Lang at the Isabella Stewart Gardner Museum and also gave a performance at the Trinity Wall Street Twelfth Night Series where Byrne was featured as a soloist in Perotin's "Beata Viscera" which the New York Times praised as "warm, lithe and beautifully blended." 
 

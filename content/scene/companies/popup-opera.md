@@ -1,22 +1,28 @@
-+++
-date = "2017-01-25T13:26:00+00:00"
-lastmod = "2017-01-25T13:26:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485350709914/gv8VZmWi.jpg.jpg"
-publishDate = "2017-01-25T13:26:00+00:00"
-related_people = ["scene/people/flora-mcintosh.md","scene/people/cliff-zammit-stevens.md","scene/people/alice-privett.md","scene/people/andrew-tipple.md","scene/people/richard-immergluck.md"]
-slug = "popup-opera"
-title = "Pop-Up Opera"
-type_of_company = "Touring opera company"
-website = "http://popupopera.co.uk/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/popupopera"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/PopupOperaUK"
-+++
+---
+date: "2017-01-25T13:26:00+00:00"
+lastmod: "2017-01-25T13:26:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1485350709914/gv8VZmWi.jpg.jpg
+publishDate: "2017-01-25T13:26:00+00:00"
+related_people:
+- scene/people/flora-mcintosh.md
+- scene/people/cliff-zammit-stevens.md
+- scene/people/alice-privett.md
+- scene/people/andrew-tipple.md
+- scene/people/richard-immergluck.md
+slug: popup-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/popupopera
+- _template: company_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/PopupOperaUK
+title: Pop-Up Opera
+type_of_company: Touring opera company
+website: http://popupopera.co.uk/
+cms_visible: true
+---
 
 Pop-up Opera is an innovative touring opera company dedicated to making opera enjoyable and inviting, without losing the quality of musical performance. We aim to broaden the appeal of opera and to challenge the way opera is performed, by taking it into unusual spaces and making it fun, fresh and intimate.
 

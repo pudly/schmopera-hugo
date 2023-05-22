@@ -1,21 +1,26 @@
-+++
-date = "2016-12-14T14:26:00+00:00"
-discipline = "Baritone"
-lastmod = "2016-12-14T14:26:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481725459109/KBikFgrx.jpg.jpg"
-publishDate = "2016-12-14T14:26:00+00:00"
-related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/toronto-operetta-theatre.md","scene/companies/myopera.md","scene/companies/indie-opera-to.md"]
-slug = "nicholas-borg"
-title = "Nicholas Borg"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/borgatone"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/borgatone/"
-+++
+---
+date: "2016-12-14T14:26:00+00:00"
+discipline: Baritone
+lastmod: "2016-12-14T14:26:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481725459109/KBikFgrx.jpg.jpg
+publishDate: "2016-12-14T14:26:00+00:00"
+related_companies:
+- scene/companies/university-of-toronto-opera.md
+- scene/companies/toronto-operetta-theatre.md
+- scene/companies/myopera.md
+- scene/companies/indie-opera-to.md
+slug: nicholas-borg
+social_media:
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/borgatone
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/borgatone/
+title: Nicholas Borg
+cms_visible: true
+---
 
 icholas makes his Indie Opera T.O debut in MYOpera’s production of Benjamin Britten’s *The Rape of Lucretia* as Tarquinius. He will also star in the title role of *Eugene Onegin* with the Muskoka Opera Festival.
 

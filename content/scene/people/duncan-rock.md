@@ -1,14 +1,21 @@
-+++
-date = "2016-08-19T10:36:00+01:00"
-discipline = "Baritone"
-lastmod = "2016-08-19T10:36:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471599326507/2016-08-19---Duncan-Rock.jpg.jpg"
-publishDate = "2016-08-19T10:36:00+01:00"
-related_companies = ["scene/companies/glyndebourne.md","scene/companies/welsh-national-opera.md","scene/companies/garsington-opera.md","scene/companies/opera-north.md","scene/companies/english-national-opera.md"]
-slug = "duncan-rock"
-title = "Duncan Rock"
-website = "http://www.duncanrock.co.uk/"
-+++
+---
+_template: people_single
+date: "2016-08-19T10:36:00+01:00"
+discipline: Baritone
+lastmod: "2016-08-19T10:36:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1471599326507/2016-08-19---Duncan-Rock.jpg.jpg
+publishDate: "2016-08-19T10:36:00+01:00"
+related_companies:
+- scene/companies/glyndebourne.md
+- scene/companies/welsh-national-opera.md
+- scene/companies/garsington-opera.md
+- scene/companies/opera-north.md
+- scene/companies/english-national-opera.md
+slug: duncan-rock
+title: Duncan Rock
+website: http://www.duncanrock.co.uk/
+cms_visible: true
+---
 
 Baritone Duncan Rock studied at the Guildhall School of Music and Drama and subsequently at the National Opera Studio.
 

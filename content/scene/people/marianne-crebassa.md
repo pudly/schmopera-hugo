@@ -1,21 +1,28 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569890528/media/2019/10/1R3A2958_Marianne_Crebassa_Simon_Fowler_cpqbvb.jpg"
-primary_image_credit = "Simon Fowler"
-related_companies = ["scene/companies/wiener-staatsoper.md", "scene/companies/staatsoper-berlin.md", "scene/companies/opra-national-de-paris.md", "scene/companies/teatro-alla-scala.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/salzburg-festival.md"]
-slug = "marianne-crebassa"
-title = "Marianne Crebassa"
-website = "http://www.mariannecrebassa.com/"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/mariannecrebassa/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/crebassamarianne"
-
-+++
+---
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569890528/media/2019/10/1R3A2958_Marianne_Crebassa_Simon_Fowler_cpqbvb.jpg
+primary_image_credit: Simon Fowler
+related_companies:
+- scene/companies/wiener-staatsoper.md
+- scene/companies/staatsoper-berlin.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/teatro-alla-scala.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/salzburg-festival.md
+slug: marianne-crebassa
+social_media:
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/mariannecrebassa/
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/crebassamarianne
+title: Marianne Crebassa
+website: http://www.mariannecrebassa.com/
+cms_visible: true
+---
 Marianne Crebassa is confirming her place on the most prestigious world stages, across the opera, concert and recital repertoires.   
 
 Highlights of next season see her Met debut as Cherubino, her return to Chicago as Rosina, her returns to Berlin and Vienna for new productions of _Cosi fan Tutte_ as Dorabella. On the concert stage, she sings Mahler 3 in Paris conducted by Esa-Pekka Salonen and embarks on a European tour in the title role Ariodante.  Additionally she makes her Wigmore Hall recital debut.    

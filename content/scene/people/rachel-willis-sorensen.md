@@ -1,28 +1,37 @@
-+++
-date = "2017-03-20T12:37:00+00:00"
-discipline = "Soprano"
-lastmod = "2017-03-20T20:46:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1573612721/media/2019/11/RachelWillisSorensen-SimonPauly_oxqp5v.jpg"
-primary_image_credit = "Simon Pauly"
-publishDate = "2017-03-20T12:37:00+00:00"
-related_companies = ["scene/companies/bayerische-staatsoper.md", "scene/companies/opernhaus-zurich.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/san-francisco-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/royal-opera-house.md", "scene/companies/opernhaus-zurich.md", "scene/companies/houston-grand-opera.md", "scene/companies/semperoper-dresden.md"]
-slug = "rachel-willis-sorensen"
-title = "Rachel Willis-Sørensen"
-website = "https://rachelwillis-sorensen.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/RachelWillisSorensen/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/RWSing"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/rachelwillissorensen/"
-
-+++
+---
+date: "2017-03-20T12:37:00+00:00"
+discipline: Soprano
+lastmod: "2017-03-20T20:46:00+00:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1573612721/media/2019/11/RachelWillisSorensen-SimonPauly_oxqp5v.jpg
+primary_image_credit: Simon Pauly
+publishDate: "2017-03-20T12:37:00+00:00"
+related_companies:
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/royal-opera-house.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/semperoper-dresden.md
+slug: rachel-willis-sorensen
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/RachelWillisSorensen/
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/RWSing
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/rachelwillissorensen/
+title: Rachel Willis-Sørensen
+website: https://rachelwillis-sorensen.com/
+cms_visible: true
+---
 American soprano Rachel Willis-Sørensen is known for her diverse repertoire ranging from Mozart to Wagner. A regular guest at the leading opera houses around the world, she has been hailed as “visually stunning” with a “silvery colored voice raging and caressing with unfaltering strength.” 
 
 Ms. Willis-Sørensen’s 2019/20 season begins with her role debut as Marguerite (_Faust_) as part of the Royal Opera House’s tour of Japan. This also marks her debut in Japan. Her season continues with a return to two of her most beloved roles, Marschallin (_Der Rosenkavalier_), at the Semperoper Dresden and Donna Anna (_Don Giovanni_) at the Lyric Opera of Chicago. 

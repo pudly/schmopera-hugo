@@ -1,18 +1,30 @@
-+++
-date = "2018-01-27T21:35:00-05:00"
-discipline = "Baritone"
-lastmod = "2018-01-27T21:35:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517106650382/Michael-Chioldi---pc---Peter-Konerko.jpg.jpg"
-publishDate = "2018-01-27T21:35:00-05:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/palm-beach-opera.md","scene/companies/washington-national-opera.md","scene/companies/san-francisco-opera.md","scene/companies/los-angeles-opera.md","scene/companies/houston-grand-opera.md","scene/companies/royal-opera-house.md","scene/companies/glimmerglass-festival.md","scene/companies/arizona-opera.md","scene/companies/utah-opera.md"]
-slug = "michael-chioldi"
-title = "Michael Chioldi"
-website = "http://www.michaelchioldi.com/index.php"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/ScottHillPublicRelations?ref=hl"
-+++
+---
+date: "2018-01-27T21:35:00-05:00"
+discipline: Baritone
+lastmod: "2018-01-27T21:35:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1517106650382/Michael-Chioldi---pc---Peter-Konerko.jpg.jpg
+publishDate: "2018-01-27T21:35:00-05:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/palm-beach-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/glimmerglass-festival.md
+- scene/companies/arizona-opera.md
+- scene/companies/utah-opera.md
+slug: michael-chioldi
+social_media:
+- _template: people_single
+  platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/ScottHillPublicRelations?ref=hl
+title: Michael Chioldi
+website: http://www.michaelchioldi.com/index.php
+cms_visible: true
+---
 
 American baritone Michael Chioldi has quickly gained the reputation as one of the most sought-after dramatic baritones of his generation. Praised for his "warm, rich tone" (Opera News) and "deeply communicative phrasing" (The Baltimore Sun), he has received unanimous acclaim from critics and audiences around the world for his portrayals of the dramatic baritone roles of Verdi, Puccini, and Strauss. His recent role debuts include the title roles in Verdi's *Rigoletto* with the Orquesta Filarmónica de Jalisco, Macbeth with Palm Beach Opera, and *Nabucco* with Lyric Opera Baltimore; as Conte di Luna in *Il Trovatore* with Utah Opera; and as Rodrigo in *Don Carlo* with Austin Lyric Opera.
 

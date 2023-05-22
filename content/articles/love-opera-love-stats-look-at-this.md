@@ -1,15 +1,20 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-05-03T14:03:00-04:00"
-lastmod = "2015-05-03T14:11:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430676209749/AriaCollage.jpg.jpg"
-publishDate = "2015-05-03T14:10:00-04:00"
-related_companies = ["scene/companies/wolf-trap-opera.md"]
-short_description = "I made a pretty neat find over at Wolf Trap Opera&#039;s website, which has a great section on audition resources. WTO has [collected stats(http://opera.wolftrap.org/for-artists/audition-resources/) on the auditions they&#039;ve heard over the last four seasons, and which arias are sung the most."
-slug = "love-opera-love-stats-look-at-this"
-title = "Love opera? Love stats? Look at this."
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-05-03T14:03:00-04:00"
+lastmod: "2015-05-03T14:11:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430676209749/AriaCollage.jpg.jpg
+publishDate: "2015-05-03T14:10:00-04:00"
+related_companies:
+- scene/companies/wolf-trap-opera.md
+short_description: I made a pretty neat find over at Wolf Trap Opera&#039;s website,
+  which has a great section on audition resources. WTO has [collected stats(http://opera.wolftrap.org/for-artists/audition-resources/)
+  on the auditions they&#039;ve heard over the last four seasons, and which arias
+  are sung the most.
+slug: love-opera-love-stats-look-at-this
+title: Love opera? Love stats? Look at this.
+---
 
 I made a [pretty neat find](http://opera.wolftrap.org/for-artists/audition-resources/) over at Wolf Trap Opera's website, which has a great section on audition resources. WTO has [collected stats](http://opera.wolftrap.org/for-artists/audition-resources/) on the auditions they've heard over the last four seasons, and which arias are sung the most. 
 

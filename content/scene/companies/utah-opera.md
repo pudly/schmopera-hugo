@@ -1,30 +1,42 @@
-+++
-date = "2017-03-30T09:56:00+01:00"
-lastmod = "2017-03-30T09:56:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490864015723/Logo---Utah-Opera.jpg.jpg"
-publishDate = "2017-03-30T09:56:00+01:00"
-related_people = ["scene/people/christian-bowers.md","scene/people/daniel-belcher.md","scene/people/sarah-coit.md","scene/people/alfred-walker.md","scene/people/joseph-gaines.md","scene/people/melissa-parks.md","scene/people/troy-cook.md","scene/people/andrew-wilkowske.md","scene/people/nina-yoshida-nelsen.md","scene/people/michael-chioldi.md","scene/people/chad-shelton.md","scene/people/kara-shay-thomson.md","scene/people/dominick-chenes.md"]
-slug = "utah-opera"
-title = "Utah Opera"
-type_of_company = "Opera company"
-website = "http://www.utahopera.org/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/utahopera"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/utahopera"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/utahopera/"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/usuovids"
-+++
+---
+date: "2017-03-30T09:56:00+01:00"
+lastmod: "2017-03-30T09:56:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1490864015723/Logo---Utah-Opera.jpg.jpg
+publishDate: "2017-03-30T09:56:00+01:00"
+related_people:
+- scene/people/christian-bowers.md
+- scene/people/daniel-belcher.md
+- scene/people/sarah-coit.md
+- scene/people/alfred-walker.md
+- scene/people/joseph-gaines.md
+- scene/people/melissa-parks.md
+- scene/people/troy-cook.md
+- scene/people/andrew-wilkowske.md
+- scene/people/nina-yoshida-nelsen.md
+- scene/people/michael-chioldi.md
+- scene/people/chad-shelton.md
+- scene/people/kara-shay-thomson.md
+- scene/people/dominick-chenes.md
+slug: utah-opera
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/utahopera
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/utahopera
+- platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/utahopera/
+- _template: company_single
+  platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/usuovids
+title: Utah Opera
+type_of_company: Opera company
+website: http://www.utahopera.org/
+cms_visible: true
+---
 
 Since 1978, Utah Opera has cultivated and entertained a growing audience of more than 150,000 annually around the intermountain area. We produce opera with artistic standards of distinction and with a fresh vibrancy - new works for our area as well as the classics.
 

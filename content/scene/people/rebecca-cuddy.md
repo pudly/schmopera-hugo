@@ -1,14 +1,21 @@
-+++
-discipline = "Mezzo-soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1633539480/media/2021/10/RebeccaCuddy_j4fmjy.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/opera-nuova.md", "scene/companies/highlands-opera-studio.md", "scene/companies/opera-on-the-avalon.md", "scene/companies/tapestry-opera.md", "scene/companies/soundstreams.md", "scene/companies/latelier-lyrique-de-lopra-de-montral.md"]
-slug = "rebecca-cuddy"
-social_media = []
-title = "Rebecca Cuddy"
-website = ""
-
-+++
+---
+_template: people_single
+discipline: Mezzo-soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1633539480/media/2021/10/RebeccaCuddy_j4fmjy.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/opera-nuova.md
+- scene/companies/highlands-opera-studio.md
+- scene/companies/opera-on-the-avalon.md
+- scene/companies/tapestry-opera.md
+- scene/companies/soundstreams.md
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+slug: rebecca-cuddy
+social_media: []
+title: Rebecca Cuddy
+website: ""
+cms_visible: true
+---
 Métis/Canadian, Mezzo-Soprano Rebecca Cuddy is a fast up and comer on Canadian operatic stages. Acknowledged as ‘fresh and funny, with a large supple voice’ (MacLean, Gigcity.ca 2018) ‘moving’ (Gilks, Opera Canada 2019) and ‘the next generation who are going to do incredible things’ (Newman, The Whole Note 2019). This season saw her twice nominated at the Dora Awards alongside her colleagues for exceptional ensemble work, winning for Soundstreams’ _Two Odysseys; Pimootewin and Gállábártnit_. Her recent career highlights include singing **La Métisse,** in the world premiere of _Riel; Heart of the North_ with Regina Symphony Orchestra, **Kwe** in the world premiere of _Shanawdithit_ with Tapestry Opera/Opera on the Avalon, **Mercedes (Cover Carmen)** in _Carmen_, and **Dreitte Dame** in _Die Zauberflöte._
 
 Rebecca has a keen interest in Indigenous relations and music, along with contemporary composition. She is immensely proud to be a collaborator on multiple productions and part of six new Indigenous Opera productions in the last three years. Most recently, she premiered the role of **Bunny/Crow 1** in _The Flight of the Hummingbird_ on a tour of British Columbia with Vancouver Opera and Pacific Opera Victoria, Winter 2020. Rebecca’s engagement with Pacific Opera Victoria/Vancouver Opera for _The Flight of the Hummingbird_ was cut short due to COVID-19. However, a video recording of this production is available for a limited time on Pacific Opera Victoria’s website.

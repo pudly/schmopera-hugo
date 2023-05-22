@@ -1,22 +1,28 @@
-+++
-date = "2015-09-30T09:39:00-04:00"
-discipline = "Soprano"
-lastmod = "2015-09-30T09:39:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443620062691/OPOLAIS-Kristine-Head-white-.jpg.jpg"
-publishDate = "2015-09-30T09:39:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/bayerische-staatsoper.md","scene/companies/salzburg-festival.md","scene/companies/opernhaus-zurich.md"]
-slug = "kristine-opolais"
-title = "Kristine Opolais"
-website = "http://kristineopolais.com/#home"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/kristineopolais.soprano"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/kristineopolais"
-+++
+---
+date: "2015-09-30T09:39:00-04:00"
+discipline: Soprano
+lastmod: "2015-09-30T09:39:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1443620062691/OPOLAIS-Kristine-Head-white-.jpg.jpg
+publishDate: "2015-09-30T09:39:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/salzburg-festival.md
+- scene/companies/opernhaus-zurich.md
+slug: kristine-opolais
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/kristineopolais.soprano
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/kristineopolais
+title: Kristine Opolais
+website: http://kristineopolais.com/#home
+cms_visible: true
+---
 
 Kristine Opolais is acknowledged as one of the most exciting young sopranos before the public today. In October of 2010, she made a sensational debut at the Bavarian State Opera in Munich in the title role of the new production of Dvorak’s *Rusalka* directed by Martin Kusej. This was followed in June of 2011 by her debut at the Royal Opera House, Covent Garden as Cio Cio San in *Madama Butterfly* which was received with extraordinary critical and public acclaim.
 

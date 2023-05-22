@@ -1,15 +1,33 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2015-04-10T23:20:00-04:00"
-lastmod = "2015-04-10T23:20:00-04:00"
-preamble = "<p>\n\t<em>Tenor and guitarist </em><a href=\"http://www.budroach.com/index.html\" target=\"_blank\">Bud Roach</a><em> is the founder of </em><a href=\"http://capellaintima.com/index.html\" target=\"_blank\">Capella Intima</a><em>, an ensemble of singers and instrumentalists that has \"carved out a niche for itself in the Toronto early music scene.\" Known for their work with 17th century Italian Baroque music, Capella Intima is joining forces with the</em><a href=\"http://www.galleryplayers.ca/\" target=\"_blank\">Gallery Players of Niagara</a><em> for their next performance on March 6th at the Trinity-St. Paul Centre, which includes Henry Purcell's </em><a href=\"http://capellaintima.com/index.html\" target=\"_blank\"><em>Dido and Aeneas</em></a><em>. Bud Roach has a huge passion for what he does, and he was kind enough to answer a few of my questions about his work in Early Music (spoiler: he's in it for the foul language).</em>\n</p>"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428722332082/BudRoach.jpg.jpg"
-publishDate = "2015-03-03T09:20:00-05:00"
-short_description = "Tenor and guitarist Bud Roach is the founder of Capella Intima, an ensemble of singers and instrumentalists that has “carved out a niche for itself in the Toronto early music scene.” Known for their work with 17th century Italian Baroque music, Capella Intima is joining forces with the Gallery Players of Niagara for their next performance on March 6th at the Trinity-St. Paul Centre, which includes Henry Purcell’s Dido and Aeneas. Bud Roach has a huge passion for what he does, and he was kind enough to answer a few of my questions about his work in Early Music (spoiler: he’s in it for the foul language)."
-slug = "bud-roach-on-capella-intima"
-title = "Bud Roach, on Capella Intima"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2015-04-10T23:20:00-04:00"
+lastmod: "2015-04-10T23:20:00-04:00"
+preamble: "<p>\n\t<em>Tenor and guitarist </em><a href=\"http://www.budroach.com/index.html\"
+  target=\"_blank\">Bud Roach</a><em> is the founder of </em><a href=\"http://capellaintima.com/index.html\"
+  target=\"_blank\">Capella Intima</a><em>, an ensemble of singers and instrumentalists
+  that has \"carved out a niche for itself in the Toronto early music scene.\" Known
+  for their work with 17th century Italian Baroque music, Capella Intima is joining
+  forces with the</em><a href=\"http://www.galleryplayers.ca/\" target=\"_blank\">Gallery
+  Players of Niagara</a><em> for their next performance on March 6th at the Trinity-St.
+  Paul Centre, which includes Henry Purcell's </em><a href=\"http://capellaintima.com/index.html\"
+  target=\"_blank\"><em>Dido and Aeneas</em></a><em>. Bud Roach has a huge passion
+  for what he does, and he was kind enough to answer a few of my questions about his
+  work in Early Music (spoiler: he's in it for the foul language).</em>\n</p>"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428722332082/BudRoach.jpg.jpg
+publishDate: "2015-03-03T09:20:00-05:00"
+short_description: 'Tenor and guitarist Bud Roach is the founder of Capella Intima,
+  an ensemble of singers and instrumentalists that has “carved out a niche for itself
+  in the Toronto early music scene.” Known for their work with 17th century Italian
+  Baroque music, Capella Intima is joining forces with the Gallery Players of Niagara
+  for their next performance on March 6th at the Trinity-St. Paul Centre, which includes
+  Henry Purcell’s Dido and Aeneas. Bud Roach has a huge passion for what he does,
+  and he was kind enough to answer a few of my questions about his work in Early Music
+  (spoiler: he’s in it for the foul language).'
+slug: bud-roach-on-capella-intima
+title: Bud Roach, on Capella Intima
+---
 
 <h2>1. Where did your passion for Early Music come from?</h2>
 <p>

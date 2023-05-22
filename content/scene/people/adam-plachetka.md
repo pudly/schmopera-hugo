@@ -1,25 +1,29 @@
-+++
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1569890188/media/2019/10/Adam_Plachetka_Ilona_Sochorova_high_res_photo_o7kbkj.jpg"
-primary_image_credit = "Ilona Sochorova"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/salzburg-festival.md", "scene/companies/wiener-staatsoper.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/lyric-opera-of-chicago.md"]
-slug = "adam-plachetka"
-title = "Adam Plachetka"
-website = "http://www.adamplachetka.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/AdamPlachetkaOfficial"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/adamplachetka"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/realadamplachetka/"
-
-+++
+---
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1569890188/media/2019/10/Adam_Plachetka_Ilona_Sochorova_high_res_photo_o7kbkj.jpg
+primary_image_credit: Ilona Sochorova
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/salzburg-festival.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+slug: adam-plachetka
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/AdamPlachetkaOfficial
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/adamplachetka
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/realadamplachetka/
+title: Adam Plachetka
+website: http://www.adamplachetka.com/
+cms_visible: true
+---
 Bass-baritone Adam Plachetka was born in Prague, Czech Republic in May 1985 and graduated from the Prague Conservatory in 2006. In addition to his many national competition victories, Adam won First Prize at Antonín Dvořák’s International Vocal Competition.
 
 In 2005 Adam made his debut at the National Theatre in Prague and has since returned as Don Giovanni, Figaro _Le nozze di Figaro_, Nardo _La finta giardiniera_, Argante _Rinaldo_ and Guglielmo _Cosí fan tutte_. Adam has also appeared as Don Basilio _Il barbiere di Siviglia_ and Papageno _Die Zauberflöte_ at the Prague State Opera. Adam is a regular guest artist of the Salzburger Festspiele, where he has performed in _Benvenuto Cellini_, _Rusalka_, _Le nozze di Figaro_ and _Don Giovanni_.

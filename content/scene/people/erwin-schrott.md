@@ -1,32 +1,38 @@
-+++
-date = "2017-10-13T21:54:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2017-10-13T21:58:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1553617642/media/2019/03/sqErwinSchrottDarioAcosta.jpg"
-primary_image_credit = "Dario Acosta"
-publishDate = "2017-10-13T21:54:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/los-angeles-opera.md", "scene/companies/washington-national-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/opernhaus-zurich.md", "scene/companies/opra-national-de-paris.md", "scene/companies/teatro-alla-scala.md"]
-slug = "erwin-schrott"
-title = "Erwin Schrott"
-website = "http://www.erwinschrott.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/erwinschrott"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/erwinschrott"
-[[social_media]]
-platform = "Youtube"
-template = "social-media"
-url = "https://www.youtube.com/user/ErwinSchrottOfficial"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/erwinschrott/"
-
-+++
+---
+date: "2017-10-13T21:54:00-04:00"
+discipline: Bass-baritone
+lastmod: "2017-10-13T21:58:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1553617642/media/2019/03/sqErwinSchrottDarioAcosta.jpg
+primary_image_credit: Dario Acosta
+publishDate: "2017-10-13T21:54:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/washington-national-opera.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/wiener-staatsoper.md
+- scene/companies/opernhaus-zurich.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/teatro-alla-scala.md
+slug: erwin-schrott
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/erwinschrott
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/erwinschrott
+- platform: Youtube
+  template: social-media
+  url: https://www.youtube.com/user/ErwinSchrottOfficial
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/erwinschrott/
+title: Erwin Schrott
+website: http://www.erwinschrott.com/
+cms_visible: true
+---
 Erwin Schrott is one of the most exciting singers of our time and is universally regarded as today’s finest exponent of the major Mozart roles of Don Giovanni, Leporello and Figaro.
 
 He was born in Montevideo, Uruguay, and made his operatic debut at the age of 22 as Roucher in _Andrea Chénier_. After winning first prize in the 1998 Plácido Domingo “Operalia” Singing Competition, he shot to international fame, making debuts in one major opera house after the other in quick succession. He triumphed in theaters such as the Teatro alla Scala, the Metropolitan Opera in New York, the Opéra national de Paris, the Washington National Opera, the Vienna State Opera, the Teatro Colón of Buenos Aires, the Royal Opera, Covent Garden, the Teatro del Maggio Musicale Fiorentino, the Hamburg State Opera, the Théâtre Royal de la Monnaie in Brussels, the Teatro Carlo Felice in Genoa, the Los Angeles Opera and many others. In the summer of 2008 he made his long-awaited debut at the Salzburg Festival as Leporello.

@@ -1,17 +1,29 @@
-+++
-author = ["authors/kristen-seikaly.md"]
-categories = "Op-ed"
-date = "2016-08-04T05:55:00-04:00"
-lastmod = "2017-11-28T19:49:00-05:00"
-preamble = "This post was originally published by [Kristen Seikaly](/scene/people/kristen-seikaly) on [Operaversity](http://operaversity.com/business/networking-for-introverted-performers), a great resource for working singers and teachers. For more, follow Operaversity on [Twitter](https://twitter.com/Operaversity) and [Instagram](https://www.instagram.com/operaversity/)."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511915019200/2017-11-28---Introvert.jpg.jpg"
-publishDate = "2016-08-10T03:27:00-04:00"
-related_articles = ["articles/the-anxious-singer-10-tips-to-help-with-anxiety.md","articles/the-introverts-opera.md","articles/the-heart-and-the-art.md","articles/dear-me-advice-to-my-freshman-self.md"]
-related_people = ["scene/people/kristen-seikaly.md"]
-short_description = "While it may seem to many people that &quot;introverted performers&quot; is an oxymoron, I assure you that this is not the case. Being an introvert in an extroverted field can pose its own challenges though. Perhaps the biggest challenge it poses is networking."
-slug = "networking-for-introverted-performers"
-title = "Networking for introverted performers"
-+++
+---
+author:
+- authors/kristen-seikaly.md
+categories: Op-ed
+date: "2016-08-04T05:55:00-04:00"
+lastmod: "2017-11-28T19:49:00-05:00"
+preamble: This post was originally published by [Kristen Seikaly](/scene/people/kristen-seikaly)
+  on [Operaversity](http://operaversity.com/business/networking-for-introverted-performers),
+  a great resource for working singers and teachers. For more, follow Operaversity
+  on [Twitter](https://twitter.com/Operaversity) and [Instagram](https://www.instagram.com/operaversity/).
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1511915019200/2017-11-28---Introvert.jpg.jpg
+publishDate: "2016-08-10T03:27:00-04:00"
+related_articles:
+- articles/the-anxious-singer-10-tips-to-help-with-anxiety.md
+- articles/the-introverts-opera.md
+- articles/the-heart-and-the-art.md
+- articles/dear-me-advice-to-my-freshman-self.md
+related_people:
+- scene/people/kristen-seikaly.md
+short_description: While it may seem to many people that &quot;introverted performers&quot;
+  is an oxymoron, I assure you that this is not the case. Being an introvert in an
+  extroverted field can pose its own challenges though. Perhaps the biggest challenge
+  it poses is networking.
+slug: networking-for-introverted-performers
+title: Networking for introverted performers
+---
 
 While it may seem to many people that "introverted performers" is an oxymoron, I assure you that [this is not the case](http://operaversity.com/performance/introverted-performers-thing/%20). Being an introvert in an extroverted field can pose its own challenges though. Perhaps the biggest challenge it poses is networking.
 

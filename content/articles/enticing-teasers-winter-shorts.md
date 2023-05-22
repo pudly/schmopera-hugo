@@ -1,18 +1,31 @@
-+++
-author = ["authors/greg.md"]
-categories = "Review"
-date = "2017-11-30T21:57:00-05:00"
-lastmod = "2017-12-02T02:58:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096891448/2017-11-30---sq--Jacqueline-Woodley_PURSUIT_photobyDahliaKatz-5174.jpg.jpg"
-primary_image_credit = "Jacqueline Woodley in Pursuit, Tapestry Opera's Winter Shorts, 2017. Photo: Dahlia Katz."
-publishDate = "2017-12-01T19:11:00-05:00"
-related_articles = ["articles/tough-to-watch-oksana-g.md","articles/he-saidshe-said-songbook-vi.md"]
-related_companies = ["scene/companies/tapestry-opera.md","scene/companies/indie-opera-to.md"]
-related_people = ["scene/people/jacqueline-woodley.md","scene/people/alexander-dobson.md","scene/people/erica-iris.md"]
-short_description = "The night consisted of eleven selections from LIBLAB, touching on subjects ranging from the barista&#039;s crush on the handsome regular (as a former barista myself, this one rang very true) to a piece inspired by the world-famous photo of the poor Syrian boy found dead in the sand on the beach. It was a range of topics only Tapestry could tackle and pull off successfully."
-slug = "enticing-teasers-winter-shorts"
-title = "Enticing teasers: Winter Shorts"
-+++
+---
+author:
+- authors/greg.md
+categories: Review
+date: "2017-11-30T21:57:00-05:00"
+lastmod: "2017-12-02T02:58:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096891448/2017-11-30---sq--Jacqueline-Woodley_PURSUIT_photobyDahliaKatz-5174.jpg.jpg
+primary_image_credit: 'Jacqueline Woodley in Pursuit, Tapestry Opera''s Winter Shorts,
+  2017. Photo: Dahlia Katz.'
+publishDate: "2017-12-01T19:11:00-05:00"
+related_articles:
+- articles/tough-to-watch-oksana-g.md
+- articles/he-saidshe-said-songbook-vi.md
+related_companies:
+- scene/companies/tapestry-opera.md
+- scene/companies/indie-opera-to.md
+related_people:
+- scene/people/jacqueline-woodley.md
+- scene/people/alexander-dobson.md
+- scene/people/erica-iris.md
+short_description: The night consisted of eleven selections from LIBLAB, touching
+  on subjects ranging from the barista&#039;s crush on the handsome regular (as a
+  former barista myself, this one rang very true) to a piece inspired by the world-famous
+  photo of the poor Syrian boy found dead in the sand on the beach. It was a range
+  of topics only Tapestry could tackle and pull off successfully.
+slug: enticing-teasers-winter-shorts
+title: 'Enticing teasers: Winter Shorts'
+---
 
 The Toronto Christmas Market in the Distillery District was in full swing on Wednesday night as we made our way to Tapestry's latest instalment of [*Tapestry Briefs: Winter Shorts*](https://tapestryopera.com/tapestry-briefs/). The night was a presentation of some of the most promising works to come from the Compser-Librettists Laboratory, or LIBLAB. This program is responsible for some of Tapestry's biggest hits including [*Oksana G.*](/tough-to-watch-oksana-g/) and the multiple Dora Award-winning [*Rocking Horse Winner*](/in-review-rocking-horse-winner/).
 
@@ -22,7 +35,9 @@ The night consisted of eleven selections from LIBLAB, touching on subjects rangi
 
 The night featured a stellar line-up of singers (and Tapestry favourites), soprano [Jacqueline Woodley](/scene/people/jacqueline-woodley/), mezzo-soprano [Erica Iris](/scene/people/erica-iris/), tenor [Keith Klassen](/scene/people/keith-klassen/) (#OGTripleswoonTimesInfinity), and baritone [Alexander Dobson](/scene/people/alexander-dobson/). When you have gifted musicians like this, teamed up with the wonderful pianist/coach/Music Director [Michael Shannon](/michael-shannon-the-opera-pianist/) as orchestra, you're bound for an amazing night. 
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096970491/2017-11-30---Erica-Iris-Huang-and-Alexander-Dobson_QUEEN-OF-SWORDS_photobyDahliaKatz-5039.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096970491/2017-11-30---Erica-Iris-Huang-and-Alexander-Dobson_QUEEN-OF-SWORDS_photobyDahliaKatz-5039.jpg.jpg)
 <figcaption>Erica Iris Huang and Alexander Dobson in *Queen of Swords*, Tapestry Opera's *Winter Shorts*, 2017. Photo: Dahlia Katz.</figcaption>
 </figure>
 
@@ -30,7 +45,9 @@ The night opened with *The Call of the Light* by Iman Habibi and libretto by Bob
 
 Habibi also teamed up with Phoebe Tsang for *Opposites Attract*. This piece got my attention. In very short, surprisingly musical vignettes, all four singers portrayed two sides of a coin during interactions between people of diverse backgrounds and perspectives. Habibi's last piece, teaming up with librettist Jessica Murphy Moo, was *Pursuit*; we saw Woodley's lustful barista pining for an oblivious Klassen (girl... I have BEEN there).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096978907/2017-11-30---Keith-Klassen-and-Jacqueline-Woodley_PURSUIT_photobyDahliaKatz-5278.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1512096978907/2017-11-30---Keith-Klassen-and-Jacqueline-Woodley_PURSUIT_photobyDahliaKatz-5278.jpg.jpg)
 <figcaption>Keith Klassen and Jacqueline Woodley in *Pursuit*, Tapestry Opera's *Winter Shorts*, 2017. Photo: Dahlia Katz.</figcaption>
 </figure>
 

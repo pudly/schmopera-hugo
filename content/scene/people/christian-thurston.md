@@ -1,15 +1,17 @@
-+++
-date = "2019-01-29T03:34:57+00:00"
-discipline = "Baritone"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1548732867/media/2019/01/ChristianThurston.jpg"
-primary_image_credit = ""
-related_companies = ["scene/companies/minnesota-opera.md"]
-slug = "christian-thurston"
-social_media = []
-title = "Christian Thurston"
-website = "https://christianthurston.com/"
-
-+++
+---
+_template: people_single
+date: "2019-01-29T03:34:57+00:00"
+discipline: Baritone
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1548732867/media/2019/01/ChristianThurston.jpg
+primary_image_credit: ""
+related_companies:
+- scene/companies/minnesota-opera.md
+slug: christian-thurston
+social_media: []
+title: Christian Thurston
+website: https://christianthurston.com/
+cms_visible: true
+---
 A "rich baritone sounding more than ready for prime time"– James Jorden (_The Observer_)
 
 **Current Season**:

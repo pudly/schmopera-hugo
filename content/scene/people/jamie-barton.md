@@ -1,28 +1,36 @@
-+++
-date = "2015-04-13T03:14:00+01:00"
-discipline = "Mezzo-soprano"
-lastmod = "2016-04-12T11:35:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1631540410/media/2021/09/JamieBarton_creditBreeAnneClowdus3_etngcq.jpg"
-primary_image_credit = "Bree Anne Clowdus"
-publishDate = "2015-04-13T03:14:00+01:00"
-related_companies = ["scene/companies/the-atlanta-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/chicago-opera-theater.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/san-francisco-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/cardiff-singer-of-the-world-competition.md"]
-slug = "jamie-barton"
-title = "Jamie Barton"
-website = "http://www.jamiebartonmezzo.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/jamiebartonmezzosoprano?fref=ts"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jbartonmezzo"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/jbartonmezzo/"
-
-+++
+---
+date: "2015-04-13T03:14:00+01:00"
+discipline: Mezzo-soprano
+lastmod: "2016-04-12T11:35:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1631540410/media/2021/09/JamieBarton_creditBreeAnneClowdus3_etngcq.jpg
+primary_image_credit: Bree Anne Clowdus
+publishDate: "2015-04-13T03:14:00+01:00"
+related_companies:
+- scene/companies/the-atlanta-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/deutsche-oper-berlin.md
+- scene/companies/chicago-opera-theater.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/cardiff-singer-of-the-world-competition.md
+slug: jamie-barton
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/jamiebartonmezzosoprano?fref=ts
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/jbartonmezzo
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/jbartonmezzo/
+title: Jamie Barton
+website: http://www.jamiebartonmezzo.com/
+cms_visible: true
+---
 Since winning both First and Song Prizes at the 2013 BBC Cardiff Singer of the World Competition, Jamie Barton has established herself as a major dramatic talent on both sides of the Atlantic. She was named as the recipient of the 2015 Richard Tucker Award, subsequently performing in a star-studded televised gala at Lincoln Center’s David Geffen Hall in the same year, and the Metropolitan Opera’s 2017 Beverly Sills Artist Award and she appeared as the featured soloist in The Last Night of The Proms 2019, broadcast live around the world on television and BBC Radio 3, conducted by Sakari Oramo. 
 
 An impressive string of debuts continues this season with Ms Barton making her first appearance at Festival d’Aix en Provence in the role of Brangaene (_Tristan und Isolde_), conducted by Sir Simon Rattle. Further debut highlights in recent seasons include Azucena (_Il trovatore_) at Bayerische Staatsoper under Asher Fisch, Eboli (_Don Carlo_) at Deutsche Oper Berlin, concert performances as Leonor at Teatro Real Madrid and her Royal Opera House, Covent Garden debut as Fenena (_Nabucco_), alongside major new roles in the US such as Sara, Duchess of Nottingham (_Roberto Devereux_) for San Francisco Opera, Ježibaba (_Rusalka_) at The Met under Sir Mark Elder, and Sister Helen Prejean (_Dead Man Walking_) at Atlanta Opera. 

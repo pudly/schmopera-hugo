@@ -1,14 +1,17 @@
-+++
-date = "2015-06-05T16:24:00-04:00"
-discipline = "Conductor"
-lastmod = "2015-12-28T14:26:00-05:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451330683215/Lucik.jpg.jpg"
-publishDate = "2015-06-05T16:24:00-04:00"
-related_companies = ["scene/companies/the-dallas-opera.md"]
-slug = "lucik-aprahamian"
-title = "Luçik Aprahämian"
-website = "http://lucikaprahamian.com/"
-+++
+---
+_template: people_single
+date: "2015-06-05T16:24:00-04:00"
+discipline: Conductor
+lastmod: "2015-12-28T14:26:00-05:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1451330683215/Lucik.jpg.jpg
+publishDate: "2015-06-05T16:24:00-04:00"
+related_companies:
+- scene/companies/the-dallas-opera.md
+slug: lucik-aprahamian
+title: Luçik Aprahämian
+website: http://lucikaprahamian.com/
+cms_visible: true
+---
 
 Luçik Aprahämian’s versatility as a conductor places her equally at home in front of an orchestra, vocal ensemble, and the opera stage. With roots in the San Francisco Bay Area and Arizona, she has worked with groups of all ages and skill levels. An avid exponent of new music, Dr. Aprahämian has commissioned and premiered works for a variety of performing forces. Premieres include composer Andrew Pascoe’s opera, God: The Opera; the U.S. premiere of the Costa Rican zarzuela, Toyupán; Hillary Connover’s The Six Swans; and David Evan Jones’s chamber opera, The Rehearsal. Commissions include Christopher Pratorius’ Variations on a Theme of Lou Harrison commissioned for the Cabrillo Festival of Contemporary Music Youth Orchestra, as well as his Cántigas de mi amigo Martín for the Women’s Chorus at The University of California at Santa Cruz. She is always thrilled to work on projects that bring new music to the community and most recently joined the stage with mezzo-soprano Robyn Rocklein in a performance of Jake Heggie’s Statuesque for mezzo-soprano and orchestra. Other work with orchestral groups includes resident guest conductor appearances with the Scottsdale Arts Orchestra in Arizona, as well as the Santa Cruz County Youth Symphony in California. Also in Santa Cruz, she was the director of the youth orchestra and student staff program for three seasons at the internationally renowned Cabrillo Festival of Contemporary Music led by Marin Alsop.
 

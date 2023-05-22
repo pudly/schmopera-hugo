@@ -1,17 +1,28 @@
-+++
-author = ["authors/colleen-maybin.md"]
-categories = "Op-ed"
-date = "2017-07-21T14:57:00-04:00"
-lastmod = "2017-10-27T11:46:00-04:00"
-preamble = "New contributor [Colleen Maybin](/authors/colleen-maybin/) is the Director of Education and Community Engagement at Vancouver Opera. She curates the all of the community programs and public events during the Vancouver Opera Festival, and she was excited to send us the following submission in response to Vancouver Opera's inaugural New Works Project."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500851588678/2017-07-23---Workshop.jpg.jpg"
-publishDate = "2017-07-28T09:14:00-04:00"
-related_articles = ["articles/the-future-of-opera-is-indie.md"]
-related_companies = ["scene/companies/vancouver-opera.md"]
-short_description = "&quot;I appreciated that we weren&#039;t the focus of the project; we were the vessel for it. Everything in the experience was about making the art better and it was our job to the best performance possible. In any opera, the music comes from the libretto and every note means something. To have that be the full focus of the project meant that was a different musical experience for me.&quot;"
-slug = "the-value-of-creating-new-work-for-singers"
-title = "The value of creating new work for singers"
-+++
+---
+author:
+- authors/colleen-maybin.md
+categories: Op-ed
+date: "2017-07-21T14:57:00-04:00"
+lastmod: "2017-10-27T11:46:00-04:00"
+preamble: New contributor [Colleen Maybin](/authors/colleen-maybin/) is the Director
+  of Education and Community Engagement at Vancouver Opera. She curates the all of
+  the community programs and public events during the Vancouver Opera Festival, and
+  she was excited to send us the following submission in response to Vancouver Opera's
+  inaugural New Works Project.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500851588678/2017-07-23---Workshop.jpg.jpg
+publishDate: "2017-07-28T09:14:00-04:00"
+related_articles:
+- articles/the-future-of-opera-is-indie.md
+related_companies:
+- scene/companies/vancouver-opera.md
+short_description: '&quot;I appreciated that we weren&#039;t the focus of the project;
+  we were the vessel for it. Everything in the experience was about making the art
+  better and it was our job to the best performance possible. In any opera, the music
+  comes from the libretto and every note means something. To have that be the full
+  focus of the project meant that was a different musical experience for me.&quot;'
+slug: the-value-of-creating-new-work-for-singers
+title: The value of creating new work for singers
+---
 
 In the creation of new opera, the focus is on the composer and librettist who have been brought together. The journey to opening night is a long one that takes years as the work is shaped and reworked into its final form. As the opera moves from sketches to workshops through to staging and opening night, singers present the work to audiences large and small at each stage of its development.
 
@@ -28,7 +39,9 @@ they take away from this experience?
 
 After the rush of the festival was over, I sat down with Geoff and Tamar to learn more about their experience with the project.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500851625185/2017-07-21---GeoffTamar.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1500851625185/2017-07-21---GeoffTamar.jpg.jpg)
 <figcaption>Geoff Schellenberg, baritone, and Tamar Simon, soprano. Photos courtesy of Vancouver Opera.</figcaption>
 </figure>
 

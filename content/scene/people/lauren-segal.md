@@ -1,15 +1,25 @@
-+++
-date = "2015-04-08T10:20:00-04:00"
-discipline = "Mezzo-soprano"
-lastmod = "2015-04-26T00:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021325465/lauren_segal.jpg.jpg"
-primary_image_credit = "Helen Tansey"
-publishDate = "2015-04-08T10:20:00-04:00"
-related_companies = ["scene/companies/canadian-opera-company-ensemble-studio.md","scene/companies/canadian-opera-company.md","scene/companies/calgary-opera.md","scene/companies/tapestry-opera.md","scene/companies/against-the-grain-theatre.md","scene/companies/opra-de-qubec.md","scene/companies/lopra-de-montral.md","scene/companies/toronto-symphony-orchestra.md"]
-slug = "lauren-segal"
-title = "Lauren Segal"
-website = "http://www.laurensegal.com/"
-+++
+---
+_template: people_single
+date: "2015-04-08T10:20:00-04:00"
+discipline: Mezzo-soprano
+lastmod: "2015-04-26T00:09:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1430021325465/lauren_segal.jpg.jpg
+primary_image_credit: Helen Tansey
+publishDate: "2015-04-08T10:20:00-04:00"
+related_companies:
+- scene/companies/canadian-opera-company-ensemble-studio.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/calgary-opera.md
+- scene/companies/tapestry-opera.md
+- scene/companies/against-the-grain-theatre.md
+- scene/companies/opra-de-qubec.md
+- scene/companies/lopra-de-montral.md
+- scene/companies/toronto-symphony-orchestra.md
+slug: lauren-segal
+title: Lauren Segal
+website: http://www.laurensegal.com/
+cms_visible: true
+---
 
 <p>
 	Mezzo soprano Lauren Segal – the only Canadian chosen to participate in the inaugural Salzburg Festival Young Artist Project – has established herself as a vibrant presence in both the opera and concert worlds. Critics praise her tone for its "gleaming, luscious timbre" (La Scena Musicale) and her operatic interpretations as "absolutely sensational" (Paula Citron), "spectacular" (The Toronto Star) and "alluring, sexy, her voice rich in nuance" (Opera Magazine). Projects for the 2014-2015 season include FALSTAFF (Meg Page) for the Canadian Opera Company, IL TRAMONTO (Festival de musique de chambre de Montréal), MADAMA BUTTERLY (Suzuki) and RIGOLETTO (Maddalena) for Opera Tampa, MESSIAH for the Edmonton Symphony and a recital tour of the Maritime Provinces for Debut Atlantic. This past season included Mozart's KRÖNUNGSMESSE with the Toronto Symphony, Suzuki in MADAMA BUTTERFLY with Calgary Opera, Meg Page in FALSTAFF with l'Opéra de Montréal, l'Opéra de Québec's Opera Gala, Bach's JOHANNES PASSION with the Grand Philharmonic Choir, the title role in DIDO AND AENEAS for Festival of the Sound and the Westben Festival, Dvorak's REQUIEM for Chorus Niagara and Mahler's LIEDER EINES FAHRENDEN GESELLEN with the Niagara Symphony.

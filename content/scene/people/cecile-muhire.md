@@ -1,21 +1,25 @@
-+++
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1650994424/media/2022/04/CecileMuhire_np0n2g.jpg"
-primary_image_credit = "Kevin Calixte"
-related_companies = ["scene/companies/pacific-opera-victoria.md", "scene/companies/opra-de-qubec.md", "scene/companies/latelier-lyrique-de-lopra-de-montral.md", "scene/companies/lopra-de-montral.md"]
-slug = "cecile-muhire"
-title = "Cécile Muhire"
-website = "https://cecilemuhire.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/sopranocecilemuhire"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/sopranomuhire/"
-
-+++
+---
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1650994424/media/2022/04/CecileMuhire_np0n2g.jpg
+primary_image_credit: Kevin Calixte
+related_companies:
+- scene/companies/pacific-opera-victoria.md
+- scene/companies/opra-de-qubec.md
+- scene/companies/latelier-lyrique-de-lopra-de-montral.md
+- scene/companies/lopra-de-montral.md
+slug: cecile-muhire
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/sopranocecilemuhire
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/sopranomuhire/
+title: Cécile Muhire
+website: https://cecilemuhire.com/
+cms_visible: true
+---
 Diplômée du Conservatoire de musique de Montréal, Cécile Muhire poursuit maintenant sa formation auprès de la soprano Monique Pagé à l’Université de Montréal. Boursière de la fondation Jacqueline Desmarais et lauréate du 2e Prix de Ottawa Choral Society New Discoveries’, elle fait ses débuts à l’Opéra de Montréal dans le rôle de la Strawberry Woman (_Porgy and Bess_), pour ensuite entamer deux années consécutives comme stagiaire à l’Atelier lyrique de l’Opéra de Montréal.
 
 Parmi ses nombreuses prestations scéniques figurent sa collaboration avec Jean-Marie Zeitouni et l’ensemble I Musici de Montréal, comme soliste invitée, sans compter sa participation à la dernière édition de chant du Concours Musical International de Montréal en quart de final. De plus, en remportant la bourse Jeunes Espoir Lyrique Canadien, destinée à des auditions à travers l’Europe, son passage aux Jeunes Ambassadeurs lyriques est fortement remarqué.

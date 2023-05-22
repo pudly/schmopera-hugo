@@ -1,14 +1,21 @@
-+++
-date = "2017-10-13T21:42:00-04:00"
-discipline = "Soprano"
-lastmod = "2017-10-13T21:45:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507945323405/Malin%20Bystri%CC%82m%203%20-%20foto%20Peter%20Knutson.jpg.jpg"
-publishDate = "2017-10-13T21:45:00-04:00"
-related_companies = ["scene/companies/royal-opera-house.md", "scene/companies/salzburg-festival.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/san-francisco-opera.md", "scene/companies/teatro-alla-scala.md"]
-slug = "malin-byström"
-title = "Malin Byström"
-
-+++
+---
+_template: people_single
+date: "2017-10-13T21:42:00-04:00"
+discipline: Soprano
+lastmod: "2017-10-13T21:45:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1507945323405/Malin%20Bystri%CC%82m%203%20-%20foto%20Peter%20Knutson.jpg.jpg
+publishDate: "2017-10-13T21:45:00-04:00"
+related_companies:
+- scene/companies/royal-opera-house.md
+- scene/companies/salzburg-festival.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/teatro-alla-scala.md
+slug: malin-byström
+title: Malin Byström
+cms_visible: true
+---
 The Swedish soprano Malin Byström is currently at De National Opera in Amsterdam where she will sing her first *Salome* under the baton of Mo Daniele Gatti with the Royal Concertgebouw Orchestra. Malin began the season at the Metropolitan Opera with the role of Donna Elvira, followed by apperances as Donna Anna, in *Don Giovanni*. Last season she sang her first Marschallin in *Der Rosenkavalier* at the Royal Swedish Opera in Stockholm. She also appeared on the same stage as Donna Elvira. Malin Byström made her San Francisco Opera debut last summer with the title role of *Jenůfa*, a role she returned to this spring in Stockholm.
 
 The previous season Malin Byström sung her first Desdemona in *Otello* at the Royal Swedish Opera in Stockholm, followed by Mathilde in Rossini's *Guillaume Tell*, conducted by Antonio Pappano at the Royal Opera House, Covent Garden. In 2014, Malin sang Elettra in *Idomeneo* at the Drottningholm Court Theatre, a role she appeared in at the Royal Opera House in London later the same year.

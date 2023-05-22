@@ -1,16 +1,26 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Editorial"
-date = "2015-05-29T14:08:00-04:00"
-lastmod = "2015-05-30T20:03:00-04:00"
-preamble = "With the scary news that [Joni Mitchell is currently recovering from a brain aneurysm](http://www.nydailynews.com/entertainment/gossip/joni-mitchell-suffered-brain-aneurysm-recovering-report-article-1.2240159), I went on a mini rediscovery of her music. No one doubts that Joni is one of the best songwriters of the 20th century, and I think the way she delivers her songs is a universal lesson in storytelling. Here are a few things that singers, operatic or otherwise, can learn from Joni."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432926924387/Joni-Mitchell.jpg.jpg"
-primary_image_credit = "Photo by Jack Robinson, 1968."
-publishDate = "2015-05-30T12:08:00-04:00"
-short_description = "With the scary news that Joni Mitchell is currently recovering from a brain aneurysm, I went on a mini rediscovery of her music. No one doubts that Joni is one of the best songwriters of the 20th century, and I think the way she delivers her songs is a universal lesson in storytelling. Here are a few things that singers, operatic or otherwise, can learn from Joni."
-slug = "3-things-to-learn-from-joni"
-title = "3 things to learn from Joni"
-+++
+---
+author:
+- authors/jenna.md
+categories: Editorial
+date: "2015-05-29T14:08:00-04:00"
+lastmod: "2015-05-30T20:03:00-04:00"
+preamble: With the scary news that [Joni Mitchell is currently recovering from a brain
+  aneurysm](http://www.nydailynews.com/entertainment/gossip/joni-mitchell-suffered-brain-aneurysm-recovering-report-article-1.2240159),
+  I went on a mini rediscovery of her music. No one doubts that Joni is one of the
+  best songwriters of the 20th century, and I think the way she delivers her songs
+  is a universal lesson in storytelling. Here are a few things that singers, operatic
+  or otherwise, can learn from Joni.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432926924387/Joni-Mitchell.jpg.jpg
+primary_image_credit: Photo by Jack Robinson, 1968.
+publishDate: "2015-05-30T12:08:00-04:00"
+short_description: With the scary news that Joni Mitchell is currently recovering
+  from a brain aneurysm, I went on a mini rediscovery of her music. No one doubts
+  that Joni is one of the best songwriters of the 20th century, and I think the way
+  she delivers her songs is a universal lesson in storytelling. Here are a few things
+  that singers, operatic or otherwise, can learn from Joni.
+slug: 3-things-to-learn-from-joni
+title: 3 things to learn from Joni
+---
 
 ### The song is enough, if it's true
 

@@ -1,18 +1,27 @@
-+++
-date = "2015-04-11T22:02:00-04:00"
-discipline = "Bass-baritone"
-lastmod = "2015-04-11T22:02:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428803895465/160961_750.jpg.jpg"
-publishDate = "2015-04-11T22:02:00-04:00"
-related_companies = ["scene/companies/the-metropolitan-opera.md","scene/companies/canadian-opera-company.md","scene/companies/san-francisco-opera.md","scene/companies/houston-grand-opera.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/los-angeles-opera.md","scene/companies/glimmerglass-festival.md"]
-slug = "kyle-ketelsen"
-title = "Kyle Ketelsen"
-website = "http://kyleketelsen.instantencore.com/web/home.aspx"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/kyleket"
-+++
+---
+date: "2015-04-11T22:02:00-04:00"
+discipline: Bass-baritone
+lastmod: "2015-04-11T22:02:00-04:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1428803895465/160961_750.jpg.jpg
+publishDate: "2015-04-11T22:02:00-04:00"
+related_companies:
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/houston-grand-opera.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/glimmerglass-festival.md
+slug: kyle-ketelsen
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/kyleket
+title: Kyle Ketelsen
+website: http://kyleketelsen.instantencore.com/web/home.aspx
+cms_visible: true
+---
 
 <p>
 	American bass-baritone Kyle Ketelsen is in regular demand by the world's leading opera companies and orchestras for his vibrant and handsome stage presence and his distinctive vocalism. He returns to The Metropolitan Opera in the 2012-13 season in Richard Eyre's production of <em>Carmen</em> as Escamillo. Mr. Ketelsen will then make his role debut as Enrico VIII in Minnesota Opera's production of <em>Anna Bolena</em> and later in the season he repeats his celebrated Leporello in three different productions of <em>Don Giovanni</em> at Houston Grand Opera, Teatro Real in Madrid, and at the Festival d'Aix-en-Provence.

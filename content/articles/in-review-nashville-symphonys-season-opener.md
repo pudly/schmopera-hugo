@@ -1,17 +1,27 @@
-+++
-author = ["authors/tracy-monaghan.md"]
-categories = "Review"
-date = "2016-10-03T11:02:00+01:00"
-lastmod = "2016-10-03T11:54:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475489162077/2016-10-03---Giancarlo-Guerrero-Nashville-Symphony.jpg.jpg"
-primary_image_credit = "Giancarlo Guerrero, Music Director, with the Nashville Symphony."
-publishDate = "2016-10-03T11:54:00+01:00"
-related_articles = ["articles/renee-fleming-tso.md","articles/powerful-stuff-the-elizabeth-krehm-memorial-concert.md","articles/dont-miss-glory-denied-at-nashville-opera.md"]
-related_people = ["scene/people/nicole-cabell.md"]
-short_description = "Lyric soprano Nicole Cabell and the Symphony Chorus joined the orchestra and Ms. DeYoung for the last movement – a section that searches for its identity (it’s all of us!) and produces wall after wall of orchestral and vocal sound. Ms. Cabell’s solid technical performance and effective interpretation were sometimes eaten by the orchestras’ fortissimo, but her glittering high notes rang out clear and sturdy. Hers are what high notes are supposed to sound like."
-slug = "in-review-nashville-symphonys-season-opener"
-title = "In review: Nashville Symphony&#039;s season opener"
-+++
+---
+author:
+- authors/tracy-monaghan.md
+categories: Review
+date: "2016-10-03T11:02:00+01:00"
+lastmod: "2016-10-03T11:54:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475489162077/2016-10-03---Giancarlo-Guerrero-Nashville-Symphony.jpg.jpg
+primary_image_credit: Giancarlo Guerrero, Music Director, with the Nashville Symphony.
+publishDate: "2016-10-03T11:54:00+01:00"
+related_articles:
+- articles/renee-fleming-tso.md
+- articles/powerful-stuff-the-elizabeth-krehm-memorial-concert.md
+- articles/dont-miss-glory-denied-at-nashville-opera.md
+related_people:
+- scene/people/nicole-cabell.md
+short_description: Lyric soprano Nicole Cabell and the Symphony Chorus joined the
+  orchestra and Ms. DeYoung for the last movement – a section that searches for its
+  identity (it’s all of us!) and produces wall after wall of orchestral and vocal
+  sound. Ms. Cabell’s solid technical performance and effective interpretation were
+  sometimes eaten by the orchestras’ fortissimo, but her glittering high notes rang
+  out clear and sturdy. Hers are what high notes are supposed to sound like.
+slug: in-review-nashville-symphonys-season-opener
+title: 'In review: Nashville Symphony&#039;s season opener'
+---
 
 Recently, I attended [Nashville Symphony](https://www.nashvillesymphony.org/tickets/calendar)'s season opening program at Schermerhorn Symphony Center. The program was: *Jubilee: a Tennessee Quilting Party for Orchestra*, composed by the hall's namesake – and the Symphony's late conductor – Kenneth Schermerhorn, and Mahler's *Symphony No. 2*. 
 
@@ -27,13 +37,17 @@ As the piece seems to be section after section oscillating among uncertainty, re
 
 Movement four, the aria *Urlicht*, was expertly sung by Ms. DeYoung, was perhaps my favorite.  While the aria is gentle, with limited vocal gymnastics, Ms. DeYoung’s voice sounded like eating hot fudge feels:  rich and darkly dreamy, and left me wanting more.  It is very clear that Ms. DeYoung sings Mahler often, as she has honed the skill, making it look and sound easy while still exhibiting the vulnerability and shifting emotions ever-present in Mahler’s music.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475489153632/1.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475489153632/1.jpg.jpg)
 <figcaption>Michelle DeYoung, mezzo-soprano. Photo by Kristin Hoebermann.</figcaption>
 </figure>
 
 Lyric soprano Nicole Cabell and the Symphony Chorus joined the orchestra and Ms. DeYoung for the last movement – a section that searches for its identity (it’s all of us!) and produces wall after wall of orchestral and vocal sound.  Ms. Cabell’s solid technical performance and effective interpretation were sometimes eaten by the orchestras’ fortissimo, but her glittering high notes rang out clear and sturdy.  Hers are what high notes are supposed to sound like.  I wonder if Ms. DeYoung – more dramatic in voice – and Ms. Cabell were mismatched in terms of fach, but their collective tone was beautiful.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475489037343/2015-11-29---Nicole-Cabell-dress.jpg.jpg)
+<figure data-type="image">
+
+![](https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1475489037343/2015-11-29---Nicole-Cabell-dress.jpg.jpg)
 <figcaption>Nicole Cabell, soprano. Photo by Erika Dufour.</figcaption>
 </figure>
 

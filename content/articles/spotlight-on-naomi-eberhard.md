@@ -1,17 +1,29 @@
-+++
-author = ["authors/jenna.md"]
-categories = "Interview"
-date = "2016-06-29T16:59:00-06:00"
-lastmod = "2016-07-02T08:59:00-06:00"
-preamble = "Young dramatic soprano [Naomi Eberhard](/scene/people/naomi-eberhard/) stays busy with enviable roles like Musetta, Norma, Fiordiligi, Giorgetta (*Il tabarro*), and the title role in Verdi's *Luisa Miller*. Looking ahead to future seasons spent with more Verdi, Strauss, and Wagner, Naomi heads next week to New York as a finalist for the Elizabeth Connell Prize for Aspiring Dramatic Sopranos.\n\nShe gave us a compelling interview about the sacrifice of stability to pursue her career, and the value of experiencing life outside of singing."
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467241129462/2J7LO8w41bwT_yQfsNyUGASam0v2jq7I8Dp3eIXBghNBK3kUgYJq_kF2MGytRisbrQG4nwgNCozMnjpR5JMzG80_ktWoPw%3Dw1360-h1360"
-publishDate = "2016-06-30T18:58:00-06:00"
-related_articles = ["articles/spotlight-on-stephanie-tritchew.md","articles/spotlight-on-beth-hagerman.md","articles/spotlight-on-sydney-mancasola.md"]
-related_people = ["scene/people/naomi-eberhard.md"]
-short_description = "&quot;Good singing is an honest, unobstructed release of beauty.  Our body is our instrument.  It must be healthy and in tune constantly.  We must sing sincerely and only with a technique that we know is correct for us.  Do not sing in a way that does not feel right, just because someone tells you it is the &#039;right&#039; way to sing.&quot;"
-slug = "spotlight-on-naomi-eberhard"
-title = "Spotlight on: Naomi Eberhard"
-+++
+---
+author:
+- authors/jenna.md
+categories: Interview
+date: "2016-06-29T16:59:00-06:00"
+lastmod: "2016-07-02T08:59:00-06:00"
+preamble: |-
+  Young dramatic soprano [Naomi Eberhard](/scene/people/naomi-eberhard/) stays busy with enviable roles like Musetta, Norma, Fiordiligi, Giorgetta (*Il tabarro*), and the title role in Verdi's *Luisa Miller*. Looking ahead to future seasons spent with more Verdi, Strauss, and Wagner, Naomi heads next week to New York as a finalist for the Elizabeth Connell Prize for Aspiring Dramatic Sopranos.
+
+  She gave us a compelling interview about the sacrifice of stability to pursue her career, and the value of experiencing life outside of singing.
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1467241129462/2J7LO8w41bwT_yQfsNyUGASam0v2jq7I8Dp3eIXBghNBK3kUgYJq_kF2MGytRisbrQG4nwgNCozMnjpR5JMzG80_ktWoPw%3Dw1360-h1360
+publishDate: "2016-06-30T18:58:00-06:00"
+related_articles:
+- articles/spotlight-on-stephanie-tritchew.md
+- articles/spotlight-on-beth-hagerman.md
+- articles/spotlight-on-sydney-mancasola.md
+related_people:
+- scene/people/naomi-eberhard.md
+short_description: '&quot;Good singing is an honest, unobstructed release of beauty.  Our
+  body is our instrument.  It must be healthy and in tune constantly.  We must sing
+  sincerely and only with a technique that we know is correct for us.  Do not sing
+  in a way that does not feel right, just because someone tells you it is the &#039;right&#039;
+  way to sing.&quot;'
+slug: spotlight-on-naomi-eberhard
+title: 'Spotlight on: Naomi Eberhard'
+---
 
 ## Why do you sing, and why are you doing it professionally?
 

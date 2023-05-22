@@ -1,27 +1,36 @@
-+++
-date = "2016-03-29T13:37:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-03-29T13:41:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459254883172/2016-03-29---Juan-Diego-Florez.jpg.jpg"
-primary_image_credit = "Decca / Josef Gallauer"
-publishDate = "2016-03-29T13:37:00+01:00"
-related_companies = ["scene/companies/bayerische-staatsoper.md","scene/companies/the-metropolitan-opera.md","scene/companies/royal-opera-house.md","scene/companies/lyric-opera-of-chicago.md","scene/companies/los-angeles-opera.md","scene/companies/san-francisco-opera.md","scene/companies/opra-national-de-paris.md","scene/companies/gran-teatre-del-liceu.md","scene/companies/salzburg-festival.md"]
-slug = "juan-diego-florez"
-title = "Juan Diego Flórez"
-website = "http://juandiegoflorez.com/"
-[[social_media]]
-platform = "Facebook"
-template = "social-media"
-url = "https://www.facebook.com/JuanDiegoFlorezPage"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/jdiego_florez"
-[[social_media]]
-platform = "Instagram"
-template = "social-media"
-url = "https://www.instagram.com/jdiego_florez/"
-+++
+---
+date: "2016-03-29T13:37:00+01:00"
+discipline: Tenor
+lastmod: "2016-03-29T13:41:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459254883172/2016-03-29---Juan-Diego-Florez.jpg.jpg
+primary_image_credit: Decca / Josef Gallauer
+publishDate: "2016-03-29T13:37:00+01:00"
+related_companies:
+- scene/companies/bayerische-staatsoper.md
+- scene/companies/the-metropolitan-opera.md
+- scene/companies/royal-opera-house.md
+- scene/companies/lyric-opera-of-chicago.md
+- scene/companies/los-angeles-opera.md
+- scene/companies/san-francisco-opera.md
+- scene/companies/opra-national-de-paris.md
+- scene/companies/gran-teatre-del-liceu.md
+- scene/companies/salzburg-festival.md
+slug: juan-diego-florez
+social_media:
+- platform: Facebook
+  template: social-media
+  url: https://www.facebook.com/JuanDiegoFlorezPage
+- platform: Twitter
+  template: social-media
+  url: https://twitter.com/jdiego_florez
+- _template: people_single
+  platform: Instagram
+  template: social-media
+  url: https://www.instagram.com/jdiego_florez/
+title: Juan Diego Flórez
+website: http://juandiegoflorez.com/
+cms_visible: true
+---
 
 Born in Lima, Peru, Juan Diego Flórez undertook music studies both in his native Lima and at Curtis Institute in Philadelphia. In 1996 he made his official operatic debut in Matilde di Shabran at the Rossini Opera Festival in Pesaro, where his expressive voice and astonishing agility immediately won him critical accolades. Since then, Flórez has become the tenor of choice in major international theaters.
 Flórez has enjoyed great success in theaters such as La Scala of Milan (Gluck’s *Armide*, *Falstaff*, Nino Rota’s *Il Cappello di Paglia di Firenze*, *Il Barbiere di Siviglia*, Nina Pazza per Amore, *La Sonnambula*, *Italiana in Algeri*, *Cenerentola*, *Fille du regiment*, Concerts, Recital), Comunale of Florence (*Le Comte Ory*, *Falstaff*), Carlo Felice in Genoa (*La Cenerentola*, *Le Comte Ory*, *Donna del lago*, *Fille du regiment*), Rossini Opera Festival in Pesaro (*Matilde di Shabran*, *Il Signor Bruschino*, *Petite Messe Solennelle*, *La Cenerentola*, *Il Viaggio a Reims*, *Donna del lago*, *Stabat Mater*, *Le Comte Ory*, *Barbiere di Siviglia*, *Otello*, Concerts), Regio of Turin (*La Sonnambula*, *Stabat Mater*, *Maria Stuarda*) Accademy of Santa Cecilia in Rome (*Stabat Mater* and *Cantata*, both by Rossini, Recital), Comunale of Bologna (*Il Viaggio a Reims*, *Barbiere di Siviglia*, *Fille du regiment*, *Le Comte Ory*, *I Puritani*), Filarmonico of Verona (*L’Italiana in Algeri*, *Barbiere di Siviglia*), Opera of Rome (*Il Barbiere di Siviglia*, *Italiana in Algeri*),San Carlo of Naples (Concert), Massimo of Palermo (Concert).

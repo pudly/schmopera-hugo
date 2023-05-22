@@ -1,15 +1,20 @@
-+++
-date = "2019-02-05T13:34:48+00:00"
-discipline = "Soprano"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549373545/media/2019/02/MarjorieOwens.jpg"
-primary_image_credit = "Simon Pauly."
-related_companies = ["scene/companies/opera-theatre-of-st-louis.md", "scene/companies/english-national-opera.md", "scene/companies/canadian-opera-company.md", "scene/companies/the-metropolitan-opera.md"]
-slug = "marjorie-owens"
-social_media = []
-title = "Marjorie Owens"
-website = ""
-
-+++
+---
+_template: people_single
+date: "2019-02-05T13:34:48+00:00"
+discipline: Soprano
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1549373545/media/2019/02/MarjorieOwens.jpg
+primary_image_credit: Simon Pauly.
+related_companies:
+- scene/companies/opera-theatre-of-st-louis.md
+- scene/companies/english-national-opera.md
+- scene/companies/canadian-opera-company.md
+- scene/companies/the-metropolitan-opera.md
+slug: marjorie-owens
+social_media: []
+title: Marjorie Owens
+website: ""
+cms_visible: true
+---
 A former member of the Sächsische Staatsoper in Dresden and a Grand Finals Winner of the Metropolitan Opera National Council Auditions, soprano Marjorie Owens is receiving a great deal of acclaim as one of the most exciting young dramatic sopranos to have recently come to the public’s attention.   
   
 This season, Marjorie Owens returns to the Metropolitan Opera’s roster for a variety of roles and makes her debut with the Maggio Musicale Fiorentino and Fabio Luisi in her signature-role of Senta in _Der fliegende Holländer_. She will also be heard with Utah Opera as the title-role in Norma. Finally, Ms. Owens will appear in recital with her alma mater, Baylor University. Future projects include debuts with the Canadian Opera Company and Boston Youth Symphony Orchestra.  

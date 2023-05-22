@@ -1,18 +1,23 @@
-+++
-date = "2016-06-10T11:32:00+01:00"
-discipline = "Tenor"
-lastmod = "2016-06-10T11:32:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465554672839/2016-06-10---Justin-Ralph.jpg.jpg"
-publishDate = "2016-06-10T11:32:00+01:00"
-related_companies = ["scene/companies/opera-5.md","scene/companies/voicebox-opera-in-concert.md","scene/companies/toronto-operetta-theatre.md"]
-slug = "justin-ralph"
-title = "Justin Ralph"
-website = "http://www.justinralph.com/"
-[[social_media]]
-platform = "Twitter"
-template = "social-media"
-url = "https://twitter.com/justintenor"
-+++
+---
+date: "2016-06-10T11:32:00+01:00"
+discipline: Tenor
+lastmod: "2016-06-10T11:32:00+01:00"
+primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1465554672839/2016-06-10---Justin-Ralph.jpg.jpg
+publishDate: "2016-06-10T11:32:00+01:00"
+related_companies:
+- scene/companies/opera-5.md
+- scene/companies/voicebox-opera-in-concert.md
+- scene/companies/toronto-operetta-theatre.md
+slug: justin-ralph
+social_media:
+- _template: people_single
+  platform: Twitter
+  template: social-media
+  url: https://twitter.com/justintenor
+title: Justin Ralph
+website: http://www.justinralph.com/
+cms_visible: true
+---
 
 Originally from Ottawa, tenor Justin Ralph has performed across Ontario, and recently made his international debut in the United Kingdom.
 
