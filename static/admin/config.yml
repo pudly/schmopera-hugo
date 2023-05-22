@@ -9,6 +9,7 @@ public_folder: "images"
 
 # collections
 collections:
+# Articles
 - name: 'articles'
   label: 'Articles'
   folder: 'content/articles'
@@ -29,11 +30,24 @@ collections:
   - { label: "Preamble", name: "preamble", widget: "markdown", minimal: true }
   - { label: "Postamble", name: "postamble", widget: "markdown", minimal: true }
   - { label: "Youtube URL", name: "youtube_url", widget: "string" }
-  - { label: "Related Articles", name: "related_articles", widget: "list", allow_add: true }
-  - { label: "People", name: "related_people", widget: "list" }
-  - { label: "Companies", name: "related_companies", widget: "list" }
-  - { label: "Body of Document", name: "body", widget: "markdown" }
-  
+  - { label: "Related Articles", name: "related_articles", widget: "list", allow_add: true, collapsed: true, field: {label: Article File, name: file, widget: string} }
+  - { label: "People", name: "related_people", widget: "list", allow_add: true, collapsed: true, field: {label: People File, name: file, widget: string} }
+  - { label: "Companies", name: "related_companies", widget: "list", allow_add: true, collapsed: true, field: {label: Company File, name: file, widget: string} }
+  - { label: "Content", name: "body", widget: "markdown" }
+
+
+# Featured Articles
+- label: "Featured Articles"
+  name: "featured_articles"
+  path: "content/featured"
+  fields:
+  - { widget: "string", name: "title", label: "Title" }
+  - { widget: "string", name: "type", label: "Type" }
+  - { widget: "string", name: "url", label: "URL" }
+  - { widget: "string", name: "articles", label: "Featured Article List", list: true, allow_add: true, collapsed: true, field: {label: Article File, name: file, widget: string} }
+
+
+# Authors
 - name: 'authors'
   label: 'Authors'
   folder: 'content/authors'
@@ -55,6 +69,13 @@ collections:
     - { label: "Platform", name: "platform", widget: "string" }
     - { label: "Template", name: "template", widget: "string", default: "social-media" }
     - { label: "URL", name: "url", widget: "string" }
-  - { label: "Body of Document", name: "body", widget: "markdown", summary: "This is the markdown body" }
+  - { label: "Content", name: "body", widget: "markdown" }
 
   
+# About
+- label: "About"
+  name: "about"
+  path: "content/about"
+  fields:
+  - { widget: "string", name: "title", label: "Title" }
+  - { widget: "markdown", name: "body", label: "Content" }
