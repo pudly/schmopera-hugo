@@ -17,6 +17,7 @@ related_companies:
 - scene/companies/gran-teatre-del-liceu.md
 slug: michael-volle
 title: Michael Volle
+cms_visible: true
 ---
 
 Michael Voile has established himself as one of the leading baritones, receiving the important German Theatre Award "Faust" and awarded "Singer of the Year" by the opera magazine "Opernwelt". He studied with Josef Metternich and Rudolf Piernay. 

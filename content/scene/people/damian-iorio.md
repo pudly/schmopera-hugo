@@ -15,6 +15,7 @@ social_media:
   url: http://facebook.com/damianiorio
 title: Damian Iorio
 website: http://www.damianiorio.com/
+cms_visible: true
 ---
 
 Born in London into a distinguished family of Italian and English musicians, Damian Iorio is a dynamic and gifted conductor, and enjoys an international career. Having begun his professional life as a violinist, following studies at the Royal Northern College of Music and Indiana University, Damian went on to study conducting at St Petersburg State Conservatoire whilst serving as a member of the Danish National Radio Symphony Orchestra.

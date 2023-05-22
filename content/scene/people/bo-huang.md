@@ -12,6 +12,7 @@ social_media:
   url: https://www.facebook.com/bohuangphotography
 title: Bo Huang
 website: http://www.bohuang.ca/
+cms_visible: true
 ---
 
 Bo Huang is a portrait photographer whose rich cultural heritage is evident in his unique aesthetic. 

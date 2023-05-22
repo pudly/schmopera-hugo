@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/tenorarmstrong
 title: Dominic Armstrong
 website: http://www.dominicarmstrong.com/
+cms_visible: true
 ---
 
 Dominic Armstrong has quickly established himself internationally as an artist of superb and distinguished musicality and characterization. He is a winner of the 2013 George London Foundation Vocal Competition.

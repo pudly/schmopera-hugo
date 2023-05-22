@@ -17,6 +17,7 @@ social_media:
 title: Mark Morris Dance Group
 type_of_company: Dance & Music Ensemble
 website: http://markmorrisdancegroup.org/
+cms_visible: true
 ---
 
 Founded in New York City in 1980 by artistic director and choreographer Mark Morris, the Mark Morris Dance Group (MMDG) has been called “the preeminent modern dance organization of our time” (Yo-Yo Ma), its members receiving “highest praise for their technical aplomb, their musicality, and their sheer human authenticity.” (*Bloomberg News*). Live music and community engagement are vital components of the Dance Group, which has toured with its own musicians, the MMDG Music Ensemble, since 1996. Through Access/MMDG programming, the Dance Group provides educational opportunities in dance and music to people of all ages and abilities while on tour internationally and at home at the Mark Morris Dance Center in Brooklyn, NY.

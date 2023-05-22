@@ -23,6 +23,7 @@ social_media:
   url: https://www.instagram.com/kkelloggbasso/
 title: Kenneth Kellogg
 website: http://www.kennethkellogg.com/index.html
+cms_visible: true
 ---
 
 Praised for his "commanding stage presence" and "rich, resonant bass," Kenneth Kellogg is quickly gaining recognition as a sought after young artist.

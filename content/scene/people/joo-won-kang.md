@@ -15,6 +15,7 @@ slug: joo-won-kang
 social_media: []
 title: Joo Won Kang
 website: ""
+cms_visible: true
 ---
 South Korean baritone Joo Won Kang continues to establish himself as one of the most talented baritones today, popular both with audience and critics.
 

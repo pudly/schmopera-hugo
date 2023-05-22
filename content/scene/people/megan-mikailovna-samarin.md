@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/megsamarin
 title: Megan Mikailovna Samarin
 website: http://www.megansamarin.com/
+cms_visible: true
 ---
 
 In the 2016-17 season mezzo-soprano Megan Mikailovna Samarin returns to Houston Grand Opera for three productions, singing Siébel in *Faust*, Second Secretary in *Nixon in China*, and covering Wellgunde in *Götterdämmerung*. 

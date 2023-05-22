@@ -23,6 +23,7 @@ social_media:
 title: Fort Worth Opera
 type_of_company: Opera Company
 website: http://www.fwopera.org/
+cms_visible: true
 ---
 Founded in 1946, Fort Worth Opera is the oldest continually performing opera company in Texas, and one of the 14 oldest opera companies in the United States. The organization has received national attention from critics and audiences alike for its artistic excellence, pioneering spirit, and steadfast willingness to take risks. From its first world premiere, Frau Margot in 2007, to 2016’s globally-anticipated new work *JFK* — a co-commision with American Lyric Theater and Opéra de Montréal by the acclaimed creative duo of David T. Little and Royce Vavrek — FWOpera continues to augment its worldwide reputation as a trailblazing, civically minded arts institution.
 

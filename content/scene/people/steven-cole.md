@@ -18,6 +18,7 @@ related_companies:
 - scene/companies/salzburg-festival.md
 slug: steven-cole
 title: Steven Cole
+cms_visible: true
 ---
 
 Internationally acclaimed American character tenor Steven Cole made his professional debut singing Monsieur Triquet in *Eugene Onegin* with the Boston Symphony under Seiji Ozawa at Tanglewood. Specializing in character tenor roles, he has a remarkably varied repertoire with more than 70 roles from Monteverdi to Ligeti.

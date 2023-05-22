@@ -13,6 +13,7 @@ slug: marjorie-owens
 social_media: []
 title: Marjorie Owens
 website: ""
+cms_visible: true
 ---
 A former member of the Sächsische Staatsoper in Dresden and a Grand Finals Winner of the Metropolitan Opera National Council Auditions, soprano Marjorie Owens is receiving a great deal of acclaim as one of the most exciting young dramatic sopranos to have recently come to the public’s attention.   
   

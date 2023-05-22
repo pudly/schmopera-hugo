@@ -14,6 +14,7 @@ social_media:
   template: social-media
   url: https://twitter.com/michaelhmori
 title: Michael Mori
+cms_visible: true
 ---
 
 <p>

@@ -18,5 +18,6 @@ social_media:
 title: Tête à Tête
 type_of_company: Opera Company
 website: http://www.tete-a-tete.org.uk/
+cms_visible: true
 ---
 Led by Artistic Director Bill Bankes-Jones with Music Director Timothy Burke we are a producing opera company and through our productions and opera festivals work with all kinds of artists to develop the artform.

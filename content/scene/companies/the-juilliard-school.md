@@ -40,6 +40,7 @@ social_media:
 title: The Juilliard School
 type_of_company: Conservatory
 website: http://www.juilliard.edu/
+cms_visible: true
 ---
 
 <p>

@@ -18,6 +18,7 @@ related_companies:
 slug: joshua-bloom
 title: Joshua Bloom
 website: http://joshuabloombass.com/
+cms_visible: true
 ---
 
 Australian/Americna bass Joshua Bloom has sung principal roles numerous companies worldwide, including Opera Australia, San Francisco Opera, LA Opera, Santa Fe Opera, Wiener Staatsopr, New York's Metropolitan Opera, Washington National Opera, English National Opera, Badisches Staatstheater, Opera Northern Ireland, and Garsington Opera.

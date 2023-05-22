@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/Tophski
 title: Christopher Mokrzewski
 website: http://www.christophermokrzewski.com/
+cms_visible: true
 ---
 
 <p>

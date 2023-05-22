@@ -14,6 +14,7 @@ social_media:
   url: https://www.facebook.com/emilydornsoprano/
 title: Emily Dorn
 website: https://www.emilydornsoprano.com/
+cms_visible: true
 ---
 Canadian Soprano Emily Dorn is thrilling audiences with her “warm, rich middle, a shimmering, flexible top, excellent control… and her exquisitely beautiful delivery.” Since joining the Dresden Semperoper in 2013 she has performed Violetta in _La Traviata_, Susanna in _Le Nozze di Figaro_, Adele in _Die Fledermaus_, Gretel in _Hänsel und Gretel_, Fiordiligi in _Cosi fan tutte_, and Micaela in _Carmen_ opposite Marcello Giordani.  She made her Savonlinna Opera Festival debut in 2014 as Micaela and returned there this past summer as Susanna in a new production of _Le Nozze di Figaro_. 
 

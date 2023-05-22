@@ -23,6 +23,7 @@ social_media:
   template: social-media
   url: https://twitter.com/GordonBintner
 title: Gordon Bintner
+cms_visible: true
 ---
 The Grand Prize Winner of the OSM Standard Life Competition (2011) and First Prize and People’s Choice Award recipient of the Canadian Opera Company Ensemble Studio Competition (2012), Canadian Bass-Baritone Gordon Bintner appears internationally in a wide-range of operatic and concert repertoire.  
   

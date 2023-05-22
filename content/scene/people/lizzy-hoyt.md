@@ -13,6 +13,7 @@ social_media:
   url: https://www.instagram.com/lizzyhoytmusic/
 title: Lizzy Hoyt
 website: https://www.lizzyhoyt.com/
+cms_visible: true
 ---
 Powerhouse performer, LIZZY HOYT is a unique vocalist who transcends the limitations of musical genre.
 

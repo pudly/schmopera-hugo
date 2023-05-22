@@ -16,6 +16,7 @@ social_media:
   url: https://www.facebook.com/kbradicmezzo
 title: Katarina Bradić
 website: http://katarinabradic.com/en/home.html
+cms_visible: true
 ---
 
 Serbian mezzo-soprano Katarina Bradić first came to international attention in the 2009/2010 season as a member of the ensemble of the Vlaamse Opera, where her roles included Olga in Olga in *Jevgenij Onegin*, Suzuki in *Madama Butterfly* and Medea in Cavalli’s *Giasone*.

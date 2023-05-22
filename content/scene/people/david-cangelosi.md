@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/davidcangelosi
 title: David Cangelosi
 website: http://www.davidcangelosi.com/
+cms_visible: true
 ---
 
 <p>

@@ -16,6 +16,7 @@ social_media:
   template: social-media
   url: https://twitter.com/juli_bou
 title: Julie Boulianne
+cms_visible: true
 ---
 
 <p>

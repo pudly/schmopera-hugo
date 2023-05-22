@@ -15,6 +15,7 @@ social_media:
 title: Opera Orlando
 type_of_company: Opera Company
 website: http://operaorlando.org/
+cms_visible: true
 ---
 
 Opera Orlando produces entertaining, thought-provoking, moving theatrical works of the highest artistic quality; a company that creatively fuses various genres and mediums to engender a community excited about the arts. 

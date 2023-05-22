@@ -16,6 +16,7 @@ social_media:
   url: https://www.facebook.com/sarah.vardysoprano
 title: Sarah Vardy
 website: http://sarahvardy.com/
+cms_visible: true
 ---
 
 Acclaimed for her “emotional yet unaffected quality of performance with true clear voice”, soprano Sarah Vardy impresses and delights audiences across Canada, Europe, Mexico, and China. “She stands out wherever she sings with a combination of vocal passion and rich characterization and musicality.” Her European debut of Tosca was “Victorious” and she continues to “convey deep emotion and rich and unique vocal tones.”

@@ -24,6 +24,7 @@ social_media:
 title: Pocket Concerts
 type_of_company: Concert series
 website: http://www.pocketconcerts.ca/
+cms_visible: true
 ---
 
 A personalized chamber music concert and reception with the artists, in the comfort of your living room or workplace. 

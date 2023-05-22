@@ -15,6 +15,7 @@ social_media:
 title: Amore Opera
 type_of_company: Opera Company
 website: http://www.amoreopera.org/index.php
+cms_visible: true
 ---
 
 Heralded as "an important tradition and a gift to the New York cultural scene," by Classical Music Editor Zachary Woolfe of *The New York Times*, Amore Opera has built a loyal following among opera lovers of all ages. Thanks to having inherited numerous sets and thousands of costumes from Amato Opera, Amore is able to offer fully-staged productions featuring a 30-member orchestra. Each year, Mr. Hull gives a platform to rising star singers, guest conductors, designers, directors, and, by maintaining a children's choir, offers opportunities for new opera aficionados and performers. In November 2017, in an interview for *Operawire*, Mr. Hull explained: "I'm really keen on educating the next generation of people on opera and classical music in general." In an effort to give more singers a chance to participate in a fully-staged live operatic production, Amore usually assigns several singers to each role, so the cast rotates with each performance.

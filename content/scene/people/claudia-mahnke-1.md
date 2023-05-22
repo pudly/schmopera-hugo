@@ -14,6 +14,7 @@ slug: claudia-mahnke
 social_media: []
 title: Claudia Mahnke
 website: ""
+cms_visible: true
 ---
 Claudia Mahnke is one of today’s most important mezzo-sopranos, recognized internationally in the recent seasons for such performances as her Brangäne and Fricka at Bayreuth Festival, Judith in Bartok‘s _Bluebeard’s Castle_ at Staatsoper Hamburg, as well as her Didon in _Les Troyens_ and Selika in _L’Africaine_ at Oper Frankfurt.
 

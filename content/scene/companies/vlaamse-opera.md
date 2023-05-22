@@ -31,6 +31,7 @@ social_media:
 title: Vlaamse Opera
 type_of_company: Opera Company
 website: https://operaballet.be/en
+cms_visible: true
 ---
 
 The Vlaamse Opera (Flemish Opera) is directed by Aviel Cahn, and operates in two different opera houses in two Flemish cities, the Vlaamse Opera Antwerpen and the Vlaamse Opera Ghent. 

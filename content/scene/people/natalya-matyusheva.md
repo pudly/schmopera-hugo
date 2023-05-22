@@ -18,6 +18,7 @@ social_media:
   template: social-media
   url: https://www.facebook.com/natalya.matyusheva?fref=ts
 title: Natalya Matyusheva
+cms_visible: true
 ---
 
 Ukrainian Canadian soprano Natalya Gennadi Matyusheva began her vocal studies at the University of Ottawa, and is a recent graduate of the University of Toronto where she received her Master's degree in Operatic Performance. Natalya successfully performed lead roles in *The Medium*, *Carmen*, *Le nozze di Figaro*, and *Die Zauberflöte* with University of Ottawa Opera company. She appeared in the title role in *The Merry Widow* with the Savoy Theatre Society in the 2010-2011 season and participated in Opera Lyra Ottawa productions.

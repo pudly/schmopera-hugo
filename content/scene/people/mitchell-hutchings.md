@@ -20,6 +20,7 @@ social_media:
   url: https://youtube.com/c/mhvoicestudio
 title: Mitchell Hutchings
 website: https://www.mitchellhutchings.com/
+cms_visible: true
 ---
 Baritone Mitchell Hutchings has been described as having “a beautiful instrument" (American Soprano, Renée Fleming) “that can do anything" (British Pianist, Graham Johnson). He has been heard throughout the United States and abroad from Carnegie Hall to the Antonin Dvorak Museum in Prague.
 

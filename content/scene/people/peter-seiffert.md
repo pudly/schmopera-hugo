@@ -17,6 +17,7 @@ related_companies:
 - scene/companies/opra-national-de-paris.md
 slug: peter-seiffert
 title: Peter Seiffert
+cms_visible: true
 ---
 
 Peter Seiffert studied at the Musikhochschule of his hometown Düsseldorf. His first engagement was at the Deutsche Oper am Rhein; at the same time he was awarded the first prize at the singing competition of the Deutscher Musikrat. Opera and concert guest performances all over Europe, and television appearances followed. His engagement as Lohengrin at the Deutsche Oper Berlin marked the beginning of his international career. He is a regular guest at the Bavarian State Opera Munich where he sang all the important roles of his repertoire. There he was appointed Bayerischer Kammersänger in 1992.

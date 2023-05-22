@@ -68,6 +68,7 @@ social_media:
 title: Canadian Opera Company Ensemble Studio
 type_of_company: Young Artist Program
 website: http://www.coc.ca/AboutTheCOC/CompanyMembers/EnsembleStudio.aspx
+cms_visible: true
 ---
 
 <p>

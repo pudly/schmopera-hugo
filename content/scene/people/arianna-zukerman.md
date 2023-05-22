@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/AriaZuk
 title: Arianna Zukerman
 website: http://www.ariannazukerman.com/index.php
+cms_visible: true
 ---
 
 Renowned for her pure, luminous, rich soprano, persuasive performances and dramatic ability, Arianna Zukerman is considered one of the premiere vocal artists of her generation. An international artist known for concert and opera performances, Ms. Zukerman is also an avid chamber musician, and regularly collaborates with some of today’s foremost chamber players. The Washington Post says “Arianna Zukerman possesses a remarkable voice that combines the range, warmth and facility of a Rossini mezzo with shimmering, round high notes and exquisite pianissimos that would make any soprano jealous.”

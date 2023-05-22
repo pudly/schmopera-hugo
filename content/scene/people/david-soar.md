@@ -15,6 +15,7 @@ related_companies:
 - scene/companies/salzburg-festival.md
 slug: david-soar
 title: David Soar
+cms_visible: true
 ---
 David Soar was born in Nottinghamshire and studied at the Royal Academy of Music and subsequently at the National Opera Studio. 
 

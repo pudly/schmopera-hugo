@@ -10,6 +10,7 @@ slug: lauren-decker
 social_media: []
 title: Lauren Decker
 website: https://www.laurendeckercontralto.com/
+cms_visible: true
 ---
 Lauren Decker, contralto, is currently finishing her second season in the Ryan Opera Center at the Lyric Opera of Chicago. This season, she was seen on the Lyric Opera stage as Giovanna (_Rigoletto_), Schwertleite (_Die Walküre_) and Enrichetta (_I puritani_). In her first year with the Ryan Opera Center, she was Third Lady (_Die Zauberflöte_) and had the honor of sharing the stage with Plácido Domingo in a concert of _La Traviata_. Along with the significant opportunities to sing on the opera stage, Ms. Decker has also performed in a number of radio concerts for WFMT Chicago, including Elgar’s _Sea Pictures_ and Brahms’ _Zigeunerlieder_. This March, marked her Verdi Requiem debut with the Elmhurst Symphony and Apollo Chorus of Chicago.
 

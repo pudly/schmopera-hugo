@@ -119,6 +119,7 @@ social_media:
 title: Wiener Staatsoper
 type_of_company: Opera Company
 website: http://www.wiener-staatsoper.at/Content.Node/home/Startseite-Content.en.php
+cms_visible: true
 ---
 
 The Vienna State Opera (German: Wiener Staatsoper) is an opera house – and opera company – with a history dating back to the mid-19th century. It is located in the centre of Vienna, Austria. It was originally called the Vienna Court Opera (Wiener Hofoper). In 1920, with the replacement of the Habsburg Monarchy by the First Republic of Austria, it was renamed the Vienna State Opera. The members of the Vienna Philharmonic are recruited from its orchestra.

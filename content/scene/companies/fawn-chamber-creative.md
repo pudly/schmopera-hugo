@@ -23,6 +23,7 @@ social_media:
 title: FAWN Chamber Creative
 type_of_company: Chamber Music & Opera Collective
 website: http://www.fawnchambercreative.com/
+cms_visible: true
 ---
 
 <p>

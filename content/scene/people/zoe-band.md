@@ -10,6 +10,7 @@ related_companies:
 - scene/companies/canadian-opera-company.md
 slug: zoe-band
 title: Zoe Band
+cms_visible: true
 ---
 
 Mezzo-soprano Zoe Band is a native of Toronto. She graduated from the Peabody Conservatory with a bachelor of music and a master of music in voice performance. Her roles with Peabody Opera include Hermia in *A Midsummer Night’s Dream*, Miss Benson in *Lakmé*, Ferdinand in *Ariel’s Tempest*, Betty Parris in *The Crucible*, Anna in *The Trio* and Zinnie in *Dora*. Additional credits include Lucretia in *The Rape of Lucretia* (HexaCollective); Hansel in *Hansel and Gretel* (Toronto Summer Opera and Little Patuxtent Opera); and Patricia Hutton in *Camelot Requiem* (The Figaro Project).

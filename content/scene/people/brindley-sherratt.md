@@ -26,6 +26,7 @@ social_media:
   url: https://www.instagram.com/brindleysherratt/
 title: Brindley Sherratt
 website: https://www.brindleysherratt.com/
+cms_visible: true
 ---
 Born in Lancashire, bass Brindley Sherratt studied at the Royal Academy of Music, of which he is now a Fellow and Visiting Professor.
 

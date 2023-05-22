@@ -17,6 +17,7 @@ related_companies:
 - scene/companies/opernhaus-zurich.md
 slug: laurent-naouri
 title: Laurent Naouri
+cms_visible: true
 ---
 Laurent Naouri studied at the CNIPAL in Marseille and the Guildhall School of Music and Drama in London.
 

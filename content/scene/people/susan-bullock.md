@@ -23,6 +23,7 @@ social_media:
   template: social-media
   url: https://twitter.com/susanbu1
 title: Susan Bullock
+cms_visible: true
 ---
 
 Susan Bullock's unique position as one of the world's most sought-after British dramatic sopranos was recognised by the award of a CBE (Commander of the Most Excellent Order of the British Empire) in June 2014.

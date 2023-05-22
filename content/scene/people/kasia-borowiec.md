@@ -21,6 +21,7 @@ social_media:
   url: https://www.instagram.com/kasiaborowiec/
 title: Kasia Borowiec
 website: http://kasiaborowiec.com/
+cms_visible: true
 ---
 
 Praised for her “beautiful singing” (Superconductor) and named a “standout” by *Opera News*, Kasia Borowiec has quickly established herself as a young soprano to watch. In the 2017-2018 season, she returns to both the Santa Fe Opera and Palm Beach Opera for young artist residencies. As a member of Santa Fe Opera's Apprentice Artist Program, Kasia sings the title role in *The Golden Cockerel*.   She will also perform in Santa Fe Opera’s presentation of Justice at the Opera, hosted by Supreme Court Justice Ruth Bader Ginsburg. Kasia then returns to the Benenson Young Artist Program at Palm Beach Opera where she will sing Paquette in Candide, sing the Countess in the family performance of *Le Nozze di Figaro*, and study cover the title role in *Tosca*.  This season, she will also appear with the Atlantic Classical Orchestra as the Soprano Soloist in Beethoven’s Ninth Symphony.

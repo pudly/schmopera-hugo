@@ -131,6 +131,7 @@ social_media:
 title: Opéra National de Paris
 type_of_company: Opera Company
 website: https://www.operadeparis.fr/
+cms_visible: true
 ---
 
 <p>

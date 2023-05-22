@@ -23,6 +23,7 @@ social_media:
   url: https://www.instagram.com/naomi_louisa_oconnell/
 title: Naomi Louisa O'Connell
 website: https://www.naomioconnell.com/
+cms_visible: true
 ---
 Naomi Louisa O’Connell made her professional debut in 2012, starring on London’s West End as Sharon Graham in Terrence McNally’s Tony Award-winning play _Master Class_. A singer, actress, and cabaret artist, her recent engagements include recitals at Carnegie Hall, Stanford University, and Rockefeller University; Bernstein’s _Jeremiah_Symphony with L’Orquestra Jovem do Estado de Sao Paulo; her one-woman German cabaret FRAU at New York’s Neue Galerie; a workshop of Richard Nelson’s new play _Oblivion_ with Lincoln Center Theater; and performances with Geneva Opera, Opera Omaha, and Spoleto Festival USA.
 

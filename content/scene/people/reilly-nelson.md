@@ -13,6 +13,7 @@ social_media:
   url: https://www.instagram.com/sliceofrei/
 title: Reilly Nelson
 website: https://www.reillynelson.com/
+cms_visible: true
 ---
 Canadian mezzo-soprano Reilly Nelson brings her “distinctly warm and burnished” sound to stages of all sizes in North America and Europe. In the 2020/21 season, Ms. Nelson was a Young Artist with the Glimmerglass Opera Festival, a virtual iteration of the distinguished program that featured working sessions with Isabel Leonard, Francesca Zambello, Eric Owens, and Renée Fleming. In 2021, Ms. Nelson will sing Caterina in Mascagni’s _L’amico Fritz_ at the Tiroler Festspiele Erl, and Mercédès in Cincinnati Opera’s production of _Carmen_, before joining Barbara Hannigan’s Equilibrium Young Artists Programme at the Lunenberg Academy of Music Performance in Nova Scotia.
 

@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/MarkMorrisDance
 title: Mark Morris
 website: http://markmorrisdancegroup.org/the-dance-group/mark-morris
+cms_visible: true
 ---
 
 MARK MORRIS was born on August 29, 1956, in Seattle, Washington, where he studied with Verla Flowers and Perry Brunson. In the early years of his career, he performed with the companies of Lar Lubovitch, Hannah Kahn, Laura Dean, Eliot Feld, and the Koleda Balkan Dance Ensemble. He formed the Mark Morris Dance Group (MMDG) in 1980 and has since created close to 150 works for the company. From 1988 to 1991, he was Director of Dance at the Théâtre Royal de la Monnaie in Brussels, the national opera house of Belgium. In 1990, he founded the White Oak Dance Project with Mikhail Baryshnikov. Much in demand as a ballet choreographer, Morris has created nineteen ballets since 1986 and his work is in the repertory of companies worldwide. 

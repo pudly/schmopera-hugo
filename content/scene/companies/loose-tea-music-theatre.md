@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/looseteaopera
 title: Loose TEA Music Theatre
 type_of_company: Opera Company
+cms_visible: true
 ---
 <p>
 	Who is Loose TEA Music Theatre?<br>

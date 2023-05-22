@@ -20,6 +20,7 @@ social_media:
   template: social-media
   url: https://twitter.com/SimoneOsborne
 title: Simone Osborne
+cms_visible: true
 ---
 
 <p>

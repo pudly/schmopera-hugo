@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/semperoper-dresden.md
 slug: liparit-avetisyan
 title: Liparit Avetisyan
+cms_visible: true
 ---
 
 After making his European stage debut as Fenton in the new production of *Falstaff* at the Cologne Opera in October of 2016, Armenian tenor Liparit Avetisyan has been invited to make several other important debuts in the current season: Rodolfo in *La Boheme* with the Frankfurt Opera and Alfredo in *La Traviata* with Opera Australia in Sydney. In the 2017/18 season, Avetisyan will sing Alfredo at the Hamburg State Opera, Berlin State Opera and Semperoper Dresden, and appear as Rodolfo at the Deutsche Oper Berlin. He will also make his French stage debut as Lensky in *Eugene Onegin* at the Opera du Rhin in Strasbourg and adds the role of Nemorino in *L’Elisir d’Amore* to his repertoire in Dresden.

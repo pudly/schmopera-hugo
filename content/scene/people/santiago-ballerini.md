@@ -19,6 +19,7 @@ social_media:
   url: https://www.youtube.com/user/santiagoballerini
 title: Santiago Ballerini
 website: http://santiagoballerini.com/
+cms_visible: true
 ---
 
 Argentinian tenor Santiago Ballerini is recognized as one of the leading tenors in the Bel Canto repertoire, having appeared at many of the major opera houses in South and North America. In the current season, he debuts as Tonio in *La fille du regiment* at the Atlanta Opera, returns to the Teatro Municipal in Rio de Janeiro as Don Ramiro in *La Cenerentola*, makes his European debut as Gualtiero in *Il pirata* at the Opéra National de Bordeaux, and appears at the Teatro Nuovo’s inaugural festival at SUNY Purchase’s Performing Arts Center as Argiro in *Tancredi*. Ballerini will begin the season singing a concert of arias at the Dallas Opera.

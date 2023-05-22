@@ -16,6 +16,7 @@ social_media:
   url: https://www.facebook.com/baritonejaredbybee
 title: Jared Bybee
 website: https://www.jaredbybee.com/
+cms_visible: true
 ---
 California native baritone Jared Bybee is a fourth-year resident artist at the prestigious Academy of Vocal Arts under the direction of maestro Christopher Macatsoris and voice teacher Bill Schuman, where he has performed ten leading operatic roles including Guglielmo (_Cosi Fan Tutte_), Prince Yeletsky (_Pique Dame_), Germont (_La Traviata_), Marcello (_La Boheme_), Valentin (_Faust_), the title character in Don Giovanni, Manfredo (_L'Amore Dei Tre Re_), Michele (_Il Tabarro_), the title character in _Rigoletto_, Enrico (_Lucia di Lammermoor_) and covered the role of Lescaut (_Manon_) and the title character in _The Demon_. 
 

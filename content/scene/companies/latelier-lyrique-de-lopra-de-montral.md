@@ -40,6 +40,7 @@ social_media:
 title: l&#039;Atelier lyrique de l&#039;Opéra de Montréal
 type_of_company: Young Artist Program
 website: http://www.operademontreal.com/en/emerging-artists/atelier-lyrique
+cms_visible: true
 ---
 
 <p>

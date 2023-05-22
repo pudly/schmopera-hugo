@@ -14,6 +14,7 @@ social_media:
   template: social-media
   url: https://twitter.com/lindsaymic
 title: Lindsay Michael
+cms_visible: true
 ---
 
 Lindsay Michael is an award-winning radio and opera producer. She holds a master’s degree in music from McGill University in voice performance and is the founding artistic director of the Liederwölfe Opera Collective. During the Vancouver 2010 Olympic Torch Relay, she was an organizer of a major choral project presented in over 200 towns across Canada. Lindsay was the artistic director and co-founder of Cobblestone Productions and the founder of Opera PEI.

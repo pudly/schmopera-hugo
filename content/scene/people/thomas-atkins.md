@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/AtkinsTenor
 title: Thomas Atkins
 website: http://www.thomasatkinstenor.com/
+cms_visible: true
 ---
 
 Thomas recently completed the Opera Course at the Guildhall School of Music & Drama, under the tutelage of Adrian Thompson. In 2013 he was awarded the New Zealand Arts Foundation Patronage Award. Recent concert performances include Soloist alongside Dame Kiri Te Kanawa at the 2014 Yakushiji Otobutai, Japan and Dritter Lakai in excerpts from Der Rosenkavalier with the London Symphony Orchestra conducted by Sir Mark Elder.

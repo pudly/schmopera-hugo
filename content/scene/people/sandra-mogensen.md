@@ -18,6 +18,7 @@ social_media:
   url: https://www.youtube.com/channel/UCXUxEqSzIpCtvKU1TXuuKXg
 title: Sandra Mogensen
 website: https://www.sandramogensen.com/
+cms_visible: true
 ---
 Sandra Mogensen is equally at home performing as a solo pianist, working with singers in recital, and as vocal coach. She has performed in Canada, the United States, Denmark, Latvia, Norway, and Austria.
 

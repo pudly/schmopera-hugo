@@ -16,6 +16,7 @@ social_media:
   template: social-media
   url: https://twitter.com/maria_katzarava?lang=en
 title: Maria Katzarava
+cms_visible: true
 ---
 
 A winner of several international awards, including First Prize and Zarzuela Prize at Plácido Domingo's Operalia 2008, young Mexican soprano Maria Katzarava has already performed at some of the world’s major theatres, including the Royal Opera House, London, Teatro alla Scala in Milan, Liceu de Barcelona, Florida Grand Opera in Miami, Grand Théâtre de Genève and the Teatro Comunale di Bologna, working under the baton of conductors such as Zubin Mehta, Donato Renzetti and Michele Mariotti.

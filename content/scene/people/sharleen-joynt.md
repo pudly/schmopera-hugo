@@ -17,6 +17,7 @@ social_media:
   url: https://www.instagram.com/sharleenjoynt/
 title: Sharleen Joynt
 website: http://www.sharleenjoynt.com/
+cms_visible: true
 ---
 Coloratura soprano Sharleen Joynt has been praised for her "silvery, sparkling, substantial and resonant soprano" \[_Die Deutsche Bühne_\], her "scintillating high range, reminiscent of the most beautiful moments of Mady Mesplé" \[_Opernwelt_\], and "an artistic command that leaves the listener breathless" \[_Deutschland Radio_\].
 

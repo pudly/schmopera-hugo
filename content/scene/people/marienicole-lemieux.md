@@ -26,6 +26,7 @@ social_media:
   url: https://www.facebook.com/marienicolelemieux
 title: Marie-Nicole Lemieux
 website: http://www.marienicolelemieux.com/en/home/
+cms_visible: true
 ---
 
 It is no wonder that Marie-Nicole Lemieux shines today in the world of singing: the singer like the woman radiates an aura that belongs only to the greatest.

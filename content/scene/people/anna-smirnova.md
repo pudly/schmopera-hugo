@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/bayerische-staatsoper.md
 slug: anna-smirnova
 title: Anna Smirnova
+cms_visible: true
 ---
 
 Russian mezzo-soprano Anna Smirnova is one of the most exciting Verdi mezzos on the international scene. She possesses a true dramatic Verdi mezzo-soprano voice, in the tradition of Simionato, Cossotto and the young Obratzsova. Born in Moscow to a family of musicians, she studied at the Tchaikovsky Conservatory in Moscow. She made one of her very first operatic appearances on the stage of the Teatro alla Scala in 2007 as the Principessa in *Adriana Lecouvreur*. Within two years of this debut, Smirnova was engaged to debut in every major opera company in the world.

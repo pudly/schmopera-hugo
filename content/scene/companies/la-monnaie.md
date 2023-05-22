@@ -52,6 +52,7 @@ social_media:
 title: La Monnaie
 type_of_company: Opera Company
 website: http://www.lamonnaie.be/en/
+cms_visible: true
 ---
 
 ### In a nutshell

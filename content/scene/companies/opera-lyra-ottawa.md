@@ -33,6 +33,7 @@ social_media:
 title: Opera Lyra Ottawa
 type_of_company: Opera Company
 website: http://operalyra.ca/
+cms_visible: true
 ---
 
 <p>

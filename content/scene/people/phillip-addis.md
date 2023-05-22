@@ -28,6 +28,7 @@ social_media:
   url: https://twitter.com/PhillipAddis
 title: Phillip Addis
 website: http://www.phillipaddis.com/home.htm
+cms_visible: true
 ---
 “The burnished yet vibrant and agile voice touches all the chords of human emotion… through a path of awareness and responsibility,” says _Connessi all’Opera_ of Phillip Addis’ portrayal of Britten’s Billy Budd, one of the Canadian baritone’s enviable, signature roles. Mr. Addis, known for his “nimble and expressive” sound and “athletic command of the stage” (_Twin Cities Arts Reader_), is established as one of Canada’s leading performers of opera, concert, and recital repertoire. He is acclaimed internationally for his interpretation of Count Almaviva in _Le nozze di Figaro_, where he sings “an impeccable antagonist”, and is recognized as “the ideal Pelléas of his generation” for his “erotically charged” performances of Debussy’s _Pelléas et Mélisande_ in Hamburg, Paris, Luxembourg, Cincinnati, Dresden, as well as at the Ruhrtriennale and the BBC Proms. Mr. Addis has performed on the world’s major stages, including l’Opéra national de Paris, LA Opera, the Canadian Opera Company, Semperoper Dresden, and the Hamburgischen Staatsoper, under the distinguished batons of Sir John Eliot Gardiner, James Conlon, Yannick Nézet-Séguin, Seiji Ozawa, Kent Nagano, Carlo Rizzi, and more.
 

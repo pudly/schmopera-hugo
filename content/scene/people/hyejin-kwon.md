@@ -12,6 +12,7 @@ related_companies:
 slug: hyejin-kwon
 title: Hyejin Kwon
 website: http://www.hyejinkwon.com/
+cms_visible: true
 ---
 Praised as a “fine stand-in for an orchestra” by the Washington Post, pianist Hyejin Kwon, hails from Seoul, South Korea. Ms. Kwon began studying piano at age four, made her first public debut at age seven and her orchestra debut at age 11. She moved to the United States at age 15 to attend the Interlochen Arts Academy in Michigan. 
 

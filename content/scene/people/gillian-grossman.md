@@ -10,6 +10,7 @@ related_companies:
 slug: gillian-grossman
 title: Gillian Grossman
 website: http://www.gilliangrossman.ca/
+cms_visible: true
 ---
 
 Praised for her charming stage presence and vibrant vocal timbre, soprano Gillian Grossman has earned success both at home and abroad. This season she will make her debut with the Georgian Bay Concert Choir as the soprano soloist in Mendelssohn’s *Elijah*. On the concert stage, Gillian was most recently featured as the soprano soloist in Fauré’s *Requiem* with Masterworks of Oakville, under the baton of Charles Demuynck. She has appeared as the guest soloist with the Bluebridge Festival, Ardeleana, Aradia Ensemble, Etobicoke Centennial Choir, Arcady, the Boris Brott Festival, and La Chorale Cantabile.

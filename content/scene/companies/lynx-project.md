@@ -19,6 +19,7 @@ social_media:
 title: Lynx Project
 type_of_company: Recital Series
 website: http://www.lynxproject.org/
+cms_visible: true
 ---
 LYNX, also known as Lynx Project, is a Chicago-based nonprofit organization that amplifies diverse voices through new song commissions, inclusive concerts, and educational programming. Founded in 2015 by Caitleen Kahn, Megan Moore, Steven Humes, and Florence Mak, LYNX was formed to revitalize the genre of art song and share it with new audiences.
 

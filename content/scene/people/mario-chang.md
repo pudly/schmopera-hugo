@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/MarioChangTenor
 title: Mario Chang
 website: http://www.mariochang.com/
+cms_visible: true
 ---
 
 A First Prize, Zarzuela Prize, and audience favorite at the 2014 Opealia Competition, tenor Mario Chang, a native of Guatemala City, recently completed the Lindemann Young Artist Development Program at The Metropolitan Operaand the Advanced Diploma in Opera Studies program at the Juilliard School. In the 2017-18 season, Mr. Chang will sing the role of Arturo, and cover that of Edgardo, in Mary Zimmerman’s production of *Lucia di Lammermoor* at the Metropolitan Opera. He will also sing the role of Ismaele in *Nabucco* at Los Angeles Opera. In addition, he will return again to Oper Frankfurt as an Ensemble member, where he will take on the title roles in *Werther* and *Roberto Devereux*, as well as sing the role of the Italian Tenor in a new production of *Capriccio* by Brigitte Fassbaender.   

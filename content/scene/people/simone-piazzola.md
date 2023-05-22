@@ -18,6 +18,7 @@ social_media:
   url: https://www.youtube.com/user/vivaverdi2010
 title: Simone Piazzola
 website: http://simonepiazzola.it/
+cms_visible: true
 ---
 
 Born in Verona in 1985, he began at 11 years old his musical studies with the soprano Alda Borelli Morgan. In 2004 he took part in various concerts organized by Fondazione Arena di Verona. In 2005 he won the first prize in the “Marie Kraja” in Tirana and in 2007 the Competition “Comunità Europea” of Teatro Lirico Sperimentale in Spoleto.

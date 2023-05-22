@@ -14,6 +14,7 @@ related_companies:
 slug: duncan-rock
 title: Duncan Rock
 website: http://www.duncanrock.co.uk/
+cms_visible: true
 ---
 
 Baritone Duncan Rock studied at the Guildhall School of Music and Drama and subsequently at the National Opera Studio.

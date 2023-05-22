@@ -22,6 +22,7 @@ social_media:
   url: https://www.instagram.com/laforzadelpastino/
 title: Danielle Pastin
 website: https://www.daniellepastin.com/
+cms_visible: true
 ---
 Quoted as having “a lovely demeanor and irresistible creamy timbre” by _Opera News_, fast-rising, young American soprano Danielle Pastin is gaining accolades from opera houses around the country. Last season, she returned to the Metropolitan Opera stage as Nedda in **_Pagliacci_** and performed in the World Premiere of Robert Paterson’s **_Three Way_** (as Connie in “Masquerade” and Maya in “The Companion”) with Nashville Opera and at the Brooklyn Academy of Music, which was recorded for release. In addition, she performed Leïla in **_Les pêcheurs de perles_** with Toledo Opera, The Countess in **_Le nozze di Figaro_** with Pittsburgh Opera and for Opera Maine, sang Verdi’s **_Requiem_** with DCINY in Barcelona and with the Dayton Philharmonic, Bruckner’s **_Te Deum_** for the Reno Chamber Orchestra, and performed a Gala Concert for The Society of The Four Arts.
 

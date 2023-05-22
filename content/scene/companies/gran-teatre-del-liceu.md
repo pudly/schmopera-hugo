@@ -74,6 +74,7 @@ social_media:
 title: Gran Teatre del Liceu
 type_of_company: Opera Company
 website: http://www.liceubarcelona.cat/en.html
+cms_visible: true
 ---
 
 Barcelona's opera house, the Gran Teatre del Liceu, was founded on the Rambla in 1847 and has continued over the years to fulfil its role as a culture and arts centre

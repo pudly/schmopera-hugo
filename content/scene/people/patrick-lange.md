@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/glyndebourne.md
 slug: patrick-lange
 title: Patrick Lange
+cms_visible: true
 ---
 
 Born in 1981 near Nuremberg, Patrick Lange, since 2008/09 the conductor of the Comic Opera Berlin, is a promising talent in the generation of young conductors. He began his musical career in the boys choir the Regensburg ‘Domspatzen’.

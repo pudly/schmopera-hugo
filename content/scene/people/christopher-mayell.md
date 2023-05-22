@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/cmayell
 title: Christopher Mayell
 website: http://christophermayell.com/
+cms_visible: true
 ---
 
 <p>

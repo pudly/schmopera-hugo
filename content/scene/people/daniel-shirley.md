@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/DSTenor
 title: Daniel Shirley
 website: http://danielshirleytenor.com/
+cms_visible: true
 ---
 
 Of his Carnegie Hall debut, the New York Concert Review noted, “Daniel Shirley’s voice soared over the large forces with strength and clarity.” The tenor continues to earn critical praise for insightful, dramatically affecting performances in concert, musical theater, and opera.

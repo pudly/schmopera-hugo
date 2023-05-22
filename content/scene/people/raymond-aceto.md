@@ -23,6 +23,7 @@ slug: raymond-aceto
 social_media: []
 title: Raymond Aceto
 website: http://www.raymondaceto.com/
+cms_visible: true
 ---
 American bass Raymond Aceto has established an important presence among the world’s leading opera companies and symphony orchestras. His performances continue to gather both popular and critical acclaim. Of his performance as Baron Scarpia, The Houston Chronicle hailed, “Raymond Aceto oozes suave villainy as the evil Baron Scarpia, his voice a dark rumble of menace and lust as he plots to destroy Cavaradossi and conquer Tosca…intelligent characterization distinguishes Aceto’s Scarpia as more than a cartoon villain. Commanding in voice and presence, implacable in his lust for Tosca, he is nonetheless subtle in his calculations. It’s his smiling ease that confirms how dangerous he is.”
 

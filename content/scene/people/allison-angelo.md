@@ -14,6 +14,7 @@ related_companies:
 slug: allison-angelo
 title: Allison Angelo
 website: http://www.allisonangelo.ca/
+cms_visible: true
 ---
 
 Hailed as “A fabulous discovery” by the *Toronto Star*, Canadian soprano Allison Angelo is a talented and versatile young singer applauded on the operatic, recital and concert stage.

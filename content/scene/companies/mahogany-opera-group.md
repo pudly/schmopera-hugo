@@ -25,6 +25,7 @@ social_media:
 title: Mahogany Opera Group
 type_of_company: Opera Company
 website: http://www.mahoganyoperagroup.co.uk/
+cms_visible: true
 ---
 
 Mahogany Opera Group creates new opera in new ways, in different spaces and places throughout the UK and internationally. Each of our distinct projects aims to stretch the boundaries of what opera can be and who it is for.

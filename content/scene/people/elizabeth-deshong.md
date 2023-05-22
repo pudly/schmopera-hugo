@@ -25,6 +25,7 @@ social_media:
   url: https://twitter.com/egdeshong
 title: Elizabeth DeShong
 website: http://www.elizabethdeshong.com/
+cms_visible: true
 ---
 
 <p>

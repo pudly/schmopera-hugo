@@ -10,6 +10,7 @@ related_companies:
 slug: stephanie-lessard
 title: Stéphanie Lessard
 website: https://www.stephanielessard.com/
+cms_visible: true
 ---
 
 Third Prize winner at the Concorsa Internazionale per cantanti Lirici Spazio Musica in Orvieto, Italy (July, 2013), Finalist at the Altamura Caruso International Voice Competition in New York (October, 2011), First Prize at the national final of the Canadian Music Competition (June, 2011), Third prize at the Montreal Symphony Orchestra Standard Life Competition (November, 2008), Stéphanie Lessard has been impressing critics and juries since her début.  Stéphanie is also proud to be supported by the Jeunesses Musicales du Canada.

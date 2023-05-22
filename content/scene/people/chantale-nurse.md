@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/ChantaleNurse
 title: Chantale Nurse
 website: http://chantalenurse.com/Chantale_Nurse,_soprano/Home.html
+cms_visible: true
 ---
 
 <p>

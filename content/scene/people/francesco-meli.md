@@ -15,6 +15,7 @@ related_companies:
 - scene/companies/wiener-staatsoper.md
 slug: francesco-meli
 title: Francesco Meli
+cms_visible: true
 ---
 
 Born in Genova in 1980, he starts his singing studies at the age of seventeen with soprano Norma Palacios at his hometown’s School of music.

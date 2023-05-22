@@ -19,6 +19,7 @@ social_media:
   url: https://www.instagram.com/brandon1129/
 title: Brandon Cedel
 website: https://www.brandoncedel.net/
+cms_visible: true
 ---
 
 Bass-baritone Brandon Cedel, a recent graduate of the Metropolitan Opera's Lindemann Young Artist Development Program, is currently an Ensemble member of Oper Frankfurt. His roles with the company in the 2017-18 season include multiple new productions, including Argante in *Rinaldo*, A Prisoner in *From the House of the Dead*, Dio in *Il Serpente di Bronzo*, and the bass-baritone part in a new commission titled *A Wintery Spring*, composed by Saed Haddad. He will also sing Donner in *Das Rheingold* and Lieutenant Ratcliffe in *Billy Budd*. In addition, he will appear in January with the BBC Philharmonic at a concert featuring Bernstein’s *Songfest*, conducted by David Charles Abell.  

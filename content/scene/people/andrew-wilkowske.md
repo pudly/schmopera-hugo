@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/AndrewWilkowske
 title: Andrew Wilkowske
 website: https://www.andrewwilkowske.com/
+cms_visible: true
 ---
 
 Andrew Wilkowske – when singing a “virile, sturdy Marcello” or a “garrulous yet endearing” Papageno – displays an engaging combination of musical talent and masterful stage presence. According to Opera News, Wilkowske's recent performance in *The Elixir of Love* with Utah Opera was "played with on-the-nose hubris and vocal swagger."

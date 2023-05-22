@@ -17,6 +17,7 @@ social_media:
   url: https://www.instagram.com/alex_mckissick/
 title: Alexander McKissick
 website: https://alexandermckissick.com/
+cms_visible: true
 ---
 
 A native of Madison, Connecticut, tenor Alexander McKissick was recently selected for the Washington National Opera's Domingo-Cafritz Young Artist Program. Roles with WNO include Nikolaus Sprink in *Silent Night*; Joseph/Stagehand in *The Lion, the Unicorn, and Me*; cover of *Faust*, Lamplighter and Drunkard in *The Little Prince*; and Grand Inquisitor in *Candide*. He will be heard as a soloist in "A Concert of Comic Masterpieces," and also was featured in the 2018 American Opera Initiative Festival. 

@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/EmilyD_photog
 title: Emily Ding
 website: http://www.emilydingphotography.com/
+cms_visible: true
 ---
 
 I love weddings, I love singing. I have a master degree in voice performance; but it makes my heart sing more when I make people feel confident and beautiful through my lens.

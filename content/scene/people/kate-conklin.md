@@ -12,6 +12,7 @@ social_media:
   url: https://twitter.com/kateconklin
 title: Kate Conklin
 website: http://kateconklin.com/
+cms_visible: true
 ---
 
 Kate Conklin is a soprano and a leading interpreter of the highly ornamented vocal music of Bulgaria.

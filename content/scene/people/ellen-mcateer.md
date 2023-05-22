@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/ellen_mcateer
 title: Ellen McAteer
 website: http://www.ellenmcateer.ca/
+cms_visible: true
 ---
 
 Originally from Ottawa, Ontario, "young rising star, soprano Ellen McAteer," (CBC Radio) is the two-time recipient of the Richard Bradshaw Graduate Fellowship in Opera and has been awarded a Schulich Scholarship, the Gaelyne Gabora Memorial Prize and the E. M. Wirth Scholarship.

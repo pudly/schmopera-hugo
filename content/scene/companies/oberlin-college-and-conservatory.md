@@ -19,6 +19,7 @@ social_media:
 title: Oberlin College and Conservatory
 type_of_company: Conservatory
 website: http://new.oberlin.edu/conservatory/
+cms_visible: true
 ---
 
 <p>

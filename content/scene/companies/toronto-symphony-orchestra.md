@@ -42,6 +42,7 @@ social_media:
 title: Toronto Symphony Orchestra
 type_of_company: Orchestra
 website: http://www.tso.ca/
+cms_visible: true
 ---
 
 <p>

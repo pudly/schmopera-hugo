@@ -46,6 +46,7 @@ social_media:
 title: University of Toronto Opera
 type_of_company: Opera School
 website: http://uoftopera.ca/
+cms_visible: true
 ---
 
 <p>

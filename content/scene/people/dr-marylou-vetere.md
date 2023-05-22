@@ -14,6 +14,7 @@ social_media:
   template: social-media
   url: https://twitter.com/MaryLouVetere
 title: Dr. Mary-Lou Vetere
+cms_visible: true
 ---
 Dr. Mary-Lou Vetere retains a multifaceted career as a historian, performer, and educator. She has recently obtained the PhD in Historical Musicology. Her dissertation is entitled: "Italian Opera From Verdi to Verismo: Boito and La Scapigliatura." As a historian, she addresses topics that reflect the development of Italian opera between 1850 and 1924. Recently, she presented a paper for the American Musicological Society New York/St. Lawrence Chapter entitled, "Boito’s Code: Solving the Secrets of the Scapigliati and Revealing the Language of Chaos," and is currently working on various other articles for publication and a book proposal for a critical biography on Arrigo Boito and the Scapigliatura.
 

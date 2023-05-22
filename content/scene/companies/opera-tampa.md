@@ -18,6 +18,7 @@ social_media:
 title: Opera Tampa
 type_of_company: Opera Company
 website: http://www.strazcenter.org/OperaTampa
+cms_visible: true
 ---
 
 Opera Tampa is the resident opera company of the Straz Center. Opera Tampa produces and presents the highest caliber of grand opera, complete with the spectacle and grandeur that makes opera "the queen of the performing arts." The elaborate, full-scale productions feature international performers, the full Opera Tampa Orchestra and the Opera Tampa Chorus, all under the direction of world-renowned composer-conductor Daniel Lipton. Opera Tampa performs most often in the Straz Center’s spectacular Carol Morsani Hall, which was designed as a classic horseshoe opera house in the style of the grand opera houses of Europe. The remarkable, near-perfect acoustics in Morsani Hall were designed by the late Russell Johnson, one of today’s finest acousticians.

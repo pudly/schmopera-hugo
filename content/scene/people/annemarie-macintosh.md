@@ -24,6 +24,7 @@ social_media:
   url: https://www.instagram.com/am_macintosh/
 title: Anne-Marie MacIntosh
 website: http://annemariem6.wixsite.com/annemariemacintosh
+cms_visible: true
 ---
 Praised by Opera Canada for her “effervescent coloratura,” “stratospheric notes” and “dramatic vivacity,” soprano Anne-Marie MacIntosh is an exciting new face in Canada’s opera scene. A native of Langley, British Columbia, she made her Calgary Opera debut last fall as Sally in *Die Fledermaus*, followed by Laurette in *Doctor Miracle*. This coming season, Anne-Marie will joining Calgary Opera for a second year in their Emerging Artist program. In her time there, she will be performing as Berta in *Il barbiere di Siviglia* on the mainstage, and as Despina in the Emerging Artist production of *Così fan tutte*. She will also perform in Christmas at the Opera, as well as participating in a month-long school tour of Hannaraptor. In 2015-2016, Anne-Marie was a Rebanks Family Fellow at the prestigious Glenn Gould School and made her professional debut as Barbarina in *Le nozze di Figaro* at Manitoba Opera.
 

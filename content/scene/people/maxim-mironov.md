@@ -28,6 +28,7 @@ social_media:
   url: https://www.youtube.com/channel/UCfyyzjpzfdQNO3S5YP4l-uA
 title: Maxim Mironov
 website: https://www.maximmironov.com/
+cms_visible: true
 ---
 
 Maxim Mironov began his career winning the Neue Stimmen competition in Germany.  His discography includes numerous recordings for labels including Dynamic, Bongiovanni, Bel Air Classic, and Opus Arte. He features on the CD of I Briganti (Naxos), recorded live at the Rossini in Wildbad Opera Festival in July 2012 and recorded Rossini’s *Ricciardo e Zoraide* in which he sings the title role (Naxos 2014). His debut solo disc *La Ricordanza* was released in 2017, based on Bellini’s life, consisting of a series of narrative recitals in which the tenor tells the story of Bellini through his vocal chamber music, exploring the personal side of his biography.

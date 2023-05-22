@@ -20,6 +20,7 @@ social_media:
 title: Off Centre Music Salon
 type_of_company: Concert series
 website: http://offcentremusic.com/
+cms_visible: true
 ---
 
 Off Centre Music Salon presents classical music in an innovative atmosphere that evokes the spirit of a 19th century European salon.

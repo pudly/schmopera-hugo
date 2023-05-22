@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/BettyWaynne
 title: Betty Waynne Allison
 website: http://www.bettywaynneallison.com/Betty_Waynne_Allison/Home.html
+cms_visible: true
 ---
 
 <p>

@@ -28,5 +28,6 @@ social_media:
 title: Asmik Grigorian
 website: https://www.asmikgrigorian.com/
 youtube_url: ""
+cms_visible: true
 ---
 Lithuanian soprano Asmik Grigorian was born in Vilnius and studied at the Lithuanian Music and Theatre Academy. She was a founding member of Vilnius City Opera and has twice been awarded the Golden Stage Cross (the highest award for singers in Lithuania), in 2005 for her debut as Violetta and in 2010 for her performance as Mrs. Lovett _Sweeney Todd_. In 2016 she was honoured with the Young Female Singer award at the International Opera Awards, followed by Female Singer of the Year in 2019. She has recently been nominated in the category of Best Leading Role at the Austrian Music Theatre Awards 2019 for her part in Salome at the Salzburg Festival.

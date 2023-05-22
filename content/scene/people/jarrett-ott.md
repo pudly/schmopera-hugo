@@ -24,6 +24,7 @@ social_media:
   url: https://www.instagram.com/ottjar/
 title: Jarrett Ott
 website: http://www.jarrettott.com/
+cms_visible: true
 ---
 
 American baritone Jarrett Ott was recently named one of twenty-five “Rising Stars” by Opera News, who described his voice in *Cold Mountain* as having an, “often ravishing, airy vocal finish...he brought the testing role not only lovely, Pelléas-like sound but a deep investment in the words.” In his continued career ascension, Mr. Ott will make many important role debuts, including Papageno in *Die Zauberflöte* with Opera Philadelphia as part of their inaugural O17 festival, Figaro in *Il Barbiere di Siviglia* with Lyric Opera Kansas City and Dayton Opera, Jupiter in Offenbach’s *Orpheus in the Underworld* with New Orleans Opera, and at Santa Fe Opera, Harlekin and Maximilian in *Ariadne auf Naxos* and Candide, respectively. Important concert debuts include *Carmina Burana* with Seattle Symphony, Brahms’ *Requiem* with Columbus Symphony and Stanford’s Songs of the Fleet with the New York Choral Society at Carnegie Hall. Mr. Ott will join the Ensemble of Staatsoper Stuttgart beginning in 2018-2019. 

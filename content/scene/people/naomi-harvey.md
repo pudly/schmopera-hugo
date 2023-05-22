@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/opera-holland-park.md
 slug: naomi-harvey
 title: Naomi Harvey
+cms_visible: true
 ---
 Born and educated in Cornwall, Naomi Harvey studied with William McAlpine at the Guildhall School of Music and Drama.
 

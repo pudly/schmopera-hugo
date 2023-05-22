@@ -12,6 +12,7 @@ related_companies:
 - scene/companies/opera-mcgill.md
 slug: aaron-sheppard
 title: Aaron Sheppard
+cms_visible: true
 ---
 
 Born and raised in St. John’s, Newfoundland, tenor Aaron Sheppard studied opera at McGill University in Montreal, where he received a bachelor of music. He is a past member of the Atelier lyrique, Opéra de Montréal’s young artists training program, and in the fall of 2015, he joins the Canadian Opera Company Ensemble Studio.

@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/johnmcbaritone
 title: Johnathan McCullough
 website: https://mcculloughbaritone.com/
+cms_visible: true
 ---
 
 Baritone Johnathan McCullough spends the 2017/18 season as an Emerging Artist at Opera Philadelphia where he will sing Mr. Greatorex in the world premiere of Elizabeth Cree by Kevin Puts and Mark Campbell, as well as Moralès in a new production of Carmen. At the Komische Oper Berlin, he will return for a new Calixto Bieto production of Schreker's Die Gezeichneten after his recent successful debut as Oromasès in a new production of Rameau's Zoroastre conducted by Christian Curnyn. He will cover the role of Hawkins Fuller in Fellow Travelers at the Lyric Opera of Chicago. In concert, he will sing *Carmina burana* with the Boise Philharmonic.

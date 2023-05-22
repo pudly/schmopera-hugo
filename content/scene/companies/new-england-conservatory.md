@@ -17,6 +17,7 @@ social_media:
 title: New England Conservatory
 type_of_company: Conservatory
 website: http://necmusic.edu/
+cms_visible: true
 ---
 
 <p>

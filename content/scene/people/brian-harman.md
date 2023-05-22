@@ -13,6 +13,7 @@ social_media:
   url: https://twitter.com/Composerbrian
 title: Brian Harman
 website: http://www.brianharman.ca/
+cms_visible: true
 ---
 
 Brian Harman (b. 1981) is a Canadian composer, teacher and writer, and is currently the president of the Canadian League of Composers. His music has been described as “three-dimensional, maybe four-dimensional” (Arthur Kaptainis, The Gazette) and “effective and chilling” (Richard Todd, Ottawa Citizen). Harman’s music is frequently inspired by extra-musical elements, such as architecture, human speech, modern dance, technology and concepts of ritual. He has collaborated extensively with artists in other disciplines (performance artist Nina Arsenault, choreographer/dancer Geneviève Bolla, visual artist Danilo Ursini), and has written for a wide variety of media: orchestra, wind ensemble, choir, chamber ensembles, song cycle, opera, solo piano, theatre, modern dance, film and live electronics.

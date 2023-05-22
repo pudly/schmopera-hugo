@@ -24,6 +24,7 @@ social_media:
   url: https://www.youtube.com/user/zeffinquinnhollis
 title: Zeffin Quinn Hollis
 website: http://www.zeffin.com/#!opera/c1w4l
+cms_visible: true
 ---
 Actor, singer, director, teacher.
  

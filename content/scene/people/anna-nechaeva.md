@@ -8,6 +8,7 @@ related_companies:
 - scene/companies/washington-national-opera.md
 slug: anna-nechaeva
 title: Anna Nechaeva
+cms_visible: true
 ---
 ### Recent and upcoming engagements
 

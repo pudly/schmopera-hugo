@@ -25,6 +25,7 @@ social_media:
   url: https://www.facebook.com/sydneybaedkesoprano
 title: Sydney Baedke
 website: https://www.sydneybaedkesoprano.com/
+cms_visible: true
 ---
 Described as a "rising star to watch" by _Opera Canada_, soprano Sydney Baedke was recently named one of Canada's top emerging musicians under 30 by the CBC (2021). Praised for her "shimmering" coloratura (_Opera News_), she began her vocal training at age five in her native Alberta and has since made emerging artist appearances across Canada, the United States, and Europe. She looks forward to making her principle artist debut at Opera on the Avalon as Beatrice in Heggie & Sheer's _Three Decembers_ in June 2022.
 

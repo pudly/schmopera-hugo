@@ -21,6 +21,7 @@ social_media:
 title: Sarasota Opera
 type_of_company: Opera Company
 website: http://www.sarasotaopera.org/index.aspx
+cms_visible: true
 ---
 
 In 1960 the group, then called Asolo Opera Guild was formed to present the touring Turnau Opera in chamber-sized productions in the historic 320 seat Asolo Theater on the grounds of Sarasota's Ringling Museum of Art. In 1973 the company began mounting its own productions. Recognizing the need for a theater more conducive to opera, the company purchased the former A.B. Edwards Theater in downtown Sarasota in 1979. Renovations began in 1982 and the theater, now on the National Register of Historic Places, opened in 1984 as the Sarasota Opera House, the company it housed now being called Sarasota Opera.

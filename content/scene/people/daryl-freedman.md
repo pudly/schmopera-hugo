@@ -24,6 +24,7 @@ social_media:
   url: https://www.facebook.com/darylfreedmanmezzosoprano
 title: Daryl Freedman
 website: http://www.darylfreedman.com/
+cms_visible: true
 ---
 Praised by Opera News for her “striking dark timbre” and “expansive, sumptuous” performances, mezzo-soprano Daryl Freedman begins the 21/22 season with a role/house debut at Virginia Opera in _Das Rheingold_ (Fricka). Additional engagements include a role/house debut at The Atlanta Opera in the title role of _Julius Caesar_, returns to The Metropolitan Opera for _The Magic Flute_ (Third Lady) and rehearsal cover in the new McVicar production of _Don Carlos_ (Princess Eboli), and a return to Washington National Opera for the world premiere of Sankaram’s _Rise_ (Powerful Woman/Adelaide Johnson). In the summer of 2022, she will debut at the Salzburger Festspiele in a new Christoph Loy production of _Suor Angelica_ (Suor Dolcina) conducted by Franz Welser-Möst. On the concert stage she debuts with the Erie Philharmonic in _Mahler Symphony No. 2_, and returns to the Fairfax Symphony for Beethoven _Symphony No. 9_.
 

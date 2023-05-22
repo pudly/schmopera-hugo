@@ -18,6 +18,7 @@ social_media:
   url: https://www.instagram.com/galoyanmane/
 title: Mané Galoyan
 website: http://www.manegaloyan.com/
+cms_visible: true
 ---
 Armenian soprano Mané Galoyan, whom Classical Source exclaimed, “...is a real find, small in stature but with a compelling presence and able to express feelings as naturally as breathing” in relation to her turn as Violetta in _La traviata_ with the Glyndebourne Festival on tour, is making a splash in the classical music industry.
 

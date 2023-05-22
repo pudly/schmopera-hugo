@@ -38,6 +38,7 @@ social_media:
 title: Opera Atelier
 type_of_company: Opera Company
 website: http://www.operaatelier.com/
+cms_visible: true
 ---
 
 <p>

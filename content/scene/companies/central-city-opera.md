@@ -27,6 +27,7 @@ social_media:
 title: Central City Opera
 type_of_company: Opera Company
 website: https://centralcityopera.org/
+cms_visible: true
 ---
 
 ## ABOUT CENTRAL CITY OPERA

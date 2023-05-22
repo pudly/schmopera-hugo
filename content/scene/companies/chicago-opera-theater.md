@@ -24,6 +24,7 @@ social_media:
 title: Chicago Opera Theater
 type_of_company: Opera Company
 website: https://chicagooperatheater.org/
+cms_visible: true
 ---
 Chicago Opera Theater is a company laser-focused on living its values: 
 

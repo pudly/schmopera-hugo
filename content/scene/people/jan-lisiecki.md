@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/janlisiecki
 title: Jan Lisiecki
 website: http://www.janlisiecki.com/Jan_Lisiecki___Classical_Piano.html
+cms_visible: true
 ---
 
 Just 22, Canadian pianist Jan Lisiecki has won acclaim for his extraordinary interpretive maturity, distinctive sound, and poetic sensibility. The New York Times has called him “a pianist who makes every note count”. Lisiecki’s insightful interpretations, refined technique, and natural affinity for art give him a musical voice that belies his age.

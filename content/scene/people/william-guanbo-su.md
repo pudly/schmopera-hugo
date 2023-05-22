@@ -10,6 +10,7 @@ slug: william-guanbo-su
 social_media: []
 title: William Guanbo Su
 website: ""
+cms_visible: true
 ---
 Heralded by the New York Times for “musical taste, honest execution of Handelian ornaments and bel canto filigree, and a solid voice,” William Guanbo Su is a 2019 Metropolitan Opera National Council Auditions Grand Finals winner.
 

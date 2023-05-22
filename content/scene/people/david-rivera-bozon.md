@@ -21,6 +21,7 @@ social_media:
   url: https://www.youtube.com/channel/UCGysosq7YyI5VCucU3o8DKg
 title: David Rivera Bozón
 website: https://www.davidriverabozon.com/
+cms_visible: true
 ---
 I am an international Colombian tenor, based in Boston, with more than sixteen years of experience in music performing. The core of my career has been to share with love the joy of singing; bringing my voice and heart on different latitudes and communities: From big theaters, to flash mobs in bakeries and shopping malls.
 

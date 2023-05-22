@@ -26,6 +26,7 @@ social_media:
 title: Esprit Orchestra
 type_of_company: Orchestra
 website: http://www.espritorchestra.com/index.html
+cms_visible: true
 ---
 
 Esprit Orchestra is Canada's only full-sized orchestra devoted exclusively to performing and promoting new orchestral music.

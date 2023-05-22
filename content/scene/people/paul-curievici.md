@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/paulcurievici
 title: Paul Curievici
 website: https://www.paulcurievici.co.uk/
+cms_visible: true
 ---
 
 Paul Curievici’s current and future plans include a revival of Gerald Barry’s *The Importance of Being Earnest* Barbican and Lincoln Center with the New York Philharmonic, DIONYSUS cover *The Bassarids* Opera di Roma *Les Enfants Terribles* The Royal Ballet,  DON CURZIO/DON BASILIO *Le nozze di Figaro* Scottish Opera,  JACK *The Rise and Fall of the City of Mahagonny* Landestheater Salzburg,  RAUL *The Exterminating Angel* Royal Danish Opera Copenhagen and PEDRILLO *Die Entführung aus dem Serail* Grange Festival.

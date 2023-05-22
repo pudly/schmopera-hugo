@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/fromthevoiceof
 title: Elizabeth McDonald
 website: http://www.fromthevoiceof.com/home.html
+cms_visible: true
 ---
 
 Soprano Elizabeth McDonald is having a diverse career as a performer and teacher.  As a young artist with both the Santa Fe Opera and the Canadian Opera Company, Elizabeth understudied and performed a number of major roles including Elettra in Mozart's *Idomeneo*, The Woman in Schoenberg's *Erwartung*, Miss Jessel in Britten's *Turn of the Screw*, and Jenufa in Janecek's *Jenufa*.  She has appeared with the National Ballet Orchestra, the Canadian Opera Company Orchestra, and the Kingston Symphony and is a regular recitalist having been featured at Virginia Polytechnic University, Eastman School of Music and the Universities of Toronto, Lakehead, Lethbridge, Queen's and Carlton, and the Off Centre Music Salon. 

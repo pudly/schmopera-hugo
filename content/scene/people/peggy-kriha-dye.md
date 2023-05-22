@@ -13,6 +13,7 @@ social_media:
   template: social-media
   url: https://www.facebook.com/peggykrihadyeofficial
 title: Peggy Kriha Dye
+cms_visible: true
 ---
 
 <p>

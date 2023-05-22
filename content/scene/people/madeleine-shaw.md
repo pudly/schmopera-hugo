@@ -12,6 +12,7 @@ social_media:
   template: social-media
   url: https://twitter.com/maudalicious
 title: Madeleine Shaw
+cms_visible: true
 ---
 
 Samling Artist Madeleine Shaw studied at the RSAMD and the National Opera Studio supported by English National Opera. Madeleine was subsequently part of the Young Singers Programme at ENO.

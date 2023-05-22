@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/CostelloTenor
 title: Stephen Costello
 website: http://stephencostellotenor.com/
+cms_visible: true
 ---
 
 As the Associated Press observes, Stephen Costello is “a prodigiously gifted singer whose voice makes an immediate impact.” The Philadelphia-born tenor quickly established a reputation as a “first-class talent” (Opera News) after coming to national attention in 2007, when, aged 26, he made his Metropolitan Opera debut on the company’s season-opening night. Two years later Costello won the prestigious Richard Tucker Award, and has since appeared at many of the world’s most important opera houses and music festivals, including the Metropolitan Opera New York; Royal Opera House Covent Garden; Deutsche Oper Berlin; Deutsche Staatsoper Berlin; Vienna State Opera; Bayerische Staatsoper Munich and the Salzburg Festival. 

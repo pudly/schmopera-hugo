@@ -22,6 +22,7 @@ social_media:
 title: Collectìf
 type_of_company: Song collective
 website: https://www.collectiftoronto.com/
+cms_visible: true
 ---
 
 Collectìf is dedicated to exploring and expanding the world of art song performance

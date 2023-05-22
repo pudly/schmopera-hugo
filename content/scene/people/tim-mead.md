@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/tim_mead
 title: Tim Mead
 website: http://www.tim-mead.com/
+cms_visible: true
 ---
 
 Counter-tenor Tim Mead is praised for his elegant and warm tone with faultless projection and stylish interpretations. His virtuosic performances have drawn much international attention, and he is recognised as one of the finest across the generations of counter-tenors.

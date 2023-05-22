@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/washington-national-opera.md
 slug: alexander-lewis
 title: Alexander Lewis
+cms_visible: true
 ---
 
 With worldwide operatic engagements and acclaimed performances in musical theatre, Australian tenor Alexander Lewis is forging a unique career as a “cross-over” artist. He performed the role of John Wormley in the world première of Matthew Aucoin’s opera *Crossing*, inspired by Walt Whitman's journals. Of his performance as the wounded young soldier, *The New York Times* hailed “The affecting young tenor Alexander Lewis brings cagey intensity to the role, singing by turns with flashes of defiance and pleading despair.” This season’s engagements include reprisals of Count Danilo in *The Merry Widow* with West Australian Opera and Opera Australia, John Wormley in a remounting of *Crossing* at Brooklyn Academy of Music in New York, and the title role of *The Nose* with Opera Australia and the Komische Oper Berlin.

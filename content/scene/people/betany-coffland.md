@@ -17,6 +17,7 @@ social_media:
   url: https://www.instagram.com/chlorisfloral/
 title: Betany Coffland
 website: http://www.betanycoffland.com/index.html
+cms_visible: true
 ---
 
 Betany Coffland, mezzo-soprano's performances have been hailed by *Opera News* as “extremely fine” and “a joy to watch,” and her tone has been described by The San Francisco Classical Voice as "plush" and "Italianate".

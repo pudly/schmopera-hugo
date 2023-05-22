@@ -155,6 +155,7 @@ social_media:
 title: San Francisco Opera
 type_of_company: Opera Company
 website: http://sfopera.com/Home.aspx
+cms_visible: true
 ---
 
 <p>

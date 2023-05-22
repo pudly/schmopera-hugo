@@ -12,6 +12,7 @@ related_companies:
 slug: melisa-bonetti
 title: Melisa Bonetti
 website: http://melisabonettimezzo.com/
+cms_visible: true
 ---
 
 Mezzo-Soprano, Melisa Bonetti, has been hailed by Opera today as “a warm, supple mezzo that struck all the right impressions” and as “commanding a wonderful presence in the lower middle voice but also easily soaring heavenward with a well-schooled top.” Ms. Bonetti's 2017 season proves to be exciting and diverse as it ranges from the premiere of a new opera to Mozart engagements. Melisa will perform as Tyler in the premiere of *Three Way* in a collaboration with Nashville Opera and American Opera Projects, first in Nashville and then at the Brooklyn Academy of Music this Summer. Melisa is excited to cover Carmen with Nashville Opera while still performing the role of Mercedes, which she will follow with a different production of *Carmen* with Opera Columbus, also in the role of Mercedes. 

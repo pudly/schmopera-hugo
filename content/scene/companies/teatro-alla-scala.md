@@ -126,6 +126,7 @@ social_media:
 title: Teatro alla Scala
 type_of_company: Opera Company
 website: http://www.teatroallascala.org/en/
+cms_visible: true
 ---
 
 

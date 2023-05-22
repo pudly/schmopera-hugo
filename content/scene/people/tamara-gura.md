@@ -25,6 +25,7 @@ social_media:
   url: https://www.youtube.com/playlist?list=PLHwP4fYgVWvjOBodTNP9P0RkkNPpAv5z0
 title: Tamara Gura
 website: http://www.tamaragura.com/
+cms_visible: true
 ---
 
 American mezzo-soprano TAMARA GURA is rapidly establishing herself as one of the most exciting mezzos of her generation, having garnered international attention for her velvety, warm-timbred voice; clear, precise coloratura; and dynamic stage presence.

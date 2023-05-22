@@ -23,6 +23,7 @@ social_media:
   url: https://www.facebook.com/BenBlissTenor/
 title: Ben Bliss
 website: https://www.benblisstenor.com/
+cms_visible: true
 ---
 
 American tenor Ben Bliss is a 2016 recipient of the Martin E. Segal award at Lincoln Center, awarded by the Metropolitan Opera. He was also the recipient of the Mozart and Plácido Domingo awards at the 2015 Francisco Viñas International Competition in Barcelona, receiving 2nd place overall, first prize in the 2014 Gerda Lissner and Licia Albanese-Puccini Foundation competitions, as well as a Sara Tucker and Sullivan Foundation grant. Mr. Bliss is also the 2013 Operalia Don Plácido Domingo Sr. Zarzuela prizewinner. In the 2017-2018 season, Mr. Bliss will sing the role of Ferrando in *Cosi fan tutte* at the Metropolitan Opera, Seattle Opera, and Oper Frankfurt. He will also make his house debut at Opera Philadelphia as Tamino in *The Magic Flute*, and sing the role of Cassio in *Otello* with the Atlanta Symphony Orchestra. In addition, he will return to Santa Fe Opera to make his role debut as Robert Wilson in *Dr. Atomic* in a production directed by Peter Sellars. Concert appearances will include singing the Messiah with the New York Philharmonic in December.  

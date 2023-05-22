@@ -13,5 +13,6 @@ social_media:
 title: Heroic Opera
 type_of_company: Opera Company
 website: https://heroicopera.com/
+cms_visible: true
 ---
 The Heroic Opera Company was formed in February of 2017. Our mandate is to produce both concert and staged operas of Wagner, Strauss, and Verdi. Our aim is to enrich Vancouver's opera scene with more of these great operas for big, dramatic voices.

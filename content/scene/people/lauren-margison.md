@@ -25,6 +25,7 @@ social_media:
   url: https://www.youtube.com/user/laurenmargisonsinger
 title: Lauren Margison
 website: http://www.laurenmargison.com/
+cms_visible: true
 ---
 Recognized for her ability to communicate with an audience, soprano **Lauren Margison** is making her mark as a young artist of note. An alumna of the Canadian Opera Company’s Ensemble Studio, she was a member of the prestigious Atelier lyrique de l'Opéra de Montréal, laureate of Jeune Ambassadrice Lyrique, and the youngest finalist to appear in the prestigious and highly competitive Die Meistersinger von Nürnberg Vocal Competition. A finalist and prizewinner in the 2017 George London Foundation Awards, Lauren went on to take first prize in the 2018 competition, and, this past season, garnered prizes in the Metropolitan Opera Laffont Competition and was a semi-finalist in the Concours International Musical de Montréal.
 

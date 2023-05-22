@@ -10,6 +10,7 @@ related_companies:
 - scene/companies/against-the-grain-theatre.md
 slug: siman-chung
 title: Siman Chung
+cms_visible: true
 ---
 Siman Chung, countertenor from Busan, South Korea, returned to the Metropolitan Opera for the 2021-22 season, to participate in their productions of RODELINDA and AKHNATEN.
 

@@ -17,6 +17,7 @@ related_companies:
 slug: mariusz-kwiecen
 title: Mariusz Kwiecen
 website: http://www.mariuszkwiecien.com/
+cms_visible: true
 ---
 
 Mariusz Kwiecien is recognized worldwide as one of the leading baritones before the public today. Known for his handsome voice, incisive musicianship and captivating stage presence, he performs with the Metropolitan Opera, Covent Garden, Paris Opera, Vienna State Opera, Lyric Opera of Chicago and Bavarian State Opera, and with many other renowned theaters around the world. He is in demand for his portrayals of the title role in *Don Giovanni*, *King Roger*, and *Eugene Onegin*, as well as for Almaviva in *Le nozze di Figaro*, Malatesta in *Don Pasquale*, Riccardo in *I puritani*, and Rodrigo di Posa in *Don Carlo*.

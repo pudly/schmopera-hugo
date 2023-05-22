@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/PaulSLaRosa
 title: Paul La Rosa
 website: http://www.paullarosabaritone.com/
+cms_visible: true
 ---
 American baritone Paul La Rosa continues to gain recognition on the strengths of his vocal appeal and charismatic stage presence. He has earned critical praise for "a wonderful touch for physical comedy, a strong and beautiful voice, and the dancing skills that one typically encounters on Broadway". 2018 witnesses Mr. La Rosa's return to San Diego Opera and his debut with Eugene Opera, for the respective company premieres of Piazzolla's tango-opera _María de Buenos Aires_, in the role of El Payador, and his Princeton Festival debut as Sharpless in _Madama Butterfly_. Mr. La Rosa looks forward to his 2019 role and company debuts with Gulfshore Opera (Germont in _La Traviata_ and Malatesta in _Don Pasquale_) as well as his Fort Worth Opera debut reprising the role of Enrique in Martinez's _El pasado nunca se termina_, which he created in 2015.
 

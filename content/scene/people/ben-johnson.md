@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/tenorbenjohnson
 title: Ben Johnson
 website: http://www.benjohnsontenor.com/
+cms_visible: true
 ---
 
 Acclaimed tenor Ben Johnson represented England in BBC Cardiff Singer of the World 2013 and won the Audience Prize. Johnson is a former BBC Radio 3 New Generation Artist, 2008 winner of the Kathleen Ferrier Award, 2011 Wigmore Hall Emerging Talent, and a 2013-2015 English National Opera Harewood Artist. He is the Founder and Chief Conductor of the Southrepps Sinfonia as well as joint Artistic Director of the Southrepps Classical Music Festival. He is professor of singing at the Royal Academy of Music in London.

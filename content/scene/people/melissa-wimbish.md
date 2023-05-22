@@ -11,6 +11,7 @@ social_media:
   url: https://twitter.com/melissawimbish
 title: Melissa Wimbish
 website: https://www.melissawimbish.com/
+cms_visible: true
 ---
 In the world-premiere of _Josephine_, _The Washington Post_ gushed, “... the afternoon belonged to Melissa Wimbish, who was creating the role of Josephine Baker in this world-premiere … Beautifully prepared, vocally stunning, and theatrically riveting, Wimbish effortlessly held the audience in her hand throughout this one-woman show.” _The New York Times_ wrote of her “show-stealing turn as the hormonal pageboy Cherubino” in OnSite Opera’s revival of _The Marriage of Figaro_ by Marcos Portugal. As Cunegonde, she was praised by _The Boulder Daily Camera_ as “simply incredible … the highlight of the entire evening.” In the role of Juliette, Melissa was “ … especially captivating at the onset performing the reveling ‘Je veux vivre’ complete with impressive vocal runs and coquettish mannerisms” as noted by _DC Metro Theater Arts_. Even in the tiny role of Barbarina with Lyric Opera Baltimore she did not go unnoticed with _Opera News_ noting her “promising soprano” while _The Baltimore Sun_ echoed praise for her “bright voice” and “knack for animating phrases.” She is known for her chameleon-like vocal talent, which spans traditional, contemporary, and popular styles.
 

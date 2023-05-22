@@ -100,6 +100,7 @@ social_media:
 title: Washington National Opera
 type_of_company: Opera Company
 website: http://www.kennedy-center.org/wno/index
+cms_visible: true
 ---
 Founded in 1956 as a modest but intrepid ensemble known as the Opera Society of Washington,Washington National Opera (WNO) is today one of America’s largest opera companies. WNO draws inspiration from a rich legacy built on the values of artistic excellence, engagement with a broad community, and a thriving future for the art form of opera and its audiences. As an artistic affiliate of the John F. Kennedy Center for the Performing Arts, WNO performs fall and spring seasons in the 2,200-seat Kennedy Center Opera House. WNO also offers performances on Millennium Stage and at other venues at the Center and throughout the city, and offers training, educational, and enrichment programs year-round.
 

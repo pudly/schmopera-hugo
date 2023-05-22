@@ -15,6 +15,7 @@ related_companies:
 - scene/companies/the-juilliard-school.md
 slug: aubrey-allicock
 title: Aubrey Allicock
+cms_visible: true
 ---
 
 Hailed by the New York Times as "sturdy", "dynamic", and "excellent", Aubrey Allicock continues to make his mark among important opera companies and symphonies both at home and abroad.

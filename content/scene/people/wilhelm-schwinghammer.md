@@ -16,6 +16,7 @@ related_companies:
 - scene/companies/los-angeles-opera.md
 slug: wilhelm-schwinghammer
 title: Wilhelm Schwinghammer
+cms_visible: true
 ---
 
 Wilhelm Schwinghammer is one of the finest basses of the younger generation. His large repertoire ranges from roles of the baroque repertoire to contemporary music and covers all important roles of his voice catergory such as Figaro (*Le Nozze di Figaro*), Leporello (*Don Giovanni*), Sarastro (*Die Zauberflöte*), Osmin (*Die Entführung aus dem Serail*), König Heinrich (*Lohengrin*), König Marke (*Tristan und Isolde*), Landgraf Hermann (*Tannhäuser*), Daland (*Der fliegende Holländer*), Fasolt (*Das Rheingold*), Rocco (*Fidelio*), Sparafucile (*Rigoletto*) and Orest (*Elektra*). Upcoming projects include roles such as Baron von Ochs auf Lerchenau (*Der Rosenkavalier*) at the Stockholm Opera and a series of concert performances with Zubin Mehta in Tel Aviv as well as Il Re di Scozia (*Ariodante*) at the Vienna State Opera.

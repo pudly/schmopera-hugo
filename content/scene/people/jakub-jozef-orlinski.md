@@ -22,6 +22,7 @@ social_media:
   url: https://www.youtube.com/channel/UCjAGMG-toVsnw_DIUVnSpFg
 title: Jakub Józef Orliński
 website: http://jakubjozeforlinski.com/
+cms_visible: true
 ---
 
 National Council Auditions and winner of the 2015 Marcella Sembrich International Vocal Competition, is quickly gaining a reputation as a singer of striking vocal beauty and daring stage craft. 

@@ -18,6 +18,7 @@ social_media:
 title: re:Naissance
 type_of_company: Opera company
 website: http://operaafterhours.wix.com/renaissance
+cms_visible: true
 ---
 
 ## What Is Opera?

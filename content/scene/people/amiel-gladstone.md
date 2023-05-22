@@ -11,6 +11,7 @@ related_companies:
 slug: amiel-gladstone
 title: Amiel Gladstone
 website: http://www.amielgladstone.com/
+cms_visible: true
 ---
 
 Amiel Gladstone is a West Coast based writer and director.

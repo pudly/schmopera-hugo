@@ -10,6 +10,7 @@ related_companies:
 slug: james-mclean
 title: James McLean
 website: http://www.jamesmclean.de/
+cms_visible: true
 ---
 
 James McLean grew up in the city of Toronto, where he began his solo career with the Toronto Symphony, under the baton of Sir Andrew Davis, the Toronto Mendelssohn Choir and the Canadian Opera Company.

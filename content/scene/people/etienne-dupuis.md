@@ -21,6 +21,7 @@ social_media:
   template: social-media
   url: https://twitter.com/etiennelovesya
 title: Etienne Dupuis
+cms_visible: true
 ---
 Praised for his “suave, empathetic baritone” and his “refined, charismatic” stage presence (The New York Times), Etienne Dupuis enjoys international acclaim, appearing regularly at the world's most important opera stages and concert platforms.
 

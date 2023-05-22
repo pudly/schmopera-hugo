@@ -10,6 +10,7 @@ related_companies:
 slug: abigail-richardson-schulte
 title: Abigail Richardson Schulte
 website: http://abigailrichardson.com/
+cms_visible: true
 ---
 
 <p>

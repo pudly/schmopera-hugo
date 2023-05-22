@@ -29,6 +29,7 @@ social_media:
   url: https://www.linkedin.com/in/andrewhaji/
 title: Andrew Haji
 website: http://www.andrewhaji.com/
+cms_visible: true
 ---
 Canadian tenor Andrew Haji is quickly becoming one of the most sought-after voices on both the operatic and concert stages. Winner of the Grand Prix at the 50th International Vocal Competition in ‘s-Hertogenbosch and the Montreal International Music Competition’s Oratorio Prize, Haji recently performed Bach’s _Matthäus-Passion_ with Pinnock and the National Arts Centre Orchestra and _Messiah_ for the Toronto Symphony – Debus conducting.
 

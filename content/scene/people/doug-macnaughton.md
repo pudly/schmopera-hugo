@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/DougMacNaughton
 title: Doug MacNaughton
 website: http://www.dougmacnaughton.com/
+cms_visible: true
 ---
 
 <p>

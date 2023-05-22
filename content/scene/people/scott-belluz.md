@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/ScottBelluz
 title: Scott Belluz
 website: https://www.scottbelluz.com/
+cms_visible: true
 ---
 Scott Belluz has established himself as engaging vocal artist and versatile singing actor. Praised for his 'warm, rich voice' (_La Marseillaise_) and 'bravura vocal performances' (Now Magazine) Scott brings his sensitive and committed artistry to repertoire ranging from 17th century to newly composed works.
 

@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/opera-north.md
 slug: derrell-acon
 title: Derrell Acon
+cms_visible: true
 ---
 
 Bass-baritone Derrell Acon is a uniquely accomplished performer whose repertoire ranges from the comic to the tragic and even the sensual. Recent roles include Leporello in *Don Giovanni* (which he has performed at the Hawaii Performing Arts Festival and Queen City Opera), Don Basilio in *Il barbiere di Siviglia* (which he has performed internationally with La Compagnia di BelCanto di Milano and also with New York City's Christman Opera Company), Sarastro in *Die Zauberflöte* (which he has performed as a young artist with the Glimmerglass Festival), and Ramfis in *Aïda* (which he covered at the Glimmerglass Festival). During the 2017–2018 season, Mr. Acon reprises Sarastro in Portland Opera to Go's touring production of *The Magic Flute* and makes two joint role and company debuts, first as Escamillo in Opera Ithaca's *Carmen*, and then as Rocco in Heartbeat Opera's *Fidelio*.

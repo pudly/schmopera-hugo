@@ -18,6 +18,7 @@ social_media:
   url: https://www.instagram.com/sopranomuhire/
 title: Cécile Muhire
 website: https://cecilemuhire.com/
+cms_visible: true
 ---
 Diplômée du Conservatoire de musique de Montréal, Cécile Muhire poursuit maintenant sa formation auprès de la soprano Monique Pagé à l’Université de Montréal. Boursière de la fondation Jacqueline Desmarais et lauréate du 2e Prix de Ottawa Choral Society New Discoveries’, elle fait ses débuts à l’Opéra de Montréal dans le rôle de la Strawberry Woman (_Porgy and Bess_), pour ensuite entamer deux années consécutives comme stagiaire à l’Atelier lyrique de l’Opéra de Montréal.
 

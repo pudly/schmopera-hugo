@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/immontalbetti
 title: Ileana Montalbetti
 website: http://www.ileanamontalbetti.com/
+cms_visible: true
 ---
 
 <p>

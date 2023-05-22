@@ -12,6 +12,7 @@ social_media:
 title: workshOPERA
 type_of_company: Opera Company
 website: http://www.workshopera.org.uk/
+cms_visible: true
 ---
 
 Busting the myth that contemporary opera is irrelevant, pretentious and unapproachable, creating work to feed your inner explorer, be you a connoisseur, opera virgin, or just simply curious.

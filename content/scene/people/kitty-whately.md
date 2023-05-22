@@ -14,6 +14,7 @@ social_media:
   url: https://twitter.com/kittywhately
 title: Kitty Whately
 website: https://www.kittywhately.com/
+cms_visible: true
 ---
 Kitty Whately trained at Chetham’s School of Music, the Guildhall School of Music and Drama, and the Royal College of Music International Opera School.  She won both the Kathleen Ferrier Award and the 59th Royal Overseas League Award in the same year, and was part of the prestigious Verbier Festival Academy where she appeared as Cherubino in *Le Nozze di Figaro* and in Beethoven’s Choral Fantasy.  Kitty was a BBC New Generation Artist from 2013-15, during which time she recorded her debut solo album *This Other Eden*, made recordings with the BBC orchestras, commissioned a new song cycle and made several appearances at the Proms.
 

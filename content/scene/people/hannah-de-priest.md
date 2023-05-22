@@ -15,6 +15,7 @@ social_media:
   url: https://www.instagram.com/nannerdepriest/
 title: Hannah De Priest
 website: http://www.hannahdepriest.com/
+cms_visible: true
 ---
 
 Praised for her "agile, always easy" voice, (L'Opera) "irresistible" Hannah De Priest is an emerging lyric soprano with a voice well-suited to the demands of early music. A baroque specialist, she appeared this past season as Belinda in Purcell's *Dido and Aeneas*, Ïole in Handel's *Hercules*, and Oberto in Handel's *Alcina*. This summer she will make her Boston debut as a Young Artist in the Boston Early Music Festival's production of André Campra's *Le Carnaval de Venise*, performing as a member of the ensemble cast and covering the lead role of Isabelle.

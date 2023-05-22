@@ -44,6 +44,7 @@ social_media:
 title: The Banff Centre
 type_of_company: Arts & Music Centre
 website: http://www.banffcentre.ca/
+cms_visible: true
 ---
 
 <p>

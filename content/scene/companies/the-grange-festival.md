@@ -24,6 +24,7 @@ social_media:
 title: The Grange Festival
 type_of_company: Festival
 website: https://thegrangefestival.co.uk/
+cms_visible: true
 ---
 
 Not since Thomas Beecham created his own international opera company in 1916, paid for with the proceeds from sales of Beecham’s Powders, has a new UK opera festival of such scale and ambition been born. It has quickly emerged phoenix-like to present world-class performance in the heart of Hampshire.

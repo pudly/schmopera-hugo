@@ -30,6 +30,7 @@ social_media:
   url: https://www.youtube.com/channel/UC6jidviYzIjuBRq_5mzIgzQ/feed
 title: Tamara Wilson
 website: https://www.tamarawilsonsoprano.com/
+cms_visible: true
 ---
 Soprano Tamara Wilson is quickly gaining international recognition for her interpretations of Verdi, Mozart, Strauss and Wagner. She is the 2016 recipient of the prestigious Richard Tucker Award, an annual prize conferred by the Richard Tucker Music Foundation given to a rising American opera singer on the "threshold of an major international career."
 

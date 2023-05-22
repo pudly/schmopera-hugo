@@ -24,6 +24,7 @@ social_media:
   url: https://www.youtube.com/user/NewJersey5858
 title: Michael Fabiano
 website: http://michaelfabianotenor.com/
+cms_visible: true
 ---
 
 The recipient of the 2014 Richard Tucker Award and the 2014 Beverly Sills Artist Award, Michael Fabiano is the first-ever winner of both awards in the same year, and is considered one of the greatest young tenors in the world today. Of his performance as Oronte in *I Lombardi* with Opera Orchestra of New York, The New York Times wrote: “What everyone who attended a concert by the Opera Orchestra of New York at Avery Fisher Hall on Monday night seemed to be thinking when the show was over might have been summarized in a Twitter post: ‘Michael Fabiano OMG.’ The sentiment was evident whenever that tenor opened his mouth, to judge by the prolonged ovations and shouts that followed.”

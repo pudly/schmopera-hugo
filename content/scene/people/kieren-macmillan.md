@@ -12,6 +12,7 @@ social_media:
   url: https://twitter.com/KMac_Composer
 title: Kieren MacMillan
 website: http://kierenmacmillan.info/
+cms_visible: true
 ---
 
 <p>

@@ -14,6 +14,7 @@ social_media:
   url: https://twitter.com/operajeff
 title: Jeffrey Williams
 website: http://jeffreywilliamsbaritone.com/
+cms_visible: true
 ---
 
 American baritone Jeffrey Williams has been hailed by Baltimore Sun, as “very likeable, a winning performance sung with much confidence, phrasing everything stylishly,” and by Miami Herald as possessing a “commanding, sizeable, effortless, manly baritone.”

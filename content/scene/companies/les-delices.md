@@ -22,5 +22,6 @@ social_media:
 title: Les Délices
 type_of_company: Early Music group
 website: https://www.lesdelices.org/
+cms_visible: true
 ---
 Les Delices delights, inspires, educates, and expands audiences for music on period instruments through innovative programming and world class performances. With deep roots in our Northeast Ohio community, Les Délices is building a national reputation as a leader in the field of early music, advancing its relevance and sustainability by welcoming collaboration, embracing digital media, and proactively working to support diversity and inclusion among our peers and repertoire.

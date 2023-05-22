@@ -13,6 +13,7 @@ related_companies:
 slug: hiromi-omura
 title: Hiromi Omura
 website: http://www.hiromiomura.com/
+cms_visible: true
 ---
 
 Hiromi Omura was born in Tokyo, Japan. After obtaining her Master of Arts in singing at the Tokyo National University of Fine Arts and Music, she moved to Italy, training in Mantua and Milan. She then transferred to France to join the Opera Studio CNIPAL in Marseille.

@@ -10,6 +10,7 @@ related_companies:
 slug: anat-edri
 title: Anat Edri
 website: http://anatedri.com/
+cms_visible: true
 ---
 
 This Summer Anat Edri made her role debut of Susanna in LE NOZZE DI FIGARO in Bregenzer Festspiele 2017 under the direction of Jörg Lichtenstein and conductor Hartmut Keil.  Anat will also sing the role of Susanna in Oper Leipzig under the wand of Matthias Foremny and Gewandhaus Orchestra.

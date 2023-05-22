@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/urbanvessel
 title: Juliet Palmer
 website: https://urbanvessel.wordpress.com/about/artistic-director/
+cms_visible: true
 ---
 
 Artistic Director Juliet Palmer is a composer, sound artist and performer. Juliet moved from New Zealand to New York in 1990 to work with interdisciplinary pioneer Meredith Monk, completing her PhD at Princeton University in 1999. Based in Toronto, her music has been featured around the world, from New York’s Bang On A Can Festival to Italy’s Angelica Festival and Australia’s Adelaide Festival. Performers of her music include the Penderecki String Quartet, Trio Fibonacci, the Gryphon Trio, Toca Loca, Continuum, l’Orchestre Métropolitain conducted by Yannick Nézet-Séguin, Tapestry New Opera (Canada); Les Percussions de Strasbourg (France); Fontanamix (Italy); Piano Circus (UK); California EAR Unit and the Bang on a Can All-Stars (USA); and the New Zealand Symphony Orchestra. Scores and recordings at: www.musiccentre.ca and www.sounz.org.nz. Listen to her work on soundcloud.

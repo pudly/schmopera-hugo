@@ -24,6 +24,7 @@ related_companies:
 - scene/companies/opera-north.md
 slug: harry-bicket
 title: Harry Bicket
+cms_visible: true
 ---
 
 Internationally renowned as an opera and concert conductor of distinction, Harry Bicket is especially noted for his interpretation of baroque and classical repertoire and in 2007 became Artistic Director of The English Concert, one of the UK’s finest period orchestras. He became Chief Conductor of Santa Fe Opera in 2013 and opened the 2014 season with a critically-acclaimed *Fidelio*. Born in Liverpool, he studied at the Royal College of Music and Oxford University and is an accomplished harpsichordist.

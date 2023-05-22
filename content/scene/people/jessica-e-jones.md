@@ -18,6 +18,7 @@ social_media:
   url: https://soundcloud.com/jessica-e-jones-44550156
 title: Jessica E. Jones
 website: http://jessicaejones.com/
+cms_visible: true
 ---
 
 "Full of dazzling radiance, soprano Jessica E. Jones lit up the intimate space as virginal Lucia driven mad by unrequited love. She supplied her own thunder and sparks to Donizetti’s vocal fireworks." -*Houston Press*. 

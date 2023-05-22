@@ -27,6 +27,7 @@ social_media:
   url: https://www.instagram.com/katrinagalka/
 title: Katrina Galka
 website: http://katrinagalka.com/
+cms_visible: true
 ---
 _The Oregonian_ praises soprano Katrina Galka for her recent performances of Adina in _L’elisir d’amore_, exclaiming that she “looked like a young Glenn Close, projecting power over Nemorino as she thrilled with fine coloratura filigree and pure high notes.” In the 2018-19 season, she makes her Wiener Staatsoper debut as Fritzi in the world premiere of Staud’s _Die Weiden_. She makes company debuts with both New Orleans Opera and Opera San Jose in returns to Blondchen in _Die Entführung aus dem Serail_, the Seiji Ozawa Music Academy as a guest artist for Frasquita in _Carmen_, and Odyssey Opera as Aithra in _Die ägyptische Helena_. On the concert stage, she joins the Florida Orchestra for a concert celebrating Bernstein’s Broadway. Future engagements include a role and company debut at the Opernhaus Zürich in a new production and returns to both the Wiener Staatsoper for multiple projects and Arizona Opera for a role debut. Last season, she returned to Portland Opera to debut the role of Gilda in _Rigoletto_. She also returned to Arizona Opera as Cunegonde in _Candide_, Rosina in _Il barbiere di Siviglia_, Woglinde in _Das Rheingold_, and a quartet of roles in Morganelli’s _Hercules vs Vampires_ as well as joined the Las Vegas Philharmonic for Handel’s _Messiah_. In the summer, she joined On Site Opera as Serpetta in _La finta giardiniera_ at the Caramoor International Music Festival.
 

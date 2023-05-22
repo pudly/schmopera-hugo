@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/tenorryan
 title: Ryan MacPherson
 website: http://www.ryanmacpherson.com/
+cms_visible: true
 ---
 
 With a vast and growing repertoire, Ryan is well known for his captivating stage presence, as well as his expertise in modern and contemporary music. This season he makes his company and role debut as Edward Rochester with the Center for Contemporary Opera in the world premier of Louis Karchin's *Jane Eyre*. He will also make his company debut with the New Jersey Symphony Orchestra as the tenor soloist in Handel's *Messiah* this December.

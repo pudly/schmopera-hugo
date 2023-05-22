@@ -16,6 +16,7 @@ slug: christopher-magiera
 social_media: []
 title: Christopher Magiera
 website: http://www.christophermagieramusic.com/
+cms_visible: true
 ---
 Christopher Magiera has been noted for his “manly, vibrant baritone of uncommon distinction” (Opera Today) and was praised by The New York Times for his performance in _The Death of Klinghoffer_: “Among a uniformly outstanding cast, Christopher Magiera, a handsome baritone, stands out as a warm, brave and sympathetic Captain.” Mr. Magiera has been seen on stages throughout the world in leading baritone repertoire with renowned conductors such as Kent Nagano, Riccardo Frizza, Asher Fisch, Vladimir Jurowski, Emmanuel Villaume, Stephen Lord, Pier Giorgio Morandi and Frederic Chaslin.  
 

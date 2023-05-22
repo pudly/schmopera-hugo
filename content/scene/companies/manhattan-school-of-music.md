@@ -26,6 +26,7 @@ social_media:
 title: Manhattan School of Music
 type_of_company: Conservatory
 website: http://www.msmnyc.edu/
+cms_visible: true
 ---
 
 <p>

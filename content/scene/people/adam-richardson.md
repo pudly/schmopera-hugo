@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/the-juilliard-school.md
 slug: adam-richardson
 title: Adam Richardson
+cms_visible: true
 ---
 
 Adam Richardson is rapidly gaining acclaims as a multitalented baritone for his powerful operatic, concert and theatre performances. Mr. Richardson debuted successfully internationally as a soloist in 2014 with the American Spiritual Ensemble. After garnering major attention at the famous La Folle Journée, his energetic performances premiered in popular European venues such as The American Cathedral in Paris, The Royal Dublin Society and Wexford Opera House. Achieving matching success domestically, Mr. Richardson debuted in Lyric Opera of Virginia’s La Boheme for the 2013/2014 season. Mr. Richardson also covered the role of Amonsaro while serving as a Studio Artist in Opera Santa Barbara’s Aida in 2013.

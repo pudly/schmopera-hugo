@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/suzannevinnik
 title: Suzanne Vinnik
 website: http://www.suzannevinnik.com/
+cms_visible: true
 ---
 
 During the past three seasons, Suzanne Vinnik has appeared with Florida Grand Opera as Violetta in *La Traviata*, Pittsburgh Opera as Leïla in *Les Pêcheurs de Perles* and the title role in *Hänsel und Gretel*, Lyric Opera Virginia as Micaela in *Carmen*, Opera Piccola San Antonio in Ricky Ian Gordon's *Orpheus & Euridice* and with the Castleton Festival (under Lorin Maazel), Nevada Opera, and Opera North as Musetta in *La Boheme*.

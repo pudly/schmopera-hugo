@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/baritoneirvin
 title: Craig Irvin
 website: http://www.craigirvinbaritone.com/
+cms_visible: true
 ---
 
 Baritone Craig Irvin brings a vibrant sound and commitment to character to each role he portrays.  Craig recently made role and company debuts with Wolf Trap Opera as the Villains in *The Tales of Hoffmann* and then returned to Wolf Trap in 2012 for Leporello in *Don Giovanni*. Additionally, he debuted with Minnesota Opera in the world premier of Kevin Puts’ new opera *Silent Night*, appeared with the Canadian Opera Company as Betto in *Gianni Schicchi* and covered the role of Simone in *A Florentine Tragedy*, and joined the cast of *Simon Boccanegra* with Los Angeles Opera covering the role of Paolo.  

@@ -17,6 +17,7 @@ social_media:
   template: social-media
   url: https://www.facebook.com/Pretty.Yende.Official/
 title: Pretty Yende
+cms_visible: true
 ---
 
 South African soprano Pretty Yende first came to international attention in 2010 when she became the first artist in the history of the Belvedere Competition to win First Prize in every category. In 2011, she was the first prize winner of Placido Domingo’s Operalia Competition. Yende made her professional operatic debut at the National theatre in Riga as Micaela in *Carmen*. She has since been seen at nearly all of the major theaters of the world, including the Metropolitan Opera, Teatro alla Scala, Covent Garden, Deutsche Oper Berlin, and many others.

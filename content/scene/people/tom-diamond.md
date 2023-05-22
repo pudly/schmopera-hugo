@@ -12,6 +12,7 @@ related_companies:
 - scene/companies/opera-mcgill.md
 slug: tom-diamond
 title: Tom Diamond
+cms_visible: true
 ---
 
 <p>

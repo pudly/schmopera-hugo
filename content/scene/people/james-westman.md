@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/WestmanBaritone
 title: James Westman
 website: http://jameswestman.com/
+cms_visible: true
 ---
 
 <p>

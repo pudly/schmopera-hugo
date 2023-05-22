@@ -17,6 +17,7 @@ related_companies:
 slug: krassimira-stoyanova
 title: Krassimira Stoyanova
 website: http://krassimira-stoyanova.com/
+cms_visible: true
 ---
 
 Krassimira Stoyanova is one of the leading sopranos of our time, highly acclaimed by press and public alike.

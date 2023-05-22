@@ -48,6 +48,7 @@ social_media:
 title: Nashville Opera
 type_of_company: Opera Company
 website: http://www.nashvilleopera.org/
+cms_visible: true
 ---
 
 Mission:  Nashville Opera makes a difference by creating legendary productions

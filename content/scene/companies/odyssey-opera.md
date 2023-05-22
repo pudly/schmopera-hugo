@@ -22,5 +22,6 @@ social_media:
 title: Odyssey Opera
 type_of_company: Opera company
 website: https://www.odysseyopera.org/
+cms_visible: true
 ---
 Founded in 2013 by Artistic Director/Conductor Gil Rose, Odyssey Opera presents adventurous and eclectic works that affirm opera as a powerful expression of the human experience. Its world-class artists perform the operatic repertoire from its historic beginnings through lesser-known masterpieces to contemporary new works and commissions in a variety of formats and venues. Odyssey Opera sets standards of high musical and theatrical excellence and innovative programming to advance the operatic genre beyond the familiar and into undiscovered territory. Odyssey Opera takes its audience on a journey to places they’ve never been before.

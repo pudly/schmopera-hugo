@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/ElisabetStrid
 title: Elisabet Strid
 website: https://www.elisabetstridsoprano.com/
+cms_visible: true
 ---
 Elisabet Strid started her international career 2010 at the Norwegian National Opera Oslo as ELISABETH in Stefan Herheim’s *Tannhäuser* production. Since then, she has sung this very role at the Semperoper Dresden, the Rhine Opera Dusseldorf-Duisburg and at the Festival in Tampere. 
 

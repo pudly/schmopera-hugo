@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/JoyceDiDonato
 title: Joyce DiDonato
 website: http://joycedidonato.com/
+cms_visible: true
 ---
 
 <p>

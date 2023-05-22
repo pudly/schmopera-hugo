@@ -9,6 +9,7 @@ related_companies:
 - scene/companies/tapestry-opera.md
 slug: omar-daniel
 title: Omar Daniel
+cms_visible: true
 ---
 
 Omar Daniel has composed extensively in solo, chamber, electronic and orchestral idioms, and was the 1997 recipient of the Jules Lger Award for New Chamber Music. Other composition awards include the 2007 K.M. Hunter Arts Award, the SOCAN National Competition for Young Composers and the CBC National Radio Competition for Young Composers.

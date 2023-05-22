@@ -11,6 +11,7 @@ related_companies:
 slug: ilana-zarankin
 title: Ilana Zarankin
 website: http://www.ilanazarankinsoprano.com/index.html
+cms_visible: true
 ---
 
 Described as possessing a voice capable of “vaulting to vertiginous heights” (*The New York Times*) and singing with “poise, polish and a lovely voice” (*The Millbrook Independent*), soprano Ilana Zarankin is a recent graduate of Dawn Upshaw’s Bard College Conservatory Graduate Vocal Arts Program (in the studio of Lorraine Nubar).

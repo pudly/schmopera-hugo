@@ -14,6 +14,7 @@ related_companies:
 slug: michele-pertusi
 title: Michele Pertusi
 website: http://michelepertusi.com/
+cms_visible: true
 ---
 
 Acclaimed as one of the greatest singers in the world lyric scene, Michele Pertusi was born in Parma, where he studied piano and singing at the Conservatory “A. Boito”. Then he continued his studies with Arrigo Pola, Carlo Bergonzi and Rodolfo Celletti.

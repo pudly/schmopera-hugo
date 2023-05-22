@@ -20,6 +20,7 @@ social_media:
   url: http://www.youtube.com/jkimismusic
 title: Kangmin Justin Kim
 website: http://kangminjustinkim.com/
+cms_visible: true
 ---
 Korean-American Kangmin Justin Kim is one of the most sought-after countertenors of his generation, having earned accolades in roles of the Baroque repertoire, contemporary music and in Mozart’s trouser parts.
 

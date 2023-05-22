@@ -23,6 +23,7 @@ social_media:
   url: https://www.instagram.com/brianthebaritone/
 title: Brian Mulligan
 website: https://brianmulligan.com/
+cms_visible: true
 ---
 Baritone Brian Mulligan is equally renowned as an interpreter of classic works by Verdi, Wagner and Strauss as well as of the most challenging twentieth and twenty-first century operas.  His striking stage portrayals have taken him to leading opera houses throughout Europe and North America.  He makes regular appearances with the leading US orchestras and in recital.
 

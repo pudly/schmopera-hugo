@@ -19,6 +19,7 @@ social_media:
 title: Dayton Opera
 type_of_company: Opera Company
 website: http://daytonperformingarts.org/opera
+cms_visible: true
 ---
 
 #### The Beginning

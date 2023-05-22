@@ -19,6 +19,7 @@ social_media:
 title: Muse 9 Productions
 type_of_company: Production company
 website: ""
+cms_visible: true
 ---
 We are a Multi-disciplinary Music Theatre production company based in Toronto, Canada. 
 

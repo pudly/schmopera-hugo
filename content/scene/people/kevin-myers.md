@@ -10,6 +10,7 @@ related_companies:
 - scene/companies/opera-5.md
 slug: kevin-myers
 title: Kevin Myers
+cms_visible: true
 ---
 
 Kevin Myers seduces audiences with his beautiful lyrical tenor voice and brilliant interpretation.

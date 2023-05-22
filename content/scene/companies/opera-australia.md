@@ -30,6 +30,7 @@ social_media:
 title: Opera Australia
 type_of_company: Opera Company
 website: https://opera.org.au/
+cms_visible: true
 ---
 
 <p>

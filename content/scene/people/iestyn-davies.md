@@ -30,6 +30,7 @@ social_media:
   url: https://www.youtube.com/channel/UCV4ajzjU8aQwCdEdWUcP-gA
 title: Iestyn Davies
 website: http://www.iestyndavies.com/
+cms_visible: true
 ---
 
 After graduating in Archaeology and Anthropology from St John’s College, Cambridge Iestyn Davies studied at the Royal Academy of Music, London.

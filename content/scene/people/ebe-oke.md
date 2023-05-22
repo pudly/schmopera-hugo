@@ -24,5 +24,6 @@ social_media:
   url: https://www.youtube.com/user/ebeoke
 title: Ebe Oke
 website: http://ebeoke.be/index.html
+cms_visible: true
 ---
 Ebe Oke is a composer and transmedia artist working predominately with sound and performance. His experimental compositions are inspired in part by his childhood spent on an exotic bird sanctuary in the Deep South, Georgia and incorporate the sounds of birds and insects. He has studied composition with Karlheinz Stockhausen and counts Brian Eno and Laurie Anderson as personal mentors and collaborators. Oke's work has also included the scoring of dance, film, theatre and art installations.

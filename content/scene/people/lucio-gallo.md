@@ -16,6 +16,7 @@ related_companies:
 - scene/companies/la-monnaie.md
 slug: lucio-gallo
 title: Lucio Gallo
+cms_visible: true
 ---
 
 Born in Taranto, Lucio Gallo graduated at the ‘Giuseppe Verdi’ Conservatory of Turin with Elio Battaglia. He is a regular guest of the world’s leading opera houses and concert halls including Metropolitan, San Francisco Opera, Wiener Staatsoper, Konzerthaus and Musikverein in Wien, Covent Garden, Staatsoper, Philharmonic Orchestra and Deutsche Oper in Berlin, Salzburg Festival, Teatro alla Scala, Hamburgische Staatsoper, Bayerische Staatsoper, Opernhaus in Zürich, Monnaie in Bruxelles, Rossini Opera Festival in Pesaro, Teatro Regio di Torino, Teatro dell’Opera di Roma and Accademia Nazionale di Santa Cecilia in Rome, Teatro Comunale di Bologna, just to name a few.

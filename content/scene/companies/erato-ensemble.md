@@ -14,6 +14,7 @@ social_media:
 title: Erato Ensemble
 type_of_company: Chamber ensemble
 website: http://www.eratoensemble.com/Home_Page.php
+cms_visible: true
 ---
 
 ERATO is an art-song chamber collective formed in 2006 by tenor/composer William George and soprano/composer Catherine Laub. 

@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/SidneyOutlaw
 title: Sidney Outlaw
 website: http://sidneyoutlaw.com
+cms_visible: true
 ---
 
 Lauded by The New York Times as a “terrific singer” and The San Francisco Chronicle as “an opera powerhouse”, Sidney Outlaw was the Grand Prize winner of the Concurso Internacional de Canto Montserrat Caballé in 2010 and continues to delight audiences in the U.S. and abroad with his rich and versatile baritone and engaging stage presence.

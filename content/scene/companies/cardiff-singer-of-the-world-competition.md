@@ -22,6 +22,7 @@ social_media:
 title: Cardiff Singer of the World Competition
 type_of_company: Singing Competition
 website: http://www.bbc.co.uk/events/r2hzp6?lang=en
+cms_visible: true
 ---
 BBC Cardiff Singer of the World is a competition known throughout the classical music world as the premier showcase for opera and concert singers at the outset of their careers. It has launched the careers of some major stars including Karita Mattila, Dmitri Hvorostovsky, Bryn Terfel, Anja Harteros and Jamie Barton.
 

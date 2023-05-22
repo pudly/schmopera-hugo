@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/Cris_Pasaroiu
 title: Cristina Pasaroiu
 website: http://cristina-pasaroiu.com/
+cms_visible: true
 ---
 
 Lauded by the *Frankfurter Allgemeine Zeitung* for her “highly intense stage and musical presence”, “the versatility of her soprano, poignant low notes, high notes and passage work, enormous stamina and nuanced expression”, Cristina Pasaroiu has been celebrated at many of the world’s most prestigious opera houses, concert halls and festivals.

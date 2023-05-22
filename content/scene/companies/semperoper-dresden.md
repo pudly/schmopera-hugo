@@ -46,6 +46,7 @@ social_media:
 title: Semperoper Dresden
 type_of_company: Opera Company
 website: https://www.semperoper.de/en.html
+cms_visible: true
 ---
 
 Die Semperoper Dresden befindet sich im historischen Altstadt-Zentrum. Sie zählt mit ihren zirka 1.300 Plätzen zu den berühmtesten Spielstätten der Welt und ist ein Haus von Weltruf mit einem Ensemble von Rang, mit der Sächsischen Staatskapelle Dresden und dem Semperoper Ballett und der neuen Sparte Semperoper Junge Szene.

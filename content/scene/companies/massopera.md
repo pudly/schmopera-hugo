@@ -16,6 +16,7 @@ social_media:
 title: MassOpera
 type_of_company: Opera Company
 website: http://massopera.org/
+cms_visible: true
 ---
 ### OUR MISSION
 

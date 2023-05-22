@@ -20,6 +20,7 @@ related_companies:
 slug: john-relyea
 title: John Relyea
 website: http://www.johnrelyea.com/
+cms_visible: true
 ---
 
 John Relyea continues to distinguish himself as one of today's finest basses.

@@ -24,6 +24,7 @@ social_media:
   url: https://twitter.com/n_craighead
 title: Neil Craighead
 website: https://neilcraighead.com/
+cms_visible: true
 ---
 
 Neil Craighead’s burgeoning career has recently taken him from Vancouver Island to Newfoundland, featured in operas by Somers, Verdi and Puccini. The tall, imposing bass-baritone’s coming season is highlighted by his role debuts as Zuniga in Carmen for Opéra de Québec, and as Baron Scarpia in Tosca for Opera on the Avalon. He returns to the Canadian Opera Company for Count Ceprano in Rigoletto and earlier was featured in that company’s production of *Louis Riel* – celebrating Canada’s Sesquicentennial – with performances in Toronto, Ottawa and Quebec City. He was heard in Tapestry New Opera’s highly anticipated premiere of *Oksana G* and also appeared during the 16/17 season as Pietro in *Simon Boccanegra* for Pacific Opera Victoria and Second Armed Man in *Die Zauberflöte* for the Canadian Opera Company.

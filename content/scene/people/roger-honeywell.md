@@ -23,6 +23,7 @@ social_media:
   template: social-media
   url: https://twitter.com/RogerHoneywell
 title: Roger Honeywell
+cms_visible: true
 ---
 Canadian  tenor  Roger  Honeywell  has  been  acclaimed  by  Anthony  Tommasini  as  a  performer who brings “burnished sound and crisp diction to sweeping vocal lines, full of leaps and dips.” 
 

@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/Mezzoie
 title: Zoie Reams
 website: ""
+cms_visible: true
 ---
 Mezzo-soprano Zoie Reams has been lauded by _Opera News_ for her “velvety mezzo” as well as how she “phrased with elegance and articulated coloratura nimbly.”
 

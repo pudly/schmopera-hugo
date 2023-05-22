@@ -17,6 +17,7 @@ social_media:
   template: social-media
   url: https://instagram.com/stephanieyelovich/
 title: Stephanie Yelovich
+cms_visible: true
 ---
 
 Stephanie Yelovich is a Canadian soprano based in Hamilton, Ontario. 

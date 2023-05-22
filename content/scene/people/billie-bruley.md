@@ -14,6 +14,7 @@ social_media:
   url: https://www.youtube.com/channel/UCBs6yckg15nuHGIiitqcGqQ
 title: Billie Bruley
 website: https://www.billebruley.com/
+cms_visible: true
 ---
 Praised by the _Huffington Post_ for his "ringing high notes," Texas-born tenor Bille Bruley has garnered attention for his strength and versatility in operatic repertoire from baroque to contemporary. Highlights of Bille's upcoming 2021-2022 season include a number of rescheduled major house debuts at Austin Opera, Lyric Opera of Kansas City, and Atlanta Opera in the role of Steve Wozniak in Mason Bates’ acclaimed _The (R)evolution of Steve Jobs_. He also makes his return to Arizona Opera as Ferrando in _Cosi fan tutte_. Other upcoming engagements to be rescheduled from COVID-19-related cancellations include a concert debut with the Los Angeles Philharmonic as the Sailor/Shepherd in _The Tristan Project_, as well as his house debut with Opera Theatre of Saint Louis as Sam Polk in a new production of Carlisle Floyd’s _Susannah_. Bille is a recent winner of the William Matheus Sullivan Musical Foundation Award and Career Grant.
 

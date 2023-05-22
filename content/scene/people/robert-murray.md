@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/glyndebourne.md
 slug: robert-murray
 title: Robert Murray
+cms_visible: true
 ---
 
 Robert Murray studied at the Royal College of Music and the National Opera Studio. He won second prize in the Kathleen Ferrier awards 2003 and was a Jette Parker Young Artist at the Royal Opera House Covent Garden. Operatic roles at the Royal Opera House include Tamino (*Die Zauberflote*), Lysander (*A Midsummer Night’s Dream*), Agenore (*Il re Pastore*), Belfiore (*La Finta Giardiniera*), Jacquino (*Fidelio*) and Don Ottavio (*Don Giovanni*). Other roles include the title role in *Albert Herring* for Glyndebourne On Tour; Nanki-Poo, Tamino, Don Ottavio and Idamante for English National Opera and Tom Rakewell (*The Rake’s Progress*) for Garsington Opera.

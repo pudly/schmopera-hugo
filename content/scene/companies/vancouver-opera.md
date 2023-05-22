@@ -84,6 +84,7 @@ social_media:
 title: Vancouver Opera
 type_of_company: Opera Company
 website: http://www.vancouveropera.ca/
+cms_visible: true
 ---
 Vancouver Opera is the second largest opera company in Canada. It is regarded worldwide for its fine mainstage productions; for its country-leading education programs, which have reached more than 1.6 million children and their families in more than 40 years; for its innovative and award-winning community programs; and for forging groundbreaking cross-cultural creative partnerships that have brought opera to new generations of Canadians in recent history.
 

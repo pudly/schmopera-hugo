@@ -11,6 +11,7 @@ related_companies:
 slug: angela-vallone
 title: Angela Vallone
 website: http://www.angelavallone.com/
+cms_visible: true
 ---
 
 Hailed by The New York Times for her "extraordinary virtuosity and elegance" and declared a "clear showstopper" by Boston Classical Review, American soprano Angela Vallone is currently pursuing her master’s degree at the Juilliard School under the tutelage of Edith Wiens.

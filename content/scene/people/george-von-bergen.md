@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/GeorgevonBergen
 title: George von Bergen
 website: http://georgevonbergen.com/
+cms_visible: true
 ---
 
 British baritone George von Bergen’s charismatic stage presence and powerful, mellifluous lyric baritone have earned him renown in Europe over the last three years. His numerous successes in recent seasons have had him hailed at English National Opera as “an ideal Sharpless” (*Express*), a “mercurial” Marcello (*Opera Britannia*), and “electrifying” as Zurga (Mark Ronan), whilst his role debut as Enrico *Lucia di Lammermoor* at Danish National Opera was widely acclaimed. Other recent highlights include the title role of Ambroise Thomas’ *Hamlet* in a new production at Croatian National Theatre conducted by Hervé Niquet; Ford *Falstaff* and Belcore *L’elisir d’amore* at Opera Holland Park; and his debut at La Scala, Milan, as Ned Keene in Richard Jones’ acclaimed new production of *Peter Grimes*, which was subsequently released commercially on DVD.

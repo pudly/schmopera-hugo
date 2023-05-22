@@ -15,6 +15,7 @@ related_companies:
 slug: jason-ferrante
 title: Jason Ferrante
 website: http://jasonferrante.com/
+cms_visible: true
 ---
 
 Opera News praises tenor Jason Ferrante for “singing up a stylish storm” and for getting “the gold star for trills” and the Berkshire Eagle says he “seems to brighten every stage he mounts.” 

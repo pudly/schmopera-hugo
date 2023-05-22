@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/jimmyjimjoes
 title: James Levesque
 website: http://www.jameslevesque.com/main/
+cms_visible: true
 ---
 
 Baritone James Levesque is at home on both the concert and operatic stage and has been noted for his “expressive singing and acting abilities” (*Opera Canada*). He has performed on both sides of the Atlantic with such conductors as Harry Bicket, Richard Egarr, Jean-Marie Zeitouni, Raffi Armenian and Robert Dean.

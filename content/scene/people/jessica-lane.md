@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/irrelevantdiva
 title: Jessica Lane
 website: http://www.jessicalanesoprano.com/
+cms_visible: true
 ---
 
 Jessica is a young, up and coming, award winning, Toronto based soprano .

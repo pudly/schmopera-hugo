@@ -19,6 +19,7 @@ related_companies:
 - scene/companies/coleman-lemieux-compagnie.md
 slug: alexander-dobson
 title: Alexander Dobson
+cms_visible: true
 ---
 
 British-Canadian baritone Alexander Dobson has been praised for his musical and dramatic artistry on both opera and concert stages. His portrayal of Wozzeck conducted by Yannick Nézet-Séguin with Théâtre du Nouveau Monde and Orchestre Métropolitain was lauded for his “gripping embodiment of Wozzeck” (Journal Voir). Other roles of note include Guglielmo ((Così Fan Tutte*), Belcoré (*L’elisir d’amore*) and Ned Keene (*Peter Grimes*), all with L’Opera de Montréal.

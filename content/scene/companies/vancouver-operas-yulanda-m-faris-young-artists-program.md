@@ -21,6 +21,7 @@ social_media:
 title: Vancouver Opera&#039;s Yulanda M. Faris Young Artists Program
 type_of_company: Young Artist Programme
 website: https://www.vancouveropera.ca/about/artists/young_artists_program
+cms_visible: true
 ---
 
 In 2012, VO launched the Yulanda M. Faris Young Artists Program. Made possible through a gift from the family of Yulanda M. Faris, the program engages, enriches, mentors and trains rising young Canadian opera artists and offers a bridge between formal academic educational programs and the professional world in a supportive and encouraging environment.

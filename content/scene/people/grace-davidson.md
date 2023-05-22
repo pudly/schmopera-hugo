@@ -18,6 +18,7 @@ social_media:
   url: https://soundcloud.com/grace-davidson-soprano
 title: Grace Davidson
 website: https://gracedavidsonsoprano.com/
+cms_visible: true
 ---
 Grace Davidson is a British soprano who specialises first and foremost in the performance and recording of Baroque music.
 

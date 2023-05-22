@@ -26,6 +26,7 @@ social_media:
 title: Music Academy of the West - Voice Program
 type_of_company: Summer training program
 website: http://www.musicacademy.org/#
+cms_visible: true
 ---
 
 Under the direction of celebrated mezzo-soprano Marilyn Horne, the Music Academy Voice Program offers intensive training for young singers who demonstrate the potential for careers in music. Fellows are coached in singing technique, diction, interpretation, style, and presentation, and explore the literature of opera, musical theatre, and song.

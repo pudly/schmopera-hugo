@@ -25,6 +25,7 @@ social_media:
 title: Opera On Tap
 type_of_company: Opera Company
 website: http://www.operaontap.org/
+cms_visible: true
 ---
 
 ### History

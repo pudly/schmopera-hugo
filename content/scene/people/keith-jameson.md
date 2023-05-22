@@ -20,6 +20,7 @@ slug: keith-jameson
 social_media: []
 title: Keith Jameson
 website: http://keithjameson.org/
+cms_visible: true
 ---
 Keith Jameson, tenor, a native of South Carolina, returned to The Metropolitan Opera as Bardolfo in _Falstaff_ during the 2018-19 season. He recently made his San Francisco Opera debut as Uncle Billy in _It’s A Wonderful Life_ (Heggie/Scheer), and sang JB Williams in the world premier of the one-man opera _Why Is Eartha Kitt Trying to Kill Me?: A Love Story_ (Smith/Johnston) with Urban Arias in Washington, DC. He made his Opera di Roma debut in 2018 as the Novice in the acclaimed Deborah Warner production of _Billy Budd_.
 

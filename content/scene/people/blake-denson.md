@@ -19,6 +19,7 @@ social_media:
   url: https://www.youtube.com/channel/UCdPF19_N9GgljqvpBr4NtTQ?view_as=subscriber
 title: Blake Denson
 website: https://www.blakeadenson.com/
+cms_visible: true
 ---
 Baritone Blake Denson, praised for his “captivating dramatic interpretations" with “a striking upper register “and "a sound that boomed to the back of the house” (_Opera Wire_), is a native of Paducah, Kentucky. Recently, Mr. Denson was named a Grand Finalist winner of the 2020 Metropolitan Opera National Council Auditions. 
 

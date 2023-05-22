@@ -27,6 +27,7 @@ social_media:
 title: Boston Lyric Opera
 type_of_company: Opera Company
 website: https://blo.org/
+cms_visible: true
 ---
 **The mission of Boston Lyric Opera is to build curiosity, enthusiasm and support for opera by creating musically and theatrically compelling productions, events, and educational resources for the Boston community and beyond.**
 

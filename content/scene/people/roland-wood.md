@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/the-santa-fe-opera.md
 slug: roland-wood
 title: Roland Wood
+cms_visible: true
 ---
 
 Roland Wood was born in Berkshire and studied at the Royal Northern College of Music with Patrick McGuigan and Robert Alderson, then at the National Opera Studio. He was the winner of the 1998 Webster Booth Prize and the 1999 Frederick Cox Award, and was also awarded Second Prize in the 2000 Kathleen Ferrier Memorial Awards.

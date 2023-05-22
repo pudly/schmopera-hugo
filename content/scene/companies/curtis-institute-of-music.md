@@ -26,6 +26,7 @@ social_media:
 title: Curtis Institute of Music
 type_of_company: Conservatory
 website: http://www.curtis.edu/
+cms_visible: true
 ---
 
 <p>

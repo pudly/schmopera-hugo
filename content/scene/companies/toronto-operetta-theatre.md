@@ -33,6 +33,7 @@ social_media:
 title: Toronto Operetta Theatre
 type_of_company: Opera Company
 website: http://www.torontooperetta.com/
+cms_visible: true
 ---
 
 <p>

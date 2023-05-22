@@ -21,6 +21,7 @@ social_media:
   url: https://www.youtube.com/user/alexjoel100
 title: Alexander Joel
 website: http://www.alexanderjoel.com/
+cms_visible: true
 ---
 Alexander Joel is renowned for the great integrity and verisimilitude in his approach to a remarkably varied operatic and symphonic repertoire. His ability to draw rare depth of sound and a vast array of colours from orchestras while enabling passion and loyalty from the players is repeatedly noted. Joel’s talent for inspiring orchestras to achieve great freedom within the context of architectural musical structure has led to his regular guest appearances with the highest level of opera company and symphony orchestra around Europe, including the Royal Opera House, Covent Garden.
 

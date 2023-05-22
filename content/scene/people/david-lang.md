@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/davidlangmusic
 title: David Lang
 website: http://davidlangmusic.com/
+cms_visible: true
 ---
 Passionate, prolific, and complicated, composer David Lang embodies the restless spirit of invention. Lang is at the same time deeply versed in the classical tradition and committed to music that resists categorization, constantly creating new forms.
 

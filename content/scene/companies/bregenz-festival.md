@@ -23,6 +23,7 @@ social_media:
 title: Bregenz Festival
 type_of_company: Opera Festival
 website: https://bregenzerfestspiele.com/en
+cms_visible: true
 ---
 The Bregenz Festival pledged to contribute € 3 million itself to the project for the renovation and enlargement of the Festspielhaus in 2005 and 2006. The festival was able to raise this sum by means of a fund-raising campaign, thanks in particular to the generosity and solidarity of a great many donors.
 

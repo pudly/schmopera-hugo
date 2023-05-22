@@ -18,6 +18,7 @@ social_media:
 title: Academy of Ancient Music
 type_of_company: Early Music Ensemble
 website: http://www.aam.co.uk/#/
+cms_visible: true
 ---
 
 That's exactly what we aim to do: energise baroque and classical music. And to do it, we get back to the style and spirit in which this music was first performed.

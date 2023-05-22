@@ -22,6 +22,7 @@ social_media:
 title: Virginia Opera
 type_of_company: Opera Company
 website: https://vaopera.org/
+cms_visible: true
 ---
 Virginia Opera Association, Inc., in its 45th year of operation, is known and respected nationwide for the identification and presentation of the finest young artists, for the musical and dramatic integrity of its productions, and for the ingenuity and variety of its education and outreach programs. The Company has a working budget of $5.3 million with over 28 mainstage performances, reaching nearly 50,000 attendees. In March of 1994, by unanimous vote of the Virginia General Assembly, Virginia Opera was named The Official Opera Company of the Commonwealth of Virginia in recognition of the organization’s contribution to the Commonwealth and to the world of opera.
 

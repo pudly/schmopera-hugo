@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/JessicaMuirhead
 title: Jessica Muirhead
 website: http://www.jessicamuirhead.com/
+cms_visible: true
 ---
 
 <p>

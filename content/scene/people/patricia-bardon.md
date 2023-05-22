@@ -19,6 +19,7 @@ related_companies:
 - scene/companies/royal-opera-house.md
 slug: patricia-bardon
 title: Patricia Bardon
+cms_visible: true
 ---
 
 Irish mezzo-soprano Patricia Bardon is the youngest ever prize-winner of the Cardiff Singer of the World Competition and is in demand for repertoire ranging from the

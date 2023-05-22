@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/Maria_Agresta
 title: Maria Agresta
 website: http://www.mariaagresta.com/welcome/
+cms_visible: true
 ---
 
 A winner of several music competitions, she made her debut in 2007.

@@ -71,6 +71,7 @@ social_media:
 title: Calgary Opera
 type_of_company: Opera Company
 website: http://www.calgaryopera.com/
+cms_visible: true
 ---
 
 Founded in 1972, Calgary Opera's Mission is:

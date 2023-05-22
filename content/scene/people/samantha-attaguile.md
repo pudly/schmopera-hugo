@@ -22,6 +22,7 @@ social_media:
   url: https://www.instagram.com/samezzoguile/
 title: Samantha Attaguile
 website: http://www.samanthaattaguile.com/
+cms_visible: true
 ---
 
 Praised with an exciting sound, Mezzo-Soprano Samantha Attaguile is quickly establishing herself as a spirited young talent in the modern artistic world. Most recently, Samantha appeared as Lola in Main Street Opera's production of *Cavalleria rusticana*. In November, Samantha will debut with Chicago Fringe Opera, appearing as Hannah after in the Chicago premiere of the critically acclaimed opera *As One*, a chamber piece for two voices and string quartet depicting the experiences of a sole transgender protagonist.

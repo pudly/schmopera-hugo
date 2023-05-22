@@ -16,6 +16,7 @@ social_media:
   url: https://soundcloud.com/gabrieldharmoo
 title: Gabriel Dharmoo
 website: http://gabrieldharmoo.org/en/home
+cms_visible: true
 ---
 
 Gabriel Dharmoo's musical practice encompasses composition, vocal improvisation and research.

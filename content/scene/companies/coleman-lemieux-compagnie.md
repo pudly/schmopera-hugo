@@ -21,6 +21,7 @@ social_media:
 title: Coleman Lemieux &amp; Compagnie
 type_of_company: Collaborative Performance Company
 website: http://colemanlemieux.com/
+cms_visible: true
 ---
 
 Founded in Quebec in 2000 by individually renowned dancers/choreographers Bill Coleman and Laurence Lemieux, Coleman Lemieux & Compagnie (CLC) has distinguished itself by its innovative, unbridled artistic vision.  CLC creates, produces and presents varied works on a local, national and international scale.

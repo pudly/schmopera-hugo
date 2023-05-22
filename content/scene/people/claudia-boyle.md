@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/ClaudiVaBoyle
 title: Claudia Boyle
 website: http://www.claudiaboyle.com/
+cms_visible: true
 ---
 
 A former member of the Salzburger Festspiele’s prestigious Young Singers Project, Irish Soprano Claudia Boyle has dramatically raised her international profile in recent seasons through highly-acclaimed performances in Zurich, Rome, London, Berlin and New York.

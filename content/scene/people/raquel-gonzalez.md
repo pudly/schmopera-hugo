@@ -16,6 +16,7 @@ social_media:
   url: https://www.instagram.com/raquel90gonzalez/
 title: Raquel González
 website: http://www.raquelgonzalezsoprano.com/
+cms_visible: true
 ---
 
 Hailed as a "true artist" (*Opera News*), Soprano Raquel González from Lawrence, Kansas recently completed three seasons as a Domingo-Cafritz Young Artist at Washington National Opera, where she appeared as Cio-Cio San (*Madama Butterfly*), Contessa Almaviva (*Le nozze di Figaro*), Donna Anna (*Don Giovanni*), Micaëla (*Carmen*), and Mimì (*La bohème*). She is a 2019 Sphinx Organization Medal of Excellence Awardee. 

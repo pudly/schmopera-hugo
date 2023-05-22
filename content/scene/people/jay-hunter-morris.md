@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/JayHunterMorris
 title: Jay Hunter Morris
 website: http://www.jayhuntermorris.com/
+cms_visible: true
 ---
 
 Jay Hunter Morris begins Season 2015-16 at Los Angeles Opera in a revival of one of his most successful roles, Captain Ahab (*Moby-Dick*), in which he appeared in the original production at San Francisco Opera, State Opera of South Australia (for the Adelaide Festival), and at San Diego Opera.  He travels to Opera Philadelphia to revive the role of Teague (*Cold Mountain*) in which he had such success at Santa Fe Opera during the summer.  Houston Grand Opera welcomes Jay again as he returns to sing the role of Siegfried (*Siegfried*), after which he travels to Warsaw to appear in the title role of a new production of *Tristan und Isolde* by Mariusz Trelinsky at Polish National Opera.  He returns to Glimmerglass Festival as its 2016 Artist In Residence and to sing the role of Judge Danforth (*The Crucible*).

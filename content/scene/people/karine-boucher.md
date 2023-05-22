@@ -19,6 +19,7 @@ social_media:
   template: social-media
   url: https://twitter.com/BoucherKarine
 title: Karine Boucher
+cms_visible: true
 ---
 
 <p>

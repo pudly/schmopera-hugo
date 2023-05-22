@@ -19,6 +19,7 @@ social_media:
 title: Opera Saratoga
 type_of_company: Opera Company
 website: http://www.operasaratoga.org/
+cms_visible: true
 ---
 ### Our Mission
 

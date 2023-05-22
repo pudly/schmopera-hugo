@@ -15,6 +15,7 @@ social_media:
   url: https://www.youtube.com/user/cmkuttle
 title: Claire Kuttler
 website: http://www.clairekuttler.com/live/
+cms_visible: true
 ---
 
 Praised for her "glistening torrents of sound" (*Opera News*), American lyric soprano Claire Kuttler is a versatile singing actress, whose characters come to life with psychological depth and intensity onstage.  Currently, Ms. Kuttler is a returning apprentice artist at Bel Canto at Caramoor, after appearing last summer in Caramoor’s recital series and in *Dialogues des Carmélites*, under the direction of Will Crutchfield. Previously this season, Ms. Kuttler won an encouragement award from the Licia Albanese-Puccini Foundation and was a semi-finalist in the Opera Birmingham Vocal Competition. She also made her debut with the Light Opera of New York as Rosie in Jerome Kern’s *Sally* and will be featured on the cast recording released later this year through Albany Records. 

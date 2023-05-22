@@ -15,6 +15,7 @@ slug: steven-labrie
 social_media: []
 title: Steven LaBrie
 website: https://www.stevenlabrie.com/
+cms_visible: true
 ---
 STEVEN LABRIE, a native of Dallas, Texas, is beginning to attract attention for his beautiful timbre, expressive singing and dramatic presence. Mr. LaBrie was named among the five leading lyric baritones to watch by Opera News.
 

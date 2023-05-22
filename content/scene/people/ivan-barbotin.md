@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/BarbotinMusic
 title: Ivan Barbotin
 website: http://www.barbotin.com/
+cms_visible: true
 ---
 
 Born in St. Petersburg, Russia, Ivan Barbotin began piano studies at the age of 5, guitar at 10. At 13, he became lead guitarist of the rock group Sphinx which soon won the 'Soviet Union's Best Youth Band' competition. At 16, he joined Russia's celebrated rock band Forum as lead guitarist, where he was half the age of the other musicians. With Forum he toured the country to sold-out audiences and became Laureate of the Song of the Year Festival in 1989, a career-launching annual TV event.

@@ -26,6 +26,7 @@ title: New Opera West
 type_of_company: Opera Company
 website: https://www.newoperawest.org/
 youtube_url: ""
+cms_visible: true
 ---
 New Opera West (NOW) is an opera company dedicated to the creation and promotion of new operatic works.
 

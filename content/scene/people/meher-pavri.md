@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/meherpavri
 title: Meher Pavri
 website: http://meherpavri.com/
+cms_visible: true
 ---
 
 Multidisciplinary artist, Meher Pavri enjoys performing in opera, musical theatre, theatre, film/television, and is most passionate about new works. Highlights include playing Maria in Leonard Bernstein's *West Side Story*, the Canadian premier of the award-winning Bollywood play *Arranged Marriage* by Chitra Banerjee Divakurani, a reoccurring soloist in Soulpepper Theatre's Cabaret series, and Tapesty Opera's workshop production of *Selfie*, the opera by Julie Tepperman and Chris Thornborrow.

@@ -19,6 +19,7 @@ social_media:
   url: https://soundcloud.com/gavin-higgins-music
 title: Gavin Higgins
 website: http://www.gavinhiggins.com/
+cms_visible: true
 ---
 Described as ‘boldly imaginative’ and ‘extraordinary’, Gavin Higgins has been consistently praised by critics for his distinct and visceral compositional style.
 

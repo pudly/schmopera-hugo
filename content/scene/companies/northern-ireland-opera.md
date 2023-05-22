@@ -20,6 +20,7 @@ social_media:
 title: Northern Ireland Opera
 type_of_company: Opera Company
 website: http://www.niopera.com/
+cms_visible: true
 ---
 
 <p>

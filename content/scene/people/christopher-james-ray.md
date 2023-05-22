@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/ChristopherJRay
 title: Christopher James Ray
 website: http://www.christopherjamesray.com/
+cms_visible: true
 ---
 
 Christopher James Ray is a Houston-based conductor with a diverse background in both traditional and contemporary operatic works. Christopher made his professional conducting debut leading a double bill of *Gianni Schicchi* and *Paglacci* with the Mississippi Opera in 2014. Later that year he conducted performances of *Così fan tutte*, *Suor Angelica*, and *Gianni Schicchi* with Opera in the Ozarks, where he also served as a staff coach. 

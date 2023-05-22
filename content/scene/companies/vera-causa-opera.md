@@ -23,6 +23,7 @@ social_media:
 title: Vera Causa Opera
 type_of_company: Opera Company
 website: http://www.vcopera.ca/
+cms_visible: true
 ---
 
 Vera Causa Opera is an innovative opera company in the Region of Waterloo, Ontario, Canada. VCO attempts to reinstate opera as an accessible and communicative medium through the adaptation of old operas and the composition of new ones! This initiative is carried out through education in schools, camps, and integrating local performers and professionals into VCO productions, in doing so creating a new and inviting operatic environment.

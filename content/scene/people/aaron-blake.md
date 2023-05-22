@@ -22,6 +22,7 @@ social_media:
   url: https://www.youtube.com/channel/UCpgkmcPoJ-MrInkv3-CXKSQ
 title: Aaron Blake
 website: https://www.aaronblaketenor.com/
+cms_visible: true
 ---
 The recipient of a 2017 George London Foundation Award, tenor Aaron Blake has earned international recognition for his performances in repertoire ranging from Martinu to Rossini. In 2022, he was recognized by the recording academy for his role as the High Priest of Amon in The Metropolitan Opera’s Grammy Award Winning Album of Philip Glass’s _Akhnaten_. His creation of the role of Timothy Laughlin in the Cincinnati Opera world premiere of Gregory Spears and Greg Pierce’s _Fellow Travelers_ brought both critical and international acclaim. The live recording of these performances was captured on the Cincinnati Symphony Fanfare Label and was released in 2017 where it was named one of the top 10 classical recordings of the year by New Yorker Magazine. In addition, Mr. Blake made a critically acclaimed debut with New York City Opera in Peter Eötvös’ operatic adaptation of _Angels in America_. During the 2022-23 season, Mr. Blake will make his Canadian debut as Nadir in _Les pêcheurs de perles_ and his Italian debut in recital with pianist Maria Nikitin at Santa Cecilia in Rome. He also covers the role of Henry in _Die Schweigsame Frau_ with Bard Summerscape, performs a concert of arias, songs, and duets at Walt Disney Concert Hall and covers _Don Ottavio_ in the Met’s new production of _Don Giovanni_.
 

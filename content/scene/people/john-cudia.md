@@ -14,6 +14,7 @@ social_media:
   url: https://twitter.com/johncudia
 title: John Cudia
 website: https://www.johncudia.com/
+cms_visible: true
 ---
 John Cudia is equally at home on Opera, Theater and Concert stages. A lyric tenor, he proudly made his Lyric Opera of Chicago debut as Curly in their production of *Oklahoma!* For Vancouver Opera, John most recently sang Count Danilo in *The Merry Widow*. Previously for Vancouver Opera he sang Cassio in *Otello* and Juan Peron in *Evita*. For Indianapolis Opera, he created the role of Dr. Woodly in the World Premiere of *Happy Birthday Wanda June* by Richard Auldon Clark with Libretto by Indiana’s own Kurt Vonnegut. For Lyric Opera of the North he sang the Duke in *Rigoletto* and Alfredo in *La Traviata*.    
 

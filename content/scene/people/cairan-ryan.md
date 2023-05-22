@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/CairanRyan
 title: Cairan Ryan
 website: http://www.cairanryan.com/
+cms_visible: true
 ---
 
 <p>

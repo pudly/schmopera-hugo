@@ -117,6 +117,7 @@ social_media:
 title: Los Angeles Opera
 type_of_company: Opera Company
 website: http://www.laopera.org/
+cms_visible: true
 ---
 
 <p>

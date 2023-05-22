@@ -25,6 +25,7 @@ social_media:
   url: https://twitter.com/michelelosier
 title: Michèle Losier
 website: http://www.michelelosier.com/
+cms_visible: true
 ---
 
 Critically acclaimed mezzo-soprano Michèle Losier distinguishes herself on international opera stages with her rich voice, masterful musicality and stupendous stage presence. Recently hailed at the Théâtre des Champs-Élysées for her “great presence“and “brassy voice“ combined in an “impressive Medea“, she appears in the world’s greatest opera houses. The active 2014/15 season included appearances as Phoebe in Castor et Pollux at the Théâtre des Champs-Élysées in Paris, Frank Martin’s *Die Weise von Liebe undTod des Cornets Christoph Rike* at the la Monnaie and Ascanio in *Benvenuto Cellini* with De Nederlandse Opera. Having recently completed an engagement with the Orchestra Symphonique de Montréal in Beethoven’s Missa Solemnis and Bizet’s Carmen. 

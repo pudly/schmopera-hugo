@@ -23,6 +23,7 @@ social_media:
   url: https://www.youtube.com/channel/UCoHtBMAQaOnRu0AUl8yhKJQ
 title: Samantha Pickett
 website: http://www.samanthapickett.com/
+cms_visible: true
 ---
 
 Soprano Samantha Pickett is from Kitchener, Ontario and is a recent Masters of Opera and Voice graduate at McGill University (Montreal, QC) under Professor Sanford Sylvan. Miss Pickett is an alumna of Wilfrid Laurier University (Waterloo, ON), where she earned a Bachelor's of Voice Performance (2012) and Opera Diploma (2013), studying with Kimberly Barber. 

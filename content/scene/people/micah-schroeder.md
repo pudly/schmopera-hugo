@@ -16,6 +16,7 @@ related_companies:
 slug: micah-schroeder
 title: Micah Schroeder
 website: http://micahschroeder.com/
+cms_visible: true
 ---
 Native of Vancouver, British Columbia, baritone, Micah Schroeder holds a Bachelor of Music and Master of Music Degree from the University of British Columbia in Opera Performance and a Diploma in Opera Studies from the University of Toronto.
  

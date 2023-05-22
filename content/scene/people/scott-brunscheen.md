@@ -18,6 +18,7 @@ social_media:
   url: https://www.facebook.com/sjbtenor/
 title: Scott Brunscheen
 website: http://www.scottjbrunscheen.com/
+cms_visible: true
 ---
 
 Scott J Brunscheen's "sweet and substantial lyric tenor" (Chicago Tribune) continues to gain recognition in a wide range of operatic and concert repertoire. Engagements during the 2016-17 season include Haydn's *L’isola disabitata* with Haymarket Opera, Purcell's *The Fairy Queen* with Chicago Opera Theater and Long Beach Opera, the world premiere of Stewart Copeland's *The Invention of Morel* at Chicago Opera Theater, Mozart's *Die Zauberflote* with Madison Opera, and performances with Madison Bach Musicians.

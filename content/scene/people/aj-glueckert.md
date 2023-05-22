@@ -14,6 +14,7 @@ social_media:
   url: https://www.facebook.com/AJGlueckertTenor/
 title: AJ Glueckert
 website: https://www.ajglueckert.com/
+cms_visible: true
 ---
 
 Tenor AJ Glueckert has been praised by the New York Times for his “clarion, sensitive tenor.” In the 2017-2018 season, Mr. Glueckert will continue as a member of the ensemble at Opera Frankfurt in a variety of leading roles.

@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/fatboyclayton
 title: Allan Clayton
 website: http://www.allanclayton.com/
+cms_visible: true
 ---
 
 Allan Clayton studied at St John’s College, Cambridge and at the Royal Academy of Music in London. An Associate of the Royal Academy of Music and former BBC New Generation Artist from 2007-2009, his awards also include “The Queen’s Commendation for Excellence” and an inaugural Sir Elton John Scholarship at the RAM, the John Christie Award for his Glyndebourne Festival debut as Albert Herring, and a Borletti-Buitoni Trust Fellowship.

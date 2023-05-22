@@ -35,6 +35,7 @@ social_media:
 title: Utah Opera
 type_of_company: Opera company
 website: http://www.utahopera.org/
+cms_visible: true
 ---
 
 Since 1978, Utah Opera has cultivated and entertained a growing audience of more than 150,000 annually around the intermountain area. We produce opera with artistic standards of distinction and with a fresh vibrancy - new works for our area as well as the classics.

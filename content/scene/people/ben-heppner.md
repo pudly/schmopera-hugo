@@ -22,6 +22,7 @@ social_media:
   template: social-media
   url: https://twitter.com/benheppner
 title: Ben Heppner
+cms_visible: true
 ---
 
 <p>

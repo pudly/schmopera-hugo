@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/mfergu26
 title: Maureen Ferguson
 website: http://www.maureenferguson.com/
+cms_visible: true
 ---
 
 Toronto based Soprano, Maureen Ferguson, is a recent graduate of the Emerging Artists Program at the Calgary Opera Company in Calgary, Alberta, Canada.

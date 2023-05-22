@@ -15,6 +15,7 @@ social_media:
 title: little OPERA theatre of ny
 type_of_company: Opera company
 website: http://www.lotny.org/
+cms_visible: true
 ---
 The little OPERA theatre of ny (LOTNY) is a chamber opera company that was founded in September of 2004. The most recent production was the NY premiere of J.A. Hasse’s _Piramo e Tisbe_, was described as “superbly smart and affecting” by Parterre and “fit for a king” by ConcertoNet. The 2017 New York premiere of Carlisle Floyd’s _Prince of Players_ was widely praised, described by the New York Times as “well made and stylish.” Other recent productions include Chevalier de Saint-George’s _L’Amant Anonyme_, which was heralded as “an exercise in restrained beauty;” and the 2014 production of Carlisle Floyd’s _Slow Dusk & Markheim_ was warmly received, described as “ambitious and rewarding” by Opera News. 
 

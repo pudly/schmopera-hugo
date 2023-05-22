@@ -15,6 +15,7 @@ social_media:
   template: social-media
   url: https://twitter.com/emedmondssings
 title: Emily Edmonds
+cms_visible: true
 ---
 
 Australian mezzo-soprano Emily Edmonds was a member of the Pacific Opera Company Young Artists Program and joined the Jette Parker Young Artists Programme at the start of the 2015/16 Season performing Aglaea/Atropos/Bacchus in *Orpheus* at the Sam Wanamaker Playhouse, Shakespeare’s Globe, Alms Sister in *Suor Angelica* and Käthchen in *Werther* on the main stage and in the world premiere of *4.48 Psychosis* in the Lyric Hammersmith.

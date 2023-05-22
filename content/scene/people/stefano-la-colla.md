@@ -12,6 +12,7 @@ related_companies:
 slug: stefano-la-colla
 title: Stefano La Colla
 website: http://www.stefanolacolla.com/
+cms_visible: true
 ---
 
 A competition winner at the Puccini Festival in Torre del Lago, Stefano La Colla studied at the Conservatory Pietro Mascagni in Livorno with bass-baritone G. Polidori. He also studied under the guidance of soprano Luciana Serra and baritone Carlo Meliciani. La Colla’s engagements for the 2016/17 season include des Grieux in *Manon Lescaut* at the Dutch National Opera in Amsterdam, Calaf in *Turandot* at the Bavarian State Opera in Munich, Turiddu in *Cavalleria Rusticana* and Canio in *Pagliacci* at the Opéra National du Rhin in Strasbourg, Turiddu at the Semperoper Dresden, and Radamès in *Aida* at the Macerata Opera Festival.

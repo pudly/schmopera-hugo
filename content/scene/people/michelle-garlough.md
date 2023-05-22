@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/amici-school-of-music.md
 slug: michelle-garlough
 title: Michelle Garlough
+cms_visible: true
 ---
 
 An Alberta native, Michelle grew up performing. She spent most of her early school years in dance classes and music lessons. By the time she was thirteen years old, she was singing in a professional children’s choir and seriously studying ballet, voice, and piano. It was during those years that she discovered her love for singing and the stage, and it hasn’t stopped since.

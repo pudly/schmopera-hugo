@@ -16,6 +16,7 @@ social_media:
   url: https://soundcloud.com/clara-osowski
 title: Clara Osowski
 website: http://www.claraosowski.com/
+cms_visible: true
 ---
 
 Hailed for her artistry and “rich and radiant” voice (Urban Dial Milwaukee), Clara Osowski is an active soloist and chamber musician throughout the United States and Europe. Select opera credits include Ruth, (*Pirates of Penzance*), Venus (*Venus and Adonis*), Zita (*Gianni Schicchi*), Mother (*Amahl and the Night Visitors*), Dorabella (*Cosi fan tutte*), and Cavalier Ramiro (*La finta giardiniera*). She was a 2012 Metropolitan Opera National Council Upper-Midwest Regional Finalist, the winner of the 2014 Bel Canto Chorus Regional Artists Competition in Milwaukee, and recently named the runner-up in the 2016 Schubert Club Bruce P. Carlson Scholarship Competition. In 2017, Clara was the winner of the Houston Saengerbund Competition and became the first ever American prize winner when she placed second at Thomas Quasthoff's International Das Lied Competition in Heidelberg, Germny. Clara received her Bachelor of Musical Arts degree with emphasis in Voice from North Dakota State University in 2008, and Master of Arts Degree in Voice from the University of Iowa in 2010.

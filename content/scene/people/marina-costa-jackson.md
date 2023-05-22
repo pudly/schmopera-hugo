@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/LyricMarina
 title: Marina Costa-Jackson
 website: http://www.marinacostajackson.com/
+cms_visible: true
 ---
 Italian-American soprano Marina Costa Jackson is thrilling audiences throughout the US, Europe, and Asia. Recent engagements for Marina include her debut as _Tosca_ with the Lyric Opera of Kansas City, Mimi with Los Angeles Opera, Tatyana _in Eugene Onegin_ with Seattle Opera, and concerts with Seattle Opera and with CulturArte de Puerto Rico. Future engagements include Giulietta in _Les Contes d’Hoffmann_ with the Royal Opera House Covent Garden, the title role in _Suor Angelica_ and Lauretta in _Gianni Schicchi_ with San Diego Opera, and her debut as Puccini’s _Manon Lescaut_ for North Carolina Opera. Engagements canceled due to COVID-19 included Nedda in _I Pagliacci_ with Michigan Opera Theatre, Mimi in _La Boheme_ for Opéra national de Paris, and Amelia in _Simon Boccanegra_ with the Washington Concert Opera.
 

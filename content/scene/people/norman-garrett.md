@@ -17,6 +17,7 @@ slug: norman-garrett
 social_media: []
 title: Norman Garrett
 website: ""
+cms_visible: true
 ---
 American baritone Norman Garrett, whose performances have been called “scene stealing” by the New York Times,is enjoying a varied and exciting career. Role and house debuts abound in the 2018/19 season include Ríolobo in Daniel Catán’s _Florencia en el Amazonas_ at Houston Grand Opera, a return to Washington National Opera as Lieutenant Gordon in _Silent Night_, a debutat the Bayerische Staatsoper in Munich as Larkens in _La Fanciulla del West_, Jochanaan in _Salome_ with Dayton Opera, and Crown in _Porgy and Bess_ with Fort Worth Opera. High profile concert appearances include _Carmina Burana_ with Bramwell Tovey and the Los Angeles Philharmonic at the Hollywood Bowl as well as at the Toronto Symphony with Donald Runnicles.
 

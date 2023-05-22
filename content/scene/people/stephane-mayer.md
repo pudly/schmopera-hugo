@@ -12,6 +12,7 @@ related_companies:
 - scene/companies/canadian-opera-company-ensemble-studio.md
 slug: stephane-mayer
 title: Stéphane Mayer
+cms_visible: true
 ---
 
 Pianist Stéphane Mayer is a graduate of McGill University’s Schulich School of Music and has studied under the tutelage of acclaimed Canadian pianists Kyoko Hashimoto and Michael McMahon. He has served as an opera répétiteur for productions of *The Marriage of Figaro* and *Ariadne auf Naxos* (Opera NUOVA) and *Don Giovanni* (McGill). As a piano accompanist, he studied alongside noted interpreters of German Lied: Elly Ameling, Robert Holl, Julius Drake, Andreas Schmidt and Roger Vignoles, at the Franz-Schubert Institut in Baden bei Wien, Austria. Mr. Mayer has also served as vocal coach and accompanist at Western University. An active member of the new music scene in Canada, he recently helped in producing two world premieres: *The Rocking Horse Winner* (Tapestry Opera/Scottish Opera) and *Ours* (Opera on the Avalon). This season with the COC, Mr. Mayer serves as rehearsal pianist for *Norma*, *The Magic Flute* and *Louis Riel*.

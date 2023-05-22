@@ -16,6 +16,7 @@ related_companies:
 - scene/companies/opernhaus-zurich.md
 slug: emma-bell
 title: Emma Bell
+cms_visible: true
 ---
 
 Emma Bell trained at the Royal Academy of Music, London and the National Opera Studio and currently studies with Joy Mammen. She was the winner of the 1998 Kathleen Ferrier Award and the following year was a BBC New Generation Artist.

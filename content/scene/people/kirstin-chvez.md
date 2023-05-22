@@ -16,6 +16,7 @@ social_media:
   url: https://www.facebook.com/kchavezmezzosoprano/
 title: Kirstin Chávez
 website: http://www.kchavez.com/2012/bio.asp
+cms_visible: true
 ---
 
 Kirstin Chávez is considered one of the most riveting and significant performing mezzo-sopranos today. Her powerful voice with its expansive range, the dramatic intensity of her acting, and her natural sensuality combine to make her an arresting and unique presence on the operatic and concert stages.

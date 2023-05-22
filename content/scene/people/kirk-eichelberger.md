@@ -15,6 +15,7 @@ related_companies:
 - scene/companies/the-metropolitan-opera.md
 slug: kirk-eichelberger
 title: Kirk Eichelberger
+cms_visible: true
 ---
 
 Bass Kirk Eichelberger has been praised for “commanding the stage at every turn” (San Francisco Chronicle) and for his “resonant bass and riveting stage presence.” (Dayton City Paper) During the current season his engagements include Alidoro in *La Cenerentola* with Opéra de Montréal, Zuniga in *Carmen* for the Spokane Symphony and Opera Coeur d’Alene and Commendatore in *Don Giovanni* for the Edmonton Opera.

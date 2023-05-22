@@ -18,6 +18,7 @@ social_media:
   url: https://www.youtube.com/watch?v=Xb_OzPRfcIc
 title: Richard Trey Smagur
 website: https://www.richardsmagur.com/
+cms_visible: true
 ---
 
 Richard Smagur, of Clarkesville, Georgia, was named a winner in the

@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/hughbrunt
 title: Hugh Brunt
 website: http://www.hughbrunt.com/
+cms_visible: true
 ---
 “The furious panache of the LCO’s performance, expertly channelled by the conductor Hugh Brunt, was overwhelming” - *The Times*
 

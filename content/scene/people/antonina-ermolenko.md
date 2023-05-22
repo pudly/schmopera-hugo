@@ -18,6 +18,7 @@ social_media:
   url: https://www.youtube.com/channel/UC16vCIW8KuhB9mrE13WJ2Tw
 title: Antonina Ermolenko
 website: https://www.antoninaermolenko.com/
+cms_visible: true
 ---
 Canadian dramatic soprano Antonina Ermolenko is fast gaining international acclaim. Her tremendous vocal power, combined with unusual flexibility, range, and remarkable acting ability make her a unique artist capable of tackling a wide range of repertoire. She has performed dramatic coloratura roles such as Bellini’s Norma, Donizetti’s Anna Bolena, and Mozart’s Mme. Herz alongside heroines such as Puccini’s Tosca, Verdi’s Lady Macbeth and Wagner’s Isolde in venues such as the Glenn Gould Studio in Toronto, the Danny Kaye Playhouse in New York, and the historical Ekhof Theater Gotha. Having long been a staple of independent theatres, Antonina has recently been attracting mainstream acclaim.
 

@@ -21,6 +21,7 @@ social_media:
 title: Shadwell Opera
 type_of_company: Opera Company
 website: http://www.shadwellopera.co.uk/
+cms_visible: true
 ---
 
 Shadwell Opera is one of the UK's leading young opera voices. Since its inception in 2009, the company has brought opera productions to wide-ranging and diverse audiences throughout the country; from the intimacy of sell-out runs in Rosslyn Chapel as part of the Edinburgh Festival, through chamber opera in London's West End, to its partnership with Channel 4's Random Acts which shared two short opera films with 400,000 people nationwide. Throughout this period, Shadwell Opera has garnered regular accolades, including an RBS Herald Angel Award, as well as receiving consistent critical acclaim in the national press.

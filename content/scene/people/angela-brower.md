@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/angela_brower
 title: Angela Brower
 website: http://angelabrower.com/
+cms_visible: true
 ---
 
 Rising mezzo-soprano Angela Brower was raised in Arizona and studied at the Arizona State University and at the Indiana University. In addition to earning several awards and prizes during her studies, she performed at the Glimmerglass Opera as a part of the 2008 "Young American Artists Program".  From there she was invited into the Junges Ensemble of the Bayerische Staatsoper where she was a member from 2008 to 2010. Her portrayal of Dorabella (*Così fan tutte*) earned her particular attention on the main stage of the Nationaltheater.

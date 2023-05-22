@@ -18,6 +18,7 @@ social_media:
   url: https://soundcloud.com/anna-sophie-neher
 title: Anna-Sophie Neher
 website: http://www.annasophieneher.com/
+cms_visible: true
 ---
 
 Canadian-german soprano Anna-Sophie Neher found a true passion in music at an early age. She studied piano at the Gatineau Music Conservatory for more than 10 years and distinguished herself in many competitions. Although she seemed destined to a pianistic career, at 19 years old she discovers the world of classical singing and decides to change vocation.

@@ -12,6 +12,7 @@ related_companies:
 slug: john-hudson
 title: John Hudson
 website: http://www.johnhudsontenor.com/
+cms_visible: true
 ---
 John Hudson studied singing at the Guildhall School of Music and Drama with Laura Sarti and subsequently with Josephine Veasey.
 

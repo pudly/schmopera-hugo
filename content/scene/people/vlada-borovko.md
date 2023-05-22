@@ -21,6 +21,7 @@ social_media:
   url: https://www.youtube.com/user/VladaSunlight
 title: Vlada Borovko
 website: http://vladaborovko.com/
+cms_visible: true
 ---
 
 An alumna of the Jette Parker Young Artists Programme, Russian soprano Vlada Borovko became a member of the programme at the start of the 2015/16 season, immediately upon her graduation from the Kazan State Conservatory.

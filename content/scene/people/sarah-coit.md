@@ -22,6 +22,7 @@ social_media:
   url: https://www.instagram.com/srosecoit/
 title: Sarah Coit
 website: http://www.sarahcoit.com/
+cms_visible: true
 ---
 
 Sarah Coit is a native of Spring Hill, FL. Her repertoire includes such roles as Nancy in *Albert Herring*, Rosina in *Il barbiere di Siviglia*, Cherubino in *Le Nozze di Figaro*, Sister Helen Prejean in *Dead Man Walking*, the title role in *Giulio Cesare*, and the Waitress in the World Premiere of Michael Ching’s *Speed Dating Tonight*. 

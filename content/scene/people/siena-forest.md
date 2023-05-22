@@ -16,6 +16,7 @@ social_media:
   url: https://www.instagram.com/sienaforest/
 title: Siena Forest
 website: http://sienaforest.com/
+cms_visible: true
 ---
 Praised for her "mesmerizing sound… (which) would rival Homer's sirens," Siena Forest, an American lyric coloratura soprano, stands out for her “spunkiness and feisty vocalism.” Siena enjoys a career in opera, oratorio, chamber music and recital, with a special interest in new works and bel canto repertoire. Originally from Massachusetts, Siena recently relocated to the Twin Cities and has taken the opera scene by snowstorm performing this season with Minnesota Opera (_The Italian Straw Hat_, Jan 26-Feb 3), Out of the Box Opera, Loft Recital (_AIDs Quilt Songbook_, Dec. 1), Mill City Summer Opera, Skylark Opera (_Così fan tutte_, March 22-31), Twin Cities Gay Men’s Chorus (Dec. 7-9), and Lakes Area Music Festival. 
 

@@ -38,6 +38,7 @@ social_media:
 title: Garsington Opera
 type_of_company: Opera Company
 website: http://www.garsingtonopera.org/
+cms_visible: true
 ---
 
 Garsington Opera gives performances of great artistic quality in a setting of extraordinary natural beauty. Performances take place in the spectacular Opera Pavilion, which sits within the rolling landscape of the Chiltern Hills, less than an hour from London.

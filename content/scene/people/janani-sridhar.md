@@ -15,6 +15,7 @@ social_media:
   url: https://instagram.com/JSOpera
 title: Janani Sridhar
 website: http://jananisridhar.com/
+cms_visible: true
 ---
 
 Janani Sridhar made headlines as the first ever Singaporean to win the first prize in the Vocal, Under 16 Category at the 58th Llangollen International Musical Eistedfodd. The competition, commonly billed as "The Musical Olympics" is held in Wales and had her competing against over 6,000 other global competitors. The jury described Janani as "a gifted singer who has a marvelous future in singing."

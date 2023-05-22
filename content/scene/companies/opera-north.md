@@ -54,6 +54,7 @@ social_media:
 title: Opera North
 type_of_company: Opera Company
 website: http://www.operanorth.co.uk/
+cms_visible: true
 ---
 
 <p>

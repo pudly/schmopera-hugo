@@ -20,6 +20,7 @@ social_media:
 title: Brott Opera
 type_of_company: Summer Opera Program
 website: http://www.brottmusic.com/brott-opera/
+cms_visible: true
 ---
 
 <p>

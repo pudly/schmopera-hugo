@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/glyndebourne.md
 slug: liz-upchurch
 title: Liz Upchurch
+cms_visible: true
 ---
 
 <p>

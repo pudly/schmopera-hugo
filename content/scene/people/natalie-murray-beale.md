@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/NMurrayBeale
 title: Natalie Murray Beale
 website: http://www.murraybeale.com/index.html
+cms_visible: true
 ---
 
 Natalie Murray Beale has been critically acclaimed as “a young conductor on her way up”. Other reviews have described her conducting as “exceptional”, “charming and vigorous” and having “Mozartian grace”.

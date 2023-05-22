@@ -24,6 +24,7 @@ social_media:
   url: https://www.facebook.com/pages/Matthew-Polenzani/107698779259705?fref=ts
 title: Matthew Polenzani
 website: http://www.matthewpolenzani.com/
+cms_visible: true
 ---
 
 Tenor Matthew Polenzani is one of the most gifted and distinguished lyric tenors of his generation. His elegant musicianship, innate sense of style and dramatic commitment find him at virtually every leading operatic, concert and recital venue in the world.

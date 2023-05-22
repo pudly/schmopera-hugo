@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/AshlieCorcoran
 title: Ashlie Corcoran
 website: http://www.ashliecorcoran.com/
+cms_visible: true
 ---
 
 <p>

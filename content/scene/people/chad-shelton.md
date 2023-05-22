@@ -17,6 +17,7 @@ related_companies:
 - scene/companies/utah-opera.md
 slug: chad-shelton
 title: Chad Shelton
+cms_visible: true
 ---
 
 Opera News praises tenor Chad Shelton for one of his trademark roles, claiming that his “Don José was the dramatic heart of this production; this was a performance that grew in complexity as he struggled to reconcile the forces of loyalty, lust and fate. Shelton owned the final scene, as his character descended into despair fueled by psychotic obsession. His bright tone amplified the intensity of the last gripping moments.”  In the 2017-18 season, he returns to Houston Grand Opera for two exciting role debuts: Pollione in *Norma* and Aegisth in *Elektra* before returning to the Metropolitan Opera roster for the latter title. He also returns to Austin Opera as Don Jose in *Carmen* and the Phoenix Symphony for Beethoven’s Symphony No. 9.  Last season, he made returns to the Grand Théâtre de Genève for his first performances of Sir Edgar Aubry in *Der Vampyr* and Houston Grand Opera to reprise Chairman Mao in Adams’ *Nixon in China* and sang Don Jose in *Carmen* on tour in Japan as a guest artist of the Seiji Ozawa Music Academy Opera Project.  He also returned to the roster of the Metropolitan Opera for its production of *Cyrano de Bergerac*.    

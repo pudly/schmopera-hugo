@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/saultsop
 title: Joni Henson
 website: http://www.jonihensonsoprano.com/
+cms_visible: true
 ---
 
 <p>

@@ -258,6 +258,7 @@ social_media:
 title: Royal Opera House
 type_of_company: Opera Company
 website: http://www.roh.org.uk/
+cms_visible: true
 ---
 
 <p>

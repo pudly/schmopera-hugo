@@ -26,6 +26,7 @@ social_media:
   url: https://www.instagram.com/oweninroam/
 title: Owen McCausland
 website: https://www.owenmccausland.com/
+cms_visible: true
 ---
 From Saint John, New Brunswick, tenor Owen McCausland is increasingly in demand for engagements with important opera companies and symphonies across Canada. He opened the Orchestre symphonique de Montréal’s 2018-2019 season with the World Premiere of _Chaakapesh, The Trickster’s Quest_ under the baton of Kent Nagano. Written by Tomson Highway and Matthew Ricketts, the chamber opera’s premiere was followed by an extensive tour from the Arctic to the interior of Quebec. McCausland’s season continued with Jaquino in _Fidelio_ for Pacific Opera Victoria, Ottavio in _Don Giovanni_ for Manitoba Opera, Roderigo in _Otello_ for the Canadian Opera Company, _Messiahs_ in Victoria and New Brunswick and Mozart’s _Requiem_ for Ottawa’s Music and Beyond.
 

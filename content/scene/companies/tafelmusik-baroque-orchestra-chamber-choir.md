@@ -23,6 +23,7 @@ social_media:
 title: Tafelmusik Baroque Orchestra &amp; Chamber Choir
 type_of_company: Baroque Orchestra & Choir
 website: http://www.tafelmusik.org/
+cms_visible: true
 ---
 
 <p>

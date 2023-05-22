@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/lopra-de-montral.md
 slug: luc-robert
 title: Luc Robert
+cms_visible: true
 ---
 
 In the shortest period of time the Canadian

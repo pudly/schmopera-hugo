@@ -13,6 +13,7 @@ social_media:
   template: social-media
   url: https://www.facebook.com/Sarah-Vautour-soprano-995747873854845/
 title: Sarah Vautour
+cms_visible: true
 ---
 
 Soprano Sarah Vautour is a recent graduate of the University of Cincinnati's College-Conservatory of Music where she performed the title role of Donizetti's *Maria Stuarda* with CCM Opera d’arte. Returning in 2017 as a New Horizons Fellow, Ms. Vautour previously appeared in the 2015 Aspen Music Festival season as Mozart and Donna Anna in Stephen Stucky's *The Classical Style* under the baton of Robert Spano. Additionally, she performed the roles of Morgana (*Alcina*) and Le Chatte (*L'enfant et les Sortilèges*) with CCM Opera d'arte, and with Harrower Opera Workshop, Rose Maurrant (*Street Scene*). Furthermore, she covered the role of Tytania (*A Midsummer Night;s Dream*) with Opera on the Avalon. 

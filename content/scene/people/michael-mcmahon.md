@@ -16,6 +16,7 @@ social_media:
   template: social-media
   url: https://www.facebook.com/michael.mcmahon.79069
 title: Michael McMahon
+cms_visible: true
 ---
 
 Pianist and vocal coach Michael McMahon studied at McGill University with Charles Reiner. With the aid of the Canada Council for the Arts, he completed his studies in Vienna at the Franz Schubert Institute and the Hochschule für Musik und darstellende Kunst, and in Salzburg at the International Summer Academy held at the Mozarteum. During this time, he studied with such legendary artists as Erik Werba, Hans Hotter, Elly Ameling, Jörg Demus and Kim Borg. 

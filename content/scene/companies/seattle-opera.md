@@ -61,6 +61,7 @@ social_media:
 title: Seattle Opera
 type_of_company: Opera Company
 website: https://www.seattleopera.org/
+cms_visible: true
 ---
 
 <p>

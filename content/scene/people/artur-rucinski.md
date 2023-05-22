@@ -18,6 +18,7 @@ related_companies:
 slug: artur-rucinski
 title: Artur Ruciński
 website: http://arturrucinski.com/
+cms_visible: true
 ---
 
 Baritone Artur Ruciński belongs to a select group of Polish opera singers who have risen to international fame in recent years.

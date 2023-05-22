@@ -32,6 +32,7 @@ title: dell'Arte Opera Ensemble
 type_of_company: Opera Company
 website: http://dellarteopera.org/
 youtube_url: ""
+cms_visible: true
 ---
 DELL’ARTE OPERA ENSEMBLE was created to provide emerging opera artists with training and performance opportunities necessary to bridge the gap between the conservatory and a flourishing career. The emphasis is on “learning by doing”, backed by the philosophy that superior craft creates great art. DELL’ARTE’S annual summer repertory season also attracts new audiences by offering high-quality, meticulously crafted opera presentations featuring rising young artists in intimate venues. The company’s programming includes a wide range of operas, ranging from standard repertoire like Mozart’s _Le nozze di Figaro_ and Bizet’s _Carmen_ to seldom heard works like Salieri’s _Falstaff_ and Hiram Titus’ _Rosina_.
 

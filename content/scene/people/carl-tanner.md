@@ -16,6 +16,7 @@ social_media:
   template: social-media
   url: https://twitter.com/TannertheTenor
 title: Carl Tanner
+cms_visible: true
 ---
 
 American tenor Carl Tanner begins the 2015/16 season with a concert appearance as Pinkerton in *Madama Butterfly* with the Minnesota Orchestra under the baton of Andrew Litton. He next joins Opera Colorado to sing his signature role Radames in *Aida* (a role he sang to great acclaim at the Metropolitan Opera last season). Mr. Tanner then appears on tour with orchestras around the USA to promote his re-released Christmas CD, *Hear the Angel Voices*. 

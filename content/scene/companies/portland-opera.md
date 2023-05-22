@@ -32,6 +32,7 @@ social_media:
 title: Portland Opera
 type_of_company: Opera Company
 website: http://www.portlandopera.org/
+cms_visible: true
 ---
 
 Our mission is to inspire, challenge and uplift our audiences by creating productions of high artistic quality that celebrate the beauty and breadth of opera.

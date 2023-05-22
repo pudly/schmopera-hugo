@@ -27,6 +27,7 @@ social_media:
   url: https://www.instagram.com/msamburbraid/
 title: Ambur Braid
 website: http://amburbraid.com/
+cms_visible: true
 ---
 A series of sensational debuts have highlighted Canadian soprano Ambur Braid as a ​‘revelation’ (Das Opernmagazin, 2022). From Eva in Schreker’s _Irrelohe_ for Opéra de Lyon to Salome in Barrie Kosky’s production for Oper Frankfurt, her sumptuous voice and enigmatic stage presence continue to leave a striking impression on audiences and critics alike.
 

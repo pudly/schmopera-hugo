@@ -26,6 +26,7 @@ social_media:
   url: https://www.youtube.com/user/hanniganbarbara
 title: Barbara Hannigan
 website: http://www.barbarahannigan.com/
+cms_visible: true
 ---
 Embodying music with an unparalleled dramatic sensibility, soprano and conductor Barbara Hannigan is an artist at the forefront of creation. Her artistic colleagues include directors and conductors such as Christoph Marthaler, Simon Rattle, Sasha Waltz, Kent Nagano, Vladimir Jurowski, John Zorn, Andreas Kriegenburg, Andris Nelsons, Reinbert de Leeuw, David Zinman, Antonio Pappano, Katie Mitchell, Kirill Petrenko, and Krszysztof Warlikowski.
 

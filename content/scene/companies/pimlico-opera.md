@@ -14,6 +14,7 @@ social_media:
   url: https://twitter.com/PimlicoOpera
 title: Pimlico Opera
 website: http://www.pimlicoopera.co.uk/
+cms_visible: true
 ---
 
 Pimlico Opera aims to use music and drama to advance personal development, particularly with younger people. Artistic excellence is an essential part of achieving this aim.

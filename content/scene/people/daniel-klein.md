@@ -19,6 +19,7 @@ social_media:
   url: https://www.instagram.com/danielkleinonline/
 title: Daniel Klein
 website: http://danielkleinonline.com/
+cms_visible: true
 ---
 Imaginative, adventurous, and occasionally downright terrifying, audiences have found in Bass Baritone, Daniel Klein an exciting example of versatility. As he evolves as an artist, so have the roles for which he has been called upon to interpret.  Most recently he captured the complex balance of humor and terror as the Podesta in Bronx Opera's *La Gazza Ladra*, the curse hurling Monterone in Annapolis Opera's *Rigoletto*, the hunchbacked villian as Tonio in Opera Providence's *Pagliacci*, and he brought swagger and comic timing to Fresno Grand Opera’s Pirate King in *Pirates of Penzance*.   This summer he will make his role debut as Emilie de Becque in *South Pacific* with the New Canaan Summer Theater.
 

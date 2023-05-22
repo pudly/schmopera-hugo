@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/JanakaGW
 title: Janaka Welihinda
 website: http://www.janakawelihinda.com/
+cms_visible: true
 ---
 
 Praised for his "clear talent for comic acting" and "clear voice" (Opera Canada), Sri Lankan - Canadian baritone Janaka Welihinda is quickly establishing himself as an artist of note.

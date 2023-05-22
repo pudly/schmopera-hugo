@@ -14,6 +14,7 @@ social_media:
   url: https://www.youtube.com/watch?v=iPGqJcJ8QxE
 title: Anush Avetisyan
 website: https://www.anushavetisyan.com/
+cms_visible: true
 ---
 Armenian-American soprano, Anush Avetisyan has “proved to be a gifted singer and interpreter beyond her years” (German World Magazine). Ms. Avetisyan along with Livermore Valley Opera is a recipient of the American Prize in Opera for her 2021 performance of Lauretta in _Gianni Schicchi_ as well as Bianca in Zemlinsky’s _A Florentine Tragedy_. She was a recent two time fellow at the Music Academy of the West and was awarded a Fast Pitch Awardee for her work in promoting Armenian classical music in the classical canon. Ms. Avetisyan is one of the first cohorts of fellows with the 2018-19 Turn the spotlight organization, whose mission it is to empower leaders on stage and behind the scenes to create a more equitable future for the arts. 
 

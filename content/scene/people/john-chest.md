@@ -15,6 +15,7 @@ related_companies:
 - scene/companies/semperoper-dresden.md
 slug: john-chest
 title: John Chest
+cms_visible: true
 ---
 
 American baritone John Chest is winner of the prestigious 2010 Stella Maris International Vocal Competition and the Arleen Auger Prize in the 2012 Hertogenbosch International Vocal Competition. Until September 2016 he was a member of the ensemble at the Deutsche Oper Berlin, where his roles included the title role of *Billy Budd* in a new production by David Alden, Valentin *Faust*, Ford *Falstaff*, Silvio *Pagliacci*, Figaro *Il barbiere di Siviglia*, Papageno *Die Zauberflöte*, Guglielmo *Così fan tutte*, and Il Conte Almaviva *Le nozze di Figaro*.

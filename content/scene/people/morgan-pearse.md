@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/baritoneaus
 title: Morgan Pearse
 website: https://www.morganpearse.co.uk/
+cms_visible: true
 ---
 Morgan Pearse from Sydney, Australia is already widely recognised as one of the most exciting and talented baritones of his generation.
  

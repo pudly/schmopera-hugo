@@ -19,6 +19,7 @@ social_media:
   url: https://soundcloud.com/jessica-jacobs-soprano/sets/jessicajacobs
 title: Jessica Jane Jacobs
 website: http://www.jessicajanejacobs.com/html/
+cms_visible: true
 ---
 Soprano Jessica Jane Jacobs has been praised by critics for her "warm", "clear", and "bejeweled" vocal tone along with her "affecting", "strong", and "honest" stage presence. Ms. Jacobs is becoming noticed for her abilities as a singing actress. Of her performance as Mimì in _La Bohème_ one reviewer wrote, "Jacobs’s ability to respond organically to her cast mates puts her in a growing minority of opera singers who are able to fully integrate dramatic truthfulness with fine vocal delivery." (_The Boston Musical Intelligencer_)
 

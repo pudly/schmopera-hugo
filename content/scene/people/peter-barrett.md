@@ -23,6 +23,7 @@ social_media:
   url: https://www.instagram.com/barrettpeter_baritone/
 title: Peter Barrett
 website: https://www.peterbarrett.ca/
+cms_visible: true
 ---
 A recipient of the Ian Rosenblatt Bursary at the Wexford Festival in Ireland and a top prizewinner at the Montreal International Music Competition, baritone **Peter Barrett** is one of Canada’s most important and acclaimed artists on the opera and concert stage. Peter begins 22/23 in a role debut as Scarpia with Edmonton Opera and later this season, takes on the lead role of Ratefreund in Pacific Opera Victoria’s production of Braunfels’ _Die Vögel_ and the premiere of _Pomegranate_ at the Canadian Opera Company_._ His 21/22 appearances included Canadian Opera Company’s digital production of Puccini’s _Gianni Schicchi_, Marcello in _La bohème_ for Edmonton Opera and the world premiere of Nicole Lizée’s _RUR A Torrent of Light_ with Toronto’s Tapestry Opera.
 

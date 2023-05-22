@@ -14,6 +14,7 @@ related_companies:
 slug: nicholas-pallesen
 title: Nicholas Pallesen
 website: http://www.nicholaspallesen.com/index.html
+cms_visible: true
 ---
 
 American Baritone Nicholas Pallesen has received international praise for his "authority and tonal beauty", "handsome, stylish singing", "depth of feeling", and his "formidable portrayal in bearing and voice". He is a 2012 recipient of a Richard Tucker Career Grant from the Richard Tucker Foundation and a 2013 Award winner of the George London Foundation Competition. He is also a former Grand Finalist in the Metropolitan Opera National Council Auditions and can be seen in the documentary, "The Audition”.

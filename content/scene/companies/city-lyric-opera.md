@@ -16,6 +16,7 @@ social_media:
 title: City Lyric Opera
 type_of_company: Opera Company
 website: https://www.citylyricopera.org/
+cms_visible: true
 ---
 ## Mission Statement
 

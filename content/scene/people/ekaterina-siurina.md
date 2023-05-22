@@ -16,6 +16,7 @@ related_companies:
 slug: ekaterina-siurina
 title: Ekaterina Siurina
 website: http://www.ekaterinasiurina.com/
+cms_visible: true
 ---
 
 Ekaterina Siurina is an established Russian soprano who studied at the Russian Academy of Theatrical Arts, Moscow. Here she had performed some challenging repertoire including Gilda in *Rigoletto*, where she made her professional debut singing opposite world-renowned baritone Dimitri Hvorostovsky at the Novaya Opera. Siurina also became a soloist with the Municipal Moscow Theatre, and was a prize winner of the Rimski Korsakov 

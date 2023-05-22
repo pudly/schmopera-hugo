@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/danielbrenna10r
 title: Daniel Brenna
 website: http://www.danielbrenna.com/index.html
+cms_visible: true
 ---
 
 Daniel’s international career began in 2011 when he portrayed ARON in ‘Moses and Aron’ at the Zurich Opera House. Before, he already enjoyed huge success in this very role with the Budapest Philharmonics at the Miscolz Festival in Budapest and at the Palace of Arts in 2010.

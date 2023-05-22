@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/nat_tweets_nyc
 title: Natalie Rose Havens
 website: https://www.natalierosehavens.com/
+cms_visible: true
 ---
 Cuban-American mezzo soprano Natalie Rose Havens has been gaining recognition throughout North America. This Spring she was seen performing the role of Zerlina in a new production titled _Don Giovanni in New York_ with **DivAria Productions**, Third Lady in Mozart’s _The Magic Flute_ with **Orchestra Miami**, and Lola in **Boheme Opera New Jersey’s** production of _Cavalleria Rusticana_. This summer she will be performing as a Festival Artist with **Savannah VOICE Festival**.
 

@@ -24,6 +24,7 @@ social_media:
   url: https://www.youtube.com/channel/UCmJQJbGu14mEgm7ZJo5fmYA
 title: Andrei Bondarenko
 website: http://andreibondarenko.com/
+cms_visible: true
 ---
 Ukrainian baritone, Andrei Bondarenko, is one of the most exciting young baritones of today, having worked extensively with Valery Gergiev, Ivor Bolton, Yannick Nézet-Séguin, Vladimir Ashkenazy, Vasily Petrenko, Enrique Mazzola, Kirill Karabits, Teodor Currentzis, Emanuelle Villaume, Michael Sturminger, Omer Meir Wellber, Alain Altinoglou, Daniele Callegari, Lorenzo Viotti and Cornelius Meister.
 

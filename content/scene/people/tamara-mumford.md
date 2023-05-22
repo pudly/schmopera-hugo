@@ -13,6 +13,7 @@ related_companies:
 slug: tamara-mumford
 title: Tamara Mumford
 website: http://www.tamaramumford.com/
+cms_visible: true
 ---
 
 This season, mezzo-soprano Tamara Mumford.returns to the Metropolitan Opera as Smeaton in *Anna Bolena* and reprises her role in Daniel Schnyder's *Yardbird* with Gotham Chamber Opera at the famed Apollo Theater. She also appears on tour in the US and Europe with the Gustavo Dudamel and the Los Angeles Philharmonic in performances of Mahler Symphony No. 3, makes her debut with the Netherlands Radio Philharmonic in performances of John Adams' *The Gospel According to the Other Mary* and returns to the Utah Symphony for performances of Mahler Symphony No. 8. 

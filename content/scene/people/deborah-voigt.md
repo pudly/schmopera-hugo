@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/debvoigt
 title: Deborah Voigt
 website: http://deborahvoigt.com/
+cms_visible: true
 ---
 
 <p>

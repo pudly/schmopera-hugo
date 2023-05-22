@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/ryanpauldowney
 title: Ryan Downey
 website: http://ryanpauldowney.com/
+cms_visible: true
 ---
 
 Newfoundland native Ryan Downey is a recent graduate of the University of Toronto with a Masters of Music degree from the Opera School studying with Dr. Darryl Edwards. Ryan is fresh off a number of notable debuts; the first being onstage at the Place des Arts Salle Wilfred Pelletier as a finalist in the Opéra de Montréal's Atelier Lyrique competition and secondly with Toronto Operetta Theatre as Corcoran in *HMS Pinafore*. Ryan is currently busy preparing for JS Bach's *Easter Oratorio* in Toronto, a program of arias with the Timmins Symphony Orchestra and a recital at the Toronto Arts and Letters club in early 2016. Later in 2016, Ryan will be singing in the premiere of John Estacio's *Ours* with Opera on the Avalon. He will also be joining a major Canadian young artist program for the 2016-2017 season.

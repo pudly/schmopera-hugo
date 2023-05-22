@@ -8,6 +8,7 @@ publishDate: "2015-04-22T23:39:00-04:00"
 slug: stefano-secco
 title: Stefano Secco
 website: http://www.stefanosecco.com/
+cms_visible: true
 ---
 
 Stefano Secco began his studies of piano and singing under the guidance of M° Alberto Soresina and subsequently received a diploma in percussion with M° Tullio De Piscopo. Secco privately followed Maestri like Franco Corelli, Franca Mattiucci, and attended master classes led by Leyla Gencer and Renata Scotto, among others.

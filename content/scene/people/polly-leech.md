@@ -21,6 +21,7 @@ social_media:
   url: https://www.instagram.com/misspollywally/
 title: Polly Leech
 website: http://www.pollyleech.com/
+cms_visible: true
 ---
 Polly is a twenty-four year old mezzo-soprano from Wiltshire. She recently graduated from the Royal College of Music, having gained a postgraduate Masters in Vocal Performance (Distinction) under vocal professor Amanda Roocroft and vocal coach Christopher Glynn. She was the Theo Max van der Beugel Scholar and was also supported by the Josephine Baker Trust.  
  

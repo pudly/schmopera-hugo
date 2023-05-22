@@ -13,6 +13,7 @@ social_media:
   url: https://twitter.com/ThePeterBass
 title: Peter Bass
 website: http://www.peterbass.ca/
+cms_visible: true
 ---
 
 Peter Bass is a baritone based out of Toronto. Originally from Edmonton, Alberta, Peter recently completed his Bachelor of Music in Voice Performance at the University of Toronto. Previous to his university training, Peter completed the Theatre Arts diploma at Grant MacEwan College and proceeded to work as an actor for the next eight years.

@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/ooloth
 title: Michael Uloth
 website: http://www.michaeluloth.com/
+cms_visible: true
 ---
 
 I never dreamed I'd be an opera singer. I enrolled in a voice performance degree at Wilfrid Laurier University as a way to keep things interesting while completing my B.A. in English, and unexpectedly fell in love with singing. I decided to pursue a Masters degree in opera at the University of Toronto, and then spent three years in the Canadian Opera Company Ensemble Studio program and one year in the Seattle Opera Young Artists Program.

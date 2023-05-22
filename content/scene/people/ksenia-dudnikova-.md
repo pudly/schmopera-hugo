@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/opernhaus-zurich.md
 slug: ksenia-dudnikova
 title: 'Ksenia Dudnikova '
+cms_visible: true
 ---
 Ksenia Dudnikova will make her debut at the Royal Opera House – Covent Garden in February of 2017 as the Principessa di Bouillon in Cilea’s *Adriana Lecouvreur*, opposite Angela Gheorghiu. The leading mezzo-soprano of the Stanislavsky and Nemirovich-Danchenko Opera in Moscow, where she debuted in 2011, Dudnikova has won high praise there in roles including Marfa in *Khovanschina*, Amneris in *Aida*, Pauline in *The Queen of Spades*, Olga in *Eugene Onegin* and Lyubasha in *The Tsar’s Bride*. Her performance in *Aida*, staged by famed director Peter Stein, led to her nomination for Best Leading Female Role in opera at the 2015 Russian National Theatrical “Gold Mask Awards”. She has also appeared with the Stanislavsky Theater on several international tours, which have included visits to the Netherlands and China.
 

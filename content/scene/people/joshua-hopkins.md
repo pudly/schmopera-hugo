@@ -26,6 +26,7 @@ social_media:
   url: https://twitter.com/barihopkins
 title: Joshua Hopkins
 website: http://joshuahopkins.com/
+cms_visible: true
 ---
 
 <p>

@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/operalan
 title: Alan Held
 website: http://www.alanheld.com/
+cms_visible: true
 ---
 
 <p>

@@ -12,6 +12,7 @@ related_companies:
 slug: david-walton
 title: David Walton
 website: http://www.davidwaltontenor.com/
+cms_visible: true
 ---
 
 Praised for his “clean, clear voice,” David Walton dazzles stages across the country to critical acclaim. As Tybalt in the recent production of Gounod’s *Roméo et Juliette*, Mr. Walton was described as “the production’s only good villain ... a tightly coiled ball of restless anger” (The Pioneer Press). This season, he sings the title role in *Albert Herring* with Union Avenue Opera, a Summer in the Park concert with Madison Opera, *Salome* with Minnesota Orchestra, Ernesto in *Don Pasquale* with Minnesota Opera, as a soloist in “A Three Tenor Christmas” with Chanhassen Dinner Theater, Belmonte in *Die Entführung aus dem Serail* with Madison Opera and Brava! Opera Theatre, and Count Almaviva in *Il barbiere di Siviglia* with the Glimmerglass Festival.

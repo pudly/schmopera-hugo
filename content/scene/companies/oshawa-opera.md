@@ -19,6 +19,7 @@ social_media:
 title: Oshawa Opera
 type_of_company: Opera Company
 website: http://www.theoshawaopera.com/
+cms_visible: true
 ---
 
 <p>

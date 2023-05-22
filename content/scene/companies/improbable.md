@@ -15,6 +15,7 @@ social_media:
 title: Improbable
 type_of_company: Theatre Company
 website: http://www.improbable.co.uk/
+cms_visible: true
 ---
 
 #### Who are Improbable?

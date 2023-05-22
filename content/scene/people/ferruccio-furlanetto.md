@@ -16,6 +16,7 @@ related_companies:
 - scene/companies/san-diego-opera.md
 slug: ferruccio-furlanetto
 title: Ferruccio Furlanetto
+cms_visible: true
 ---
 
 One of the greatest basses of our time Ferruccio Furlanetto is one of the most sought-after singers in the world. The critics praise him for his vast range, thundering vocal power, and excellent acting ability.

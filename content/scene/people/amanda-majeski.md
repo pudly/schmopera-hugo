@@ -22,6 +22,7 @@ social_media:
   url: https://www.instagram.com/majeskiamanda/
 title: Amanda Majeski
 website: http://www.amandamajeski.com/
+cms_visible: true
 ---
 
 American lyric soprano Amanda Majeski is rapidly garnering critical acclaim for a voice of “silvery beauty” (Musical America) that combines “transparent fragility with soulful strength.” (Chicago Sun-Times)

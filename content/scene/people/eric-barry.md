@@ -19,6 +19,7 @@ social_media:
   url: https://www.instagram.com/ebtenor/
 title: Eric Barry
 website: http://www.eric-barry.com/
+cms_visible: true
 ---
 
 Winner of the Bel Canto Prize at the 2016 Maryland Lyric Opera Competition, Spanish-American tenor Eric Barry is “making an impressive mark” on opera and concert stages “with a clear timbre, evenness of projection and exceptional sensitivity” (*Opera News*).

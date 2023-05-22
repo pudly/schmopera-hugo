@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/GeraldFinley
 title: Gerald Finley
 website: http://www.geraldfinley.com/
+cms_visible: true
 ---
 
 <p>

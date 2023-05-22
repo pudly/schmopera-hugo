@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/san-francisco-opera.md
 slug: brian-michael-moore
 title: Brian Michael Moore
+cms_visible: true
 ---
 
 Brian Michael Moore is a tenor from Cincinnati, Ohio. He completed his bachelor of music and master

@@ -17,6 +17,7 @@ social_media:
 title: Opera Coeur d&#039;Alene
 type_of_company: Opera Company
 website: http://operacda.com/
+cms_visible: true
 ---
 
 ## Mission

@@ -78,6 +78,7 @@ social_media:
 title: Opera Philadelphia
 type_of_company: Opera Company
 website: https://www.operaphila.org/
+cms_visible: true
 ---
 
 <p>

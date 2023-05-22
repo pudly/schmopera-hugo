@@ -13,6 +13,7 @@ related_companies:
 slug: martin-winkler
 title: Martin Winkler
 website: http://en.martinwinkler.net/
+cms_visible: true
 ---
 
 Bass-Baritone Martin Winkler was born in Bregenz, Austria. Martin studied voice at the University of Vienna with Walter Berry.

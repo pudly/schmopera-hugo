@@ -14,6 +14,7 @@ related_companies:
 slug: leela-subramaniam
 title: Leela Subramaniam
 website: http://www.leelasubramaniam.com/
+cms_visible: true
 ---
 
 Praised by Opera News as a “gleaming, pitch perfect soprano” and the Wall Street Journal as “piercingly lovely” for her portrayal of the title role in *Thais*, soprano Leela Subramaniam is turning heads with her rapid ascent to opera stardom. After winning the prestigious Opera Foundation Björn Eklund Scholarship, Ms. Subramaniam was invited to join the Bayerische Staatsoper Opera Studio for the 2015- 2016 season, where she appeared as Miss Wordsworth in *Albert Herring*, Barbarina in *Le Nozze di Figaro*, Papagena in *Die Zauberflöte*, Dew Fairy in *Hänsel und Gretel*, Countess Ceprano in *Rigoletto*, die Fünfzehrjahrige in *Lulu*, die Hoher Schatten in the Opernfestpiele world premiere of *Hauke Bernheide's Mauerschau*. In addition, she went on tour performing in many concerts around southern Germany, performing excerpts as Giunia in Mozart's *Lucio Silla*, Ilia in *Idomeneo*, and Violetta in *La Traviata*.

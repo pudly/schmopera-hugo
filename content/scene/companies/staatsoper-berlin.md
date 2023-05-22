@@ -58,6 +58,7 @@ slug: staatsoper-berlin
 title: Staatsoper Berlin
 type_of_company: Opera Company
 website: http://staatsoper-berlin.de/
+cms_visible: true
 ---
 The Berliner Staatsoper's permanent home is the opera house on the Unter den Linden boulevard in the Mitte district of Berlin, which also hosts the Staatskapelle Berlin orchestra. It is also known as Deutsche Staatsoper, and short as Lindenoper. From 1949 to 1990 it was the state opera of East Germany. Since 2004 the Berlin State Opera belongs like the Deutsche Oper Berlin, the Komische Oper Berlin, the Berlin State Ballet and the Bühnenservice Berlin (Stage and Costume Design) to the Berlin Opera Foundation.
 

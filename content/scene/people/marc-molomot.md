@@ -10,6 +10,7 @@ related_companies:
 - scene/companies/on-site-opera.md
 slug: marc-molomot
 title: Marc Molomot
+cms_visible: true
 ---
 Possessed of a rare high-tenor voice and a winning stage persona that comfortably embraces both comedic and dramatic roles, Marc Molomot enjoys an international career in opera and on the concert stage. Originally known for appearances with the world’s leading early music ensembles, and conductors including William Christie, John Eliot Gardiner, Nicholas McGegan, and Andrew Parrott, Mr. Molomot is now praised as “an excellent actor-singer” in repertoire of all eras. 
 

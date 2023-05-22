@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/oper-frankfurt.md
 slug: dimitri-platanias
 title: Dimitri Platanias
+cms_visible: true
 ---
 
 Born in Greece, he is now recognised as one of the foremost Verdi Baritones of the younger generation. Winning the Alexandra Trianti Scholarship enabled him to study in Italy under Masako Tanaka Protti and at the showcase concert for the winners of this bequest, Rodney Milnes said in *Opera Magazine*:

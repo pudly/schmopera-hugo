@@ -27,6 +27,7 @@ social_media:
   url: https://www.youtube.com/user/SpencerMattB
 title: Spencer Britten
 website: https://www.spencerbritten.com/
+cms_visible: true
 ---
 Triple threat Canadian tenor Spencer Britten has been praised for having “the poise and confidence of a seasoned professional” (_Bachtrack_) and boasting a “full voice and ringing tone” (_La Scena Musicale_). Britten recently completed his second season as a member of the International Opera Studio at Staatsoper Unter den Linden in Berlin, where he portrayed the roles of Janke Prus in a new production of _The Makropulos Affair,_ Erste Priester in _Die Zauberflöte,_ Haushofmeister bei Faninal in _Der Rosenkavalier_, Silango in _Le Cinesi_, Kalil in _Die Arabische Nacht,_ Postillione in _La Fanciulla del West_, Offizier in _Ariadne auf Naxos,_ and Borsa in _Rigoletto_. He also recently made his house and role debut at the Bregenzer Festspiele in Austria, singing the role of Lindoro in _L’Italiana in Algeri_.
 

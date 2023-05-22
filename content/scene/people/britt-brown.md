@@ -18,6 +18,7 @@ social_media:
   url: https://www.instagram.com/brittinboston/
 title: Britt Brown
 website: https://www.mezzobritt.com/
+cms_visible: true
 ---
 Boston-based mezzo-soprano Britt Brown's 2017-2018 season included performances with Boston Midsummer Opera, Boston Opera Collaborative, MetroWest Opera, the Boston Lyric Opera, and Odyssey Opera. Britt premiered several pieces with Juventas New Music Ensemble including Dream Songs with internationally acclaimed violinist Olga Patramanska-Bell. Britt had the pleasure of performing in recital with members of the Boston Symphony Orchestra in the Curtisville Consortium in the Berkshires. She premiered the role of Tatlanthe in composer Andy Vores’s new opera _Chrononhotonthologos_ with Guerilla Opera, joined Keith Lockhart and the Boston Pops for their New England Holiday Tour, and in Odyssey Opera’s New England premiere of Verdi’s _Giovanna d’Arco_.
 

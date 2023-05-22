@@ -11,6 +11,7 @@ related_companies:
 slug: ana-sokolovic
 title: Ana Sokolovic
 website: http://www.anasokolovic.com/en/home
+cms_visible: true
 ---
 
 <p>

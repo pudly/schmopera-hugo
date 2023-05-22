@@ -13,6 +13,7 @@ social_media:
   url: https://twitter.com/juliusdrake
 title: Julius Drake
 website: http://juliusdrake.com/
+cms_visible: true
 ---
 
 The pianist Julius Drake lives in London and enjoys an international reputation as one of the finest instrumentalists in his field, collaborating with many of the world’s leading artists, both in recital and on disc.

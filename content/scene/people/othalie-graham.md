@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/@OthalieGraham
 title: Othalie Graham
 website: http://www.othaliegrahamsoprano.com/index.htm
+cms_visible: true
 ---
 
 Canadian-American soprano Othalie Graham continues to receive critical acclaim throughout North America. Widely known for her interpretation of the title role in *Turandot*, the Boston Globe noted that her “timbre and power were thrilling – steely ring from top to bottom – and her path from imperiousness to passion was convincing.” 

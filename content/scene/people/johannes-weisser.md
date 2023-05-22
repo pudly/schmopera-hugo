@@ -17,6 +17,7 @@ social_media:
   template: social-media
   url: https://twitter.com/weisserjohannes
 title: Johannes Weisser
+cms_visible: true
 ---
 
 Johannes Weisser was born in 1980 in Norway. He studied at the Music Conservatory in Copenhagen and at the Royal Danish Academy of Opera in Copenhagen with Susanna Eken.

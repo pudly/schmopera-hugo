@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/MsMicheleMezzo
 title: Michèle Bogdanowicz
 website: http://www.michele-bogdanowicz.com/
+cms_visible: true
 ---
 
 Canadian Michèle Bogdanowicz has taken an important place among the outstanding mezzo-sopranos of her generation. A Fellow at Ravinia’s Steans Institute for Young Artists, she was chosen to present the world premiere of songs "Facing Forward, Looking Back" by American composer Jake Heggie and as a member of the prestigious Merola Program of the San Francisco Opera, she had a resounding success as Susanna in *Le Nozze di Figaro*. She made an important debut as Béatrice in Berlioz' *Béatrice et Bénédict* with the Orquesta Sinfónica de Minería in Mexico City, she also  presented a world premiere of songs composed for her by Canadian composer Norbert Palej at Gallery 345, these songs will be featured on a recording with the Canadian Art Song Project this season.  Also this season, she appears with the Pax Christi Chorale in Bach's *Christmas Oratorio* as well as with the Bach Elgar Choir in *Messiah*. She will be featured in the Recitals at Rosedale series, presenting a world premiere of songs composed by Elizabeth Raum and she sings La mère in Charpentier's *Louise* with Opera in Concert. She sang Mercédès on the Canadian Opera Company’s mainstage as a member of the Ensemble Studio. Other COC roles include New Ofglen in Ruders’ *The Handmaid's Tale*, Hänsel in *Hänsel and Gretel*, Nancy in *Albert Herring* and Papagena in *The Magic Flute*.

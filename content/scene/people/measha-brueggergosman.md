@@ -21,6 +21,7 @@ social_media:
   url: https://www.youtube.com/user/MeashaBG
 title: Measha Brueggergosman
 website: http://www.measha.com/
+cms_visible: true
 ---
 
 Motivated and hungry for new experiences, Ms. Brueggergosman’s career effortlessly embraces the broadest array of performance platforms and musical styles and genres.

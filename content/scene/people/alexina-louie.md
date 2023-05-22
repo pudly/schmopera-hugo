@@ -15,6 +15,7 @@ social_media:
   url: https://www.facebook.com/pages/Alexina-Louie/108011175918879
 title: Alexina Louie
 website: http://www.alexinalouie.ca/home
+cms_visible: true
 ---
 
 <p>

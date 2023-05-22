@@ -42,6 +42,7 @@ social_media:
 title: Lyric Opera of Kansas City
 type_of_company: Opera Company
 website: https://www.kcopera.org/
+cms_visible: true
 ---
 
 ## OUR MISSION

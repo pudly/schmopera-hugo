@@ -33,6 +33,7 @@ social_media:
   url: https://www.linkedin.com/in/joshua-conyers-4037b0149/
 title: Joshua Conyers
 website: https://www.joshuaconyers.com/
+cms_visible: true
 ---
 Baritone Joshua Conyers has been hailed by Opera News with “a deliciously honeyed baritone that would seduce anyone” and The New York Times as having “a sonorous baritone” that “wheedled and seduced.”  Mr. Conyers, a native of Bronx, NY, is quickly being championed for his captivating performances as he continues to be recognized as one the promising young dramatic voices of today. Equally active in contemporary opera, Mr. Conyers performed the role of Uncle Wesley in Carlos Simon’s _Night Trip_ for Washington National Opera’s American Opera Initiative and Ed in the world premiere of _Everything for Dawn_ produced by Experiments in Opera with leading composers Kamala Sankaram and Aaron Siegel. Mr. Conyers covered the roles of Mr. Umeya in the American premiere of Huang Ruo's _Dr. Sun Yat-Sen_ in Mandarin Chinese, and Walt Whitman in the world premiere of Theodore Morrison's _Oscar_, both with the Santa Fe Opera.
 

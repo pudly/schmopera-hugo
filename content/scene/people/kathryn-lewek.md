@@ -25,6 +25,7 @@ social_media:
   url: https://twitter.com/KathrynLewek
 title: Kathryn Lewek
 website: https://www.kathrynlewek.com/
+cms_visible: true
 ---
 Kathryn Lewek has established herself as one of opera’s most thrilling coloratura sopranos of this generation, performing some of the most vocally challenging roles in the repertoire, joining the top-ranking operatic performers of all time.
 

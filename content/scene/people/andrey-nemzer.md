@@ -12,6 +12,7 @@ related_companies:
 slug: andrey-nemzer
 title: Andrey Nemzer
 website: http://andreynemzer.com/eng/
+cms_visible: true
 ---
 
 During the early years of his career, countertenor Andrey Nemzer has become distinguished for the unique size, flexibility and range of his instrument. A 3rd Prize Winner of Placido Domingo’s Operalia 2014 and The Winner of Metropolitan Opera National Council 2012, Mr. Nemzer has been a soloist with a number of distinguished opera houses. Mr. Nemzer covered the title role of Handel’s *Giulio Cesare in Egitto* in a new production for the Metropolitan Opera, debuted on Metropolitan Opera stage in role of The Guardian in R. Strauss’ *Die Frau ohne Schatten* and covered there the role of Prince Orlofsky in J. Strauss’ *Die Fledermaus* in Metropolitan Opera’s new production. His engagements also included the Pittsburgh Symphony for Orff’s *Carmina Burana*. 

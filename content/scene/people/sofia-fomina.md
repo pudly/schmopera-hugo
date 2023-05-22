@@ -8,6 +8,7 @@ primary_image_credit: Alecsandra Raluca Dragoi Photography and Olga Martinez Des
 publishDate: "2016-11-16T12:22:00+00:00"
 slug: sofia-fomina
 title: Sofia Fomina
+cms_visible: true
 ---
 
 Rising star soprano Sofia Fomina made a sensational debut at the Royal Opera House, Covent Garden, in December 2012 as Isabelle in Laurent Pelly’s new production of *Robert Le Diable*. Shortly afterwards, she made debuts with the Bayerische Staatsoper and Zürich Opernhaus and was nominated by German magazine Opernwelt as Nachwuchskünstlerin des Jahres (Newcomer of the year), following her role debut as Gilda. Last season she garnered huge success at Bayersiche Staatsoper singing Oscar in a new production of *Un Ballo in Maschera* conducted by Zubin Mehta:

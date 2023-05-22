@@ -27,6 +27,7 @@ social_media:
 title: Opera By Request
 type_of_company: Opera Company
 website: http://operabyrequest.ca/wordpress/
+cms_visible: true
 ---
 
 <p>

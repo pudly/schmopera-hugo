@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/baritoneDaza
 title: Alfredo Daza
 website: https://www.alfredodaza.com/
+cms_visible: true
 ---
 
 Alfredo Daza is well known for his interpretations of the Italian repertoire, which he expanded over the last few years with such Verdi roles as Francesco Moor in I masnadieri, Rodrigo in Don Carlos, Ford in Falstaff and Renato in Un ballo in maschera. His interpretation of Giorgio Germont in La Traviata, which he debuted in 2006, brought him to the Staatsoper Hamburg and New National Theatre Tokyo in 2015, where he sang the same role in a production directed by Phillip Boussard and conducted by Yves Abel. In the same year, Daza debuted as Valdeburgo/Leopoldo in Bellini’s La straniera, opposite Edita Gruberova. This year, he sang Scarpia in Puccini’s Tosca at the Theater St Gallen and debuted yet another Verdi role: Paolo Albiani in Simon Boccanegra at the Staatsoper Berlin, oppoiste Plácido Domingo.

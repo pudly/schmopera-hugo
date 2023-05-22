@@ -18,6 +18,7 @@ social_media:
   url: https://www.youtube.com/channel/UCXd1rAFOjPXpkw6-AE_57xg
 title: Lars Fischer
 website: https://www.larsfischer.com/
+cms_visible: true
 ---
 Lars Fischer grew up in Hergiswil (Switzerland) and Djursholm (Sweden). He holds a BLaw from the University of Lucerne (Switzerland, 2012), a BA in Music from the Lucerne School of Music with Prof. Hans-Jürg Rickenbacher (2015) and recently graduated from Trinity Laban Conservatoire of Music and Dance with an MMus with Distinction under the tutelage of Sophie Grimmer and Rob Bottriell.
 

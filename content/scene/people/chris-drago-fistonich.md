@@ -14,6 +14,7 @@ social_media:
   url: https://twitter.com/ChrisFistonich
 title: Chris Drago Fistonich
 website: https://www.chrisfistonich.com/
+cms_visible: true
 ---
 Baritone Chris Fistonich, currently residing in Princeton, New Jersey, is a PhD Immunologist and cybersecurity researcher turned opera singer. Chris has been hailed as a "voluminous, beefy baritone" with "supple variation of dynamics" (South Florida Classical Review), and as "simply great" (Art Burst Miami).
 

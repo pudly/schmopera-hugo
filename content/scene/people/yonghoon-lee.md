@@ -19,6 +19,7 @@ related_companies:
 - scene/companies/opernhaus-zurich.md
 slug: yonghoon-lee
 title: Yonghoon Lee
+cms_visible: true
 ---
 
 Born in South Korea, Yonghoon Lee has established himself internationally as a leading tenor of his generation. He has made debuts at many of the most prestigious theaters in the world, including the Royal Opera House – Covent Garden, Metropolitan Opera, Deutsche Oper Berlin, Vienna State Opera, Rome Opera, Dutch National Opera in Amsterdam, Bavarian State Opera in Munich, Teatro alla Scala in Milan, Semperoper Dresden, Lyric Opera of Chicago, and Opera Australia. Lee’s engagements for the 2016/17 season include Turiddu in *Cavalleria Rusticana* at the Paris Opera, the title role in *Andrea Chenier* at the San Francisco Opera, Don José in *Carmen* at the Semperoper Dresden, Cavaradossi in *Tosca* at the Staatsoper Berlin, Calaf in *Turandot* at the Deutsche Oper am Rhein in Dusseldorf, Manrico in *Il Trovatore* at the Gran Teatre del Liceu in Barcelona, Pollione in *Norma* at the Dallas Opera, and the title role in *Don Carlos* at the Bavarian State Opera in Munich and in Tokyo.

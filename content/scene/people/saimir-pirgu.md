@@ -32,6 +32,7 @@ social_media:
   url: https://www.youtube.com/channel/UCvguBsu4hXYNIRuyKZrXu-Q
 title: Saimir Pirgu
 website: http://saimirpirgu.com/home.html
+cms_visible: true
 ---
 
 Saimir Pirgu figures among the brightest stars in today’s international operatic firmament and has been celebrated at every major international operatic venue, including the Metropolitan Opera, the Teatro alla Scala, the Vienna State Opera, the Royal Opera House Covent Garden, the Paris Opéra, the Berlin Staatsoper and Deutsche Oper, the Zurich Opera, Barcelona’s Liceu, the San Francisco Opera, and the Salzburg Festival.

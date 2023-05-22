@@ -36,6 +36,7 @@ social_media:
 title: Classical Opera
 type_of_company: Period Orchestra
 website: http://www.classicalopera.co.uk/
+cms_visible: true
 ---
 
 Established in 1997 Classical Opera is one of the leading exponents of the music of Mozart and his contemporaries.

@@ -29,6 +29,7 @@ social_media:
   url: https://www.instagram.com/jbartonmezzo/
 title: Jamie Barton
 website: http://www.jamiebartonmezzo.com/
+cms_visible: true
 ---
 Since winning both First and Song Prizes at the 2013 BBC Cardiff Singer of the World Competition, Jamie Barton has established herself as a major dramatic talent on both sides of the Atlantic. She was named as the recipient of the 2015 Richard Tucker Award, subsequently performing in a star-studded televised gala at Lincoln Center’s David Geffen Hall in the same year, and the Metropolitan Opera’s 2017 Beverly Sills Artist Award and she appeared as the featured soloist in The Last Night of The Proms 2019, broadcast live around the world on television and BBC Radio 3, conducted by Sakari Oramo. 
 

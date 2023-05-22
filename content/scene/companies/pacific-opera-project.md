@@ -33,6 +33,7 @@ title: Pacific Opera Project
 type_of_company: Opera company
 website: https://www.pacificoperaproject.com/
 youtube_url: ""
+cms_visible: true
 ---
 Pacific Opera Project was founded in July of 2011 with the purpose of bringing accessible, affordable, and ENTERTAINING opera to audiences across Los Angeles.  To hear an in-depth interview about the founding and mission of POP, click here.
 

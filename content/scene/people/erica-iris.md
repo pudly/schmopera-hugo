@@ -16,6 +16,7 @@ social_media:
   template: social-media
   url: https://twitter.com/mezzoericairis
 title: Erica Iris
+cms_visible: true
 ---
 
 Praised for her stage presence of warmth and character, Mezzo-soprano Erica Iris has captivated audiences with her sensitivity and vocal timbres, critically acclaimed in her 

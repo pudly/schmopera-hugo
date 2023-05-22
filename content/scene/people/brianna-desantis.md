@@ -22,6 +22,7 @@ social_media:
   url: https://soundcloud.com/user-228801891
 title: Brianna DeSantis
 website: http://briannadesantis.com/
+cms_visible: true
 ---
 
 Brianna DeSantis is a young soprano originally from Windsor, Ontario. She is a recent graduate of the MMus of voice in literature and performance at Western University in London, Ontario. She has recently been accepted into the Jeunes Ambassadeurs Lyriques du Canada competition and she will be travelling to Montréal in November to sing with other singers from across Canada.

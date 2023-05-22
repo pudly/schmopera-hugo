@@ -12,6 +12,7 @@ related_companies:
 slug: samuel-chan
 title: Samuel Chan
 website: http://www.samuelchanbaritone.com/
+cms_visible: true
 ---
 
 Canadian baritone Samuel Chan has been praised by critics for his "Velvet tones" and for his "vocal versatility" on the operatic, concert and recital stage. Recent stage performances include the roles of Don Asdrubale, Calandrino, and Gomatz in Mozart's *Lo sposo deluso*, *L'oca del Cairo*, and *Zaide* (City Opera Vancouver), Jacob Grimm and the Donkey in Dean Burry’s *The Brothers Grimm*/*The Bremen Town Musicians* (Highlands Opera Studio), Yoshimoto in Stephen K MacIntyre’s workshop of *Tom Pinkerton: The Ballad of Butterfly’s Son* (Vancouver Asian Canadian Theatre), and Bob in Menotti’s *Old Maid and the Thief* (Fear No Opera). Other stage credits include Ruggiero in Handel’s *Alcina* (CCM Opera d’arte), Pastore II/Apollo in Monteverdi’s *L’Orfeo* (Cincinnati Chamber Opera), the Page in Meotti’s *Amahl and the Night* Visitors (Claremont Philharmonic), Ernesto in Haydn’s *Il mondo della luna* (Cincinnati Chamber Opera), and the Count in Mozart’s *Le nozze di Figaro* (CCM Opera d’arte). 

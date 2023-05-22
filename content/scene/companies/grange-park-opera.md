@@ -27,6 +27,7 @@ social_media:
 title: Grange Park Opera
 type_of_company: Opera Company
 website: http://www.grangeparkopera.co.uk/
+cms_visible: true
 ---
 
 Founded in 1998 with the ambition to stage world-class productions that inspire, challenge and entertain, Grange Park Opera has quickly become a beloved part of the European operatic landscape.

@@ -16,6 +16,7 @@ social_media:
   url: https://www.facebook.com/charlotteknightsoprano
 title: Charlotte Knight
 website: http://charlotteknightsoprano.com/
+cms_visible: true
 ---
 
 <p>

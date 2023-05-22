@@ -55,6 +55,7 @@ social_media:
 title: Minnesota Opera
 type_of_company: Opera Company
 website: http://www.mnopera.org/
+cms_visible: true
 ---
 In 1963, the commission of a world premiere sparked the creation of a small Twin Cities opera company spotlighting the rare and avant-garde. Fifty years later, Minnesota Opera is one of the nation’s largest and most distinguished opera companies, known for its world-class artistry and innovative productions.
 

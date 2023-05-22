@@ -19,6 +19,7 @@ social_media:
   url: https://www.instagram.com/emmypogo/
 title: Emily Pogorelc
 website: http://www.emilypogorelc.com/
+cms_visible: true
 ---
 
 Praised for her “lively, incisive soprano” by the *New York Times*, Emily Pogorelc is currently entering her fourth and final year at the Curtis Institute of Music, under the tutelage of Julia Faulkner. Following her academic year at the conservatory, Ms. Pogorelc will be joining the 2018-19 ensemble of the The Patrick G. and Shirley W. Ryan Opera Center at Lyric Opera of Chicago.

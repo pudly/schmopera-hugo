@@ -23,6 +23,7 @@ social_media:
   url: https://www.instagram.com/tessitourist/
 title: Abigail Levis
 website: http://www.abigaillevis.com/
+cms_visible: true
 ---
 
 As one of only two winners of the Opera Foundation’s Curt Engelhorn Competition, lyric mezzo-soprano Abigail Levis joins the Deutsche Oper Berlin for the 2016/17 season, in such roles as Mercedes in *Carmen*, the title role in *Hirsch* and Purcell’s *Dido*, Bersi in *Chenier* and Tebaldo in *Don Carlo*. She returned to North America in December to sing *Messiah* with the Toronto Symphony Orchestra and Portland Baroque. As an alumna of the Utah Opera young artists program, where she debuted the role of Despina in *Cosi fan tutte*, Ms. Levis returned twice as a guest artist during the 2015/16 season in the title role of *L’Enfant et les Sortilèges* and Cherubino in *Le nozze di Figaro*. She returns to Utah Opera in the 2018 season for Orlofsky in *Die Fledermaus*. Other season highlights include debuts with Opera Philadelphia as Testo in *Il combattimento di Tancredi e Clorinda* and Flora in *La Traviata* with Dallas Opera.

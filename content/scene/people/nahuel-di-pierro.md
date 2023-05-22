@@ -19,6 +19,7 @@ social_media:
   template: social-media
   url: https://twitter.com/nahueldipierro
 title: Nahuel Di Pierro
+cms_visible: true
 ---
 
 Nahuel Di Pierro was born in Buenos Aires. He studied at the vocal department of the Artistic Institute of the Teatro Colón, on which stage he sang Masetto (*Don Giovanni*), Haly (*L’Italiana in Algeri*), Figaro (*Le Nozze di Figaro*), Colline (*La Bohème*) and Guglielmo (*Cosí fan Tutte*). For the opening season of the Palau de les Arts in Valencia, Spain, he took part in the productions of *Fidelio*, *Don Giovanni* and *Cyrano de Bergerac*.

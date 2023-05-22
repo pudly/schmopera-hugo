@@ -28,6 +28,7 @@ social_media:
   url: https://www.facebook.com/TenorStenson/
 title: Andrew Stenson
 website: ""
+cms_visible: true
 ---
 Andrew Stenson is quickly building a reputation as one of the United States’ most exciting young tenors, with a brilliant tone, artistic intellect, and superb portrayals of a variety of roles. He is the first prize winner in both the 2015 **Giulio Gari International Vocal Competition** and 2016 **Gerda Lissner Foundation Competition**. He is also the recipient of a 2011 **Sara Tucker Study Grant** from the Richard Tucker Foundation. He is a graduate of the **Metropolitan Opera’s Lindemann Young Artist Development Program**.
 

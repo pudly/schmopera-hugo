@@ -10,6 +10,7 @@ slug: opera-southwest
 title: Opera Southwest
 type_of_company: Opera Company
 website: http://www.operasouthwest.org/
+cms_visible: true
 ---
 
 ## Mission

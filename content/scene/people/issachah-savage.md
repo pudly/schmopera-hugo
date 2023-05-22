@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/IssachahSavage
 title: Issachah Savage
 website: http://issachah.weebly.com/
+cms_visible: true
 ---
 
 <p>

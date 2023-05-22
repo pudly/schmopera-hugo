@@ -10,6 +10,7 @@ related_companies:
 slug: megan-brunning
 title: Megan Brunning
 website: http://www.meganbrunning.com/
+cms_visible: true
 ---
 
 Coloratura soprano Megan Brunning is known for her signature role, the Queen of the Night in *Die Zauberflöte*. Other roles performed include Konstanze in *Die Entführung aus dem Serail*, Norina in *Don Pasquale*, Olympia in *Les Contes d'Hoffmann*, Mabel in *The Pirates of Penzance*, and Gianetta in *The Gondoliers*.

@@ -16,6 +16,7 @@ related_companies:
 slug: laura-albino
 title: Laura Albino
 website: http://www.lauraalbino.com/live/
+cms_visible: true
 ---
 
 <p>

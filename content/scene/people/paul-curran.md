@@ -24,6 +24,7 @@ social_media:
   url: https://www.instagram.com/paulcurranopera/
 title: Paul Curran
 website: http://www.paulcurrandirector.com/
+cms_visible: true
 ---
 
 Award winning director, Paul Curran, is a graduate in Directing of the National Institute of Dramatic Art, Sydney, and of the Finnish National Opera, Helsinki. 

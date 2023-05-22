@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/jjennymr
 title: Jennifer Rivera
 website: http://www.jenniferrivera.com/
+cms_visible: true
 ---
 
 Jennifer Rivera has earned a spot as one of the most sought after and versatile lyric mezzo-sopranos of her generation by consistently delivering exceptional vocalism, superb musicianship, and a powerful stage presence. Her successful European debut as Sesto in *La clemenza di Tito* with the Teatro Regio di Torino directed by Graham Vick and conducted by Roberto Abaddo was followed by her debut with the Berlin Staatsoper as Rosina in *Il barbiere di Siviglia*, and Nerone in a new production of *Agrippina* conducted by Rene Jacobs. She was then invited to sing Licida in *L’Olimpiade* by Pergolesi at the Innsbruck Early Music Festival, and returned to the Berlin Staatsoper as both Rosina, and as Ismene in a new production of *Antigone* by Traetta conducted by Maestro Jacobs.

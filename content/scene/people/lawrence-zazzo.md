@@ -17,6 +17,7 @@ related_companies:
 slug: lawrence-zazzo
 title: Lawrence Zazzo
 website: http://www.lawrencezazzo.com/
+cms_visible: true
 ---
 
 Lawrence Zazzo made his operatic debut as Oberon (*A Midsummer Night’s Dream*) to great acclaim while completing his vocal studies at the Royal College of Music in London, and he has subsequently performed the role at Teatro dell’Opera di Roma, Opera de Lyon, Canadian Opera Company and at Festival d’Aix-en-Provence. A diverse and thriving international opera career has taken Zazzo to most of the world’s leading opera houses and festivals appearing as Giulio Cesare at La Monnaie, English National Opera and Opéra national de Paris (released on DVD), as Farnace in Mozart’s *Mitridate, re di Ponto* for Bayerische Staatsoper at the Munich Opera Festival, and he made his Metropolitan Opera debut as Tolomeo (*Giulio Cesare*).

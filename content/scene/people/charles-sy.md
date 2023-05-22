@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/TenoreCharChar
 title: Charles Sy
 website: http://charles-sy.com/
+cms_visible: true
 ---
 
 <p>

@@ -20,6 +20,7 @@ social_media:
   url: https://www.instagram.com/francovassallobaritono/
 title: Franco Vassallo
 website: http://www.francovassallo.com/
+cms_visible: true
 ---
 
 Franco Vassallo is a native of Milan where at a very early age he discovered his great enthusiasm for Opera and Classical music.

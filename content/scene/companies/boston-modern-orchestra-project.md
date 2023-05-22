@@ -23,6 +23,7 @@ social_media:
 title: Boston Modern Orchestra Project
 type_of_company: Orchestra
 website: https://www.bmop.org/
+cms_visible: true
 ---
 #### History
 

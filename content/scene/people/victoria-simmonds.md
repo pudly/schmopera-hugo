@@ -18,6 +18,7 @@ social_media:
   template: social-media
   url: https://twitter.com/vickymezzo
 title: Victoria Simmonds
+cms_visible: true
 ---
 
 Victoria Simmonds studied at the Guildhall School of Music and Drama with David Pollard.  From 2000-2005 she was a company principal at ENO singing roles including Nancy T’ang/*Nixon in China*, Cherubino/*Figaro*, Zaida/*The Turk in Italy*, Pitti-Sing/*The Mikado*, Ascanius/*The Trojans*, Rosina/*The Barber of Seville*, Dorabella/*Così fan tutte*, Hermia/*A Midsummer Night’s Dream* and Zerlina/*Don Giovanni*.

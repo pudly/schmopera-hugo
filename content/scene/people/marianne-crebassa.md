@@ -21,6 +21,7 @@ social_media:
   url: https://www.facebook.com/crebassamarianne
 title: Marianne Crebassa
 website: http://www.mariannecrebassa.com/
+cms_visible: true
 ---
 Marianne Crebassa is confirming her place on the most prestigious world stages, across the opera, concert and recital repertoires.   
 

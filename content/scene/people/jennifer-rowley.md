@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/larowley1
 title: Jennifer Rowley
 website: http://jenniferrowley.com/index.asp
+cms_visible: true
 ---
 Soprano Jennifer Rowley’s triumphant Metropolitan Opera role début as Roxane in Alfano's *Cyrano de Bergerac* inspired universal critical praise, with *The New York Times* raving that this was a "break-through moment," further adding that for the heartbreaking final scene, "Ms. Rowley sang with an intensity of expression and a subtly embittered sound that suggested a singer for enormous gift and promise." *The New York Classical Review* echoed these statements, also calling this "a break out night for Ms. Rowley." *OperaWire* called her Roxane "the heart of the production," *The Observer* said she is "a supurb artist" and compared her beauty and expressive face to that of Marion Cotillard, while *ConcertoNet* called her Roxane "a revelation." Past Metropolitan Opera performances included her incredible house début as Musetta in *La bohème*, and in their productions of *Otello* and *Guillaume Tell*.
 

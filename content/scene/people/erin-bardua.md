@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/erinsopran
 title: Erin Bardua
 website: http://www.erinbardua.com/
+cms_visible: true
 ---
 
 Soprano Erin Bardua has been praised for her “brilliant-toned voice, agile and strong, yet warm and relaxed” with “delightful coloratura and confident command of the stage.”

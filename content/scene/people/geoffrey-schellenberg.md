@@ -13,6 +13,7 @@ related_companies:
 slug: geoffrey-schellenberg
 title: Geoffrey Schellenberg
 website: https://www.geoffreyschellenberg.com/
+cms_visible: true
 ---
 
 Minnesota native Geoffrey Schellenberg joins the Calgary Opera Emerging Artist Program for the 2017-18 season. Praised for his "clarion tone" (*Musical Toronto*) and "impressive vocal colour" (*Opera Canada*), recent engagements include Belcore in *L'elisir d'amore* for Music Academy of the West's 70th anniversary season under the baton of Speranza Scappucci and directed by James Darrah, as well as Marcello in *La boheme* with White Rock Concerts in Vancouver. Geoffrey appears on the mainstage of Calgary Opera this season in the the roles of Sergeant in *Il barbiere di Siviglia*, Captain in *Eugene Onegin*, and Sciarrone in *Tosca*. He reprises the role of Figaro in *Il barbiere di Siviglia* with Bard on the Beach in September, and makes his debut at the Mamdani Opera Center for a special holiday concert in December.

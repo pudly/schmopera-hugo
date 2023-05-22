@@ -23,6 +23,7 @@ social_media:
   url: https://www.youtube.com/user/thomashampson
 title: Thomas Hampson
 website: http://www.thomashampson.com/
+cms_visible: true
 ---
 
 Thomas Hampson, America’s foremost baritone, hails from Spokane, Washington. He enjoys a singular international career as an opera singer, recording artist, and “ambassador of song,” maintaining an active interest in research, education, musical outreach, and technology. Hampson who was recently inducted into the American Academy of Arts and Sciences and Gramophone’s 2013 “Hall of Fame,” has won worldwide recognition for thoughtfully researched and creatively constructed programs as well as recordings that explore the rich repertoire of song in a wide range of styles, languages, and periods. He recently added a new album to his Deutsche Grammophon discography titled Notturno, featuring a curated selection of songs by Richard Strauss. The disc also highlights the talents of Mr Hampson’s longtime pianist and collaborator Wolfram Rieger.

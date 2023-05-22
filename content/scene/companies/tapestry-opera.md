@@ -59,6 +59,7 @@ social_media:
 title: Tapestry Opera
 type_of_company: Opera Company
 website: https://tapestryopera.com/
+cms_visible: true
 ---
 
 <p>

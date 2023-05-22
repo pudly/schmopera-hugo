@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/pacific-opera-victoria.md
 slug: jeanmichel-richer
 title: Jean-Michel Richer
+cms_visible: true
 ---
 
 This young French Canadian tenor studied in Montreal (CAN), Santa Barbara & New York (USA).

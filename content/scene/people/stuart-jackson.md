@@ -12,6 +12,7 @@ related_companies:
 slug: stuart-jackson
 title: Stuart Jackson
 website: http://www.stuartjacksontenor.com/
+cms_visible: true
 ---
 
 Stuart was a choral scholar at Christ Church, Oxford, studying Biological Sciences, before completing his training at the Royal Academy of Music in 2013 where he studied with Ryland Davies.

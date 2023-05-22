@@ -25,6 +25,7 @@ social_media:
   url: https://twitter.com/AnnaNetrebko
 title: Anna Netrebko
 website: http://www.annanetrebko.com/
+cms_visible: true
 ---
 
 <p>

@@ -18,6 +18,7 @@ social_media:
 title: Westben Arts Festival Theatre
 type_of_company: Music and Theatre Festival
 website: http://www.westben.ca/
+cms_visible: true
 ---
 It is a magical blend of world class music, wonderful people and a magnificent setting.
 

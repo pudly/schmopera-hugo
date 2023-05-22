@@ -9,6 +9,7 @@ related_companies:
 - scene/companies/tapestry-opera.md
 slug: julie-tepperman
 title: Julie Tepperman
+cms_visible: true
 ---
 
 Julie Tepperman is an actor, playwright, educator and co-founding artistic director of the Dora-nominated company, Convergence Theatre, creators of the hit plays *AutoShow*, *The Gladstone Variations* and *YICHUD* (Seclusion). Selected acting credits include: two seasons at The Stratford Festival, their Conservatory for Classical Theatre Training, as well as numerous play-development workshops and appearances at local Toronto theatre festivals.

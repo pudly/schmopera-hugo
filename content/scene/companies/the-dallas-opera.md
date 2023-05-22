@@ -69,6 +69,7 @@ social_media:
 title: The Dallas Opera
 type_of_company: Opera Company
 website: http://dallasopera.org/
+cms_visible: true
 ---
 
 <p>

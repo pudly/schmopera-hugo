@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/GemmaLois1
 title: Gemma Summerfield
 website: http://www.gemmaloissummerfieldsoprano.co.uk/
+cms_visible: true
 ---
 
 At the 2015 Kathleen Ferrier Awards soprano Gemma Lois Summerfield 'swept the board' winning both the prestigious 1st prize and the Loveday Song Prize for her performance of Sibelius's 'Flickan kom ifrån sin älsklings möte'. These awards were gratefully received by Gemma in full recognition of the efforts exhibited by Duo Partner, Sebastian Wybrew; Teacher, Rosa Mannion; and Coach, Simon Lepper.

@@ -17,6 +17,7 @@ social_media:
   template: social-media
   url: https://twitter.com/Cameron_McPhail
 title: Cameron McPhail
+cms_visible: true
 ---
 
 <p>

@@ -22,6 +22,7 @@ social_media:
 title: Opera Fusion
 type_of_company: Opera Company
 website: http://www.operafusion.org/
+cms_visible: true
 ---
 ### Our mission
 

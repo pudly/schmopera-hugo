@@ -13,6 +13,7 @@ related_companies:
 slug: mireille-lebel
 title: Mireille Lebel
 website: http://www.mireillelebel.com/
+cms_visible: true
 ---
 
 <p>

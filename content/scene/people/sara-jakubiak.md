@@ -18,6 +18,7 @@ social_media:
   url: https://www.facebook.com/SaraMichelleJakubiak/
 title: Sara Jakubiak
 website: http://www.sarajakubiak.com/
+cms_visible: true
 ---
 
 American soprano Sara Jakubiak has been praised by the New York Times for her “plush-voiced, impressive soprano” and by Opera News as a “talented, highly musical singer.”

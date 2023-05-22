@@ -19,6 +19,7 @@ social_media:
   url: https://www.facebook.com/AdrianEroed/
 title: Adrian Eröd
 website: http://www.adrianeroed.com/?lang=en
+cms_visible: true
 ---
 The Austrian Baritone Adrian Eröd is a great favorite of public and press at his base, the Vienna State Opera, with his tremendous diversity, whether as Figaro in Rossini’s _Barber of Seville_, as Valentin in Gounod’s _Faust_, as Britten’s _Billy Budd_ or as Lescaut in Massenet’s _Manon_.
 

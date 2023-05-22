@@ -25,6 +25,7 @@ social_media:
   url: https://www.instagram.com/anita_hartig/
 title: Anita Hartig
 website: http://anitahartig.com/
+cms_visible: true
 ---
 
 Hailed by the New York Classical Review as having, “a gorgeous instrument with superb dramatic instincts” and possessing a “lovely purity of sound” by the Financial Times, Romanian soprano Anita Hartig is one of the most highly sought-after stars in opera today. During her studies at the Gheorghe Dima Music Academy in Cluj Napoca, she won several national and international vocal competitions, and made her debut as Mimì in La bohème at the Romanian National Opera in 2006.

@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/debiwong
 title: Debi Wong
 website: http://www.debiwong.com/
+cms_visible: true
 ---
 
 Praised for her “effective performances” (*The Vancouver Sun*) and “rich tone” (*Musical Notes Vancouver*), mezzo-soprano Debi Wong is fast establishing herself as a dynamic and unique performer.

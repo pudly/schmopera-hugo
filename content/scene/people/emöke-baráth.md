@@ -12,6 +12,7 @@ social_media:
   url: https://www.facebook.com/emokebarathsoprano/
 title: Emöke Baráth
 website: ""
+cms_visible: true
 ---
 Hungarian soprano Emőke Baráth began her musical education studying the piano and the harp. She began singing at the age of 18 following the teaching of Professor Julia Paszthy at the Franz Liszt academy in Budapest. During the 2011/2012 school year, she also studied at the Luigi Cherubini Conservatory in Florence.
 

@@ -111,6 +111,7 @@ social_media:
 title: The Santa Fe Opera
 type_of_company: Opera Company
 website: http://www.santafeopera.org/index.aspx
+cms_visible: true
 ---
 
 <p>

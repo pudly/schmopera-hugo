@@ -18,6 +18,7 @@ related_companies:
 slug: lauren-segal
 title: Lauren Segal
 website: http://www.laurensegal.com/
+cms_visible: true
 ---
 
 <p>

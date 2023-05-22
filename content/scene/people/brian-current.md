@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/bcurrent
 title: Brian Current
 website: http://www.briancurrent.com/
+cms_visible: true
 ---
 
 <p>

@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/Hvorostovsky
 title: Dmitri Hvorostovsky
 website: http://hvorostovsky.com/
+cms_visible: true
 ---
 
 <p>

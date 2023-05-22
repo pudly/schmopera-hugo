@@ -20,6 +20,7 @@ social_media:
 title: Opera Grand Rapids
 type_of_company: Opera Company
 website: http://www.operagr.org/
+cms_visible: true
 ---
 
 Opera Grand Rapids began in 1967 as the dream of a handful of opera-loving Grand Rapidians. Today, we are the longest-running professional opera company in Michigan. Located in the heart of West Michigan, Opera Grand Rapids’ productions are produced and presented locally. For its productions, Opera Grand Rapids engages some of the world’s most talented artists, stage directors, conductors, choreographers, set designers, costume designers, and others, in addition to the regional Grand Rapids Symphony Orchestra, and Opera Grand Rapids Chorus and Children’s Chorus.

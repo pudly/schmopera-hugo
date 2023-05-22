@@ -23,6 +23,7 @@ social_media:
   url: https://www.instagram.com/supergreek/
 title: Sharin Apostolou
 website: http://www.sharinapostolou.com/
+cms_visible: true
 ---
 
 Sharin Apostolou came to the attention of the operatic world after jumping in on opening night in the title role of Handel’s Rodelinda at Portland Opera. She was lauded by The Oregonian for “her lovely, high, clear voice, and her coloratura -- the dazzlingly fast music that says 'Don't mess with me' -- was exuberant…she covered the musical terrain without fear,” and by Crosscut Seattle for, “[taking] on an impossibly daunting role with fearless flair, unraveling a sweet lyric coloratura voice of real promise.”

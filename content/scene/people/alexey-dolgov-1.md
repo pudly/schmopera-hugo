@@ -22,6 +22,7 @@ related_companies:
 - scene/companies/washington-national-opera.md
 slug: alexey-dolgov
 title: Alexey Dolgov
+cms_visible: true
 ---
 The Siberian tenor Alexey Dolgov is currently celebrating one successful debut after another at important venues all around the world. His performances have gained him high critical acclaim for his ‘clarion tenor’ (_Montreal Gazette_), ‘naturalness and superb timing’ (_Metro Weekly_, Washington D.C); he also ‘shines as an actor’ (_Washington Post_).
 

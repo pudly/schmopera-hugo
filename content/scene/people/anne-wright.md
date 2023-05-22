@@ -21,6 +21,7 @@ social_media:
   url: https://www.youtube.com/channel/UCScKBYT-xjDDSsgg340GPeA
 title: Anne Wright
 website: https://annewright.weebly.com/
+cms_visible: true
 ---
 
 American soprano Anne Wright has been praised for her "radiant and perfectly controlled soprano voice... created for the long lines of the great Richard Strauss roles." (Graz Kleine Zeitung). 

@@ -24,6 +24,7 @@ social_media:
   url: https://twitter.com/RenaHarms
 title: Rena Harms
 website: http://www.renaharms.com/Welcome.html
+cms_visible: true
 ---
 
 Future engagements of Rena Harms include a return to English National Opera as Madama Butterfly (title role debut), AMELIA *Simon Boccanegra* Opéra National de Bordeaux, BEA Heggie’s *Three Decembers* Florentine Opera, DONNA ELVIRA *Don Giovanni* Opera Santa Barbara and *Madama Butterfly* (title role) Arizona Opera and Opera Theatre St. Louis.

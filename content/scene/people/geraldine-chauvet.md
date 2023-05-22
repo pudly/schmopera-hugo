@@ -11,6 +11,7 @@ related_companies:
 slug: geraldine-chauvet
 title: Géraldine Chauvet
 website: http://www.geraldinechauvet.com/
+cms_visible: true
 ---
 
 Géraldine Chauvet was born in Bayeux in the Calvados region of France and studied musicology at the University of Tours and vocal studies with the Jeunes Voix du Rhin which is the young artists’ development program at the National Opera du Rhin in Strasbourg.

@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/pmcgillivray
 title: Peter McGillivray
 website: http://petermcgillivray.com/
+cms_visible: true
 ---
 The award-winning Saskatchewan-born baritone **Peter McGillivray** begins his 2022-23 season as Don Magnifico in Manitoba Opera’s _La Cenerentola_ followed by a role debut as Bottom in Vancouver Opera’s _A Midsummer Night’s Dream_. 2021-22 saw Peter take on Sir Joseph Porter in Vancouver Opera’s _HMS Pinafore_ and return to Don Magnifico for Brott Opera. His 2019-2020 season began with Schaunard in _La bohème_ for Calgary Opera followed by one of his signature roles, Doctor Bartolo, in _Le nozze di Figaro_ for Edmonton Opera. Peter rounded out the season with Tapestry Opera’s _Rocking Horse Winner,_ reimagined for the digital world due to the coronavirus pandemic.
 

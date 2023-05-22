@@ -21,6 +21,7 @@ social_media:
   url: https://www.youtube.com/user/squitch88
 title: Neil Weisensel
 website: http://www.neilmusic.com/live/
+cms_visible: true
 ---
 
 Neil Weisensel is a composer based in Winnipeg, Canada. His seven operas, which have been critically and popularly acclaimed, have been performed across Canada and in the US, and he receives commissions, awards and prizes from performing arts organizations in Canada and the U.S. He has composed and arranged music for feature films, stage works, documentaries, and animation for networks including the CBC, *Bravo!*, and CTV.

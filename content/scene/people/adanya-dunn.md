@@ -18,6 +18,7 @@ social_media:
   url: https://www.instagram.com/adanyadunn/
 title: Adanya Dunn
 website: http://www.adanyadunn.com/
+cms_visible: true
 ---
 Canadian-Bulgarian lyric mezzo-soprano Adanya Dunn was named by the CBC as one of Canada’s “Top 30 Hot Classical Musicians Under 30” and was featured in _The Globe & Mail_ as one of six Canadian women who are “turning opera on its head and making the future bright for the art form”.
 

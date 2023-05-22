@@ -7,6 +7,7 @@ primary_image: https://res.cloudinary.com/schmopera/image/upload/v1545409169/med
 publishDate: "2017-01-23T15:12:00+00:00"
 slug: alexandra-bourque
 title: Alexandra Bourque
+cms_visible: true
 ---
 
 Recognized for her energy, musicality and charisma, French Canadian-born conductor, Alexandra Bourque, is the assistant conductor of the University of Toronto Wind Ensemble - an ensemble focusing on contemporary repertoire and the performance of works by emerging Canadian composers. She is also the founder and artistic director of the University of Toronto Brass Ensemble and is currently working with the Toronto Community Orchestra as their assistant conductor. In addition to her numerous performances, Bourque has been chosen to work with Orchestra Toronto for their upcoming concert in April. 

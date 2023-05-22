@@ -19,6 +19,7 @@ social_media:
   url: https://www.facebook.com/NicoleCarSoprano/
 title: Nicole Car
 website: ""
+cms_visible: true
 ---
 Nicole Car has established herself as one of the world-leading sopranos, performing at the Royal Opera House Covent Garden, Metropolitan Opera, Dallas Opera, Deutsche oper Berlin, Opera Australia and Opera de Paris.
 

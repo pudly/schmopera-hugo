@@ -15,6 +15,7 @@ related_companies:
 slug: laura-wilde
 title: Laura Wilde
 website: http://www.laurawildesoprano.com/
+cms_visible: true
 ---
 
 American soprano Laura Wilde, winner of a 2016 Sara Tucker Study Grant from the Richard Tucker Foundation, as well as the 2016 Luminarts Women’s Voice Fellowship, has been praised by Opera News as having, “a ravishingly beautiful sound, [and] a fine sense of style and character.” For the 2016/17 season, Ms. Wilde will return to the Lyric Opera of Chicago for a role debut as Freia in David Pountney’s new production of *Das Rheingold*, conducted by Sir Andrew Davis.  Other operatic engagements include the world premiere of Craig Bohmler’s *Riders of the Purple Sage* at Arizona Opera, where Ms. Wilde will portray the role of Jane Withersteen, Michaela in *Carmen* with Nashville Opera and a return to Opera Theatre of Saint Louis as a principal artist as Vitellia in *La Clemenza di Tito*. Additionally, she will present a solo recital and masterclass at South Dakota State University with pianist Craig Terry.

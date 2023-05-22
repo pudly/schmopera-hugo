@@ -18,6 +18,7 @@ social_media:
   url: https://www.youtube.com/channel/UCw8scljfZRL6Cdw6RSiCQMQ
 title: Tracy Cantin
 website: http://www.tracycantin.com/
+cms_visible: true
 ---
 ​Praised for her "full, gleaming sound" (_Chicago Tribune_), Canadian soprano Tracy Cantin "has it all - agility, power and dazzling coloratura" (_Chicago Sun-Times_), not to mention "vocal and physical allure, with interpretive intelligence and stage presence to boot" (_Chicago Tribune_). A graduate of the prestigious Ryan Opera Center at Lyric Opera of Chicago, Cantin won magnificent critical acclaim at Lyric as Berta/_Il barbiere di Siviglia_, has appeared with the company in _Elektra_, _Rigoletto_, _Parsifal_, and most recently in the title role of Donizetti’s demanding _Anna Bolena_, in which she replaced ailing super-star soprano Sondra Radvanovsky. Her operatic repertoire includes Mimi/_La Boheme_, Donna Anna/_Don Giovanni_, Miss Jessel/_Turn of the Screw_, Rosalinde/_Die Fledermaus_, Desdemona/_Otello_, Rusalka/_Rusalka_, Alice Ford/_Falstaff_, Eva/_Die Meistersinger von Nürnberg_, and Chrysothemis/_Elektra_. 
 

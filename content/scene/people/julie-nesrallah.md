@@ -15,6 +15,7 @@ social_media:
   url: https://soundcloud.com/julienesrallah
 title: Julie Nesrallah
 website: http://www.julienesrallah.com/
+cms_visible: true
 ---
 
 Mezzo-soprano, Julie Nesrallah is a singer, actress and broadcaster who dazzles audiences with her engaging personality, and her rich and deeply expressive voice. Miss Nesrallah is regularly engaged by leading opera companies, symphonies, festivals and chamber music ensembles across North America and around the world.

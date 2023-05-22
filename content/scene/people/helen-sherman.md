@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/Helen_Sherman
 title: Helen Sherman
 website: http://www.helensherman.net/
+cms_visible: true
 ---
 
 Born in Australia, mezzo-soprano Helen Sherman studied at the Sydney Conservatorium of Music where she completed a Bachelor of Music and Post Graduate Diploma in opera. Following her success in the 2007 Australian Singing Competition she was awarded a scholarship to take up studies at the Royal Northern College of Music where she was the first student to receive the International Artists Diploma in opera. In 2011 Helen represented Australia at the BBC Cardiff Singer of the World competition. She again represented her country in 2014, when she was the only mezzo selected as a finalist in the Francisco Viñas International Singing Competition, held in Barcelona. In 2013 Helen was awarded 3rd prize in the prestigious Wigmore Hall International Song Competition and in 2014 was invited to sing in the Opening Ceremony of the Tour de France, Le Grand Depart held at Leeds Arena. Helen is a Samling Scholar, an associate artist for Classical Opera Company and YCAT alumnus.

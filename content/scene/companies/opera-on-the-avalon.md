@@ -40,6 +40,7 @@ social_media:
 title: Opera on the Avalon
 type_of_company: Opera Training Program
 website: http://www.operaontheavalon.com/
+cms_visible: true
 ---
 
 <p>

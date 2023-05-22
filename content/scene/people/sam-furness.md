@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/scottish-opera.md
 slug: sam-furness
 title: Sam Furness
+cms_visible: true
 ---
 
 Described as having "all the makings of a star" in *The Guardian*, and hailed as "a lyric tenor clearly going places" in *Opera* magazine, young tenor Sam Furness was winner of the prestigious Royal Academy of Music Club Prize in 2012. Since graduting, he has sung major roles for Scottish Opera and in Florence, Santiago and Toulouse, always earning praise for his compelling acting and innate musicality.

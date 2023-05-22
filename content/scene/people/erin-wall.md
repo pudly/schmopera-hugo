@@ -29,6 +29,7 @@ social_media:
   url: https://twitter.com/erinwallatwork
 title: Erin Wall
 website: http://www.erinwall.com/
+cms_visible: true
 ---
 Thanks to an innate musicality and vocal versatility, soprano Erin Wall finds herself in great demand by many of the world’s leading conductors for performances on the opera and concert stages of the world. Particularly associated with the music of Mozart, Strauss and Mahler, she boasts an extensive repertoire spanning three centuries.
 

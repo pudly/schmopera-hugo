@@ -28,6 +28,7 @@ social_media:
   url: https://www.youtube.com/user/JosephCallejaTenor
 title: Joseph Calleja
 website: http://josephcalleja.com/
+cms_visible: true
 ---
 
 Blessed with a golden-age voice that routinely inspires comparisons to “legendary singers from earlier eras: Jussi Björling, Beniamino Gigli, even Enrico Caruso” (Associated Press), Maltese-born Joseph Calleja has quickly become one of the most acclaimed and sought-after tenors today. His expansive discography and frequent appearances on the world’s leading opera and concert stages prompted NPR to hail him as “arguably today’s finest lyric tenor,” and led to his being voted Gramophone magazine’s 2012 Artist of the Year. A Grammy-nominated recording artist for Decca Classics, he recently released his fifth solo album for the label, *Amore*.

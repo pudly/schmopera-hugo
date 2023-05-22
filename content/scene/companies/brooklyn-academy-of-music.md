@@ -27,6 +27,7 @@ social_media:
 title: Brooklyn Academy of Music
 type_of_company: Arts Centre
 website: http://www.bam.org/
+cms_visible: true
 ---
 
 <p>

@@ -30,6 +30,7 @@ social_media:
   url: https://twitter.com/baritroy
 title: Troy Cook
 website: https://www.troycookbaritone.com/
+cms_visible: true
 ---
 
 American baritone Troy Cook made notable debuts in past seasons as Ford in Hamburgische Staatsoper’s *Falstaff*, following his debut with the company as Marcello in *La bohème*, and with the Royal Opera, Covent Garden as Guglielmo in *Così fan tutte*.

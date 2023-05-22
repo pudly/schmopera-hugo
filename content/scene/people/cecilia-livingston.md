@@ -25,6 +25,7 @@ social_media:
   url: https://www.instagram.com/ceciliacomposer/
 title: Cecilia Livingston
 website: http://www.cecilialivingston.com/
+cms_visible: true
 ---
 With her melody-first approach and “vast and curious creative mind” (Lydia Perović, _The Whole Note_), British-Canadian composer Cecilia Livingston has emerged as a leading figure of new music for the voice. Her work leans organically to women’s stories, and in her lyrical fusion of styles from minimalism to jazz, tells stories that re-examine well-known literary characters.
 

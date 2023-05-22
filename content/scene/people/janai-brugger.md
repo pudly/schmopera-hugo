@@ -24,6 +24,7 @@ social_media:
   url: https://twitter.com/JanaiBrugger
 title: Janai Brugger
 website: http://www.janaibrugger.com/
+cms_visible: true
 ---
 
 "￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Only one singer inspired me to look forward to a full performance. Janai Brugger sang two lyric soprano standards with poise and style, quiet intensity and superb phrasing... The emotion was in her sound, which projected, with silvery ease, first relaxed but focused bliss in 'Depuis le jour' and then haunting melancholy in the Mozart."  - *New York Times*

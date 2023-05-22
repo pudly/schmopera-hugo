@@ -17,6 +17,7 @@ social_media:
   url: https://www.facebook.com/amandaforsythesoprano/?fref=ts
 title: Amanda Forsythe
 website: http://www.amandaforsythe.com/
+cms_visible: true
 ---
 
 The American soprano Amanda Forsythe sings Euridice on the recording of Charpentier’s *La descente d'Orphée aux enfers* with Boston Early Music Festival which won the 2015 GRAMMY AWARD for Best Opera Recording.  She has been praised by Opera News for her “light and luster", “wonderful agility and silvery top notes”.  She was a winner of the George London Foundation Awards and was sponsored by them in her New York recital début.  She also received prizes from the Liederkranz Foundation and the Walter W. Naumburg Foundation.

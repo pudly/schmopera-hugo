@@ -14,6 +14,7 @@ social_media:
   template: social-media
   url: https://twitter.com/Rory_McLeod
 title: Rory McLeod
+cms_visible: true
 ---
 
 Toronto-based violist Rory McLeod enjoys an exciting and varied career as a chamber musician, orchestral player, artistic director, and teacher. He believes strongly in the connective power of music, and makes it his mission to use music to create real personal connections among people.

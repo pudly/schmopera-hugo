@@ -24,6 +24,7 @@ social_media:
   url: https://www.facebook.com/joshuabluetenor
 title: Joshua Blue
 website: http://www.joshuabluetenor.com/
+cms_visible: true
 ---
 During the 2021-22 season, British-American tenor Joshua Blue makes multiple role and house debuts including the Metropolitan Opera as Peter in Gershwin’s _Porgy and Bess_ in a revival with the Grammy Award-winning cast of Denyce Graves, Angel Blue, and Eric Owens; Los Angeles Opera singing the Evangelist in Bach’s _St. Matthew Passion_ conducted by James Conlon with members of the Hamburg Ballet choreographed by John Neumeier; Opera Philadelphia as the Duke of Mantua in the Lindy Hume production of _Rigoletto_ led by music director Corrado Rovaris; Virginia Opera as Loge in the Jonathan Dove reduction of _Das Rheingold_ directed by Mary Birnbaum and conducted by Adam Turner; Berkshire Opera Festival as Don Ottavio in _Don Giovanni_ led by Brian Garman; and the tenor soloist in Beethoven’s Symphony #9 at the Lensic Performing Arts Center in Santa Fe, New Mexico. He also makes returns to Opera Theatre of Saint Louis as Tamino in _The Magic Flute_ and Carnegie Hall for Handel’s _Messiah_ with Oratorio Society of New York under the baton of Kent Tritle. 
 

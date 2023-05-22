@@ -28,6 +28,7 @@ social_media:
   url: https://instagram.com/johanreuterdk/
 title: Johan Reuter
 website: http://www.johanreuter.com/
+cms_visible: true
 ---
 
 Danish bass baritone Johan Reuter performs 2015 new productions of *Die Walküre* in Toronto, of *Saul og David* in Copenhagen and of *Lulu* in both Amsterdam and New York; he will return to Amsterdam for a concert performance of Nielsen’s *Maskarade*. 

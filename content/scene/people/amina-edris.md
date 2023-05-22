@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/Amina_Edris
 title: Amina Edris
 website: ""
+cms_visible: true
 ---
 Soprano Amina Edris has been hailed as a “revelation” (_Forum Opera_) and praised for her “lustrous” tone (_Opera News_). Born in Egypt and raised in New Zealand, she has blended her cultural background to create her own unique artistic identity, making her one of opera's most intriguing young stars. 
 

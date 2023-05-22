@@ -13,6 +13,7 @@ related_companies:
 slug: myriam-leblanc
 title: Myriam Leblanc
 website: http://www.myriamleblanc.net/
+cms_visible: true
 ---
 
 Soprano Myriam Leblanc holds a master's degree in choral conducting (University of Sherbrooke), she is a McGill graduate, and both first prize and audience prize winner at the Orchestre symphonique de Trois-Rivières Competition for young opera Ambassador 2014. Also in 2014, Myriam won the Prix Anisia Campos et Remus Tzincoca for best opera excerpt. In 2015/16 she sang Juliet in *Roméo et Juliette* with Jeunesses Musicales of Canada, and she is a soloist in *Trilogie de la séduction* (Orchestre de chambre McGill), *Daunais dans tous les tons* (Société d’art vocal de Montréal) et *Poètes et musiciens* et *Du cinéma à l’opéra* (Atelier lyrique).

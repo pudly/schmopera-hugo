@@ -50,6 +50,7 @@ social_media:
 title: Opera McGill
 type_of_company: Opera School
 website: http://www.mcgill.ca/music/programs/department-performance/opera-area
+cms_visible: true
 ---
 
 The mandate of Opera McGill is to train students for the very demanding and highly competitive world of professional opera through offering a cohesive and comprehensive training program, providing a strongly supportive environment and creating a positive work atmosphere. A logical streaming of courses and numerous performance opportunities are available to all singers who are registered at McGill in the various vocal degree and performance diploma programs at both the undergraduate and graduate levels. Students' progress is carefully monitored throughout their studies in order to ensure the quality of their individual growth and development. A variety of styles and disciplines is explored in depth through a wide range of courses, including acting, movement, dance, fencing and stage combat. Each year, Opera McGill enjoys three major performance periods (November, January and March). These professionally staged and designed productions are numbered among the highlights of Montreal's artistic season, attracting considerable attention in the media and from the international professional operatic community as well. Opera Canada magazine has hailed Opera McGill as "...the premiere program in Canada."

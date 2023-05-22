@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/BrettPolegato
 title: Brett Polegato
 website: http://www.brettpolegato.com/
+cms_visible: true
 ---
 
 <p>

@@ -17,6 +17,7 @@ social_media:
   template: social-media
   url: https://twitter.com/matthewdurkan
 title: Matthew Durkan
+cms_visible: true
 ---
 
 Winner of the 2014 Stuart Burrows International Voice Award and a finalist in the 2014 Kathleen Ferrier Competition, Matthew is a recent graduate of the National Opera Studio.

@@ -15,6 +15,7 @@ social_media:
   template: social-media
   url: https://www.instagram.com/jdquinnster/
 title: Josh Quinn
+cms_visible: true
 ---
 
 Josh Quinn (Lucifer), Baritone, has been praised for his “butter-smooth timbral beauty” (Boston Musical Intelligencer) and for vocalism to which one should “sit up and take listen” (Dallas News). As a Gerdine Young Artist at the Opera Theatre of Saint Louis for two seasons, he sang the roles of the 2nd Commissioner in *Dialogues of the Carmelites* and Rabonnier in *La Rondine*. He also covered the Marquis in *Dialogues of the Carmelites*, Leo Stein in the world premiere of Ricky Ian Gordon’s *27*, Rambaldo in *La Rondine*, and Isacio in the US premiere of Handel’s *Richard the Lionheart*. 

@@ -18,6 +18,7 @@ related_companies:
 slug: anna-christy
 title: Anna Christy
 website: http://www.annachristy.com/Home.html
+cms_visible: true
 ---
 
 <p>

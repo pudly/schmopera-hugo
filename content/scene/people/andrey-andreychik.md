@@ -12,6 +12,7 @@ related_companies:
 slug: andrey-andreychik
 title: Andrey Andreychik
 website: http://www.andreychik.com/
+cms_visible: true
 ---
 
 Canadian-Russian baritone Andrey Andreychik is an avid performer that brings passion to operatic repertoire spanning from standard pieces to the creation of contemporary roles. Praised as having a "stoic, manly sound" in his "unfailingly seductive" portrayal of Don Giovanni [*Schmopera*; *Opera Canada*] and "bringing a powerful baritone & exceptional acting abilities" to the title character in Somers' *Louis Riel* [*Opera Canada*], Andrey’s most recent performances include Vladimir Galitsky in the Canadian Premiere of *Prince Igor* with Voicebox; Toronto Opera in Concert and Escamillo in Loose TEA Music Theatre’s *Carmen* (for which he was hailed as "having the perfect balance of swagger, darkness, and unintentional smarm" [*Schmopera*]).

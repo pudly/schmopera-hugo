@@ -18,6 +18,7 @@ social_media:
 title: Amici School of Music
 type_of_company: Music School
 website: http://amicimusicschool.com/
+cms_visible: true
 ---
 
 The Amici School of Music was founded by Leigh Ann Allen and Michelle Garlough, offering private and group lessons for any age. The Amici School offers Music Together® classes, for newbords up to age 5.

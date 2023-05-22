@@ -19,6 +19,7 @@ social_media:
   url: https://soundcloud.com/jennifer-pike-violin
 title: Jennifer Pike
 website: http://jenniferpike.com/
+cms_visible: true
 ---
 
 Renowned for her unique artistry and compelling insight into music from the Baroque to the present day, Jennifer Pike has established herself as one of today’s most exciting instrumentalists. 

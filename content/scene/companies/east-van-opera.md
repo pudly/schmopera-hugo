@@ -22,5 +22,6 @@ social_media:
 title: East Van Opera
 type_of_company: Opera Company
 website: https://eastvanopera.com/
+cms_visible: true
 ---
 East Van Opera is dedicated exclusively to the creation of new music. Why East Van? Because we believe in staying true to our roots, and embracing the qualities of our community: diversity, hard work and acceptance. We whole heartedly support elevating women in the arts. It is our dream to encourage young performers to step out of their comfort zone and join us in our mission to be strong and creative forces in the world of music.

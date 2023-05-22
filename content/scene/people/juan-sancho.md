@@ -23,6 +23,7 @@ social_media:
   url: https://www.instagram.com/_juansancho_/
 title: Juan Sancho
 website: https://www.juan-sancho.com/index.html
+cms_visible: true
 ---
 
 Born in Seville (Spain), tenor Juan Sancho initially trained as a pianist before entering the Escola Superior de Música de Catalunya (Barcelona) to study voice in the Early Music department with Lambert Climent, also receiving tuition from Monsterrat Figueras. Later he studied with Raphaël Sikorski (Laboratoire de la Voix, Paris), Raúl Giménez (Barcelona) and also received appreciated advice from Alessandro Corbelli.

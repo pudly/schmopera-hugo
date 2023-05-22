@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/elportillo
 title: David Portillo
 website: https://davidportillotenor.com/
+cms_visible: true
 ---
 Praised by Opera News for “high notes with ease, singing with a luxuriant warm glow that seduced the ear as he bounded about the stage with abandon,” American tenor David Portillo has established himself as a leading classical singer of his generation.
 

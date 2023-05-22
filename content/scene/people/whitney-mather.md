@@ -25,6 +25,7 @@ social_media:
   url: https://www.instagram.com/whitneymather/
 title: Whitney Mather
 website: http://whitneymather.com/#home
+cms_visible: true
 ---
 
 Award winning soprano Whitney Mather is recognized for her considerable poise and expressivity and continues to shine in both opera and art song repertoires. Ms. Mather also enjoys the challenge of working in new music and is thrilled to be a part of the indie opera scene in Toronto. 

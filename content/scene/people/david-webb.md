@@ -21,6 +21,7 @@ social_media:
   template: social-media
   url: https://www.instagram.com/davidpwebb/
 title: David Webb
+cms_visible: true
 ---
 
 ritish tenor David Webb is a graduate of the Royal College of Music International Opera School and a Harewood Artist at the English National Opera. 

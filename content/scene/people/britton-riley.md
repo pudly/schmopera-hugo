@@ -16,6 +16,7 @@ social_media:
   url: https://www.facebook.com/profile.php?id=3420746
 title: Britton Riley
 website: http://www.brittonriley.com/
+cms_visible: true
 ---
 
 Considered among “Canada’s most promising and brilliant young musicians,” Canadian-American cellist Britton Riley enjoys a diverse musical career as an artist, teacher, and recording engineer. Before his appointment as Assistant Principal Cello of the Calgary Philharmonic Orchestra at the age of twenty-six, he performed regularly with the Toronto and Detroit Symphony Orchestras and was a Rebanks Fellow at the Royal Conservatory of Music. His performances have been recorded for film and radio by Sony Pictures, CBC Radio 2, Classical KUSC, and the DSO’s Live from Orchestra Hall series. At the beginning of the 2015-16 season, he will return to Toronto to join the Toronto Symphony Orchestra.

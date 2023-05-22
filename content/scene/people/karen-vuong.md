@@ -16,6 +16,7 @@ social_media:
   url: https://www.facebook.com/karenvuongopera
 title: Karen Vuong
 website: http://www.karen-vuong.com/
+cms_visible: true
 ---
 
 American soprano Karen Vuong is currently in Frankfurt at Oper Frankfurt. She was an inaugural member and two-year participant in Los Angeles Opera’s prestigious Domingo-Thornton Young Artist Program, a program designed to support the future of opera by discovering and developing  exceptionally gifted young artists. 

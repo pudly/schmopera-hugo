@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/BillerSusannah
 title: Susannah Biller
 website: http://www.susannahbiller.com/
+cms_visible: true
 ---
 Praised	by the San Francisco Chronicle as an “artist ready for the big time”, soprano Susannah Biller was recently seen as Daisy in the San Francisco premiere of John Harbison's	*The Great Gatsby* with	Ensemble Parallele.	In recent seasons,	she	was a	member	of	the	prestigious	Adler	 Fellowship	 Program	 with	 San	 Francisco	Opera.	While	 in San	 Francisco,	 she	 was	 seen	 as	 Frasquita	 in	 *Carmen*,	 Lolita	 in	 the	 world	 premiere	 of	 John	Harbison's	*Heart	of	a	Soldier*, Kristina	in	*The	Makropoulos	Case* and	 Madame	 Herz	 in	 *Der	 Schauspieldirektor*.	 Additional	 productions	 with	 San	 Francisco Opera include	 *Der	 Ring	 des	 Nibelungen*, *Serse* and*Werther*.
 

@@ -58,6 +58,7 @@ social_media:
 title: Welsh National Opera
 type_of_company: Opera Company
 website: http://www.wno.org.uk/
+cms_visible: true
 ---
 
 <p>

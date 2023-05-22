@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/laylaclairesop
 title: Layla Claire
 website: http://laylaclaire.com/
+cms_visible: true
 ---
 
 Frequently praised for her colourful, flexible voice and graceful stage presence, Layla Claire has an exciting season ahead including her Salzburger Festspiele debut as Donna Elvira (*Don Giovanni*), her first foray into Handel as Tusnelda (*Arminio*) at Karlsruhe Handelfestspiele and a reprise of two of last year’s successfully debuted roles: the Governess (*Turn of the Screw*) at Opernhaus Zürich and Anne Trulove (*The Rake’s Progress*) at Pittsburgh Opera.  

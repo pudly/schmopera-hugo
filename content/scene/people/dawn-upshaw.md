@@ -18,6 +18,7 @@ social_media:
   template: social-media
   url: https://twitter.com/DawnUpshaw
 title: Dawn Upshaw
+cms_visible: true
 ---
 
 <p>

@@ -13,6 +13,7 @@ related_companies:
 slug: siena-miller
 title: Siena Miller
 website: http://sienamillersoprano.weebly.com/
+cms_visible: true
 ---
 German American mezzo-soprano, Siena Licht Miller, is quickly making a name for herself in both the opera and concert worlds. After her professional debut as Second Lady in *Die Zauberflote* with Opera Philadelphia, Siena returns this season in two recitals as a part of their ground-breaking O18 Festival and Hermia *A Midsummer Night’s Dream*. This summer, Siena was a member of Santa Fe Opera’s Apprentice Program, covering Kitty Oppenheimer *Doctor Atomic* and Suzuki *Madame Butterfly*. Highlights for the 2018/2019 season include the title role in *Dido and Aeneas*, Dinah *Trouble in Tahiti*, Beethoven’s Symphony No. 9 Oregon Symphony, and a recital with the Carnegie Hall Citywide Concert Series, which she will take on tour to the United Kingdom and Germany.
  

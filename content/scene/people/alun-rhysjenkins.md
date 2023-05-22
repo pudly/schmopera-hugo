@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/scottish-opera.md
 slug: alun-rhysjenkins
 title: Alun Rhys-Jenkins
+cms_visible: true
 ---
 
 Alun Rhys Jenkins, having taught music for eight years, decided on a singing career after winning the W. Towyn Roberts Scholarship at the National Eisteddfod of Wales in 2004.

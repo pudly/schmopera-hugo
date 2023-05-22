@@ -229,6 +229,7 @@ social_media:
 title: Canadian Opera Company
 type_of_company: Opera Company
 website: http://coc.ca
+cms_visible: true
 ---
 
 Based in Toronto, the Canadian Opera Company is the largest producer of opera in Canada and one of the largest in North America. The company enjoys an international reputation for artistic excellence and creative innovation.

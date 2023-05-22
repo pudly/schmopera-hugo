@@ -20,6 +20,7 @@ social_media:
   template: social-media
   url: https://www.facebook.com/pages/Antonio-Pappano/107766689244693
 title: Antonio Pappano
+cms_visible: true
 ---
 
 <p>

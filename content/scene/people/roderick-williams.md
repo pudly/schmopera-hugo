@@ -17,6 +17,7 @@ social_media:
   template: social-media
   url: https://twitter.com/Sviceridor
 title: Roderick Williams OBE
+cms_visible: true
 ---
 
 Roderick Williams encompasses a wide repertoire, from baroque to contemporary music, in the opera house, on the concert platform and in recital. He won the Singer of the Year Award in the 2016 Royal Philharmonic Society Awards and was awarded the OBE for services to music in June 2017.

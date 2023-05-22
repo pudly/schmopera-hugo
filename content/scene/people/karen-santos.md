@@ -10,6 +10,7 @@ slug: karen-santos
 social_media: []
 title: Karen Santos
 website: http://www.karen-santos.com/soprano
+cms_visible: true
 ---
 Karen Santos is a versatile soprano known for her rich tone and passion for the stage. Born and raised in Mexico City, Karen has been living in Canada for fifteen years. Karen’s most recent performance included the one-act, one-woman opera ‘At the Statue of Venus’ by Jake Heggie. In this production, Karen worked under renowned director Rob Herriot, with music direction by acclaimed soprano Monica Huisman, and piano by Megan Dufrat. For this opera, Karen also created all of the set’s art pieces, using her visual arts’ degree to set the stage of an art gallery. 
 

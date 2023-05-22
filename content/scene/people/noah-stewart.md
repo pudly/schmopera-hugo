@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/noahsofficial
 title: Noah Stewart
 website: http://noahstewart.com/
+cms_visible: true
 ---
 
 Lauded for his distinctive timbre, magnetic stage presence and movie star good looks, Noah has become one of operas most sought after international performers. He is especially recognized for his portrayals in the romantic Italian & French repertory and is a frequent guest artist with major opera companies and concert halls around the world.

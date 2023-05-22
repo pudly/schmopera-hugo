@@ -23,6 +23,7 @@ social_media:
   url: https://www.facebook.com/ryanspeedogreen
 title: Ryan Speedo Green
 website: http://www.ryanspeedogreen.com/
+cms_visible: true
 ---
 Grammy Award winning bass-baritone Ryan Speedo Green has quickly established himself as an artist of international demand at the world’s leading opera houses. Mr. Green opens the Metropolitan Opera’s 2021 – 2022 season as Uncle Paul in Terrence Blanchard’s _Fire Shut up in my Bones_, and also reprises his Grammy Award winning role of Jake in _Porgy and Bess_, Colline in _La bohème_, and sings Truffaldino in _Ariadne auf Naxos_ which will be broadcast as part of the Met’s _Live in HD_ series. Mr. Green also makes his house debut with Washington National Opera as Escamillo in _Carmen_, directed by Francesca Zambello and conducted by music director Evan Rogister.
 

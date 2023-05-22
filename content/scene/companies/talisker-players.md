@@ -23,6 +23,7 @@ social_media:
 title: Talisker Players
 type_of_company: Chamber Ensemble
 website: http://www.taliskerplayers.ca/
+cms_visible: true
 ---
 Talisker Players is a unique ensemble of instrumentalists dedicated to collaborating with singers. We present one of the most interesting and innovative annual concert series in Toronto, and we also perform throughout southern Ontario and across the country. We are Musicians in Residence at Massey College, University of Toronto.
 

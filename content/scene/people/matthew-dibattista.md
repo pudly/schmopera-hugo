@@ -30,6 +30,7 @@ social_media:
   url: https://www.linkedin.com/in/matthew-dibattista-975b50b/
 title: Matthew DiBattista
 website: http://www.matthewdibattista.com/
+cms_visible: true
 ---
 Described as “brilliant” by _Opera News,_ tenor Matthew DiBattista is continually in demand on some of the world's most prestigious stages, having performed opera and concert works throughout the United States and Europe. He has sung with such conductors as Charles Dutoit, Sir Andrew Davis, James Conlon, Seiji Ozawa, Keith Lockhart, and Robert Shaw. Known for an exceptionally varied repertoire, Mr. DiBattista has performed over 60 different roles to date, spanning the entire operatic repertoire.
 

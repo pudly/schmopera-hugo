@@ -16,6 +16,7 @@ slug: theo-lebow
 social_media: []
 title: Theo Lebow
 website: ""
+cms_visible: true
 ---
 Currently based at Frankfurt Opera and with an active career in both North America and Europe, Theo Lebow continues to solidify his reputation as one of the finest young lyric tenors on international stages. His performances reveal exceptional intelligence and musical understanding along with dramatic skill, to complement his technical finesse and beautiful sound. These qualities have enabled him to build a remarkably diverse repertoire from Baroque to contemporary.
 

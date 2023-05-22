@@ -30,6 +30,7 @@ social_media:
   url: https://soundcloud.com/jesus-leon-1
 title: Jesús León
 website: http://www.jesusleon.com/
+cms_visible: true
 ---
 
 Mexican tenor Jesús León started his vocal studies with the Cuban tenor Jesús Li. He was a student of the UCLA Opera Studio, the Solti Accademia di bel Canto, the Boston Opera Institute and the Domingo-Thornton Young Artist Program at Los Angeles Opera. In Italy he trained for two years under the guidance of the legendary soprano Mirella Freni, who granted him the Nicolai Ghiaurov scholarship.

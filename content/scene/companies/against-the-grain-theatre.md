@@ -71,6 +71,7 @@ social_media:
 title: Against the Grain Theatre
 type_of_company: Opera Company
 website: http://againstthegraintheatre.com/
+cms_visible: true
 ---
 
 <p>

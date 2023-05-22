@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/vatosca
 title: Adrianne Pieczonka
 website: http://www.adriannepieczonka.com/
+cms_visible: true
 ---
 
 "Adrianne Pieczonka is a revelation, with a lavishly creamy

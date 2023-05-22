@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/CreeCarrico
 title: Cree Carrico
 website: http://www.creecarrico.com/
+cms_visible: true
 ---
 
 <p>

@@ -30,6 +30,7 @@ social_media:
   url: https://www.instagram.com/mireilleasselin/
 title: Mireille Asselin
 website: http://www.mireilleasselin.com/
+cms_visible: true
 ---
 A singer deemed “a treasure” by The Toronto Star and praised by Opera Canada as a “soprano that charms and brightens a room”, Mireille Asselin enjoys a diverse, international career spanning concert, opera and recital work. To date, Mireille has sung five seasons at the Metropolitan Opera, where she debuted as Poussette in MANON. She then made waves by jumping in as Adele for opening night of DIE FLEDERMAUS under the baton of James Levine, giving a performance that critics raved “stole the show”, hailing it as one of New York’s “most enchanting” of the season.
 

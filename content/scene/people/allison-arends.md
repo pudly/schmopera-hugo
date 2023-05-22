@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/ACA_Soprano
 title: Allison Arends
 website: http://www.allisonarends.com/
+cms_visible: true
 ---
 
 Canadian soprano Allison Cecilia Arends is quickly making her mark as a versatile singer whose “voice is stunningly beautiful and [is used] with intelligence and great sensitivity” (Hnatyshyn Foundation). Highly sought-after as an interpreter of opera, new music, and concert repertoire, she is noted for having “charmed listeners with her lyrical upper tones” and for her “empathetic acting” (Opera Canada).

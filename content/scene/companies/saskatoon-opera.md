@@ -34,6 +34,7 @@ social_media:
 title: Saskatoon Opera
 type_of_company: Opera Company
 website: http://www.saskatoonopera.ca/
+cms_visible: true
 ---
 
 <p>

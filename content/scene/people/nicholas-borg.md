@@ -19,6 +19,7 @@ social_media:
   template: social-media
   url: https://www.instagram.com/borgatone/
 title: Nicholas Borg
+cms_visible: true
 ---
 
 icholas makes his Indie Opera T.O debut in MYOpera’s production of Benjamin Britten’s *The Rape of Lucretia* as Tarquinius. He will also star in the title role of *Eugene Onegin* with the Muskoka Opera Festival.

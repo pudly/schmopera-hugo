@@ -23,6 +23,7 @@ social_media:
 title: Canadian Art Song Project
 type_of_company: Organization
 website: http://www.canadianartsongproject.ca/
+cms_visible: true
 ---
 
 <p>

@@ -15,6 +15,7 @@ social_media:
   url: https://www.instagram.com/vavargasmezzo/
 title: Victoria Vargas
 website: http://www.victoriavargasmezzo.com/
+cms_visible: true
 ---
 Mezzo-soprano Victoria Vargas has  performed such roles as Jade Boucher (_Dead Man Walking_), Giovanna (_Rigoletto_), Carmen (_Carmen_), Mrs. Lowe (_The Manchurian Candidate_), Adelaide (_Arabella_), Natacha Rambova (_The Dream of Valentino_), Third Lady (_Magic Flute_), Fenena (_Nabucco_), Smeton (_Anna Bolena_), Mrs. Deakins in the world premiere of _Doubt_, Suzuki (Mad_ame Butterfly_), Alisa (_Lucia di Lammermoor_), Nelly (_Wuthering Heights_), Flora (_La Traviata_), Anna (_Mary Stuarda_), and Tisbe (_La Cenerentola_) with Minnesota Opera. Victoria has performed with the Opera Theater of Saint Louis, Chautauqua Opera, Sarasota Opera, and the Ash Lawn Highland Festival,  and Lyric Opera of the North.
 

@@ -17,6 +17,7 @@ related_companies:
 slug: geoffrey-sirett
 title: Geoffrey Sirett
 website: http://www.geoffreysirett.com/
+cms_visible: true
 ---
 
 Baritone Geoffrey Sirett has emerged as one of Canada’s finest young baritones, and is highly sought-after across the country for a wide range of operatic and concert repertoire.

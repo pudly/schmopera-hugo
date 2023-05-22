@@ -26,6 +26,7 @@ social_media:
   url: https://twitter.com/danielssings
 title: David Daniels
 website: http://www.danielssings.com/
+cms_visible: true
 ---
 
 <p>

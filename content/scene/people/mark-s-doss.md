@@ -26,6 +26,7 @@ social_media:
   url: https://soundcloud.com/marksdossbassbaritone
 title: Mark S. Doss
 website: https://www.marksdoss.com/
+cms_visible: true
 ---
 
 #### RECENT AND UPCOMING ENGAGEMENTS

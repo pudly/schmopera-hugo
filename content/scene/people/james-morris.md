@@ -18,6 +18,7 @@ related_companies:
 - scene/companies/opra-national-de-paris.md
 slug: james-morris
 title: James Morris
+cms_visible: true
 ---
 
 Legendary bass-baritone James Morris is world famous for his performances in opera, concert, recital, and recording. With a repertoire including works by Wagner, Verdi, Puccini, Offenbach, Stravinsky, Mussorgsky, Mozart, Gounod and Britten, Mr. Morris has performed in virtually every international opera house and has appeared with the major orchestras of Europe and the United States. Considered one of the greatest interpreters of the role of Wotan in Wagner's *Der Ring des Nibelungen*, Mr. Morris has appeared in this role at the Metropolitan Opera, Vienna State Opera, Bavarian State Opera, Munich, Deutsche Oper Berlin, Lyric Opera of Chicago, San Francisco Opera and many others. He is also considered the world’s leading interpreter of the title role in Wagner's *Der fliegende Holländer* and has appeared as Hans Sachs in *Die Meistersinger von Nürnberg* in the major houses of the United States and Europe.

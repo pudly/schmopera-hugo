@@ -18,6 +18,7 @@ social_media:
   url: https://www.facebook.com/EmmaParkinsonMezzoSoprano
 title: Emma Parkinson
 website: http://emmaparkinson.com/
+cms_visible: true
 ---
 
 <p>

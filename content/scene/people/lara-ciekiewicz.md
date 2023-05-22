@@ -18,6 +18,7 @@ related_companies:
 - scene/companies/voicebox-opera-in-concert.md
 slug: lara-ciekiewicz
 title: Lara Ciekiewicz
+cms_visible: true
 ---
 Hailed for her “tour-de-force performance” (_Winnipeg Free Press_) in the title role of Manitoba Opera’s _Susannah_, Lara has established herself as a dynamic, intelligent, and moving singing-actress. Her facility for fully transforming into a character, regardless of genre, has earned her the reputation of being an artistic chameleon.
 

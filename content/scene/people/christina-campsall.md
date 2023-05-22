@@ -25,6 +25,7 @@ social_media:
   url: https://www.youtube.com/channel/UCVOUFXqBXBXhyiGPo93-6Rw
 title: Christina Campsall
 website: https://about.me/christina_campsall
+cms_visible: true
 ---
 
 Canadian mezzo-soprano, Christina Campsall, has been praised for her "rich low mezzo" (Musical Toronto) and "beautifully bright and metallic top" (Schmopera). *Opera Canada* declared, "The standout was Christina Campsall's Hélène. She combined a beautiful, dark-toned mezzo with great acting and movement skills to create a Hélène who was credible as 'the most beautiful woman in the world'" after her performance as the title role in The Glenn School's production of *La belle Héléne*.

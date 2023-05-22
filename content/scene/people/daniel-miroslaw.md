@@ -12,6 +12,7 @@ related_companies:
 slug: daniel-miroslaw
 title: Daniel Miroslaw
 website: http://www.danielmiroslaw.com/
+cms_visible: true
 ---
 
 Daniel Mirosław, born in Warsaw, Poland, started singing at the age of 21.

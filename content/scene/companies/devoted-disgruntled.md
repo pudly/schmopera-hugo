@@ -15,6 +15,7 @@ social_media:
 title: Devoted &amp; Disgruntled
 type_of_company: Theatre & Opera Community
 website: http://www.devotedanddisgruntled.com/
+cms_visible: true
 ---
 [Improbable](http://www.improbable.co.uk/) have been running D&D, a conversation using Open Space, since 2005. Artistic director Phelim McDermott writes:
 

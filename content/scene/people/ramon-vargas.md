@@ -21,6 +21,7 @@ social_media:
   url: https://www.facebook.com/pages/Ram%C3%B3n-Vargas/104010332969865?rf=115153995165648
 title: Ramón Vargas
 website: http://www.ramonvargas.com/e/index.html
+cms_visible: true
 ---
 
 Ramón Vargas is one of the leading tenors of our time and one of the most sought-after worldwide.

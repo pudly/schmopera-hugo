@@ -15,6 +15,7 @@ related_companies:
 slug: jake-heggie
 title: Jake Heggie
 website: http://jakeheggie.com/
+cms_visible: true
 ---
 
 Jake Heggie is the American composer of the operas *Dead Man Walking* (libretto by Terrence McNally), *Moby-Dick* (libretto by Gene Scheer), *Great Scott* (McNally), *Three Decembers* (Scheer), *To Hell and Back* (Scheer), *Out of Darkness* (Scheer), *At the Statue of Venus* (McNally) and *The Radio Hour: A Choral Opera* (Scheer). He is currently at work on an opera based on the classic Frank Capra movie, *It’s A Wonderful Life*, with librettist Gene Scheer. The work is set to have its premiere December 2, 2016 at the Houston Grand Opera, conducted by Patrick Summers and directed by Leonard Foglia. Heggie has also composed more than 250 art songs, as well as concerti, chamber music, choral and orchestral works, including his recent *Ahab Symphony*.

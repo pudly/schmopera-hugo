@@ -26,6 +26,7 @@ social_media:
   url: https://www.youtube.com/user/deannasoprano
 title: Deanna Breiwick
 website: http://www.deannabreiwick.com/
+cms_visible: true
 ---
 American soprano Deanna Breiwick, hailed by _The New York Times_ for her “sweet sound and floating high notes” and for being a “vocal trapeze artist,” is enjoying an exciting and diverse career. A series of house and role debuts encompass Ms. Breiwick’s 2018/19 season. She will return to the Metropolitan Opera as a Shadow in the North American premiere of Nico Muhly’s _Marnie_, conducted by Robert Spano, debut with Michigan Opera Theatre as Gretel in Humperdinck’s _Hansel und Gretel_ and Rosasharn in Ricky Ian Gordon’s _The Grapes of Wrath_, debut Adina in Donizetti’s _L’Elisir d’Amore_ with Opera Omaha, debut the role of Cunegonde in _Candide_ for a return to Des Moines Metro Opera, and Norina in _Don Pasquale_ for a house debut with Berkshire Opera Festival. Orchestral highlights include a return to the Charleston Symphony for Handel’s _Messiah_.   
   

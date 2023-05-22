@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/AlainaViau
 title: Alaina Viau
 website: http://www.looseteamusictheatre.com/team/
+cms_visible: true
 ---
 
 Alaina's passion for classical music and opera was ignited at the age of 11 when she participated in the children's chorus for Opera Hamilton's production of *Tosca*. Several years of choir and vocal studies led her to complete a Bachelor of Music at the University of Ottawa in vocal performance with a special interest in conducting and artistic direction.

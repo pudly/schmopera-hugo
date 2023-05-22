@@ -17,6 +17,7 @@ social_media:
   template: social-media
   url: https://twitter.com/markussuihkonen
 title: Markus Suihkonen
+cms_visible: true
 ---
 
 Before beginning his singing studies at the Sibelius Academy in 2013, young Finnish bass, Markus Suihkonen (b. 1993), studied the cello for 15 years. At the Sibelius Academy, he has studied under professors Petteri Salomaa and Jaakko Ryhänen, as well as with Mika Kares, and attended master classes conducted by Martin Katz, Dorothy Irving, Helen Donath, and Soile Isokoski.

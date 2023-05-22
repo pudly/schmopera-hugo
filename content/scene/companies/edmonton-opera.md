@@ -63,6 +63,7 @@ social_media:
 title: Edmonton Opera
 type_of_company: Opera Company
 website: http://www.edmontonopera.com/
+cms_visible: true
 ---
 
 <p>

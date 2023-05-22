@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/Danielledeniese
 title: Danielle de Niese
 website: http://www.danielledeniese.com/en/
+cms_visible: true
 ---
 
 <p>

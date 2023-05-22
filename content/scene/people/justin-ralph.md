@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/justintenor
 title: Justin Ralph
 website: http://www.justinralph.com/
+cms_visible: true
 ---
 
 Originally from Ottawa, tenor Justin Ralph has performed across Ontario, and recently made his international debut in the United Kingdom.

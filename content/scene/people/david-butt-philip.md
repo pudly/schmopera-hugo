@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/DavidButtPhilip
 title: David Butt Philip
 website: http://www.davidbuttphilip.com/
+cms_visible: true
 ---
 
 David was born and brought up in Wells in Somerset and began his musical training as a chorister at Peterborough Cathedral. He trained at the Royal Northern College of Music, the Royal Academy of Music and the National Opera Studio.

@@ -24,6 +24,7 @@ social_media:
   url: https://www.instagram.com/sopranostrong/
 title: Jessica Strong
 website: https://www.jessicastrong.com/
+cms_visible: true
 ---
 Hailed as a “superb discovery” by Operà Magazine, Canadian soprano Jessica Strong has been praised for possessing “a powerful top, a seductive vibrato and assured coloratura” (Opera Canada).  
 

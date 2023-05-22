@@ -24,6 +24,7 @@ social_media:
 title: London Contemporary Orchestra
 type_of_company: Orchestra
 website: http://www.lcorchestra.co.uk/
+cms_visible: true
 ---
 Winner of the Ensemble category at the Royal Philharmonic Society Music Awards 2015, the London Contemporary Orchestra has established itself as one of the UK’s most innovative and respected ensembles – promoting the best new music and cross-arts collaborations to an increasingly wide audience. Formed in 2008 by co-Artistic Directors Robert Ames and Hugh Brunt, the LCO has collaborated with a distinguished array of composers, artists and brands, including Jonny Greenwood, Secret Cinema, Vivienne Westwood, members of Arcade Fire, United Visual Artists, Boiler Room, Ron Arad, Beck, Goldfrapp, Mike Figgis, Conrad Shawcross, Nike, Terry Riley and Foals. Highlights include sold-out performances at the Roundhouse, a site-responsive series *Imagined Occasions*, and opening James Lavelle’s Meltdown Festival at the Royal Festival Hall. LCO’s performances have been broadcast on BBC Radio 3, BBC Radio 6 Music and Sky Arts HD, with a soundtrack output including *The Master*, *Slow West* and *Macbeth*. Edmund Finnis was appointed Composer-in-Association in April 2013.
 

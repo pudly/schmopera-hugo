@@ -34,6 +34,7 @@ social_media:
   url: https://www.youtube.com/results?search_query=lisette+oropesa
 title: Lisette Oropesa
 website: https://lisetteoropesa.com/
+cms_visible: true
 ---
 
 This fall Lisette begins in Paris in concert, singing Nannetta in FALSTAFF with the Orchestre de Paris. Afterward, she heads to London where she makes her debut at the Royal Opera House-Covent Garden in the title role of LUCIA DI LAMMERMOOR. Then she returns to the Metropolitan Opera to sing her first performances of Gretel in HANSEL AND GRETEL. After the new year, she sings Konstanze in DIE ENTFÜHRUNG AUS DEM SERAIL at the Bayerische Staatsoper, a role she has sung there every season since 2014. In the spring she will sing two roles, Eurydice in the French version of Gluck’s ORFEO ED EURIDICE and Gilda in RIGOLETTO, with the Los Angeles Opera. The Teatro Real in Madrid then welcomes Lisette back as LUCIA DI LAMMERMOOR.

@@ -15,6 +15,7 @@ social_media:
 title: BK Opera
 type_of_company: Opera Company
 website: https://www.bkopera.com.au/
+cms_visible: true
 ---
 
 BK Opera was created to focus on stagecraft, to help emerging singers create real characters with depth. 

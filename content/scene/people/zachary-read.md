@@ -12,6 +12,7 @@ related_companies:
 - scene/companies/canadian-opera-company-ensemble-studio.md
 slug: zachary-read
 title: Zachary Read
+cms_visible: true
 ---
 
 Nova Scotia native Zachary Read recently completed his Masters in Operatic Performance at the University of Toronto where he was the 2013-14 recipient of the Richard Bradshaw Fellowship in Opera. He also holds a Bachelors of Music in Voice (Honors) from the University of Western Ontario.

@@ -18,6 +18,7 @@ social_media:
   template: social-media
   url: https://twitter.com/tenorjacques
 title: Jacques Arsenault
+cms_visible: true
 ---
 Acadian tenor Jacques Arsenault began his musical career as a virtuoso accordionist while growing up on Prince Edward Island before discovering his vocal talents. After receiving his Master of Music from University of Alberta, Jacques made his professional debut in 2015 as **Pritschitsch** in Edmonton Opera's _The Merry Widow_. Jacques joined the cast as **Kaspar** in Opera Nuova’s production of _Amahl and the Night Visitors_, and starred as **Archie** in _Archiebaldo_, Cowtown Opera’s raunchy operatic cabaret for Calgary Opera’s summertime “Opera in the Village”.
 

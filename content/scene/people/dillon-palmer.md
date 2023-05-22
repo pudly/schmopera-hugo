@@ -12,6 +12,7 @@ social_media:
   url: ""
 title: Dillon Palmer
 website: http://www.dillonparmer.com/bio/biography.html
+cms_visible: true
 ---
 
 Born in Pune (India), Tenor Dillon Parmer immigrated to Toronto Canada where he was brought up in the rich musical traditions of the Anglican Church. Under the guidance of Charlie Peaker and John Tuttle at Saint Paul’s (Toronto), he received a thorough grounding in diction and musicianship and was introduced to a vast repertoire extending from Palestrina to Britten. This foundation undoubtedly accounts for his exceptional versatility in various musical styles and his careful command of language and declamation. He received his formal education at the University of Western Ontario (London, Ontario) and the Eastman School of Music (Rochester, New York). There he grew into a sensitive interpreter of early music and a keen interpreter of the avant garde willing to support contemporary composers in their efforts to bring new music to fruition.

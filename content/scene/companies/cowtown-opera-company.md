@@ -22,6 +22,7 @@ social_media:
 title: Cowtown Opera Company
 type_of_company: Opera Company
 website: http://www.cowtownoperacompany.com/
+cms_visible: true
 ---
 
 <p>

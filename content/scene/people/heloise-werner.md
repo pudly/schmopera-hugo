@@ -13,6 +13,7 @@ social_media:
   url: https://twitter.com/Heloise_Werner
 title: Héloïse Werner
 website: http://heloisewerner.com/
+cms_visible: true
 ---
 
 Héloïse Werner is a performer particularly interested in music as drama and music for the stage, experimenting with different genres and techniques.

@@ -17,6 +17,7 @@ slug: calvin-griffin
 social_media: []
 title: Calvin Griffin
 website: https://www.calvingriffinbassbaritone.com/
+cms_visible: true
 ---
 Calvin Griffin, a native of Columbus, Ohio, had a busy 2017 - 2018 season, making exciting debuts with Atlanta Opera as Mother in _The Seven Deadly Sins_ as well as Morales in _Carmen_, Opera Birmingham singing Escamillo in _Carmen_, Opera on the James as Leporello in _Don Giovanni_, Opera Orlando singing Alidoro in _La Cenerentola_, and returned to Arizona Opera to sing Dr. Bartolo in _Il barbiere di Siviglia_.   In the 2016-2017 season, Mr. Griffin was a member of the Florida Grand Opera Studio, where he made his debut with the company stepping in as a cover to sing the role of Escamillo in _Carmen_. Additionally, he sang Zaretsky and covered Gremin in _Eugene Onegin_, sang Victor in _Before Night Falls_, and Samuel in _Un ballo in maschera_ with the company. He recently finished a stint with the Arizona Opera Studio where he performed the roles of the Captain in _Florencia en el Amazonas_, Zuniga in _Carmen_, Pistola in _Falstaff_, Count Ceprano in _Rigoletto_, Zaretsky in _Eugene Onegin_, Speaker/2nd Armored Man in _Die Zauberflöte_, Hortensius in _La fille du régiment_, Colline in _La bohème,_ and Dr. Grenville in _La traviata_. In 2016, he made his Opera Columbus debut as Colline in _La bohème_. 
 

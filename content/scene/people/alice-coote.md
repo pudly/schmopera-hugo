@@ -20,6 +20,7 @@ social_media:
   template: social-media
   url: https://twitter.com/AliceCoote
 title: Alice Coote
+cms_visible: true
 ---
 World renowned Mezzo-soprano Alice Coote is regarded as one of the great artists of our day.
 

@@ -20,6 +20,7 @@ social_media:
 title: Savannah VOICE Festival
 type_of_company: Vocal Arts Festival
 website: http://savannahvoicefestival.org/
+cms_visible: true
 ---
 
 The Savannah VOICE Festival is a non-profit arts organization that brings classical vocal excellence to the Savannah, Georgia area through a two-week celebration of concerts, events and educational presentations during the month of August and throughout the year.

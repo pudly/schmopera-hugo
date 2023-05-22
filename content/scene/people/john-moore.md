@@ -22,6 +22,7 @@ social_media:
   url: https://www.facebook.com/moorebaritone/
 title: John Moore
 website: http://www.moorebaritone.com/
+cms_visible: true
 ---
 
 A frequent performer in both Europe and the United States, John Moore is garnering praise for his energetic performances and burnished baritone in both operatic and concert repertoire. A graduate of the Metropolitan Opera’s Lindemann Young Artist Program, his 2017-2018 season includes a return to Seattle Opera as Figaro in *Il barbiere di Siviglia* and role debuts of Hannah Before in *As One* with Des Moines Metro Opera and Johannes “Pa” Zegner in *Proving Up* with Opera Omaha. He also returns to the Metropolitan Opera to cover Papageno in *The Magic Flute* and Belcore in *L’elisir d’amore*. He finishes the season by joining the Glyndebourne Festival as Achilla in *Giulio Cesare*. Future seasons include performances with Seattle Opera and Dallas Opera.

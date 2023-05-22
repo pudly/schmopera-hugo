@@ -28,6 +28,7 @@ social_media:
   url: https://www.linkedin.com/in/sarah-larsen-396b1553/
 title: Sarah Larsen
 website: https://www.sarahlarsenmezzo.com/
+cms_visible: true
 ---
 Praised as “sizzling,” “riveting and passionate” and possessing a voice of “warm, organic liquidity,” mezzo-soprano Sarah Larsen looks forward to returning to The Metropolitan Opera for their 2021/22 season as the 2nd Lady in _Die Zauberflöte_. Other upcoming engagements include concerts with St. Croix Valley Opera and Music of Remembrance, as well as her role debut as Laurene Powell Jobs in _The (R)evolution of Steve Jobs_ with Austin Opera, The Atlanta Opera and The Lyric Opera of Kansas City.
 

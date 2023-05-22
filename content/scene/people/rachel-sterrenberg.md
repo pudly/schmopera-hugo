@@ -31,6 +31,7 @@ social_media:
   url: https://soundcloud.com/rachel-sterrenberg
 title: Rachel Sterrenberg
 website: http://www.rachelsterrenberg.com/
+cms_visible: true
 ---
 
 The 2017-2018 season holds several exciting debuts and returns for Ms. Sterrenberg. She begins the season with her home company of Opera Philadelphia as Pamina in their highly anticipated East Coast Premiere of the Barrie Kosky *Die Zauberflöte*, as part of their inaugural Festival O17. She goes on to sing Annina (La traviata) in her company debut with The Dallas Opera, and returns to Madison Opera for their new production of Daniel Catan’s *Florencia en el Amazonas*, portraying the role of Rosalba. She is also slated as a featured guest with the Oregon Mozart Players for a concert of Mozart lieder and Mahler’s Sympony No. 4 under the baton of Maestro Kelly Kuo.

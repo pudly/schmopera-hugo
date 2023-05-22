@@ -16,6 +16,7 @@ related_companies:
 slug: andreas-schager
 title: Andreas Schager
 website: http://www.andreas-schager.com/
+cms_visible: true
 ---
 
 Austrian tenor Andreas Schager has been acclaimed throughout Europe and North America for his performances of highly demanding parts of the Heldentenor repertoire.

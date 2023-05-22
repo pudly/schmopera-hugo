@@ -45,6 +45,7 @@ social_media:
 title: Indie Opera T.O.
 type_of_company: Opera company collective
 website: https://www.facebook.com/indieoperapotluck
+cms_visible: true
 ---
 
 Indie Opera T.O is a network of dynamic, autonomous companies that are awakening a vibrant renaissance of opera in Toronto. Driven by a goal to support one another as advocates of innovative opera and chamber music experiences, member companies are building a new-generation opera scene. 

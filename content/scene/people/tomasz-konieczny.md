@@ -27,6 +27,7 @@ social_media:
   template: social-media
   url: https://www.youtube.com/channel/UCt89uedReka90rNS5J_SXfg
 title: Tomasz Konieczny
+cms_visible: true
 ---
 
 With his sensational success as Alberich at the Vienna State Opera and now also as Jochanaan, Wotan/Wanderer and Telramund Tomasz Konieczny has established himself at the forefront of outstanding dramatic Bass-Baritones of his generation. Besides Wotan in the Ring, Vienna has invited him to sing Mandryka, Jack Rance, Amfortas, Holländer, Scarpia, Cardillac, Pizarro, Kurwenal.

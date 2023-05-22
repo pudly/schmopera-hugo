@@ -20,6 +20,7 @@ social_media:
   url: https://www.facebook.com/tonimariesoprano/
 title: Toni Marie Palmertree
 website: https://www.tonimariepalmertree.com/
+cms_visible: true
 ---
 Soprano Toni Marie Palmertree is rapidly becoming recognized as one of America’s most riveting performers of Puccini and Verdi heroines. She has recently been heard on the stage of San Francisco Opera in the title role of _Madama Butterfly_; of her performance, Janos Gereben from _San Francisco Classical Voice_ wrote: “The young soprano not only met the challenge, but she claimed her place among the finest vocal interpreters of the role heard here recently.” Other roles at San Francisco Opera include Nedda in _Pagliacci_ and Liù in _Turandot_. She also made her Lyric Opera of Chicago debut in the 2019-20 season, stepping into the title role of _Luisa Miller_. In the 2022-23 season, she will perform the role of Cio-Cio-San in _Madama Butterfly_ at Palm Beach Opera and sing the title role of Tosca at Florida Grand Opera. At the Metropolitan Opera this season, she will perform the role of Voce dal ciel and cover the role of Elisabeth de Valois in Verdi’s _Don Carlo_, and cover the title role of Cherubini’s _Medea_. Further recent performances include Contessa Almaviva in _Le Nozze di Figaro_ with Opera Delaware, Nedda in _Pagliacci_ in her return to Festival Opera New Zealand, Carmina Burana with Fort Wayne Philharmonic, and Beethoven’s Symphony No. 9 with Reno Philharmonic.
 

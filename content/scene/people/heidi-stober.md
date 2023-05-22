@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/heidistober
 title: Heidi Stober
 website: http://www.heidistober.com/
+cms_visible: true
 ---
 “Stober’s instrument is the type of distinctly American lyric soprano that makes the rest of the world listen.” Opera News: One to Watch – November 2018
 

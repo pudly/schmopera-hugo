@@ -21,6 +21,7 @@ social_media:
 title: The Industry
 type_of_company: Opera Company
 website: https://theindustryla.org/
+cms_visible: true
 ---
 The Industry is an independent, artist-driven company creating experimental productions that expand the definition of opera. In just a few short years, The Industry has been praised for “quickly and dramatically making itself an essential component in American opera” (Mark Swed, Los Angeles Times) and “the coolest opera company in the world” (Brian Lauritzen, KUSC).
 

@@ -21,6 +21,7 @@ social_media:
 title: Opera Kelowna
 type_of_company: Opera Company
 website: https://www.operakelowna.com/
+cms_visible: true
 ---
 Opera Kelowna is a registered, non-profit, charitable status society and member of the Canadian Association of Professional Opera Companies.
 

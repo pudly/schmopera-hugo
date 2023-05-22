@@ -28,6 +28,7 @@ social_media:
 title: Opéra de Québec
 type_of_company: Opera Company
 website: http://www.operadequebec.qc.ca/
+cms_visible: true
 ---
 
 <p>

@@ -12,6 +12,7 @@ related_companies:
 - scene/companies/salzburg-festival.md
 slug: colin-balzer
 title: Colin Balzer
+cms_visible: true
 ---
 
 With assured musicality and the varied tonal palette of a lieder specialist, Canadian lyric Colin Balzer's current season includes concerts with the Rotterdam Philharmonic under Yannick Nézet-Séguin, RIAS Kammerchor, Mozarteum Salzburg, Radio Kamer Filharmonie (Amsterdam Concertgebouw), Les Musiciens du Louvre, Philharmonischer Chor Berlin, Estonian Chamber Choir and Musik Podium Stuttgart. In North America he is heard with Bernard Labadie and the Utah Symphony in the Mozart Requiem; the Ann Arbor Symphony (Händel's Messiah), Toronto's Tafelmusik (Händel's *Hercules*), and Calgary Philharmonic (Bach's *St. Matthew Passion* under Music Director Roberto Minczuk). He sings recitals in Paris and New York (the latter his first *Winterreise*) and performs in Mozart operas at the Bolshoi (*Don Giovanni*), France's Aix-en-Provence (*La finta giardiniera*).

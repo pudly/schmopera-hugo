@@ -43,6 +43,7 @@ social_media:
 title: Wolf Trap Opera
 type_of_company: Summer Opera Program
 website: http://www.wolftrap.org/opera.aspx
+cms_visible: true
 ---
 
 Attend a performance at the Metropolitan Opera, Lyric Opera Chicago, or any top opera house and you’re likely to see a Wolf Trap Opera alumnus.

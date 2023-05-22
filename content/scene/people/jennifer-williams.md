@@ -28,6 +28,7 @@ social_media:
   url: http://www.youtube.com/jwilliamsdirector/videos
 title: Jennifer Williams
 website: https://www.jenniferwilliamsdirector.com/
+cms_visible: true
 ---
 Acclaimed by The San Francisco Chronicle as an "imaginative" director of "particular ingenuity," director Jennifer Williams works throughout the U.S. and internationally, including at the Deutsche Oper Berlin, Staatsoper Stuttgart, Komische Oper Berlin, Oper Frankfurt, Houston Grand Opera, The Glimmerglass Festival, and the San Francisco Opera Center. She is the founding Artistic Director of DC Public Opera, an experimental company that creates opera installations in site-specific spaces in Washington, DC. She recently directed acclaimed new productions of Mohammed Fairouz's *Sumeida's Song* and Ricky Ian Gordon and Royce Vavrek's *27* for Pittsburgh Opera and "consistently imaginative" and "extraordinarily beautiful" new productions of *Les contes d'Hoffmann* and *La bohème* for Miami Music Festival. Recent and upcoming engagements include directing *Ariadne auf Naxos* at Austin Opera and a world premiere for Center for Contemporary Opera, as well as serving as a Drama Coach for the Houston Grand Opera Studio. In 2018, she makes her Kennedy Center debut as Associate Director for Francesca Zambello on a new production of *La traviata*.
 

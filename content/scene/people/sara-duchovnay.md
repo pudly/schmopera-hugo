@@ -15,6 +15,7 @@ social_media:
   template: social-media
   url: https://www.instagram.com/saraduchovnay/
 title: Sara Duchovnay
+cms_visible: true
 ---
 
 Praised by *Opera News* for "the agility with which she negotiated her beautiful upper register", soprano Sara Duchovnay continues to garner critical acclaim for her performances across the country.

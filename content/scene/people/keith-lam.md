@@ -18,6 +18,7 @@ social_media:
   template: social-media
   url: https://twitter.com/baritonekeith
 title: Keith Lam
+cms_visible: true
 ---
 
 <p>

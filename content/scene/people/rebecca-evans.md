@@ -18,6 +18,7 @@ social_media:
   template: social-media
   url: https://twitter.com/RebeccaEvansSop
 title: Rebecca Evans
+cms_visible: true
 ---
 
 Rebecca Evans was born in South Wales, and studied at the Guildhall School of Music & Drama.

@@ -23,6 +23,7 @@ social_media:
   url: https://www.facebook.com/ScottHillPublicRelations?ref=hl
 title: Michael Chioldi
 website: http://www.michaelchioldi.com/index.php
+cms_visible: true
 ---
 
 American baritone Michael Chioldi has quickly gained the reputation as one of the most sought-after dramatic baritones of his generation. Praised for his "warm, rich tone" (Opera News) and "deeply communicative phrasing" (The Baltimore Sun), he has received unanimous acclaim from critics and audiences around the world for his portrayals of the dramatic baritone roles of Verdi, Puccini, and Strauss. His recent role debuts include the title roles in Verdi's *Rigoletto* with the Orquesta Filarmónica de Jalisco, Macbeth with Palm Beach Opera, and *Nabucco* with Lyric Opera Baltimore; as Conte di Luna in *Il Trovatore* with Utah Opera; and as Rodrigo in *Don Carlo* with Austin Lyric Opera.

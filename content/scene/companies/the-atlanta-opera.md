@@ -51,6 +51,7 @@ social_media:
 title: The Atlanta Opera
 type_of_company: Opera Company
 website: http://www.atlantaopera.org/index.aspx
+cms_visible: true
 ---
 
 Founded in 1979, The Atlanta Opera is one of the finest regional opera companies in the United States producing mainstage opera productions and excellent arts education programs for all ages. It directly serves almost 60,000 people annually in Metropolitan Atlanta and throughout the Southeast. Based on recent independent research, it is estimated that The Atlanta Opera, a non-profit organization, brings over $39 million of economic impact to the region each year.

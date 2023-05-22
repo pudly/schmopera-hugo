@@ -17,6 +17,7 @@ related_companies:
 - scene/companies/salzburg-festival.md
 slug: ludovic-tezier
 title: Ludovic Tézier
+cms_visible: true
 ---
 
 Born in Marseille, Ludovic Tézier studied at the CNIPAL, then at the school of Lyrical art at the Paris Opera, under Michel Senechal. He was the 1998 winner of Opéralia. One of the world's leading lyric baritones, his roles include Posa *Don Carlos*, Albert *Werther*, Marcello, Yeletsky *The Queen of Spades* and Antonio in Donizetti’s *Linda di Chamounix*. He has also sung the title role in the baritone version of *Werther* in Brussels, Renato *Un Ballo in Maschera*, Enrico *Lucia di Lammermoor*, Coroebus *Les Troyens*, Wolfram *Tannhäuser*, Eugene Onegin, Count Almaviva, Don Giovanni, Les pêcheurs de perles, Lescaut *Manon*, Escamillo, Amonasro *Aida* and Di Luna *Il trovatore*. 

@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/DianaDamrau
 title: Diana Damrau
 website: http://diana-damrau.com/
+cms_visible: true
 ---
 
 <p>

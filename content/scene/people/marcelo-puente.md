@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/deutsche-oper-berlin.md
 slug: marcelo-puente
 title: Marcelo Puente
+cms_visible: true
 ---
 
 Argentine tenor Marcelo Puente is rapidly gaining recognition as an important lirico-spinto tenor at such theaters as the Deutsche Oper Berlin, Oper Stuttgart, Teatro Colon in Buenos Aires, Teatro de la Zarzuela in Madrid, State Opera Prague, and several others. In the 2016/17 season, he will make his debuts at the Royal Opera House – Covent Garden, Hamburg State Opera, Deutsche Oper am Rhein, and Théâtre Royal de la Monnaie in Brussels.

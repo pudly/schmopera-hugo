@@ -16,6 +16,7 @@ related_companies:
 - scene/companies/welsh-national-opera.md
 slug: clive-bayley
 title: Clive Bayley
+cms_visible: true
 ---
 
 Born in Manchester, Clive Bayley sings regularly with the major opera companies in a diverse repertoire spanning Monteverdi, Mozart, Verdi, Puccini, Alban Berg, Benjamin Britten, Birtwistle, Richard Wagner and Ligeti. 

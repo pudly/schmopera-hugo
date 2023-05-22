@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/kimymclaren
 title: Kimy McLaren
 website: https://www.kimymclaren.com/
+cms_visible: true
 ---
 In the relatively short time since Québec soprano Kimy McLaren made her professional stage debut with Opéra National du Rhin (Strasbourg), she has performed extensively world wide and accrued a formidable and widely diverse repertoire comprised of opera, concert, recital and musical theatre.
 

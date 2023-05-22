@@ -23,6 +23,7 @@ social_media:
   url: https://instagram.com/danikaloren/
 title: Danika Lorèn
 website: http://www.danikalorensoprano.com/
+cms_visible: true
 ---
 As a performer, Danika is known for her versatility and dramatic sensitivity. Recent graduate of the Canadian Opera Company's ensemble program, her roles include Musetta (_La Bohéme_), Adina (_L'elisir d'amore_), Rosina (_Il Barbiere di Siviglia_), Dalinda (_Ariodante_), Lauretta (_Gianni Schicchi_), Susanna (_Le Nozze di Figaro_), Lady with a Hand Mirror (_Postcard from Morocco_), Coloratura (_Kopernikus_), Monica (_The Medium_), Woglinde (_Götterdämmerung_) and Zdenka (_Arabella_). 
 

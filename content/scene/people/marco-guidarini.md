@@ -22,6 +22,7 @@ related_companies:
 slug: marco-guidarini
 title: Marco Guidarini
 website: http://www.marcoguidarini.com/home.html
+cms_visible: true
 ---
 
 Marco Guidarini studied conducting with Franco Ferrara and became assistant to Sir John-Elliot Gardiner in Lyon making his operatic debut there with *Falstaff*. He went on to conduct at the opera houses of New York (Metropolitan), Los Angeles, Dallas, Minneapolis, Sydney, Nice, Montpellier, Marseille, Barcelona, Seville, Bologna, Naples, Berlin (Deutsche Oper), Munich (Bayerische Staatsoper), Leipzig, Welsh National Opera, Scottish Opera, English National Opera, Stockholm, Copenhagen and at many festivals.

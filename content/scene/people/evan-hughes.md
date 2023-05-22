@@ -22,6 +22,7 @@ social_media:
   url: https://www.instagram.com/evanbenhughes/
 title: Evan Hughes
 website: https://www.evanhughesbassbaritone.com/
+cms_visible: true
 ---
 
 American Bass-Baritone Evan Hughes has been praised for his “appealing clarity and emotional heft” (*NY Times*) and his “burnished tone” (*Opera News*). 

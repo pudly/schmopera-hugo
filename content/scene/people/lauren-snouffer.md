@@ -19,6 +19,7 @@ social_media:
   template: social-media
   url: https://www.instagram.com/ellsno/
 title: Lauren Snouffer
+cms_visible: true
 ---
 
 Recognized for her unique artistic curiosity in world-class performances spanning the music of Claudio Monteverdi and Johann Adolph Hasse through to György Ligeti and George Benjamin, American Lauren Snouffer is celebrated as one of the most versatile and respected sopranos on the international stage.

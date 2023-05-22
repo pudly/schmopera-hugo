@@ -17,6 +17,7 @@ related_companies:
 - scene/companies/vancouver-opera.md
 slug: tracy-dahl
 title: Tracy Dahl
+cms_visible: true
 ---
 
 Canada’s premiere coloratura soprano Tracy Dahl has appeared throughout her career with such opera houses as the Metropolitan Opera, San Francisco Opera, Houston Grand Opera, Santa Fe Opera, Canadian Opera Company, Teatro alla Scala (Milan) and the Théâtre du Châtelet (Paris). Her upcoming performances during the 2014-2015 season include returns to Pacific Opera Victoria in the title role of Lucia di Lammermoor and Calgary Opera in the title role of Candide; concert performances of Candide with Bramwell Tovey and the Vancouver Symphony Orchestra; concert appearances with the Winnipeg Philharmonic Choir and Winnipeg Singers; and a recital at the Westben Arts Festival.

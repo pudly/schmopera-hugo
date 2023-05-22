@@ -17,6 +17,7 @@ social_media:
   url: https://www.instagram.com/monica_huisman/
 title: Monica Huisman
 website: http://www.monicahuisman.com/
+cms_visible: true
 ---
 Dutch-Canadian Soprano, Monica Huisman has been hailed as possessing a soprano voice that ’embodies both flawless technique and dramatic impact’ (Opera Canada). Ms. Huisman has delighted audiences from Amsterdam’s Concertgebouw to Guatemala City with the reputation of her ‘silken’ voice ‘consistently crafting each note into a work of art’ (Winnipeg Free Press).
 

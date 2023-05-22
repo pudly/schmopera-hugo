@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/welsh-national-opera.md
 slug: nick-fletcher
 title: Nick Fletcher
+cms_visible: true
 ---
 
 British répétiteur and conductor Nick Fletcher joins the Jette Parker Young Artists Programme from the start of the 2016/17 Season as Associate Répétiteur. In his first Season he plays the continuo for *Oreste* and joins the music staff for *Der Rosenkavalier*, *Written on Skin*, *Don Carlo*, *La traviata*, *Mitridate, re di Ponto* and the Young Artists’ Summer Performance.

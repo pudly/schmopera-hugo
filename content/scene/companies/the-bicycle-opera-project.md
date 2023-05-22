@@ -24,6 +24,7 @@ social_media:
 title: The Bicycle Opera Project
 type_of_company: Opera Company
 website: http://bicycleopera.com/about/
+cms_visible: true
 ---
 
 <p>

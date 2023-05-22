@@ -20,6 +20,7 @@ social_media:
   url: https://www.youtube.com/channel/UC5nZyAe5w7aMg6FkG60gd9w
 title: Nicola Beller Carbone
 website: http://www.bellercarbone.it/
+cms_visible: true
 ---
 
 Soprano Nicola Beller Carbone is sought after in a variety of leading roles such as Salome, Marietta, Tosca, and Marie (*Wozzeck*).

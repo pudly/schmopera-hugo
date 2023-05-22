@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/opernhaus-zurich.md
 slug: olga-pudova
 title: Olga Pudova
+cms_visible: true
 ---
 
 The young Russian soprano, Olga Pudova, is fast becoming one of the most exciting coloratura sopranos of our age.

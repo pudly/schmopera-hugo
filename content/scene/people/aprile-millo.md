@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/MilloTweets
 title: Aprile Millo
 website: http://www.aprilemillo.org/
+cms_visible: true
 ---
 
 <p>

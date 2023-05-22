@@ -22,6 +22,7 @@ related_companies:
 slug: alastair-miles
 title: Alastair Miles
 website: http://www.alastairmiles.com/
+cms_visible: true
 ---
 
 British bass, Alastair Miles is one of the UK’s most renowned singers returning regularly to the operatic stages and concert platforms of Europe, the USA and the Far East. His international career was launched in 1986 when he won the Decca Kathleen Ferrier Prize at the Wigmore Hall London. He is recognised for his stylistically wide repertoire, equally at home with music of the Baroque period as he is with the romanticism of Verdi and Wagner.

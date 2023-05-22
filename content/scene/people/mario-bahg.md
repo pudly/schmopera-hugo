@@ -16,5 +16,6 @@ social_media:
   url: https://www.youtube.com/channel/UC2f8A4CA6PTivMj2oksJH6w
 title: Mario Bahg
 website: ""
+cms_visible: true
 ---
 bio needed

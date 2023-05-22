@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/IsaiahTBell
 title: Isaiah Bell
 website: http://isaiahbell.com/
+cms_visible: true
 ---
 
 Isaiah Bell is a Canadian-American performer, composer, and writer. Onstage, his work is characterized by his “beautiful tenor, command of style, and natural stage presence”. His “willingness to invest himself wholly into the character” and “attractive, youthfully sexy stage presence” bolster his “strong, glorious voice with its heroic, oratorio-style ring” and “exquisite lyricism” so that, in the words of one New York Times critic, “you hang on his face, his words, and on the gleaming current of his vocal tone.” He's also a ginger, which helps.

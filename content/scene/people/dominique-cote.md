@@ -23,6 +23,7 @@ social_media:
   url: https://www.instagram.com/domicote/
 title: Dominique Côté
 website: https://www.dominiquecote.net/
+cms_visible: true
 ---
 
 Québec baritone Dominique Côté maintains a flourishing career in North America and in France. Praised for his warm tone, stage presence and skill as an actor, he has won several first prizes including the Concours International de chant de Canari and for operetta at the Concours International de chant de Marmande. He also received the first prize and the grand prize from the Voice Festival of McGill University.

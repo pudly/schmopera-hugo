@@ -17,6 +17,7 @@ related_companies:
 - scene/companies/the-dallas-opera.md
 slug: judith-forst
 title: Judith Forst
+cms_visible: true
 ---
 
 Judith Doris Forst is a Canadian dramatic mezzo-soprano, and one of our most important and influential artists, ranked among Lois Marshall, Maureen Forrester, Teresa Stratas, Jon Vickers, Richard Margison and Ben Heppner in her achievement. She is known around the world for the musical integrity and dramatic intensity of her performances.

@@ -14,6 +14,7 @@ social_media:
   url: https://www.facebook.com/denzil.delaere
 title: Denzil Delaere
 website: http://denzildelaere.wixsite.com/denzildelaere
+cms_visible: true
 ---
 At the age of six, Denzil Delaere (1988° Belgium) joined the public music academy of Deinze to study piano and saxophone with Daan vandewalle and Stefaan Cornelis. At 14 he entered the School of Art of Ghent where he was taught piano as well as the art of singing  (by Philippe Wesemael and Sabine Haenebalcke).  He graduated with highest honors in 2008 and was subsequently admitted at the Royal Conservatory of Ghent where he completed his vocal education with Marcos Pujol and Gidon Saks. He graduated from the Conservatory with Master degree in 2013.
 

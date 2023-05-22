@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/jordheim_alisa
 title: Alisa Jordheim
 website: http://www.alisasuzannejordheim.com/
+cms_visible: true
 ---
 
 Described as “vocally resplendent,” “powerful,” and possessing “impeccable coloratura” (San Francisco Chronicle), soprano Alisa Jordheim is praised for her compelling and vocally assured performances in opera, oratorio, musical theatre, both early and new music, and recital. Miss Jordheim’s recent portrayal of Soeur Constance in Poulenc’s *Dialogues des Carmélites* at the Caramoor International Music Festival was met with great acclaim: Sister Constance was “beautifully taken here by the sweet-voiced, endearing soprano Alisa Jordheim” (The New York Times) and “winningly performed by Alisa Jordheim in a soprano of surprising depth and color” (Musical America). Regarding Florentine Opera’s 2015 production of Elmer Gantry, the Milwaukee Journal Sentinel writes, “Alisa Suzanne Jordheim gave a spot-on performance as Lulu Baines. She created a

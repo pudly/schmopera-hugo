@@ -14,6 +14,7 @@ social_media:
 title: Dean Artists Management
 type_of_company: Artist Management Agency
 website: http://deanartists.com/
+cms_visible: true
 ---
 
 <p>

@@ -117,6 +117,7 @@ social_media:
 title: English National Opera
 type_of_company: Opera Company
 website: http://www.eno.org/
+cms_visible: true
 ---
 
 <p>

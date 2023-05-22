@@ -19,6 +19,7 @@ social_media:
   url: https://www.facebook.com/StephanieBlytheMezzo?fref=ts
 title: Stephanie Blythe
 website: http://www.stephanieblythemezzo.com/f
+cms_visible: true
 ---
 
 Mezzo-soprano Stephanie Blythe is considered to be one of the most highly respected and critically acclaimed artists of her generation.

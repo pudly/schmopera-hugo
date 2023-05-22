@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/salzburg-festival.md
 slug: lydia-teuscher
 title: Lydia Teuscher
+cms_visible: true
 ---
 
 Lydia Teuscher was born in Freiburg, Germany and studied at the Welsh College of Music and Drama and at the Hochschule für Musik in Mannheim. Early appearances included the Göttingen Handel Festival, the Stadttheater Heidelberg and the Nationaltheater Mannheim.

@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/glimmerglass-festival.md
 slug: jeffrey-gwaltney
 title: Jeffrey Gwaltney
+cms_visible: true
 ---
 
 Jeffrey Gwaltney is a young American tenor of thrilling vocal potential, fine musical instincts and convincing dramatic presence.  During the past two seasons, he has made impressive debuts in London at the Royal Albert Hall as Pinkerton in *Madama Butterfly* and at Opera Holland Park as Dick Johnson in *La Fanciulla del West* and as Luigi in *Il Tabarro*, the Scottish Opera as Erik (George) in *The Flying Dutchman*, and Opera Ireland as the Prince in *Rusalka* for Opera Ireland.  In the U.S.A., he has appeared with Opera on the James, Opera North, and PORT Opera as Rodolfo in La Boheme, Opera Idaho and Opera North as Don Jose in *Carmen*, and Mobile Opera as Pinkerton.

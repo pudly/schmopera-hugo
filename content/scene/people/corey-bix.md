@@ -26,6 +26,7 @@ social_media:
   url: https://twitter.com/CoreyBixTenor
 title: Corey Bix
 website: http://www.coreybix.com/
+cms_visible: true
 ---
 
 Opera News praises Corey Bix for his “clear sense of drama and self-possession, exhibiting sturdy, unwavering control, flinty resonance and confident high notes.” In the 2017-18 season, he makes his Canadian Opera Company debut as Elemer in *Arabella*. Last season, he returned to Virginia Opera for his first performances of Max in *Der Freischütz*, the Lyric Opera of Chicago as Énée and Helenus in *Les Troyens*, and joined the Metropolitan Opera roster for its production of *Der fliegende Holländer*. He recently returned to San Francisco Opera as Augustin Moser in *Die Meistersinger von Nürnberg* and also for its production of Jenůfa, joined Virginia Opera as Erik in *Der fliegende Holländer*, Austin Lyric Opera to reprise his acclaimed portrayal of Lennie in *Of Mice and Men*, and sang Mahler’s *Das Lied von der Erde* at the Centro Nacional de las Artes in Mexico City. 

@@ -17,6 +17,7 @@ social_media:
 title: Gramercy Opera
 type_of_company: Opera Company
 website: http://www.gramercyopera.com/
+cms_visible: true
 ---
 
 #### Our Mission

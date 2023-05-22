@@ -21,6 +21,7 @@ social_media:
   url: https://soundcloud.com/roxannawalitzki
 title: Roxanna Walitzki
 website: http://www.roxannawalitzki.com/
+cms_visible: true
 ---
 
 Roxanna Walitzki is an innovative performance-artist whose musical dedication, eye for beauty and unique aesthetic infuses her work with vibrancy and individuality. Trained in vocal performance at NYU and the San Francisco Conservatory of Music, her musical endeavors stretch the bounds of traditional performance-practice and have been heralded as “spellbinding.”

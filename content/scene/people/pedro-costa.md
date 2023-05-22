@@ -8,6 +8,7 @@ publishDate: "2017-09-06T21:40:00-04:00"
 slug: pedro-costa
 title: Pedro Costa
 website: https://www.pedro-costa.com/
+cms_visible: true
 ---
 Pedro Costa was awarded in 2013 with the 1st Prize at the Interpretation Competition of Estoril, with the “Prize Helena Sá e Costa” and the 2nd Prize at the competition “New Tenuto” in Brussels. He was also the winner of the competitions “Florinda Santos” (2012), International Competition “Cidade do Fundão (2012), “ConCursos Competition” in Aveiro (2011), “Lopes-Graça Competition” (2008) and “St. Cecília Competition” in Porto (2007). 
 

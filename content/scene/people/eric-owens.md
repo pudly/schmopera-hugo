@@ -19,6 +19,7 @@ social_media:
   template: social-media
   url: https://twitter.com/EricOwensSinger
 title: Eric Owens
+cms_visible: true
 ---
 Bass-baritone Eric Owens has a unique reputation as an esteemed interpreter of classic works and a champion of new music. Equally at home in orchestral, recital, and operatic repertoire, Mr. Owens brings his powerful poise, expansive voice, and instinctive acting faculties to stages around the world.
 

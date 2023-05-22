@@ -17,6 +17,7 @@ social_media:
   url: https://www.youtube.com/user/MagdalenaAnnaHofmann
 title: Magdalena Anna Hofmann
 website: http://magdalenaannahofmann.com/
+cms_visible: true
 ---
 Acclaimed as an “intense, concentrated artist” (_Opera News_) with a voice of “dark beauty and lustrous tone” (_Birmingham Post_), Magdalena Anna Hofmann has been celebrated at many of the world’s most important opera houses, festivals and concert halls. Her repertoire spans some of the great heroines of the German and Slavic repertoire as well as Mozart roles, operetta and modern music.
 

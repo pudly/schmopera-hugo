@@ -12,6 +12,7 @@ social_media:
   url: https://www.instagram.com/leahhawkinssoprano/
 title: Leah Hawkins
 website: https://www.leahhawkinssoprano.com/
+cms_visible: true
 ---
 A native of Philadelphia, **Leah Hawkins** joins the Lindemann Young Artist Development Program at the Metropolitan Opera in the 2018-19 season. She recently completed the Domingo-Cafritz Young Artist Program at Washington National Opera where she appeared as Ma Zegner in the world premiere of _Proving Up_ by Missy Mazzoli and librettist Royce Vavrek, and Voce dal cielo in Verdi's _Don Carlo_. In the 2016-17 season she appeared at WNO as the I-Will-Sell-My-Children-Mom in the premiere of Mohammed Fairouz’s _The Dictator’s Wife_ and, to great acclaim, as Cousin Blanche/Sadie Griffith in _Champion_, Terence Blanchard’s “opera in jazz.” Additionally she appeared in _Justice at the Opera_ with Supreme Court Justice Ruth Bader Ginsburg, performing scenes from _Aida_and _Un ballo in maschera_ with the Washington National Opera Orchestra.
 

@@ -16,6 +16,7 @@ social_media:
   url: https://www.instagram.com/ahyounghongsop/
 title: Ah Young Hong
 website: https://www.ahyounghong.com/
+cms_visible: true
 ---
 
 Renowned for her artistic versatility, soprano Ah Young Hong has interpreted a vast array of repertoire, ranging from the music of Bach and Monteverdi to the songs of Poulenc and Shostakovich to the works of some of the 21st century’s most prominent composers.

@@ -27,6 +27,7 @@ social_media:
   url: https://twitter.com/stuartskelton
 title: Stuart Skelton
 website: http://www.stuartskelton.com/
+cms_visible: true
 ---
 
 Named Male Singer of the Year at the 2014 International Opera Awards, Stuart Skelton is one of the finest heldentenors on the stage today, critically acclaimed for his outstanding musicianship, tonal beauty, and intensely dramatic portrayals. His repertoire encompasses many of opera’s most challenging roles, from Wagner's Parsifal, Lohengrin, Erik, and Siegmund, to Strauss’s Kaiser, Beethoven’s Florestan, Saint-Saëns’ Samson, Dvořák’s Dimitrij, and Britten’s Peter Grimes.

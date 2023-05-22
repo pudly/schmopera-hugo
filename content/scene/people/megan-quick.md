@@ -13,6 +13,7 @@ related_companies:
 slug: megan-quick
 title: Megan Quick
 website: http://www.meganquick.com/
+cms_visible: true
 ---
 
 Megan Quick, a native of Brockville, Ontario, is very excited to be joining the 2016/17 Canadian Opera Company Ensemble program. She studies with with Wendy Nielsen, and recently completed two years at the University of Toronto (Toronto, Ontario). She holds a Diploma of Operatic Performance from the University of Toronto (May 2016), a  Masters in Performance (2013) from Guildhall School of Music and Drama (London, England) and a Bachelor of Music (2011) from Dalhousie University (Halifax, Nova Scotia).

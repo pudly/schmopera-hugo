@@ -14,6 +14,7 @@ social_media:
   template: social-media
   url: https://twitter.com/perezfrancesca
 title: Francesca Perez
+cms_visible: true
 ---
 
 A lifelong contributor to the arts, Francesca is the General Manager of Liederwölfe Opera's *Opera Peep Show*. Liederwölfe is an experimental opera group founded in her hometown of Montreal. Francesca also works in the nonprofit arts industry as the Community Investment Manager at Toronto Arts Foundation and was previously part of the Corporate Partnerships team at the Luminato Festival. Francesca arrived in Toronto in 2012 after completing an M.A. in Performing Arts Administration at New York University, during which time she gained valuable experience as an intern at the Metropolitan Opera, New York City Opera and PS 122.

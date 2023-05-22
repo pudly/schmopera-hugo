@@ -33,6 +33,7 @@ social_media:
 title: MYOpera
 type_of_company: Opera Company
 website: http://www.myopera.ca/
+cms_visible: true
 ---
 
 MYOpera was established in 2010 in Toronto, ON. The company was founded when we realized that it was time to give Toronto’s talented young opera singers the opportunity to perform complete roles and be compensated for it. And so MYOpera was born.

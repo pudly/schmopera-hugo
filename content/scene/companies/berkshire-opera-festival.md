@@ -20,6 +20,7 @@ social_media:
 title: Berkshire Opera Festival
 type_of_company: Opera Company
 website: https://www.berkshireoperafestival.org/
+cms_visible: true
 ---
 The mission of Berkshire Opera Festival is to entertain and enrich the lives of people of all ages and backgrounds throughout the Berkshire region by providing accessible and affordable performances of a broad range of operas with the highest artistic standards.
 

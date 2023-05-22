@@ -22,6 +22,7 @@ related_companies:
 slug: john-tessier
 title: John Tessier
 website: http://johnptessier.com/
+cms_visible: true
 ---
 
 On the international stages of opera, concert, and recital, Canadian John Tessier has garnered attention and praise for the beauty and honesty of his voice, for a refined style and creative versatility, and for his handsome, youthful presence in the lyric tenor repertoire.  The Juno Award-winning artist has worked with many of the most notable conductors of our day including David Robertson, Leonard Slatkin, Plácido Domingo, John Nelson, Franz Welser-Möst, Emmanuelle Haïm, Charles Dutoit, Donald Runnicles, Robert Spano, Yannick Nézet-Séguin, and Bernard Labadie. 

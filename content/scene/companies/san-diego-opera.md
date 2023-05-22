@@ -40,5 +40,6 @@ social_media:
 title: San Diego Opera
 type_of_company: Opera Company
 website: http://www.sdopera.com/Home
+cms_visible: true
 ---
 The mission of San Diego Opera is to deliver exceptional vocal performances and exciting, accessible programs to diverse audiences, focusing on community engagement and the transformative power of live performance. 

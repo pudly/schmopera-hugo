@@ -25,6 +25,7 @@ social_media:
 title: Boston Baroque
 type_of_company: Early Music Company
 website: https://baroque.boston/
+cms_visible: true
 ---
 Founded in 1973 by Music Director Martin Pearlman, Boston Baroque has garnered a global reputation for its lively, groundbreaking, emotionally-charged performances and recordings that bring early music to life for modern audiences. Boston Baroque’s orchestra is composed of some of the finest period instrumentalists performing today, and is frequently joined by the ensemble’s professional chorus and by a roster of soloists who grace the world’s most renowned concert halls and stages. The ensemble performs Baroque and Classical music using period instruments and performance techniques that reflect the time in which the music was composed.  Boston Baroque believes that Baroque and Classical music is music for all times.
 

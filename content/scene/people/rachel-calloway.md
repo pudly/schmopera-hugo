@@ -11,6 +11,7 @@ related_companies:
 slug: rachel-calloway
 title: Rachel Calloway
 website: http://rachelcalloway.com/
+cms_visible: true
 ---
 
 As an internationally recognized leading interpreter of contemporary and modern music, mezzo-soprano Rachel Calloway brings versatility and compelling insight to stages worldwide. Her work has been praised by the New York Times for “penetrating clarity” and “considerable depth of expression” and by Opera News for her “adept musicianship and dramatic flair.”

@@ -25,6 +25,7 @@ social_media:
 title: Rachael Lloyd
 website: https://www.rachael-lloyd.com/
 youtube_url: ""
+cms_visible: true
 ---
 British Mezzo-soprano Rachael Lloyd continues to enjoy success in the UK and is also establishing herself as an artist in mainland Europe. Recent engagements include Miss Jessel _The Turn of the Screw_ with English National Opera at Regents Park, the title-role _Carmen_ at the Royal Albert Hall for Raymond Gubbay, Pitti-Sing _The Mikado_ and Woman/Mother _The Day After_ at English National Opera, Sister _The House Taken Over_ at Festival d’Aix-en-Provence, Aristea _L'Olimpiade_ for the Buxton Festival, Amastre _Serse_ for English Touring Opera, Maddalena _Rigoletto_ for Iford Arts, her German debut in the title-role _Dido and Aeneas_ for TPT Theater Thüringen in Gera, Cornelia _Giulio Cesare in Egitto_ for the Glyndebourne Festival and Meg Page _Falstaff_ for Glyndebourne on Tour.
 

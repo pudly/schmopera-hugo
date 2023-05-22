@@ -8,6 +8,7 @@ publishDate: "2016-10-29T18:03:00+01:00"
 slug: alessandro-fisher
 title: Alessandro Fisher
 website: http://alessandrofisher.com/index
+cms_visible: true
 ---
 
 Alessandro is a graduate of the Guildhall School of Music & Drama Postgraduate Vocal Studies course studying with Iris Dell'Acqua. He read Modern and Medieval Languages (Italian and German) at Cambridge University, where he was choral scholar in Clare College Chapel Choir.

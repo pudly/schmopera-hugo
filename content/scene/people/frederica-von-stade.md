@@ -24,6 +24,7 @@ social_media:
   url: https://www.facebook.com/Frederica-Von-Stade-64924287649/
 title: Frederica von Stade
 website: http://www.fredericavonstade.com/
+cms_visible: true
 ---
 Described by the _New York Times_ as “one of America’s finest artists and singers,” Frederica von Stade continues to be extolled as one of the music world’s most beloved figures. Known to family, friends, and fans by her nickname “Flicka,” the mezzo-soprano has enriched the world of classical music for four and a half decades.
 

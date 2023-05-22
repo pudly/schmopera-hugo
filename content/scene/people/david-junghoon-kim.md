@@ -9,6 +9,7 @@ related_companies:
 - scene/companies/royal-opera-house.md
 slug: david-junghoon-kim
 title: David Junghoon Kim
+cms_visible: true
 ---
 
 Currently a Jette Parker Young Artist, Korean tenor David Junghoon Kim is the winner

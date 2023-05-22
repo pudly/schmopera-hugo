@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/Sopranistin247
 title: Naomi Eberhard
 website: http://www.naomieberhard.com/
+cms_visible: true
 ---
 
 Young dramatic soprano Naomi Eberhard, known for her round, steely voice is quickly establishing herself in the music of Verdi, Puccini and the Germanic repertoire. Her unique sound is recognized for its agility, power, nuance and thrilling upper register.

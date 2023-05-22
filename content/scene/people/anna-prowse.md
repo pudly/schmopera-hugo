@@ -12,6 +12,7 @@ social_media:
   url: https://twitter.com/Prowse2484
 title: Anna Prowse
 website: https://www.annaprowse.com/
+cms_visible: true
 ---
 British mezzo-soprano Anna Prowse was a choral scholar at Girton College, Cambridge, where she read English Literature before completing her vocal training at Trinity Laban Conservatoire in 2018 where she studied with Sophie Grimmer and was the recipient of the Joan Greenfield Scholarship.  She won first prize in The Elisabeth Schumann lieder competition and second prize in both The English and French Song competitions. 
 

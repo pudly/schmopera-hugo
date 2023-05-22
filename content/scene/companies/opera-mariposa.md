@@ -21,6 +21,7 @@ social_media:
 title: Opera Mariposa
 type_of_company: Opera Company
 website: http://operamariposa.com/
+cms_visible: true
 ---
 
 Opera Mariposa is a Vancouver-based company run by young artists, for young artists. Our mission is to create a stage for emerging talent, showcasing the most promising performers from across North America and beyond in a diverse program of gala concerts, charity benefits, original shows and fully staged opera and musical theatre productions. 

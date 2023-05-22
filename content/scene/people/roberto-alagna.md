@@ -27,6 +27,7 @@ social_media:
   url: https://www.youtube.com/channel/UCWfJTSRffdO9vV3jx2yCpAQ
 title: Roberto Alagna
 website: http://www.robertoalagna.net/en/
+cms_visible: true
 ---
 
 Roberto Alagna is the leading tenor of his generation. After winning the Luciano Pavarotti Voice Competition, Alagna made his professional debut in 1988 as Alfredo Germont in 'La Traviata' with the Glyndebourne Opera touring company. This led to many engagements throughout Europe and, as his reputation grew, he was soon invited to sing at major theatres - his performances as Romeo in Gounod's 'Roméo et Juliette' at Covent Garden in 1994 catapulted him to international stardom. He has performed on the world’s most prestigious stages: Covent Garden, the Vienna Staatsoper, Opéra-Bastille in Paris, New York’s Metropolitan Opera, the Liceo in Barcelona and La Scala in Milan. 

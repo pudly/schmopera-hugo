@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/opera-north.md
 slug: hal-cazalet
 title: Hal Cazalet
+cms_visible: true
 ---
 
 Hal Cazalet divides his time between the United States and Europe performing in Opera, Musical Theatre and Cabaret. After training at the Guildhall School of Music and Drama he went to the Juilliard Opera Centre, New York where he won the Shoshana Foundation Award.

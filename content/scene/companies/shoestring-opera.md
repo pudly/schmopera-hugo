@@ -14,6 +14,7 @@ social_media:
 title: Shoestring Opera
 type_of_company: Opera Company
 website: http://www.shoestringopera.com/
+cms_visible: true
 ---
 
 Based in Toronto, Shoestring Opera casts are comprised of four musical artists (one soprano, one baritone, one pianist and one cellist) bringing the glory and magic of opera to school children and families. Since 2004, the company has performed to sold-out audiences across Canada, successfully adapting classic operas in an exuberant, child-friendly format with an emphasis on storytelling and musical excellence.

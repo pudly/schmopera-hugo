@@ -17,6 +17,7 @@ social_media:
   url: https://www.instagram.com/nfayad/
 title: Nadia Fayad
 website: http://www.nadiafayad.com/
+cms_visible: true
 ---
 
 American mezzo-soprano Nadia Fayad, acclaimed by Opera News  for her "richly expressive lower register" and by the Wall Street Journal as displaying "a remarkably potent mezzo-soprano", is quickly making a name for herself at home and abroad. She is passionate about conveying honesty and theatrical expression in her diverse roles in a variety of genres.

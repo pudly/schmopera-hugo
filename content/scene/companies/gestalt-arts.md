@@ -17,6 +17,7 @@ social_media:
 title: Gestalt Arts
 type_of_company: Opera Company
 website: http://www.gestaltarts.co.uk/
+cms_visible: true
 ---
 
 Gestalt means "The whole is more than the sum of the parts".

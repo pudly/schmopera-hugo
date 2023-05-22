@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/teatro-alla-scala.md
 slug: daniela-barcellona
 title: Daniela Barcellona
+cms_visible: true
 ---
 
 Regaled by the New York Times as a “powerhouse mezzo soprano” Daniela Barcellona garners constant acclaim for her “nobility of declamation, richly focused contralto sound and expressive physicality” (Opera News). In the 2015-16 season, she returns to the Deutsche Oper Berlin as Santuzza in *Cavalleria rusticana*, Opéra national de Paris and Teatro San Carlo di Napoli as Amneris in *Aida*, ABAO Bilbao for Eboli in *Don Carlos*, Chicago Symphony Orchestra as Dame Quickly in *Falstaff*, and the Metropolitan Opera to reprise her acclaimed portrayal of Malcom Graeme in *La donna del lago*. She also sings her first performances of La principessa de Bouillon in *Adriana Lecouvreur* at La Monnaie and Nelly in *Adelson e Salvini* at the Barbican. Last season, she made a much-anticipated return to the Metropolitan Opera as Malcom Graeme in *La donna del lago*. Her other engagements included returns to the Maggio Musicale Fiorentino as Dame Quickly in *Falstaff*, ABAO Bilbao as Santuzza in *Cavalleria rusicana*, and Orfeo in *Orfeo ed Euridice* with the Teatro San Carlo di Napoli. She joined conductor Gianandrea Noseda for performances of Rossini’s *Stabat Mater* at the Théâtre des Champs Elysées and Teatro regio di Torino, where she also sang Verdi’s *Requiem*. 

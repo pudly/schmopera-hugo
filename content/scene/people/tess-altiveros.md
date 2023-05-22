@@ -13,6 +13,7 @@ social_media:
   url: https://www.facebook.com/tessaltiveros/
 title: Tess Altiveros
 website: http://www.tessaltiveros.com/
+cms_visible: true
 ---
 Praised for "a ripe, sensual lyric soprano"(Opera News) and a "captivating combination of skilled singing and magnetic acting" (Pioneer Press), soprano Tess Altiveros is equally at home in a vast range of repertoire from the 17th century to the 21st, making her highly sought after for a wide array of concert and operatic work alike.  Her recent portrayal of E in Seattle Opera's acclaimed _O+E_ “stole the show” according to The Stranger, while her Euridice/Proserpina in the West Coast tour of Monteverdi's _L'Orfeo_ under Grammy winning conductor, Stephen Stubbs was described by Vancouver Classical Music as“an artful combination of facial expression, gesture, and vocal suavity...infusing both characters with tenderness and charm as well as dignity.”
 

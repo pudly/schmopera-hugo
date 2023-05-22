@@ -29,6 +29,7 @@ social_media:
   url: https://www.youtube.com/channel/UCcwMHzTgRGdLN-y_Q7uyRIw
 title: Venera Gimadieva
 website: https://www.venera-gimadieva.com/
+cms_visible: true
 ---
 Russian soprano Venera Gimadieva has quickly become one of the most sought-after lyric coloratura sopranos in Europe. Having studied at the St Petersburg Conservatoire and on the young artist programme at the Bolshoi Theatre, Moscow, she now performs regularly at prestigious opera houses and venues across Europe and the USA.
 

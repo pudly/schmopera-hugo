@@ -18,6 +18,7 @@ social_media:
   url: https://www.instagram.com/tshivone/
 title: Thomas Shivone
 website: http://www.thomasshivone.com/
+cms_visible: true
 ---
 
 Thomas Shivone, a bass-baritone,  has received critical acclaim for both singing and acting in opera, concert, and recitals. He is a recent graduate of the Curtis Institute of Music in Philadelphia and earned a Masters Degree in Voice and Opera.
@@ -30,6 +31,7 @@ He has shared the stage with many famous artists of today including David Daniel
 
 Thomas was awarded a full-scholarship to attend the summer programs of: Glimmerglass, Music Academy of the West, Songfest, Centro Studi Lirica and Schlern Festival in Italy. He received an "Encouragement Award" in the Metropolitan Opera National Council Auditions in the Philadelphia Region in 2014. In 2007 he was a winner of the National Public Radio show From the Top, Jack Kent Cooke Young Artist Award, and performed with the show on NPR in Texas.
 
+cms_visible: true
 -----------------------------------------------------------
 
 Thomas was born and raised in Fort Worth, Texas and is a proud supporter of his local sports teams: the Dallas Cowboys, the Texas Rangers, the Dallas Mavericks, the Dallas Stars, and FC Dallas, and of his favorite sports radio station, the little Ticket. Bob Sturm, a.k.a. "The Sturminator," is his leader...

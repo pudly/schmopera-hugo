@@ -19,6 +19,7 @@ social_media:
   url: https://www.youtube.com/watch?v=xms__5qfkY4&list=PLGD5AXWxIXdylqX9dAfAuYDBT3fX-5T49
 title: Christopher Allen
 website: http://www.christophergallen.com/
+cms_visible: true
 ---
 
 Christopher Allen is rapidly gaining attention as a rising conductor on the operatic and symphonic stages. Plácido Domingo and James Conlon brought him to Los Angeles Opera where he is currently Associate Conductor. His conducting career was launched when he received the Bruno Walter Conducting Award and Memorial Career Grant.

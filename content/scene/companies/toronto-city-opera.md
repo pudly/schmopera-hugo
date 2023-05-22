@@ -15,6 +15,7 @@ social_media:
 title: Toronto City Opera
 type_of_company: Opera Company
 website: http://www.torontocityopera.com/
+cms_visible: true
 ---
 
 <p>

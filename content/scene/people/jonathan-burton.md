@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/jburtontenor
 title: Jonathan Burton
 website: http://jburtontenor.com/index.asp
+cms_visible: true
 ---
 
 American tenor Jonathan Burton has been praised for having “thrilling power and beauty” (Baltimore Sun) and for being “an engaging all-around singer with a powerful, full-bodied sound.” (Opera News) For his recent turn as Calaf in *Turandot*, (Opera News) proclaimed that he “produced a wonderfully shaded ‘Nessun Dorma’ that included brilliant top notes” and the (Herald Tribune) raved “a tenor who can add substantial flesh to Calaf as well as deliver the most famous aria of Italian grand opera to satisfaction is a rare find...Burton hit the jackpot with his delivery of ‘Nessun dorma’ that could stand confidently next to our worn recordings of Corelli, Domingo and Pavarotti.”  

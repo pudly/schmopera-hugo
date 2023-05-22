@@ -14,6 +14,7 @@ social_media:
   template: social-media
   url: https://twitter.com/SeanClarkTenor
 title: Sean Clark
+cms_visible: true
 ---
 
 Sean Clark is quickly becoming established as one of Canada’s most promising young tenors. A graduate of the Opera Diploma program at the University of Toronto, Sean holds an Undergraduate degree from Ithaca College and a Masters degree from Arizona State University.

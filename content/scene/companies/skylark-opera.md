@@ -23,6 +23,7 @@ social_media:
 title: Skylark Opera
 type_of_company: Opera Company
 website: http://www.skylarkopera.org/index.cfm
+cms_visible: true
 ---
 Skylark Opera Theatre is:
 

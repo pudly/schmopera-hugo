@@ -20,6 +20,7 @@ social_media:
   url: https://www.instagram.com/zacharynelson410/
 title: Zachary Nelson
 website: http://www.zacharynelsonbaritone.com/
+cms_visible: true
 ---
 Zachary Nelson, a native of Annapolis, Maryland, has been praised for his rich and powerful baritone, as well as his ability to embody dramatic and comic characters on the operatic stage.
 

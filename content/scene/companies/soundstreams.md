@@ -26,6 +26,7 @@ social_media:
 title: Soundstreams
 type_of_company: Music Centre
 website: http://www.soundstreams.ca/home
+cms_visible: true
 ---
 
 <p>

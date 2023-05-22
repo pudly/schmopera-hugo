@@ -14,6 +14,7 @@ related_companies:
 slug: sasha-cooke
 title: Sasha Cooke
 website: http://sashacooke.instantencore.com/web/home.aspx
+cms_visible: true
 ---
 
 Grammy  Award-winning mezzo-soprano  Sasha Cooke has  been  called  a  "luminous  standout"  (*New  York  Times*)  and "equal  parts  poise,  radiance  and  elegant  directness"  (*Opera  News*).   Ms.  Cooke  appears  frequently  this  season singing Mahler, whose works she has sung to great acclaim on four different continents. Sought after by the world’s leading orchestras, opera companies, and chamber music ensembles for her versatile repertoire and commitment to new music, Ms. Cooke's season continues to bring world premiere performances and unique artistic collaborations.  Ms. Cooke bookends her 2016-17 season with opera performances of Hänsel und Gretel at the Seattle Opera and a world-premiere by composer Mason Bates and librettist Mark Campbell titled *The (R)evolution of Steve Jobs* at The Santa Fe Opera.

@@ -15,6 +15,7 @@ social_media:
   template: social-media
   url: https://twitter.com/asten8r
 title: Asitha Tennekoon
+cms_visible: true
 ---
 Praised by _The Globe and Mail_ for “...his silky, emotional presence on stage – both vocally and dramatically...”, Sri Lankan tenor Asitha Tennekoon has established himself as one of Canada’s most versatile singing artists. He drew critical acclaim as Paul in Tapestry Opera/Scottish Opera’s _Rocking Horse Winner_, receiving the 2016 Dora Award for Best Male Performance. Sought after for performances spanning from Baroque to new commissions and experimental music, Asitha enjoys exploring the many ways opera and art music can make an impact on audiences today. This season, Asitha sings his first Remendado in Pacific Opera Victoria’s _Carmen_, followed by the role of Boy Angel in the Canadian Premiere of the 2017 Pulitzer Prize­winning opera _Angel’s Bone_ (Du Yun, Royce Vavrek), co­produced by re:Naissance Opera, Sound the Alarm Music/Theatre, Arraymusic, Loose Tea Music Theatre and Turning Point Ensemble. In 2023, Asitha debuts as Flute in Britten’s _A Midsummer Night’s Dream_ with Vancouver Opera, Jacques Lacombe conducting. 
 

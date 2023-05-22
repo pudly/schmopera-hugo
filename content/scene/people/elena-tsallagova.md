@@ -19,6 +19,7 @@ social_media:
   template: social-media
   url: https://twitter.com/tsallagovaelena?lang=en
 title: Elena Tsallagova
+cms_visible: true
 ---
 
 Elena Tsallagova was born in Vladikavkaz, southern Russia.  She was awarded a bursary to attend the famous Saint Petersburg Conservatory and went on to sing several roles at the Mariinsky Theatre (*Le Coq d’Or*, *Suor Angelica*).

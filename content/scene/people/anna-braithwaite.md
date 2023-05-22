@@ -22,6 +22,7 @@ social_media:
   url: https://www.instagram.com/annabraithwaitemusic/
 title: Anna Braithwaite
 website: http://www.annabraithwaite.co.uk/
+cms_visible: true
 ---
 A classically trained singer, cabaret artist and composer, Anna Braithwaite's work is distinctly theatrical in nature, thought- provoking, humourous and unexpected.
 

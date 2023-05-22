@@ -22,6 +22,7 @@ social_media:
 title: Confidential Opera Project
 type_of_company: Opera Company
 website: https://www.facebook.com/ConfidentialOperaProject/
+cms_visible: true
 ---
 
 The Confidential Opera Project aims to provide unbridled opportunities to opera performers around the world.

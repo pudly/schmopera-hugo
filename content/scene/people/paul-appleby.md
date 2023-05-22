@@ -23,6 +23,7 @@ social_media:
   url: https://www.youtube.com/channel/UCGXZ-llOubbd3dym1x03NBQ
 title: Paul Appleby
 website: http://paulapplebytenor.com/
+cms_visible: true
 ---
 
 Young American tenor Paul Appleby has already earned a strong reputation for his expressive acting, interpretative depth and versatility and has won great praise for performances of Stravinsky’s Tom Rakewell (*The Rake’s Progress*), Handel’s Jonathan (*Saul*), Brian in Nico Muhly’s *Two Boys* and Mozart’s Tamino (*Die Zauberflöte*) among others. A graduate of both The Juillard School and The Lindemann Program, Appleby has worked regularly alongside James Levine at The Metropolitan Opera, most recently as David (*Die Meistersinger von Nürnberg*) and in the current season for his debut as Belmonte (*Die Entführung aus dem Serail*).

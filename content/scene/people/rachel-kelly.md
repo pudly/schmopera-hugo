@@ -12,6 +12,7 @@ related_companies:
 - scene/companies/tapestry-opera.md
 slug: rachel-kelly
 title: Rachel Kelly
+cms_visible: true
 ---
 
 Irish mezzo-soprano Rachel Kelly is a recent graduate of the Royal Opera House Covent Garden’s Jette Parker Young Artist Programme where, over the last two seasons, she has attracted considerable attention for her portrayals on the main stage as Pisana (*I due Foscari*), Zaida (*Il turco in Italia*) and Mercédès (*Carmen*). Her performance as Mirinda in Kasper Holten's *L’Ormindo* conducted by Christian Curnyn (which marked the first ever collaboration between the Royal Opera House and Shakespeare’s Globe) was singled out for its “rich sensuality’ of voice” and “glowing warmth”. Her performance of the Cat in *El gato con botas* (*Puss in Boots*) at the Linbury Theatre was described by *The Telegraph* as “a special delight”, and she earned unanimous praise for her performance as Proserpina (*Orfeo*) at London’s Roundhouse.

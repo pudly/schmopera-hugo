@@ -20,6 +20,7 @@ social_media:
   url: https://m.facebook.com/profile.php?id=775391559183451
 title: Elza van den Heever
 website: http://www.elzavandenheever.com/
+cms_visible: true
 ---
 “Blessed with a plush, dramatic voice capable of formidable power and dazzling high notes …” (Associated Press)
 

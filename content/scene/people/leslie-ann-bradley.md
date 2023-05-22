@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/LeslieABradley
 title: Leslie Ann Bradley
 website: http://www.leslieannbradley.com/
+cms_visible: true
 ---
 
 <p>

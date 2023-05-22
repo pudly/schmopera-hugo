@@ -17,6 +17,7 @@ social_media:
   template: social-media
   url: https://twitter.com/crsoprano
 title: Courtney Ruckman
+cms_visible: true
 ---
 
 Praised for her "arresting vocalism" by the Spokesman Review, Entertainment News, NW says "you cannot help but fall in love with Courtney Ruckman...her voice quality was superb...her solos were magnificent." In upcoming engagements, she joins the Nashville Opera Young Artist Program as Frasquita (*Carmen*) and creates the role of Jessie (*Masquerade*) in the world premiere of Paterson's *Three Way*. She will reprise the role with American Opera Projects for its New York City premiere. 

@@ -9,6 +9,7 @@ publishDate: "2017-07-25T09:57:00-04:00"
 slug: bahareh-poureslami
 title: Bahareh Poureslami
 website: https://www.baharehpoureslami.com/
+cms_visible: true
 ---
 
 Described by The Boston Musical Intelligencer  as having a  "warm-toned and confident instrument…radiant demeanor, sure footedness and a light touch", Iranian-American soprano Bahareh Poureslami enjoys a burgeoning career across the opera stage and concert platform.

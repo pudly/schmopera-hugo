@@ -146,6 +146,7 @@ social_media:
 title: Lyric Opera of Chicago
 type_of_company: Opera Company
 website: http://www.lyricopera.org/
+cms_visible: true
 ---
 Lyric Opera of Chicago's mission is to express and promote the life-changing, transformational, revelatory power of great opera. Lyric exists to provide a broad, deep, and relevant cultural service to Chicago and the nation, and to advance the development of the art form.
 

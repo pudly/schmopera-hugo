@@ -43,6 +43,7 @@ social_media:
 title: 'COSI: Centre for Opera Studies in Italy'
 type_of_company: Opera Training Program
 website: http://www.co-si.com/
+cms_visible: true
 ---
 
 <p>

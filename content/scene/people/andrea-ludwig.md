@@ -15,6 +15,7 @@ related_companies:
 slug: andrea-ludwig
 title: Andrea Ludwig
 website: http://andrealudwig.ca/
+cms_visible: true
 ---
 Born and raised in Regina, Saskatchewan, Juno-nominated mezzo soprano Andrea Ludwig is an artist of tremendous depth, musicality and scope. Her charm, warmth and easy sense of humour are perfect for the stage and her vibrant musicality makes her a favourite to all her audiences. Her versatility and ability to interpret many styles are impeccable.
 

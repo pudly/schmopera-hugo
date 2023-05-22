@@ -20,6 +20,7 @@ social_media:
   template: social-media
   url: https://twitter.com/tobyspence
 title: Toby Spence
+cms_visible: true
 ---
 An honours graduate and choral scholar from New College, Oxford, Toby Spence studied at the Opera School of the Guildhall School of Music and Drama. He was the winner of the Royal Philharmonic Society 2011 Singer of the Year award.
 

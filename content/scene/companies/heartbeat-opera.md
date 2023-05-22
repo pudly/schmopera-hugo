@@ -26,6 +26,7 @@ social_media:
 title: Heartbeat Opera
 type_of_company: Opera Company
 website: http://www.heartbeatopera.org/
+cms_visible: true
 ---
 ## Mission 
 

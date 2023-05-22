@@ -18,6 +18,7 @@ social_media:
 title: Flipside Opera
 type_of_company: Opera Company
 website: https://www.flipsideopera.com/
+cms_visible: true
 ---
 Flipside Opera is a non-profit organization dedicated to the performance of opera in Manitoba - up close and personal. We aim to offer a new perspective on classical music, to captivate the modern audience, and to provide performance opportunities to Manitoban artists.
 

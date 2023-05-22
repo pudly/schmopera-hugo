@@ -12,6 +12,7 @@ slug: matthew-white
 social_media: []
 title: Matthew White
 website: ""
+cms_visible: true
 ---
 Tenor Matthew White recently made critically acclaimed debuts as Roméo in Gounod’s _Roméo et Juiliette_ with Cincinnati Opera and Pinkerton in Puccini’s _Madama Butterfly_ with the Princeton Festival.
 

@@ -24,6 +24,7 @@ social_media:
 title: Opera Carolina
 type_of_company: Opera Company
 website: http://www.operacarolina.org/
+cms_visible: true
 ---
 
 For sixty-eight years, Opera Carolina has served this region with excellence on our mainstage, in our schools, and throughout the community. Our commitment to enriching the lives of citizens from all walks of life is deeply rooted in the history of our company – and it’s a commitment we take seriously.

@@ -22,6 +22,7 @@ social_media:
   url: https://www.youtube.com/user/mpierard
 title: Madeleine Pierard
 website: http://www.madeleinepierard.com/
+cms_visible: true
 ---
 
 Lyric soprano Madeleine Pierard excels in adventurous repertoire, ranging from baroque and bel canto masterpieces to 20th century and contemporary compositions, and is noted for her outstanding vocal dexterity and electrifying stage presence. A native New Zealander, she studied at the Royal College of Music and the National Opera Studio, garnering numerous awards including the Lexus Song Quest, Lies Askonas and Royal Overseas League prizes, and was subsequently awarded a coveted place on the Jette Parker Young Artists Programme at The Royal Opera House, Covent Garden. She is a New Generation Artist with the Arts Foundation of New Zealand and studies with Yvonne Kenny.

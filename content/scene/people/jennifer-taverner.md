@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/tavernersoprano
 title: Jennifer Taverner
 website: http://www.jennifertaverner.com
+cms_visible: true
 ---
 
 <p>

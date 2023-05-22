@@ -103,6 +103,7 @@ social_media:
 title: Deutsche Oper Berlin
 type_of_company: Opera Company
 website: http://www.deutscheoperberlin.de/
+cms_visible: true
 ---
 
 

@@ -20,6 +20,7 @@ related_companies:
 - scene/companies/vancouver-opera.md
 slug: andrew-shore
 title: Andrew Shore
+cms_visible: true
 ---
 
 Andrew Shore is acknowledged as one of the most outstanding singer/actors currently working on the lyric stage. He has performed with all the major opera houses in the UK. Internationally, he has performed with the Metropolitan Opera New York, La Scala Milan, Paris Opera, San Diego Opera, Lyric Opera of Chicago, San Francisco Opera, the Liceu in Barcelona, Lyon, Nantes, Montpelier, Copenhagen, Amsterdam, Hamburg, Vancouver, Ottawa and Santa Fe Opera. Roles have included the title roles of *Falstaff*, *Wozzeck*, *King Priam*, *Gianni Schicchi*, *Le nozze di Figaro* and *Don Pasquale*, Papageno/*Die Zauberflöte*, Dr Bartolo/*Il barbiere di Siviglia*, Dulcamara/*L’Elisir d’Amore*, Dikoj/*Katya Kabanova*, Don Alfonso/*Cosi fan tutte*, Dr Kolonaty/*The Makropoulos Case*, Quince and Bottom/*A Midsummer Night’s Dream*, Alberich/*Der Ring des Nibelungen* (in a new production in Bayreuth), Frank (*Die Fledermaus*), Faber/*The Knot Garden*, and the world première of *Appomattox* by Philip Glass.

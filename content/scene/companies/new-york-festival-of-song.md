@@ -20,6 +20,7 @@ social_media:
 title: New York Festival of Song
 type_of_company: Recital series
 website: http://nyfos.org/
+cms_visible: true
 ---
 
 ### Our Vision

@@ -32,6 +32,7 @@ social_media:
   url: https://www.youtube.com/user/AngelJoyBlue
 title: Angel Blue
 website: http://www.angeljoyblue.com/
+cms_visible: true
 ---
 Angel Blue has emerged in recent seasons as one of the most important sopranos before the public today. On September 23, 2019 she opened the Metropolitan Opera's 2019-2020 season as Bess in a new production of George Gershwin's _Porgy and Bess_ for which she earned a Grammy Award in the Best Opera Recording category. She reprised this role at the Met in Fall 2021, which immediately followed her triumphant role debut as Destiny/Loneliness/Greta in the Met’s historic 2021-22 season opener of _Fire Shut Up In My Bones_, the first production at the Metropolitan Opera by a Black composer. Additionally, she became the first African-American to receive the Beverly Sills Award from the Metropolitan Opera in 2020, and is also a 2022 Richard Tucker Foundation Awardee. She has also been praised for performances in nearly every major opera house in the world, including Teatro alla Scala, Covent Garden, the Vienna State Opera, Semperoper Dresden, San Francisco Opera, Seattle Opera, Theater an der Wien, Oper Frankfurt, and San Diego Opera.
 

@@ -32,6 +32,7 @@ social_media:
   url: https://www.youtube.com/user/massiveqdawg/videos
 title: Morris Robinson
 website: http://morrisrobinson.com/
+cms_visible: true
 ---
 
 Morris Robinson is considered one the most interesting and sought after basses performing today.

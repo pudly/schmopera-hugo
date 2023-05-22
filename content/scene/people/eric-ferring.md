@@ -16,6 +16,7 @@ social_media:
   url: https://www.facebook.com/ericferringtenor
 title: Eric Ferring
 website: https://www.ericferring.com/
+cms_visible: true
 ---
 Tenor **Eric Ferring**, a native of Dubuque, Iowa, graduated magna cum laude from Drake University in 2014 with his Bachelor of Music in Vocal Performance and The Boston Conservatory in 2016 with his Master of Music in Opera Performance under the tutelage of Dr. Rebecca Folsom.
 

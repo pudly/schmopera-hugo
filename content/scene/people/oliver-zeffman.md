@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/MelosSinfonia
 title: Oliver Zeffman
 website: https://www.melossinfonia.co.uk/
+cms_visible: true
 ---
 
 Described by The Telegraph as “phenomenally promising”, the young British conductor Oliver Zeffman has recently graduated from the Royal Academy of Music and was the youngest of eight nominees for the Néstle-Salzburg Young Conductor’s Award in 2015.

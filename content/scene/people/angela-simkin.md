@@ -11,6 +11,7 @@ related_companies:
 slug: angela-simkin
 title: Angela Simkin
 website: http://www.angelasimkin.com/
+cms_visible: true
 ---
 
 Originally from Lincoln, Angela Simkin began her training at the Royal Northern College of Music under Thomas Schulze and studied with Tim Evans Jones at the Royal College of Music, where she was a member of the International Opera School and an Ian Evans Lombe Scholar.

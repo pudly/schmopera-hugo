@@ -20,6 +20,7 @@ social_media:
   url: https://instagram.com/kelseyvicary
 title: Kelsey Vicary
 website: http://www.kelseyvicary.com/
+cms_visible: true
 ---
 
 Niagara Falls-born Soprano Kelsey Vicary is a young performer praised for her unique vocal timbre, dramatic intensity, and “impressive musicality” (*Opera Canada*). She is quickly establishing herself with audiences at home and abroad as a powerful performer.  This season she debuts in concert with the Guelph Symphony Orchestra, with Essential Opera in Toronto, ON, and returns to the Windsor Symphony for Mozart’s *Coronation Mass* and for *Messiah* later in 2015.

@@ -25,6 +25,7 @@ social_media:
   url: https://www.instagram.com/teiyakasahara/
 title: Teiya Kasahara
 website: https://www.teiyakasahara.com/
+cms_visible: true
 ---
 Teiya Kasahara 笠原貞野 (they/them) is a multidisciplinary queer, gender non-conforming performer/creator, and first-generation Nikkei-Canadian of Japanese and German roots. They come from a background of over 12 years of singing operatic roles across North America and Europe and have recently begun a career in theatre creation and acting. Equally comfortable on the operatic, concert hall or cabaret stage, you can find them singing and making music with or without a microphone, sometimes even with a taiko drum or looping machine.
 

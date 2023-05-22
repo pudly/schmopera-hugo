@@ -21,6 +21,7 @@ social_media:
   url: https://www.instagram.com/bethsingsongs/
 title: Elizabeth Polese
 website: https://www.elizabethpolese.ca/
+cms_visible: true
 ---
 
 Praised as a "fresh and polished soprano", Elizabeth Polese is an up and coming artist in Canada's classical music scene. Recent performances have included Rosina in *The Barber of Seville* at Indian River Festival and Stratford Summer Music, Barbarina in *Le Nozze di Figaro* with Brott Opera, Fauré's *Requiem* and several recital appearances. This season, Elizabeth will complete a fellowship with the Rebanks Family Fellowship and International Performance Residency program with the Glenn Gould School at the Royal Conservatory of Music in Toronto. Visit the Schedule page to learn more about what's next.

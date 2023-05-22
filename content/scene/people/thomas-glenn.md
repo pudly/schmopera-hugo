@@ -20,6 +20,7 @@ social_media:
   url: https://www.facebook.com/Thomas-Glenn-193252760775193/
 title: Thomas Glenn
 website: http://www.thomas-glenn.com/
+cms_visible: true
 ---
 
 Grammy Award winning tenor, Thomas Glenn enjoys a favourable reputation as a creative interpreter of bel canto and Classical period repertoire as well as modern works.

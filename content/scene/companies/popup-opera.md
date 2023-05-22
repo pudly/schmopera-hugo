@@ -21,6 +21,7 @@ social_media:
 title: Pop-Up Opera
 type_of_company: Touring opera company
 website: http://popupopera.co.uk/
+cms_visible: true
 ---
 
 Pop-up Opera is an innovative touring opera company dedicated to making opera enjoyable and inviting, without losing the quality of musical performance. We aim to broaden the appeal of opera and to challenge the way opera is performed, by taking it into unusual spaces and making it fun, fresh and intimate.

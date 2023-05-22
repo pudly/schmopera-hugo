@@ -26,6 +26,7 @@ social_media:
 title: Jeunesses Musicales Canada
 type_of_company: Non-profit organization
 website: http://www.jmcanada.ca/en
+cms_visible: true
 ---
 
 A non-profit organization, Jeunesses Musicales Canada (JMC) has a dual mission: to promote the performance of classical music, especially for young audiences, and to help young professional instrumentalists, singers and composers to develop their careers at the national and international levels.

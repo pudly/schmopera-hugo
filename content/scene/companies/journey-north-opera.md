@@ -25,6 +25,7 @@ title: Journey North Opera
 type_of_company: Opera Company
 website: https://www.journeynorthopera.com/
 youtube_url: ""
+cms_visible: true
 ---
 Journey North Opera Company (JNOC) is an independent arts organization dedicated to evolving and modernizing the conventions of grand opera.
 

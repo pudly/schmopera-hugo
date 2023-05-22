@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/erikanstine
 title: Erik Anstine
 website: https://www.erikanstine.com/
+cms_visible: true
 ---
 
 Praised for the beauty of his voice and the vitality of his performances, American basso Erik Anstine is making a name for himself on opera and concert stages in North America and Europe. In the current season, Mr. Anstine sings Leporello in *Don Giovanni* with the Edmonton Opera. In June of 2017, Erik Anstine made his San Francisco Opera debut as Leporello in an all-star cast including Ildebrando D'Arcangelo in the title role, and Ana Maria Martinez as Donna Elvira. In 2016 he returned to the Salzburger Festspiele to perform both Antonio in *Le nozze di Figaro* and Oste/Sergente in Manon Lescaut, the latter being recorded by Deutsche Grammophon.

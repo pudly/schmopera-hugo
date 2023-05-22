@@ -24,6 +24,7 @@ social_media:
   url: https://www.instagram.com/patricia_ocallaghan/
 title: Patricia O&#039;Callaghan
 website: http://www.patricia-ocallaghan.com/index.html
+cms_visible: true
 ---
 
 Patricia O’Callaghan is something of a wandering minstrel. Her fifteen-year career has taken her across genres, continents, and a range of disciplines and passions.

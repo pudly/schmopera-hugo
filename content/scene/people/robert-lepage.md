@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/opra-national-de-paris.md
 slug: robert-lepage
 title: Robert Lepage
+cms_visible: true
 ---
 
 Director, designer, actor, dramatist, playwright, creator, born at Quebec City 12 Dec 1957; Diploma (Conservatoire de Musique et d'art dramatique de Québec [CMQ]) 1978, honorary PhD Arts (Laval) 1994, honorary PhD Lit (McGill) and honorary PhD Lit (Toronto) 1997, honorary LLD (Concordia) 1999.

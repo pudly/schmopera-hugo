@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/operaredhead
 title: Maureen Batt
 website: http://maureenbatt.com/
+cms_visible: true
 ---
 
 Noted by Opera Canada as a “young, lovely and captivating soprano, and by	the	Halifax	Herald	as	being “enthusiastically	at home on stage” and	having an “endlessly energetic and animated	interpretation,” Maureen Batt	

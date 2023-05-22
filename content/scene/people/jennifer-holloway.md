@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/jennhollowaaay
 title: Jennifer Holloway
 website: http://www.jenniferhollowaymezzo.com/jenniferhollowaymezzo.com/Home.html
+cms_visible: true
 ---
 
 <p>

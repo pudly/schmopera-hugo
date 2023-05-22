@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/zulylopez07
 title: Zulimar López-Hernández
 website: http://www.zulimarlopez.com/#!
+cms_visible: true
 ---
 
 Puerto Rican soprano Zulimar López-Hernández is celebrated for her lustrous timbre and charismatic portrayals of a wide range of roles.

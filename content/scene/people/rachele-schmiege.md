@@ -22,6 +22,7 @@ social_media:
   url: https://www.facebook.com/rachele.schmiege
 title: Rachele Schmiege
 website: https://www.racheleschmiege.com/
+cms_visible: true
 ---
 Soprano Rachele Schmiege, hailed for her “incredibly crystalline voice” and “absolutely thrilling” portrayals, performs a wide range of repertoire throughout North America. At home in both standard repertoire and new music, Ms. Schmiege consistently brings fine musicianship and a compelling dramatic presence to her work.
 

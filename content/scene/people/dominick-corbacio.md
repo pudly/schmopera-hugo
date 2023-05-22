@@ -16,6 +16,7 @@ social_media:
   url: https://www.linkedin.com/in/dominick-corbacio-a7468a100/
 title: Dominick Corbacio
 website: ""
+cms_visible: true
 ---
 Hailed as "Heartbreakingly intense", tenor Dominick Corbacio is a quickly emerging young artist with a rapidly growing repertoire spanning opera, oratorio, and art song.
 

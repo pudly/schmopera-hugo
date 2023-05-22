@@ -16,6 +16,7 @@ social_media:
   url: https://www.instagram.com/jamiegroote/
 title: Jamie Groote
 website: https://www.jamiegroote.com/
+cms_visible: true
 ---
 Praised for her rich sound and captivating finesse, soprano Jamie Groote is immensely dedicated to her artistry and is creating a reputation for herself as a young singer to watch. Regularly commended on and off the stage for her charismatic stage presence, immense palette of vocal colours, invariable work ethic and positive attitude, her reviews from the rehearsal room speak as loudly as those of her performances. Currently in her third year in the Canadian Opera Company Ensemble Studio, Jamie has had the great privilege of world class training and performance opportunities including numerous opportunities with the Canadian Opera Company Orchestra on the Four Seasons Centre for the Performing Arts stage in concert and in full mainstage roles.
 

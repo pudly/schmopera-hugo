@@ -59,6 +59,7 @@ social_media:
 title: Glimmerglass Festival
 type_of_company: Opera Festival
 website: http://glimmerglass.org/
+cms_visible: true
 ---
 
 <p>

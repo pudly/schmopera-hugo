@@ -21,6 +21,7 @@ social_media:
   url: https://www.instagram.com/gingervanni/
 title: Aaron Durand
 website: https://www.aarondurandbaritone.com/
+cms_visible: true
 ---
 
 Aaron began his journey in rural British Columbia intending to become a Broadway star, and really didn’t like opera. But when offered a chorus position for *Eugene* Onegin in Victoria, British Columbia, everything changed.

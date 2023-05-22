@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/music-academy-of-the-west-voice-program.md
 slug: marilyn-horne
 title: Marilyn Horne
+cms_visible: true
 ---
 
 She has been called the "Star Spangled Singer" and "the Heifetz of singers." In 2002, after a career in which for over four decades Marilyn Horne had dominated her field, Opera News said, “Marilyn Horne – whose face and song have been in the light – in so many places, in so many styles, through so many media, for so many years – may be the most influential singer in American history.”  

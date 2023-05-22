@@ -24,6 +24,7 @@ social_media:
 title: Eastman Opera Theatre
 type_of_company: Music School
 website: http://www.esm.rochester.edu/voice/eastman-opera-theatre/
+cms_visible: true
 ---
 
 Eastman Opera Theatre offers a comprehensive program of training and performance opportunities.  Many Eastman graduates, like distinguished alumni Renée Fleming, Anthony Dean Griffey, and Nicole Cabell, enter the operatic profession as a natural extension of this experience.

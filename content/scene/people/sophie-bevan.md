@@ -16,6 +16,7 @@ related_companies:
 - scene/companies/the-metropolitan-opera.md
 slug: sophie-bevan
 title: Sophie Bevan
+cms_visible: true
 ---
 
 The recipient of the Young Singer award at the inaugural 2013 International Opera Awards, Sophie Bevan is now at the forefront of the new generation of young British singers. 

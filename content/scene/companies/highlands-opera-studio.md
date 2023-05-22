@@ -39,6 +39,7 @@ social_media:
 title: Highlands Opera Studio
 type_of_company: Opera Training Program
 website: http://www.highlandsoperastudio.com/
+cms_visible: true
 ---
 
 <p>

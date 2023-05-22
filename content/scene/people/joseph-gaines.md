@@ -25,6 +25,7 @@ social_media:
   url: https://www.youtube.com/channel/UCKPgmZvqwS_GF6Z_jU-Ndtg
 title: Joseph Gaines
 website: http://josephgaines.com/
+cms_visible: true
 ---
 
 Joseph Gaines is a versatile artist who has attracted the attention of opera companies and orchestras and been recognized by audiences and critics for his beautifully sung, well-acted interpretations of character roles.

@@ -17,6 +17,7 @@ social_media:
   url: https://www.facebook.com/profile.php?id=100004315033855&fref=ts
 title: Aleš Briscein
 website: http://www.briscein.eu/
+cms_visible: true
 ---
 Plans of Czech tenor of Aleš Briscein for 2019 include the title role in a new production of Smetana’s _Dalibor_ in Frankfurt conducted by Stefan Soltesz, Paul in _Die tote Stadt_ at Komische Oper Berlin and Lenskij in _Eugene Oneguin_ with Komische Oper at the Edinburgh Festival.
 

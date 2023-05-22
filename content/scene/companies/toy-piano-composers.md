@@ -23,6 +23,7 @@ social_media:
 title: Toy Piano Composers
 type_of_company: Composer collective
 website: http://www.toypianocomposers.com/Toy_Piano_Composers/Home.html
+cms_visible: true
 ---
 
 The Toy Piano Composers is a collective of emerging composers based in Toronto, Canada, who present imaginative new music to curious listeners in a playful and engaging concert series.

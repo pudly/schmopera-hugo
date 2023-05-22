@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/maevehoglund
 title: Maeve Höglund
 website: http://maevehoglund.com/
+cms_visible: true
 ---
 
 The New York Times praised Maeve Höglund as “a striking soprano,” and one who “stands out among singers.” For her performance of *Carmina Burana* with Tuscan Symphony Orchestra, Green Valley News proclaimed that "Höglund possesses a crystalline range in both chest and head tones and the unerring ear required in this late-romantic/early modernist piece. She had no trouble staying atop the large orchestra and chorus with powerful and a pleasantly penetrating timbre." Her performance of the Princess in *Die Prinzessin auf der Erbse* with Gotham Chamber Opera was described as “portrayed with flair by the excellent soprano Maeve Höglund” while the Kurt Weill Newsletter observed “the hyper-fussy Princess (the stunning-voiced soprano Maeve Höglund) toss[ed] restlessly in bed....Höglund reaffirmed her status as the evening’s vocal stand-out after intermission, in the Hindemith.”

@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/VanHornCVH
 title: Christian van Horn
 website: http://www.christianvanhorn.com/
+cms_visible: true
 ---
 
 <p>

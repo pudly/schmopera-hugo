@@ -54,6 +54,7 @@ social_media:
 title: Merola Opera Program
 type_of_company: Opera Training Program
 website: http://merola.org/home
+cms_visible: true
 ---
 
 <p>

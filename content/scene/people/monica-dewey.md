@@ -15,6 +15,7 @@ social_media:
   url: https://www.instagram.com/schmons/
 title: Monica Dewey
 website: https://www.monicadewey.com/
+cms_visible: true
 ---
 Recognized for her endearing timbre and indelible warmth and beauty, Monica Dewey is a soprano from Atlanta, Georgia. She started her career with the Opera Theatre of Saint Louis in 2017 as Servilia in _La Clemenza di Tito_. Since then, she has made several notable house debuts, including the San Francisco Opera, Michigan Opera Theatre, and Oper Köln, while performing additional recitals at Opera America and the Kerrytown Concert House. 
 

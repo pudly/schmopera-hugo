@@ -12,6 +12,7 @@ related_companies:
 slug: abigail-freeman
 title: Abigail Freeman
 website: http://www.abigailfreeman.ca/abigailfreeman.ca/Home.html
+cms_visible: true
 ---
 
 Noted for her vocal agility and unique vocal colour, Canadian coloratura soprano, Abigail Freeman, is now establishing herself as a singer on the rise.

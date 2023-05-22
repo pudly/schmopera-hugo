@@ -55,6 +55,7 @@ social_media:
 title: Scottish Opera
 type_of_company: Opera Company
 website: http://www.scottishopera.org.uk/
+cms_visible: true
 ---
 
 <p>

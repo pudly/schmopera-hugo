@@ -9,6 +9,7 @@ related_companies:
 - scene/companies/opera-australia.md
 slug: lyndon-terracini
 title: Lyndon Terracini
+cms_visible: true
 ---
 
 <p>

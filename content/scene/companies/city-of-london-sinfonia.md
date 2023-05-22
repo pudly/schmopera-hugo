@@ -25,6 +25,7 @@ social_media:
 title: City of London Sinfonia
 type_of_company: Orchestra
 website: https://cityoflondonsinfonia.co.uk/
+cms_visible: true
 ---
 
 City of London Sinfonia (CLS) is the Orchestra that promises to surprise and move you. We involve people from all ages and backgrounds in life-enhancing music experiences to create an exciting and harmonious future together.

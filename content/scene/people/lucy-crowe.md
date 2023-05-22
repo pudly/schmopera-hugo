@@ -16,6 +16,7 @@ related_companies:
 - scene/companies/lyric-opera-of-chicago.md
 slug: lucy-crowe
 title: Lucy Crowe
+cms_visible: true
 ---
 
 <p>

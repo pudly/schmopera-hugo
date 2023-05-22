@@ -17,6 +17,7 @@ social_media:
   url: https://www.facebook.com/AlisaCassolaSoprano
 title: Alisa Cassola
 website: https://www.alisacassola.com/
+cms_visible: true
 ---
 During the 2017-2018 Season, Ms Cassola sang the Soprano Solo in _Carmina Burana_ by Carl Orff with the Nashua Choral Society during their Summer Sing. Ms Cassola also sang the soprano solo of Saint-Saen’s Christmas Oratorio with the Choral Art Society. In the spring of 2018, Ms Cassola sang the role of Molly and with the ensemble of Boston Lyric Opera in ThreePenny Opera. In March of 2018, Ms Cassola placed 3rd in MetroWest Opera’s annual competition.
 

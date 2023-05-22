@@ -18,6 +18,7 @@ social_media:
   url: https://www.youtube.com/user/annecatherinegillet
 title: Anne-Catherine Gillet
 website: http://www.annecatherinegillet.com/
+cms_visible: true
 ---
 Anne-Catherine Gillet was born in Belgium. At a very young age, she was being spotted by the direction of Opéra Royal de Wallonie, Liège who offered her a position amongst their resident singers, enabling her to take her earliest operatic roles.
 

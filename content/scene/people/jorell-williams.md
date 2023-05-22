@@ -27,6 +27,7 @@ social_media:
   url: https://www.linkedin.com/in/jorell-williams-307963b/
 title: Jorell Williams
 website: http://www.jorellmwilliams.com/
+cms_visible: true
 ---
 Jorell Williams has been hailed by Opera News as having “a solid vocal core and easy, natural production” and the New York Times for being “magnificent” and “rich toned”.
 

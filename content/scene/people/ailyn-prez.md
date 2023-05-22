@@ -25,6 +25,7 @@ social_media:
   url: https://twitter.com/AilynPerez1
 title: Ailyn Pérez
 website: http://ailynperez.com/
+cms_visible: true
 ---
 <p>
 	Hailed by the <i>New York Times</i> as "a beautiful woman who commands the stage" and "a major soprano," Ailyn Pérez is increasingly in demand at the world's leading opera houses and cultural capitals. She has won both the 15th annual Plácido Domingo Award and the 2012 Richard Tucker Award, thereby becoming the only Hispanic recipient in the award's 35-year history. As <i>Opera News</i> observes, "The phrase 'an embarrassment of riches' might have been invented to describe the combination of talents that belong to Ailyn Pérez…who truly seems to have it all."

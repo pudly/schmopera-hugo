@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/kateapplin
 title: Kate Applin
 website: http://www.metroyouthopera.ca/
+cms_visible: true
 ---
 
 Kate Applin is lauded for her passionate work in Toronto’s operatic community. In 2010, at age 23, Kate founded Metro Youth Opera, offering emerging artists in Toronto their first opportunities to perform complete roles and be compensated. In addition to her role as Artistic Director of MYOpera Kate has performed with the company as Despina in *Così fan tutte* (2011), Adina in *L’elisir d’amore* (2012), Serpina in *La serva padrona* (2013), and Gretel in *Hänsel & Gretel*.

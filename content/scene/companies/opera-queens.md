@@ -22,6 +22,7 @@ social_media:
 title: Opéra Queens
 type_of_company: Opera Company
 website: https://www.operaqueens.ca/
+cms_visible: true
 ---
 Founded in Fall 2020 by Artistic Director [Mike Fan](https://www.mikezfan.com/) aka drag diva [Tanya Smania](https://www.instagram.com/tanyasmania/), Opéra Queens presents classical vocal music in drag, gender-bent, and queerified, prioritizing IBPOC artists. Based in Montréal and Toronto, new commissions include _When Daylight Rises_ and re-imagined overtures to _Samson et Dalila_ and _Adriana Lecouvreur_ by Morgan-Paige Melbourne. Other projects included the live-streamed Chez Pauline Viardot recital; live and filmed productions of Drama Queens featuring opera scenes of history, myth, and legend; as well as Latin Night on LatinX and HispanX identity, centred on the Canadian première of _these wings are meant to fly_ (Sérpa & Kline), an opera on the Pulse Orlando tragedy.
 

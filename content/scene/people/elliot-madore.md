@@ -27,6 +27,7 @@ social_media:
   url: https://twitter.com/elliotmadore
 title: Elliot Madore
 website: https://elliotmadore.com/
+cms_visible: true
 ---
 Canadian baritone Elliot Madore has been praised for his “movie star quality” (Merkur) and “exceptional” artistry (New York Times).
 

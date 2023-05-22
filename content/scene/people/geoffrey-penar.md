@@ -16,6 +16,7 @@ social_media:
   url: https://www.facebook.com/gpenar
 title: Geoffrey Penar
 website: http://geoffreypenar.com/
+cms_visible: true
 ---
 
 Geoffrey Penar is a young and versatile classical voice artist with a rich and mature vocal quality. Equally comfortable in a recital setting or performing on stage in a Grand Opera production and adept with comedic and dramatic roles, his vocal talents are enhanced by a phenomenal stage presence.

@@ -11,6 +11,7 @@ related_companies:
 slug: johannes-kammler
 title: Johannes Kammler
 website: https://www.johanneskammler.com/startseite
+cms_visible: true
 ---
 The German baritone Johannes Kammler is already in demand internationally at renowned addresses and is equally committed to opera, song and concerts.
 

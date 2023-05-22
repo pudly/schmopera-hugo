@@ -24,6 +24,7 @@ social_media:
   url: https://www.youtube.com/channel/UC4bwhBI3n_9DfvnxlASdBFA
 title: Sherrill Milnes
 website: http://sherrillmilnes.com/
+cms_visible: true
 ---
 
 #### Legendary artist, teacher, producer

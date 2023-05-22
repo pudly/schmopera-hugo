@@ -17,6 +17,7 @@ related_companies:
 - scene/companies/arizona-opera.md
 slug: lyne-fortin
 title: Lyne Fortin
+cms_visible: true
 ---
 
 Lyne Fortin is one of Canada's leading sopranos, with appearances with L'Opera de Montreal in the title roles of *Agrippina*, *Thais*, *La Traviata* and *Romeo et Juliette*, Elvira in *Don Giovanni*, Mimi in *La Boheme*, Antonia in *Les Contes d'Hoffmann*, Leila in *Les Pecheurs des Perles*, Countess in *Le Nozze di Figaro*, Olga in *Fedora*, Gilda in *Rigoletto*, and Micaela in *Carmen*, Vancouver Opera as Mimi, Leila and Micaela, Opera Saskatchewan, Calgary Opera and Edmonton Opera as Violetta in *La Traviata*, Opera de Quebec as Donna Anna in *Don Giovanni*, the Countess in *Le Nozze di Figaro*, Gilda in *Rigoletto*, Mimi, Fiordiligi in *Cosi fan tutte*, Susanna in *Le Nozze di Figaro*, Rosalinda in *Die Fledermaus*, Pamina in *Die Zauberflöte*, Hanna Glawari in *The Merry Widow*, and Cio-Cio-San in *Madama Butterfly*, and Opera Hamilton and Edmonton Opera as Zerlina in *Don Giovanni*, Calgary Opera as *Donna Anna*, Edmonton Opera as Violetta and for all three heroines in *Les Contes d'Hoffmann*, and Opera Hamilton as Violetta, Leila Elvira, and *La Voix Humaine*.

@@ -20,6 +20,7 @@ social_media:
   template: social-media
   url: ""
 title: Julia Jones
+cms_visible: true
 ---
 
 "Julia Jones's attention to the emotional detail of Verdi's score achieved a searing intensity."  -*The Guardian* 

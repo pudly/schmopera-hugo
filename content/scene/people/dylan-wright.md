@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/jeunesses-musicales-canada.md
 slug: dylan-wright
 title: Dylan Wright
+cms_visible: true
 ---
 
 Praised for “seducing the audience with his rich, sonorous voice” (Beat Magazine), Dylan sang the title role in Don Pasquale (Jeunesses Musicales du Canada), the Officer in *Il barbiere di Siviglia* (Opéra de Montréal Debut), the bass soloist in Handel’s *Messiah* (Orchestre symphonique de l’Estuaire du Saint-Laurent), Seneca in *L’incoronazione di Poppea* (Centre for Opera Studies in Italy), and Superintendent Budd in *Albert Herring* (University of Toronto). In 2015-2016, Dylan performs the roles of the Imperial Commissioner in *Madama Butterfly* (Opéra de Montréal), Frère Laurent and Capulet in *Roméo et Juliette* (Jeunesses Musicales du Canada) and Dulcamara in *L’elisir d’amore* (Lanaudière Sinfonia). He will be a soloist in the Concert-causerie Poètes et musiciens (Atelier lyrique).

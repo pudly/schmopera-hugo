@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/BorisBrott
 title: Boris Brott
 website: http://borisbrott.com/default.html
+cms_visible: true
 ---
 
 <p>

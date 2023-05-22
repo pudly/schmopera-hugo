@@ -20,6 +20,7 @@ social_media:
   template: social-media
   url: https://twitter.com/KellyKaduce
 title: Kelly Kaduce
+cms_visible: true
 ---
 
 <p>

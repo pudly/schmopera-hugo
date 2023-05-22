@@ -93,6 +93,7 @@ social_media:
 title: Houston Grand Opera
 type_of_company: Opera Company
 website: https://www.houstongrandopera.org/
+cms_visible: true
 ---
 Houston Grand Opera (HGO) is one of the largest, most innovative, and most highly acclaimed opera companies in the United States. HGO was the only American finalist for Opera Company of the Year at the 2017 International Opera Awards.
 

@@ -20,6 +20,7 @@ social_media:
   url: https://www.youtube.com/channel/UCDYp6HTKPmQtePgqAAEx0cA
 title: Pumeza Matshikiza
 website: http://pumezamatshikiza.com/
+cms_visible: true
 ---
 Described as "one of today's most exciting new operatic voices" (_Independent_), South African soprano Pumeza Matshikiza is one of today’s rising opera stars. Being an exclusive Decca Classics recording artist, her debut album “Voice of Hope” was released in 2014, featuring arias and traditional and popular African songs. Her second album “Arias” was released in May 2016.
 

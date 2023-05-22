@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/maloriecasimir
 title: Malorie Casimir
 website: https://www.maloriecasimir.com/
+cms_visible: true
 ---
 
 Malorie Casimir was a Region Finalist in the 2018 Metropolitan Opera National Council Auditions in the eastern region. She was recently seen at the Aspen Music Festival where she sang in opera scenes and as the soloist in George Crumb’s *The Winds of Destiny* with the Aspen Percussion Ensemble under the direction of Jonathan Haas. Recent performances also include Despina in Mannes Opera’s production of *Cosi fan tutte*, and the New York premiere of Ricky Ian Gordon’s chamber opera, *A Coffin in Egypt* alongside internationally renowned mezzo-soprano, Frederica von Stade. Upcoming performances include the role of Marzelline in Heartbeat Opera’s production of *Fidelio*.

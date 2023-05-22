@@ -18,6 +18,7 @@ social_media:
   url: https://www.instagram.com/charlottehellekant/
 title: Charlotte Hellekant
 website: ""
+cms_visible: true
 ---
 A vocally expressive and compelling stage performer with a repertoire ranging from the baroque to contemporary classics, Charlotte Hellekant is one of Scandinavia's leading mezzo-sopranos with a career which is equally successful on both the opera stage and concert platform. She has inspired some of the world’s leading composers to write especially for her. This includes Toshio Hosokawa who created the role of Murasame for her in his acclaimed _Matsukaze_. Subsequently, Hosokawa wrote his monodrama _The Raven_ for her, which she premiered in concert performances with Ensemble Lucilin in Brussels, Amsterdam and Japan. Hellekant also received particular acclaim for her _tour de force_ performance as Sweden’s schizophrenic King Erik XIV - a role also created for her - in Mikko Heiniö’s eponymous opera and most recently she premiered a new work by Stefano Gervasoni, _In die Luft geschrieben_, with Münchner Kammerorchester.
 

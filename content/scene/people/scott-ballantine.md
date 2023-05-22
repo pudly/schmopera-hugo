@@ -19,6 +19,7 @@ social_media:
   url: https://www.instagram.com/sbbaritone/
 title: Scott Ballantine
 website: https://www.scottballantine.com/
+cms_visible: true
 ---
 Baritone, Scott Ballantine, maintains a busy performing schedule year-round in New England and across the United States. He has worked with companies such as Utah Festival Opera and Musical Theatre, Boston Lyric Opera, Connecticut Lyric Opera, MassOpera, Opera Steamboat, Odyssey Opera and the Janiec Opera Company. A recent young artist with the Janiec Opera Company in Brevard, NC, Ballantine had his role debut as Sharpless in _Madama Butterfly_, covered the role of Maximillian in _Candide_, and was a Street Singer Soloist in Bernstein’s _Massunder_ the baton of Maestro Keith Lockhart. Following his performances in North Carolina, Ballantine joined the Southern Vermont Lyric Theatre as Baron in _La Traviata_.
 

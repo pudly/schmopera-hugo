@@ -18,6 +18,7 @@ social_media:
   url: https://www.instagram.com/julianpregardien/
 title: Julian Prégardien
 website: https://www.julianpregardien.de/
+cms_visible: true
 ---
 Julian Prégardien was born in Frankfurt and received his earliest music training in the choirs of Limburg Cathedral. After studying in Freiburg and joining the academy of the Aix-en-Provence opera festival, he was a member of the Frankfurt Opera ensemble from 2009 to 2013. At the same time, he developed an international career as a concert performer. Today, the tenor is an outstanding representative of the younger generation of singers.
 

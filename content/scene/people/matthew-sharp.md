@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/mattdjsharp
 title: Matthew Sharp
 website: http://www.matthewsharp.net/
+cms_visible: true
 ---
 
 - "Extraordinary cellist, virile baritone, compelling actor - Matthew Sharp's astonishingly comprehensive versatility." (*The Daily Telegraph*)

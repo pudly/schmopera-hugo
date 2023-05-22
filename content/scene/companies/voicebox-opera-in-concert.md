@@ -39,6 +39,7 @@ social_media:
 title: 'VOICEBOX: Opera in Concert'
 type_of_company: Opera Company
 website: http://www.operainconcert.com/
+cms_visible: true
 ---
 
 <p>

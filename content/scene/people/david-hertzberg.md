@@ -17,6 +17,7 @@ social_media:
   url: https://www.instagram.com/davidfarbenhertzberg/
 title: David Hertzberg
 website: http://www.davidhertzbergmusic.com/
+cms_visible: true
 ---
 
 Hailed as “opulently gifted” by Opera News and “utterly original” by *The New York Times*, the music of David Hertzberg (b. 1990, Los Angeles) is swiftly garnering recognition. 

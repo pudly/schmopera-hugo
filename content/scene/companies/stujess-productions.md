@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/stuandjess
 title: Stu&amp;Jess Productions
 type_of_company: Opera Company
+cms_visible: true
 ---
 
 Stu&Jess are conductor Stuart Martin and director Jessica Derventzis. A bowl of cereal brought them together, and has kept them friends and partners since.

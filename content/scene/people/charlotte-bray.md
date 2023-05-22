@@ -22,6 +22,7 @@ social_media:
   url: https://soundcloud.com/charlottebray
 title: Charlotte Bray
 website: http://charlottebray.co.uk/
+cms_visible: true
 ---
 
 The composer Charlotte Bray has emerged as a distinctive and outstanding talent of her generation. Exhibiting uninhibited ambition and desire to communicate, her music is exhilarating, inherently vivid, and richly expressive with lyrical intensity. Charlotte studied under Mark Anthony Turnage at the Royal College of Music and previously under Joe Cutler at the Birmingham Conservatoire. She participated in the Britten-Pears Contemporary Composition Course with Oliver Knussen, Colin Matthews and Magnus Lindberg, and at the Tanglewood Music Centre with John Harbison, Michael Gandolfi, Shulamit Ran and Augusta Read-Thomas.

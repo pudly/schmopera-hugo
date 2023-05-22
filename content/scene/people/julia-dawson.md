@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/jsldawson
 title: Julia Dawson
 website: http://www.juliadawsonmezzo.com/
+cms_visible: true
 ---
 Hailed by Opera News as “radiant and riveting” and the New York Times as “beautiful in face and voice”, Canadian coloratura mezzo Julia Dawson is a winner of the George London Award and the Anny-Schlemm Preis and began her career at Oper Frankfurt as a member of the solo ensemble where she sang Angelina in “La cenerentola” and Goffredo in a new production of “Rinaldo” by Ted Huffman. Upcoming engagements include a return to Oper Frankfurt, debuts with the Toronto Symphony Orchestra and the French Radio Symphony under the baton of Barbara Hannigan, as well as a role debut at the Festival Gut Immling in Bavaria. 
 

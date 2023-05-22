@@ -11,6 +11,7 @@ related_companies:
 slug: karina-gauvin
 title: Karina Gauvin
 website: http://karinagauvin.com/
+cms_visible: true
 ---
 
 Recognized for her work in the baroque repertoire, Canadian soprano Karina Gauvin sings Bach, Mahler, Britten and the music of the 20th and 21st centuries with equal success. The prestigious distinctions she has received include the title of “Soloist of the Year” awarded by the Communauté internationale des radios publiques de langue française, first prize in the CBC Radio competition for young performers, and the Virginia Parker Prize and Maggie Teyte Memorial Prize in London.

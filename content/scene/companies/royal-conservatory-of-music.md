@@ -23,6 +23,7 @@ social_media:
 title: Royal Conservatory of Music
 type_of_company: Conservatory
 website: http://www.rcmusic.ca/
+cms_visible: true
 ---
 
 <p>

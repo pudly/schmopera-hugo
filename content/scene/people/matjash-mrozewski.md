@@ -15,6 +15,7 @@ social_media:
   url: https://www.instagram.com/matjashmrozewski/
 title: Matjash Mrozewski
 website: https://www.matjash.com/
+cms_visible: true
 ---
 
 Matjash Mrozewski is a Toronto-based choreographer and director with an international career.

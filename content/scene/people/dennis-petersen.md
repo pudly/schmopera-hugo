@@ -16,6 +16,7 @@ related_companies:
 slug: dennis-petersen
 title: Dennis Petersen
 website: http://dpetersen.easywebcontent.com/
+cms_visible: true
 ---
 
 Hailed by The Chicago Tribune as a "Wonderfully natural singing actor," through his innate sense of style, command of languages, and superior acting abilities, tenor Dennis Petersen is sought after for a variety of operatic roles. More recently he is being noted for his foray into some of the most eminent dramatic tenor roles in the repertoire, such as Tristan in *Tristan und Isolde*, Florestan in *Fidelio*, the Captain in *Wozzeck*, Aegisth in *Elektra*, Canio in *Pagliacci*, and the title role in *Peter Grimes*.

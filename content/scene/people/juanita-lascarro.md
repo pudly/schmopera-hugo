@@ -18,6 +18,7 @@ related_companies:
 slug: juanita-lascarro
 title: Juanita Lascarro
 website: http://www.juanita-lascarro.de/e_index.htm
+cms_visible: true
 ---
 
 Colombian born Juanita Lascarro began her studies in biology in Bogotá, before moving to Cologne to pursue her singing career at the Cologne Musikhochschule and the Opera Studio of the Cologne Opera. 

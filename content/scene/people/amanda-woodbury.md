@@ -15,6 +15,7 @@ social_media:
   url: https://www.facebook.com/amandaliciouswoodbury/
 title: Amanda Woodbury
 website: http://www.amandawoodbury.com/
+cms_visible: true
 ---
 
 Soprano Amanda Woodbury is an alumna of the Domingo-Colburn-Stein Young Artist Program.

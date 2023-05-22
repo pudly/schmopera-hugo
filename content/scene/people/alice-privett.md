@@ -10,6 +10,7 @@ related_companies:
 slug: alice-privett
 title: Alice Privett
 website: http://www.aliceprivett.com/
+cms_visible: true
 ---
 
 British born soprano Alice Privett has performed with professional opera companies from a young age, singing roles such as the page boy Rigoletto (Bermuda Festival Opera) and Second boy *Magic Flute* (Longborough Festival Opera). After studying singing at Chetham's School of Music for sixth form, she studied for her undergraduate degree at the Guildhall School of Music and Drama and graduated in 2011 with a First Class Honours degree and the Concert Recital Diploma.

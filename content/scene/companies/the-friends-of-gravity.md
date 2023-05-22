@@ -15,6 +15,7 @@ social_media:
 title: The Friends of Gravity
 type_of_company: Music theatre company
 website: http://thefriendsofgravity.org/
+cms_visible: true
 ---
 
 Friends of Gravity: Big themes on a small scale!

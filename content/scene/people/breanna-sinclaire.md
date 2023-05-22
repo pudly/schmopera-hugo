@@ -11,6 +11,7 @@ social_media:
   template: social-media
   url: https://twitter.com/bronzequeen2911
 title: Breanna Sinclairé
+cms_visible: true
 ---
 
 Breanna Sinclaire is a native of Baltimore, Maryland, and a graduate of the esteemed Baltimore School for the Arts. She earned her B.F.A. at the Herb Alpert School of Music at California Institute of the Arts in Valencia, California, under the tutelages of Maria Fortuna Dean and former Cirque du Soleil star Kate Conklin.

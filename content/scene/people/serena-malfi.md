@@ -26,6 +26,7 @@ social_media:
   url: https://www.youtube.com/user/malfiserena
 title: Serena Malfi
 website: http://www.serenamalfi.com/
+cms_visible: true
 ---
 
 Italian mezzo-soprano Serena Malfi studied at the Conservatorio and Accademia di Santa Cecilia in Rome making her debut in Salieri’s La Grotta di Trofonio at the Winterthur Festival in 2009.

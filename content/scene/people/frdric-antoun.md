@@ -15,6 +15,7 @@ related_companies:
 - scene/companies/the-metropolitan-opera.md
 slug: frdric-antoun
 title: Frédéric Antoun
+cms_visible: true
 ---
 
 A native of Quebec, Frédéric Antoun studied singing at the prestigious Curtis Institute of Music, Philadelphia.

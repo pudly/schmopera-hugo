@@ -27,6 +27,7 @@ social_media:
   url: https://twitter.com/LutherTenor
 title: Adam Luther
 website: http://www.adamluthertenor.com/
+cms_visible: true
 ---
 **Adam Luther**is one of Canada’s most exciting tenors, with a repertoire ranging from Janacek to Mozart to Puccini. Returning to Canada after a year in Berlin, his upcoming and recent engagements include Luigi in _Il Tabarro_ in and Graf Tassilo in _Gräfin Mariza_ for Pacific Opera Victoria, Roméo in Gounod’s _Roméo et Juliette_ for Calgary Opera, an Opera Gala for the Niagara Symphony and a New Year’s Gala for Victoria Symphony. Projects for the Winnipeg Symphony, a Netherlands tour, the Canadian Opera Company and Orchestre classique de Montréal have been postponed or cancelled due to the effects of the global pandemic.
 

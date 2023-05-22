@@ -21,6 +21,7 @@ social_media:
   url: https://www.instagram.com/artistalove/
 title: Simona Genga
 website: http://www.simonarosegenga.com/
+cms_visible: true
 ---
 
 Mezzo soprano Simona Genga, who is at once "compelling and technically confident" (*Opera Canada*) and "formidable" (*Saint Louis Dispatch*) is a recent graduate of the Opera School at the University of Toronto under the tutelage of Wendy Nielsen. 

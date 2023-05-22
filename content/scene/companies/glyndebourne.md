@@ -137,6 +137,7 @@ social_media:
 title: Glyndebourne
 type_of_company: Opera House & Festival
 website: http://www.glyndebourne.com/
+cms_visible: true
 ---
 
 <p>

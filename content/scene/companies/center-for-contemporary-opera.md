@@ -15,6 +15,7 @@ social_media:
 title: Center for Contemporary Opera
 type_of_company: Opera Company
 website: http://centerforcontemporaryopera.org/
+cms_visible: true
 ---
 ### About CCO
 

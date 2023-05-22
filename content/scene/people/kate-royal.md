@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/the-metropolitan-opera.md
 slug: kate-royal
 title: Kate Royal
+cms_visible: true
 ---
 
 Born in London, Kate Royal studied at the Guildhall School of Music and Drama and the National Opera Studio. Awards include the 2004 Kathleen Ferrier Award, the 2004 John Christie Award, and the 2007 Royal Philharmonic Society Young Artist Award.

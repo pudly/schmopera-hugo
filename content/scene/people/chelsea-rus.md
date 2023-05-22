@@ -12,6 +12,7 @@ related_companies:
 slug: chelsea-rus
 title: Chelsea Rus
 website: http://www.chelsearussoprano.ca/home.html
+cms_visible: true
 ---
 
 "The Lyric summit belonged to soprano Chelsea Rus as Lauretta. O Mio Babbino caro soared without losing its youthful spirit (and infectious six-eight metre.)" - *The Gazette*.

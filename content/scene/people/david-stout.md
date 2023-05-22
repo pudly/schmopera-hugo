@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/stoutbaritone
 title: David Stout
 website: ""
+cms_visible: true
 ---
 David Stout has rapidly established himself as one of the UK’s most versatile baritones. His repertoire ranges widely, encompassing early music with period instruments, Mozart, Verdi, Puccini, Britten, the bel canto repertoire and contemporary and twentieth-century works. He has earned a formidable reputation for his stage charisma, refined acting and presence on stage, as well as for being a great colleague whom other singers, conductors and directors are keen to work with again and again.
 

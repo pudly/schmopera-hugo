@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/teatro-alla-scala.md
 slug: malin-byström
 title: Malin Byström
+cms_visible: true
 ---
 The Swedish soprano Malin Byström is currently at De National Opera in Amsterdam where she will sing her first *Salome* under the baton of Mo Daniele Gatti with the Royal Concertgebouw Orchestra. Malin began the season at the Metropolitan Opera with the role of Donna Elvira, followed by apperances as Donna Anna, in *Don Giovanni*. Last season she sang her first Marschallin in *Der Rosenkavalier* at the Royal Swedish Opera in Stockholm. She also appeared on the same stage as Donna Elvira. Malin Byström made her San Francisco Opera debut last summer with the title role of *Jenůfa*, a role she returned to this spring in Stockholm.
 

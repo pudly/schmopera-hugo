@@ -11,6 +11,7 @@ related_companies:
 slug: anja-petersen
 title: Anja Petersen
 website: http://anjapetersen.com/
+cms_visible: true
 ---
 
 The soprano Anja Petersen initially completed studies in violin and music education in Stuttgart before devoting herself entirely to singing, finishing her education in the soloist class with highest marks. While

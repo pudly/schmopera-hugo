@@ -28,6 +28,7 @@ social_media:
   url: https://www.youtube.com/user/Sundoves
 title: Nancy Fabiola Herrera
 website: http://www.nancyfabiolaherrera.com/en
+cms_visible: true
 ---
 Spanish Mezzosoprano Nancy Fabiola Herrera entrances audiences and critics around the world. She stands out for the "beauty of her voice her outstanding musicality and commanding stage presence",  making the Spanish mezzo one of the most relevant artists of the opera scene today. Her "hypnotizing interpretation" of **Carmen** has made the specialized press called her **"The Carmen of the XXI Century".**
 

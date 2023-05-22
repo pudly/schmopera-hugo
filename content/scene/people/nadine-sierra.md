@@ -30,6 +30,7 @@ social_media:
   url: https://twitter.com/nadinecsierra
 title: Nadine Sierra
 website: http://nadinesierra.com/
+cms_visible: true
 ---
 "Her voice with its pure, incisive and delicate timbre radiates tenderness in the middle register, while she floats her golden high register to the limits of audibility." _– Le Monde_
 

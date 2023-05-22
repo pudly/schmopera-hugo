@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/liederwolfe
 title: Liederwölfe Opera Collective
 type_of_company: Opera Collective
+cms_visible: true
 ---
 
 Founded in Montreal in 2005, Liederwölfe led the movement to perform operas in bars. Recently relocated to Toronto, they are working on their next project, Opera Peep Show, winner of the LEANARTS program in the winter of 2015. Co-founders: [Francesca Perez](/scene/people/francesca-perez/) and [Lindsay Michael](/scene/people/linsday-michael/).

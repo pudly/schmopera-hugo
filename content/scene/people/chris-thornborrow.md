@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/CThornborrow
 title: Chris Thornborrow
 website: http://www.christhornborrow.com/Chris_Thornborrow/Home.html
+cms_visible: true
 ---
 
 Chris Thornborrow is a Toronto based composer of chamber music, opera, and film scores. His music has been described as, "complex and clear, with subtle playfulness," and he has received a number of awards for his work. In 2013, he was the recipient of the Karen Kieser Prize in Canadian Music for *Walking*, a piece based on the life and creativity of Canadian animator Ryan Larkin. In the same year he received two multiple Socan Awards for Young Audio-Visual Composers as well as the 2013 Toronto Emerging Composers Award Honourable Mention.

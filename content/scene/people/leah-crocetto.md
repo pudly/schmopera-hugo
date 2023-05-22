@@ -21,6 +21,7 @@ social_media:
   template: social-media
   url: https://twitter.com/LeahCrocetto
 title: Leah Crocetto
+cms_visible: true
 ---
 
 Recognized as a rising star in the next generation of singers, Leah Crocetto represented the United States at the 2011 Cardiff BBC Singer of the World Competition where she was a finalist in the Song Competition. She is a 2010 Grand Finals Winner of the Metropolitan Opera National Council Auditions and was the First Place Winner, People’s Choice and the Spanish Prize Winner of the 2009 José Iturbi International Music Competition, and winner of the Bel Canto Foundation competition. A former Adler fellow at San Francisco Opera, Ms. Crocetto has appeared frequently with the company, most recently in the role of Mimì in *La bohème*. 

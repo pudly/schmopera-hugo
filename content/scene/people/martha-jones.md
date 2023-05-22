@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/marthajmezzo
 title: Martha Jones
 website: http://marthajonesmezzo.co.uk/Martha/Home.html
+cms_visible: true
 ---
 
 Martha studied at Durham University and the Royal College of Music International Opera School.  Whilst at the RCM she was awarded the Susan Chilcott Scholarship by the Royal Philharmonic Society.  She was also supported in her studies by the Baroness de Turckheim award, an MBF award, the Marjorie and Dorothy Whyte Memorial Award, Sophie’s Silver Lining Fund and the Josephine Baker Trust.   

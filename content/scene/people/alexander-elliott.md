@@ -14,6 +14,7 @@ related_companies:
 slug: alexander-elliott
 title: Alexander Elliott
 website: http://www.alexanderelliottbaritone.com/
+cms_visible: true
 ---
 
 Baritone Alexander Elliott continues to garner praise for his “rich and flexible baritone, ranging from mellow smoothness to electric energy.” (New York Observer) Alexander’s 2018-19 season begins with his return to Opera Omaha for his role debut as Silvio in *Pagliacci*. Alexander joins the roster of The Metropolitan Opera for the first time in November covering the role of Zurga in Penny Woolcock’s production of *Les Pêcheurs de Perles*, conducted by Emmanuel Villaume. He makes his debut with Virginia Opera in February reprising the role of Belcore in *L’elisir d’amore* before returning to Portland Opera as Hannah Before in Laura Kaminsky’s *As One*. He returns to the Indianapolis Symphony in June for performances of Bruckner’s *Te Deum*. 

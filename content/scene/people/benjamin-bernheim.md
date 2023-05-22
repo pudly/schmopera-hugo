@@ -30,6 +30,7 @@ social_media:
   url: https://www.youtube.com/results?sp=CAI%253D&q=benjamin+bernheim
 title: Benjamin Bernheim
 website: http://benjaminbernheim.com/
+cms_visible: true
 ---
 
 French tenor Benjamin Bernheim has quickly emerged as an artist to watch, and has been heralded as “a revelation” with a distinctive voice that is “flawless and pure, ranging from delicate pianissimo to heroic fortissimo as required” (Opera News). Following his success as a member of the ensemble and as a resident artist at the Opernhaus Zürich, Mr. Bernheim is now featured in impressive debuts at renowned venues throughout Europe.

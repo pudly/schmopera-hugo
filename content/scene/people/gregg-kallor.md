@@ -21,6 +21,7 @@ social_media:
   url: https://www.youtube.com/user/greggkallor
 title: Gregg Kallor
 website: http://greggkallor.com/site/
+cms_visible: true
 ---
 
 Gregg Kallor is a composer and pianist whose music fuses the classical and jazz traditions he loves into a new, deeply personal language. The New York Times writes: "At home in both jazz and classical forms, [Kallor] writes music of unaffected emotional directness. Leavened with flashes of oddball humor, his works succeed in drawing in the listener - not as consumer or worshipful celebrant, but in a spirit of easygoing camaraderie."

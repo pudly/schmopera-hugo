@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/OperaPickle
 title: John Pickle
 website: https://www.johnpickletenor.com/
+cms_visible: true
 ---
 
 Tenor John Pickle quickly has established himself as a strong tenor, most recently for his portrayals of Erik in *Der fliegende Holländer*, a role he débuted with Los Angeles Opera. Of a performance as the jilted hunter with Lyric Opera of Kansas City, The Kansas City Star raved, “Pickle’s emotionally wrought characterization drove this [performance] even harder home than usual.” In recent seasons, Mr. Pickle also enjoyed performances as Erik with Mobile Opera, Utah Festival Opera, and Michigan Opera Theatre. Last season, Pickle joined the esteemed roster of Lyric Opera of Chicago for their production of *Norma*. 

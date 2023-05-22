@@ -19,6 +19,7 @@ social_media:
   url: https://www.instagram.com/pene.pati/
 title: Pene Pati
 website: https://www.penepati.com/
+cms_visible: true
 ---
 Samoan tenor Pene Pati is a graduate of San Francisco Opera’s Adler Program where, under Music Director Nicola Luisotti, he made an acclaimed 2017 debut as Il Duca di Mantova in Verdi’s _Rigoletto_, and has subsequently been hailed ​‘the most exceptional tenor discovery of the last decade’ (_Opéra-Online_) following his first performances as Percy in Donizetti’s _Anna Bolena_ at Opéra national de Bordeaux in the 2018/2019 season. Subsequent productions of Gounod’s _Roméo et Juliette_ at San Francisco Opera and Opéra national de Bordeaux as well as Alfredo in Verdi’s _La traviata_ at Moscow’s historic Bolshoi Theatre have secured Pati’s position as one of the most sought-after tenors of his day.
 

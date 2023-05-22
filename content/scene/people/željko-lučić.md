@@ -22,6 +22,7 @@ slug: zeljko-lucic
 social_media: []
 title: Željko Lučić
 website: ""
+cms_visible: true
 ---
 Serbian baritone, Zeljko Lucic, continues to gain recognition for his performances of the dramatic repertoire in the world’s leading opera houses, including the Metropolitan Opera, Royal Opera House, San Francisco Opera, l’Opéra National de Paris, Teatro alla Scala and the Wiener Staatsoper. For his appearance in _La forza del destino_ with San Francisco Opera, the Financial Times declared, “with this Don Carlo, Zeljko Lucic served notice that he is one of today’s pre-eminent Verdi baritones.”
 

@@ -21,6 +21,7 @@ social_media:
   url: https://www.facebook.com/kirsten.chambers.73
 title: Kirsten Chambers
 website: https://www.kirsten-chambers.com/
+cms_visible: true
 ---
 Kirsten Chambers made her Metropolitan Opera house debut on short notice in 2016 in the title role of _Salome_.  Her Carnegie Hall debut came on just two days’ notice when she sang the fiendishly difficult role of Maria in Richard Strauss’ _Friedenstag_ with the American Symphony Orchestra.  Her 2016-17 season started when she joined the roster of the Metropolitan Opera for the first time this fall as a cover of Isolde in _Tristan und Isolde_.  
 

@@ -10,6 +10,7 @@ related_companies:
 slug: adrienn-miksch
 title: Adrienn Miksch
 website: http://www.mikschadrienn.hu/index.php/en/
+cms_visible: true
 ---
 
 Adrienn Miksch’s current and future engagements include AMELIA Un Ballo in Maschera Opera North, MARTA Mieczysław Weinberg’s The Passenger Israeli Opera, ROSALINDE Der Fledermaus Japan tour with Hungarian State Opera, and GUTRUNE Götterdämmerung, CHRYSOTHEMIS Elektra Hungarian State Opera.

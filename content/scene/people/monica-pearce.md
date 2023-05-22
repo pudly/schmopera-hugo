@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/monicampearce
 title: Monica Pearce
 website: http://www.monicapearce.com/
+cms_visible: true
 ---
 
 Monica Pearce, originally from Prince Edward Island, is a composer of new classical/contemporary music with a particular affinity for solo and chamber music, opera, and electronics. After completing her Bachelor of Music at Mount Allison University with a focus on piano and composition, studying with David Rogosin (piano) and Ian Crutchley and James Code (composition), Monica completed her Masters of Music in Composition at the University of Toronto with the mentorship of Alexander Rapoport and Gary Kulesha. She currently studies composition independently with Linda Catlin Smith.

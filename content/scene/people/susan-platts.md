@@ -14,6 +14,7 @@ related_companies:
 slug: susan-platts
 title: Susan Platts
 website: https://www.susanplatts.com/
+cms_visible: true
 ---
 
 British-born Canadian mezzo-soprano Susan Platts brings a uniquely rich and wide-ranging voice to the concert and recital repertoire for alto and mezzo-soprano. She is particularly acclaimed for her performances of Gustav Mahler’s works.

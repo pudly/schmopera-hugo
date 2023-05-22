@@ -28,6 +28,7 @@ social_media:
 title: Calgary Opera's McPhee Artist Development Program
 type_of_company: Young Artist Programme
 website: http://www.calgaryopera.com/emerging-artists
+cms_visible: true
 ---
 Each season, Calgary Opera provides up to eight young singers with the opportunity to study and perform under a professional staff of teachers and performers. The program serves as a bridge between academic programs and the professional world of opera, offering the experience and practical skills necessary to succeed as a self-employed artist in a highly competitive international environment.
 

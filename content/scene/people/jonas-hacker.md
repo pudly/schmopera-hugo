@@ -20,6 +20,7 @@ social_media:
   url: https://www.instagram.com/tenor_jonasty/
 title: Jonas Hacker
 website: http://www.jonashackertenor.com/
+cms_visible: true
 ---
 
 A 2016 Grand Finalist of the Metropolitan Opera National Council Auditions, tenor Jonas Hacker regularly receives high praise for his “attractive tenor voice” and his ability to convincingly portray characters across genres from Mozart to Glass. In the 2017-2018 season, Mr. Hacker will make his Lyric Opera of Chicago debut as Timothy Laughlin in Gregory Spears’ *Fellow Travelers* and will also make his company and role debut with Kentucky Opera as Almaviva in a new production of *The Barber of Seville*, directed by Matthew Ozawa. He opens the season returning to Annapolis Opera as Theodore “Laurie” Lawrence in *Little Women*, the company with whom he made his professional debut in 2015 as Ferrando in *Così fan tutte*.

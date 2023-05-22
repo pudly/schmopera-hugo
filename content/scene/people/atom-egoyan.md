@@ -14,6 +14,7 @@ social_media:
   url: https://www.facebook.com/pages/Atom-Egoyan/104137336288624
 title: Atom Egoyan
 website: http://www.egofilmarts.com/
+cms_visible: true
 ---
 
 <p>

@@ -17,6 +17,7 @@ social_media:
 title: No Strings Theatre
 type_of_company: Theatre Company
 website: http://www.nostringstheatre.com/
+cms_visible: true
 ---
 ### Our Mission Statement
 

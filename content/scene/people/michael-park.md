@@ -20,6 +20,7 @@ social_media:
   url: https://soundcloud.com/michaeljpark
 title: Michael Park
 website: http://www.michaelpark.ca/
+cms_visible: true
 ---
 
 Michael Park is a composer and pianist with a keen interest in speech, humour, and collaboration. His music aims to give audiences an experience beyond the realm of traditional concert-going.

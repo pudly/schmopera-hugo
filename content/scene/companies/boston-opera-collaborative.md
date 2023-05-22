@@ -18,6 +18,7 @@ social_media:
 title: Boston Opera Collaborative
 type_of_company: Opera Company
 website: https://www.bostonoperacollaborative.org/
+cms_visible: true
 ---
 
 Boston Opera Collaborative offers fresh opera experiences that put our audiences in close contact with the power of the human voice. Our year-round performance calendar features Boston's brightest young talent in energetic and intimate productions of repertoire ranging from canon favorites to Boston premieres. We bring opera into unexpected places and find new ways to tell familiar stories, inviting the uninitiated to see their first opera and welcoming the lifetime fan to engage with our unique brand of music theater.

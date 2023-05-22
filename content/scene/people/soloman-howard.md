@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/HowSoMusic
 title: Soloman Howard
 website: http://solomanhoward.com/
+cms_visible: true
 ---
 
 A recent graduate of Washington National Opera’s Domingo-Cafritz Young Artist Program, a program of the John F. Kennedy Center for the Performing Arts, Soloman Howard garners high praise from the press for his vivid performances on the great opera and concert stages of the world.  The bass’ voice is described as “sonorous” by *The New York Times*, “superhuman” by *The Denver Post*, and “a triumph” by *The Guardian*.

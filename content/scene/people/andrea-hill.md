@@ -15,6 +15,7 @@ related_companies:
 slug: andrea-hill
 title: Andrea Hill
 website: https://www.mezzoandrea.com/
+cms_visible: true
 ---
 
 Last season saw mezzo Andrea Hill singing Mallika in Delibes’ *Lakmé* with Calgary Opera, Dritte Magd and Schleppeträgerin in *Elektra* at the Metropolitan Opera, as well as Flora in Verdi’s *La Traviata* at Royal Opera House. During the 2016/17 season, she sings Zweite Magd in *Elektra* at the Gran Teatre de Liceu in Spain, Komponist in *Ariadne auf Naxos* with Opéra national de Lorraine à Nancy, and performs Mozart’s *Requiem* with the Calgary Philharmonic to inaugurate a new concert hall in her hometown of Calgary, Alberta, Canada. She covers Stephano in the Metropolitan Opera’s Production of *Roméo et Juliette*. She debuts in 2017 with Pacific Opera Victoria as Karolka in *Jenufa* and Rosina in *Il Barbiere di Siviglia* for Calgary Opera. In 2018, she returns to the Metropolitan Opera reprising the role of Dritte Magd in *Elektra*, and Dryade in *Ariadne auf Naxos* for Festival d’Aix-en-Provence.

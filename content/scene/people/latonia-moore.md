@@ -12,6 +12,7 @@ related_companies:
 - scene/companies/the-metropolitan-opera.md
 slug: latonia-moore
 title: Latonia Moore
+cms_visible: true
 ---
 
 Latonia Moore is an American soprano of African-American ancestry. She grew up with Black music, and at age 8 began to sing in the church choir of the New Sunrise Baptist Church, where her grandfather Cranford Moore was a pastor. In her youth, she sang in the Texas All-State Choir.

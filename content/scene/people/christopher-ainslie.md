@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/ChrisAinslieSA?lang=en
 title: Christopher Ainslie
 website: http://christopherainslie.com/
+cms_visible: true
 ---
 Christopher Ainslie is notable for his warm voice, polished musicianship and compelling stage presence.
 

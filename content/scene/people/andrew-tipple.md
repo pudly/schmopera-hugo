@@ -10,6 +10,7 @@ related_companies:
 - scene/companies/popup-opera.md
 slug: andrew-tipple
 title: Andrew Tipple
+cms_visible: true
 ---
 
 Andrew studied at the Royal Academy of Music and later the Royal Conservatoire of Scotland where he was a member of the Alexander Gibson Opera School, graduating in 2013. Whilst there he was the recipient of the ABRSM Scholarship.

@@ -20,6 +20,7 @@ social_media:
   url: https://www.instagram.com/jonathanjohnsontenor/
 title: Jonathan Johnson
 website: https://www.jonathanjohnsontenor.com/
+cms_visible: true
 ---
 This season, American tenor Jonathan Johnson makes his debut as The Prince in _The Love for Three Oranges_ at Opera Philadelphia’s Festival O19 and will appear as Lensky in _Eugene Onegin_ at Palm Beach Opera, Matthew Gurney in _Emmeline_ at Tulsa Opera, Jonathan Dale in _Silent Night_ at Utah Opera, and Beppe in _I Pagliacci_ at Opera Colorado. In concert, Johnson appears as a soloist with Cincinnati Symphony Orchestra in Schumann’s _Das Paradies und die Peri_ as the Young Man, with the Detroit Symphony for Messiah, and in recital with the Collaborative Arts Institute of Chicago. Johnson is also an Emerging Artist for Opera Philadelphia, where he will be singing in community recitals and special events throughout the 2019-2020 Season.
 

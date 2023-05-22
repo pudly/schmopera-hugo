@@ -30,6 +30,7 @@ social_media:
 title: Giorgio Caoduro
 website: http://www.giorgiocaoduro.com/en/
 youtube_url: ""
+cms_visible: true
 ---
 Born in Monfalcone (Italy) in 1980, Giorgio Caoduro studied singing with soprano Cecilia Fusco since 1998. In 2000 he won the 50th edition of the international opera competition As.Li.Co.
 

@@ -159,6 +159,7 @@ social_media:
 title: Bayerische Staatsoper
 type_of_company: Opera Company
 website: https://www.staatsoper.de/en/index.html
+cms_visible: true
 ---
 
 <p>

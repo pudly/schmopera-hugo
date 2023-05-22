@@ -25,6 +25,7 @@ social_media:
   url: https://www.instagram.com/peteredge/
 title: Peter Edge
 website: https://www.peteredgebaritone.co.uk/
+cms_visible: true
 ---
 Baritone Peter Edge graduated from the Royal College of Music, London, as a Master of Music in Vocal Performance with Distinction, where he was supported by the Walker Trust.
 

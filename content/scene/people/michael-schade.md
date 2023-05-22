@@ -20,6 +20,7 @@ social_media:
   template: social-media
   url: https://twitter.com/tenorschade
 title: Michael Schade
+cms_visible: true
 ---
 
 <p>

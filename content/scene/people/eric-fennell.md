@@ -20,6 +20,7 @@ slug: eric-fennell
 social_media: []
 title: Eric Fennell
 website: http://www.ericfennell.com/
+cms_visible: true
 ---
 German American tenor, Eric Fennell has firmly established himself as one of today’s leading international artists.  His debut came when he jumped in to James Robinson’s production of _La Bohème_ as Rodolfo for two performances at Glimmerglass Opera. This led him to New York City where he sang roles in the next six seasons for New York City Opera including Rodolfo in _La Bohème_, Alfredo in _La Traviata_, Narraboth in _Salomé_, and Telemaco in _Il ritorno d’Ulisse in patria_.  In 2009, he made made his European debut singing Camille de Rosillion in _Die Lustige Witwe_ for Deutsche Oper am Rhine and Verdi’s _Requiem_ for the Latvian National Symphony.
 

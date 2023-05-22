@@ -21,6 +21,7 @@ social_media:
   url: https://www.instagram.com/mezzobeste/
 title: Beste Kalender
 website: http://www.bestekalender.com/
+cms_visible: true
 ---
 
 "Calgary Opera’s opening night performance of *Carmen*:…On one hours' notice, mezzo-soprano Beste Kalender, originally scheduled to sing the role of Mercedes, learned that she would have to sing the title role. This she did, and with remarkable success…" - Kenneth Delong, *Calgary Herald*, 2015

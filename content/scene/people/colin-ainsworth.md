@@ -31,6 +31,7 @@ social_media:
   url: https://www.youtube.com/channel/UCIUbVy4eoBOs-Xy6XXNA02A
 title: Colin Ainsworth
 website: http://www.colinainsworth.ca/
+cms_visible: true
 ---
 Canadian tenor Colin Ainsworth has distinguished himself as an up and coming tenor by his exceptional singing and diverse repertoire. 
 

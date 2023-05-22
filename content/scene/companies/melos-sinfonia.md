@@ -22,5 +22,6 @@ social_media:
 title: Melos Sinfonia
 type_of_company: Orchestra
 website: https://www.melossinfonia.co.uk/
+cms_visible: true
 ---
 Founded in 2010 by young conductor, Oliver Zeffman, the Melos Sinfonia is an exciting and dynamic orchestra. Putting on a several concerts a year, it draws its players from graduates and current students from the foremost music conservatoires and universities across the country, as well as from orchestras such as the European Union Youth Orchestra, Gustav Mahler Jugendorchester, Britten Pears Orchestra and the Southbank Sinfonia.

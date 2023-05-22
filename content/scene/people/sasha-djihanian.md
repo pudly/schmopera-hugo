@@ -18,6 +18,7 @@ social_media:
   url: https://www.instagram.com/sashadjihanian/
 title: Sasha Djihanian
 website: https://sashadjihanian.com/
+cms_visible: true
 ---
 
 Praised for her warm, luscious sound and captivating stage presence, Sasha Djihanian is definitely a young Soprano to watch. Canadian Opera Company Ensemble Studio graduate and Montreal native, Sasha was the winner of the First Annual COC Ensemble Studio Competition. This season Sasha will debut Vancouver Opera in the role of Valencienne in *The Merry Widow*. 

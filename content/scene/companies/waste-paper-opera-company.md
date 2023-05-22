@@ -18,6 +18,7 @@ social_media:
 title: Waste Paper Opera Company
 type_of_company: Opera company
 website: http://www.wastepaperopera.com/
+cms_visible: true
 ---
 
 Founded in 2012. Waste Paper Opera Company is an interdisciplinary collective of artists from Birmingham and beyond, creating experimental, cross-genre music theatre that drives artistic innovation and brings it to the most diverse audience possible, challenging preconceptions of what opera is and can be.

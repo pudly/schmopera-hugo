@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/musa_ngqungwana
 title: Musa Ngqungwana
 website: http://www.musangqungwana.com/
+cms_visible: true
 ---
 
 South African bass-baritone Musa Ngqungwana has been praised by the *New York Times* for his "rich, glowing voice and elegant legato." He makes a number of company debuts this season, most notably at Los Angeles Opera in the role of Queequeg in *Moby Dick*, followed by his first performances at The Glimmerglass Festival singing Gottardo in *La gazza ladra*, and at Palm Beach Opera as Zuniga in *Carmen*. He returns to Washington National Opera to sing the role of Stephen Kumalo in Kurt Weill’s *Lost in the Stars* and performs as bass soloist in Handel’s *Messiah* at the U.S. Naval Academy. 

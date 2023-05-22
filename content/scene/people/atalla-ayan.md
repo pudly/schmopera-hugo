@@ -15,6 +15,7 @@ related_companies:
 - scene/companies/bayerische-staatsoper.md
 slug: atalla-ayan
 title: Atalla Ayan
+cms_visible: true
 ---
 
 Brazilian tenor Atalla Ayan has quickly established himself as one of the most sought after tenors of his generation. In July of 2011, Ayan made a surprise debut with the Metropolitan Opera, singing five arias in the company’s opening Summer Concert in Central Park on less than 24 hours notice. Allan Kozinn of the New York Times said of his Met debut, “he is a find; he has a warm, rounded tone with a quality that calls to mind the young Placido Domingo.” Ayan has been equally well received at major houses throughout the world, including the Royal Opera House – Covent Garden, Teatro alla Scala in Milan, Grand Théâtre de Genève, and Deutsche Oper Berlin. In the 2016/17 season, he sings Alfredo in *La Traviata* and Christian in *Cyrano de Bergerac* at the Metropolitan Opera, Alfredo at Covent Garden and the Glyndebourne Festival, Nemorino in *L’elisir d’Amore* at the Bavarian State Opera, the title role in *Faust*, Lenski in *Eugene Onegin* and Ismaele in *Nabucco* at the Staatstheater Stuttgart, and Rodolfo in *La Boheme* at the Cologne Opera. Future engagements include three significant debuts: Ayan’s debut at the Paris Opera as Rodolfo, his debut at the San Francisco Opera as Alfredo, and his debut as Des Grieux in *Manon* at the Cologne Opera. He will also return to Stuttgart as Faust and to Covent Garden as Rodolfo.

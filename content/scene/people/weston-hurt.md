@@ -30,6 +30,7 @@ social_media:
   url: https://www.youtube.com/watch?v=ijjv0QB3oqc&list=PLGD5AXWxIXdwA7dRTJIWqTBsVqmphioTa
 title: Weston Hurt
 website: http://www.westonhurt.com/
+cms_visible: true
 ---
 
 Baritone Weston Hurt begins the 2017-2018 season with a return to Seattle Opera as Sharpless in *Madama Butterfly*, followed by a company debut with Nashville Opera as Scarpia in *Tosca*. This season he also adds two new roles to his repertoire, singing Creon in Cherubini’s *Medea* with Opera Omaha and John Peerybingle in *I Grillo del Focolare* with Teatro Grattacielo, both company debuts as well. When not onstage himself, Mr. Hurt will mentor students in a masterclass at Seattle Opera’s Summer Academy at Marrowstone.

@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/hojotoheidi
 title: Heidi Melton
 website: http://www.heidimeltonsoprano.com/
+cms_visible: true
 ---
 
 <p>

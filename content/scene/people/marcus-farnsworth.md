@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/MBJFarnsworth
 title: Marcus Farnsworth
 website: http://marcusfarnsworth.com/
+cms_visible: true
 ---
 
 Marcus Farnsworth was awarded first prize in the 2009 Wigmore Hall

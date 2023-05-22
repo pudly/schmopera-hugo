@@ -18,6 +18,7 @@ social_media:
   url: https://www.facebook.com/hanstashjianbass
 title: Hans Tashjian
 website: http://www.hanstashjian.com/
+cms_visible: true
 ---
 Hans Tashjian, a bass whose voice has been described as "rumbling and sumptuously lush," and “hauntingly striking,” continues to expand his repertoire with opera companies throughout the country.  During the 2021-2022 season, he joins Teatro Nuovo as the title role in _Il barbiere di Siviglia_, Houston Grand Opera as Billy in the world premiere of _The Snowy Day_, Pacific Symphony as the Herald / Lodovico cover in _Otello_, and as the bass soloist in _The Creation_ with the New Haven Symphony Orchestra.  In the spring of 2021, Mr. Tashjian returned to Sarasota Opera to cover the roles of Batone in _L’inganno Felice_, Uberto in _La Serva padrona_, and Gaudenzio in _Il Signor Bruschino_.
 

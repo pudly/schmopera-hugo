@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/LWiliford
 title: Lawrence Wiliford
 website: http://www.lawrencewiliford.com/
+cms_visible: true
 ---
 
 <p>

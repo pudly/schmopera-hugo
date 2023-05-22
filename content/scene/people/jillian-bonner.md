@@ -15,6 +15,7 @@ social_media:
   url: https://www.instagram.com/jillianbmezzo/
 title: Jillian Bonner
 website: https://www.jillianbonner.net/
+cms_visible: true
 ---
 Jillian Bonner is a mezzo soprano from Saint John, New Brunswick, Canada. She is a graduate of the University of Manitoba, where she studied with Tracy Dahl (MMus '16)  and Dalhousie University in Halifax, NS (BMus '11). In Fall 2016, she travelled to Kitchener ON where she studied with mezzo soprano Kimberly Barber, thanks to a Career Development grant from the New Brunswick Arts Board.
 

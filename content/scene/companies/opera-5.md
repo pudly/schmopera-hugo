@@ -41,6 +41,7 @@ social_media:
 title: Opera 5
 type_of_company: Opera Company
 website: http://www.operafive.com/
+cms_visible: true
 ---
 
 <p>

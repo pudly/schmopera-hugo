@@ -13,6 +13,7 @@ related_companies:
 slug: andrew-tees
 title: Andrew Tees
 website: http://andrewtees.com/
+cms_visible: true
 ---
 
 Baritone Andrew Tees is one of the most dynamic singers of his generation. Blessed with a rich baritone, he is at home whether singing opera, oratorio, pops, or music theatre.

@@ -18,6 +18,7 @@ social_media:
   url: https://www.facebook.com/laurellejade?fref=ts
 title: Laurelle Jade Froese
 website: http://www.laurellejade.com/
+cms_visible: true
 ---
 
 Winnipeg born mezzo-soprano Laurelle Jade Froese is establishing herself as a young professional singer in Canada. She began her professional operatic debut in the spring of 2014 in Saskatoon Opera’s *Die Zauberflöte* as Second Lady, and was apart of Vancouver Opera’s Young Arist Program for the 2014-2015 season.

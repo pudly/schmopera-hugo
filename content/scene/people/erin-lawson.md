@@ -14,6 +14,7 @@ related_companies:
 slug: erin-lawson
 title: Erin Lawson
 website: http://www.erinlawson.ca/
+cms_visible: true
 ---
 
 Praised for her beautiful lyric mezzo-soprano voice (*Opera Canada*), and coloratura to die for (*Hamilton Spectator*) Erin Lawson has been attracting attention on opera and concert stages across Canada. A past member of both Calgary Opera’s Emerging Artist Program, and Pacific Opera Victoria’s Resident Artist Program, her engaging stage presence has captivated audiences in repertoire ranging from Handel and Rossini, to newly created works.

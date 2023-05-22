@@ -19,6 +19,7 @@ social_media:
   url: https://www.facebook.com/DimitriPittasTenor
 title: Dimitri Pittas
 website: http://www.dimitripittas.com/DimitriPittas/Home.html
+cms_visible: true
 ---
 
 <p>

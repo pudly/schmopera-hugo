@@ -21,6 +21,7 @@ slug: dale-travis
 social_media: []
 title: Dale Travis
 website: ""
+cms_visible: true
 ---
   
 Dale Travis has become one of the most sought after bass-baritones in America today. With a repertoire encompassing 50 roles over 25 years in a wide variety of styles from Mozart, Donizetti and Rossini to Strauss, Puccini and Wagner, Mr. Travis has been a frequent guest artist at the most prestigious opera companies in the world, including the Metropolitan Opera, the Lyric Opera of Chicago, the San Francisco Opera, Houston Grand Opera, Washington Opera, Los Angeles, Santa Fe Opera Festival, Opera Colorado, Spoleto Festival USA, the Saito Kinen Music Festival, Teatro Regio in Torino, Teatro Carlo Felice in Genoa, the Berlin Komische Oper, and the New Israeli Opera in Tel Aviv.

@@ -26,6 +26,7 @@ social_media:
   url: https://www.youtube.com/channel/UCICVO8ie-H8P1bkNYSmB1QA
 title: Samantha Hankey
 website: http://www.samanthahankey.com/
+cms_visible: true
 ---
 
 American mezzo-soprano Samantha Hankey, Grand Finals winner of the 2017 Metropolitan Opera National Council Auditions and First Prize winner of the Dallas Opera Guild Competition is quickly making a name for herself at home and abroad. Acclaimed by *Opera News* as an “ingenious square-shouldered beauty with a maple-flavored mezzo”  and as “serious and penetrating” by *The New York Times*, she was recently an artist at the Merola Opera Program in San Francisco, and performed the title role in *La Cenerentola*. In the 2017/18 season, Ms. Hankey makes her debuts as Rosina in *Il Barbiere di Siviglia* at Den Norske Opera and as Siébel in *Faust* at the Grand Théâtre de Genève. She will also make her Carnegie Hall debut in Handel’s *Messiah* with Musica Sacra. 

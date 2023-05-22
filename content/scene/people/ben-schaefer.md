@@ -15,6 +15,7 @@ social_media:
   url: https://www.instagram.com/benrschaefer/
 title: Ben Schaefer
 website: https://www.benschaeferbaritone.com/
+cms_visible: true
 ---
 Des Moines, Iowa native, Ben Schaefer, will be joining the Glimmerglass Festival in 2018 where he will be performing the role of Fiorello and covering the title role in a new production of _Il barbiere di Siviglia_ as well as covering Lieutenant Audebert in Kevin Puts and Mark Campbell’s Pulitzer Prize-winning opera, _Silent Night_.
 

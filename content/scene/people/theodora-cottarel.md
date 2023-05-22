@@ -12,6 +12,7 @@ social_media:
   url: https://www.facebook.com/theodorasoprano
 title: Theodora Cottarel
 website: http://theodoracottarel.com/
+cms_visible: true
 ---
 Praised for her “…ardor and warmth…” by the Houston Press, soprano Théodora Cottarel has been recognized for her vocal versatility and her electric dramatic interpretations. Of her performance as Servilia in _La Clemenza di Tito_, Broadway World wrote: “Armed with confidence and purity of tone, Cottarel’s wielded power lends to her delicateness. Her singing is thoroughly enjoyable and the expression of solid warmth is neatly articulated through her emotions.” Théodora has been singing internationally in both operas and concerts.
 

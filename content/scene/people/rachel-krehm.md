@@ -13,6 +13,7 @@ related_companies:
 slug: rachel-krehm
 title: Rachel Krehm
 website: http://www.rachelkrehm.com/
+cms_visible: true
 ---
 
 <p>

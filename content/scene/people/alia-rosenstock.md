@@ -14,6 +14,7 @@ social_media:
   url: https://twitter.com/aliasaurusrex
 title: Alia Rosenstock
 website: http://deanartists.com/
+cms_visible: true
 ---
 
 <p>

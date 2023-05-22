@@ -25,6 +25,7 @@ social_media:
   url: https://www.youtube.com/channel/UCaQxDOFIDrnMNhHfnCPmO8w
 title: Seth Carico
 website: http://www.sethcarico.com/home/
+cms_visible: true
 ---
 Hailed by _Opera News_ as “powerful in both voice and bearing” and particularly noted for his commanding stage presence and expressive vocalism, bass-baritone Seth Carico is distinguishing himself as an accomplished young American singer. _Opera Today_ praised “the dynamic presence of Carico, whose ringing baritone gave much pleasure.” He effortlessly capitalizes on his dramatic training, bringing a unique sensitivity to operatic characters at disparate ends of the theatrical spectrum. During the 2017-2018 season, Carico made several important role debuts, including Joseph de Rocher in _Dead Man Walking_ with Minnesota Opera, Nick Shadow in _The Rake’s Progress_ with Theater Basel, and The Father in the world premiere of Aribert Reimann’s _L’invisible_, Oberthal in _Le Prophete_, and Metifio in _L’arlesiana_ with the Deutsche Oper Berlin, where he has been in the Ensemble since 2012. The 2018-2019 season sees him appearing as The Doctor in _Wozzeck_, Kolenatý in _The Makropulos Affair_, Leporello in _Don Giovanni_, and as a soloist for Zad Moultaka’s re-imagining of Händel’s _Il delirio amoroso_, all with Deutsche Oper Berlin. He can also be seen as Achior in Mozart’s _La Betulia liberata_ with the Brucknerhaus Linz and as Dr. John Polidori in the world premiere of Michael Wertmüller’s _Diodati. Unendlich_ with Theater Basel.
 

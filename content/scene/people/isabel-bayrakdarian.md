@@ -15,6 +15,7 @@ social_media:
   url: https://www.facebook.com/IsabelBayrakdarian
 title: Isabel Bayrakdarian
 website: http://bayrakdarian.com/
+cms_visible: true
 ---
 
 <p>

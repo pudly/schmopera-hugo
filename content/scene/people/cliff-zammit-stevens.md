@@ -20,6 +20,7 @@ social_media:
   url: https://www.instagram.com/czammitstevens/
 title: Cliff Zammit Stevens
 website: http://www.cliffzammitstevens.com/
+cms_visible: true
 ---
 
 Tenor Cliff Zammit Stevens, currently supported by the BOV Joseph Calleja Foundation has been described as a ‘Revelation’ (Daily Express), and ‘Shows exceptional promise’ (Opera magazine). Cliff is a recent Masters in Performance graduate from the RCM generously supported by the Malta Arts Scholarship Scheme and Janatha Stubbs. He started his vocal training at the age of 14 with renowned soprano Gillian Zammit whom he continues to study with from time to time together with his mentor Juliette Bisazza.

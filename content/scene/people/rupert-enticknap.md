@@ -19,6 +19,7 @@ social_media:
   template: social-media
   url: https://twitter.com/rupertenticknap
 title: Rupert Enticknap
+cms_visible: true
 ---
 
 Rupert Enticknap is one of Britain's leading young countertenors. He has performed with renown Early Music ensembles and conductors and also brings along a great passion for modern and contemporary music repertoire.

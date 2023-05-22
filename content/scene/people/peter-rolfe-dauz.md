@@ -18,6 +18,7 @@ social_media:
   template: social-media
   url: https://www.instagram.com/rdauz/?hl=en
 title: Peter Rolfe Dauz
+cms_visible: true
 ---
 
 San Francisco native, Filipino-American Baritone Peter Rolfe Dauz's performance highlights include Don Alfonso (*Così fan tutte*), Leporello (*Don Giovanni*), Figaro (*Le nozze di Figaro*), Achilla (*Giulio Cesare*), and Claudio (*Agrippina*).  This season at the Bard College Conservatory, Peter Rolfe sang the role of the Sprecher in Mozart’s *Die Zauberflöte* (January 2016) and was a soloist in Handel’s *Messiah* (April 2016). Peter Rolfe was recently invited as one of fifteen young professionals to Open Space: Opera in the 21st Century to perform the role of Junius in Britten’s *The Rape of Lucretia* at The Banff Centre (Alberta, Canada).

@@ -22,6 +22,7 @@ social_media:
 title: Essential Opera
 type_of_company: Opera Company
 website: http://essentialopera.com/
+cms_visible: true
 ---
 
 <p>

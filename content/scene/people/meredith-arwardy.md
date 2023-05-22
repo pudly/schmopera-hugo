@@ -21,6 +21,7 @@ related_companies:
 - scene/companies/oper-frankfurt.md
 slug: meredith-arwardy
 title: Meredith Arwardy
+cms_visible: true
 ---
 
 Hailed by critics as a "rarity" and "a genuine contralto," Meredith Arwady continues to delight audiences in the United States and abroad with rich vocal intensity and captivating stage presence. 

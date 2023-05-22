@@ -75,6 +75,7 @@ social_media:
 title: Pacific Opera Victoria
 type_of_company: Opera Company
 website: http://www.pov.bc.ca/
+cms_visible: true
 ---
 
 <p>

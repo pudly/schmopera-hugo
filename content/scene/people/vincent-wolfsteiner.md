@@ -15,6 +15,7 @@ social_media:
   url: https://twitter.com/redhairedprince
 title: Vincent Wolfsteiner
 website: https://dramatic-tenor.com/
+cms_visible: true
 ---
 
 Vincent Wolfsteiner studied music in Great Britain and worked as sound engineer and producer in his home town Munich.

@@ -19,6 +19,7 @@ social_media:
   url: https://www.instagram.com/adiannetta/
 title: Adam Iannetta
 website: http://adamiannetta.com/
+cms_visible: true
 ---
 
 Growing up in an Italian family, Adam has learned two very important things: you have to speak up if you ever want to be heard, and there is no such thing as a moment’s peace. You might say that his extroverted career is probably the result of his family’s upbringing. Furthermore, Adam subscribes to these values as part of his way of living, and always finds a way to keep himself busy. If he is not performing on stage, you will probably find him studying in the library.

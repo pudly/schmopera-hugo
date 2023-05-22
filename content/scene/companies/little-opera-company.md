@@ -16,6 +16,7 @@ social_media:
 title: Little Opera Company
 type_of_company: Opera Company
 website: https://www.littleopera.ca/index.htm
+cms_visible: true
 ---
 Since arriving in Canada in the late 1970s, Spencer Duncanson has provided invaluable local leadership through numerous community contributions. Having served previously as chair of the Winnipeg Arts Council, Duncanson currently volunteers on the board of directors of the Winnipeg Foundation. 
 

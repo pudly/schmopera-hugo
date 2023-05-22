@@ -13,6 +13,7 @@ related_companies:
 slug: martin-wolfel
 title: Martin Wölfel
 website: http://www.martin-woelfel.de/
+cms_visible: true
 ---
 
 Martin Wölfel was born and educated in Potsdam, and studied singing at the Carl Maria von Weber College of Music in Dresden. At first he concentrated on becoming a tenor before he found his true calling as a countertenor after visiting a recital given by Axel Köhler. After changing course he studied with Margret Trappe-Wiel until 1999, finally as a master student. He furthered his studies by taking master classes with such distinguished musicians as Paul Esswood, Axel Köhler, Jessica Cash and Brigitte Fassbaender. At the same time he undertook a lively series of concert activities.

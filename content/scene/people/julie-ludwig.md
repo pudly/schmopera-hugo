@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/JulieLudwigSop
 title: Julie Ludwig
 website: http://julieludwig.com/
+cms_visible: true
 ---
 
 Soprano Julie Ludwig is a versatile young performer, praised for her interpretations of soubrette and lyric coloratura repertoire. Increasingly in demand as a concert soloist, during the 2015-16 season Julie looks forward to performances of Fauré’s *Requiem*, Vivaldi’s *Gloria*, Rutter’s *Magnificat*, Mozart’s *Vesperae solennes de confessore*, and Cantatas 4 and 21 by Bach. Additionally, she will join the Windsor Symphony Orchestra as Musetta in *La Boheme* and Opera 5 as Adele in *Die Fledermaus*.

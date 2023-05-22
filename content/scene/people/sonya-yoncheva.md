@@ -29,6 +29,7 @@ social_media:
   url: https://www.youtube.com/user/TheShlupy
 title: Sonya Yoncheva
 website: https://sonyayoncheva.com/
+cms_visible: true
 ---
 Superstar soprano Sonya Yoncheva has been heralded as one of the most acclaimed and exciting performers of her generation.
 

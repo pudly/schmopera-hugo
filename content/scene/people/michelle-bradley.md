@@ -18,6 +18,7 @@ social_media:
   url: https://www.instagram.com/themichellebradleysoprano/
 title: Michelle Bradley
 website: ""
+cms_visible: true
 ---
 Michelle Bradley, a recent graduate of the Lindemann Young Artist Development Program, is beginning to garner great acclaim as one of today’s most promising Verdi soprano.
 

@@ -23,6 +23,7 @@ social_media:
 title: Opera InReach
 type_of_company: Opera Outreach Collective
 website: https://www.operainreach.com/home
+cms_visible: true
 ---
 We are **visionaries**. We are **activists**.
 

@@ -21,6 +21,7 @@ social_media:
   url: https://www.facebook.com/ElenaGalvanSoprano
 title: Elena Galván
 website: https://www.elenagalvan.com/
+cms_visible: true
 ---
 Praised for her “voice \[that\] shines with a winsome, lyric luster” (Opera News), soprano Elena Galván, from Ithaca, NY, is gaining recognition as a young soprano with “deft timing and repartee of a natural comedienne” (South Florida Classical Review). Elena will make a return to Florida Grand Opera’s stage in the 2018/19 season as Susanna in _Le nozze di Figaro._ She also returns to Livermore Valley Opera to make her role debut of Blondchen in _Die Entführung aus dem Serail_. Elena will be the soprano soloist for First Coast Opera’s “Bernstein’s Broadway” concert. Elena will return to upstate New York as the Soprano Soloist in performances of Handel’s _Messiah_ with the Cayuga Chamber Orchestra’s, Arts at Grace, and The Binghamton Downtown Singers.
 

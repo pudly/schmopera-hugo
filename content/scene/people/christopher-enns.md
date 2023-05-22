@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/rags2reasonable
 title: Christopher Enns
 website: http://www.ragstoreasonable.com/
+cms_visible: true
 ---
 
 <p>

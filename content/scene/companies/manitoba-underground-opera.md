@@ -19,6 +19,7 @@ social_media:
 title: Manitoba Underground Opera
 type_of_company: Opera Company
 website: https://manitobaundergroundopera.com/
+cms_visible: true
 ---
 ### Who we are
 

@@ -19,6 +19,7 @@ social_media:
   template: social-media
   url: https://twitter.com/DKatotakis
 title: Dimitri Katotakis
+cms_visible: true
 ---
 
 Born in Toronto, Dimitri Katotakis currently studies at McGill University where recent roles include Demetrius in *A Midsummer Night’s Dream* and Lorenzo in *I Capuleti e i Montecchi*. He earned his bachelor of music in vocal performance from the University of Toronto where he sang the roles of Belcore in *L’elisir d’amore*, Guglielmo in *Così fan tutte*, and M. Lacouf and Le Fils in *Les Mamelles de Tiresias*. Other credits include Escamillo and Le Dancaïre in *Carmen*, and Harlekin in *Ariadne auf Naxos* (Opera NUOVA); Le Podestat in *Le Docteur Miracle* (Stu&Jess Productions); Masetto in *Don Giovanni* (Centre for Opera Studies in Italy); Curio in *Giulio Cesare* (Aradia Ensemble); and Chorus in of *Der Entführung aus dem Serail* and *Le nozze di Figaro* (Opera Atelier).

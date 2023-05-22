@@ -18,6 +18,7 @@ social_media:
 title: Tongue In Cheek Productions
 type_of_company: Concert presenter
 website: https://www.tongueincheekproductions.com/
+cms_visible: true
 ---
 
 There are a multitude of passionate, deep, and committed performing artists in our city. From all walks of life, from incredibly diverse backgrounds, they choose to undertake a specialized profession with limited prospects in order to express real, tangible things that are common to us all. And most of it in a highly crystallized genre of art: classical music. We choose to honour their effort while simultaneously honouring our shared humanity through the refined nature of this music. To what end?

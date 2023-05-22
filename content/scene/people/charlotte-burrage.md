@@ -14,6 +14,7 @@ social_media:
   template: social-media
   url: https://twitter.com/burragec
 title: Charlotte Burrage
+cms_visible: true
 ---
 
 <p>

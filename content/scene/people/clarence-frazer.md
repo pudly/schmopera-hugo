@@ -22,6 +22,7 @@ social_media:
   template: social-media
   url: https://twitter.com/clarencefrazer
 title: Clarence Frazer
+cms_visible: true
 ---
 Canadian/Korean baritone Clarence Frazer brings his “silky-smooth baritone” to a wide range of roles and concert repertoire. An alumnus of Canadian Opera Company’s prestigious Ensemble Studio and Calgary Opera’s McPhee Artist Development Program, Clarence starred as **Figaro** in _Il barbiere di Siviglia_ with Pacific Opera Victoria and Saskatoon Opera, and sang **Marcello** in Against the Grain Theatre’s acclaimed 2019 production of _La bohéme_, touring from Yukon to Toronto.
 

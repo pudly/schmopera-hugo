@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/MeezStephanie
 title: Stephanie Conn
 website: http://stephanieconn.com/performance/
+cms_visible: true
 ---
 
 STEPHANIE CONN is currently the producer and soloist with The Friends of Gravity, debuting with a production of Kurt Weill’s *Seven Deadly Sins*.

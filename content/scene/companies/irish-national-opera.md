@@ -17,6 +17,7 @@ social_media:
 title: Irish National Opera
 type_of_company: Opera Company
 website: http://www.irishnationalopera.ie/
+cms_visible: true
 ---
 Irish National Opera is a newly formed company that merges two of Ireland's most innovative opera producers – Wide Open Opera and Opera Theatre Company.
 

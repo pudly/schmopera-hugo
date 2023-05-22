@@ -13,6 +13,7 @@ social_media:
   template: social-media
   url: https://twitter.com/alexanderncoc
 title: Alexander Neef
+cms_visible: true
 ---
 
 <p>

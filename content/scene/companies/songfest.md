@@ -28,6 +28,7 @@ social_media:
 title: SongFest
 type_of_company: Art Song Festival & Training Program
 website: http://www.songfest.us/
+cms_visible: true
 ---
 
 SongFest: the United States' premier art song festival and training programs. The summer festival is held each May/June at the Colburn School in Los Angeles. SongFest attracts an internationally distinguished roster of artist teachers as well as students from some of the nation’s top music conservatories. Audiences enjoy a vibrant concert series presented in Colburn's state-of-the-art venues and auditors can attend daily masterclasses and lectures led by the most exciting artists of today.

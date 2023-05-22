@@ -20,6 +20,7 @@ social_media:
   url: https://www.youtube.com/user/cleanmongolfier/videos
 title: Rich Coburn
 website: http://www.richcoburn.com/
+cms_visible: true
 ---
 Known for his subtle and nuanced playing, Rich Coburn made his orchestral debut at 17 with the Youth Symphony of the Kootenays. As well as touring throughout Canada and China, he has appeared in performance in the United States, Italy, France, and Austria. He has been “considered a hero” and praised for his “masterful playing” on his most recent tour of Eastern Canada. 
 

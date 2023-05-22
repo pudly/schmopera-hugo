@@ -18,6 +18,7 @@ social_media:
   url: https://www.youtube.com/user/Seikaly22
 title: Kristen Seikaly
 website: http://www.kristenseikaly.com/
+cms_visible: true
 ---
 
 Kristen Seikaly, mezzo-soprano, has been hailed as an “energetic” and “engaging

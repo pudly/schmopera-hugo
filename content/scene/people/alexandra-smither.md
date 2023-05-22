@@ -12,6 +12,7 @@ related_companies:
 slug: alexandra-smither
 title: Alexandra Smither
 website: http://www.alexandrasmither.com/
+cms_visible: true
 ---
 
 Canadian-British soprano Alexandra Smither is quickly making a name for herself in the world of old and new classical music. A recent graduate from the prestigious Shepherd School of Music at Rice University, 2017 brings performances at Carnegie Hall, the Banff Centre for the Performing Arts, and the Tanglewood Festival.

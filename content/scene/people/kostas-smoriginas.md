@@ -15,6 +15,7 @@ related_companies:
 - scene/companies/semperoper-dresden.md
 slug: kostas-smoriginas
 title: Kostas Smoriginas
+cms_visible: true
 ---
 
 Kostas Smoriginas is one of the most promising bass-baritones of today. He made his debut at the Deutsche Staatsoper, Berlin as Escamillo *Carmen* and has since performed the role with the Berlin Philharmonic and Sir Simon Rattle (recorded for EMI Classics), the Salzburg Easter Festival, Royal Opera House Covent Garden, Santa Fe Music Festival, Dresden Semperoper, and with Beijing’s National Centre for Performing Arts.

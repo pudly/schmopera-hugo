@@ -18,6 +18,7 @@ slug: caitlin-lynch
 social_media: []
 title: Caitlin Lynch
 website: https://www.caitlinlynchsoprano.com/
+cms_visible: true
 ---
 Declared “luminous” by the _New York Times_ and “eloquent” by the _Wall Street Journal_, soprano Caitlin Lynch is captivating audiences with her portrayals of iconic leading ladies. With a repertoire that encompasses Mozart to Verdi and Handel to Heggie, Ms. Lynch brings her dynamic portrayals of both classic and contemporary operas to stages around the world.
 

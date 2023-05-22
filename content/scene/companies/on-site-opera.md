@@ -31,6 +31,7 @@ social_media:
 title: On Site Opera
 type_of_company: Opera Company
 website: http://osopera.org/
+cms_visible: true
 ---
 
 Embarking on its sixth season of producing immersive site-specific opera, On Site Opera (OSO) has established itself as one of New York City’s most imaginative, nimble opera companies by doing more than simply staging musically and dramatically rich works outside of the opera house. OSO’s team of General & Artistic Director, Eric Einhorn, Music Director, Geoffrey McDonald, and Executive Director/Producer, Jessica Kiger have pushed the boundaries of operatic storytelling, producing operas in locations that allow singers and audiences alike to immerse themselves in the narrative. Reviewing the first chapter of *The Figaro Project*, in which OSO is staging lesser-known operatic adaptations of French playwright Pierre-Augustin Caron de Beaumarchais’ (1732-1799) famed trilogy of Figaro plays, Anthony Tommasini of *The New York Times* wrote, “This visionary company could be on to something big.” He also noted that the “space proved ideal for the intrigues of the opera.”

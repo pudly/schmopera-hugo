@@ -21,6 +21,7 @@ social_media:
   url: https://www.facebook.com/stefan.barner
 title: Stefan Barner
 website: https://www.stefanbarner.com/
+cms_visible: true
 ---
 Stefan Barner has been praised for his “masterful command of both style and technique” and recognized as a “vocal standout, with a vibrancy of tone and an exciting delivery that serve notice that he is a gifted lyric tenor with a big future ahead.” Mr. Barner recently made a role and company debut as the Prince with Resonance Works Pittsburgh in their production of Dvorak’s _Rusalka_. With Odyssey Opera, Mr. Barner recently performed the role of Algernon Moncrieff in Mario Castelnuovo-Tedesco’s adaptation of _The Importance of Being Earnest_ in their 2017 production and will return this fall as Lucas in Gounod's _Le médecin malgré lui_. Other highlights from 2017 include: Goro in _Madama Butterfly_ with Opera Theatre Connecticut, Rinuccio in _Gianni Schicchi_ with Salt Marsh Opera, Camille in _The Merry Widow_ with the Worcester Schubertiade, and the Padre in _The Man of La Mancha_ with New Repertory Theatre.
 

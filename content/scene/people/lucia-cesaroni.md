@@ -26,6 +26,7 @@ social_media:
   url: https://www.linkedin.com/in/lucia-cesaroni-b4821051/
 title: Lucia Cesaroni
 website: http://luciacesaroni.com/
+cms_visible: true
 ---
 With her “lush, creamy voice” and “giddy coloratura”, Italian-Canadian soprano Lucia Cesaroni is freshly in demand as some of opera’s most coveted heroines, making new signature roles out of Verdi’s Violetta, Puccini’s Mimì, and Mozart’s Donna Anna. Her rescheduled 2020/21 season sees her debut at North Carolina Opera as Mimì in _La bohème_, Violetta in Saskatoon Opera’s production of _La traviata_, Fiordiligi in Vancouver Opera’s _Così fan tutte_, and Donna Clara in Zemlinsky’s _Der Zwerg_ at the Enescu Festival in Romania. With Tapestry Opera, Ms. Cesaroni sang the role of Ava in the cast recording of the award-winning opera by Gareth Williams and Anna Chatterton, _Rocking Horse Winner_; the album was broadcast in late 2020 on CBC Radio’s _Saturday Afternoon at the Opera_. In the spring of 2021, Ms. Cesaroni performs Joe Hisaishi’s _The East Land Symphony_ with both the Toronto Symphony Orchestra and the Vancouver Symphony Orchestra.
 

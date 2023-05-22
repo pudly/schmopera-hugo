@@ -18,6 +18,7 @@ social_media:
 title: Beth Morrison Projects
 type_of_company: Opera & theatre company
 website: http://www.bethmorrisonprojects.org/
+cms_visible: true
 ---
 
 ### MISSION

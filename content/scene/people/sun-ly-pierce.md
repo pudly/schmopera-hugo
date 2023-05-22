@@ -10,6 +10,7 @@ slug: sun-ly-pierce
 social_media: []
 title: Sun-Ly Pierce
 website: https://www.sunlypiercemezzo.com/
+cms_visible: true
 ---
 Chinese-American mezzo-soprano Sun-Ly Pierce is quickly distinguishing herself as an exciting communicator and artist in the opera world.
 

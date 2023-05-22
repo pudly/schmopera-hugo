@@ -23,6 +23,7 @@ social_media:
   url: https://www.instagram.com/haileyclarksoprano/
 title: Hailey Clark
 website: http://www.haileyclarksoprano.com/home.html
+cms_visible: true
 ---
 
 Hailed for her brilliant, highly refined soprano voice and dynamic interpretations, American soprano Hailey Clark is quickly becoming a young soprano on the rise in both Europe and North America. She is the recipient Österreichischer Musiktheaterpreis (Austrian Music Theater Prize in Opera) in the category of 'Best Female Leading Role' for her performance as Alma Beers in *Brokeback Mountain* (2016) at the Salzburger Landestheater.

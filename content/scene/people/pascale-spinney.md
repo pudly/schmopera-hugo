@@ -17,6 +17,7 @@ social_media:
   template: social-media
   url: https://twitter.com/PascaleSpinney
 title: Pascale Spinney
+cms_visible: true
 ---
 
 Mezzo-soprano Pascale Spinney, from Montreal QC, is completing her first year as a young artist at the Atelier Lyrique of the Opéra de Montréal.  She obtained her Master’s degree from the Schulich School of Music of McGill University. Several roles at McGill stand out, such as Miles in Britten’s *The Turn of the Screw*, Third Lady in *Die Zauberflöte*, Epicene in the Canadian premiere of John Musto and Mark Campbell’s *Volpone*, Eustazio in *Rinaldo*; a role for which Le Devoir described her as a “...voice of great presence…”, and culminating in the title role in *Giulio Cesare in Egitto*. 

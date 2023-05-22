@@ -24,6 +24,7 @@ social_media:
   url: https://www.youtube.com/channel/UCIuHLGJqNpXU-D-NYpKC1VA
 title: Jack Swanson
 website: https://www.jackswansontenor.com/
+cms_visible: true
 ---
 
 With an affinity for high lyric repertoire and some of opera's most acrobatic arias, young American tenor Jack Swanson is quickly becoming one of the most sought after voices in opera. In Europe, he makes his debut on the Glyndebourne Tour this season as Conte Almaviva (*Il barbiere di Siviglia*) and with Orchestre National de Lyon in a series of concerts celebrating the Leonard Bernstein centenary. 

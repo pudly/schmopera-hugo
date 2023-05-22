@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/Mary_E_Hangley
 title: Mary Evelyn Hangley
 website: https://www.maryevelynhangley.com/
+cms_visible: true
 ---
 
 Originally from Long Beach, NY,  soprano Mary Evelyn Hangley is a first-year Resident Artist with Minnesota Opera and appears as Lady Capulet in *Romeo and Juliet*, Woglinde in *Das Rheingold*, Miss Copeland in William Bolcom and Mark Campbell’s world premiere of *Dinner at Eight*, and Musetta in *La bohème*.

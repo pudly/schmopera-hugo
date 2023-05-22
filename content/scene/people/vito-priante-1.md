@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/VitoPriante
 title: Vito Priante
 website: ""
+cms_visible: true
 ---
 Baritone Vito Priante’s voice has been described as elegant and burnished, stylish and seductive, agile and lively. A rising operatic star, he has performed across Europe in venerable theatres including La Scala in Milan, the State Operas in Vienna, Munich, Berlin, Teatro San Carlo in Naples, Opéra de Lyon, ROH Covent Garden, Barcelona, the Teatro dell’Opera di Roma, at the Salzburg and Edinburgh festivals, and with internationally renowned conductors Riccardo Muti, Daniel Barenboim, Ivor Bolton, and Daniel Harding among others.
 

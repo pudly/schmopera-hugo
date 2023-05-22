@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/przybylo
 title: Shantelle Przybylo
 website: http://againstthegraintheatre.com/
+cms_visible: true
 ---
 
 Canadian soprano Shantelle Przybylo is a recent graduate of Washington National Opera’s Domingo-Cafritz Young Artist Program. At WNO, she sang Pamina and Papagena in *The Magic Flute*, Giannetta in *L’Elisir d’Amore*, Gretel in *Hansel and Gretel*, as well as Zerlina in *Don Giovanni*, a role which she reprised at the Green Mountain Opera Festival in summer 2013.

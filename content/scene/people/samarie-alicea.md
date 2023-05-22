@@ -11,6 +11,7 @@ related_companies:
 slug: samarie-alicea
 title: Samarie Alicea
 website: http://www.samariealicea.com/
+cms_visible: true
 ---
 
 Praised by The New York Times for her "bright-voiced and endearing soprano" Puerto Rican soprano Samarie Alicea is an emerging singing actress gaining recognition.  Samarie recently sang as Aire in *Los Elementos* at the New York's Couture Fashion Week with NYCO & Opera Carolina's Opera Recycles.  This season included her return Off-Broadway reprising the role of Susanna in *Figaro 90210!* and her soloist debut with the New York City Opera as Aire in Antonio de Literes' Los Elementos.  Critics praised her Aire performance as a "soprano like a warm breeze, easily floating, with a consistent caramel tone, and she is irrepressibly sunny presence on the stage".  This season also included the role of Clorinda in *La Cenerentola* as part of NYCO's 2017 Park Series at Bryant Park, New York. 

@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/ArchibaldJane
 title: Jane Archibald
 website: http://janearchibald.com/
+cms_visible: true
 ---
 
 <p>

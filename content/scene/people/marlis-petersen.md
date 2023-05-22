@@ -16,6 +16,7 @@ related_companies:
 - scene/companies/lyric-opera-of-chicago.md
 slug: marlis-petersen
 title: Marlis Petersen
+cms_visible: true
 ---
 
 What the artistic world and audiences find so enchanting about Marlis Petersen is an ability to combine a voice of rare crystal clarity and brightness with an alert presence that enables her to completely identify with all her roles on the stage.

@@ -24,6 +24,7 @@ social_media:
   url: https://twitter.com/KeriAlkema
 title: Keri Alkema
 website: http://www.kerialkema.com/
+cms_visible: true
 ---
 
 A voice with an “appealing brew of dark and creamy colors” (*New York Times*), lirico-spinto soprano Keri Alkema has been praised for her “tonal opulence” (*Washington Post*) and “incisive musicality”. (*New York Times*) 

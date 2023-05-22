@@ -27,6 +27,7 @@ social_media:
   url: https://twitter.com/andreacnunez
 title: Andrea Nuñez
 website: https://www.andreanunezsoprano.com/
+cms_visible: true
 ---
 Praised for her "blinding brilliance," Canadian Soprano **Andrea Núñez** is establishing herself as a versatile young artist.
 

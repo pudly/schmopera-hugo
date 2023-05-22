@@ -20,6 +20,7 @@ social_media:
   url: https://www.instagram.com/vrae18/
 title: Vanessa Becerra
 website: https://www.vanessabecerra.com/
+cms_visible: true
 ---
 
 Emerging soprano Vanessa Becerra has received acclaim for her “opulent” and “silvery” voice, and for her dynamic stage presence. A graduate of LA Opera’s Domingo-Colburn-Stein Young Artist Program, her performances during her tenure included Papagena in *Die Zauberflöte*, Barbarina in *Le nozze di Figaro*, and Annina in *La traviata*. She was also featured as Gossip 2 in the Grammy nominated recording of *The Ghosts of Versailles*. A native of Fort Worth, Texas, Ms. Becerra made her professional debut with Fort Worth Opera in 2014, in the highly acclaimed production of *With Blood With Ink* for which she was praised for her “passionate theatrical intensity” (Wall Street Journal) and  her “irresistible characterization” (Opera News).

@@ -15,6 +15,7 @@ related_companies:
 - scene/companies/english-national-opera.md
 slug: mark-le-brocq
 title: Mark Le Brocq
+cms_visible: true
 ---
 
 Mark Le Brocq held a choral scholarship at St. Catharine’s College, Cambridge where he read English. He studied at the Royal Academy of Music with Kenneth Bowen and later continued at the National Opera Studio where he was sponsored by The Friends of English National Opera.

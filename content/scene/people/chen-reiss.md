@@ -22,6 +22,7 @@ social_media:
   url: https://twitter.com/chenreiss
 title: Chen Reiss
 website: https://www.chenreiss.com/
+cms_visible: true
 ---
 
 Soprano Chen Reiss performed leading parts at the Vienna State Opera, Bavarian State Opera, Théâtre des Champs-Élysées, Teatro alla Scala, Semperoper Dresden, Deutsche Oper Berlin, Hamburg State Opera, De Nederlandse Opera Amsterdam, Wiener Festwochen, Maggio Musicale Fiorentino, Opera Company of Philadelphia and the Israeli Opera.

@@ -24,6 +24,7 @@ social_media:
   url: https://www.facebook.com/ashleyemersonsoprano
 title: Ashley Emerson
 website: https://www.ashleyemersonsoprano.com/
+cms_visible: true
 ---
 With her sparkling voice and stage presence, soprano Ashley Emerson has been described as a "vocal and dramatic delight." In the 2019-2020 season, Ms. Emerson returns to the Metropolitan Opera for her acclaimed portrayal of Papagena in _The Magic Flute_, and makes two company debuts in familiar roles: Blondchen in Die _Entführung aus dem Serail_ with Opera Omaha, and Flora in _The Turn of the Screw_ with On Site Opera. In the 2018-2019 season, Ms. Emerson performed the roles of Laura Fleet in the North American premiere of Nico Muhly’s _Marnie_, which was broadcast Live in HD to movie theaters worldwide, as well as Brigitte in Iolanta, and Papagena in _The Magic Flute_, all at The Metropolitan Opera. She also curated a recital of love songs based on the works of Robert and Clara Schumann which she performed at The Crosby Center in Belfast, Maine; and will take the recital to numerous venues in upcoming seasons.
 

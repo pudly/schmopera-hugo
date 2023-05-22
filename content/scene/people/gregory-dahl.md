@@ -16,6 +16,7 @@ related_companies:
 slug: gregory-dahl
 title: Gregory Dahl
 website: http://www.gregorydahl.com/
+cms_visible: true
 ---
 
 <p>

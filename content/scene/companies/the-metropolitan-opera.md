@@ -300,6 +300,7 @@ social_media:
 title: The Metropolitan Opera
 type_of_company: Opera Company
 website: http://www.metopera.org/
+cms_visible: true
 ---
 
 <p>

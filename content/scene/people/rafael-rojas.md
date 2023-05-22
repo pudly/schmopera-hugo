@@ -14,6 +14,7 @@ slug: rafael-rojas
 social_media: []
 title: Rafael Rojas
 website: ""
+cms_visible: true
 ---
 Born in Mexico‚ Rafael Rojas studied at the University of Guadalajara‚ the Royal Scottish Academy of Music and Drama and the Royal Northern College of Music.
 

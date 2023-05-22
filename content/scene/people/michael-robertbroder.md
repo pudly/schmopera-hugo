@@ -11,6 +11,7 @@ related_companies:
 slug: michael-robertbroder
 title: Michael Robert-Broder
 website: http://www.michaelrobertbroder.com/content/biography
+cms_visible: true
 ---
 
 Michael Robert-Broder, baritone – Native to Vancouver, Michael Robert-Broder has established himself as one of Canada's most versatile young baritones. Equally at home with art song, oratorio, and opera, he has gained a reputation for engaging performances that perfectly join poet’s text with composer’s music, with the dramatic essence of a piece.

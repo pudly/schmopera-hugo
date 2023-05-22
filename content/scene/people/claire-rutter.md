@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/_Claire_Rutter
 title: Claire Rutter
 website: http://www.clairerutter.com/
+cms_visible: true
 ---
 
 Born in South Shields, Claire Rutter studied at the Guildhall School of Music and Drama and at the National Opera Studio, sponsored by The Friends of English National Opera. She received outstanding reviews for her performance in English National Opera’s new production of *Lucrezia Borgia* ( “In the title role, Claire Rutter gives a glorious display of bel canto, with elegant legato, supple crescendo and diminuendo, crisply articulated runs, stunning high notes and even a trill. She looks wonderful and moves regally,” wrote The Daily Telegraph) and for ENO she has also sung Donna Anna (*Don Giovanni*), the title roles in *Tosca* and *Aïda*, Amelia (*Un ballo in maschera*), Elvira (*Ernani*), Gilda (*Rigoletto*) and Violetta (*La traviata*).

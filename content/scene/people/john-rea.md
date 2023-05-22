@@ -14,6 +14,7 @@ social_media:
   url: https://soundcloud.com/johnnyrea
 title: John Rea
 website: http://www.johnreamusic.com/
+cms_visible: true
 ---
 Recipient of many awards, John Rea has been frequently commissioned and has written works in several genres: chamber music, music-theatre, electroacoustic music, and compositions for large ensemble such as orchestra, ballet, choral, and opera. Orchestras across Canada and in Europe have performed his music.
 

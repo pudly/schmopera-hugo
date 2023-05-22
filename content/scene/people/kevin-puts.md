@@ -15,6 +15,7 @@ social_media:
   url: https://www.facebook.com/KevinPutsMusic
 title: Kevin Puts
 website: http://www.kevinputs.com/
+cms_visible: true
 ---
 
 Winner of the 2012 Pulitzer Prize for his debut opera *Silent Night*, Kevin Puts has been hailed as one of the most important composers of his generation. Critically acclaimed for a richly colored, harmonic, and freshly melodic musical voice that has also been described as “emotional, compelling, and relevant,” his works, which include two operas, four symphonies, and several concertos, have been commissioned, performed, and recorded by leading orchestras, ensembles and soloists throughout the world.

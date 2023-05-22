@@ -20,6 +20,7 @@ social_media:
   url: https://twitter.com/chrismaltman
 title: Christopher Maltman
 website: http://christophermaltman.moonfruit.com/#
+cms_visible: true
 ---
 
 Winner of the Lieder Prize at the 1997 Cardiff Singer of the World Competition he studied singing at the Royal Academy of Music.

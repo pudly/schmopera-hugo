@@ -17,6 +17,7 @@ social_media:
 title: New York Opera Alliance
 type_of_company: Opera collective
 website: http://nyoperaalliance.org/NYOA/index2.aspx
+cms_visible: true
 ---
 
 #### Who We Are

@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/san-diego-opera.md
 slug: anthony-clark-evans
 title: Anthony Clark Evans
+cms_visible: true
 ---
 
 Rising American baritone Anthony Clark Evans makes major debuts in the 2016-2017

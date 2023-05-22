@@ -21,6 +21,7 @@ social_media:
 title: Toronto Masque Theatre
 type_of_company: Opera Company
 website: http://www.torontomasquetheatre.com/
+cms_visible: true
 ---
 
 <p>

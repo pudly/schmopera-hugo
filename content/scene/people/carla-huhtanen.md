@@ -19,6 +19,7 @@ social_media:
   url: https://twitter.com/CarlaSoprano
 title: Carla Huhtanen
 website: http://www.carlahuhtanen.com/
+cms_visible: true
 ---
 
 <p>

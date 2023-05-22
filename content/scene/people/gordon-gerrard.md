@@ -21,6 +21,7 @@ social_media:
   url: https://twitter.com/GordonTGerrard
 title: Gordon Gerrard
 website: http://www.gordongerrard.com/index.php
+cms_visible: true
 ---
 
 Gordon Gerrard is a respected figure in the new generation of Canadian musicians. Trained first as a pianist and subsequently as a specialist in operatic repertoire, Gordon brings a fresh perspective to the podium. His passion and his dedication to producing thrilling musical experiences have endeared him to his fellow musicians and the public alike.

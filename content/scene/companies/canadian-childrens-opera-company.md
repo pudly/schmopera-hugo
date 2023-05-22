@@ -18,6 +18,7 @@ social_media:
 title: Canadian Children&#039;s Opera Company
 type_of_company: Children's Chorus
 website: http://www.canadianchildrensopera.com/index.php
+cms_visible: true
 ---
 
 The Canadian Children's Opera Company (originally Chorus) was founded in 1968 by Ruby Mercer and Music Director Lloyd Bradshaw specifically to provide a stable source of child singers for productions of the Canadian Opera Company. 

@@ -14,6 +14,7 @@ social_media:
   url: https://www.youtube.com/channel/UCshi43X3Ar6gNNExfRJmKRw
 title: Bryn Holdsworth
 website: https://www.brynholdsworth.com/
+cms_visible: true
 ---
 Praised by the New York Times for her "limpid-tone, articulate soprano", Bryn Holdsworth is already garnering attention on stages throughout the country.
 

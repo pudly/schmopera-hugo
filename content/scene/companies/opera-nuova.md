@@ -46,6 +46,7 @@ social_media:
 title: Opera NUOVA
 type_of_company: Opera Training Program
 website: http://www.operanuova.ca/
+cms_visible: true
 ---
 
 <p>

@@ -16,6 +16,7 @@ related_companies:
 - scene/companies/gran-teatre-del-liceu.md
 slug: liudmyla-monastyrska
 title: Liudmyla Monastyrska
+cms_visible: true
 ---
 
 Ukrainian Liudmyla Monastyrska’s rich, dramatic soprano has caught the attention of press andaudiences alike since 1996, when she made her stage debutas Tatiana in Tchaikovsky’s *Eugene Onegin* in Kiev. A modern artist with a classic sensibility regarding the art of singing, Ms. Monastyrska is acclaimed for her lush, powerful, compelling performances and superb technical command. Her relationships with European, American and Asian opera houses have continued toexpand following her highly acclaimed European 2010 debut with Deutsche Oper Berlin in the title role of Puccini’s *Tosca*. 

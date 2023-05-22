@@ -10,6 +10,7 @@ related_companies:
 slug: steven-humes
 title: Steven Humes
 website: http://stevenchumes.weebly.com/
+cms_visible: true
 ---
 
 An operatic performer, passionate music educator, and instinctive conductor, Steven Humes has already experienced a diverse musical career.  

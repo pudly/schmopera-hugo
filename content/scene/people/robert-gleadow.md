@@ -14,6 +14,7 @@ related_companies:
 - scene/companies/royal-conservatory-of-music.md
 slug: robert-gleadow
 title: Robert Gleadow
+cms_visible: true
 ---
 
 Canadian bass-baritone Robert Gleadow continues to make his mark on operatic and concert stages around the world since his graduation from the Jette Parker Young Artists program of the Royal Opera Covent Garden and the Canadian Opera Company Ensemble Studio. Mr. Gleadow’s performances at Houston Grand Opera as Talbot in Donizetti’s *Maria Stuarda* alongside Joyce DiDonato and under the baton of Patrick Summers were characterized as “never lacking conviction or genuine concern” and it was noted that “his plangent bass rang out with a sonic boom.”

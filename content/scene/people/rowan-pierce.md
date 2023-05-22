@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/rowan_pierce
 title: Rowan Pierce
 website: http://www.rowanpierce.co.uk/
+cms_visible: true
 ---
 Yorkshire born soprano Rowan Pierce was awarded the President’s Award by HRH Prince of Wales at the Royal College of Music in 2017. She won both the Song Prize and First Prize at the inaugural Grange Festival International Singing Competition, the Van Someren Godfery Prize at the RCM and the first Schubert Society Singer Prize in 2014. She has recently been made a Rising Star of the Orchestra of the Age of Enlightenment.
 

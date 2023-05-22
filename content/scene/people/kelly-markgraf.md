@@ -16,6 +16,7 @@ social_media:
   url: https://www.instagram.com/kelly_markgraf/
 title: Kelly Markgraf
 website: https://www.kellymarkgrafbaritone.com/
+cms_visible: true
 ---
 Bass-baritone Kelly Markgraf has been hailed by the _New York Times_ for his "heart-stirring" singing and "charismatic" stage presence. Respected as a singing actor of depth and versatility, he has performed music from the Baroque to that composed expressly for him. In the summer of 2017 he created the role of Paul Jobs in Mason Bates’ premiere _The (R)evolution of Steve Jobs_ at the Santa Fe Opera, which later received a 2019 GRAMMY Award for Best Opera Recording.  He also created the role of Hannah-Before in Laura Kaminsky’s transgender opera _As One_, one of the most frequently performed new operas in the United States today. Since its widely acclaimed premiere at BAM, Mr Markgraf has reprised the role many times including recent productions with Opera Colorado and San Diego Opera.
 

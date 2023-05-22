@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/EERfido
 title: Ernesto Ramirez
 website: http://www.ernestoramirez.ca/
+cms_visible: true
 ---
 
 <p>

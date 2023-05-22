@@ -46,6 +46,7 @@ social_media:
 title: Arizona Opera
 type_of_company: Opera Company
 website: http://www.azopera.org/
+cms_visible: true
 ---
 
 INTRODUCTION

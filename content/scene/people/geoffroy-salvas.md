@@ -12,6 +12,7 @@ related_companies:
 slug: geoffroy-salvas
 title: Geoffroy Salvas
 website: http://geoffroysalvas.com/
+cms_visible: true
 ---
 
 Geoffroy Salvas is artist-in-residence of the Atelier de l’Opéra de Montréal for the 2015/2016 season. He has been a student of Aline Kutan at the Conservatoire de musique de Montréal until 2012. He performed such roles as Le Gendarme (*Les mamelles de Tirésias*), Larkens (*La Fanciulla del West*), Le Vice-Roi (*La Périchole*) and Ein Kappadozier (*Salome*). He has also sung in *Ein deutsches Requiem* (Brahms) and Petite messe solennelle (Rossini). He has been involved in the premiere of a number of works of Montreal’s contemporary musical scene. In fall 2015, Salvas will perform the role of Mercutio as part of Emerging Artists Concerts on tour organized by Jeunesses Musicales of Canada (JMC) .

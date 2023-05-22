@@ -13,6 +13,7 @@ related_companies:
 slug: julien-behr
 title: Julien Behr
 website: http://www.julienbehr.com/
+cms_visible: true
 ---
 
 Julien Behr was born in Lyon. He was awarded the "singers' revelation of the year" in 2009 by the French musicians' association ADAMI and was among the 3 nominees in the category "singer's revelation of the year" at the Victoires de la musique classique in 2013. He entered the Boys' Choir of the Lyon Cathedral when he was six. He graduated from Lyon University with a Master degree in business law. He however abandoned his plans to become a lawyer in order to devote himself completely to music. In 2010, he graduated from his vocal studies at the Conservatoire National Supérieur de Musique in Lyon.

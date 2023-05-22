@@ -16,6 +16,7 @@ social_media:
   url: https://twitter.com/missprill
 title: Marion Newman
 website: http://www.marionnewman.com/
+cms_visible: true
 ---
 
 First Nations mezzo-soprano Marion Newman "has a distinctive, dusky voice that suggests drama with every note" (*Toronto Star*) and has been designated "a show stealer" by *BBC Music Magazine*. 

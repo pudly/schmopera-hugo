@@ -21,6 +21,7 @@ social_media:
   url: https://soundcloud.com/andrew-staniland-1
 title: Andrew Staniland
 website: http://andrewstaniland.com/
+cms_visible: true
 ---
 
 Described as a “new music visionary” (National Arts Centre), composer Andrew Staniland has established himself as one of Canada’s most important and innovative musical voices. His music is performed and broadcast internationally and has been described by Alex Ross in the New Yorker Magazine as “alternately beautiful and terrifying”.  Among other accolades, Andrew is the recipient of two Juno nominations for *Dark Star Requiem* in 2017, was awarded the Terra Nova Young Innovators Award in 2016, was the National Grand Prize winner of EVOLUTION (presented in 2009 by CBC Radio 2/Espace Musique and The Banff Centre), and was the recipient of the Karen Keiser Prize in Canadian Music in 2004. As a leading composer of his generation, Andrew has been recognized by election to the Inaugural Cohort of the College of New Scholars, Artists and Scientists Royal Society of Canada.

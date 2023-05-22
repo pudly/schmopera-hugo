@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/ashleyriches
 title: Ashley Riches
 website: https://www.ashleyriches.com/
+cms_visible: true
 ---
 
 British bass-baritone Ashley Riches read English at the University of Cambridge where he was a member of the King’s College Choir. He studied at the Guildhall School of Music and Drama and subsequently joined the Jette Parker Young Artist Programme at the Royal Opera House. This season he joins the BBC New Generation Artist scheme.

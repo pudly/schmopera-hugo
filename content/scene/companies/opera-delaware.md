@@ -17,6 +17,7 @@ social_media:
 title: Opera Delaware
 type_of_company: Opera Company
 website: http://www.operade.org/
+cms_visible: true
 ---
 
 ## Our Mission:

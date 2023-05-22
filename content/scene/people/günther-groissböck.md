@@ -14,6 +14,7 @@ slug: gunther-groissbock
 social_media: []
 title: Günther Groissböck
 website: http://www.guenther-groissboeck.com/
+cms_visible: true
 ---
 Günther Groissböck studied at the University of Music and Performing Arts in Vienna, first with Robert Holl and later with José van Dam. He is a regular guest at leading venues worldwide, such as the Metropolitan Opera New York, the Milan Scala, the Bavarian State Opera in Munich, the Vienna State Opera, the Opéra de Paris, the State Opera and the Deutsche Oper Berlin, the Salzburg and Bayreuth Festival. His operatic repertoire includes Baron Ochs (_Der Rosenkavalier_), Boris Godunov, Fasolt, Hunding (_Die Walküre_), Landgraf Herrmann (_Tannhäuser_), Veit Pogner (Die Meistersinger von Nürnberg), König Marke (_Tristan und Isolde_), Gurnemanz (_Parsifal_), King Heinrich (_Lohengrin_), Daland (_The Flying Dutchman_), Caspar (_The Freischütz_), Vodník (_Rusalka_), Sarastro (_The Magic Flute_), Kecal (_The Bride Sold_), Rocco (_Fidelio_).
 

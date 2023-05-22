@@ -17,6 +17,7 @@ social_media:
   url: https://twitter.com/NColasSoprano
 title: Nathalie Colas
 website: http://www.nathalie-colas.com/
+cms_visible: true
 ---
 
 Soprano Nathalie Colas is a versatile and curious musician, artist, producer and music advocate.

@@ -15,6 +15,7 @@ related_companies:
 - scene/companies/houston-grand-opera.md
 slug: kristinn-sigmundsson
 title: Kristinn Sigmundsson
+cms_visible: true
 ---
 
 Lauded for his portrayal of Baron Ochs in *Der Rosenkavalier* that he “dealt in revelations,” the Financial Times further praises Icelandic bass Kristinn Sigmundsson, “His tone dark and his dynamic range broad, he exuded raw power, crusty lust and comic bravado, all reinforced by a trace of gravitas.” 

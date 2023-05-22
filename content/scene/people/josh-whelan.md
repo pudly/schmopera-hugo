@@ -13,6 +13,7 @@ related_companies:
 - scene/companies/university-of-toronto-opera.md
 slug: josh-whelan
 title: Josh Whelan
+cms_visible: true
 ---
 
 A native of Halifax, Nova Scotia, Josh Whelan has been heard in a large array of repertoire including the title roles of *Don Giovanni* (Accademia Europea dell’Opera), *Le Nozze di Figaro* (Centre for Opera Studies in Italy), and *Aleko* (Opera Five).

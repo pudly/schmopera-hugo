@@ -21,6 +21,7 @@ social_media:
 title: Chicago Fringe Opera
 type_of_company: Opera Company
 website: http://www.chicagofringeopera.com/
+cms_visible: true
 ---
 
 We transform traditional concepts of classical performance etiquette to bring a straightforward and authentic presence to the Chicago music scene.

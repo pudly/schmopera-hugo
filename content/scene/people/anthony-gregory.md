@@ -12,6 +12,7 @@ social_media:
   template: social-media
   url: https://twitter.com/ajgregory_tenor
 title: Anthony Gregory
+cms_visible: true
 ---
 
 Currently a Harewood Artist at English National Opera, he was a Jerwood Young Artist for 2010 at Glyndebourne and a trainee of the prestigious National Opera Studio in 2011/12.

@@ -18,6 +18,7 @@ social_media:
 title: Experiments in Opera
 type_of_company: Opera Company
 website: http://experimentsinopera.com/
+cms_visible: true
 ---
 ### Our Vision
 

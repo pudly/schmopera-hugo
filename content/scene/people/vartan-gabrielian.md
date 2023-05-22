@@ -19,6 +19,7 @@ social_media:
   url: https://www.instagram.com/vartangabrielian/
 title: Vartan Gabrielian
 website: https://vartangabrielian.com/
+cms_visible: true
 ---
 Canadian-Armenian bass-baritone Vartan Gabrielian is a recent graduate of the Canadian Opera Company’s ensemble program and the Santa Fe Apprentice program. While still a student, he made his professional debut with the Opéra de Montréal performing the role of Sparafucile (_Rigoletto_).
 

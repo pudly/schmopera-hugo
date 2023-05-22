@@ -23,6 +23,7 @@ social_media:
   url: https://www.youtube.com/channel/UC0V03DZHaNQ4LJw2PXbqbTQ
 title: Annalisa Stroppa
 website: http://www.annalisastroppa.it/
+cms_visible: true
 ---
 
 Annalisa Stroppa began studying classic piano at an early age and later completed her

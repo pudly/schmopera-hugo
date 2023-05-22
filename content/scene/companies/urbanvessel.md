@@ -17,6 +17,7 @@ social_media:
 title: Urbanvessel
 type_of_company: Opera/Theatre Company
 website: https://urbanvessel.wordpress.com/
+cms_visible: true
 ---
 
 At the intersection of multiple disciplines and cultures, Urbanvessel forges new connections, reflects contemporary life, and subverts social assumptions. Centred in the power of the human voice, Urbanvessel‘s creative works aim to alter our audience’s perspective on their world.

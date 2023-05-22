@@ -22,6 +22,7 @@ social_media:
   url: https://www.youtube.com/user/jbjcurly
 title: Joshua Jeremiah
 website: http://www.joshuajeremiahbaritone.com/
+cms_visible: true
 ---
 
 Joshua Jeremiah’s singing has been described by critics throughout the country as splendid, gorgeous, other-worldly, mellifluous and confident.

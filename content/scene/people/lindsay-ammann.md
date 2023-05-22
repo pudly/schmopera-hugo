@@ -22,6 +22,7 @@ social_media:
   url: https://www.instagram.com/lindsayammann/
 title: Lindsay Ammann
 website: https://www.lindsayammann.com/
+cms_visible: true
 ---
 With a voice "capable of sinister low chest tones and robust high notes" (Pittsburgh Post-Gazette) and a stage presence that has been called "a force" (Opera News), dramatic mezzo-soprano Lindsay Ammann is rapidly rising as a radiant star in the opera world. Possessing an instrument well-suited for the most dramatic of roles, Ms. Ammann is proving to be a future staple in the works of Verdi and Wagner.  
   

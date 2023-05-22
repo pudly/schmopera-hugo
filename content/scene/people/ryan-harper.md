@@ -12,6 +12,7 @@ related_companies:
 - scene/companies/off-centre-music-salon.md
 slug: ryan-harper
 title: Ryan Harper
+cms_visible: true
 ---
 
 Ryan is a proud Torontonian who makes his home in the west end of the city with his lovely wife, Lydia.  Ryan received his Bachelor degree in Vocal Performance from the University of Toronto, completed a year in the Glenn Gould School, and completed his formal education by earning a Masters in Vocal Performance from The Florida State University.  Further education was pursued when attending the following programs: L’Atelier Lyrique (l’Opéra de Montréal,)   Bach Akademie Festival Ensemble, conductor Helmuth Rilling, Germany and Greece; Tanglewood Music Center, vocal arts fellowship, Massachusetts, U.S.A; Summer Opera Lyric Theatre, Toronto; National Arts Centre Summer Music Institute, teacher Benita valente, Ottawa, Canada; Highlands Opera, Richard Margison and Val Kuinka, Haliburton, Canada.  

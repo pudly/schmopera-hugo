@@ -24,6 +24,7 @@ related_companies:
 - scene/companies/opera-holland-park.md
 slug: alan-opie
 title: Alan Opie
+cms_visible: true
 ---
 
 Baritone Alan Opie is a regular guest at the Metropolitan Opera New York, La Scala, Wiener Staatsoper, Bayerische Staatsoper Munich, Santa Fe Festival, Glyndebourne Festival Opera, English National Opera, Welsh National Opera and Royal Opera House Covent Garden. He has also performed at the Bayreuth Festival, singing Beckmesser — a role also repeated in Berlin, Amsterdam, Munich, Vienna and Turin. At ENO he was nominated for the 'Outstanding Achievement in Opera' Olivier Award for his performance of *Falstaff*. 

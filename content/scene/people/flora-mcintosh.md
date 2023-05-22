@@ -11,6 +11,7 @@ related_companies:
 slug: flora-mcintosh
 title: Flora McIntosh
 website: http://floramcintosh.com/
+cms_visible: true
 ---
 
 Described by Opera Now as a mezzo soprano with "…a fabulously sexy voice of prodigious range", Flora McIntosh studied at the RNCM where she received generous support from the Peter Moores Foundation and the Countess of Munster Musical Trust. During her studies she won several awards including the Anne Ziegler Award and Ricordi Opera Prize. Flora now studies with Arwel Treharne Morgan; she is a Samling Artist and has participated in masterclasses with, amongst others, Malcolm Martineau, Jane Eaglen, Della Jones and Graham Vick.

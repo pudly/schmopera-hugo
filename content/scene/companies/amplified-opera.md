@@ -21,6 +21,7 @@ social_media:
 title: Amplified Opera
 type_of_company: ""
 website: https://www.amplifiedopera.com/
+cms_visible: true
 ---
 ## MANDATE
 

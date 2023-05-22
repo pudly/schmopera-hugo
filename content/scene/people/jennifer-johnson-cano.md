@@ -16,6 +16,7 @@ social_media:
   url: https://www.facebook.com/JennJohnsonCanoMezzo/
 title: Jennifer Johnson Cano
 website: http://www.jenniferjohnsoncano.net/
+cms_visible: true
 ---
 A naturally gifted singer noted for her commanding stage presence and profound artistry, Jennifer Johnson Cano has garnered critical acclaim.  During the 2018-2019 season, she returns to The Metropolitan Opera as Emilia in _Otello_ and Meg Page in _Falstaff_ and makes her role debut as Offred in Poul Ruders’s _The Handmaid’s Tale_ with Boston Lyric Opera. 
 

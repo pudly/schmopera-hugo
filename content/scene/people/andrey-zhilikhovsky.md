@@ -9,6 +9,7 @@ related_companies:
 - scene/companies/washington-national-opera.md
 slug: andrey-zhilikhovsky
 title: Andrey Zhilikhovsky
+cms_visible: true
 ---
 
 Moldovan baritone Andrey Zhilikhovsky completed his studies in choral conducting at the Stefan Nyaga Musical College in Chișinău, Moldova. Whilst at college, he also studied as a vocalist and upon graduation was given a place at the Rimsky-Korsakov State Conservatory in St Petersburg where he made his debut in the title role of *Eugene Onegin*.

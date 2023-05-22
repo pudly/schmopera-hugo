@@ -25,6 +25,7 @@ social_media:
   url: https://twitter.com/DIvashchenko
 title: Dimitry Ivashchenko
 website: http://dimitry-ivashchenko.de/
+cms_visible: true
 ---
 
 He was highly acclaimed by public and press alike when presenting his first Philippe of *Don Carlos* in the original French version in Darmstadt as well as for his appearance as Kaspar in *Der Freischütz* at the Baden-Baden Festival under Thomas Hengelbrock. Despite his young age, the Russian bass won also great acclaim for his impressive portrayal of Gurnemanz in *PArsifal* and for Méphistophélès in Gounod's *Faust*.

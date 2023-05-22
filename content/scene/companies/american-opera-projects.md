@@ -25,6 +25,7 @@ social_media:
 title: The American Opera Project
 type_of_company: Opera Company
 website: http://aopopera.org/
+cms_visible: true
 ---
 ### MISSION
 

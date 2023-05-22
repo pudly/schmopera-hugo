@@ -14,6 +14,7 @@ social_media:
   template: social-media
   url: https://twitter.com/jennie0909
 title: Jennifer Davis
+cms_visible: true
 ---
 
 Jennifer Davis, described by The Irish Times as "the voice to watch", is currently one of the Jette Parker Programme's Young Artists at the Royal Opera House, where her roles include Ifigenia in *Oreste*, Inez in *Il trovatore* and Arbate in *Mitridate, re di Ponto*, Fiordiligi in *Così fan tutte* (cover), Adina in *L’elisir d’amore* (cover), Tatyana in *Eugene Onegin* (cover) Second Grace/Second Fate in *Orpheus* at the Sam Wanamaker Playhouse, Shakespeare's Globe, Nursing Sister in *Suor Angelica*, the world premiere of *4.48 Psychosis* at the Lyric Hammersmith. In addition, she will perform with The Royal Ballet as Elisabeth in *Les enfants terribles* and in a double bill including Gorecki's Third Symphony and Woolf Works to a score by Max Richter.

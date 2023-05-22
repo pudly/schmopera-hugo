@@ -20,6 +20,7 @@ social_media:
   url: https://www.instagram.com/opera76/
 title: Michelle Trainor
 website: https://michelletrainor.com/
+cms_visible: true
 ---
 Opera News hailed that "Michelle Trainor gave one of the most satisfying performances of the evening...her voice is richer and more expressive than ever" for her portrayal of Brangain in Boston Lyric Opera’s _The Love Potion_. The Musical Intelligencer has called her performance of _Hagar’s Lament_ "spell-binding and intense" and The Wall Street Journal acclaimed that she "displayed a powerful, penetrating soprano as Brangain." Michelle performed with the Tuscia Opera Festival in Viterbo, Italy where she was praised by Filippo Tadonlini for her "intense and full-bodied vocalism". 
 

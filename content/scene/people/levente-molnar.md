@@ -19,6 +19,7 @@ social_media:
   url: https://www.facebook.com/LeventeMolnarOperaSingerOfficial/
 title: Levente Molnár
 website: http://www.leventemolnar.com/en/
+cms_visible: true
 ---
 
 Levente Molnár was born in Transylvania and studied voice at the University of Music in Oradea.

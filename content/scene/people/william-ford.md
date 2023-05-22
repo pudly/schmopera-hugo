@@ -11,6 +11,7 @@ related_companies:
 - scene/companies/halifax-summer-opera-festival.md
 slug: william-ford
 title: William Ford
+cms_visible: true
 ---
 
 William Ford, tenor, is a recent graduate of the Technical Diploma in Operatic Performance program at the University of Toronto, studying with soprano Wendy Nielsen and tenor Patrick Raftery. William also holds a Masters of Music from Western University where he studied with tenor Torin Chiles, and a Bachelor of Music from the University of Windsor where he studied with mezzo-soprano Elsie Inselman.

@@ -23,6 +23,7 @@ social_media:
   url: https://twitter.com/morley_erin
 title: Erin Morley
 website: http://www.erinmorley.com/
+cms_visible: true
 ---
 
 Erin Morley is one of today's most sought after coloratura sopranos. She has stepped into the international spotlight in recent years with a string of critically acclaimed appearances in the great opera houses of the world.

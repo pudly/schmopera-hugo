@@ -21,6 +21,7 @@ social_media:
   url: https://www.facebook.com/Joseph-Kaiser-163745036880/
 title: Joseph Kaiser
 website: http://www.josephkaiser.com/
+cms_visible: true
 ---
 
 Joseph Kaiser is recognized by audiences for his beauty of tone, intelligence of programming, and innate sense of style and elegance.  He is internationally acclaimed as one of the most gifted artists of his generation and enjoys success in opera, oratorio, and concert throughout North America and Europe.

@@ -26,6 +26,7 @@ social_media:
   url: https://twitter.com/bspirit2
 title: Blythe Gaissert
 website: http://www.blythegaissert.com/
+cms_visible: true
 ---
 
 Mezzo-Soprano Blythe Gaissert has established herself as a fresh and exciting artist in great demand in the United States for opera, concert and recital engagements. This Texas native has received great praise from critics for her rich sound and intense, dramatic interpretations of operatic roles.

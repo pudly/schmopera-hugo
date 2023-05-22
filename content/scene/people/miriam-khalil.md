@@ -30,6 +30,7 @@ social_media:
   url: https://www.instagram.com/songbirdkhalil/
 title: Miriam Khalil
 website: http://www.miriamkhalil.com/Home.html
+cms_visible: true
 ---
 Two time Juno nominated artist, Miriam Khalil has established herself as one of Canada’s most versatile and expressive performers. She has become increasingly known for her non traditional performances of opera, art song and concert repertoire.
 

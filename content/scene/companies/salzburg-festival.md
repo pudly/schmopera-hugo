@@ -91,6 +91,7 @@ social_media:
 title: Salzburg Festival
 type_of_company: Opera Festival
 website: http://www.salzburgerfestspiele.at/summer
+cms_visible: true
 ---
 
 The Salzburg Festival was inaugurated on August 22, 1920, when Hugo von Hofmannsthal’s morality play Jedermann was premiered on the Domplatz, directed by Max Reinhardt. Since that time, the Salzburg Festival has established itself as the most important festival for opera, drama and concerts.

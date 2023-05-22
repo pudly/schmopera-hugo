@@ -18,6 +18,7 @@ social_media:
   url: https://twitter.com/Kirlchen
 title: Kira Braun
 website: http://kirabraunsoprano.instantencore.com/web/home.aspx
+cms_visible: true
 ---
 
 <p>

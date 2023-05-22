@@ -19,6 +19,7 @@ related_companies:
 - scene/companies/salzburg-festival.md
 slug: jane-henschel
 title: Jane Henschel
+cms_visible: true
 ---
 Jane Henschel was born in Wisconsin, studied at the University of Southern California and subsequently moved to Germany. 
 

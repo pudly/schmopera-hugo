@@ -18,6 +18,7 @@ social_media:
   template: social-media
   url: https://twitter.com/lesdala
 title: Leslie Dala
+cms_visible: true
 ---
 
 <p>

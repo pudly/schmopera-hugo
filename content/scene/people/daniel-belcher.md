@@ -15,6 +15,7 @@ related_companies:
 slug: daniel-belcher
 title: Daniel Belcher
 website: http://www.danielbelcherbaritone.com/
+cms_visible: true
 ---
 
 "Vocally and physically agile, bright voiced and moving" (*The New York Times*), Grammy Award-winning baritone Daniel Belcher has been hailed by London’s The Guardian as "possessing the kind of stuff that indicates a star in the making." With a repertoire of more than 65 roles, Belcher has championed roles from the Baroque to those written expressly for him. He has performed with opera houses around the world including San Francisco Opera, Houston Grand Opera, New York City Opera, Opera Philadelphia, Dutch National Opera, Holland Festival, Théâtre du Châtelet, Staatsoper Stuttgart, Grand Théâtre de Genève, Barbican Centre, ABAO-OLBE Bilbao, Opéra de Montpellier, Opéra Royal de Versailles, Stockholm’s Baltic Sea Festival, Berlin’s Maerzmusik Festival, St. Gallen Festspiele, Saito Kinen Festival, Tokyo’s New National Theatre, Seoul National Arts Center, and many other international and North American venues.

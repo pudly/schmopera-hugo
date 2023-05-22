@@ -17,6 +17,7 @@ social_media:
   url: https://www.instagram.com/thatsmekellyg/
 title: Kelly Griffin
 website: https://www.kellygriffinsoprano.com/
+cms_visible: true
 ---
 
 Soprano Kelly Griffin brings her voice of considerable power and warmth to every role she embodies. As Lady Macbeth in Verdi’s *Macbeth*, the New York Observer wrote, “Kelly Griffin sailed through the treacherous role with a lean, cool soprano encompassing both pingy high notes and gutsy plunges into chest register. She commanded the stage with icy presence, betraying the character’s doubts with no more than a glance. Even in the sleepwalking scene, she maintained a dignified, almost formal bearing echoed by her graceful bel canto vocalism.” The South Florida Classical Review hailed her as having “a fierceness matched by a rounded tone and superb coordination with the orchestra”.

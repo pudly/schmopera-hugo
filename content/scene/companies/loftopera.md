@@ -24,6 +24,7 @@ social_media:
 title: LoftOpera
 type_of_company: Opera Company
 website: https://www.loftopera.com/
+cms_visible: true
 ---
 
 ​As we charge ahead with 2016, LoftOpera’s biggest and best season yet, we want to let you in on why we do it. Here’s the short answer: For the love of opera. 

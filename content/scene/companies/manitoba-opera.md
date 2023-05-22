@@ -29,6 +29,7 @@ social_media:
 title: Manitoba Opera
 type_of_company: Opera Company
 website: http://www.manitobaopera.mb.ca/
+cms_visible: true
 ---
 
 With a mission to change people’s lives through the glory of opera, Manitoba Opera, the only full-time opera company between Toronto and Calgary, has been performing grand opera for over four decades. Established in 1969 by Founding President Justice Kerr Twaddle and a group of individuals dedicated to presenting the great works of opera to Manitoban audiences, the company has established a reputation for the discovery and development of young artists and for stellar casting.  Manitoba Opera has embraced all aspects of its mandate throughout its history, producing a range of repertoire as well as producing new Canadian works and the commissioning of a new work, *Transit of Venus*, in 2007. Currently, two full-scale productions are presented at the Centennial Concert Hall in November and April, as well as a number of community engagement initiatives throughout the season.

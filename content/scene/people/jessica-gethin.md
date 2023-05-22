@@ -10,6 +10,7 @@ related_companies:
 slug: jessica-gethin
 title: Jessica Gethin
 website: http://www.jessicagethin.com/
+cms_visible: true
 ---
 
 Australian born conductor Jessica Gethin has won praise from audiences and critics alike for her dynamic energy, outstanding musicianship and abounding presence on the podium.
