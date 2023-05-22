@@ -20,16 +20,16 @@ collections:
   - { label: "Title of article", name: "title", widget: "string" }
   - { label: "Slug", name: "slug", widget: "string" }
   - { label: "Date", name: "date", widget: "datetime" }
-  - { label: "Author(s)", name: "author", widget: "list", allow_add: true, collapsed: true }
+  - { label: "Author(s)", name: "author", widget: "list", allow_add: true, collapsed: true, field: {label: Author File, name: file, widget: string} }
   - { label: "Category", name: "categories", widget: "select", options: ["Editorial", "How-To", "Humour", "Interview", "Meta", "Op-Ed", "Review"] }
   - { label: "Primary Image", name: "primary_image", widget: "image", choose_url: true }
-  - { label: "Primary Image Credit", name: "primary_image_credit", widget: "string" }
-  - { label: "Short Description", name: "short_description", widget: "string" }
+  - { label: "Primary Image Credit", name: "primary_image_credit", widget: "markdown", minimal: true }
+  - { label: "Short Description", name: "short_description", widget: "markdown", minimal: true }
   - { label: "Disclaimer", name: "disclaimer", widget: "string" }
-  - { label: "Preamble", name: "preamble", widget: "string" }
-  - { label: "Postamble", name: "postamble", widget: "string" }
+  - { label: "Preamble", name: "preamble", widget: "markdown", minimal: true }
+  - { label: "Postamble", name: "postamble", widget: "markdown", minimal: true }
   - { label: "Youtube URL", name: "youtube_url", widget: "string" }
-  - { label: "Related Articles", name: "related_articles", widget: "list" }
+  - { label: "Related Articles", name: "related_articles", widget: "list", allow_add: true }
   - { label: "People", name: "related_people", widget: "list" }
   - { label: "Companies", name: "related_companies", widget: "list" }
   - { label: "Body of Document", name: "body", widget: "markdown" }
@@ -45,7 +45,7 @@ collections:
   - { label: "Title", name: "title", widget: "string" }
   - { label: "Slug", name: "slug", widget: "string" }
   - { label: "Primary Image", name: "primary_image", widget: "image" }
-  - { label: "Short bio", name: "short_bio", widget: "string" }
+  - { label: "Short bio", name: "short_bio", widget: "markdown", minimal: true }
   - { label: "Email Address", name: "email", widget: "string" }
   - { label: "Website", name: "website", widget: "string" }
   - label: Social Media
