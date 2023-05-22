@@ -37,14 +37,14 @@ collections:
 
 
 # Featured Articles
-- label: "Featured Articles"
-  name: "featured_articles"
-  path: "content/featured"
-  fields:
-  - { widget: "string", name: "title", label: "Title" }
-  - { widget: "string", name: "type", label: "Type" }
-  - { widget: "string", name: "url", label: "URL" }
-  - { widget: "string", name: "articles", label: "Featured Article List", list: true, allow_add: true, collapsed: true, field: {label: Article File, name: file, widget: string} }
+# - label: "Featured Articles"
+#   name: "featured_articles"
+#   path: "content/featured"
+#   fields:
+#   - { widget: "string", name: "title", label: "Title" }
+#   - { widget: "string", name: "type", label: "Type" }
+#   - { widget: "string", name: "url", label: "URL" }
+#   - { widget: "string", name: "articles", label: "Featured Article List", list: true, allow_add: true, collapsed: true, field: {label: Article File, name: file, widget: string} }
 
 
 # Authors
