@@ -2,7 +2,7 @@
 date = "2023-05-21T14:04:00+01:00"
 discipline = "Tenor"
 lastmod = "2023-05-22T14:04:00+01:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1611882471/media/2021/01/A._Umezawa_Headshot_2_zeilad.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1684851380/Copy_of_Scott_Rumble_Headshots_web-34_1.jpg"
 publishDate = "2023-05-21T14:04:00+01:00"
 related_companies = ["scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md", "scene/companies/toronto-operetta-theatre.md", "scene/companies/brot-opera.md", "scene/companies/highlands-opera-studio.md"]
 slug = "scott-rumble"
