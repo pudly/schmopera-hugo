@@ -1,15 +1,16 @@
 +++
-date = "2023-05-23T13:34:48+00:00"
+date = "2023-05-22T13:00:00+00:00"
 discipline = "Tenor"
+lastmod = "2023-05-23T09:02:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1684848866/Wookyung-Kim.jpg"
-primary_image_credit = ""
+publishDate = "2023-05-22T13:00:00-00:00"
 related_companies = ["scene/companies/bayerische-staatsoper.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/vancouver-opera.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/teatro-alla-scala.md", "scene/companies/oper-frankfurt.md", "scene/companies/salzburg-festival.md"]
 slug = "wookyung-kim"
+title = "Wookyung Kim"
 [[social_media]]
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/foreverwkk/"
-title = "Wookyung Kim"
 website = ""
 
 +++
