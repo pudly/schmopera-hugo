@@ -12,6 +12,7 @@ website = "https://www.scottrumbletenor.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/scottrumbletenor/"
+[[social_media]]
 platform = "Instgram"
 template = "social-media"
 url = "https://www.instagram.com/scrumblez91/"
