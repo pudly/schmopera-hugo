@@ -5,7 +5,7 @@ lastmod = "2015-04-07T17:20:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1649423245/media/2022/04/4_ytiwl1.jpg"
 primary_image_credit = "Julien Faugère,"
 publishDate = "2015-04-07T17:19:00-04:00"
-related_companies = ["scene/companies/lopra-de-montral.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/opra-de-qubec.md", "scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/glyndebourne.md", "scene/companies/against-the-grain-theatre.md", "scene/companies"the-metropolitan-opera.md"]
+related_companies = ["scene/companies/lopra-de-montral.md", "scene/companies/deutsche-oper-berlin.md", "scene/companies/opra-de-qubec.md", "scene/companies/vancouver-opera.md", "scene/companies/calgary-opera.md", "scene/companies/pacific-opera-victoria.md", "scene/companies/glyndebourne.md", "scene/companies/against-the-grain-theatre.md", "scene/companies/the-metropolitan-opera.md"]
 slug = "etienne-dupuis"
 title = "Etienne Dupuis"
 [[social_media]]
