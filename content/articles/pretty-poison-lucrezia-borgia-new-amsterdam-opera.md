@@ -27,7 +27,7 @@ Tenor James Danner was convincingly cut-throat as the murderous henchman Rustigh
 
 The first-rate Men's Chorus gave the entire proceedings a powerful base (and by that I'm referring to both the basses and the tenors). Under the baton of Keith Chambers the 31-piece orchestra was in good form with the exception of an occasionally challenged brass section.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1685916500/NAO_Borgia_1.jpg){{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1685916500/NAO_Borgia_1.jpg){{% /md %}}
 
 <figcaption></figcaption>
 </figure>

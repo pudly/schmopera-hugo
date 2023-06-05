@@ -15,7 +15,7 @@ One of the goals, no doubt, was to expose audiences to the unfamiliar work of Wi
  
 The works of Copland, Barber, Bernstein, Gershwin and the assimilated Kurt Weill are all instantly recognizable as American composers, infused as they are with the home-grown sounds of folk music and jazz. So, too, is William Grant Still with his jazzy score for _Highway 1, U.S.A._ which advertises its origins right there in the title.  
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1685916502/LOTNY_Am_1.jpg){{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1685916502/LOTNY_Am_1.jpg){{% /md %}}
 
 <figcaption>Mary (Lynnesha Crump) with Bob (Robert McNichols, Jr.) in Highway 1, U.S.A. / American One Acts, a double bill, little OPERA theatre of ny, 2023. Photo: Tina Buckman.</figcaption>
 </figure>
@@ -26,7 +26,7 @@ The third wheel here is Bob's brother Nate (tenor David Morgans,) a ne'er do wel
 
 Nate doesn't even appear until the story moves to "one year later" and the well-crafted story builds up the anticipation of seeing him. Nate tells Mary that there is a clear line between himself and Bob – "What does he know of dreams?" he sings. Nate also sings of his superiority, telling Mary that he thinks of more "lofty" things than those around him. Nate puts the moves on Mary, convinced that she will run away with him. But her passion for Bob proves to be unwavering and she angrily laughs off Nate's advances. Nate's narcissism won’t allow this, and he stabs her. When Bob returns, he begs Bob to take the rap for him and Bob, remembering the vow to his mother, agrees. The sheriff and the townspeople enter to hear Bob's "confession".
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1685916502/LOTNY_Am_2.jpg){{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1685916502/LOTNY_Am_2.jpg){{% /md %}}
 
 <figcaption>Aunt Lou (Isola Jones) with Mary (Lynnesha Crump) in Highway 1, U.S.A. / American One Acts, a double bill, little OPERA theatre of ny, 2023. Photo: Tina Buckman.</figcaption>
 </figure>
@@ -37,7 +37,7 @@ Though the plot gets a little silly, the relationship between Bob, Mary and Nate
 
 Unlike Mr. Still's composition, however, _Down in the Valley_ is an unearthed work that should go back into Mr. Weill's trunk. Startlingly similar in plot to _Oklahoma!_, which was written a couple of years prior, _Down in the Valley_ doesn't benefit from the tunes of Rodgers and Hammerstein. Mr. Weill, who is no stranger to a great melody, instead uses American folk songs here, albeit with unconventional arrangements. In addition to the famous song in the title, "Down in the Valley", Mr. Weill also interpolates the traditional folk songs "The Lonesome Dove", "The Little Black Train", "Hop Up, My Ladies", etc.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1685916500/LOTNY_Am_3.jpg){{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1685916500/LOTNY_Am_3.jpg){{% /md %}}
 
 <figcaption>The ensemble in Down in the Valley / American One Acts, a double bill, little OPERA theatre of ny, 2023. Photo: Tina Buckman.</figcaption>
 </figure>
@@ -50,7 +50,7 @@ Mr. Oliver is asked to hit a few high notes but his voice is efficacious when it
 
 Mr. Richardson is quite good as Bouché, his voice perfect for the loud and boisterous villain. Baritone Ron Lloyd, who has a strong cameo as the Sheriff in _Highway 1, U.S.A_, is equally impressive here in the larger role as Jennie's Father.
 
-<figure data-type="image">![](https://res.cloudinary.com/schmopera/image/upload/v1685916500/LOTNY_Am_4.jpg){{% md %}}{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1685916500/LOTNY_Am_4.jpg){{% /md %}}
 
 <figcaption>Bouché (Andrew Richardson) fighting Brack (Kyle Oliver) in Down in the Valley / American One Acts, a double bill, little OPERA theatre of ny, 2023. Photo: Tina Buckman.</figcaption>
 </figure>
