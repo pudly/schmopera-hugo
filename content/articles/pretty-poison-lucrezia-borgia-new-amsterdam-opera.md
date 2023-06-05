@@ -29,7 +29,7 @@ The first-rate Men's Chorus gave the entire proceedings a powerful base (and by 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1685916500/NAO_Borgia_1.jpg){{% /md %}}
 
-<figcaption></figcaption>
+<figcaption>New Amsterdam Opera's in-concert production of Lucrezia Borgia, May 2023. Photo courtesy of New Amsterdam Opera.</figcaption>
 </figure>
 
 New Amsterdam presents works in a concert-style, with performers at music stands, and the only staging is the exits and entrances of principals who are in each scene. This leaves them free to invest donors' dollars in the music and that certainly pays dividends to the audience. Fund-raising is always a challenge, but one wishes that they could find the money to rent a supertitle system. It would enhance the experience tremendously, especially if they are trying to expand their audiences beyond those who are already opera lovers. Devout opera nerds may have no issue reading translations via cellphone light, but it's too much to ask today's younger audiences to commit a libretto to memory – the way we had to in the olden days. Also, the lights in the audience are a distraction and nothing should distract from the fine work up on the stage.
