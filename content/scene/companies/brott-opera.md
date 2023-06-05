@@ -27,5 +27,4 @@ url = "https://www.youtube.com/channel/UCp6FmcUVgHEgGKMh0-gXJAQ"
 +++
 BrottOpera is a three (3) week paid opera program dedicated to offering highly talented Canadian emerging opera singers the opportunity and experience of performing with a full symphony orchestra. As part of the annual Brott Music Festival, based in Hamilton Ontario, will offer recital, staged, and outreach performance opportunities (_PopOpera_ & _La Traviata_ in 2023), paid stipends (visit [website](http://www.brottmusic.com/brott-opera/) for details), paid accommodations,  coaching, training, career guidance, and networking opportunities from some of today's top industry professionals.
 
-__Alain Trudel__, Artistic Director
-__Topher Mokrzewski__, Managing Director
+Leadership: __Alain Trudel__, Artistic Director and __Topher Mokrzewski__, Managing Director.
