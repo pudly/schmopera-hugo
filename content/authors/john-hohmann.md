@@ -8,7 +8,7 @@ slug = "john-hohmann"
 title = "John Hohmann"
 +++
 
-As a youngster John Hohmann's first operatic experience was a grainy television broadcast of Cavalleria Rusticana. He found it arrestingly sung, memorably demented and notes that the effects of verismo on a child's mind have yet to be studied. _Getz/Gilberto_, the elegant and atmospheric jazz recording featuring American saxophonist, Stan Getz and Brazilian guitarist, Joao Gilberto reached him as a teen-ager. These experiences influence his musical taste to this day.
+As a youngster John Hohmann's first operatic experience was a grainy television broadcast of _Cavalleria Rusticana_. He found it arrestingly sung, memorably demented and notes that the effects of verismo on a child's mind have yet to be studied. _Getz/Gilberto_, the elegant and atmospheric jazz recording featuring American saxophonist, Stan Getz and Brazilian guitarist, Joao Gilberto reached him as a teen-ager. These experiences influence his musical taste to this day.
 
 Later he worked with jazz master and Free Jazz innovator Ornette Coleman and chatted backstage with Dame Gwyneth Jones after her formidable Herodias in Pittsburgh. In between he was an arts administrator, film critic, college professor, marketing executive and an award-winning producer of musical and story-telling programs for children.
 
