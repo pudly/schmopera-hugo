@@ -1,9 +1,9 @@
 +++
-date = "2023-07-04T00:38:00+00:00"
+date = "2023-07-04T00:38:00-00:00"
 discipline = "Mezzo-soprano"
-lastmod = "2023-07-04T01:00:00+00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546831005/media/2019/01/AaronSchwebel.jpg"
-publishDate = "2023-07-04T00:00:00+00:00"
+lastmod = "2023-07-04T01:00:00-00:00"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1688481241/TaylorRaven_SuzanneVinnik.jpg"
+publishDate = "2023-07-04T00:00:00-00:00"
 related_companies = ["scene/companies/des-moines-metro-opera.md", "scene/companies/wolf-trap-opera.md" "scene/companies/lyric-opera-of-chicago.md", "scene/companies/san-francisco-opera.md", "scene/companies/houston-grand-opera.md"]
 slug = "taylor-raven"
 title = "Taylor Raven"
