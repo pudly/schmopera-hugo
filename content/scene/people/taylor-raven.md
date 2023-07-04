@@ -12,6 +12,7 @@ website = "https://www.taylorraven.com/"
 platform = "Facebook"
 template = "social-media"
 url = "https://www.facebook.com/profile.php?id=100042074302951"
+[[social_media]]
 platform = "Instagram"
 template = "social-media"
 url = "https://www.instagram.com/taylorelaineraven/"
