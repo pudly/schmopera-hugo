@@ -23,7 +23,7 @@ Des Moines Metro Opera chose to go with a traditional aesthetic for this product
 
 The scenic design by David P. Gordon was the perfect balance of vibrant and gritty. The world Carmen occupies is one of stark contradictions, and the visual environment reflected that. The chimeric emotions of the story were accentuated by the lighting, designed by Kate Ashton. The audience could feel the sweltering heat of sunny Seville in one scene and the tense chill of the smuggler's mountain camp the next. The use of spotlights in particularly dramatic moments was effective, drawing the eye to Carmen and Don José against a startling red backdrop – ominously foreshadowing their tragic fates.
 
-<figure data-type="image">{{% md %}}![]https://res.cloudinary.com/schmopera/image/upload/v1688479837/The_chorus_of_CARMEN_photo_by_Duane_Tinkey.jpg{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1688479837/The_chorus_of_CARMEN_photo_by_Duane_Tinkey.jpg){{% /md %}}
 
 <figcaption>The chorus of Des Moines Metro Opera's production of Carmen, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
@@ -34,7 +34,7 @@ Conductor Kelly Kuo made his company debut, leading the orchestra in a colorful 
 
 Des Moines Metro Opera assembled a strong cast of singers for this production. Bizet's score is full of popular and familiar music, and expectations can be high as a result. However, each singer proved they had the vocal chops to live up to the hype. The singing was solid across the board. The cast also handled the French dialogue with convincing dramatic conviction, an aspect of this opera that can often fall short.
 
-<figure data-type="image">{{% md %}}![]https://res.cloudinary.com/schmopera/image/upload/v1688479837/Taylor_Raven_as_Carmen_with_Matthew_Cairns_as_Don_Jos%C3%A9_photo_by_Duane_Tinkey.jpg{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1688479837/Taylor_Raven_as_Carmen_with_Matthew_Cairns_as_Don_Jos%C3%A9_photo_by_Duane_Tinkey.jpg){{% /md %}}
 
 <figcaption>Taylor Raven as Carmen and Matthew Cairns as Don José in Des Moines Metro Opera's production of Carmen, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
@@ -45,7 +45,7 @@ In contrast, Allen Michael Jones' portrayal of Zuniga was palpably despicable. T
 
 Carmen's smuggling companions provided some much needed levity to an otherwise dark tale. Ryan Wolfe and Daniel Esteban Lugo sang the roles of Dancaïro and Remendado with humor and just the right touch of danger. They were particularly delightful in the [infamous smugglers' quintet](/the-elton-john-act-iv-fiddly-for-the-fingers-the-smugglers-quintet-from-carmen/) in act two, and this ensemble number brought an effervescent energy that felt like a breath of fresh air. 
 
-<figure data-type="image">{{% md %}}![]https://res.cloudinary.com/schmopera/image/upload/v1688479837/Ryan_Wolfe_as_Dancairo_Allen_Michael_Jones_as_Zuniga_Daniel_Esteban_Lugo_as_Remendado_in_Act_II_of_CARMEN_photo_by_Duane_Tinkey.jpg{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1688479837/Ryan_Wolfe_as_Dancairo_Allen_Michael_Jones_as_Zuniga_Daniel_Esteban_Lugo_as_Remendado_in_Act_II_of_CARMEN_photo_by_Duane_Tinkey.jpg){{% /md %}}
 
 <figcaption>Ryan Wolfe as Dancaïro, Allen Michael Jones as Zuniga, and Daniel Esteban Lugo as Remendado in Des Moines Metro Opera's production of Carmen, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
@@ -54,7 +54,7 @@ Their female companions, Frasquita and Mercédès, sung by Emma Marhefka and Ima
 
 Micaëla provides a foil to the titular seductress of the opera. Sometimes this good girl character can come across as a bit flat and boring compared to her rival, but Yunuet Laguna brought a quiet and compelling strength to the role. Laguna gave a glorious vocal performance, especially in her powerful upper register. Some of the lower vocal lines didn't pack the same punch as her high notes, but any inconsistencies were forgotten as she soared above the orchestra. Her third act aria was one of the highlights of the night, giving the audience chills with a performance that was both musically and emotionally stunning.
 
-<figure data-type="image">{{% md %}}![]https://res.cloudinary.com/schmopera/image/upload/v1688479837/Emma-Marhefka-as-Frasquita-and-Imara-Miles-as-Merc%C3%A9d%C3%A8s-in-Act-III-of-Bizet_s-CARMEN_-photo-by-Duane-Tinkey.jpg{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1688479837/Emma-Marhefka-as-Frasquita-and-Imara-Miles-as-Merc%C3%A9d%C3%A8s-in-Act-III-of-Bizet_s-CARMEN_-photo-by-Duane-Tinkey.jpg){{% /md %}}
 
 <figcaption>Emma Markefka as Frasquita and Imara Miles as Mercédès in Des Moines Metro Opera's production of Carmen, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
@@ -63,7 +63,7 @@ Christian Pursell certainly brought swagger to the role of Escamillo, the famous
 
 Matthew Cairns sung the role of Don José with technical skill and emotional nuance. His portrayal of José was a journey from insecure naivety to clingy obsession. Cairns seemed reserved in the first half of the opera, but we finally got a glimpse of José's mad passion in his act two aria. Considering he delivered this dramatic solo in the wake of the fire alarm chaos, Cairns' touching entreaty to his beloved was all the more impressive. The dynamic between Carmen and José lacked some of the feral attraction that makes his descent truly compelling. José is won over with a few gyrations and a singular passionate kiss. I wanted to feel the fire between them, but it felt like more of a glowing ember instead of a roaring blaze. Cairns did manage to deliver the crazed energy needed in the final act. José is both pathetic and dangerous as he begs Carmen to take him back, ultimately killing the very woman he desires when he cannot accept her rejection.
 
-<figure data-type="image">{{% md %}}![]https://res.cloudinary.com/schmopera/image/upload/v1688479838/Christian_Pursell_as_Escamillo_with_Taylor_Raven_as_Carmen_in_Act_IV_of_CARMEN_photo_by_Duane_Tinkey.jpg{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1688479838/Christian_Pursell_as_Escamillo_with_Taylor_Raven_as_Carmen_in_Act_IV_of_CARMEN_photo_by_Duane_Tinkey.jpg){{% /md %}}
 
 <figcaption>Christian Pursell as Escamillo with Taylor Raven as Carmen in Des Moines Metro Opera's production of Carmen, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
@@ -72,7 +72,7 @@ Taylor Raven brought a controlled confidence to the role of Carmen. The mezzo so
 
 The staging of this opera felt safe. Brenna Corner excelled at staging the ensemble scenes, bringing the streets of Seville to life in a way that was interesting without being distracting. I had forgotten how many fight scenes occur in this opera, and while Brian Robertson's combat choreography was well paced and not overly complicated, the performers were undermined by the intimacy of the theater. Many of the fights took place in the playing circle which is mere feet away from the audience, and the close quarters often produced unconvincing results. Carmen's escape from imprisonment felt particularly clumsy. Todd Rhoades choreographed the dance sequences of the opera, and while the singers performed the routines well enough, I felt that the scene at Lillas Pastia's inn would have been greatly enhanced by the use of a few professional dancers. 
 
-<figure data-type="image">{{% md %}}![]https://res.cloudinary.com/schmopera/image/upload/v1688479837/Taylor_Raven_as_Carmen_and_Matthew_Cairns_as_Don_Jos%C3%A9_in_Act_II_of_CARMEN_photo_by_Duane_Tinkey.jpg{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1688479837/Taylor_Raven_as_Carmen_and_Matthew_Cairns_as_Don_Jos%C3%A9_in_Act_II_of_CARMEN_photo_by_Duane_Tinkey.jpg){{% /md %}}
 
 <figcaption>Taylor Raven as Carmen and Matthew Cairns as Don José in Des Moines Metro Opera's production of Carmen, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
