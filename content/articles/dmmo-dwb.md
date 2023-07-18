@@ -1,10 +1,10 @@
 +++
 author = ["authors/meghan-klinkenborg.md"]
 categories = "Review"
-date = 2023-07-04T00:00:00Z
+date = 2023-07-18T00:00:00Z
 disclaimer = ""
 image_gallery = []
-postamble = "dwb (driving while black) is onstage through July 21. [Find full details here](https://desmoinesmetroopera.org/productions/dwb/)."
+postamble = "_dwb (driving while black)_ is onstage through July 21. [Find full details here](https://desmoinesmetroopera.org/productions/dwb/)."
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1689688005/sqDMMO_dwb_Roberta_Gumbel_as_the_Mother_photo_by_Luke_Behaunek_4.jpg"
 primary_image_credit = "Roberta Gumbel as The Mother in Des Moines Metro Opera's production of dwb (driving while black), 2023. Photo: Luke Behaunek."
