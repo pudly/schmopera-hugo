@@ -17,7 +17,7 @@ title = "DMMO's The Falling and the Rising forces you to feel"
 youtube_url = ""
 
 +++
-[Des Moines Metro Opera](/scene/people/des-moines-metro-opera/) demonstrated once again their commitment to partnering with the community with their production of [_The Falling and the Rising_](https://desmoinesmetroopera.org/productions/rising/). This opera is the company's third collaboration with the Iowa National Guard, and while this contemporary work has had several productions in recent years, these two performances are the first to take place on an active military base, a location that makes the touching story all the more poignant.
+[Des Moines Metro Opera](/scene/companies/des-moines-metro-opera/) demonstrated once again their commitment to partnering with the community with their production of [_The Falling and the Rising_](https://desmoinesmetroopera.org/productions/rising/). This opera is the company's third collaboration with the Iowa National Guard, and while this contemporary work has had several productions in recent years, these two performances are the first to take place on an active military base, a location that makes the touching story all the more poignant.
 
 _The Falling and the Rising_ is one of multiple recent operas exploring the experiences of soldiers. The inspiration for this opera was conceived by Sergeant First Class Benjamin Hilgert, an idea that led to the first opera commissioned by the US Army Field Band and Soldiers' Chorus. Hilgert then worked with composer Zach Redler and librettist Jerre Dye to interview real soldiers. The stories they heard were incorporated into the opera, and that veracity brought emotional weight to the piece. 
 
