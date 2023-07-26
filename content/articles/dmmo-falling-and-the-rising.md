@@ -25,7 +25,7 @@ The production design was fairly utilitarian, a fitting choice for a military se
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1690231434/DMMO_Rising-Matt_Boehler_as_Colonel.jpg){{% /md %}}
 
-<figcaption> in Des Moines Metro Opera's production of The Falling and the Rising, 2023. Photo: Duane Tinkey.</figcaption>  
+<figcaption>Matt Boehler as the Colonel in Des Moines Metro Opera's production of The Falling and the Rising, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
 
 Adam Whittridge's scenery consisted of scaffolding draped in camo netting which provided a monochromatic backdrop to the drama. A large humvee, loaned to the production by the National Guard, added a sense of legitimacy to the minimalist set, and the incorporation of television screens provided another layer of visual stimulation throughout the opera. The Soldier must rely on technology to stay connected to her daughter, and when she went into a coma, the screens continued to act as a tether to the real world as she navigated toward recovery. Bridget S. Williams' lighting design accentuated the lows and highs experienced during this journey, disorienting and surreal at times and soft and subdued at others. 
@@ -34,7 +34,7 @@ Joshua Borths staging demonstrated the strength of simplicity. He utilized the s
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1690231434/DMMO_Rising-Tess_Altiveros_as_Soldier_and_Sam_Mathis_as_Jumper.jpg){{% /md %}}
 
-<figcaption> in Des Moines Metro Opera's production of The Falling and the Rising, 2023. Photo: Duane Tinkey.</figcaption>  
+<figcaption>Tess Altiveros as Soldier and Sam Mathis as Jumper in Des Moines Metro Opera's production of The Falling and the Rising, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
 
 The orchestra brought Redler's stunning score to life under the baton of Michael Sakir. The small ensemble delivered big emotions in the intimate space, uplifting the equally stirring performances of the vocalists. Redler's music was invigorating and often epic, and the experience reminded me of why I love opera so much–the art form's unrivaled ability to evoke staggering emotions across the spectrum. _The Falling and the Rising_ grasped the audience by the heart and didn't let go for eighty minutes straight.
@@ -45,7 +45,7 @@ Sun-Ly Pierce portrayed Toledo, the first character the Soldier encounters as he
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1690231434/DMMO_Rising-Sankara_Harouna_as_Homecoming_Soldier.jpg){{% /md %}}
 
-<figcaption> in Des Moines Metro Opera's production of The Falling and the Rising, 2023. Photo: Duane Tinkey.</figcaption>  
+<figcaption>Sankara Harouna as Homecoming Soldier in Des Moines Metro Opera's production of The Falling and the Rising, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
 
 The Soldier next encounters Jumper, sung by Sam Mathis. Mathis' uplifting tenor voice was well suited to the skydiving soldier, his vocals shimmering as his character floated above the clouds. Jumper provided some much needed optimism and humor amid the heavier emotions of the opera, and Mathis buoyed the spirits of the audience like a breath of fresh air.
@@ -56,7 +56,7 @@ As the Soldier nears the end of her journey, she meets the Homecoming Soldier, s
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1690231434/DMMO_Rising-Matt_Boehler_as_Colonel.jpg){{% /md %}}
 
-<figcaption> in Des Moines Metro Opera's production of The Falling and the Rising, 2023. Photo: Duane Tinkey.</figcaption>  
+<figcaption>Matt Boehler as Colonel in Des Moines Metro Opera's production of The Falling and the Rising, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
 
 Tess Altiveros originated the role of the Soldier, and her deep connection to this character was evident as soon as she stepped onstage. Altiveros' soaring soprano voice was warm and pliant, excelling in Redler's evocative score. Her understanding of the Soldier's complex and nuanced transformation was undeniable, and she conveyed the character's many conflicting emotions with a convincing sincerity that gripped the heart. Altiveros shone bright in her solo moments, but she also complimented her fellow singers, matching their energy and providing cohesive vocals for every scene. You could feel Altiveros' passion for this opera and her dedication to sharing these true stories with the audience. I hope she will continue to share that passion in many more productions to come.
@@ -65,7 +65,7 @@ As if the opera hadn't already emotionally bombarded the audience, the finale up
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1690231434/DMMO_Rising-Tess_Altiveros_as_Soldier_and_Matt_Boehler_as_Colonel.jpg){{% /md %}}
 
-<figcaption> in Des Moines Metro Opera's production of The Falling and the Rising, 2023. Photo: Duane Tinkey.</figcaption>  
+<figcaption>Tess Altiverso as Soldier and Matt Boehler as Colonel in Des Moines Metro Opera's production of The Falling and the Rising, 2023. Photo: Duane Tinkey.</figcaption>  
 </figure>
 
 As always with their Second Stages Series, Des Moines Metro Opera finished the evening with a post show panel featuring local community participants. The audience got to hear the reactions of real soldiers after the opera which further grounded the narrative. Sergeant First Class Benjamin Hilgert was also present for opening night, and it was particularly meaningful to hear his story on the conception of the opera as well as his experiences interviewing the soldier’s that inspired it. 
