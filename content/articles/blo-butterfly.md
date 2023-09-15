@@ -13,7 +13,7 @@ related_companies = ["scene/companies/boston-lyric-opera.md"]
 related_people = [""]
 short_description = "It is effectively trading one overdone opera death for another, but I think this decision to change who dies at the end of the story is still one of the most brilliant aspects of the production."
 slug = "karen-chia-ling-hos-star-making-performance-in-BLOs-thoughtful-madama-butterfly"
-title = "Karen Chia-Ling Ho's "star-making" performance in BLO's thoughtful Madama Butterfly"
+title = "Karen Chia-Ling Ho's 'star-making' performance in BLO's thoughtful Madama Butterfly"
 youtube_url = ""
 
 +++
