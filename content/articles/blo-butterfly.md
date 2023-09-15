@@ -10,7 +10,7 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1694783131/S
 primary_image_credit = "Karen Chia-Ling Ho as Cio-Cio-San and Dominick Chenes as B.F. Pinkerton in Boston Lyric Opera's production of Madama Butterfly, 2023. Photo: Ken Yotsukura."
 related_articles = ["articles/bluebeard-blo.md", "articles/la-boheme-reliable-as-ever-even-in-reverse.md"]
 related_companies = ["scene/companies/boston-lyric-opera.md"]
-related_people = [""]
+related_people = ["/scene/people/karen-chia-ling-ho.md"]
 short_description = "It is effectively trading one overdone opera death for another, but I think this decision to change who dies at the end of the story is still one of the most brilliant aspects of the production."
 slug = "karen-chia-ling-hos-star-making-performance-in-BLOs-thoughtful-madama-butterfly"
 title = "Karen Chia-Ling Ho's 'star-making' performance in BLO's thoughtful Madama Butterfly"
@@ -55,7 +55,7 @@ At the end of the day, after all, while the tone of what I have stated here may 
 
 It also helped significantly that Puccini's score was performed rather sumptuously throughout the whole. David Angus led the orchestra through Puccini's score with incredible depth of feeling and understanding for the material, and he made sure that the singers could always be heard no matter what. The singing was also to quite a high standard throughout the night. Some highlights included Alice Chung's warmer take on Suzuki, Rodell Rosel making quite a comedic impression as the normally thankless Goro, and Dominick Chenes providing a rather more soulful Pinkerton than you usually get with this role.
 
-But easily the highlight of the night had to be Karen Chia-Ling Ho as the titular Madame Butterfly: this was one incredible star-making turn in Puccini's title role. Chia-Ling Ho had an incredibly clear voice that cut through Puccini's orchestration with almost no problems whatsoever. It also had a lot of very clear character, in that she was an incredible actress, and even was able to alter her voice in a mocking manner when talking about the judges sending her to the concentration camps in Act II. But her "Un bel di vedremo" absolutely brought the house down; my issues with it in this production aside, she beautifully conveyed the sense of hope that comes with the aria, and the two-minute long stretch of applause she brought out of the Emerson Colonial's audience was thoroughly deserved in every way.
+But easily the highlight of the night had to be [Karen Chia-Ling Ho](/scene/people/karen-chia-ling-ho/) as the titular Madame Butterfly: this was one incredible star-making turn in Puccini's title role. Chia-Ling Ho had an incredibly clear voice that cut through Puccini's orchestration with almost no problems whatsoever. It also had a lot of very clear character, in that she was an incredible actress, and even was able to alter her voice in a mocking manner when talking about the judges sending her to the concentration camps in Act II. But her "Un bel di vedremo" absolutely brought the house down; my issues with it in this production aside, she beautifully conveyed the sense of hope that comes with the aria, and the two-minute long stretch of applause she brought out of the Emerson Colonial's audience was thoroughly deserved in every way.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1694783131/BLO_09_--_Butterfly_Karen_Chia-Ling_Ho_embraces_her_son_Dolore_Neko_Umphenour_in_BLO_s_new_production_of_MADAMA_BUTTERFLY___PHOTO_by_Ken_Yotsukura.jpg){{% /md %}}
 
