@@ -11,7 +11,7 @@ primary_image_credit = "Jonas Kaufmann as the soldier begins his journey in 'Dop
 related_articles = ["articles/opera-laid-bare-for-better-or-for-worse-in-the-mets-fanciulla.md", "articles/vancouver-opera-sails-away-in-the-flying-dutchman.md"]
 related_companies = []
 related_people = ["/scene/people/jonas-kaufmann.md"]
-short_description = "The tenor's wrenching interpretations of the cycles 14 songs while performing strenuous physical movement left no doubt that he was as wholly committed to the rigors of Doppelgänger as he was to the rueful Schwanengesang."
+short_description = "The tenor's wrenching interpretations of the cycle's 14 songs while performing strenuous physical movement left no doubt that he was as wholly committed to the rigors of Doppelgänger as he was to the rueful Schwanengesang."
 slug = "a-clarifying-and-revelatory-evening-with-schubert-and-jonas-kaufmann"
 title = "A clarifying and revelatory evening with Schubert and Jonas Kaufmann"
 youtube_url = ""
@@ -33,7 +33,7 @@ Perhaps another seeming sacrilege, the light — and natural sounding — amplif
 <figcaption>Set designer Michael Levine's massive set for 'Doppelgänger' in the Wade Thompson Drill Hall at the Park Avenue Armory. Photo: Monika Rittershaus, courtesy of Park Avenue Armory.</figcaption>
 </figure>
 
-Remaining constant however was the burnished glow of Kaufmann's voice with clarion high notes, a lustrous middle voice and the heroic strength of his baritonal lower register. The tenor's wrenching interpretations of the cycles 14 songs while performing strenuous physical movement left no doubt that he was as wholly committed to the rigors of _Doppelgänger_ as he was to the rueful _Schwanengesang_. And it's worth mentioning that at moments he sang lying flat and in several otherwise vocally disadvantageous positions.
+Remaining constant however was the burnished glow of Kaufmann's voice with clarion high notes, a lustrous middle voice and the heroic strength of his baritonal lower register. The tenor's wrenching interpretations of the cycle's 14 songs while performing strenuous physical movement left no doubt that he was as wholly committed to the rigors of _Doppelgänger_ as he was to the rueful _Schwanengesang_. And it's worth mentioning that at moments he sang lying flat and in several otherwise vocally disadvantageous positions.
 
 "Ständchen", with lyrics by poet Ludwig Rellstab, remains the most familiar in the cycle. Kaufmann's reading felt newly energized albeit by melancholy and yearning. Of the remaining songs the nature driven irony of "Herbst", lyrics also by Rellstab, was perhaps the most poignant in which Kaufmann probed the simplicity of his character’s bleak acknowledgment of lost love. Poet Heinrich Heine provided lyrics for the final song, "Der Doppelgänger", in which Kaufmann's overwhelming anguish and resignation was palpable.
 
