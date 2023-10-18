@@ -18,15 +18,9 @@ American soprano [Latonia Moore](/scene/people/latonia-moore/) will be performin
 
 Moore and Bridges sang _Madame Butterfly_ at the [San Diego Opera](/scene/companies/san-diego-opera/) in 2016. They became good friends during that run but rarely get to perform together. "She's a beautiful singer, beautiful woman and a great colleague," says Moore. Years before in 2013, Moore made her San Diego Opera debut in _Aida_. "Because we have this close relationship, we kind of know how to bring certain things out of each other," says Moore. 
 
-She says she has chosen a more ambitious repertoire for duets than she might have if she wasn't so comfortable with Bridges. They will be singing the duet from _Madame Butterfly_ and also from _Lakmé_. "In the Lakme duet, I really need to lean on her voice, especially in the middle voice to support my top in a duet like that. If you're with a mezzo that you don't know very well it's just two singers separately singing and you don't feel this togetherness that you feel when you have a good sort of energy with the person."
+She says she has chosen a more ambitious repertoire for duets than she might have if she wasn't so comfortable with Bridges. They will be singing the duet from _Madame Butterfly_ and also from _Lakmé_. "In the _Lakmé_ duet, I really need to lean on her voice, especially in the middle voice to support my top in a duet like that. If you're with a mezzo that you don't know very well it's just two singers separately singing and you don't feel this togetherness that you feel when you have a good sort of energy with the person."
 
 "I trust her not just as a friend, but as a supportive vocalist," she says. There will also be a surprise for the audience. "J'Nai is going to sing an aria that I'm known for and I'm singing an aria that she's known for. It's hard to figure out what those two arias are but that's the deal, that's our little surprise for the concert." Moore will also be singing "L'altra notte" from _Mefistofele_ as well as a little Mozart, something she says that audiences don't expect from her.
-
-//Doing a concert is easier than opera says Moore "because when you're doing an opera, you have to sing specific music in the opera, whether you like it or not."
-
-"There are parts of _Aida_ that I have a really hard time with, but it's _Aida_ and you can't skip those parts. Whereas when you're doing a concert, you choose the repertoire. The pressure level is way lower because you choose a repertoire you're comfortable with."
-
-“But the big difference is that in an opera you're immersing yourself into one character all night long, whereas in a concert, you have time to breathe and change into something else. I feel like that's not quite as taxing as, you know, doing a role from cover to cover, even if it's a shorter role."//
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1697636487/Latonia_Moore_and_J_Nai_Bridges.jpg){{% /md %}}
 
