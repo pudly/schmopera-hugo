@@ -94,7 +94,7 @@ There's no reason why a big, thick obese woman like me can't be a sexual object.
 <figcaption>American mezzo-soprano J'Nai Bridges. Photo: Freddie Collier Photography.</figcaption>  
 </figure>
 
-Moore dinds discussions about painting Aida Black equally upsetting. "The truth is Aida has nothing to do with being Black. It's a story of war. Those people are African but no one mentions what color anyone is ever in this opera."
+Moore finds discussions about painting Aida Black equally upsetting. "The truth is Aida has nothing to do with being Black. It's a story of war. Those people are African but no one mentions what color anyone is ever in this opera."
 
 It's different in _Otello_ because what happens to him is because he's Black. "I've done _Otello_ before with Stuart Skelton who is an Australian white tenor. Stuart Skelton was dressed all in black and his eyes were sunken in. He looked like a corpse almost and I looked like an absolute angel dressed in all white, with a silver highlight all over my body. I was this deity. He was this dark black cloud and I was the silver light. It was a beautiful telling of a story. We told the story in Norway of all places, and the Norwegian people loved it. They loved how black this Otello was without his skin being black."
 
