@@ -13,14 +13,12 @@ template = "social-media"
 url = "https://twitter.com/clarencefrazer"
 
 +++
-Canadian/Korean baritone Clarence Frazer brings his “silky-smooth baritone” to a wide range of roles and concert repertoire. An alumnus of Canadian Opera Company’s prestigious Ensemble Studio and Calgary Opera’s McPhee Artist Development Program, Clarence starred as **Figaro** in _Il barbiere di Siviglia_ with Pacific Opera Victoria and Saskatoon Opera, and sang **Marcello** in Against the Grain Theatre’s acclaimed 2019 production of _La bohéme_, touring from Yukon to Toronto.
+Canadian/Korean baritone Clarence Frazer brings his "silky-smooth baritone" to a wide range of roles and concert repertoire. An alumnus of Canadian Opera Company's prestigious Ensemble Studio and Calgary Opera's McPhee Artist Development Program, Clarence starred as Figaro in Il barbiere di Siviglia with Pacific Opera Victoria and Saskatoon Opera and sang Marcello in Against the Grain Theatre's acclaimed production of La bohème, touring from the Yukon to Toronto.
 
-This season, Clarence debuts with Winnipeg Symphony Orchestra and Thunder Bay Symphony in performances of _Messiah_, and is a guest soloist in _"God, Thy Earth is Aflame"_ by Latvian composer Lucija Garuta, with Ottawa Choral Society. Clarence also performs with Chorus Niagara in _“The Houses Stand Not Far Apart”_ (Estacio) and Vaughan Williams’ _Dona Nobis Pacem_.
+This season, Clarence kicks off his season as Papageno in Vancouver Opera's The Magic Flute, followed by his debut with Orchestre classique de Montréal in Piazzolla's "tango opera" María de Buenos Aires, Jacques Lacombe, conducting. Concert performances include Messiah with Symphony Nova Scotia, and Bach's Markus Passion with Metropolitan United Church, Toronto.
 
-Recent concert engagements include Brahms’ _Ein Deutsches Requiem_ with Hamilton’s Bach-Elgar Choir, and Mozart’s _Requiem_ with Grand Philharmonic Choir. Clarence also sang **Guglielmo** in Edmonton Opera’s _Cosi fan tutte_, and starred as **Claudio** in _Béatrice et Bénédict_ with Opera Kelowna.
+Clarence recently debuted with Winnipeg Symphony Orchestra and Thunder Bay Symphony in performances of Messiah, and was a guest soloist in "God, Thy Earth is Aflame" by Latvian composer Lucija Garuta, with Ottawa Choral Society. Clarence performed with Chorus Niagara in "The Houses Stand Not Far Apart" (Estacio) and Vaughan Williams' Dona Nobis Pacem. 
 
-In 2023, Clarence debuts as **Demetrius** with Vancouver Opera in Britten’s _A Midsummer Night’s Dream_.
+Clarence recently added Demetrius in A Midsummer Night's Dream and Guglielmo in Cosi fan tutte to his repertoire, with Vancouver Opera and Edmonton Opera.
 
-Clarence is featured in several OperaBreaks cinematic videos directed by François Raçine and produced by Domoney Artists during the pandemic.
-
-### 
+Clarence is featured in several OperaBreaks cinematic videos directed by François Racine and produced by Domoney Artists during the pandemic.
