@@ -9,7 +9,7 @@ primary_image_credit = "Kirsten MacKinnon as Pamina and Owen McCausland as Tamin
 publishDate = "2023-10-26T00:00:00+01:00"
 related_articles = ["articles/die-zauberflote-at-roh.md", "articles/a-refreshing-gateway-drug-the-magic-flute-at-o17.md", "articles/talking-with-singers-audrey-luna.md"]
 related_companies = ["scene/companies/vancouver-opera.md"]
-related_people = ["scene/people/audrey-luna.md", "scene/people/owen-mccausland.md", "scene/people/roger-honeywell.md", "scene/people/clarence-frazer.md", "scene/people/kirsten-mackinnon.md"]
+related_people = ["scene/people/audrey-luna.md", "scene/people/owen-mccausland.md", "scene/people/roger-honeywell.md", "scene/people/clarence-frazer.md", "scene/people/kirsten-mackinnon.md", "scene/people/stephanie-tritchew.md"]
 short_description = "Vocally breathtaking, with phenomenal control, [MacKinnon] would effortlessly float high notes above the orchestra, and then tackle larger passages with incredible vocal strength and size. An absolute force of nature who brought the house down."
 slug = "vancouver-operas-glittery-magic-flute"
 title = "Vancouver Opera's glittery Magic Flute"
@@ -37,7 +37,7 @@ The Three Ladies -- [Melody Courage](https://www.melodycourage.com/), [Stephanie
 
 The villains in this production (Three Ladies, Queen of the Night and Monostatos) were a bit anachronistic to the 18th-century setting, being dressed in unusual BDSM outfits of metal studded leather corsets, whips, shiny knee-high leather boots, and leather trench coats. Monostatos in particular was dressed in black leather and a turban. Perhaps not the most appropriate choice for a villainous character who's mired with a very racist history. 
 
-The ill-fated princess Pamina was played by soprano Kirsten MacKinnon, who was by far and away the standout of the entire show. Vocally breathtaking, with phenomenal control, she would effortlessly float high notes above the orchestra, and then tackle larger passages with incredible vocal strength and size. An absolute force of nature who brought the house down. 
+The ill-fated princess Pamina was played by soprano [Kirsten MacKinnon](/scene/people/kirsten-mackinnon/), who was by far and away the standout of the entire show. Vocally breathtaking, with phenomenal control, she would effortlessly float high notes above the orchestra, and then tackle larger passages with incredible vocal strength and size. An absolute force of nature who brought the house down. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1698325681/VO_The_Magic_Flute_-_Audrey_Luna_as_The_Queen_of_the_Night_with_Kirsten_MacKinnon_-_Emily_Cooper_Photography.jpg){{% /md %}}
 
