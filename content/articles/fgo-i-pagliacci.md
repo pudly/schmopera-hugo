@@ -25,7 +25,7 @@ Opposite Pulliam, the stage will be illuminated by the brilliance of soprano [Ke
 <figcaption>In rehearsal for Florida Grand Opera's 2024 production of I pagliacci. Photo: Eric Joannes.</figcaption>
 </figure>
 
-As the curtain rises, the audience will be transported into a world of Italian drama and operatic excellence, with the Adrienne Arsht Center providing the perfect backdrop for this grand spectacle. The synergy between Pulliam and Brown, combined with the lush orchestral arrangements, ensures an immersive experience that transcends the boundaries of time and space.
+As the curtain rises the audience will be transported into a world of Italian drama and operatic excellence, with the Adrienne Arsht Center providing the perfect backdrop for this grand spectacle. The synergy between Pulliam and Brown, combined with the lush orchestral arrangements, ensures an immersive experience that transcends the boundaries of time and space.
 
 Don't miss this opportunity to witness history in the making as Limmie Pulliam and Kearstin Piper Brown take center stage in Florida Grand Opera's production of _I pagliacci_. With a perfect blend of talent, emotion, and musicality, this performance promises to be a highlight of the operatic season, leaving audiences spellbound and eager for more. Join us on a journey into the heart of Italian opera as the Adrienne Arsht Center comes alive with the magic of [_I pagliacci_](https://fgo.org/this-season/pagliacci/).
 
