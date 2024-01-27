@@ -20,7 +20,7 @@ Step into a world of passion, betrayal, and raw emotion as [Florida Grand Opera]
 
 Opposite Pulliam, the stage will be illuminated by the brilliance of soprano [Kearstin Piper Brown](/scene/people/kearstin-piper-brown/), a celebrated artist recognized for her enchanting performances in world premieres. Brown, portraying the character of Nedda, brings a depth of emotion and vocal finesse that promises to elevate the production to new heights. Together, Pulliam and Brown form a powerhouse duo, breathing life into the timeless narrative of _I pagliacci_.
 
-<figure data-type="image">{{% md %}}![(https://res.cloudinary.com/schmopera/image/upload/v1706386582/FGO_pagliacci_2.jpg)]{{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1706386582/FGO_pagliacci_2.jpg){{% /md %}}
 
 <figcaption>In rehearsal for Florida Grand Opera's 2024 production of I pagliacci. Photo: Eric Joannes.</figcaption>
 </figure>
