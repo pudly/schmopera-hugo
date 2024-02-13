@@ -11,7 +11,7 @@ publishDate = "2024-02-12T00:00:00+01:00"
 related_articles = ["articles/in-review-tcherniakovs-don-giovanni/.md", "articles/pagliacci-alone-makes-festive-shocking-season-opener/.md"]
 related_companies = ["scene/companies/canadian-opera-company.md"]
 related_people = ["scene/people/simone-mcintosh.md", "scene/people/gordon-bintner.md"]
-short_description = ""
+short_description = "The set and design were a technical marvel. The massive stage was filled with a giant cube, with morphing walls and configurations set on a revolve. There seemed to be an endless amount of staircases."
 slug = "thrilling-debuts-and-stellar-alumni-in-the-COCs-don-giovanni"
 title = "Thrilling debuts and stellar alumni in the COC's Don Giovanni"
 
