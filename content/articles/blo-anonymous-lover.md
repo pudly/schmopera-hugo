@@ -15,7 +15,9 @@ short_description = "This opera is a rather simple affair, where the entire stor
 slug = "simplicity-strikes-a-chord-in-blo-anonymous-lover"
 title = "Simplicity strikes a chord in BLO Anonymous Lover"
 +++
-When one thinks of comic opera, one's mind is typically drawn to a work where complicated slapstick shenanigans occur, with characters often frantically running around a stage trying to untangle a complicated mess of misunderstandings and mistaken identities. For indeed, this is what tends to proliferate throughout any movement of comic opera. It is a refreshing surprise, then, when an opera comes along that dispenses with the slapstick shenanigans and keeps the stakes relatively simple. After all, much of these operas are about characters unable to simply spit out how attracted they are to each other. It is sometimes worth asking what an opera would be like if it dispensed with the slapstick and focused on romance.
+When one thinks of comic opera, one's mind is typically drawn to a work where complicated slapstick shenanigans occur, with characters often frantically running around a stage trying to untangle a complicated mess of misunderstandings and mistaken identities. For indeed, this is what tends to proliferate throughout any movement of comic opera. 
+
+It is a refreshing surprise, then, when an opera comes along that dispenses with the slapstick shenanigans and keeps the stakes relatively simple. After all, much of these operas are about characters unable to simply spit out how attracted they are to each other. It is sometimes worth asking what an opera would be like if it dispensed with the slapstick and focused on romance.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1708525012/BLO_anon_The_Cast_of_BLO_s_The_Anonymous_Lover_PHOTO_by_Nile_Scott_Studios.jpg){{% /md %}}
 
