@@ -13,7 +13,7 @@ related_companies = ["scene/companies/vancouver-opera.md"]
 related_people = ["scene/people/gregory-dahl.md", "scene/people/phillip-addis.md", "scene/people/elizabeth-polese.md"]
 short_description = ""
 slug = "vos-mod-cats-don-pasquale"
-title = "VO's Mod cats Don Pasquale"
+title = "Vancouver Opera's Mod cats Don Pasquale"
 +++
 In the second show of the season, [Vancouver Opera](/scene/companies/vancouver-opera/) presents Donizetti's _Don Pasquale_. A popular, comedic opera, but one seen less frequently on VO stages. In this production, we're taken to the rundown pensione of the title character. As shown through a series of projected comic strips during the overture, Don Pasquale is incredibly fond of cats, but is equally allergic to them. The set is covered in fluorescent green cat tchotchkes, which he is petting and fawning over since he can't have the real thing. 
 
@@ -37,7 +37,7 @@ Norina, dressed in a brilliant green to match the ceramic cats, arrives to seduc
 
 Dahl, as Don Pasquale, was the perfect buffoon, constantly funny and full of bluster. Aided by clever makeup, the perfect comb-over wig, and a wedding suit that was at least three sizes too small, he was the ideal foil for Norina's cunning. Dahl's dark baritone was perfect for the character, bringing maturity and depth to the vocal lines without compromising at all on the comedy.
 
-[Josh Lovell](/scene/people/josh-lovell/) as Ernesto was delightful. Despite the character having to linger in the background for much of the opera, he gets some of the best music to sing. Lovell's brilliant, bright tenor was a showstopper, particularly in "Com'e gentil", with beautiful phrasing and soaring high notes to spare. 
+Josh Lovell as Ernesto was delightful. Despite the character having to linger in the background for much of the opera, he gets some of the best music to sing. Lovell's brilliant, bright tenor was a showstopper, particularly in "Com'e gentil", with beautiful phrasing and soaring high notes to spare. 
 
 Philip Addis as Malatesta was clever and reserved, in perfect contrast to the ridiculous Pasquale. He expertly moved all the pieces across the board, the clever chess master executing the master plan. Special nod to his duet with Pasquale, "Cheti, cheti, immantinente", with blisteringly fast patter that was as fun to listen to as I'm sure it was difficult to execute. 
 
