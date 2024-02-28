@@ -11,7 +11,7 @@ publishDate = "2024-02-27T00:00:00+01:00"
 related_articles = ["articles/vancouver-operas-glittery-magic-flute/.md", "articles/vancouver-opera-sails-away-in-the-flying-dutchman/.md"]
 related_companies = ["scene/companies/vancouver-opera.md"]
 related_people = ["scene/people/gregory-dahl.md", "scene/people/phillip-addis.md", "scene/people/elizabeth-polese.md"]
-short_description = ""
+short_description = "Vocally, Polese was triumphant, breezing through incredibly difficult coloratura with such skill that it looked effortless."
 slug = "vos-mod-cats-don-pasquale"
 title = "Vancouver Opera's Mod cats Don Pasquale"
 +++
