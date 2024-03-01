@@ -11,7 +11,7 @@ publishDate = "2024-03-01T00:00:00+01:00"
 related_articles = ["articles/angel-s-bone-disturbing-the-comfortable/.md", "articles/fantasy-is-for-the-birds/.md", "articles/vancouver-opera-sails-away-in-the-flying-dutchman/.md"]
 related_companies = ["scene/companies/pacific-opera-victoria.md"]
 related_people = ["scene/people/miriam-khalil.md"]
-short_description = ""
+short_description = "Akin to a photographic vignette, each 'image' is a static setting onstage with highly stylized scenery, projections, and costumes. While the imagery is visually lush and brilliant, it made the pacing extremely slow, with little on-stage action to complement the modern design."
 slug = "surrealism-in-spain-pacific-opera-victoras-ainadamar"
 title = "Surrealism in Spain: Pacific Opera Victoria's Ainadamar"
 +++
@@ -42,7 +42,7 @@ Soprano [Miriam Khalil](/scene/people/miriam-khalil/) as Margarita, soprano Sara
 <figcaption>Alfredo Tejada with dancers from Alma de España Flamenco Dance Company and members of the Pacific Opera Chorus and Victoria Children's Choir in Ainadamar. Pacific Opera Victoria, 2024. David Cooper Photography.</figcaption>
 </figure>
 
-The opera swings back and forth in time, from 1969 to 1929, to 1936 and back, and the libretto focuses more on potent imagery than storytelling. These elements together made it difficult to follow any kind of story, or put together the order of the events.With the exception of the death and reappearance of Lorca as a general display of the brutality of the fascist regime, there was little to no action or movement of story.
+The opera swings back and forth in time, from 1969 to 1929, to 1936 and back, and the libretto focuses more on potent imagery than storytelling. These elements together made it difficult to follow any kind of story, or put together the order of the events. With the exception of the death and reappearance of Lorca as a general display of the brutality of the fascist regime, there was little to no action or movement of story.
 
 The POV Orchestra, under the direction of newly-appointed Principal Conductor Giuseppe Pietraroia was brilliant, navigating a dynamically layered and technically challenging score with huge skill. A mesh of Rodrigo-meets-Philip Glass, Spanish-meets-minimalist score was kept well in hand by Pietraroia. Special nods to the guitarist, trumpet soloist, and percussionists for excellent solos throughout.
 
