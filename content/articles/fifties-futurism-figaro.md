@@ -3,21 +3,21 @@ author = ["authors/melissa-ratcliff.md"]
 categories = "reviews"
 date = "2024-04-12T00:00:00+01:00"
 lastmod = "2024-04-12T00:0:00+01:00"
-preamble = "Sydney Baedke as Countess Almaviva in Pacific Opera Victoria's production of Mozart's The Marriage of Figaro, directed by Morris Panych and conducted by Timothy Vernon, with set design by Ken MacDonald and costumes by Nancy Bryant, 2024. Photo by David Cooper Photography."
+preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1712933711/sqPOV_The_Marriage_of_Figaro_0668.jpg"
-primary_image_credit = ""
+primary_image_credit = "Sydney Baedke as Countess Almaviva in Pacific Opera Victoria's production of Mozart's The Marriage of Figaro, directed by Morris Panych and conducted by Timothy Vernon, with set design by Ken MacDonald and costumes by Nancy Bryant, 2024. Photo by David Cooper Photography."
 postamble = ""
 publishDate = "2024-04-12T00:00:00+01:00"
 related_articles = ["articles/vancouver-operas-glittery-magic-flute/.md", "articles/vancouver-opera-sails-away-in-the-flying-dutchman/.md"]
 related_companies = ["scene/companies/pacific-opera-victoria.md"]
-related_people = ["scene/people/"]
+related_people = ["scene/people/peter-mcgillivray.md", "scene/people/sydney-baedke.md", "scene/people/megan-latham.md", "scene/people/cecile-muhire.md", "scene/people/tyler-duncan.md"]
 short_description = "Their antics in act III were so funny that the music had to repeatedly pause because the audience was roaring with laughter."
 slug = "fifties-futurism-figaro"
 title = "Fifties Futurism Figaro"
 +++
 Completing [Pacific Opera Victoria](/scene/companies/pacific-opera-victoria/)'s 23-24 season is a mid-century-modern take on the classic _Marriage of Figaro_. Set in a riot of primary colour costumes, sets, and a 1950s futurist manor house, this version eschews some of the 18th-century tropes in favour of a more sparse stage. 
 
-The long suffering couple of Figaro and Susanna, played by bass-baritone Donovan Singletary and soprano Suzanne Rigden respectively delivered solid performances, with moments of comedic brilliance that resonated well with the audience. Singletary's Figaro was very stoic, annoyed at the Count's constant pursuit of his bride-to-be, pairing with Rigden's nonchalant Susanna, who was more courteous and deferential to her employers, and genuinely worried about if her marriage will be able to take place. 
+The long suffering couple of Figaro and Susanna, played by bass-baritone [Donovan Singletary](https://donovansingletary.com/) and soprano [Suzanne Rigden](https://www.suzannerigden.com/) respectively delivered solid performances, with moments of comedic brilliance that resonated well with the audience. Singletary's Figaro was very stoic, annoyed at the Count's constant pursuit of his bride-to-be, pairing with Rigden's nonchalant Susanna, who was more courteous and deferential to her employers, and genuinely worried about if her marriage will be able to take place. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1712933711/POV_The_Marriage_of_Figaro_0512.jpg){{% /md %}}
 
