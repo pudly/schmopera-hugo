@@ -2,23 +2,27 @@
 date = "2017-08-28T18:43:00-04:00"
 discipline = "Tenor"
 lastmod = "2017-08-28T19:00:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1503960088889/jacques_arsenault_headshot_co.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1713284112/dam-ja-220300_jaques_arsenault_headshot_8x10_cmyk.jpg"
 publishDate = "2017-08-28T18:43:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/tapestry-opera.md", "scene/companies/opera-on-the-avalon.md", "scene/companies/calgary-opera.md", "scene/companies/edmonton-opera.md", "scene/companies/opera-nuova.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/tapestry-opera.md", "scene/companies/opera-on-the-avalon.md", "scene/companies/calgary-opera.md", "scene/companies/edmonton-opera.md", "scene/companies/opera-nuova.md", "scene/companies/canadian-opera-company.md", "scene/companies/manitoba-opera.md"]
 slug = "jacques-arsenault"
 title = "Jacques Arsenault"
 [[social_media]]
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/tenorjacques"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/jacqueswarsenault/"
 
 +++
-Acadian tenor Jacques Arsenault began his musical career as a virtuoso accordionist while growing up on Prince Edward Island before discovering his vocal talents. After receiving his Master of Music from University of Alberta, Jacques made his professional debut in 2015 as **Pritschitsch** in Edmonton Opera's _The Merry Widow_. Jacques joined the cast as **Kaspar** in Opera Nuova’s production of _Amahl and the Night Visitors_, and starred as **Archie** in _Archiebaldo_, Cowtown Opera’s raunchy operatic cabaret for Calgary Opera’s summertime “Opera in the Village”.
+Acadian tenor Jacques Arsenault began his musical career studying accordion while growing up on Prince Edward Island, before discovering his vocal talents. Since receiving his Master of Music from the University of Alberta, Jacques has performed throughout Canada in a wide range of repertoire from classical and contemporary opera to musical theatre. In 2015, Jacques made his operatic debut in Edmonton Opera’s _The Merry Widow_ and is delighted to return this season as Remendado in _Carmen_.
 
-Jacques starred as **Freddy** in Tapestry Opera’s 2017 premiere of _Bandits in the Valley_, based on local history of 1860s smugglers, earning nominations for two BroadwayWorld/Toronto Awards (Best Leading Actor in a Musical and Best Performance by a Male in a Featured Role) for his “standout performance…an impressive combination of powerful singing, solid accordion chops…and heartfelt acting” (Jenna Simeonov, Schmopera).
+In 2023, Jacques sang Don Curzio in _Le nozze di Figaro_ and Third Jew in _Salome_ with the Canadian Opera Company and joined the band as accordionist and keyboardist in the klezmer/folk, music theatre hybrid “Old Stock: A Refugee Love Story” on tour to Saskatoon, New Brunswick, Winnipeg, Vancouver and Victoria.
 
-Jacques made his debut as **Ambroise Lepine** in _Louis Riel_ (Somers) in the Canadian Opera Company’s acclaimed production at the National Arts Centre and displayed his comedic skills as **Alfred** in _Die Fledermaus_ at Glenn Gould School in Toronto.
+Jacques brought his comedic skills as the Italian opera singer Piangi to Opera on the Avalon’s Phantom of the Opera, and as Basilio in Against the Grain Theatre’s _Figaro’s Wedding_. Jacques also sang the role of Ambroise Lépine in _Louis Riel_ (Somers) with the Canadian Opera Company at the National Arts Centre.
 
-In Montreal, Jacques sang several roles in José Evangelista’s _Le Manuscrit trouvé à Saragosse_ with la Société de Musique Contemporaine de Québec. Judy-Ann Desrosiers (L’Opéra) wrote of his performance : « L\[a\] brillant\[e\] interpréta\[tion\]… de Jacques Arsenault dans le génial numéro du géomètre mérit\[e\] d’être soulign\[é\] ».
+Jacques created the role of Zahed in the 2021 world premiere of _L’Orangeraie_ with Chants Libres in Montreal and Quebec City. He starred as Freddy in Tapestry Opera’s _Bandits in the Valley_, earning nominations for two Broadway World/Toronto Awards for his “standout performance... impressive combination of powerful singing, solid accordion chops... and heartfelt acting”.
 
-In 2019, Jacques will portray **Lui** in his own project, a male adaptation of Poulenc’s _La Voix humaine_ in collaboration with Against the Grain Theatre, and returns to National Arts Centre as **Don Basilio** and **Don Curzio** in _Le Nozze di Figaro_.
+Jacques and mezzo-soprano Marjorie Maltais perform together as French Squeeze, presenting his original accordion arrangements of their favourite French songs from Canada and France, captivating audiences with recent performances in Toronto and Prince Edward Island’s Under the Spire Festival. In 2023, French Squeeze joins Cantabile Choirs of Kingston in “La Vie en Rose”.
