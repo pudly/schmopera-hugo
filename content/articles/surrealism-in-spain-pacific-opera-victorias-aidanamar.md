@@ -2,13 +2,13 @@
 author = ["authors/melissa-ratcliff.md"]
 categories = "Review"
 date = "2024-03-01T00:00:00+01:00"
-lastmod = "2024-03-01T00:0:00+01:00"
+lastmod = "2024-03-01T00:00:00+01:00"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1709298156/sqPacific_Opera_Ainadamar_0543.jpg"
 primary_image_credit = "Dancers from Alma de España Flamenco Dance Company with Hannah Hipp as Federico Garcia Lorca in Ainadamar, directed by Brian Staufenbiel. Pacific Opera Victoria, 2024. David Cooper Photography."
 postamble = ""
 publishDate = "2024-03-01T00:00:00+01:00"
-related_articles = ["articles/angel-s-bone-disturbing-the-comfortable/.md", "articles/fantasy-is-for-the-birds/.md", "articles/vancouver-opera-sails-away-in-the-flying-dutchman/.md"]
+related_articles = ["articles/angel-s-bone-disturbing-the-comfortable.md", "articles/fantasy-is-for-the-birds/.md", "articles/vancouver-opera-sails-away-in-the-flying-dutchman.md"]
 related_companies = ["scene/companies/pacific-opera-victoria.md"]
 related_people = ["scene/people/miriam-khalil.md"]
 short_description = "Akin to a photographic vignette, each 'image' is a static setting onstage with highly stylized scenery, projections, and costumes. While the imagery is visually lush and brilliant, it made the pacing extremely slow, with little on-stage action to complement the modern design."

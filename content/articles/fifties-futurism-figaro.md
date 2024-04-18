@@ -1,14 +1,14 @@
 +++
 author = ["authors/melissa-ratcliff.md"]
-categories = "reviews"
+categories = "Review"
 date = "2024-04-12T00:00:00+01:00"
-lastmod = "2024-04-12T00:0:00+01:00"
+lastmod = "2024-04-12T00:00:00+01:00"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1712933711/sqPOV_The_Marriage_of_Figaro_0668.jpg"
 primary_image_credit = "Sydney Baedke as Countess Almaviva in Pacific Opera Victoria's production of Mozart's The Marriage of Figaro, directed by Morris Panych and conducted by Timothy Vernon, with set design by Ken MacDonald and costumes by Nancy Bryant, 2024. Photo by David Cooper Photography."
 postamble = ""
 publishDate = "2024-04-12T00:00:00+01:00"
-related_articles = ["articles/the-ensemble-from-heaven-sends-don-giovanni-to-hell/.md", "articles/fantasy-is-for-the-birds/.md"]
+related_articles = ["articles/the-ensemble-from-heaven-sends-don-giovanni-to-hell.md", "articles/fantasy-is-for-the-birds.md"]
 related_companies = ["scene/companies/pacific-opera-victoria.md"]
 related_people = ["scene/people/peter-mcgillivray.md", "scene/people/sydney-baedke.md", "scene/people/megan-latham.md", "scene/people/cecile-muhire.md", "scene/people/tyler-duncan.md"]
 short_description = "Their antics in act III were so funny that the music had to repeatedly pause because the audience was roaring with laughter."
