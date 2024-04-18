@@ -1,8 +1,8 @@
 +++
 author = ["authors/melissa-ratcliff.md"]
-categories = "reviews"
+categories = "Review"
 date = "2024-02-227T00:00:00+01:00"
-lastmod = "2024-02-27T00:0:00+01:00"
+lastmod = "2024-02-27T00:00:00+01:00"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1709082000/sqDP_VO_-_Principals_of_Don_Pasquale_-_Photo_Emily_Cooper.jpg"
 primary_image_credit = "The principals of Vancouver Opera's Don Pasquale, 2024. Photo: Emily Cooper."

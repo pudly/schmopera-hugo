@@ -1,8 +1,8 @@
 +++
 author = ["authors/greg.md"]
-categories = "reviews"
+categories = "Review"
 date = "2024-02-12T00:00:00+01:00"
-lastmod = "2024-02-12T00:0:00+01:00"
+lastmod = "2024-02-12T00:00:00+01:00"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1707867220/sqCOCdg_23-24-04-MC-D-0901.jpg"
 primary_image_credit = "Simone McIntosh as Zerlina (below) and Gordon Bintner as Don Giovanni (above) in the Canadian Opera Company's production of Don Giovanni, 2024, photo: Michael Cooper."

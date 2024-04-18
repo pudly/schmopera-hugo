@@ -1,6 +1,6 @@
 +++
 author = ["authors/melissa-ratcliff.md"]
-categories = "reviews"
+categories = "Review"
 date = "2024-03-01T00:00:00+01:00"
 lastmod = "2024-03-01T00:0:00+01:00"
 preamble = ""

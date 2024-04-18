@@ -1,8 +1,8 @@
 +++
 author = ["authors/greg.md"]
-categories = "reviews"
+categories = "Review"
 date = "2024-02-12T00:00:00+01:00"
-lastmod = "2024-02-12T00:0:00+01:00"
+lastmod = "2024-02-12T00:00:00+01:00"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1707867217/sqCOCVixen_23-24-03-MC-D-0422.jpg"
 primary_image_credit = "Jane Archibald as the Vixen and Carolyn Sproule as the Dog (behind) in the Canadian Opera Company's production of The Cunning Little Vixen, 2024, photo: Michael Cooper."

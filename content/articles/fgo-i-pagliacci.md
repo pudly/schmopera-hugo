@@ -1,6 +1,6 @@
 +++
 author = ["authors/samuel-loetscher.md"]
-categories = "reviews"
+categories = "Review"
 date = "2024-01-27T00:00:00+01:00"
 lastmod = "2024-01-27T00:0:00+01:00"
 preamble = ""
@@ -12,8 +12,8 @@ related_articles = ["articles/a-frighteningly-timeless-story-of-abuse-pagliacci/
 related_companies = ["scene/companies/florida-grand-opera.md"]
 related_people = ["scene/people/limmie-pulliam.md", "scene/people/kearstin-piper-brown.md"]
 short_description = "Together, Pulliam and Brown form a powerhouse duo, breathing life into the timeless narrative of I pagliacci."
-slug = "High notes and deep emotion: don't miss FGO's I pagliacci"
-title = "high-notes-and-deep-emotion-dont-miss-fgos-i-pagliacci"
+slug = "high-notes-and-deep-emotion-dont-miss-fgos-i-pagliacci"
+title = "High notes and deep emotion: don't miss FGO's I pagliacci"
 
 +++
 Step into a world of passion, betrayal, and raw emotion as [Florida Grand Opera](/scene/companies/florida-grand-opera/) presents [_I pagliacci_](https://fgo.org/this-season/pagliacci/), a riveting production that promises to captivate audiences at the Adrienne Arsht Center in Miami, Florida. Opening this Saturday, January 27th, the stage will be graced by the extraordinary talent of [Limmie Pulliam](/scene/people/limmie-pulliam/), the first Black man to take on the role of Radames in _Aida_ at the Met. Pulliam's commanding presence and remarkable vocal prowess will be on full display as he steps into the character of Canio, weaving a tale of love and tragedy.

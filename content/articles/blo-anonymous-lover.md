@@ -1,8 +1,8 @@
 +++
 author = ["authors/arturo-fernandez.md"]
-categories = "reviews"
+categories = "Review"
 date = "2024-02-21T00:00:00+01:00"
-lastmod = "2024-02-21T00:0:00+01:00"
+lastmod = "2024-02-21T00:00:00+01:00"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1708525012/sqBLO_anon_Valcour_Omar_Najmi_advises_Leontine_Brianna_J.jpg"
 primary_image_credit = "Valcour (Omar Najmi) advises Leontine (Brianna J. Robinson) on how to deal with a secret admirer in BLO's The Anonymous Lover. Photo by Nile Scott Studios."
