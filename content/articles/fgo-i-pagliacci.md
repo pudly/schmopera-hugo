@@ -2,13 +2,13 @@
 author = ["authors/samuel-loetscher.md"]
 categories = "Review"
 date = "2024-01-27T00:00:00+01:00"
-lastmod = "2024-01-27T00:0:00+01:00"
+lastmod = "2024-01-27T00:00:00+01:00"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1706386600/FGO_pagliacci_1.jpg"
 primary_image_credit = "The cast of Florida Grand Opera's 2024 production of I pagliacci. Photo: Eric Joannes."
 postamble = "[Florida Grand Opera's production of I pagliacci](https://fgo.org/this-season/pagliacci/) runs January 27-30 in Miami, and February 8-10 in Fort Lauderdale."
 publishDate = "2024-01-27T00:00:00+01:00"
-related_articles = ["articles/a-frighteningly-timeless-story-of-abuse-pagliacci/.md", "articles/pagliacci-alone-makes-festive-shocking-season-opener/.md"]
+related_articles = ["articles/a-frighteningly-timeless-story-of-abuse-pagliacci.md", "articles/pagliacci-alone-makes-festive-shocking-season-opener.md"]
 related_companies = ["scene/companies/florida-grand-opera.md"]
 related_people = ["scene/people/limmie-pulliam.md", "scene/people/kearstin-piper-brown.md"]
 short_description = "Together, Pulliam and Brown form a powerhouse duo, breathing life into the timeless narrative of I pagliacci."
