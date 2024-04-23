@@ -11,7 +11,7 @@ publishDate = "2024-04-22T00:00:00+01:00"
 related_articles = ["articles/talking-with-singers-corinne-winters.md"]
 related_companies = ["scene/companies/san-diego-opera.md"]
 related_people = ["scene/people/corinne-winters.md"]
-short_description = ""
+short_description = "We don't sing with good technique just for the fun of it. It's there so that it frees us up to be great artists. The technique has to be there first, so that we can let go and actually do the rest."
 slug = "corinne-winters-humans-do-stupid-stuff-and-i-think-art-should-reflect-that"
 title = "Corinne Winters: 'Humans do stupid stuff and I think art should reflect that.'"
 +++
