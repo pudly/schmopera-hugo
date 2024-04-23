@@ -22,6 +22,8 @@ __Corinne Winters:__ Singing _Madama Butterfly_ feels exactly like what I though
 
 "I had thought that being an American singing in Italy would be tricky. It could go either way but it went very well. It was a great omen for doing more Butterflies in the future. After, I had more confidence and I told my manager I'd like to keep booking this role because I think it highlights everything that I do well, and everything that I want to express artistically."
 
+> "I sing because I have no choice."
+
 __EC: Why was the role of Butterfly one of the holy grails to attain?__
 
 __CW:__ "Other than maybe a few of the Wagner roles, this is the stamina role of the soprano repertoire, maybe even more so in the sense that the Wagner roles are spread out over a long evening with breaks. Whereas, this piece is under three hours, but Butterfly is singing, two and a half hours of it. The infamous Act II of Butterfly, which is one of the best acts of opera ever written, is where Butterfly comes on and doesn't shut up."
@@ -56,6 +58,8 @@ __CW:__ "I've had a huge vocal evolution and part of that is just growing up. Wh
 "My voice has grown a lot and I'm grateful that it's going in the right direction but I also stay on top of it. I'm always studying and coaching, keeping people around me that I trust. I call them trusted sets of ears to make sure I'm on the right track because our instrument is funny. The way something sounds to us isn't always how it sounds out there. This means that even if something sounds good in our own ear, it might not actually be the best sound in the theater. It's important to have people we trust, that keep us honest, that have our best interests at heart, but also tell us the truth if we're going down the wrong path vocally.
 
 "I’ve had more experience since the last time I was here in San Diego. What people like about what I have to offer - and it is about the public at the end of the day, the people who pay for the tickets - that's what I need to give, and luckily, it's what also feels aligned with my own artistry. I feel more energized than ever and more aligned than ever with what I want to convey and express as an artist. I'm very, very grateful.
+
+> "It doesn't matter how talented you are because we are still human beings."
 
 __EC: Why do you sing?__
 
