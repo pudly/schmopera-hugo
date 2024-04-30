@@ -32,6 +32,11 @@ __CW:__ "Other than maybe a few of the Wagner roles, this is the stamina role of
 
 "However, there's also this element of stamina on the part of the singer because Butterfly has this whole arc and journey through that act. It's so dramatic and so emotionally intense that it alone is longer than many of the roles I sing in total. There's the vocal challenge of that as well as the dramatic high stakes. The piece is well-known but it is very different singing it in the music rehearsal with the music stand than it is actually getting up and doing it, with the acting and having the child there with you, feeling and living all these emotions. That makes the vocalism even harder."
 
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1714438446/Corinne-Winters_SDO_KarliCadel-SDO-Butterfly-5025.jpg){{% /md %}}
+
+<figcaption>Soprano Corinne Winters is Cio-Cio-San in San Diego Opera's MADAMA BUTTERFLY. April, 2024. Photo by Karli Cadel.</figcaption>
+</figure>
+
 __EC: Is the story of _Madama Butterfly_ and Cio Cio San's sacrifice still relevant today?__
 
 __CW:__ "The hallmark of great art is something where the actual details of the story are not as relevant as the core message, or the core feeling. This piece shows the full spectrum of humanity and what humanity is capable of -- the good, the bad, and the ugly. It is also this arc of experience, and how experience can change you, both on the part of Butterfly and of Pinkerton. She starts out very hopeful and she tries to keep the hope alive, but she becomes very agitated. It is obvious that there is doubt in there somewhere because she is trying so hard to keep hope when it is dwindling. Then this despair at the end, and anger, and wanting to maintain her honor."
