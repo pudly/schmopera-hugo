@@ -9,11 +9,11 @@ publishDate = "2024-04-28T00:00:00-00:00"
 related_articles = ["articles/searching-for-superlatives-locs-suberb-rigoletto.md","articles/the-price-of-vengeance-rigoletto-at-roh.md"]
 related_companies = ["scene/companies/boston-baroque.md"]
 related_people = ["scene/people/sidney-outlaw.md", "scene/people/julie-boulianne.md", "scene/people/susanna-phillips.md", "scene/people/patrick-carfizzi.md"]
-short_description = ""
+short_description = "Boston Baroque's casting absolutely knocked it out of the park when it came to casting this particular production. It's a very rare time at the opera where I can say I feel everyone was memorable in their own way, but this performance had probably one of the best ensemble casts I've had the pleasure to watch."
 slug = "in-transition-boston-baroques-don-giovanni-shows-very-few-bumps"
 title = "In transition, Boston Baroque's Don Giovanni shows very few bumps"
 +++
-[Boston Baroque](/scene/people/boston-baroque/) has always had interesting productions in their old WGBH studio productions, with their large projection walls right behind the action and their very short distance from the stage. Aside from performing their opera productions on period instruments, this was mostly what a big draw of their productions was. What, then, is a company to do when they drastically shift venues and they still don't really want to change much of their _modus operandi_? And how does that look in a different format?
+[Boston Baroque](/scene/companies/boston-baroque/) has always had interesting productions in their old WGBH studio productions, with their large projection walls right behind the action and their very short distance from the stage. Aside from performing their opera productions on period instruments, this was mostly what a big draw of their productions was. What, then, is a company to do when they drastically shift venues and they still don't really want to change much of their _modus operandi_? And how does that look in a different format?
 
 Boston Baroque tested the waters for this on the Huntington Theater's stage, performing a classic of the repertory as brilliantly as they always do. Being a period orchestra, of course, they also do so with historical attention, even leaving an entire note in the program about _Don Giovanni_'s version history involving numbers that changed between its premiere in Prague and its Vienna premiere -– a factoid about this opera I didn't even know. As I've mentioned in my review of last year's Iphigénie en Tauride_](/soula-parassidis-shines-in-iphigenie-en-tauride/), the orchestral playing is sensitive and wonderful, so I don't think I need to go into that.
 
