@@ -9,7 +9,7 @@ publishDate = "2024-05-01T00:00:00-00:00"
 related_articles = ["articles/a-clarifying-and-revelatory-evening-with-schubert-and-jonas-kaufmann.md", "articles/julia-bullock-a-miraculous-evening-from-schubert-to-nina-simone.md"]
 related_companies = []
 related_people = []
-short_description = ""
+short_description = "The opera's intended 1914 premiere at the Opéra Comique was cancelled due to the outbreak of World War I during which time the original orchestrations were lost. The origins of the Boulanger-Pugno work are almost as fraught with circumstance as D'Annunzio's libretto."
 slug = "100-years-later-boulangers-opera-gets-north-american-premiere"
 title = "100 years later, Boulanger's opera gets North American premiere"
 +++
