@@ -9,7 +9,7 @@ publishDate = "2024-05-08T00:00:00-00:00"
 related_articles = ["articles/fantasy-is-for-the-birds.md","articles/the-price-of-vengeance-rigoletto-at-roh.md", "articles/mo-carmen.md"]
 related_companies = ["scene/companies/vancouver-opera.md"]
 related_people = ["scene/people/nathan-keoughan.md", "scene/people/jonelle-sills.md", "scene/people/alok-kumar.md", "scene/people/sarah-mesko.md"]
-short_description = ""
+short_description = "No longer set as a racial stereotype, Carmen and her companions are, simply, smugglers. No need to give them a particular racial background and attribute that to their criminal behaviour, they just happen to be a group of people living outside the law. And not only was none of the racial elements missed, it made it a much more cohesive story, making Don José an outsider not because of his ethnicity, but because he represents the law they're trying to evade."
 slug = "vancouver-operas-smoking-carmen"
 title = "Vancouver Opera's smoking Carmen"
 +++
