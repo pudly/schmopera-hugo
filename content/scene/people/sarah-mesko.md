@@ -1,0 +1,22 @@
++++
+discipline = "Mezzo-soprano"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1715177628/SarahMesko.jpg"
+primary_image_credit = ""
+related_companies = ["scene/companies/vancouver-opera.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/san-diego-opera.md", "scene/companies/opera-theatre-of-st-louis.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/houston-grand-opera.md", "scene/companies/washington-nationa-opera.md", "scene/companies/edmonton-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-metropolitan-opera.md"]
+slug = "sarah-mesko"
+title = "Sarah Mesko"
+website = "https://sarahmesko.com/"
+
+
++++
+Praised by _The Washington Post_ for her "consistently beautiful sound," American mezzo-soprano Sarah Mesko is rapidly gaining attention for her "rich mezzo soprano" voice and musicality.
+
+In the 23-24 season, Ms. Mesko returns to Opera Theatre of Saint Louis for the title role in Handel's _Julius Caesar_ and makes her debut with the Houston Chamber Choir and Orchestra in the world premiere of Daniel Knaggs's new major work _The Joyful Mysteries_. Last season she made her debut on the roster of the Lyric Opera of Chicago for _Carmen_. On the concert stage, she debuted with Opera Lafayette for Pergolesi's _Stabat Mater_ and Fresno Philharmonic for Beethoven's Symphony No. 9.
+
+Sarah returned to Houston Grand Opera and Opera Theatre of Saint Louis for the title role in _Carmen_ and to The Metropolitan Opera for _Rodelinda_ (Eudige). Other recent engagements at The Metropolitan Opera include _Semiramide_ (Arsace), _Carmen_ (Mercédès), and covering the title role in _Agrippina_. She sang the title role in _Carmen_ (title role) with Tulsa Opera and made her Canadian debut in _Le comte Ory_ (Isolier) with Edmonton Opera. On the concert stage she appeared in Handel's _Messiah_ at the US Naval Academy and presented recitals at the University of Arkansas and Hendrix College. In previous seasons, Ms. Mesko was seen at The Metropolitan Opera in _Die Zauberflöte_ (Zweite Dame) and _Il trovatore_ (Ines) while covering in _Cendrillon_ (Le Prince Charmant). She also made her New York Philharmonic debut, her Cincinnati Opera debut in Monteverdi's _L'incoronazione di Poppea_ (Ottavia), and her house/role debut in _Little Women_ (Jo) with Annapolis Opera.
+
+Sarah made her debut at The Metropolitan Opera in _The Magic Flute_ (Second Lady) and appeared across the United States with The Metropolitan Opera Rising Stars concert tour.  She made her role debut as Carmen with Washington National Opera in the Cafritz Young Artist performance; other performances at WNO include in _Hansel and Gretel_ (Hansel), _Così fan tutte_ (Dorabella), _Madama Butterfly_ (Suzuki), and _The Magic Flute_ (Second Lady).  Ms. Mesko debuted at The Glimmerglass Festival in Vivaldi's _Catone in Utica_ (Emilia) to great acclaim and made her debut at Houston Grand Opera in _A Little Night Music_ (Mrs. Segstrom).  She made her European debut in Paris in Lully's _Armide_ (La Sagesse/Sidonie) with Mercury Baroque and the Théatre de Gennevilliers.
+
+On the concert stage, Ms. Mesko has appeared with the National Symphony Orchestra under Tito Muñoz; in Handel's _Hercules_ (Dejanira) with the Oregon Bach Festival; Alexander Nevsky with the Columbus Symphony and Baltimore Symphony Orchestra under Marin Alsop; and Mozart _Requiem_ with Alexandria Symphony Orchestra. Ms. Mesko has made recital appearances with the Dallas Opera at the Dallas Museum of Art; with tenor Paul Appleby for the George London Foundation at the Morgan Library in New York City; with the Dolce Suono Ensemble; with Vocal Arts DC, presenting Janácek's _Diary of One Who Disappeared_ with tenor Toby Spence; and with San Francisco Opera Center's Schwabacher Debut Recital Series.
+
+Sarah was a national finalist in The Metropolitan Opera National Council Auditions, performing with the Met Orchestra under Patrick Summers.  She has won First Prizes in various competitions, including the George London Foundation, the National Society of Arts and Letters, Annapolis Opera, Virginia Opera, Young Texas Artists, Sun Valley Opera, and the Franco-American Vocal Academy.  She is also among a rare number of singers who have won the Richard F. Gold Career Grant twice; at Washington National Opera and Central City Opera.
