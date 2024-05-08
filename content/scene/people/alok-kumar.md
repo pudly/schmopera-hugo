@@ -1,6 +1,6 @@
 +++
 discipline = "Tenor"
-primary_image = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1715177645/Kumar_Alok.jpg"
 primary_image_credit = "Dario Acosta"
 related_companies = ["scene/companies/vancouver-opera.md", "scene/companies/scottish-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/los-angeles-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/the-metropolitan-opera.md"]
 slug = "alok-kumar"
