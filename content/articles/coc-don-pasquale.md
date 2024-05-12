@@ -47,4 +47,4 @@ Musical issues aside - which very likely could have been only for a night - Pasq
 <figcaption>Simone Osborne (Norina) and Misha Kiria (Don Pasquale) in Don Pasquale, Canadian Opera Company, 2024. Photo: Michael Cooper.</figcaption>
 </figure>
 
-The story is quite harmless, no one dies, and everyone really gets what they want in the end and it's not _Nozze di Figaro). It's a nice refresher to the palette of tragedies that seem to get all the attention. The show runs until May 18 so there's still time to see this [really fun romp with Donizetti](https://www.coc.ca/productions/24405).
+The story is quite harmless, no one dies, and everyone really gets what they want in the end and it's not _Nozze di Figaro_). It's a nice refresher to the palette of tragedies that seem to get all the attention. The show runs until May 18 so there's still time to see this [really fun romp with Donizetti](https://www.coc.ca/productions/24405).
