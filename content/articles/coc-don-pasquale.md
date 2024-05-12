@@ -9,7 +9,7 @@ publishDate = "2024-05-012T00:00:00-00:00"
 related_articles = ["articles/vos-mod-cats-don-pasquale.md"]
 related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/scottish-opera.md"]
 related_people = ["scene/people/simone-osborne.md", "scene/people/joshua-hopkins.md", "scene/people/santiago-ballerini.md", "scene/people/misha-kiria.md"]
-short_description = ""
+short_description = "While the amount of syllables that were flying by were impressive and the pace was astounding, I felt no one was really in the pocket of the piece -- neither the pit nor the stage."
 slug = "feisty-frivolous-don-pasquale-not-quite-in-the-patter-pocket"
 title = "Feisty, frivolous Don Pasquale not quite in the patter pocket"
 +++
@@ -35,7 +35,7 @@ As the lovers Norina and Ernesto, soprano [Simone Osborne](/scene/people/simone-
 <figcaption>Santiago Ballerini (Ernesto) and Simone Osborne (Norina) in Don Pasquale, Canadian Opera Company, 2024. Photo: Michael Cooper.</figcaption>
 </figure>
 
-While the acting overall was outstanding and quite entertaining, the lower voices seemed plagued by a number of musical issues. Things started kind of going off the rails with Hopkins' "Bella siccome un'angelo" and it may have rattled the singer, but I feel like he struggled to get back to his usual grounded performance. Recitatives were clean and quick, but I found that the creative license taken by Hopkins and Kiria -- as is the custom in bel canto -- didn't quite dance the way they may have intended? A highlight of the show is the remarkably difficult and incredibly fast duet by Pasquale and Malatesta. While the amount of syllables that were flying by were impressive and the pace was astounding, I felt no one was really in the pocket of the piece - neither the pit or the stage. Patter of that (or any) difficulty really needs a proper sense of an internal pulse from everyone, I felt like there were a few too many pulses on the stage. 
+While the acting overall was outstanding and quite entertaining, the lower voices seemed plagued by a number of musical issues. Things started kind of going off the rails with Hopkins' "Bella siccome un'angelo" and it may have rattled the singer, but I feel like he struggled to get back to his usual grounded performance. Recitatives were clean and quick, but I found that the creative license taken by Hopkins and Kiria -- as is the custom in bel canto -- didn't quite dance the way they may have intended? A highlight of the show is the remarkably difficult and incredibly fast duet by Pasquale and Malatesta. While the amount of syllables that were flying by were impressive and the pace was astounding, I felt no one was really in the pocket of the piece -- neither the pit nor the stage. Patter of that (or any) difficulty really needs a proper sense of an internal pulse from everyone, I felt like there were a few too many pulses on the stage. 
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1715536527/COC_Pasquale_23-24-05-MC-D-1526-R.jpg)
 <figcaption>Misha Kiria (Don Pasqale) and Joshua Hopkins (Dr. Malatesta) in Don Pasquale, Canadian Opera Company, 2024. Photo: Michael Cooper.</figcaption>
