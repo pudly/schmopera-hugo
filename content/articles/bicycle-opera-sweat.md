@@ -10,7 +10,7 @@ publishDate = "2024-05-30T00:00:00-00:00"
 related_articles = ["articles/in-review-sweat.md"]
 related_people = ["scene/people/catherine-daniel.md", "scene/people/larissa-koniuk.md", "scene/people/stephanie-tritchew.md", "scene/people/caitlin-wood.md", "scene/people/alexandra-beley.md"]
 related_companies = ["scene/companies/the-bicycle-opera-project.md"]
-short_description = "
+short_description = "Before you even realize it, you know who's soft-spoken, who jokes the most, who's an activist, who's most in it for herself; you know what their desires and fantasies are -- to be a star of the fashion industry, of course -- and what they'd do with any sort of livable income they dream of making."
 slug = "a-must-watch-sweat-on-screen"
 title = "A must-watch: SWEAT on-screen"
 
