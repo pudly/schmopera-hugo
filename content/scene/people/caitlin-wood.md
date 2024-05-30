@@ -19,12 +19,12 @@ template = "social-media"
 url = "https://www.instagram.com/caitwood7/"
 
 +++
-Alberta‐born soprano Caitlin Wood was “absolutely vibrant” and showed “great comic flair” in her debut as Susanna in Vancouver Opera Festival’s _The Marriage of Figar_o. Caitlin portrayed Ava in City Opera Vancouver’s 2017 world premiere of Marie Clements/Brian Current’s powerful opera _Missing_, showing “exquisite vulnerability”.
+Alberta-born soprano Caitlin Wood was "absolutely vibrant" and showed "great comic flair" in her debut as Susanna in Vancouver Opera Festival's _The Marriage of Figaro_. Caitlin portrayed Ava in City Opera Vancouver's 2017 world premiere of Marie Clements/Brian Current's powerful opera _Missing_, showing "exquisite vulnerability".
 
-Caitlin begins this season in Pacific Opera Victoria’s _Il Trittico_ and reprises the role of Ava in the company’s touring production of Missing.
+Mark Morris called Caitlin's recent Comtesse Adele "the standout performance of the evening" in _Le Comte Ory_ at Edmonton Opera. As Susanna in their 2020 production of _Marriage of Figaro_, Caitlin was hailed as "an exceptional soprano with excellent comedy".
 
-Upcoming performances for Caitlin include Susanna in _Le Nozze di Figaro_ and Cunegonde in Bernstein’s _Candide_, both with Edmonton Opera, as well as “Topsy‐Turvy”, a concert of Gilbert and Sullivan favourites with Chorus Niagara and Niagara Symphony.
+In 2022, Caitlin portrayed  the Housewife in the multi-Dora Award nominated world premiere of _Gould's Wall_ (Current/Balkan) with Tapestry Opera and was a sparkling Despina in Edmonton Opera's _Cosi fan tutte_. As Josephine in _HMS Pinafore_ with Vancouver Opera, Janet Smith observed: "Capturing the full range of emotions of her character, Caitlin Wood has a vibrant soprano voice that easily scales the heights of Josephine's arias." Caitlin debuts with Opera Kelowna in their production of _Cosi fan tutte_, in 2023.
 
-Mark Morris called Caitlin’s recent Comtesse Adele “the standout performance of the evening” in Edmonton Opera’s _Le Comte Ory_, and as Adele in Toronto Operetta Theatre’s _Die Fledermaus_, Paula Citron praised her “charming stage presence”. Recent concert performances for Caitlin include Vancouver Bach Choir/Vancouver Opera Festival’s premiere of Brian Current’s _The River of Light_, _Carmina Burana_ with Ottawa Choral Society, and Mozart’s _Requiem_ with Windsor Symphony Orchestra.
+Recent concert performances for Caitlin include Vancouver Bach Choir/Vancouver Opera Festival's premiere of Brian Current's _The River of Light_, _Carmina Burana_ with Ottawa Choral Society, and Mozart's _Requiem_ with Windsor Symphony Orchestra. In 2023, Caitlin joins Windsor Symphony for _Messiah_ highlights.
 
-Caitlin received her Masters of Music in Opera Performance from University of Toronto, and gained attention as Joanna in _Sweeney Todd_ while a member of Vancouver Opera’s Yulanda M. Faris Young Artist Program."
+Caitlin is featured in several OperaBreaks, cinematic videos produced by Domoney Artists Management, and voiced Iona the cockatiel in Opera 5's charming animated video, _Threepenny Submarine_, in collaboration with Kingston Symphony.

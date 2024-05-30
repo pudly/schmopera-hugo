@@ -2,18 +2,27 @@
 date = "2016-06-19T15:05:00-06:00"
 discipline = "Mezzo-soprano"
 lastmod = "2016-06-19T15:05:00-06:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1466370230235/2016-06-20--Tritchew-Headshot-1.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1716920027/Stephanie-Tritchew.jpg"
 publishDate = "2016-06-19T15:05:00-06:00"
 related_companies = ["scene/companies/calgary-opera-emerging-artist-development-program.md"]
 slug = "stephanie-tritchew"
 title = "Stephanie Tritchew"
+website = "https://stephanietritchew.com/"
+[[social_media]]
+platform = "Instagram"
+template = "social-media"
+url = "https://www.instagram.com/stepht_mezzo/?hl=en"
+[[social_media]]
+platform = "Facebook"
+template = "social-media"
+url = "https://www.facebook.com/stephanie.tritchew"
 [[social_media]]
 platform = "Twitter"
 template = "social-media"
 url = "https://twitter.com/StephT_mezzo"
 +++
 
-Canadian mezzo soprano Stephanie Tritchew (she/her) is a steadily rising young singer, at home in the realms of both contemporary and standard repertoire. She has been named “one of six Canadian women making the future bright for the art form” by The Globe and Mail.` Stephanie’s recent work includes diverse repertoire with companies including Opera Theatre of Saint Louis, Vancouver Opera, Calgary Opera, Edmonton Opera, as well as a host of independent companies and projects. This season, Stephanie debuts with Regina Symphony Orchestra and Niagara Symphony Orchestra as the Alto Soloist in Beethoven’s Ninth Symphony, and will return to Edmonton Opera for a role debut of Dorabella in Mozart’s Così fan tutte. 
+Canadian mezzo soprano Stephanie Tritchew (she-her) is a steadily rising young singer, at home in the realms of both contemporary and standard repertoire. She has been named “one of six Canadian women making the future bright for the art form” by The Globe and Mail.` Stephanie’s recent work includes diverse repertoire with companies including Opera Theatre of Saint Louis, Vancouver Opera, Calgary Opera, Edmonton Opera, as well as a host of independent companies and projects. This season, Stephanie debuts with Regina Symphony Orchestra and Niagara Symphony Orchestra as the Alto Soloist in Beethoven’s Ninth Symphony, and will return to Edmonton Opera for a role debut of Dorabella in Mozart’s Così fan tutte. 
 
 In a year devastated by COVID-19, Stephanie debuted in Vancouver Opera’s digital season in Amahl and the Night Visitors, and was complimented on “capturing the angst of a late teenager” in her role debut as Cherubino in Edmonton Opera’s Le nozze di Figaro (Edmonton Journal). Stephanie’s grounded practice complements her vocal facility, and has earned her a burgeoning reputation for dynamic, captivating performance on stage. As Stéphano for Calgary Opera’s Roméo et Juliette she was hailed as “fun, and even coquettish” (Opera Canada), and she was “scintillating” as Rosina in Opera 5’s Il barbiere di Siviglia (Ludwig van Toronto). 
 
