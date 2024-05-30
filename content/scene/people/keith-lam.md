@@ -4,7 +4,7 @@ discipline = "Baritone"
 lastmod = "2015-04-07T22:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1716920635/keith-lam.jpg"
 publishDate = "2015-04-07T22:49:00-04:00"
-related_companies = ["scene/companies/against-the-grain-theatre.md","scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md","scene/companies/opera-nuova.md","scene/companies/the-banff-centre.md","scene/companies/highlands-opera-studio.md","scene/companies/confidential-opera-project.md", "scene/comapnies/canadian-opera-company.md", "scene/companies"the-bicycle-opera-project.md"]
+related_companies = ["scene/companies/against-the-grain-theatre.md", "scene/companies/tafelmusik-baroque-orchestra-chamber-choir.md", "scene/companies/opera-nuova.md", "scene/companies/the-banff-centre.md", "scene/companies/highlands-opera-studio.md", "scene/companies/confidential-opera-project.md", "scene/companies/canadian-opera-company.md", "scene/companies/the-bicycle-opera-project.md"]
 slug = "keith-lam"
 title = "Keith Lam"
 [[social_media]]
