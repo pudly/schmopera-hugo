@@ -1,12 +1,12 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = "2024-06-03T00:00:00-00:00"
-lastmod = "2024-06-03T00:00:00-00:00"
+date = "2024-06-02T00:00:00-00:00"
+lastmod = "2024-06-02T00:00:00-00:00"
 preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1717446779/Polenzani_Recital.jpg"
 primary_image_credit = "Pianist Ken Noda and tenor Matthew Polenzani acknowledged with floral bouquets after their recital in the Board of Officers Room at the Park Avenue Armory. Photo: Mike McHugh."
-publishDate = "2024-06-03T00:00:00-00:00"
+publishDate = "2024-06-02T00:00:00-00:00"
 related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/michael-spyres-at-the-park-avenue-armory-big-voice-in-an-intimate-room.md"]
 related_people = ["scene/people/matthew-polenzani.md"]
 related_companies = [""]
