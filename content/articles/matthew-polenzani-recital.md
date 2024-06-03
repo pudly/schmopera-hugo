@@ -19,7 +19,8 @@ When [Matthew Polenzani](/scene/people/matthew-polenzani/) entered the Board of 
 
 We should not be surprised that he takes to the recital stage with the same ability to create vivid characterizations. Polenzani's voice is robust, velvety, and supremely confident, imbuing each song with a unique immediacy. In this abundant recital he delves into the works of Franz Schubert, Gerald Finzi (a mixed blessing), Robert Schumann, and Charles Ives, like a master storyteller. His gestures and physical bearing, calibrated with seasoned awareness, contributed to an engaging theatrical atmosphere. This expressive tenor knows what he is singing and how to reach his audience.
 
-<figure data-type="image">{{% md }}![](https://res.cloudinary.com/schmopera/image/upload/v1716563518/MatthewPolenzani-FayFox.jpg){{% /md }}<figcaption>Tenor Matthew Polenzani sang songs by Franz Schubert, Robert Schumann, Gerald Finzi and Charles Ives. Photo: Fay Fox.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1716563518/MatthewPolenzani-FayFox.jpg){{% /md %}}
+<figcaption>Tenor Matthew Polenzani sang songs by Franz Schubert, Robert Schumann, Gerald Finzi and Charles Ives. Photo: Fay Fox.</figcaption>
 </figure>
 
 Pianist, Ken Noda, with whom Polenzani shares a seemingly symbiotic musical relationship, projects an all together different presence. Appearing almost motionless at the keyboard, he nonetheless captures the myriad moods and musical nuances required by the songs. Noda appeared to be holding his breath while Polenzani reveled in the music. Their interplay was mesmerizing.
@@ -31,7 +32,7 @@ In between he made room for "Ständchen", by art song standards a runaway hit, t
 Finzi's _A Young Man's Exhortation_, a cycle of ten songs, though something of a kindred spirt to the Schumann, was quite another matter. Noda is to be commended for summoning, when the songs allowed, that unmistakable English sound, of which Finzi along with Ralph Vaughan Williams are major exponents. Based on a group of poems by Thomas Hardy, part one depicts in some detail the glories of youthful love while part two counters with images of aging and resignation. Polenzani, mindful of the divide, sang in the main with requisite energy and gravity, particularly in the title song and in part two's "The Sigh",
 an endearing and sad lament. But in total the cycle often overheated the otherwise warm acoustics of the armory's baronial room. It left this listener wanting less Finzi.
 
-<figure data-type="image">{{% md }}![](https://res.cloudinary.com/schmopera/image/upload/v1717446779/Charles_Edward_Ives_-_National_Portrait_Gallery__Smithsonian_Institution__NPG.82.185.jpg){{% /md }}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1717446779/Charles_Edward_Ives_-_National_Portrait_Gallery__Smithsonian_Institution__NPG.82.185.jpg){{% /md %}}
 <figcaption>Songs by modernist composer Charles Ives hinted at the tremendous invention he would bring to the art song and showed that he was not put off by a lovely melody. Photo: Clara Sipprell, National Portrait Gallery, Smithsonian Institution.</figcaption>
 </figure>
 
