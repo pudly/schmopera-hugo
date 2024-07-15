@@ -10,9 +10,9 @@ publishDate = "2024-07-15T00:00:00-00:00"
 related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/stellar-performances-from-a-star-cast-in-chicagos-dead-man-walking/.md"]
 related_people = [""]
 related_companies = [""]
-short_description = "Graham captures Desiree's humor and sass and broaches the melancholy in the ever sigh-worthy 'Send in the Clowns'."
+short_description = "Graham captures Desiree's humor and sass and broaches the melancholy in the ever sigh-worthy Send in the Clowns."
 slug = "jonathan-tunicks-symphony-size-orchestration-for-sondheims-a-little-night-music"
-title = "Jonathan Tunick's symphony size orchestration for Sondheim's "A Little Night Music"
+title = "Jonathan Tunick's symphony size orchestration for Sondheim's A Little Night Music"
 
 +++
 Stephen Sondheim said it best in a 2011 video interview for Sony Masterworks. "Jonathan Tunick is the best orchestrator in the history of the theater...What I value most about Jonathan is his dramatic instinct." That instinct was on beautifully knowing display when he led the Orchestra of St. Luke's in his new orchestration for Sondheim's "A Little Night Music" in a concert production at David Geffen Hall.
