@@ -1,7 +1,7 @@
 +++
 date = "2017-07-20T16:44:00-04:00"
 lastmod = "2017-07-20T16:44:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1546479415/media/2019/01/Logo-FortWorthOpera.png"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1724181458/Logo_FWO_2023-print_One_Line.png"
 publishDate = "2017-07-20T16:44:00-04:00"
 related_people = ["scene/people/hailey-clark.md"]
 slug = "fort-worth-opera"
