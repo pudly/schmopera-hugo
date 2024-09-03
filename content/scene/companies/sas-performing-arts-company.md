@@ -19,7 +19,7 @@ url = "https://x.com/i/flow/login?redirect_after_login=%2Fsasperformcomp"
 [[social_media]]
 platform = "Instagram"
 template = "social-media"
-url = "https://www.instagram.com/sasperformingartscompany/
+url = "https://www.instagram.com/sasperformingartscompany/"
 [[social_media]]
 platform = "Youtube"
 template = "social-media"
