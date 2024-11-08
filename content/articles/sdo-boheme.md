@@ -14,13 +14,13 @@ slug = "san-diego-operas-60th-anniversary-la-boheme-sees-mimi-as-a-ghost"
 title = "San Diego Opera's 60th Anniversary La bohème sees Mimì as a ghost"
 +++
 
-[San Diego Opera](/scene/companies/san-diego-opera/) rolled out stellar soprano talent for Giacomo Puccini's [_La bohème_](https://www.sdopera.org/shows/la-boheme/)] on opening night of their 60th anniversary season. Just back from winning First Prize at Operalia and her Birgit Nilsson Prize win in Mumbai India, and making her role and house debut, soprano Kathleen O'Mara put on a confident rendition of the seamstress Mimì. O'Mara's singing was powerful with sustained high notes and a rich middle register. She easily enchanted the audience.
+[San Diego Opera](/scene/companies/san-diego-opera/) rolled out stellar soprano talent for Giacomo Puccini's [_La bohème_](https://www.sdopera.org/shows/la-boheme/) on opening night of their 60th anniversary season. Just back from winning First Prize at Operalia and her Birgit Nilsson Prize win in Mumbai India, and making her role and house debut, soprano Kathleen O'Mara put on a confident rendition of the seamstress Mimì. O'Mara's singing was powerful with sustained high notes and a rich middle register. She easily enchanted the audience.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1731075261/KarliCadel-Boheme-OrchDress-7435.jpg)
 <figcaption>A scene from San Diego Opera's 2024 production of La bohème. Photo: Karli Cadel.</figcaption>
 </figure>
 
-O'Mara's Mimì faced a particular challenge in this production by stage director Keturah Stickann, because she is imagined as a ghostly memory to the poet Rodolfo as he reflects and daydreams about their brief relationship that ends with her illness and death. With the help of ghoulish lighting by designer Chris Rynne, a pale and barefoot O'Mara rose to the challenge of playing the distant phantom. She glided slowly across the stage, without expression, as one could imagine a ghost doing. Yet her beautiful singing often came close to bringing her to life in Rodolfo's memory. He repeatedly, and heartbreakingly, would try to touch her and embrace her, unsuccessfully.
+O'Mara's Mimì faced a particular challenge in this production by stage director Keturah Stickann, because she is imagined as a ghostly memory to the poet Rodolfo as he reflects and daydreams about their brief relationship that ends with her illness and death. With the help of ghoulish lighting by designer Chris Rynne, a pale and barefoot O'Mara rose to the challenge of playing the distant phantom. She glided slowly across the stage without expression, as one could imagine a ghost doing. Yet her beautiful singing often came close to bringing her to life in Rodolfo's memory. He repeatedly, and heartbreakingly, would try to touch her and embrace her, unsuccessfully.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1731075260/KarliCadel-Boheme-OrchDress-6187-2.jpg)
 <figcaption>César Delgado (Rodolfo) and Sarah Tucker (Mimì) in San Diego Opera's 2024 production of La bohème. Photo: Karli Cadel.</figcaption>
