@@ -3,8 +3,8 @@ author = ["authors/eva-cahen.md"]
 categories = "Review"
 date = "2024-11-08T00:00:00-00:00"
 lastmod = "2024-11-08T00:00:00-00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1731075260/sqKarliCadel-Boheme-OrchDress-5798.jpg"
-primary_image_credit = "César Delgado (Rodolfo) and Sarah Tucker (Mimì) in San Diego Opera's 2024 production of La bohème. Photo: Karli Cadel."
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1731092861/sqKarliCadel-Boheme-StudentNight-7656-2.jpg"
+primary_image_credit = "San Diego Opera's 2024 production of La bohème. Photo: Karli Cadel."
 publishDate = "2024-11-08T00:00:00-00:00"
 related_articles = ["articles/latonia-moore-its-our-job-to-keep-pushing-things-forward.md"]
 related_companies = ["scene/companies/san-diego-opera.md"]
@@ -22,8 +22,8 @@ title = "San Diego Opera's 60th Anniversary La bohème sees Mimì as a ghost"
 
 O'Mara's Mimì faced a particular challenge in this production by stage director Keturah Stickann, because she is imagined as a ghostly memory to the poet Rodolfo as he reflects and daydreams about their brief relationship that ends with her illness and death. With the help of ghoulish lighting by designer Chris Rynne, a pale and barefoot O'Mara rose to the challenge of playing the distant phantom. She glided slowly across the stage without expression, as one could imagine a ghost doing. Yet her beautiful singing often came close to bringing her to life in Rodolfo's memory. He repeatedly, and heartbreakingly, would try to touch her and embrace her, unsuccessfully.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1731075260/KarliCadel-Boheme-OrchDress-6187-2.jpg)
-<figcaption>César Delgado (Rodolfo) and Sarah Tucker (Mimì) in San Diego Opera's 2024 production of La bohème. Photo: Karli Cadel.</figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1731092905/KarliCadel-Boheme-StudentNight-6378.jpg)
+<figcaption>Joshua Blue (Rodolfo) and Kathleen O'Mara (Mimì) in San Diego Opera's 2024 production of La bohème. Photo: Karli Cadel.</figcaption>
 </figure>
 
 But two star sopranos are better than one for a special anniversary so San Diego Opera brought in [Latonia Moore](/latonia-moore-its-our-job-to-keep-pushing-things-forward/) to sing Musetta. Moore, who is better known for dramatic roles such as Aida and Cio-Cio San in _Madama Butterfly_, expertly portrayed a playful and flirtatious Musetta, hamming it up to attract her on-again-off-again lover Marcello's attention. Moore displayed her talent as a comic actress who could credibly pivot to heart-wrenching drama in the final scene when she showed her tenderness and unselfishness as she sacrificed her earrings to exchange for medicine for Mimì. Moore can effortlessly convey both the comic and the dramatic with her beautiful and flexible soprano. I do not have enough superlatives to describe Moore's rich, clear, precise and beautifully rounded voice but suffice it to say she is for me one of the best sopranos singing currently.
@@ -41,6 +41,6 @@ Tenor Joshua Blue also made his house debut as Rodolfo. Blue's singing was at ti
 <figcaption>(l-r) Søren Pedersen (Schaunard), Harold Wilson (Colline) and Leroy Davis (Marcello) in San Diego Opera's 2024 production of La bohème. Photo: Karli Cadel.</figcaption>
 </figure>
 
-The opera was slightly cut. The comic scene in Act I with the landlord Benoit coming to to collect rent from the impoverished roommates was missing. There was also no children's chorus, although the San Diego Opera Chorus sang off-stage near the front of the theater under the direction of Bruce Stasyna. Lidya Yankovskaya's precise and energetic conducting made this retelling of _La bohème_ come alive. Yankovskaya was also making her house debut.
+The opera was slightly cut. The comic scene in Act I with the landlord Benoit coming to collect rent from the impoverished roommates was missing. There was also no children's chorus, although the San Diego Opera Chorus sang off-stage near the front of the theater under the direction of Bruce Stasyna. Lidya Yankovskaya's precise and energetic conducting made this retelling of _La bohème_ come alive. Yankovskaya was also making her house debut.
 
 La Boheme also opened San Diego Opera's first season in 1965. Soprano Sarah Tucker and Tenor César Delgado were scheduled to sing Mimì and Rodolfo in _La Boheme_ for the November 2nd performance.
