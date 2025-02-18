@@ -10,7 +10,7 @@ publishDate = "2025-02-18T00:00:00-00:00"
 related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/michael-spyres-at-the-park-avenue-armory-big-voice-in-an-intimate-room.md"]
 related_people = ["scene/people/kirsten-mackinnon.md", "scene/people/nathan-keoughan.md"]
 related_companies = ["scene/companies/canadian-opera-company.md", "scene/companies/lopera-de-montral.md"]
-short_description = ""
+short_description = "The queen then decides to abdicate the throne and consign herself to a virginal Catholic life -- thus dying a virgin queen. There are suitors, and surgeries, and soaring chants; it was a pretty cool night at the opera."
 slug = "cocs-evocative-reine-garcon-an-enticing-piece-of-homegrown-opera"
 title = "COC's evocative La Reine-garçon an enticing piece of homegrown opera"
 
@@ -29,7 +29,7 @@ Set designer Anick La Bissionière adeptly captures the cold and wintry Swedish 
 
 The score itself is quite cinematic, with what felt like a lot of what I would call "honour choir" influence in the ensemble singing. They reminded me of my days in the Nova Scotia and National Youth Choirs, singing deliciously consonant dissonances in works by people like Imant Raminsh, Morten Lauridsen and Eric Whitacre. The COC Chorus, as usual, sang beautifully in some exquisite French.
 
-<figure data-type="image">{{% md %}}![](){{%https://res.cloudinary.com/schmopera/image/upload/v1739902901/24-25-04-MC-D-1173_h61e0v.jpg /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1739902901/24-25-04-MC-D-1173_h61e0v.jpg){{% /md %}}
 <figcaption>A scene from the Canadian Opera Company's production of La Reine-garcon, 2025. Photo: Michael Cooper.</figcaption>
 </figure>
 
