@@ -4,7 +4,7 @@ categories = "Review"
 date = "2025-02-18T00:00:00-00:00"
 lastmod = "2025-02-18T00:00:00-00:00"
 preamble = ""
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/c_crop,ar_1:1/v1739902903/24-25-04-MC-D-0757_ytlxm7.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1739905055/sq24-25-04-MC-D-0757_bcppkr.jpg"
 primary_image_credit = "Kirsten MacKinnon as Christine in the Canadian Opera Company's production of La Reine-garcon, 2025. Photo: Michael Cooper."
 publishDate = "2025-02-18T00:00:00-00:00"
 related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/michael-spyres-at-the-park-avenue-armory-big-voice-in-an-intimate-room.md"]
@@ -43,7 +43,7 @@ As the queen's paramour, the Countess Ebba Sparre, mezzo-soprano and current COC
 
 Then there are the suitors... 
 
-As Count Karl Gustav, baritone [Philippe Sly](/talking-with-singers-philippe-sly/) brought his technically wonderful singing and beautiful tone in spades. At times, I found the balance with the orchestra to be a bit off, but that may have been due to the tessitura living a lot in the mid-voice at the top of the show. The scene where he tries (and thankfully fails miserably) to force himself upon Christine gave Sly the perfect opportunity to show someone who considers themself to be an "alpha male" get their come-uppance. "The wind blew me over," has to be both one of the weakest yet funniest declamations I've seen in an opera in a while. 
+As Count Karl Gustav, baritone [Philippe Sly](/scene/people/philippe-sly/) brought his technically wonderful singing and beautiful tone in spades. At times, I found the balance with the orchestra to be a bit off, but that may have been due to the tessitura living a lot in the mid-voice at the top of the show. The scene where he tries (and thankfully fails miserably) to force himself upon Christine gave Sly the perfect opportunity to show someone who considers themself to be an "alpha male" get their come-uppance. "The wind blew me over," has to be both one of the weakest yet funniest declamations I've seen in an opera in a while. 
 
 Tenor [Isaiah Bell](/scene/people/isaiah-bell) returns to the COC as Count Johan Oxenstierna. A man more in love with his own body more than anyone/thing else, he is persuaded to pursue the queen using his dame and prowess as a soldier and hunter. We already know that the queen neither needs nor is interested in either of these things. Although we all know "this man" and he can be insufferable, there is something ineffable about Bell's delivery. His clean, strong tone coupled with his incredible acting ability, made Johan almost endearing and the scene was often lightened quite a bit when he entered into it. 
 
