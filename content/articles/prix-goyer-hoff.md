@@ -3,7 +3,7 @@ author = ["authors/sara-schabas.md"]
 categories = "Interview"
 date = "2025-03-04T00:00:00+00:00"
 lastmod = "2025-03-04T00:00:00+00:00"
-preamble ""
+preamble = ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1741103211/sqPrixGoyer_KristinHoffheadshot_g913xp.jpg"
 primary_image_credit = "Kevin Calixte."
 postamble = ""
