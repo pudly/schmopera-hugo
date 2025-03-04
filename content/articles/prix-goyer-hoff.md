@@ -7,11 +7,11 @@ preamble ""
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1741103211/sqPrixGoyer_KristinHoffheadshot_g913xp.jpg"
 primary_image_credit = "Kevin Calixte."
 postamble = ""
-publishDate = "2025-03-04T00:00:00+01:00"
+publishDate = "2025-03-04T00:00:00+00:00"
 related_articles = ["articles//kristin-hoffs-love-songs.md"]
 related_companies = []
 related_people = ["scene/people/kristin-hoff.md"]
-short_description = ""When I ask Hoff what it means to her to be lauded as a collaborative artist, she admits that the inclusion of the word 'collaborative' in the Prix Goyer is the only way she feels comfortable receiving such an honour.""
+short_description = "When I ask Hoff what it means to her to be lauded as a collaborative artist, she admits that the inclusion of the word 'collaborative' in the Prix Goyer is the only way she feels comfortable receiving such an honour."
 slug = "a-collaborative-artist-kristin-hoff-and-the-mecenat-musica-prix-goyer"
 title = "A collaborative artist: Kristin Hoff and the Mécénat Musica Prix Goyer"
 +++
