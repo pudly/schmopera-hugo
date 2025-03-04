@@ -2,21 +2,14 @@
 date = "2015-05-31T20:09:00-04:00"
 discipline = "Mezzo-soprano"
 lastmod = "2015-05-31T20:09:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1433117346047/Hoff.jpg.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1741103211/sqPrixGoyer_KristinHoffheadshot_g913xp.jpg"
+primary_image_credit = "Kevin Calixte."
 publishDate = "2015-05-31T20:09:00-04:00"
 related_companies = ["scene/companies/vancouver-opera.md"]
 slug = "kristin-hoff"
 title = "Kristin Hoff"
-website = "http://www.kristinhoff.com/"
+website = "https://www.kristinhoffmezzo.com/"
 +++
-
-Mezzo-Soprano Kristin Hoff debuted at Carnegie Hall singing Elliot Carter’s *Syringa* with Maestro James Levine conducting. She has been a soloist with the Boston Pops Symphony Orchestra, the Vancouver Symphony Orchestra, and the Montreal Symphony Orchestra, among many others.
-
-Kristin’s operatic roles include Anna Maurrant, Tebaldo, Princess Eboli, Ottavia, Marcellina, Prinz Orlofsky, Donna Elvira, Mrs. Anderssen, Nancy, Mrs. Herring, Carmen, the Mezzo-Soprano in Claude Vivier’s *Kopernikus*, and Dryade in *Ariadne auf Naxos* at Tanglewood with conductor Christoph von Dohnanyì.
-
-Ms. Hoff won the Prix Lyrique Allemand at the 2010 Gala Concert of the Jeunes Ambassadeurs Lyriques du Canada and was awarded a concert tour in China in the 2014. She was chosen as a Caramoor Vocal Rising Star for 2012 and sang also as a part of the New York Festival of Song, about which the *New York Times* referred to Ms. Hoff as a « Mezzo-Soprano whose voice has both body and beauty ».
-
-Kristin recently performed Ana Sokolovic’s *Love Songs* with the Festival de Lanaudière, the Kitchener Open Ears Festival, and in Montreal, Toronto, and Vancouver. She will perform this one-woman opera at the Musée des beaux-arts in Montreal in April 2015.
-Ms. Hoff is a recent 1st prize-winner in the NYCO Mozart Vocal Competition. Recently she appeared in recital with Music Niagara, the Vancouver Island Chamber Music Festival, the Qualicum Beach concert series, the Silk Purse concert series, among others. 
-
-In September 2013, Kristin joined Vancouver Opera as a resident young artist and performed the role of Tebaldo in *Don Carlo* and covered Eboli, Nancy, Mum and Donna Elvira for Vancouver Opera’s main-stage season. Kristin recently debuted with the Vancouver Island Symphony Orchestra and the Palm Court Light Orchestra. Kristin will also perform Messiaen’s *Harawi* at the Chapelle Historique du Bon-Pasteur this spring, as well as Mendelssohn’s 2nd Symphony with the Vancouver Symphony Orchestra. 
+Mezzo-soprano Kristin Hoff is co-founding General Director and Interim Artistic Director of Musique 3 Femmes, an opera company dedicated to creating, developing and producing new opera written by female and non-binary composers and librettists. Hoff is also Executive Director of the concert series, Mini-Concerts Santé of Ensemble ArtChoral, a pandemic-born project that delivers music forsocial and mental health to disadvantaged neighborhoods. In its inaugural year, MCS made 1,700 musician hires and offered 4,900 mini-concerts on 648 streets in 97 boroughs and municipalities for 36,000 citizens.
+ 
+As a singer, Kristin is noted for her "appealing clarity and emotional heft" (_New York Times_) and "extraordinary vocal range" (_Westfaelische Nachrichten_). A versatile performer with a diverse repertoire and commitment to new music, Kristin is a graduate of Vancouver Opera's Yulanda M. Faris Program, where her debut as Tebaldo in _Don Carlo_ was praised as "absolutely charming in voice and person". Other credits include Dryade in _Ariadne auf Naxos_ at the prestigious Tanglewood Music Festival and the title role in _Carmen_ for Jeunesses Musicales du Canada. Equally at home on the concert stage, Kristin made her Carnegie Hall debut with the MET Chamber Ensemble in Elliot Carter's _Syringa_ as part of the composer's centennial celebration, conducted by James Levine, which garnered praise for her "searing commitment and impressive vocal command" (_The Republican_). Other engagements include the Boston Pops Symphony Orchestra, Tanglewood Symphony Orchestra, Mark Morris Dance Company, Chants Libres, Ensemble Caprice, Caramoor Festival, New York Festival of Song. Her critically-acclaimed interpretation of Ana Sokolovic's _Love Songs_, a 45-minute opera for unaccompanied solo female voice, has been seen in 8 different Canadian cities, including at the Re:Naissance Festival, Montreal's Salle Bourgie and Festival de Lanaudière.
