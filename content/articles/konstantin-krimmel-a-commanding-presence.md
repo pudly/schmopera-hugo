@@ -8,14 +8,14 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1741444941/s
 primary_image_credit = "Baritone Konstantin Krimmer has a commanding presence during his recital  of Schubert, Loewe and Vaughan Williams songs at New York's Park Avenue Armory. Photo: Park Avenue Armory - Da Ping Luo."
 publishDate = "2025-03-08T00:00:00-00:00"
 related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/michael-spyres-at-the-park-avenue-armory-big-voice-in-an-intimate-room.md"]
-related_people = ["scene/people/konstantin-krimmel.md"]
+related_people = ["scene/people/konstantin-krimmel_1.md"]
 related_companies = [""]
 short_description = "Then we discover that Krimmel has perfect diction. It's a gift to the high born German texts of the Schubert and Loewe songs. They come through with a clarity that at key moments virtually eliminate the need for translation."
 slug = "konstantin-krimmel-a-commanding-presence"
 title = "Konstantin Krimmel: a commanding presence"
 
 +++
-The first thing we notice about baritone [Konstantin Krimmel](/scene/people/konstantin-krimmel/) is his commanding presence. He engulfs his audience with an emotional and vocal assurance that mines the very essence of this beautifully curated program of songs by Franz Schubert, Carl Loewe and Ralph Vaughan Williams.
+The first thing we notice about baritone Konstantin Krimmel is his commanding presence. He engulfs his audience with an emotional and vocal assurance that mines the very essence of this beautifully curated program of songs by Franz Schubert, Carl Loewe and Ralph Vaughan Williams.
 
 Then we discover that Krimmel has perfect diction. It's a gift to the high born German texts of the Schubert and Loewe songs. They come through with a clarity that at key moments virtually eliminate the need for translation. Even the English texts of Robert Louis Stevenson employed by Vaughan Williams in his _Songs of Travel_, often diminished in transition to operatic voice, sounded exactly as they should, bucolic, folkloric and seeped in nature.
 
