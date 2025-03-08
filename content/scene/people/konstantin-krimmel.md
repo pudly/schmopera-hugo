@@ -2,10 +2,10 @@
 date = "2025-03-08T00:00:00-00:00"
 discipline = "Baritone"
 lastmod = "2025-03-08T00:00:00-00:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1741103211/sqPrixGoyer_KristinHoffheadshot_g913xp.jpg"
-primary_image_credit = ""
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1741447772/sqKonstatinKrimmel_hk1hel.jpg"
+primary_image_credit = "Florian Huber."
 publishDate = "2025-03-08T00:00:00-00:00"
-related_companies = ["scene/companies/deutsche-oper-berlin.md"]
+related_companies = ["scene/companies/deutsche-oper-berlin.md", "scene/companies/bayerische-staatsoper.md"]
 slug = "konstantin-krimmel"
 title = "Konstantin Krimmel"
 website = "https://konstantinkrimmel.com/"
