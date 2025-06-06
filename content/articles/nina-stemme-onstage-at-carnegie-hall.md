@@ -12,7 +12,7 @@ related_people = ["scene/people/nina-stemme.md"]
 related_companies = [""]
 short_description = ""
 slug = "nina-stemme-onstage-at-carnegie-hall"
-title = "Nina Stemme osntage at Carnegie Hall"
+title = "Nina Stemme onstage at Carnegie Hall"
 
 +++
 We were not expecting Nina Stemme to open her recital with an Elgar song cycle. Yet this illustrious Wagnerian soprano chose _Sea Pictures_, Op. 37, a rarity for the composer and a surprising departure from the Stemme repertoire.
