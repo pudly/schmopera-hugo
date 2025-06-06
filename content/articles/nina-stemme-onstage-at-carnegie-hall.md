@@ -10,7 +10,7 @@ publishDate = "2025-06-06T00:00:00-00:00"
 related_articles = ["articles/talking-with-singers-matthew-polenzani.md", "articles/michael-spyres-at-the-park-avenue-armory-big-voice-in-an-intimate-room.md"]
 related_people = ["scene/people/nina-stemme.md"]
 related_companies = [""]
-short_description = ""
+short_description = " Perhaps it was a collectively held breath at the sounds of the distant and desolate notes of the Liszt-transcribed Liebestod. Such is the magic of a soprano who can conjure Isolde's hallucinatory and surreal musing with emotional conviction. It is perhaps the most complicated and woeful moment in song. Yet Stemme and Pöntinen found clarity in the fog and guided us to its stunning conclusion."
 slug = "nina-stemme-onstage-at-carnegie-hall"
 title = "Nina Stemme onstage at Carnegie Hall"
 
