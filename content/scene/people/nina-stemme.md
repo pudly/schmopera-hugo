@@ -2,7 +2,7 @@
 date = "2015-05-25T22:01:00-04:00"
 discipline = "Soprano"
 lastmod = "2015-05-25T22:03:00-04:00"
-primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1549934452/media/2019/02/NinaStemmeNedaNavaee2.jpg"
+primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1749158610/Nina-Stemme-by-Neda-Navaee-3-scaled_q2nzd6.jpg"
 primary_image_credit = "Neda Navaee"
 publishDate = "2015-05-25T22:03:00-04:00"
 related_companies = ["scene/companies/the-metropolitan-opera.md", "scene/companies/opernhaus-zurich.md", "scene/companies/bayerische-staatsoper.md", "scene/companies/wiener-staatsoper.md", "scene/companies/opra-national-de-paris.md", "scene/companies/teatro-alla-scala.md", "scene/companies/san-francisco-opera.md", "scene/companies/houston-grand-opera.md", "scene/companies/royal-opera-house.md"]
