@@ -2,7 +2,7 @@
 discipline = "Soprano"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1750261687/Kathryn_Lewek_credit_Simon_Pauly_p1jq0x.jpg"
 primary_image_credit = "Simon Pauly."
-related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/english-national-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/houston-grand-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/teatro-alla-scala.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/washington-national-opera.md", "scene/companies/nashville-opera.md, "scene/companies/los-angeles-opera.md"]
+related_companies = ["scene/companies/welsh-national-opera.md", "scene/companies/english-national-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/houston-grand-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/teatro-alla-scala.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/washington-national-opera.md", "scene/companies/nashville-opera.md", "scene/companies/los-angeles-opera.md"]
 slug = "kathryn-lewek"
 title = "Kathryn Lewek"
 website = "https://www.kathrynlewek.com/"
