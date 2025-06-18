@@ -10,7 +10,7 @@ publishDate = "2025-06-18T00:00:00-00:00"
 related_articles = ["articles/talking-with-singers-lisette-oropesa/", "articles/aria-guides-cortigiani-vil-razza-dannata/", "articles/great-music-distracting-sexuality-rigoletto/"]
 related_people = ["scene/people/quinn-kelsey.md", "scene/people/lisette-oropesa.md", "scene/people/peixin-chen.md"]
 related_companies = ["scene/companies/los-angeles-opera.md"]
-short_description = "My favorite, "Cortigiani, vil razza dannata", left me in tears, as it was meant to; Kelsey allowed his voice and his dramatic performance to move through all the ranges of Rigoletto's emotions, ending with a simple heartbreaking plea, on his knees, for the return of his daughter."
+short_description = "My favorite, 'Cortigiani, vil razza dannata', left me in tears, as it was meant to; Kelsey allowed his voice and his dramatic performance to move through all the ranges of Rigoletto's emotions, ending with a simple heartbreaking plea, on his knees, for the return of his daughter."
 slug = "review-la-operas-tear-jerking-star-studded-world-class-rigoletto"
 title = "Review: LA Opera's tear-jerking, star-studded, world-class Rigoletto"
 
