@@ -5,7 +5,7 @@ lastmod = "2015-04-18T18:49:00-04:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1750261687/Quinn_Kelsey_PC-Dario-Acosta-2_l2esoj.jpg"
 primary_image_credit = "Dario Acosta."
 publishDate = "2015-04-18T18:49:00-04:00"
-related_companies = ["scene/companies/opernhaus-zurich.md", "scene/companies/welsh-national-opera.md", "scene/companies/english-national-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/houston-grand-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/teatro-alla-scala.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/washington-national-opera.md", "scene/companies/nashville-opera.md, "scene/companies/los-angeles-opera.md", "scene/canadian-opera-company.md"]
+related_companies = ["scene/companies/opernhaus-zurich.md", "scene/companies/welsh-national-opera.md", "scene/companies/english-national-opera.md", "scene/companies/wiener-staatsoper.md", "scene/companies/houston-grand-opera.md", "scene/companies/lyric-opera-of-chicago.md", "scene/companies/teatro-alla-scala.md", "scene/companies/lyric-opera-of-kansas-city.md", "scene/companies/the-metropolitan-opera.md", "scene/companies/royal-opera-house.md", "scene/companies/washington-national-opera.md", "scene/companies/nashville-opera.md", "scene/companies/los-angeles-opera.md", "scene/canadian-opera-company.md"]
 slug = "quinn-kelsey"
 title = "Quinn Kelsey"
 +++
