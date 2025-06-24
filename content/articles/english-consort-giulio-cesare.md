@@ -27,13 +27,13 @@ Nicola Haym, Handel's librettist and long time collaborator, skillfully balanced
 
 Presented as an opera in concert, Bicket's group is costumed in sleek evening attire with just enough flourish to suggest their characters. Their constant movement, energetic, expressive and at moments a little zany, is invigorating.
 
-Cleopatra, sung with wicked flair and lovely resolution by soprano, [Louise Alder](/scene/people/louis-alder/), sporting a tiara and often barefoot, is quite the comic as well as seductress. Countertenor, [Christophe Dumaux](/scene/people/christophe-dumaux)'s Cesare, has the robust vocal swagger of a man whose business is conquering the world, falling in love and resolving a royal sister-brother conflict between Cleopatra and Tolomeo, along the way.
+Cleopatra, sung with wicked flair and lovely resolution by soprano, [Louise Alder](/scene/people/louise-alder/), sporting a tiara and often barefoot, is quite the comic as well as seductress. Countertenor, [Christophe Dumaux](/scene/people/christophe-dumaux)'s Cesare, has the robust vocal swagger of a man whose business is conquering the world, falling in love and resolving a royal sister-brother conflict between Cleopatra and Tolomeo, along the way.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1750726830/Cesare_CH11540986_nxtjlg.jpg){{% /md %}}
 <figcaption>Countertenors Christophe Dumaux as Cesare and John Holiday as Cleopatra's brother, Tolomeo with Artistic Director and Conductor, Harry Bicket at the harpsichord. Photo: Fadi Kheir</figcaption>
 </figure>
 
-Conversely Beth Taylor, singing the noble Cornelia, wife of Pompey who was slain by Tolomeo's men as a tribute to Cesare (Cesare respected his rival) and Paula Murrihy as her son Sesto, are for the most part bound by their grief and desire for justice. The relative stillness of these fine mezzo sopranos evokes the indignities and suffering imposed by Tolomeo.
+Conversely [Beth Taylor](/scene/people/beth-taylor/), singing the noble Cornelia, wife of Pompey who was slain by Tolomeo's men as a tribute to Cesare (Cesare respected his rival) and [Paula Murrihy](/scene/people/paula-murrihy) as her son Sesto, are for the most part bound by their grief and desire for justice. The relative stillness of these fine mezzo sopranos evokes the indignities and suffering imposed by Tolomeo.
 
 Sung with campy abandon by countertenor, [John Holiday](/talking-with-singers-john-holiday/), his Tolomeo is a scene-stealing divo, edgy and pompous, whose obsequious charm is laced with poison. Hearing Holiday and Dumaux have at it is a reminder that Handel was a master of vocal effect.
 
