@@ -39,11 +39,11 @@ Complex and conflicting emotions reigned throughout van den Heever's program. In
 <figcaption>Soprano Elza van den Heever and music director Yannick Nézet-Séguin share a rapturous moment during their performance of five Strauss songs. Photo: Chris Lee.</figcaption>
 </figure>
 
-Strauss may have given in to his tone-poem impulses when providing a tempestuous orchestration against the plaintive text of "Cäcilie", Heinrich Hart's poem of rejected love. Nonetheless the results were compelling with van der Heever easily taking her anguish above the sumptuous orchestra playing that accompanied her throughout the Strauss set. Van den Heever's renditions of these often performed songs stand out for their clarity and contrasting emotional range.
+Strauss may have given in to his tone-poem impulses when providing a tempestuous orchestration against the plaintive text of "Cäcilie", Heinrich Hart's poem of rejected love. Nonetheless the results were compelling with van den Heever easily taking her anguish above the sumptuous orchestra playing that accompanied her throughout the Strauss set. Van den Heever's renditions of these often performed songs stand out for their clarity and contrasting emotional range.
 
 This was the MET Orchestra's first performance of _Ein Heldenleben_. Delicacy and bombast strode hand in hand as they astonished with their surmounting of its dizzying transitions. Virtuoso playing came from every section of the orchestra and concertmaster, David Chan's prolonged and masterly solo work was precise and thrilling. Nézet-Séguin conducted with an assurance that coaxed, calmed and commanded his orchestra throughout this concert showpiece.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1751983579/Elza_CH11561723_q5qqzo.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1752154769/Elza_CH11561721resized_d6bey3.jpg){{% /md %}}
 <figcaption>Concertmaster David Chan provided extensive solo work in Ein Heldenleben, and was celebrated by the MET Orchestra on the occasion of his 25th season with the ensemble. Photo: Chris Lee.</figcaption>
 </figure>
 
