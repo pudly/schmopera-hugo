@@ -8,7 +8,7 @@ primary_image_credit = "Dario Acosta."
 publishDate = "2025-09-21T00:00:00-00:00"
 related_companies = [""]
 related_people = ["scene/people/erin-morley.md", "scene/people/lawrence-brownlee.md"]
-short_description = ""
+short_description = "It is, in all seriousness, a consistent breath of spring, and yes, like many an opera, it's full of sunshine and showers."
 slug = "golden-age-an-exception-to-the-rule"
 title = "Golden Age: An Exception to the Rule"
 +++
