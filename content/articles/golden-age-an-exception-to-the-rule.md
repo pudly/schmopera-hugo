@@ -26,7 +26,7 @@ Morley and Lawrence provide strategically placed solos among their duets. This i
 
 The duo performs Bizet's "lls verront si je mens!" repleat with a resolutely sung mad scene by Morley, in which she emphasizes technique and dramatic balance over histrionics. Brownlee's sad foreboding, in which his vibrant tenor sinks with silky assurance into mournful resignation, completes the picture.
 
-The tenor’s solo, Donizetti's "Di Mia patria o bel soggiorno," the lament of an unfortunate Venetian Doge, sounds a bit pinched in the high notes. Otherwise his characters journey from anger to forgiveness in route to his execution, is met with impressive ease.
+The tenor’s solo, Donizetti's "Di Mia patria o bel soggiorno," the lament of an unfortunate Venetian Doge, sounds a bit pinched in the high notes. Otherwise his character's journey from anger to forgiveness in route to his execution, is met with impressive ease.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1758489339/courtesy_Ivan_Repusic_tparkn.jpg){{% /md %}}
 <figcaption>Ivan Repulsic conducts the Münchner Rundfunkorchester on the Pentatone recording of Golden Age featuring Erin Morley and Lawrence Brownlee. Photo courtesy of Ivan Repulsic.</figcaption>
