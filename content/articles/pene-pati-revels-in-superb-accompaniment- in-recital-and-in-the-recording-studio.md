@@ -11,7 +11,7 @@ related_companies = ["scene/companies/san-diego-opera.md", "scene/companies/the-
 related_people = ["scene/people/pene-pati.md"]
 short_description = "Happily and with considerable elan, Pati traverses the collection, expressing passion, melancholy and joy (with a particular emphasis on joy) to create a charming and irresistible listening experience."
 slug = "pene-pati-revels-in-superb-accompaniment-in-recital-and-the-recording-studio"
-title = "Pene Pati revels in superb accompaniment -- in recital and the recording studio"
+title = "Pene Pati revels in superb accompaniment — in recital and the recording studio"
 +++
 [Pene Pati](/scene/people/pene-pati/)'s recent recital at the Park Avenue Armory and his newly released recording of Neapolitan songs have one thing in common: superb accompaniment. Ronny Michael Greenberg at the recital piano and the baroque orchestra II Pomo d'Oro in the recording studio provide vibrant, dramatic, and consummately supportive playing for this energetic Samoan tenor. His relationship to the music in each medium, however, differed in the extreme.
 
