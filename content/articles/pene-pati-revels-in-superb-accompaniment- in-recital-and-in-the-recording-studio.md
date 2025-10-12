@@ -9,7 +9,7 @@ primary_image_credit = "Pianist Ronny Michael Greenberg and tenor Pene Pati. Pho
 publishDate = "2025-10-11T00:00:00-00:00"
 related_companies = ["scene/companies/san-diego-opera.md", "scene/companies/the-metropolitan-opera.md"]
 related_people = ["scene/people/pene-pati.md"]
-short_description = ""
+short_description = "Happily and with considerable elan, Pati traverses the collection, expressing passion, melancholy and joy (with a particular emphasis on joy) to create a charming and irresistible listening experience."
 slug = "pene-pati-revels-in-superb-accompaniment-in-recital-and-the-recording-studio"
 title = "Pene Pati revels in superb accompaniment -- in recital and the recording studio"
 +++
@@ -25,7 +25,7 @@ In the Armory's intimate Board of Officers Room Pati opened with Fauré's _Poems
 
 "Invitation to journey", Duparc's expression of decadence and desire with a distinct _Liebestode_ vibe, followed with much the same results. Filling the room with nicely articulated French and confident sound seemed Pati's goal, which he achieved at the cost of emotional involvement. The composer's "Phidylé", a haunting collision of the exotic and erotic, a true dramatic set-piece, was perhaps the evening's most profound loss.
 
-Pati greeted Lily Boulanger’s commanding songs of grief, Clearings in the sky, set to three poems by Francis Jammes, with surprising refinement. Finally Pati evoked a sense of place, both metaphoric and illusionary, singing with restraint and insight. In "Sometimes I am sad", he nailed the uncertainty and desolation of the piece and brought its delicate emotionalism to the fore.
+Pati greeted Lily Boulanger’s commanding songs of grief, _Clearings in the sky_, set to three poems by Francis Jammes, with surprising refinement. Finally Pati evoked a sense of place, both metaphoric and illusionary, singing with restraint and insight. In "Sometimes I am sad", he nailed the uncertainty and desolation of the piece and brought its delicate emotionalism to the fore.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1760232197/Photo___Festival_Napa_Valley_pqiojw.png){{% /md %}}
 
