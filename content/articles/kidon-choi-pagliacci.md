@@ -7,13 +7,13 @@ primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1760230186/K
 primary_image_credit = ""
 publishDate = "2025-10-11T00:00:00-00:00"
 related_companies = ["scene/companies/san-diego-opera.md", "scene/companies/the-metropolitan-oepra.md"]
-related_people = [""]
+related_people = ["scene/people/kidon-choi.md"]
 short_description = "'Pagliacci is about how private pain becomes public spectacle. The actors put on makeup and perform but behind the stage they are living with heartbreak and betrayal and violence,' says Choi. 'Today we see the same thing with social media. People put on a show of control and happiness but behind the scenes they feel loneliness and rejection.'"
 slug = "kidon-choi-on-pagliacci-we-watch-tragedy-like-its-entertainment"
 title = "Kidon Choi on Pagliacci: 'We watch tragedy like it's entertainment.'"
 +++
 In [San Diego Opera](/scene/companies/san-diego-opera/)'s [production of Ruggero Leoncavallo's _Pagliacci_ October 31 to
-November 2](https://www.sdopera.org/shows/pagliacci/), Korean baritone Kidon Choi sings the role of Tonio. Choi is returning to San Diego, where he was very warmly received as Sharpless in the April 2024 production of _Madame Butterfly_ with Corinne Winters and Adam Smith.
+November 2](https://www.sdopera.org/shows/pagliacci/), Korean baritone [Kidon Choi](/scene/people/kidon-choi/) sings the role of Tonio. Choi is returning to San Diego, where he was very warmly received as Sharpless in the April 2024 production of _Madame Butterfly_ with Corinne Winters and Adam Smith.
 
 I wanted to find out a little more about Choi, a young singer who is just starting out in his career. Choi graduated recently from the Metropolitan Opera's Lindemann Young Artist Development program. Since, he has performed at various opera houses in Korea and the United States, including the title role of Rigoletto at Wolf Trap Opera.
 
