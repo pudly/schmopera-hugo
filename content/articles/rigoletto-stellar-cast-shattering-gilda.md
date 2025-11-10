@@ -39,7 +39,7 @@ In any other production, this would be an amazing cast with little to critique, 
 <figcaption>Sara Dufresne as Gilda and Michael Chioldi as Rigoletto in Vancouver Opera's Rigoletto, 2025. Photo: Emily Cooper.</figcaption>
 </figure>
 
-A special mention should also go out to bass-caritone Nathan Berg as the shady Sparafucile. Despite the smaller role, Berg's vocal performance was dark and powerful, with low notes that easily cut through the orchestra and ensembles.
+A special mention should also go out to bass-baritone Nathan Berg as the shady Sparafucile. Despite the smaller role, Berg's vocal performance was dark and powerful, with low notes that easily cut through the orchestra and ensembles.
 
 The set, designed by James Rotondo was simple, but aesthetically lovely. With a map of London printed onto the floor, and projections of London city in the background, even the subtle touches of fog made the cityscape come to life. The lighting design by Gerald King was striking, and the use of small amounts of fog to highlight particular spotlights was a wonderful understatement to the action on stage. 
 
