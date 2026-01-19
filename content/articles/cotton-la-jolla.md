@@ -8,7 +8,7 @@ primary_image_credit = "J'Nai Bridges in Cotton, presented at the La Jolla Music
 publishDate = "2026-01-18T00:00:00-00:00"
 related_companies = [""]
 related_people = [""]
-short_description = ""
+short_description = "Simple staging and minimalist lighting were an intrinsic part of the presentation, adding to the gravity. Bridges was dressed in a black and white gown and both performers sang with barely any gestures."
 slug = "cotton-is-like-a-hurricane-swept-through-and-then-gone"
 title = "'Cotton is like a hurricane swept through and then gone...'"
 +++
