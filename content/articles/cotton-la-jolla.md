@@ -35,13 +35,12 @@ who came before." Bridges bright voice shone through expressive ranges that seem
 <figcaption>Justin Austin in Cotton, presented at the La Jolla Music Society in a co-production with San Diego Opera. Ken Jacques.</figcaption>
 </figure>
 
-
 "In the Night Before the Run," by Alora Young, she sang with beautiful pacing, "How do you find your way out of a field of cotton…at least in death I will never be a slave." The song cycle was about memories of pain but also survival, resilience and hope. With both Austin and Bridges, key words interspersed in their texts - torture, lynched, dead body, noose - prolonged the tension coming from the stage and riveted the audience.
 
 The meaning of cotton – its beauty, history, and the cruel suffering it has caused was evoked and re-evoked not only by the poetry and the photographs but by the lyrical beauty of the two singers' voices and their heartfelt interpretations of the songs. I could hear that I was not the only audience member holding my breath as the music rose to dramatic highs with often no resolution.
 
 Simple staging and minimalist lighting were an intrinsic part of the presentation, adding to the gravity. Bridges was dressed in a black and white gown and both performers sang with barely any gestures.
 
-A recorded video of John Dowell opened the show as he told the audience of his dreams about his  grandmother, Big Mommy, and how her stories inspired him to shoot a series of photographs on about cotton.
+A recorded video of John Dowell opened the show as he told the audience of his dreams about his  grandmother, Big Mommy, and how her stories inspired him to shoot a series of photographs about cotton.
 
 Two mirror image video screens on either side displayed the photos, which were both artistic and haunting. The photography ranged from shots of South Carolina cotton fields, dreamy close ups of cotton flakes, cotton surrealistically dotting graveyards and urban landscapes, and artistically superimposed composites. The contrast between the bright whiteness of the cotton in the photos and the dark stage was yet another striking aspect of the production.
