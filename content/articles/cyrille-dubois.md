@@ -8,7 +8,7 @@ primary_image_credit = "Haute-contre Cyrille Dubois. Photo: Olivier Lalane."
 publishDate = "2026-01-20T00:00:00-00:00"
 related_companies = [""]
 related_people = [""]
-short_description = "The extraordinary range of songs and exploration Fauré's evolution bestow "essential" status on this collection."
+short_description = "The extraordinary range of songs and exploration Fauré's evolution bestow 'essential' status on this collection."
 slug = "the-quiet-luxury-of-haute-contre-cyrille-dubois"
 title = "The 'Quiet Luxury' of haute-contre Cyrille Dubois"
 +++
