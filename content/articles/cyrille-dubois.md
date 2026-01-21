@@ -31,7 +31,7 @@ To be sure, the seamless collaboration of Dubois and Raes remains fresh and neve
 Many of Fauré’s mélodies were written for different voices, and in order for Dubois and Raës to interpret them there were cases in which new transpositions had to be adopted. While I did not compare each of their renditions with the originals (happily such changes do not avail themselves on the recording) it is apparent that harmonic colors and tonal coherence have been assiduously maintained. Where gender might be an issue, Dubois in a promotional video interview stated simply that one does not have to be a woman to tell a woman's story.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1768954789/Photo__Eric_Larrayadieu_tsverl.jpg){{% /md %}}
-<figcaption>Hate-contre, Cyrille Dubois. Photo Eric Larrayadieu.</figcaption>
+<figcaption>Haute-contre, Cyrille Dubois. Photo Eric Larrayadieu.</figcaption>
 </figure>
 
 _Jouissons de nos baeux ans!_ (_Let us enjoy our finest years!_) is a whole other matter. It's a celebration of the French Baroque in which France was a shining (albeit doomed) example of cultural and artistic refinement. The recording provides Dubois with the opportunity to present works that were written specifically for the haute contre voice.
