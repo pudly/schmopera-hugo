@@ -42,7 +42,7 @@ Yes, it is laden with Jean-Philippe Rameau but Dubois and his collaborators have
 <figcaption>Gabriel Fauré in 1909. Photo: Bibliothéque du conservatoire de Genéve.</figcaption>
 </figure>
 
-The participation of the Orfeo Orchestra, Purcell Choir and Gyorgy Vashegyi equip Dubois with first-rate partners. The recording feature independent orchestral and choral works such as Rameau's furious overture to Zaïs and the angry chorus from Pierre Iso's _Phaétuse_. This is an impressive programming giving the recording a festive and celebratory air.
+The participation of the Orfeo Orchestra, Purcell Choir and Gyorgy Vashegyi equip Dubois with first-rate partners. The recording feature independent orchestral and choral works such as Rameau's furious overture to _Zaïs_ and the angry chorus from Pierre Iso's _Phaétuse_. This is an impressive programming giving the recording a festive and celebratory air.
 
 Dubois records exclusively on the Aparte label and it is worth mentioning that these recordings add tactile as well as aural satisfaction in their "hard copy" form. It’s difficult to get one's mind around the concept of digital luxury, if there is such a thing, quiet or otherwise. But if that becomes your only alternative, you will still be rewarded.
 
