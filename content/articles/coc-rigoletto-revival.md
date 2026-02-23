@@ -40,14 +40,14 @@ Our Gilda was Sarah Dufresne (the role shared with Andriana Chuchman) and she wa
 
 Bass Peixin Chen in his COC Debut as Sparafucile was stunning. Stoic, imperious, and inherently dangerous, his boom basso beautifully bounced around the room. His scenes with Rigoletto were riveting and I almost wanted to pitch in financially to help Rigoletto out. The moment where he refuses the balance of Rigoletto's payment front and centre proving that, ironically, the assassin is the only man true to his word around here. As his sister Maddalena who lures the Duke to his doom, only to beg his pardon leading to Gilda's final tragedy, Zoie Reams was alluring and equally as dangerous as her brother.
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1771819675/25-26-03-MC-D-0660_bfpkez.jpg){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1771819677/25-26-03-MC-D-1233_xgrkwr.jpg){{% /md %}}
 <figcaption>The Canadian Opera Company's production of Rigoletto, 2026. Photo: Michael Cooper. </figcaption>
 </figure>
 
 Monterone, baritone Gregory Dahl, also gave a very moving performance. His agony at his daughter's fate and his subsequent curse on Rigoletto were as poignant dramatically as they were exquisitely sung. I've long been a fan of Dahl's, and this Monterone is no exception. COC Ensemble Studio alum Simona Genga was tender and mellifluous vocally as Giovanna. In fact, all the supporting cast members were stupendous vocally. The Cepranos were beautifully sung with Stephen Hegedus as the Count and COC Ensemble Studio member Emily Rocha. The double-crossing Marullo (Nathan Keoughan, whom I just saw pull a great turn in _Il Barbiere di Siviglia_) and Borsa, tenor Julius Ahn, were lecherous and dangerous, and definitely reminded me of some of my childhood bullies (in a good way).
 
-<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1770698992/25-26-04-MC-D-1093-1099_kfmbcx.jpg){{% /md %}}
-<figcaption>The Canadian Opera Company's production of Il barbiere di Siviglia, 2026. Photo: Michael Cooper. </figcaption>
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1771819677/25-26-03-MC-D-1052_kabebb.jpg){{% /md %}}
+<figcaption>The Canadian Opera Company's production of Rigoletto, 2026. Photo: Michael Cooper. </figcaption>
 </figure>
 
 Despite all these incredible performances there's still something about this production of _Rigoletto_ that doesn't quite line up for me. It's beautiful to listen to, the set and costume design by Michael Levine and Michael Kangas' lighting design (after Duane Schuler) is also stunning; yet somehow I feel like the direction by Christopher Alden may be relying a little too much on shock value than on storytelling. This is my second time seeing this particular production, and I did notice that the violence towards the women, which is inherent in the script and a necessary plot device for this particular narrative, was less gratuitous as the last time I saw it. 
