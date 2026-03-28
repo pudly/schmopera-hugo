@@ -26,7 +26,7 @@ But the solemnity remains unaccompanied and undermined the performances of two o
 
 Cronin, however, put aside her reticence to burn though the fast-paced Act II aria, "Ah! Think what ills the jealous prove" with power and delicacy. Here Iole attempts to convince Dejanira that she is not her husband's lover and in doing so foretells the madness that will soon consume this distraught wife.
 
-<figure data-type="image">{{% md %}}![](){{% /md %}}
+<figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1774738019/William_Guanbo_Su_Bass-Baritone_William_Termine_i6hutc.jpg){{% /md %}}
 <figcaption>Bass-baritone William Guanbo Su as Hercules with members of the English Consort and Clarion Choir. Photo: William Termine.</figcaption>
 </figure>
 
