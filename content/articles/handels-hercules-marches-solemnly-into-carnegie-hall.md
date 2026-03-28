@@ -16,7 +16,7 @@ title = "Handel's Hercules marches solemnly into Carnegie Hall"
 Last year Harry Bicket and his English Consort brought a sparkling concert performance of Handel's [_Giulio Cesare in Egitto_](/the-english-consorts-giulio-cesare-in-egitto-handel-is-the-total-package/) to town in a performance marked as much by the aforementioned sparkle as superb musicianship. This year the composer's _Hercules_ came to call in a production that reveled in its solemnity.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1774738019/Ann_Hallenberg_Mezzo-Soprano_Dejamira_Hilary_Cronin_Soprano_Iole_William_Termine_yqyeud.jpg){{% /md %}}
-<figcaption>Mezzo-soprano Ann Hallenberg as Dejamira and soprano Hilary Cronin as Iole with members of the English Consort and Clarion Choir. Photo: William Termine.</figcaption>
+<figcaption>Mezzo-soprano Ann Hallenberg as Dejanira and soprano Hilary Cronin as Iole with members of the English Consort and Clarion Choir. Photo: William Termine.</figcaption>
 </figure>
 
 This is not necessarily a fault; the oratorio was originally billed as a tragedy. Hercules dies but goes off to fraternize with his fellow gods. He leaves behind his wife, Dejanira (really the
