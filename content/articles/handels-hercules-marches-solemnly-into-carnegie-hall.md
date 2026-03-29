@@ -22,7 +22,7 @@ Last year Harry Bicket and his English Consort brought a sparkling concert perfo
 This is not necessarily a fault; the oratorio was originally billed as a tragedy. Hercules dies but goes off to fraternize with his fellow gods. He leaves behind his wife, Dejanira (really the
 work's main character) who gains insight through suffering and a son, Hyllus who finds true love with Iole, the princess conquered by Hercules. As tragedies go, this one could be worse and leaves a bit of room for levity.
 
-But the solemnity remains unaccompanied and undermined the performances of two otherwise excellent singers; mezzo-soprano Ann Hallenberg and Hilary Cronin who, respectively, sing Dejanira and Iole. Both negotiated their de capo arias and recitatives with elegance and unquestionable vocal agility but appeared to be holding back on the power needed to confirm their theatrical impact.
+But the solemnity remains unaccompanied and undermined the performances of two otherwise excellent singers; mezzo-soprano Ann Hallenberg and Hilary Cronin who, respectively, sing Dejanira and Iole. Both negotiated their da capo arias and recitatives with elegance and unquestionable vocal agility but appeared to be holding back on the power needed to confirm their theatrical impact.
 
 Cronin, however, put aside her reticence to burn though the fast-paced Act II aria, "Ah! Think what ills the jealous prove" with power and delicacy. Here Iole attempts to convince Dejanira that she is not her husband's lover and in doing so foretells the madness that will soon consume this distraught wife.
 
