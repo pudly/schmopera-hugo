@@ -9,7 +9,7 @@ publishDate = "2026-04-27T00:00:00-00:00"
 related_articles = [""]
 related_companies = [""]
 related_people = [""]
-short_description = "Fleming and Hampson are obviously a dream cast and collectively the three scenes become the classiest expression ever of the P.T. Barnum quote, "Always leave them wanting more.""
+short_description = "Fleming and Hampson are obviously a dream cast and collectively the three scenes become the classiest expression ever of the P.T. Barnum quote, 'Always leave them wanting more.'"
 slug = "renee-fleming-thomas-hampson-dream-casting-in-scenes-from-nixon-in-china"
 title = "Renée Fleming & Thomas Hampson: Dream casting in scenes from Nixon In China"
 +++
