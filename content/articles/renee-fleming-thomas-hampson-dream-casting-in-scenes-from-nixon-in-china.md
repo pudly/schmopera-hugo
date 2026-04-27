@@ -11,7 +11,7 @@ related_companies = [""]
 related_people = [""]
 short_description = "Fleming and Hampson are obviously a dream cast and collectively the three scenes become the classiest expression ever of the P.T. Barnum quote, 'Always leave them wanting more.'"
 slug = "renee-fleming-thomas-hampson-dream-casting-in-scenes-from-nixon-in-china"
-title = "Renée Fleming & Thomas Hampson: Dream casting in scenes from Nixon In China"
+title = "Fleming & Hampson: Dream casting in Nixon In China"
 +++
 The Boston Symphony Orchestra took to the Carnegie Hall stage replete with red rose boutonnières, an expression of Boston gentility perhaps or possibly solidarity with Andris Nelsons, also sporting a rose, their outgoing music director. Their time-honored burnished sound would tackle three scenes from John Adams' _Nixon In China_, arranged by Adams especially for the ensemble, before settling into Dvorak's beloved Symphony No. 9, better known as _From the New
 World_.
