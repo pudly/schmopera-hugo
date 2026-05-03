@@ -9,7 +9,7 @@ publishDate = "2026-02-09T00:00:00-00:00"
 related_articles = [""]
 related_companies = [""]
 related_people = [""]
-short_description = ""
+short_description = "The singers' ability to soar over orchestra and chorus and then combine as a unified force was emotionally gripping and astonishing in its power."
 slug = "cleveland-orchestra-carnegie-hall"
 title = "Franz Welser-Möst And The Cleveland Orchestra bring the Verdi Requiem, Mozart, and Shostakovich to Carnegie Hall"
 +++

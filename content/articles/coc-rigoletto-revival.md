@@ -9,7 +9,7 @@ publishDate = "2026-02-22T00:00:00-00:00"
 related_articles = [""]
 related_companies = ["/scene/companies/canadian-opera-company.md"]
 related_people = [""]
-short_description = ""
+short_description = "As I'd hoped, Quinn Kelsey's Rigoletto was outstanding. He seems to really be at the height of his Verdi game, and if he's not, boy am I excited to see that happen. His voice was powerful, colourful, and technically brilliant. His physicality though? That was stellar."
 slug = "big-emotions-big-voices-great-opera-rigoletto-at-the-coc"
 title = "Big emotions, big voices, great opera: Rigoletto at the COC"
 
