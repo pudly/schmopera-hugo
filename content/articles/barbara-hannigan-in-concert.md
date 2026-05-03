@@ -1,11 +1,11 @@
 +++
 author = ["authors/john-hohmann.md"]
 categories = "Review"
-date = "2026-05-02-T00:00:00-00:00"
-lastmod = "2026-05-02-T00:00:00-00:00"
+date = "2026-05-02T00:00:00-00:00"
+lastmod = "2026-05-02T00:00:00-00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1777830115/PH13GB1P_to4vi2.jpg"
 primary_image_credit = "Conductor and soprano Barbara Hannigan on podium and video screen leading Francis Poulenc's La Voix Humaine with the New York Philharmonic. Photo: Chris Lee."
-publishDate = "2026-05-02-T00:00:00-00:00"
+publishDate = "2026-05-02T00:00:00-00:00"
 related_articles = [""]
 related_companies = [""]
 related_people = ["scene/people/barbara-hannigan.md"]

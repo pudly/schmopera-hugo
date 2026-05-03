@@ -1,11 +1,11 @@
 +++
 author = ["authors/greg.md"]
 categories = "Review"
-date = "2026-05-01-T00:00:00-00:00"
-lastmod = "2026-05-01-T00:00:00-00:00"
+date = "2026-05-01T00:00:00-00:00"
+lastmod = "2026-05-01T00:00:00-00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1777830113/sq25-26-05-MC-D-1073_s8txiy.jpg"
 primary_image_credit = "Anna Gabler as The Woman and Noam Markus in the Canadian Opera Company's production of Erwartung, 2026. Conductor Johannes Debus, original director Robert Lepage, revival director François Racine, set and costume designer Michael Levine, lighting designer Robert Thomson, and media effects designer Laurie-Shawn Borzovoy. Photo: Michael Cooper."
-publishDate = "2026-05-01-T00:00:00-00:00"
+publishDate = "2026-05-01T00:00:00-00:00"
 related_articles = [""]
 related_companies = ["scene/companies/canadian-opera-company.md"]
 related_people = [""]
