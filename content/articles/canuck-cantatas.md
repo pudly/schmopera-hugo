@@ -1,11 +1,11 @@
 +++
 author = ["authors/greg.md"]
 categories = "Review"
-date = "2026-05-04-T00:00:00-00:00"
-lastmod = "2026-05-04-T00:00:00-00:00"
+date = "2026-05-04T00:00:00-00:00"
+lastmod = "2026-05-04T00:00:00-00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1777939014/sqCanuck-Cantatas_DSC02246_d0li6l.jpg"
 primary_image_credit = "Photo: Lauren Halasz."
-publishDate = "2026-05-04-T00:00:00-00:00"
+publishDate = "2026-05-04T00:00:00-00:00"
 related_articles = [""]
 related_companies = [""]
 related_people = [""]
