@@ -4,12 +4,12 @@ categories = "Review"
 date = "2026-05-11T00:00:00-00:00"
 lastmod = "2026-05-11T00:00:00-00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1778541948/sq25-26-06-MC-D-1015_pmuoug.jpg"
-primary_image_credit = "Victoria Karkacheva as Charlotte and Russell Thomas as Werther in the Canadian Opera Company's production of Werther, 2026. Photo: Michael Cooper."
+primary_image_credit = "Victoria Karkacheva as Charlotte and Russell Thomas as Werther in the Canadian Opera Company's new production of Werther, 2026. Photo: Michael Cooper."
 publishDate = "2026-05-11T00:00:00-00:00"
 related_articles = [""]
 related_companies = ["scene/companies/canadian-opera-company.md"]
 related_people = [""]
-short_description = "In the title role we have superstar American tenor Russell Thomas. He brought infallible vocals to this role. His warm yet steely timbre suited perfectly for Massenet's large romantic score. His "Pourquoi me réveiller" was a highlight of the night for sure, showing off Thomass impressive mastery of dynamics and vocal line."
+short_description = "In the title role we have superstar American tenor Russell Thomas. He brought infallible vocals to this role. His warm yet steely timbre suited perfectly for Massenet's large romantic score. His 'Pourquoi me réveiller' was a highlight of the night for sure, showing off Thomas' impressive mastery of dynamics and vocal line."
 slug = "thomas-shines-as-tortured-writer-in-cocs-werther"
 title = "Thomas shines as tortured writer in COC's Werther"
 +++
