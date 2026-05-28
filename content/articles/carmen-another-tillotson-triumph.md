@@ -9,11 +9,11 @@ publishDate = "2026-05-28T00:00:00-00:00"
 related_articles = [""]
 related_companies = ["scene/companies/regina-opera.md"]
 related_people = [""]
-short_description = ""
+short_description = "Her strong, sexy, independent – even feminist – rendition of Georges Bizet's titular character was as great as you will find on any opera stage. First and foremost, Ms. Tillotson is an actress, who doesn't rest on the laurels of her vocal gifts (which are prodigious)."
 slug = "carmen-another-tillotson-triumph"
 title = "Carmen: another Tillotson triumph"
 +++
-If you're going to present _Carmen_, you'd better have a great Carmen. Regina Opera, blessed with the talents of Lara Michole Tillotson, indeed had just that. Ms. Tillotson, who has driven the success of Regina Opera’s productions of _The Medium_ (as Madam Flora) and _Il trovatore_ (delivering one of the all-time great renditions of "Stride la vampa") once again triumphed here. Her strong, sexy, independent – even feminist – rendition of Georges Bizet's titular character was as great as you will find on any opera stage. First and foremost, Ms. Tillotson is an actress, who doesn't rest on the laurels of her vocal gifts (which are prodigious.) Another requirement for the role is to be a convincing dancer and here, again, Ms. Tillotson more than fills the bill.
+If you're going to present _Carmen_, you'd better have a great Carmen. Regina Opera, blessed with the talents of Lara Michole Tillotson, indeed had just that. Ms. Tillotson, who has driven the success of Regina Opera’s productions of _The Medium_ (as Madam Flora) and _Il trovatore_ (delivering one of the all-time great renditions of "Stride la vampa") once again triumphed here. Her strong, sexy, independent – even feminist – rendition of Georges Bizet's titular character was as great as you will find on any opera stage. First and foremost, Ms. Tillotson is an actress, who doesn't rest on the laurels of her vocal gifts (which are prodigious). Another requirement for the role is to be a convincing dancer and here, again, Ms. Tillotson more than fills the bill.
 
 _Carmen_ is, of course, a perfect show on paper; the libretto and score are true partners. Every scene and musical moment is memorable; nothing is perfunctory or wasted.
 
