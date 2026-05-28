@@ -9,8 +9,7 @@ publishDate = "2026-05-28T00:00:00-00:00"
 related_articles = [""]
 related_companies = ["scene/companies/heartbeat-opera.md"]
 related_people = [""]
-short_description = "We learn that every character has a shadow self, hiding secrets.
-Director Schlather keeps staging to a minimum; in fact, everyone walks in a slow, stylized movement, allowing their shadows to slowly follow."
+short_description = "We learn that every character has a shadow self, hiding secrets. Director Schlather keeps staging to a minimum; in fact, everyone walks in a slow, stylized movement, allowing their shadows to slowly follow."
 slug = "vanessa-a-shadow-play-revival"
 title = "Vanessa: a shadow play revival"
 +++
