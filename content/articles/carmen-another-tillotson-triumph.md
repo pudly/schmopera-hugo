@@ -27,7 +27,7 @@ The story is about the conflict between lust and love, or lust and obsession, an
 <figcaption>Yeawon Jun as Micaela and Jax Hassler as Don José in Carmen, Regina Opera, 2026. Photo: Wayne N. Olsen.</figcaption>
 </figure>
 
-The great scenes carefully created by composer Bizet and librettists Meilhac and Halevy, were all there. Yeawon Jun, as the sad, jilted Micaela delivered a lovely "Je dis que rien ne m'épouvante". The famous Act II "Quintet" with its rapid turn-taking between soprano (Veronica Mak), mezzos (Ms. Tillotson and Manya Gaver-Holmes,) baritone (Keunwon Park) and tenor (Thibault Courtois) was adroit and flawless and prompted one of the biggest ovations in the program. And Seoyong Lee as Escamillo commanded the stage during his toreador song ("Votre toast, je peux vous le rendre").
+The great scenes carefully created by composer Bizet and librettists Meilhac and Halevy, were all there. Yeawon Jun, as the sad, jilted Micaela delivered a lovely "Je dis que rien ne m'épouvante". The famous Act II "Quintet" with its rapid turn-taking between soprano (Veronica Mak), mezzos (Ms. Tillotson and Manya Gaver-Holmes,) baritone (Keunwon Park) and tenor (Thibault Courtois) was adroit and flawless and prompted one of the biggest ovations in the program. And Seoyong Lee as Escamillo commanded the stage during his Toreador song ("Votre toast, je peux vous le rendre").
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1779994393/PERFORMANCE.Still017_w5oefv.jpg){{% /md %}}
 <figcaption>A scene from Regina Opera's Carmen, 2026. Photo: Wayne N. Olsen.</figcaption>
