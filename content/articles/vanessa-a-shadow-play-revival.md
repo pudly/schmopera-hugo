@@ -64,18 +64,19 @@ Baritone Joshua Jeremiah as the Doctor is an admirable singer and is both tender
 Together Ms. Dukach, Ms. Lauritano, Mr. Ballentine, Ms. Phillips and Mr. Jeremiah prove to be a brilliant blend in the famous, heart-breaking Quintet near the end of the show, featuring Barber's lingering melody sung 'in the round' with Menotti's simple poetry:
 
 "To leave, to break,
+
 to find, to keep,
+
 to stay, to wait,
+
 to hope, to dream,
+
 to weep and remember.
+
 To love is all of this and none of it is love."
 
 Interspersed, Menotti has written vocal lines explaining what will happen to each character after the curtain descends. None have heeded Anatol's (and Menotti's) advice from earlier in the show:
 
 "Love has a bitter core…do not taste too deep."
-
-<figure data-type="image">{{% md %}}![](){{% /md %}}
-<figcaption> in Heartbeat Opera's production of Vanessa, 2026. Photo: Maria Baranova.</figcaption>
-</figure>
 
 _Note: Last year, Heartbeat Opera's production of Vanessa became the first opera ever to be developed at Williamstown Theatre Festival._
