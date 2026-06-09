@@ -20,7 +20,7 @@ In addition, Dan Schlosberg, with his spare but rich arrangements for only seven
 Barber only wrote three operas; the first as a child and the last, problematic. But in between he composed the stunning and moving score of _Vanessa_ (with a libretto by his longtime collaborator Gian Carlo Menotti).
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1779996082/Mary_Phillips_as_the_Baroness_Freddie_Ballentine_as_Anatol_Kelsey_Lauritano_as_Erika_Inna_Dukach_as_Vanessa_photo_by_Russ_Rowland_-_8886_zxfztq.jpg){{% /md %}}
-<figcaption>Mary Phillips as teh Baroness, Freddie Ballentine as Anatol, Kelsey Lauritano as Erika, and Inna Dukach as Vanessa in Heartbeat Opera's production of Vanessa, 2026. Photo: Maria Baranova.</figcaption>
+<figcaption>Mary Phillips as the Baroness, Freddie Ballentine as Anatol, Kelsey Lauritano as Erika, and Inna Dukach as Vanessa in Heartbeat Opera's production of Vanessa, 2026. Photo: Russ Rowland.</figcaption>
 </figure>
 
 Though Barber was awarded the Pulitzer Prize and a premiere at the Met shortly after it was written, _Vanessa_ is seldom revived. This is surprising because it checks all the boxes: there are plenty of beautiful, memorable airs (from the romantic composer of _Adagio for Strings_) and also plenty of dissonance to satisfy proponents of "new" opera who eschew anything that sounds melodic. It is, in fact, Barber's blend of the classical and avant-garde that makes many of his compositions truly original works of art.
@@ -46,7 +46,7 @@ Dame Kiri Tekanawa and others have played the title role of Vanessa, and while a
 Soprano Inna Dukach, as Vanessa, is certainly convincing in those aspects of the titular character and her passions are well-played. Also impressive are her effortless, sustained diminuendo at the end of very emotional phrases.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1779996083/Joshua_Jeremiah_as_the_Doctor_photo_by_Russ_Rowland_-_9331_jo785x.jpg){{% /md %}}
-<figcaption>Joshua Jeremiah as the Doctor in Heartbeat Opera's production of Vanessa, 2026. Photo: Maria Baranova.</figcaption>
+<figcaption>Joshua Jeremiah as the Doctor in Heartbeat Opera's production of Vanessa, 2026. Photo: Russ Rowland.</figcaption>
 </figure>
 
 Mezzo Kelsey Lauritano, as Erika, carries the emotional load for the evening, experiencing loneliness, passion, confusion, heartbreak and resignation. We feel all of that thanks to Ms. Lauritano, who is that rare combination of great singer and great actress. The most famous aria from the opera "Must the Winter Come So Soon?" proves to be one of Ms. Lauritano's finest moments as she sets the table for the evening with a particularly poignant rendition. 
