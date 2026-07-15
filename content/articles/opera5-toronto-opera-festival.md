@@ -10,8 +10,8 @@ related_articles = [""]
 related_companies = ["scene/companies/opera-5.md"]
 related_people = [""]
 short_description = "Livingston's score is another incredible example of her creativity. Scored for soloists, choir and percussion ensemble, the piece is at times lyrical and times modal. TorQ Percussion Ensemble, led by music director Evan Mitchell, brought to life a vivid tapestry of sounds to score this production."
-slug = "Opera 5 impresses at Toronto Opera Festival"
-title = "opera-5-impresses-at-toronto-opera-festival"
+slug = "opera-5-impresses-at-toronto-opera-festival"
+title = "Opera 5 impresses at Toronto Opera Festiva"
 +++
 Hey there, Schmop-Tops! 
 
