@@ -50,7 +50,7 @@ Brenna Corner's direction did little to compensate. Too often, the staging relie
 That is particularly damaging in _Tosca_, an opera in which physical relationships matter enormously. Who controls the action? Who is moving the pieces? Can the protagonists escape? Scarpia’s manipulation of Tosca should feel threatening and inescapable, and Tosca and Cavaradossi’s encounters should establish an intimacy that makes their sacrifices meaningful and heartbreaking. When stage movement lacks that underlying purpose, much of Puccini’s carefully constructed tension dissipates.
 
 <figure data-type="image">{{% md %}}![](https://res.cloudinary.com/schmopera/image/upload/v1793400494/Tosca_0411_ukwu7u.jpg)
-<figcaption>Gregory Dahl as Baron Scarpia and  Joyce El-Khoury as Toscain Vancouver Opera's 2026 production of Tosca. Photos by Emily Cooper.</figcaption>
+<figcaption>Gregory Dahl as Baron Scarpia and Joyce El-Khoury as Tosca in Vancouver Opera's 2026 production of Tosca. Photos by Emily Cooper.</figcaption>
 </figure>
 
 There was nevertheless much to admire. The production looked gorgeous, the chorus was thrilling, and the scale of Vancouver Opera's musical forces served Puccini well.
